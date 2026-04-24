@@ -1,6 +1,6 @@
 [translation]
 1013903-1 = "Niko's Shopping"
-1013903-2 = "(That evening. I headed to the designated meeting place to help with the operation.)"
+1013903-2 = "(That evening, I headed to the designated meeting place to help with the#noperation.)"
 1013903-3 = "(Since I was told it was an SRT special operation, I braced myself for a dangerous#nlocation, but...)"
 1013903-8 = "(...The designated spot was just a regular large supermarket.)"
 1013903-9 = "[ns1] \"Umm, Niko...\"\n[ns2] \"...Where exactly are we?\""
@@ -27,7 +27,7 @@
 1013903-53 = "What was that... just now!? Those movements...!"
 1013903-54 = "That girl... she weaved through the crowd flawlessly and snatched up#na huge carrot!?"
 1013903-55 = "It's hard to tell the shape of carrots with dirt on them unless you look closely...#nhow does she have such reflexes...!?"
-1013903-60 = "Carrots with dirt on them are known to be fresher...#but that makes it harder to judge their quality by colors"
+1013903-60 = "Carrots with dirt on them are known to be fresher...#nbut that makes it harder to judge their quality by colors"
 1013903-61 = "At times like that, you check the stem—do that, and you can tell how fresh it is#nat a glance."
 1013903-62 = "[s5] \"A-Amazing...\"\n[s6] \"And here I was struggling just to push my way through that crowd...\""
 1013903-65 = "Hehe. Compared to our usual operations, it is not that difficult."
