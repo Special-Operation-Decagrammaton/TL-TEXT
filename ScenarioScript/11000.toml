@@ -1,287 +1,144 @@
 [translation]
 11000-5 = "[FF6666]...Desejamos sete [-][ruby=nage][FF6666] lamento[-][/ruby][FF6666] desejos. [-]"
-
 11000-7 = "[FF6666]...Lembramos a [-][ruby=koku][FF6666]velha regra[-][/ruby][FF6666] de Jericho. [-]"
-
 11000-10 = "Aprovação da senha de conexão."
-
-11000-13 = "Bem-vindo à "Caixa de Shittim", Sr. [NOME DE USUÁRIO]."
-
+11000-13 = "Bem-vindo à \"Caixa de Shittim\", Sr. [NOME DE USUÁRIO]."
 11000-36 = "... Foi meu erro."
-
 11000-37 = "Minhas escolhas, e toda essa situação que levou a elas."
-
 11000-45 = "No final, só quando chegar a esse resultado é que você perceberá que estava certo..."
-
 11000-50 = "...Pode parecer descarado agora, mas por favor."
-
 11000-51 = "[NOME DE USUÁRIO] Professor."
-
 11000-52 = "Você provavelmente vai esquecer o que eu disse, mas tudo bem."
-
 11000-53 = "Mesmo que você não consiga se lembrar de nada, provavelmente estaria na mesma situação e faria a mesma escolha..."
-
 11000-56 = "Então... não é a experiência que importa, é a escolha."
-
 11000-57 = "Muitas escolhas que só você pode fazer."
-
 11000-71 = "Já conversamos sobre quem é o responsável."
-
 11000-72 = "Eu não entendia naquela época, mas... entendo agora."
-
 11000-73 = "Responsabilidades e deveres como adulto. E sua escolha foi uma extensão disso."
-
 11000-74 = "O coração que isso significa também é."
-
 11000-75 = "……."
-
 11000-76 = "Portanto, senhor."
-
 11000-77 = "Se você é um adulto em quem posso confiar,"
-
 11000-78 = "Este [ruby=ne]torção[/ruby]destino torcido e distorcido é um resultado diferente..."
-
 11000-79 = "Tenho certeza que você encontrará uma opção que o levará até lá."
-
 11000-82 = "Então, professor, por favor..."
-
 11000-85 = "……estômago."
-
 11000-86 = "...Professor, por favor, acorde."
-
 11000-87 = "[NOME DE USUÁRIO] Professor! !"
-
 11000-89 = "Sala/Saguão do Conselho Estudantil da Federação"
-
 11000-91 = "……."
-
 11000-92 = "[s] \"...?\""
-
 11000-93 = "少々待っていてくださいと言いましたのに、お疲れだったみたいですね。#nなかなか起きないほど熟睡されるとは。"
-
 11000-94 = "...Parece que fui visto em um sonho. Por favor, acorde e concentre-se."
-
 11000-95 = "Mais uma vez, gostaria de falar sobre a situação atual."
-
 11000-96 = "Meu nome é [ruby=Nanagami]Nanagami[/ruby]Rin e sou membro do Conselho Estudantil da Federação na cidade acadêmica de Kivotos."
-
 11000-97 = "E você provavelmente é o professor que chamamos aqui..."
-
 11000-98 = "...... ah. A razão pela qual falei de forma especulativa é porque não sei os detalhes de como você veio aqui."
-
 11000-99 = "……."
-
 11000-100 = "Você está confuso, não está? Eu entendo."
-
 11000-101 = "Eu [ruby=Lamento][/ruby] que esta situação tenha surgido. Mas por enquanto, por favor, siga-me."
-
 11000-102 = "Existem algumas coisas que você absolutamente deve pedir ao seu professor para fazer."
-
 11000-103 = "……."
-
 11000-104 = "Vamos chamar isso de um assunto importante que afetará o destino da Cidade Acadêmica..."
-
 11000-106 = "[ns] Siga-me."
-
 11000-111 = "Wiiiiiiiin---"
-
 11000-114 = "Bem-vindo ao Kivotos. professor."
-
 11000-115 = "Kivotos é uma enorme cidade universitária composta por milhares de escolas. É aqui também que o professor trabalhará a partir de agora."
-
 11000-116 = "Tenho certeza que as coisas serão diferentes de onde você estava, então você pode ter dificuldade em se acostumar no começo..."
-
 11000-117 = "Mas se você é professor, provavelmente não precisa se preocupar tanto."
-
 11000-118 = "O Presidente do Conselho Estudantil da Federação é aquele que você escolheu."
-
 11000-119 = "...Explicarei isso mais tarde."
-
 11000-120 = "(Queixo)"
-
 11000-122 = "sala de recepção"
-
 11000-123 = "(barulhento……)"
-
 11000-124 = "espere um minuto! Agência! Encontrei, estava esperando por isso! Ligue para o Presidente do Conselho Estudantil da Federação!"
-
 11000-125 = "……Sim? E o adulto ao lado?"
-
 11000-126 = "Diretor administrativo. Estávamos esperando por você."
-
 11000-127 = "Vim ver o Presidente do Conselho Estudantil da Federação. Solicita-se ao Presidente da Comissão Disciplinar que dê uma resposta convincente sobre a situação atual."
-
 11000-130 = "Ah... fui pego por algumas pessoas problemáticas."
-
 11000-131 = "Olá, a todos os conselhos estudantis, comitês de disciplina e outros que vieram de suas respectivas escolas para visitar aqui."
-
 11000-132 = "Tenho tanto tempo livre... entendo perfeitamente porque pessoas importantes vieram aqui me visitar."
-
 11000-133 = "Para responsabilizá-lo pelo caos que está acontecendo na Cidade Acadêmica agora... certo?"
-
 11000-134 = "Se você sabe tanto, faça alguma coisa! É o Conselho Estudantil da Federação!"
-
 11000-135 = "Milhares de distritos escolares autônomos estão um caos! Outro dia, o parque eólico da nossa escola fechou!"
-
 11000-137 = "Houve também a informação de que alguns estudantes suspensos do Serviço Correcional Federal haviam fugido."
-
 11000-138 = "A frequência com que delinquentes como sukeban atacam estudantes no caminho para a escola aumentou rapidamente recentemente. #nEstá se tornando difícil manter a ordem pública."
-
 11000-139 = "A distribuição ilegal de armas de origem desconhecida, como tanques e helicópteros, também aumentou mais de 2.000%. #nIsso irá atrapalhar a vida escolar normal."
-
 11000-141 = "……."
-
 11000-142 = "O que o Presidente do Conselho Estudantil da Federação está fazendo em uma situação como esta? Por que você não me vê há semanas? #nDeixe-me conhecê-lo agora!"
-
 11000-143 = "……."
-
 11000-144 = "O Presidente do Conselho Estudantil da Federação não está atualmente em seu cargo. Para ser sincero, perdi a noção."
-
 11000-146 = "……foto! ?"
-
 11000-147 = "...! !"
-
 11000-148 = "Como esperado, esse boato é..."
-
 11000-150 = "Concluindo, desde que o administrador final da Torre Sanctum se foi, o atual Conselho Estudantil da Federação perdeu seu controle administrativo."
-
 11000-151 = "Eu estava procurando uma maneira de ignorar a autenticação, mas até recentemente não havia encontrado nenhum método desse tipo."
-
 11000-152 = "Então agora há uma maneira, Chefe do Executivo?"
-
 11000-153 = "sim."
-
 11000-154 = "Este professor deve ser seu fixador."
-
 11000-156 = "! ?"
-
 11000-157 = "!"
-
 11000-158 = "Isso é melhor?"
-
 11000-159 = "[s] \"Eu?\""
-
 11000-160 = "espere um minuto. Aliás, quem diabos é esse professor? Por que você está aqui?"
-
 11000-161 = "Parece que ele veio de outro lugar que não Kivotos... mas ele era professor."
-
 11000-163 = "sim. Este professor [NOME DE USUÁRIO] é a pessoa que trabalhará como professor na Kivotos a partir de agora e foi especialmente nomeado pelo Presidente do Conselho Estudantil da Federação."
-
 11000-164 = "Nomeado pelo desaparecido Presidente do Conselho Estudantil da Federação...? Está ficando cada vez mais confuso, não é?"
-
 11000-165 = "[s] Cumprimente a todos."
-
 11000-166 = "Olá, professor. Eu sou da Escola de Ciências do Milênio..."
-
 11000-167 = "Não, não me importo com saudações agora...!"
-
 11000-168 = "Você não precisa se preocupar com essas pessoas barulhentas. Se eu continuar..."
-
 11000-169 = "Quem é tão barulhento? ? E-eu sou [ruby=fast]Hayase[/ruby]Yuka! Lembre-se, senhor!"
-
 11000-170 = "[s] \"Prazer em conhecê-lo.\""
-
 11000-172 = "...Sensei originalmente veio aqui como conselheiro encarregado de uma determinada atividade do clube iniciada pelo Presidente do Conselho Estudantil da Federação."
-
 11000-173 = "Federal Bureau of Investigation ``Placa de Petri.''"
-
 11000-174 = "Não é apenas uma atividade de clube, é uma espécie de instituição extralegal. #nPor se tratar de uma organização federal, é ainda possível a adesão de alunos de todas as escolas de Kivotos sem quaisquer restrições."
-
 11000-175 = "Também é possível realizar atividades de combate sem restrições na região autónoma de cada escola."
-
 11000-176 = "Não sei por que o Presidente do Conselho Estudantil da Federação criou uma organização com tanta autoridade, mas..."
-
 11000-177 = "A sala de Petri está localizada na área externa, a cerca de 30 km daqui. #nAtualmente, o prédio está quase vazio, mas por ordem do Presidente do Conselho Estudantil da Federação, “certas coisas” foram trazidas para o porão."
-
 11000-178 = "Eu tenho que levar o professor lá."
-
 11000-179 = "Momoka, precisamos de um helicóptero para ir direto para a sala do clube de Petri..."
-
 11000-180 = "Sala do clube da placa de Petri? ...Oh, no distrito externo? Há um grande alvoroço aí agora?"
-
 11000-181 = "Uma grande confusão...?"
-
 11000-182 = "Um estudante suspenso que escapou do Departamento de Correções causou comoção. Agora é um campo de batalha."
-
 11000-183 = "……Sim?"
-
 11000-184 = "É como se eles tivessem rancor do Conselho Estudantil da Federação e estivessem liderando o caminho com os delinquentes locais, incendiando a área ao seu redor. #nParece que você conseguiu um tanque cruzador em algum lugar?"
-
 11000-185 = "Então, parece que eles estão tentando ocupar o prédio da placa de Petri de propriedade do Conselho Estudantil da Federação. Parece que tem algo importante aí, não é?"
-
 11000-186 = "……."
-
 11000-187 = "Bom, já está uma bagunça, então não é nada demais... Ah, Senpai, chegou a entrega do almoço, então entro em contato novamente!"
-
 11000-188 = "(zumbido)"
-
 11000-189 = "……."
-
 11000-190 = "(empurrando)……."
-
-11000-191 = "[s1] \"Você está bem?\"\n[s2] \"Quer respirar fundo?""
-
+11000-191 = "[s1] \"Você está bem?\"\n[s2] \"Quer respirar fundo?\""
 11000-192 = "...Tudo bem. ...Houve um pequeno problema, mas não é grande coisa."
-
 11000-193 = "...Tudo bem. ...Houve um pequeno problema, mas não é grande coisa."
-
 11000-195 = "(Nossa)"
-
 11000-196 = "...?"
-
 11000-197 = "O que? por que você está olhando para nós?"
-
 11000-198 = "Fico animado pelo fato de haver aqui pessoas maravilhosas e despreocupadas que representam cada escola."
-
 11000-199 = "...Eh?"
-
 11000-200 = "Para normalizar o Kivotos, precisamos desesperadamente da ajuda de todos vocês que têm tempo livre. Vamos."
-
 11000-202 = "Ei, espere um minuto! ? Onde você está indo? ?"
-
 11000-205 = "DU área externa/perto da sala do clube Petri"
-
 11000-206 = "(Hyuoooooooo!!)"
-
 11000-207 = "(Dokaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!)"
-
 11000-208 = "O que, o que é isso! ?"
-
 11000-209 = "(Tatatatatatata!!)"
-
 11000-210 = "Por que temos que lutar contra os delinquentes? !"
-
 11000-211 = "Para recuperar o controle da Torre Sanctum, precisamos recapturar aquela sala do clube..."
-
 11000-212 = "Eu ouvi isso...! Ainda sou membro do conselho estudantil da minha escola e é assim que sou tratado! Por que eu...!"
-
 11000-214 = "(Papapapapa!)"
-
 11000-215 = "Isso dói! ! Isso dói! ! Eles estão usando balas JHP ilegais! ?"
-
 11000-216 = "Por favor, deite-se, Yuka. Além disso, as balas de ponta oca não são consideradas ilegais."
-
 11000-217 = "Agora vai ser ilegal na minha escola! Vai deixar uma cicatriz!"
-
 11000-218 = "Temos o mesmo professor agora, então tenha cuidado com isso."
-
 11000-219 = "Proteger os professores é a nossa principal prioridade. #nRecapturar aquele prédio é o próximo passo."
-
 11000-220 = "Hasumi está certo. O professor é de outro lugar que não Kivotos, então..."
-
 11000-221 = "Ao contrário de nós, mesmo uma única bala pode colocar a sua vida em perigo. Por favor, tenha cuidado com isso!"
-
 11000-222 = "Eu entendo. Professor, por favor, não vá para o campo de batalha! Por favor, fique neste lugar seguro enquanto lutamos!"
-
 11000-223 = "[s3] \"Eu assumirei o comando, deixe comigo.\"\n[s4] \"Siga minhas instruções de agora em diante.\""
-
 11000-224 = "Ah, sim? Você ficará encarregado do comando tático? Bem... eu sou professora..."
-
 11000-225 = "Ah, sim? Você ficará encarregado do comando tático? Bem... eu sou professora..."
-
 11000-226 = "Entendido. De agora em diante, seguirei as instruções do professor."
-
 11000-227 = "É natural que os alunos sigam as palavras do professor, não é? obrigado."
-
 11000-229 = "Ok, então vamos!"
-
