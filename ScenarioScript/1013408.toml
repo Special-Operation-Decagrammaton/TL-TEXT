@@ -1,66 +1,131 @@
 [translation]
-1013408-1 = "The Hero Has Returned?"
-1013408-2 = "(Some time had passed since the incident on the Steel Continent.)"
-1013408-3 = "(I headed to the address Aris had sent me.)"
-1013408-6 = "(There's such a huge crowd.)"
-1013408-7 = "(It seems a famous gaming event is being held here.)"
-1013408-16 = "(It's going to be hard to find Aris in this crowd.)"
-1013408-17 = "(I messaged Aris with my current location.)"
-1013408-22 = "Sensei, where are you?"
-1013408-23 = "Aris is right here!"
-1013408-24 = "[ns1] \"Aris?\"\n[ns2] \"Over here!\""
-1013408-27 = "Ah, I found Sensei!"
-1013408-28 = "Aris is coming over! Please wait!"
-1013408-33 = "Ta-da!"
-1013408-34 = "Sensei has joined the party!"
-1013408-35 = "[s3] \"That appearance...\"\n[s4] \"Abi-Eshuh!?\""
-1013408-38 = "That's right! Hero Aris, fully restored—"
-1013408-46 = "Wait, weren't you just flying!?"
-1013408-47 = "How does that even work!? That's way beyond just cosplay!?"
-1013408-48 = "What game is that from? Which booth is it?"
-1013408-50 = "Oh no! I forgot I was in the middle of running away!"
-1013408-51 = "Sensei, I'll explain later! Let's run!"
-1013408-57 = "So, the Game Development Department decided to participate with a new game."
-1013408-58 = "After thinking about how to stand out more than the other booths—"
-1013408-59 = "The plan worked. It was a huge success! #nThough, maybe it worked a little too well..."
-1013408-60 = "Everyone is ignoring the booth and is only interested in Aris!"
-1013408-61 = "This is counterproductive!"
-1013408-62 = "[s5] \"Well, you are standing out and flying around...\"\n[s6] \"I might end up staring too.\""
-1013408-65 = "Even you, Sensei!?"
-1013408-66 = "At this rate, I'll never be able to go back to the clubroom!"
-1013408-67 = "Ah, I found her!!"
-1013408-68 = "Um, if you don't mind, could you please pose for us?"
-1013408-69 = "Oh no! They noticed me!"
-1013408-76 = "P-please talk to me one at a time!! Oh no!"
-1013408-82 = "(The requests continued non-stop until the very last minute of the event.)"
-1013408-90 = "We finally finished..."
-1013408-91 = "I feel like... my memories are all a blur..."
-1013408-92 = "[s7] \"Good work...\"\n[s8] \"I only remember taking pictures the whole time too...\""
-1013408-97 = "[ns9] \"...Oh, come to think of it!\"\n[ns10] \"Didn't Abi-Eshuh get destroyed?\""
-1013408-100 = "I was so busy I forgot to explain!"
-1013408-101 = "Ta-da! Hero Aris, fully restored!"
-1013408-102 = "—or so I'd like to say."
-1013408-103 = "This is a replica."
-1013408-104 = "I had them faithfully recreate the original."
-1013408-105 = "You see... before leaving the Steel Continent, I found the remains of Abi-Eshuh."
-1013408-106 = "Though, by remains, I mean a palm-sized fragment..."
-1013408-107 = "[s11] \"So you brought it back with you.\"\n[s12] \"Abi-Eshuh is a friend, after all.\""
-1013408-112 = "...Yes!"
-1013408-113 = "So, I thought maybe... and showed it to everyone at Millennium."
-1013408-123 = "That said, they told me it was impossible to restore it from a palm-sized piece."
-1013408-124 = "But instead, they agreed to recreate it as close to the original as possible!"
-1013408-125 = "Thanks to them, Abi-Eshuh has regained its original form!"
-1013408-126 = "...Even if only some of the parts are original."
-1013408-127 = "Also, since it's just a replica, its output is significantly lower than before. #nI can't do long-distance flights or high-mobility maneuvers anymore."
-1013408-128 = "It's not as durable as it used to be, so they made sure to tell me not to use it for combat."
-1013408-129 = "[s13] \"So that's why it's a replica.\"\n[s14] \"It's a shame, since you managed to recreate it.\""
+1013408-1 = "O herói voltou?"
+
+1013408-2 = "(Isso foi algum tempo depois que o incidente no Continente Aço foi resolvido.)"
+
+1013408-3 = "(Ele foi até o endereço que Alice lhe havia enviado.)"
+
+1013408-6 = "(É uma multidão enorme)"
+
+1013408-7 = "(Aparentemente, um famoso evento de jogo está sendo realizado)"
+
+1013408-16 = "(Parece difícil encontrar Alice nesta multidão.)"
+
+1013408-17 = "(Entrei em contato com Alice sobre minha localização atual)"
+
+1013408-22 = "Professor, onde você está?"
+
+1013408-23 = "Alice está aqui!"
+
+1013408-24 = "[ns1] \"Alice?\"\n[ns2] \"Aqui está!\""
+
+1013408-27 = "Ah, encontrei o professor!"
+
+1013408-28 = "Alice está indo para lá! Por favor, aguarde!"
+
+1013408-33 = "Pampakapaan!"
+
+1013408-34 = "A professora se juntou à festa!"
+
+1013408-35 = "[s3] \"Como é isso...?\"\n[s4] \"Abi Yeshuv!?\""
+
+1013408-38 = "isso mesmo! Heroína Alice, vingança completa?"
+
+1013408-46 = "Eu não estava voando agora! ?"
+
+1013408-47 = "Como é a estrutura? ? Cosplay não é meu nível! ?"
+
+1013408-48 = "Que jogo é esse? Qual cabine?"
+
+1013408-50 = "Uau! Esqueci que estava fugindo!"
+
+1013408-51 = "Professor, depois explico! Vamos fugir!"
+
+1013408-57 = "Então vamos entrar no departamento de desenvolvimento de jogos com um novo trabalho! Foi assim que aconteceu."
+
+1013408-58 = "Depois de pensar no que poderíamos fazer para que nosso estande se destacasse dos estandes ao redor..."
+
+1013408-59 = "A estratégia funcionou. Grande sucesso! #nNo entanto, as coisas correram um pouco bem demais..."
+
+1013408-60 = "Todos ignoraram a cabine e ficaram curiosos sobre Alice!"
+
+1013408-61 = "Isso é colocar a carroça na frente dos bois!"
+
+1013408-62 = "[s5] \"Certamente se destaca e voa por aí...\"\n[s6] \"Talvez eu acabe assistindo também.""
+
+1013408-65 = "Seu professor também! ?"
+
+1013408-66 = "Se isso continuar, nunca mais poderei voltar à sala do clube!"
+
+1013408-67 = "Ah, eu encontrei! !"
+
+1013408-68 = "Hum, se você não se importa, você poderia posar para mim?"
+
+1013408-69 = "Ah! Fui notado!"
+
+1013408-76 = "Ei, por favor fale um por um! ! Uau!"
+
+1013408-82 = "(A resposta continuou sem interrupção até o último minuto do evento.)"
+
+1013408-90 = "De alguma forma, acabou..."
+
+1013408-91 = "De alguma forma... minha memória é vaga..."
+
+1013408-92 = "[s7] \"Obrigado pelo seu trabalho duro...\"\n[s8] \"Eu também só me lembro de tirar fotos há muito tempo...\""
+
+1013408-97 = "[ns9] \"...Oh, agora que penso nisso!\"\n[ns10] \"Abi Yeshuv estava quebrado, não estava?\""
+
+1013408-100 = "Estava tão ocupado que esqueci de explicar!"
+
+1013408-101 = "Pampakapaan! A corajosa Alice está totalmente revivida!"
+
+1013408-102 = "--Isso é o que eu quero dizer."
+
+1013408-103 = "Esta é uma réplica."
+
+1013408-104 = "Reproduzimos fielmente o original."
+
+1013408-105 = "Bem... antes de deixar o Continente do Aço, encontrei os restos mortais de Abi Yeshuf."
+
+1013408-106 = "Mesmo sendo destroços, era um pedaço do tamanho da palma da mão..."
+
+1013408-107 = "[s11] \"Você o trouxe para casa.\"\n[s12] \"Abi Yeshuv também é um amigo.\""
+
+1013408-112 = "...Sim!"
+
+1013408-113 = "Então pensei que talvez... então mostrei para o pessoal do Millennium."
+
+1013408-123 = "No entanto, disseram-me que era impossível restaurá-lo a partir de uma imagem do tamanho da palma da mão."
+
+1013408-124 = "Mas em troca, eles decidiram [ruby=・]recriar[/ruby][ruby=・]atual[/ruby] o máximo possível!"
+
+1013408-125 = "Graças a você, Abi Yeshuv recuperou sua aparência anterior!"
+
+1013408-126 = "...Existem apenas algumas peças originais."
+
+1013408-127 = "E como se trata apenas de uma réplica, a produção foi significativamente reduzida em comparação com a anterior. #n Voos longos e movimentos manobráveis ​​não são mais possíveis."
+
+1013408-128 = "Não é tão durável quanto antes, então me lembrei de não usá-lo em batalha."
+
+1013408-129 = "[s13] \"Então é uma réplica.\"\n[s14] \"É uma pena porque conseguimos recriá-la.\""
+
 1013408-132 = "?"
-1013408-133 = "Aris doesn't think it's a shame at all!"
-1013408-134 = "There are many heroes whose powers are sealed away after the Demon King is defeated. #nIt's actually a common ending."
-1013408-135 = "Besides..."
-1013408-142 = "Today, I stood in front of many people wearing Abi-Eshuh."
-1013408-143 = "And everyone looked at Abi-Eshuh and said it was 'cool' and that they 'liked it'."
-1013408-144 = "That is much, much more wonderful than flying through the sky or defeating a Demon King."
-1013408-145 = "That's why Aris was so happy today!"
-1013408-147 = "(Holding hands with Aris, we returned to the Game Development Department clubroom.)"
-1013408-148 = "(On the way back, people kept asking to take photos of us.)"
+
+1013408-133 = "Alice não sente pena nenhuma!"
+
+1013408-134 = "Existem muitos heróis cujos poderes são selados após a batalha com o Rei Demônio. #nÉ um final bastante comum."
+
+1013408-135 = "E..."
+
+1013408-142 = "Hoje, fiquei na frente de muitas pessoas vestindo Abi Yeshuf."
+
+1013408-143 = "E todos viram Abi Yeshuf e disseram: “Ele é legal” e “Eu gosto dele”."
+
+1013408-144 = "É muito mais maravilhoso do que voar no céu ou derrotar o lorde demônio."
+
+1013408-145 = "É por isso que Alice estava tão feliz hoje!"
+
+1013408-147 = "(Ele voltou para a sala do departamento de desenvolvimento de jogos de mãos dadas com Alice.)"
+
+1013408-148 = "(No caminho para casa, os transeuntes me pediram várias vezes para tirar fotos.)"
+

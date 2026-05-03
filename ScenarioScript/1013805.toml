@@ -1,67 +1,133 @@
 [translation]
-1013805-1 = "Here, have this!"
-1013805-2 = "(Upon heading to Wild Hunt...)"
-1013805-5 = "Oh, Sensei."
-1013805-6 = "You really came."
-1013805-7 = "How have you been lately?"
-1013805-8 = "You haven't been having any sudden insomnia or unexplained chills, have you?"
-1013805-9 = "[s] \"Nothing in particular. Why do you ask?\""
-1013805-10 = "Just... just in case, that's all."
-1013805-11 = "The upperclassmen were being so noisy about how that might happen if you meet a ghost..."
-1013805-12 = "Ugh... seriously, why did it have to turn out like this?"
-1013805-13 = "Well, whatever. Here, take this."
-1013805-19 = "It's an amulet I made."
-1013805-20 = "I thought about just buying one, but they told me I had to make it myself..."
-1013805-21 = "I mean, I don't even believe in the occult, so I don't know if it'll actually work. #nWell, it's better than nothing, right?"
-1013805-22 = "Keep it with you."
-1013805-23 = "[s] \"The craftsmanship is amazing! You can do embroidery too?\""
-1013805-24 = "Obviously. I'm in the Clothing Design department, remember?"
-1013805-25 = "[s] \"I'm so happy! I'll treasure it!\""
-1013805-29 = "[ns] \"As a token of my thanks... would you like to go grab something delicious to eat?\""
-1013805-30 = "Huh? Your treat, Sensei?"
-1013805-31 = "Yay! ♪ #nI was just craving a snack, too."
-1013805-32 = "[s] \"How about a chocolate banana crepe?\""
-1013805-33 = "...H-how did you know?"
-1013805-34 = "It's not like I eat them all the time or anything!"
-1013805-35 = "I just happened to be in the mood for one, that's all!!??"
-1013805-36 = "[s1] \"Alright, alright. Let's go then.\"\n[s2] \"I was just craving something sweet myself.\""
-1013805-39 = "Do you like chocolate banana crepes too, Sensei?"
-1013805-40 = "[s] \"I do!\""
-1013805-45 = "You're not just teasing me, are you?"
-1013805-46 = "Well, whatever... let's go, hurry."
-1013805-51 = "(Just as we were about to enter a nearby shop...)"
-1013805-57 = "(Stepped on some gum...)"
-1013805-58 = "Ugh... that's a huge piece of gum."
-1013805-60 = "(Hurriedly scrapes the gum off)"
-1013805-61 = "[ns] \"Alright... let's head inside.\""
-1013805-65 = "W-what now!?"
-1013805-66 = "[ns5] (The glass on the door suddenly shattered)\n[ns6] \"I-I only pushed it gently...!?\""
-1013805-69 = "Oh my...? This is a 'pull' door, you know."
-1013805-70 = "Would you mind paying for the damages?"
-1013805-71 = "[s] \"I-I am so sorry!\""
-1013805-73 = "(After paying for the damages, we tried to order a chocolate banana crepe)"
-1013805-74 = "(But it sold out right before our turn...)"
-1013805-75 = "(...We left the cafe feeling dejected)"
-1013805-80 = "(And on the way home, I slipped on a banana peel)"
-1013805-82 = "Isn't today just one bad thing after another? I wonder what's going on."
-1013805-87 = "Sensei, let me see that amulet from earlier. Something's wrong."
-1013805-92 = "Ahhh!!"
-1013805-93 = "[ns] \"What's wrong?\""
-1013805-94 = "I-I forgot to put the contents inside...! #nMaybe it's because I made so many at once..."
-1013805-95 = "I knew something felt off! #nThis is the worst... no wonder..."
-1013805-96 = "[s] \"So you do believe in the amulet?\""
-1013805-97 = "N-no! It's not like that!"
-1013805-98 = "I just thought I might have given you something incomplete."
-1013805-99 = "I'll go get a proper one, so just wait here!"
-1013805-104 = "(A while later...)"
-1013805-109 = "Here, take this...! This one is fine! Keep it!"
-1013805-115 = "(There was definitely something inside, but I couldn't tell what it was)"
-1013805-116 = "I'm telling you, don't look inside, okay?"
-1013805-117 = "Amulets lose their effect the moment you open them."
-1013805-118 = "D-do you understand? You absolutely cannot open it!"
-1013805-119 = "[s] \"Yeah, I understand.\""
-1013805-124 = "(On a whim, Rena and I tried entering another sweets shop...)"
-1013805-125 = "(And they were selling chocolate banana crepes there)"
-1013805-126 = "(It seems to be a new item)"
-1013805-128 = "Well then, time to dig in!"
-1013805-134 = "(Perhaps this is a sign of small happiness to come)"
+1013805-1 = "Eu vou te dar isso!"
+
+1013805-2 = "(Ao ir para Wild Hunt...)"
+
+1013805-5 = "Ah, professora."
+
+1013805-6 = "Ele realmente veio."
+
+1013805-7 = "Como você está ultimamente?"
+
+1013805-8 = "De repente você tem problemas para dormir ou sente calafrios inexplicáveis?"
+
+1013805-9 = "[s] \"Nada de especial. O que há de errado?\""
+
+1013805-10 = "Por precaução... só para ter certeza, acabei de perguntar."
+
+1013805-11 = "Meus idosos eram tão barulhentos que algo assim poderia acontecer se eles encontrassem um fantasma..."
+
+1013805-12 = "Suspiro... eu me pergunto por que isso aconteceu."
+
+1013805-13 = "Bem, tudo bem. Sim, eu vou te dar isso."
+
+1013805-19 = "Um encanto que fiz."
+
+1013805-20 = "Achei que poderia comprar um, mas disseram que eu mesmo teria que fazer..."
+
+1013805-21 = "Na verdade, não sei se seria eficaz se eu fizesse isso, pois não acredito no ocultismo. #nBem, é melhor que nada."
+
+1013805-22 = "Pegue."
+
+1013805-23 = "[s] \"Está incrivelmente acabado!? Você também sabe bordar?\""
+
+1013805-24 = "É óbvio, não é? Estou no departamento de moda?"
+
+1013805-25 = "[s] \"Estou tão feliz! Vou adorar!\""
+
+1013805-29 = "[ns] \"Não sei como agradecer... mas você gostaria de comer algo delicioso?\""
+
+1013805-30 = "imagem?先生の奢り？"
+
+1013805-31 = "Yay♪#nEu só queria fazer um lanche."
+
+1013805-32 = "[s] \"Crepe de chocolate e banana?\""
+
+1013805-33 = "...Como você sabia?"
+
+1013805-34 = "Você não come isso o tempo todo, não é?"
+
+1013805-35 = "Bem, aconteceu de eu querer comê-lo! ! ? ?"
+
+1013805-36 = "[s1] \"Ok, ok. Vamos então."\n[s2] \"Eu só queria comer algo doce também.""
+
+1013805-39 = "Você também gosta de crepe de banana com chocolate?"
+
+1013805-40 = "[s] \"Eu te amo!""
+
+1013805-45 = "Você não está tirando sarro de mim."
+
+1013805-46 = "Bem, ok... vamos rápido."
+
+1013805-51 = "(Quando eu estava prestes a entrar em uma loja próxima...)"
+
+1013805-57 = "(pisei em chiclete...)"
+
+1013805-58 = "Ugh... isso é um pedaço enorme de chiclete."
+
+1013805-60 = "(remove rapidamente a goma)"
+
+1013805-61 = "[ns] \"Ok... vamos para a loja.\""
+
+1013805-65 = "O que foi desta vez! ?"
+
+1013805-66 = "[ns5] (De repente o vidro da porta quebrou)\n[ns6] \"E-eu empurrei suavemente...!?\""
+
+1013805-69 = "Oh...? Esta é uma porta de "puxar"."
+
+1013805-70 = "Você poderia me compensar?"
+
+1013805-71 = "[s] \"S-me desculpe!\""
+
+1013805-73 = "(Depois de pagar a indenização, tento pedir um crepe de chocolate e banana)"
+
+1013805-74 = "(Estava esgotado pouco antes da nossa vez...)"
+
+1013805-75 = "(...saí do café me sentindo impotente)"
+
+1013805-80 = "(E no caminho para casa, pisei numa casca de banana e caí.)"
+
+1013805-82 = "Não há algumas coisas ruins acontecendo hoje? O que aconteceu?"
+
+1013805-87 = "Professor, por favor, mostre-me o amuleto de antes. Algo não está certo."
+
+1013805-92 = "Ah! !"
+
+1013805-93 = "[ns] \"O que há de errado?\""
+
+1013805-94 = "Ei, esqueci de colocar o conteúdo...! #nTalvez seja porque ganhei muito de uma vez..."
+
+1013805-95 = "Achei estranho! #nO pior... É por isso que é assim..."
+
+1013805-96 = "[s] \"Você acredita em amuletos?\""
+
+1013805-97 = "Não, não! Mas esse não é o caso!"
+
+1013805-98 = "Huh, só pensei que talvez tivesse lhe dado algo incompleto."
+
+1013805-99 = "Espere um momento, vou pegar algo adequado para você!"
+
+1013805-104 = "(depois de um tempo......)"
+
+1013805-109 = "Sim, isso...! Tudo bem! Pegue!"
+
+1013805-115 = "(Definitivamente havia algo dentro, mas eu não sabia o que havia dentro.)"
+
+1013805-116 = "Estou lhe dizendo, você não deveria olhar para dentro."
+
+1013805-117 = "O amuleto perde eficácia no momento em que você o abre."
+
+1013805-118 = "Ah, você entendeu? Nunca abra!"
+
+1013805-119 = "[s] \"Sim, eu entendo.""
+
+1013805-124 = "(Quando entrei em outra loja de doces com Lena...)"
+
+1013805-125 = "(Crepes de chocolate e banana eram vendidos lá.)"
+
+1013805-126 = "(Aparentemente é novo)"
+
+1013805-128 = "Pois bem, vamos lá!"
+
+1013805-134 = "(Talvez este seja um sinal de uma pequena felicidade.)"
+

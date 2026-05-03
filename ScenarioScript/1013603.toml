@@ -1,53 +1,105 @@
 [translation]
-1013603-1 = "What is Given"
-1013603-4 = "I said night reconnaissance, but probably nothing will happen."
-1013603-5 = "Why do I think like that?#nHmm..."
-1013603-6 = "Intuition?"
-1013603-7 = "[s] \"It's rare for you to rely on a hunch, Eimi.\""
-1013603-8 = "Is it?#nIntuition is surprisingly important."
-1013603-9 = "My life experiences up to now, and—"
-1013603-10 = "It's a conclusion obtained from the big data left behind as records and lessons."
-1013603-11 = "It's a heuristic algorithm, basically."
-1013603-12 = "Like, if there's something that \"bothers\" you, whether it's a person or a place,#nit's better to avoid it for the time being."
-1013603-13 = "In that sense, maybe I am relying quite a bit on intuition."
-1013603-14 = "Of course, when heading out to the field, I think about how to be efficient—"
-1013603-15 = "...I'm always thinking about whether I can reduce the workload."
-1013603-16 = "[s] \"Do you hate working?\""
-1013603-17 = "Hmm...#nThere are workaholics out there sometimes. I'm not one of them."
-1013603-18 = "[s] \"That's true...\""
-1013603-23 = "[ns] \"Achoo!!!\""
-1013603-24 = "Are you okay?"
-1013603-25 = "You're feeling a little chilly... I see."
-1013603-26 = "Well, we are in the polar region."
-1013603-27 = "In that case—"
-1013603-32 = "(Eimi snuggled up close and wrapped her arms around me.)"
-1013603-33 = "[ns] \"E-Eimi!?\""
-1013603-36 = "How is it? Are you a little warmer?"
-1013603-37 = "Yeah, that's good."
-1013603-38 = "As for me... it's lukewarm, which might be just right."
-1013603-39 = "Eh? Is it efficient?#nHmm, I wonder."
-1013603-40 = "You could say that, but..."
-1013603-41 = "..."
-1013603-42 = "Maybe I just want to stay like this."
+1013603-1 = "o que dar"
+
+1013603-4 = "Você mencionou o escotismo à noite, mas provavelmente nada acontecerá."
+
+1013603-5 = "Por que você acha isso? #nHmm..."
+
+1013603-6 = "Pressentimento?"
+
+1013603-7 = "[s] \"É raro Amy ter um palpite.\""
+
+1013603-8 = "É assim mesmo? A intuição é surpreendentemente importante."
+
+1013603-9 = "Minha experiência de vida e..."
+
+1013603-10 = "Esta é uma conclusão tirada do big data que ficou para trás como registros e lições aprendidas."
+
+1013603-11 = "É um algoritmo heurístico."
+
+1013603-12 = "Se há algo que te incomoda, seja uma pessoa ou um lugar, é melhor evitar por um tempo."
+
+1013603-13 = "Nesse sentido, acho que confio muito na intuição."
+
+1013603-14 = "Claro que quando vou a campo me pergunto como posso ser mais eficiente."
+
+1013603-15 = "...Estou sempre pensando em como posso reduzir minha carga de trabalho."
+
+1013603-16 = "[s] \"Você odeia seu trabalho?\""
+
+1013603-17 = "Hmm...às vezes há workaholics. #nEu sou diferente."
+
+1013603-18 = "[s] \"Claro...\""
+
+1013603-23 = "[ns] \"Hakushon!!!\""
+
+1013603-24 = "Você está bem?"
+
+1013603-25 = "Sinto um pouco de frio... entendo."
+
+1013603-26 = "Pensando bem, esta é uma região polar."
+
+1013603-27 = "Bem, então..."
+
+1013603-32 = "(Aimi se aproxima de mim e me abraça)"
+
+1013603-33 = "[ns] \"E-Aimi!?\""
+
+1013603-36 = "cobre? Ficou um pouco mais quente?"
+
+1013603-37 = "Sim, isso foi bom."
+
+1013603-38 = "Para mim... está morno, o que pode ser o ideal."
+
+1013603-39 = "foto? É eficiente? #nHmm, eu me pergunto."
+
+1013603-40 = "Você poderia dizer isso, mas...."
+
+1013603-41 = "……."
+
+1013603-42 = "Talvez eu só queira ser assim."
+
 1013603-43 = "[s] \"...Eh?\""
-1013603-44 = "What's with the weird look, Sensei.#nDo you hate me?"
-1013603-45 = "Hehe, I'm kidding.#nI understand that reaction."
-1013603-46 = "...That's right."
-1013603-47 = "This is also something the old me would never say."
-1013603-48 = "But snuggling up like this... when our body temperatures become about the same,#nit's called thermal equilibrium."
-1013603-49 = "In that state—"
-1013603-50 = "I can feel your body heat as lukewarm, and—"
-1013603-51 = "You can warm yourself using my body."
-1013603-52 = "I was thinking... isn't this a change we can give to each other?"
-1013603-53 = "People influence each other, after all."
-1013603-54 = "[s] \"Eimi... did you change since meeting me?\""
-1013603-59 = "...I guess."
-1013603-60 = "Yeah... I think so."
-1013603-61 = "If I hadn't met you, probably right about now..."
-1013603-62 = "I'd still be standing alone, completely unchanged."
-1013603-63 = "Without even the thought of sharing my body heat with someone#nfreezing near me."
-1013603-64 = "But now..."
-1013603-65 = "..."
-1013603-66 = "Hehe, that's all for today."
-1013603-67 = "Saying everything—"
-1013603-68 = "Might be a little inefficient, after all."
+
+1013603-44 = "O que há de errado, professor, você parece estranho. #nVocê me odeia?"
+
+1013603-45 = "Hehe, estou brincando. #nPosso entender essa reação agora."
+
+1013603-46 = "……Concordo."
+
+1013603-47 = "これも、昔の私だったら絶対に言わないこと。"
+
+1013603-48 = "Mas quando nos juntamos assim... a temperatura do nosso corpo fica praticamente a mesma, isso chama-se equilíbrio térmico."
+
+1013603-49 = "Nesse estado..."
+
+1013603-50 = "Posso sentir a temperatura corporal quente do professor..."
+
+1013603-51 = "Sensei pode se aquecer com meu corpo."
+
+1013603-52 = "Acho que esta é... a mudança que podemos dar um ao outro."
+
+1013603-53 = "Porque as pessoas influenciam umas às outras."
+
+1013603-54 = "[s] \"Aimi...você mudou desde que me conheceu?\""
+
+1013603-59 = "……Concordo."
+
+1013603-60 = "Sim... acho que sim."
+
+1013603-61 = "Se eu não tivesse conhecido você, provavelmente estaria por aqui agora..."
+
+1013603-62 = "Eu acho que ele estava sozinho, sem qualquer mudança."
+
+1013603-63 = "Eu não tinha ideia de como compartilhar a temperatura do meu corpo com as pessoas geladas ao meu redor."
+
+1013603-64 = "Mas agora..."
+
+1013603-65 = "……."
+
+1013603-66 = "Hehe, isso é tudo por hoje."
+
+1013603-67 = "Tudo o que estou dizendo é..."
+
+1013603-68 = "Pode ser um pouco ineficiente."
+

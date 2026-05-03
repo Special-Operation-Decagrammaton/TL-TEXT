@@ -1,73 +1,145 @@
 [translation]
-1013806-1 = "Small Ribbon"
-1013806-2 = "(That afternoon)"
-1013806-3 = "(I headed to the Occult Research Club room with the requested items and a chocolate banana crepe.)"
-1013806-6 = "Oh, welcome, Sensei."
-1013806-7 = "The seniors said they'd be a little late."
-1013806-8 = "They're probably off doing something like 'searching for hidden occult phenomena' again."
-1013806-9 = "[s] \"Rena, you didn't go with them?\""
-1013806-10 = "I thought I'd get some of my own work done while they were away."
-1013806-11 = "Still, to think the shop would be temporarily closed... *sigh*."
-1013806-12 = "Honestly, there isn't a single normal person in this academy... I wonder if I'll really be able to make it through three years here?"
-1013806-13 = "[s] \"Here, eat this chocolate banana crepe and cheer up!\""
-1013806-14 = "I told you I didn't need anything..."
-1013806-15 = "Well... thanks."
-1013806-20 = "This is delicious...! Where did you buy it?"
-1013806-21 = "[s] \"Actually, I made it myself.\""
-1013806-22 = "Huh!? Y-you did!?"
-1013806-23 = "[s] \"Well? Is it good?\""
-1013806-24 = "W-well..."
-1013806-25 = "..."
-1013806-26 = "It is... actually... pretty good."
-1013806-27 = "Hiss! Ugh, don't make me say it, you idiot!"
-1013806-33 = "(Even though she was angry, Rena finished eating it.)"
-1013806-35 = "Phew... I've got my sugar fix, so I guess I'll continue."
-1013806-36 = "[s1] \"You're making accessories, right?\"\n[s2] \"What are you making?\""
-1013806-39 = "A ribbon hairpin."
-1013806-40 = "[s3] \"Come to think of it, Rena, you wear a lot of ribbons.\"\n[s4] \"Do you like ribbons?\""
-1013806-43 = "Hmm... like, or rather..."
-1013806-44 = "I started wearing them for no reason, but before I knew it, they just kept increasing."
-1013806-45 = "Now, if I'm not wearing a bunch of them, I feel kind of restless..."
-1013806-46 = "[s5] \"So they're like a charm for you?\"\n[s6] \"I guess you really are an Occult Research Club member at heart.\""
-1013806-49 = "HISS!! That's not it!"
-1013806-50 = "It's nothing like that!! It's just fashion!!"
-1013806-51 = "[s] \"You have so many already, are you still making more?\""
-1013806-52 = "I lose them often. So I thought I'd make some spares."
-1013806-53 = "Anyway, I'm going to start working now. Shouldn't you get back to your work, Sensei?"
-1013806-54 = "You came here today for work, didn't you?"
-1013806-55 = "[s7] \"I still have time, so it's fine.\"\n[s8] \"Can I watch you make the ribbon?\""
-1013806-58 = "...Is that so?"
-1013806-59 = "B-but I don't think it's very interesting to watch, you know?"
-1013806-60 = "If you're fine with that, then..."
-1013806-64 = "I-it's fine, I guess."
-1013806-65 = "But don't get in my way, okay?"
-1013806-68 = "[wa:1650]— [log=레나]You know, [wa:1430]I've been dexterous [wa:980]since I was little. [/log]"
-1013806-70 = "— [log=레나]I used to make things like ribbons [wa:1870]and give them to my friends. [/log]"
-1013806-73 = "[wa:1150]— [log=레나]It made me happy [wa:1380]when they were happy. [/log]"
-1013806-75 = "— [log=레나]...That's when I realized. [/log]"
-1013806-78 = "— [log=레나]That even with something this small, [/log]"
-1013806-80 = "— [log=레나]I can make someone happy, [wa:2230]you know? [/log]"
-1013806-83 = "[wa:1140]— [log=레나]That's why [wa:1120]I started aiming to be a fashion designer. [/log]"
-1013806-86 = "— [log=레나]Because when everyone enjoys [wa:1670]the clothes and accessories I design, [/log]"
-1013806-88 = "— [log=레나]I feel happy, too. [wa:1840] [/log]"
-1013806-91 = "[wa:710]— [log=레나] You kind of understand that, [wa:1160]don't you, Sensei? [/log]"
-1013806-93 = "— [log=레나]That's also why [wa:820]I think you went out of your way [wa:1410]to be kind to me. [/log]"
-1013806-96 = "[wa:520]— [log=레나] Huh...? [/log]"
-1013806-98 = "— [log=레나]How was today, [wa:700]you ask...? [wa:1010] [/log]"
-1013806-101 = "[wa:680]— [log=레나]Hiss! [wa:940]D- [wa:280]don't make me say it! [wa:980]You idiot Sensei! [/log]"
-1013806-104 = "(I had a lovely conversation with Rena while she made the ribbon.)"
-1013806-110 = "Oh... look at the time."
-1013806-111 = "Sensei, shouldn't you get going soon?"
-1013806-112 = "[s] \"You're right, I should probably head out.\""
-1013806-113 = "Yeah. Good luck with your work."
-1013806-114 = "Oh, wait, before that—"
-1013806-118 = "Come here for a second."
-1013806-123 = "Hehe, it suits you!"
-1013806-124 = "Here, you can have it."
-1013806-125 = "[s9] \"Are you sure? Thank you!\"\n[s10] \"I'll wear it while I work!\""
-1013806-128 = "Huh...? There's really no need to go that far..."
-1013806-129 = "[s] \"It's the first ribbon you've ever given me, after all.\""
+1013806-1 = "fita pequena"
+
+1013806-2 = "(naquela tarde)"
+
+1013806-3 = "(Ele pegou os itens solicitados e um crepe de chocolate e banana e foi para a sala do grupo de pesquisa ocultista.)"
+
+1013806-6 = "Bem-vindo. professor."
+
+1013806-7 = "Os idosos vão chegar um pouco atrasados."
+
+1013806-8 = "De qualquer forma, eles estão fazendo algo como “Encontre o ocultismo oculto” novamente."
+
+1013806-9 = "[s] \"Lena não foi com você?\""
+
+1013806-10 = "Eu queria fazer meu próprio trabalho enquanto meus idosos estivessem fora."
+
+1013806-11 = "No entanto, a loja está temporariamente fechada...suspiro."
+
+1013806-12 = "Realmente não há pessoas decentes nesta academia... Será que poderei fazer isso aqui por três anos corretamente?"
+
+1013806-13 = "[s] \"Aqui, coma esse crepe de chocolate e banana e anime-se!\""
+
+1013806-14 = "eu disse ok..."
+
+1013806-15 = "Bem... obrigado."
+
+1013806-20 = "Isto é delicioso...! onde você comprou?"
+
+1013806-21 = "[s] \"Na verdade, eu consegui.\""
+
+1013806-22 = "Huh! ? Ah, isso mesmo! ?"
+
+1013806-23 = "[s] \"Você gostou? Está delicioso?\""
+
+1013806-24 = "Bem, bem..."
+
+1013806-25 = "……."
+
+1013806-26 = "Na verdade... pode ser delicioso..."
+
+1013806-27 = "Shhh! Não me faça dizer mais isso, idiota!"
+
+1013806-33 = "(Lena disse que, mesmo estando com raiva, ela terminou de comer.)"
+
+1013806-35 = "Ufa... terminei de repor minha ingestão de açúcar, então acho que vou continuar."
+
+1013806-36 = "[s1] \"Você faz acessórios, certo?\"\n[s2] \"O que você faz?\""
+
+1013806-39 = "É um grampo de fita."
+
+1013806-40 = "[s3] \"A propósito, Lena usa muitas fitas.\"\n[s4] \"Você gosta de fitas?\""
+
+1013806-43 = "Hmm... eu gosto, ou melhor..."
+
+1013806-44 = "No começo eu estava colocando de alguma forma, mas quando percebi começou a aumentar."
+
+1013806-45 = "Hoje em dia fico nervoso se não uso o tempo todo..."
+
+1013806-46 = "[s5] \"Então é como um talismã para Lena?\"\n[s6] \"Afinal, é um grupo de pesquisa ocultista.""
+
+1013806-49 = "Shhh! ! Não!"
+
+1013806-50 = "Não é mesmo! ! Só moda! !"
+
+1013806-51 = "[s] \"São tantos, você ainda os faz?\""
+
+1013806-52 = "Muitas vezes eu os deixo cair. Então pensei em fazer um backup."
+
+1013806-53 = "De qualquer forma, vou começar a trabalhar nisso agora. E se os professores voltarem ao trabalho?"
+
+1013806-54 = "Você veio aqui hoje para trabalhar, certo?"
+
+1013806-55 = "[s7] \"Está tudo bem, ainda temos tempo.\"\n[s8] \"Posso ver Lena fazer a fita?\""
+
+1013806-58 = "……sim?"
+
+1013806-59 = "Mas não acho muito interessante assistir, e você?"
+
+1013806-60 = "Se estiver tudo bem..."
+
+1013806-64 = "Bem, eu realmente não me importo."
+
+1013806-65 = "Mas não me perturbe, ok?"
+
+1013806-68 = "[wa:1650]― [log=레나]Eu, [wa:1430]Desde pequeno, [wa:980]eu era bom com as mãos. [/registro]"
+
+1013806-70 = "- [log=레나]Eu costumava fazer fitas e dar para [wa:1870]amigos. [/registro]"
+
+1013806-73 = "[wa:1150]― [log=레나]Estou feliz que todos estejam felizes [wa:1380]. [/registro]"
+
+1013806-75 = "― [log=레나]...Foi quando eu percebi isso. [/registro]"
+
+1013806-78 = "― [log=레나]Mesmo algo tão pequeno quanto isso[/log]"
+
+1013806-80 = "― [log=레나]Você pode fazer alguém feliz, [wa:2230]. [/registro]"
+
+1013806-83 = "[wa:1140]― [log=레나]É por isso que [wa:1120]comecei a almejar me tornar um designer de moda. [/registro]"
+
+1013806-86 = "― [log=레나]Roupas que eu mesmo desenhei, [wa:1670]Acessórios, etc.[/log]"
+
+1013806-88 = "― [log=레나]Se todos gostarem, [wa:1840]Fico feliz também. [/registro]"
+
+1013806-91 = "[wa:710]― [log=레나]Você meio que entende isso, [wa:1160] professor, certo? [/registro]"
+
+1013806-93 = "― [log=레나]Por causa disso, [wa:820]Eu acho que [wa:1410] que ele cuidou de mim assim. [/registro]"
+
+1013806-96 = "[wa:520]― [log=레나]Huh...? [/registro]"
+
+1013806-98 = "― [log=레나]Como foi [wa:700] hoje [wa:1010]...? [/registro]"
+
+1013806-101 = "[wa:680]― [log=레나]Xá! [wa:940]Não, [wa:280]não me faça dizer isso! [wa:980]Professor estúpido! [/registro]"
+
+1013806-104 = "(Tivemos muitas conversas com Lena que fazia fitas)"
+
+1013806-110 = "Ah... já faz tanto tempo."
+
+1013806-111 = "professor. Não seria melhor ir agora?"
+
+1013806-112 = "[s] \"Sim, acho que é hora de ir.""
+
+1013806-113 = "Sim. Boa sorte com seu trabalho."
+
+1013806-114 = "Sim, antes disso..."
+
+1013806-118 = "Venha aqui por um momento."
+
+1013806-123 = "Hehe, combina com você!"
+
+1013806-124 = "Eu vou te dar isso."
+
+1013806-125 = "[s9] \"Você está bem? Obrigado!\"\n[s10] \"Continue assim enquanto trabalha!""
+
+1013806-128 = "peido......? Não há necessidade de ir tão longe..."
+
+1013806-129 = "[s] \"É a primeira fita que Lena me deu.\""
+
 1013806-130 = "...!"
-1013806-131 = "D-do whatever you want!"
-1013806-133 = "(Thinking of Rena, who looked so happy...)"
-1013806-134 = "(I wore the ribbon and worked hard.)"
+
+1013806-131 = "Se você gosta!"
+
+1013806-133 = "(Pensando em Lena parecendo feliz...)"
+
+1013806-134 = "(Ele trabalhou duro enquanto usava uma fita.)"
+

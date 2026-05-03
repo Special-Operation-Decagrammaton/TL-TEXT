@@ -1,59 +1,117 @@
 [translation]
-1013908-1 = "Niko's Inari Sushi"
-1013908-2 = "(Curious about the preserved food Niko mentioned, I peeked into the#ncooking room during my lunch break.)"
-1013908-7 = "SCHALE - Kitchen"
-1013908-9 = "(The moment I opened the door, the sound of oil popping and a savory aroma#ntickled my nose.)"
-1013908-10 = "[ns] \"This smell is...\""
-1013908-13 = "Ah, Sensei. You're here."
-1013908-14 = "It's going to take a little longer to finish... so you might be a bit early."
-1013908-15 = "[s1] \"It smells really delicious, though.\"\n[s2] \"Didn't you say you were making combat rations?\""
-1013908-18 = "Yes, they are combat rations."
-1013908-19 = "What I'm making now is a traditional combat ration carried by soldiers#nin the past—"
-1013908-23 = "That's right, inari sushi!"
-1013908-24 = "[s] \"Inari sushi can be a combat ration?\""
-1013908-29 = "Yes. Inari sushi meets the requirements of a combat ration."
-1013908-30 = "It's high in calories because it's fried in oil, and it has low moisture content so it#ndoesn't spoil easily. Plus, vinegar has antibacterial properties, so—"
-1013908-31 = "In situations where fire cannot be used, there is no ration more reliable than this."
-1013908-32 = "The only drawback is that it's so delicious you end up eating it right away. Hehe."
-1013908-33 = "[ns] \"Now that you mention it... that might be true.\""
-1013908-35 = "[ns3] \"Since you're going out of your way taking time to make it—\"\n[ns4] \"Is it different from your usual inari sushi?\""
-1013908-38 = "Yes. This time, I thought I'd make everything by hand, from deep-frying the tofu#nto the ingredients inside."
-1013908-39 = "The ones I always pack for the FOX Platoon's bento boxes use store-bought#nfried tofu, but—"
-1013908-40 = "I wanted to try making it with tofu that I fried myself, at least once."
-1013908-44 = "Ah... it's already this time."
-1013908-45 = "Excuse me for a moment…"
-1013908-50 = "[wa:390]― [log=니코]Hehe, [wa:1470]it's frying well.[/log]"
-1013908-52 = "― [log=니코]It's getting fluffy... [wa:2150]I'm looking forward to how it turns out.[/log]"
-1013908-55 = "[ns] \"That... looks delicious.\""
-1013908-56 = "[wa:860]― [log=니코]Ah, [wa:880]not yet.[/log]"
-1013908-59 = "[wa:480]― [log=니코]Because I'm going to fry it one more time after this.[/log]"
-1013908-62 = "― [log=니코]First at a low temperature.[/log]"
-1013908-64 = "― [log=니코]Then, frying it at a high temperature draws out the moisture, making a delicious fried tofu.[/log]"
-1013908-67 = "[ns] \"I didn't realize making deep-fried tofu was such a hassle…\""
-1013908-68 = "[wa:1200]― [log=니코]Actually, deep-fried tofu is...[/log]"
-1013908-70 = "― [log=니코]a dish that takes a lot of time and effort.[/log]"
-1013908-73 = "― [log=니코]In fact, in the past,[/log]"
-1013908-75 = "― [log=니코]it was said to be an offering to pray for a year of good harvest and peace.[/log]"
-1013908-78 = "[wa:2050]― [log=니코]My wish is...[/log]"
-1013908-80 = "― [log=니코]for everyone around me to be happy and [wa:2020]live peacefully.[/log]"
-1013908-83 = "― [log=니코]If my feelings put into this fried tofu can be conveyed...[/log]"
-1013908-85 = "― [log=니코]I'd be happy.[/log]"
-1013908-90 = "The double-fried tofu is complete!"
-1013908-91 = "I still have to simmer it and such from here, so it's not inari sushi yet, but..."
-1013908-92 = "Sensei, would you please have a bite to taste?"
-1013908-93 = "[s5] \"If you're okay with me...\"\n[s6] \"Is it really okay for me to have your first handmade fried tofu?\""
-1013908-96 = "Of course. I would be very happy if you would eat it, Sensei."
-1013908-97 = "[s] \"Well then... Thanks for the food.\""
-1013908-101 = "[ns7] \"It's piping hot and fluffy!\"\n[ns8] \"This soft texture is really nice!\""
-1013908-104 = "I'm glad it suits your tastes. The good thing about making it by hand is that you#ncan make it any thickness."
-1013908-105 = "I might have been a little greedy, so it feels more like thick-fried tofu than regular#nfried tofu..."
-1013908-106 = "But, for a first try, I think it turned out well."
-1013908-107 = "...By the way, Sensei. Do you have any plans for meals after this today?"
-1013908-108 = "If you'd like, I'll be making inari sushi with this fried tofu... so how about having it#nfor dinner?"
-1013908-109 = "[s] \"Of course, I'd gladly accept!\""
-1013908-110 = "Yes. I will prepare it right away, so please relax and wait, Sensei."
-1013908-111 = "[s] \"But...\""
-1013908-112 = "It's okay, you don't need to help. This is, after all, something I am doing because#nI want to."
-1013908-117 = "...After all, I'm offering my \"first\" to you Sensei."
-1013908-119 = "(After that, I spent a peaceful and satisfying dinner time eating the handmade#nInari sushi Niko made for me.)"
-1013908-120 = "(Niko's fried tofu had a somewhat soft and warm taste.)"
+1013908-1 = "Inarizushi de Nico"
+
+1013908-2 = "(Eu estava curioso sobre a comida em conserva de que Nico estava falando, então dei uma olhada na sala de cozinha durante meu intervalo para o almoço.)"
+
+1013908-7 = "Sala de cozinha na construção de placas de Petri"
+
+1013908-9 = "(No momento em que abri a porta, o som de óleo espirrando e um cheiro perfumado fizeram cócegas em meu nariz.)"
+
+1013908-10 = "[ns] \"Esse cheiro é...\""
+
+1013908-13 = "Ah, professora. Eu acho que você precisava disso. \r\n"
+
+1013908-14 = "Ainda vai demorar um pouco para terminar... então pode ter sido um pouco cedo."
+
+1013908-15 = "[s1] \"Tem um cheiro realmente delicioso.\"\r\n[s2] \"Você não disse que ia fazer rações de combate?\""
+
+1013908-18 = "Sim, são rações de combate."
+
+1013908-19 = "O que estou fazendo atualmente são as tradicionais rações de combate transportadas pelos soldados no passado."
+
+1013908-23 = "Sim, é Inarizushi! \r\n"
+
+1013908-24 = "[s] \"O sushi inari será usado como alimento de combate?\""
+
+1013908-29 = "sim. O sushi Inari atende aos requisitos para alimentação de combate. \r\n\r\n"
+
+1013908-30 = "Por ser frito em óleo, é rico em calorias e tem pouca umidade, por isso não estraga facilmente. #nE o vinagre tem propriedades antibacterianas."
+
+1013908-31 = "Em situações onde o fogo não está disponível, não existe outra fonte confiável de alimento."
+
+1013908-32 = "A desvantagem é que é tão gostoso que você acaba comendo na hora. n / D. \r\n"
+
+1013908-33 = "[ns] \"Se você me perguntar... talvez sim.""
+
+1013908-35 = "[ns3] \"O que você quer dizer com reservar um tempo para prepará-lo?\"\r\n[ns4] \"É diferente do sushi inari usual?\""
+
+1013908-38 = "sim. Desta vez resolvi fazer tudo à mão, desde a fritura do tofu até o recheio."
+
+1013908-39 = "O que sempre coloco nas lancheiras do pelotão FOX é tofu frito comprado em loja..."
+
+1013908-40 = "Pelo menos uma vez, quis tentar fazer com meu próprio tofu frito. \r\n"
+
+1013908-44 = "Ah... já faz tanto tempo. \r\n"
+
+1013908-45 = "Por favor, desculpe-me por um momento.... \r\n"
+
+1013908-50 = "[wa:390]― [log=니코]Hehe, [wa:1470]Está bem frito. [/registro]"
+
+1013908-52 = "― [log=니코]Hehe [wa:310]Estou vivendo... [wa:1890]Estou ansioso pelo produto final. [/registro]"
+
+1013908-55 = "[ns] \"Isso... parece delicioso.\""
+
+1013908-56 = "[wa:860]― [log=니코]Ah, [wa:880]Ainda não. [/registro]"
+
+1013908-59 = "[wa:480]― [log=니코]Depois disso, [wa:530]Vou fritar mais uma vez. [/registro]"
+
+1013908-62 = "- [log=니코]No início, em temperatura baixa. [/registro]"
+
+1013908-64 = "― [log=니코]Em seguida, se você fritar em alta temperatura, [wa:2080] a umidade sairá e ele se tornará um delicioso tofu frito. [/registro]"
+
+1013908-67 = "[ns] \"Tofu frito leva tanto tempo...\""
+
+1013908-68 = "[wa:1220]― [log=니코]Tofu frito é na verdade[/log]"
+
+1013908-70 = "- [log=니코]É um prato que exige muito tempo e esforço. [/registro]"
+
+1013908-73 = "― [log=니코]Isso foi o que aconteceu no passado[/log]"
+
+1013908-75 = "- [log=니코]Foi dito que era uma oferenda [wa:2620] para orar por uma boa colheita e paz no próximo ano. [/registro]"
+
+1013908-78 = "[wa:2050]― [log=니코]Meu desejo é[/log]"
+
+1013908-80 = "― [log=니코]Todos ao meu redor estão felizes e [wa:2420]podem viver em paz. [/registro]"
+
+1013908-83 = "― [log=니코]Se você puder transmitir meus sentimentos em tofu frito...[/log]"
+
+1013908-85 = "― [log=니코]Estou feliz. [/registro]"
+
+1013908-90 = "O tofu frito duas vezes frito está completo!"
+
+1013908-91 = "Tenho que fervê-lo agora, então ainda não será sushi inari..."
+
+1013908-92 = "Professor, poderia provar, por favor?"
+
+1013908-93 = "[s5] \"Se estiver tudo bem para mim...\"\r\n[s6] \"Posso comer seu primeiro tofu frito caseiro?""
+
+1013908-96 = "Claro. #nEu ficaria muito feliz se a professora pudesse comê-lo."
+
+1013908-97 = "[s] \"Bem, então...eu aceito.""
+
+1013908-101 = "[ns7] \"É quente e fofo!\"\n[ns8] \"Essa textura fofa é muito legal!\""
+
+1013908-104 = "Eu gostaria que estivesse na sua boca. #nO melhor dos produtos artesanais é que você pode fabricá-los em qualquer espessura."
+
+1013908-105 = "Eu era um pouco ganancioso, então acho que acabou sendo mais uma era do tofu do que tofu frito... \r\n"
+
+1013908-106 = "Mas acho que é um bom resultado pela primeira vez."
+
+1013908-107 = "...A propósito, Sr. #nVocê tem planos para jantar hoje mais tarde?"
+
+1013908-108 = "Se não se importa, farei sushi inari com esse tofu frito...#nQuer para o jantar?"
+
+1013908-109 = "[s] \"Claro, eu ficaria feliz!\""
+
+1013908-110 = "sim. Vou prepará-lo imediatamente, então, por favor, espere pacientemente."
+
+1013908-111 = "[s] \"Mas...\""
+
+1013908-112 = "Tudo bem se você não precisar de ajuda. #nIsso é algo que estou fazendo porque quero fazer. \r\n"
+
+1013908-117 = "...E também é minha “primeira oferta” ao meu professor."
+
+1013908-119 = "(Depois disso, tivemos um jantar tranquilo e satisfatório comendo sushi inari caseiro que Nico havia feito.)"
+
+1013908-120 = "（ニコの油揚げは、どこか柔らかくて、温かい味がした）"
+

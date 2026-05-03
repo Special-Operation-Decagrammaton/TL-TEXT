@@ -1,0 +1,187 @@
+[translation]
+1010002-1 = "especialista"
+
+1010002-4 = "Bom dia, doutor."
+
+1010002-5 = "[\"Bom dia, fiquei surpreso ao encontrá-lo em um lugar inesperado. \""
+
+1010002-6 = "...... assim?"
+
+1010002-7 = "É necessário fazer compras."
+
+1010002-8 = "É mais eficiente comprar uma variedade de produtos quando você para em uma rua comercial."
+
+1010002-9 = "Você também precisa de alguma coisa, professor? #nEu ganhei muito dinheiro recentemente, então vou comprar algo para o senhor."
+
+1010002-10 = "[s1] \"............. \"\n[s2] \"......Muito dinheiro, como? \"\"\n[s2]\""
+
+1010002-13 = "Hmm."
+
+1010002-14 = "[s]\"Não me diga que o banco o enviou para ......? \""
+
+1010002-15 = "...... Chi, não. Os bancos #n não foram atacados."
+
+1010002-18 = "...... Chi, não. Os bancos #n não foram atacados."
+
+1010002-19 = "Não quero causar problemas para a força-tarefa. #nPorque se eu for preso, meu shiroko aqui pode ser mal interpretado."
+
+1010002-20 = "É claro que eu não seria pego."
+
+1010002-21 = "Esse é o dinheiro que eu mesmo ganhei. #Não se preocupe, doutor."
+
+1010002-22 = "[s]\"Do you work part-time? \""
+
+1010002-23 = "......n, mais ou menos assim."
+
+1010002-24 = "Graças ao recente aumento no número de pessoas em Abydos, podemos ganhar #n."
+
+1010002-28 = "[\"Bom para você. \""
+
+1010002-30 = "(Depois de fazer compras com Shiroko, eles saíram da rua comercial)"
+
+1010002-35 = "Obrigado por fazer compras e se divertir. ......"
+
+1010002-36 = "Oh, eu levo sua bagagem."
+
+1010002-37 = "[\"Não se preocupe, você também está ocupado com o Silko, certo? \""
+
+1010002-38 = "Mas veja ......."
+
+1010002-39 = "[\"Podemos levá-lo até a casa de Shiroko? \""
+
+1010002-40 = "Meu, lar ......?"
+
+1010002-41 = "...... Então, é isso mesmo."
+
+1010002-42 = "Está um pouco bagunçado. ......"
+
+1010002-43 = "[s]\"I was wondering how you live. ...... \""
+
+1010002-47 = "...... Não, entendi."
+
+1010002-48 = "É como uma visita domiciliar."
+
+1010002-52 = "Por aqui, doutor."
+
+1010002-57 = "[Siga Siroko."
+
+1010002-62 = "Entrada do prédio abandonado"
+
+1010002-64 = "Hmm."
+
+1010002-65 = "[s3] \"Está abandonado. ......? \"\n[s4] \"Você mora aqui ......? \""
+
+1010002-68 = "Não, é um atalho."
+
+1010002-69 = "Passar por essas ruínas economizaria tempo."
+
+1010002-70 = "[s]\"......I see. \""
+
+1010002-71 = "Ainda vou caminhar mais um pouco."
+
+1010002-76 = "Tenha cuidado, pois é estreito."
+
+1010002-77 = "[s]\"......De jeito nenhum, você mora aqui? \""
+
+1010002-78 = "Esta é minha residência temporária anterior. #Agora moro em um lugar mais adequado."
+
+1010002-79 = "[\"Mãe, minha antiga casa! \""
+
+1010002-80 = "...... Sim, vamos lá."
+
+1010002-83 = "Áreas residenciais enterradas na areia."
+
+1010002-87 = "[ns5] \"Áreas residenciais abandonadas. ...... \"\n[ns6] \"Estou vendo, todas as casas estão vazias. ...... \""
+
+1010002-90 = "N, uso eficaz."
+
+1010002-91 = "[s7] \"Não é difícil? \"\n[s8] \"Acho que eles não têm eletricidade nem água corrente. ...... \""
+
+1010002-94 = "Hmm? #n De fato, esta casa é inconveniente."
+
+1010002-95 = "[s]\"...... yeah? \""
+
+1010002-96 = "Ah, ainda é muito longe de onde eu moro."
+
+1010002-97 = "Desculpe-me, não me expliquei bem o suficiente."
+
+1010002-102 = "[ns] \"....... \""
+
+1010002-106 = "Arrival, aqui."
+
+1010002-110 = "Entre."
+
+1010002-122 = "Este é o meu quarto."
+
+1010002-123 = "Não consegui limpá-lo por alguns dias, então está uma bagunça."
+
+1010002-127 = "[ns9] \"Então este é o quarto da Shiroko. \"\n[ns10] \"Você tem uma vida normal. "
+
+1010002-130 = "Normalmente ...... Talvez sim?"
+
+1010002-131 = "[s]\"Onde devo colocar o que comprei? \""
+
+1010002-132 = "Ah, o leite está na geladeira ...... O detergente está na prateleira ali ......."
+
+1010002-133 = "[s11] \"Vocês têm eletricidade! \"\n[s12] \"Você também tem água corrente! \"\"\n[s11] \n[s12] \"Você tem eletricidade!"
+
+1010002-136 = "Está quente e estou ligando o ar-condicionado."
+
+1010002-141 = "[ns] \"...... to the cooler! \""
+
+1010002-142 = "...... O que há de errado?"
+
+1010002-143 = "[\"Não, estou aliviado por você estar bem! \""
+
+1010002-144 = "Originalmente, não havia eletricidade ou água encanada. ......"
+
+1010002-145 = "O antigo conselho estudantil instalou energia solar nas proximidades, portanto, não podemos pegá-la emprestada."
+
+1010002-146 = "Há também um sistema de geração de eletricidade por bicicleta para emergências. Você também pode usar combustível #n para gerar eletricidade."
+
+1010002-147 = "[s]\"Soooo, amazing ....... \""
+
+1010002-148 = "O abastecimento de água não está funcionando, mas há dezenas de tanques."
+
+1010002-149 = "A água é devidamente purificada, portanto, você pode bebê-la imediatamente."
+
+1010002-150 = "A garagem ali é para conserto de bicicletas. No nono andar superior, foi construída uma academia de ginástica."
+
+1010002-151 = "Se você coletar peças de bicicletas descartadas, não precisará se preocupar em comprá-las e montá-las."
+
+1010002-152 = "[\"Oh, uau! \""
+
+1010002-153 = "O conserto de sucata metálica e sua venda no mercado podem ser bastante lucrativos."
+
+1010002-154 = "[s]\"Nah, estou vendo. ....... \""
+
+1010002-155 = "Hmm. #Parece haver uma demanda nos dias de hoje, graças ao aumento do número de pessoas em Abydos."
+
+1010002-159 = "[Não precisa se preocupar. \""
+
+1010002-160 = "Hmm."
+
+1010002-162 = "Sou um especialista, deixe isso comigo."
+
+1010002-172 = "(Decidiu ir embora antes que fosse tarde demais)"
+
+1010002-177 = "[ns] \"Entrarei em contato então. \""
+
+1010002-178 = "...... talvez você não consiga se conectar. #nEu estou saindo daqui por um tempo."
+
+1010002-179 = "[s13] \"O que você quer dizer com sair? \"\n[s14] \"Você está indo para uma longa viagem? \"\"\n[s14]]"
+
+1010002-184 = "Sinto falta das longas viagens....... #n...... Agora não estou mais pedalando."
+
+1010002-185 = "[s]\"eh. \""
+
+1010002-186 = "......."
+
+1010002-187 = "[ns] \"Which, why ......? \""
+
+1010002-191 = "Eu estava procurando algo em ......."
+
+1010002-192 = "Não vou embora tão cedo, então espero que você volte para me ver."
+
+1010002-196 = "Em seguida, acesse ......."
+

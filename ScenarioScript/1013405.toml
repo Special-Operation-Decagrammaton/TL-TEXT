@@ -1,53 +1,105 @@
 [translation]
-1013405-1 = "That there is a difference"
-1013405-2 = "(Concerned about Aris's state, you decide to go look for her.)"
-1013405-11 = "Warning. An unexpected error has occurred."
-1013405-12 = "Tendou Aris, please cease training immediately and return to the transport ship."
-1013405-13 = "(An announcement regarding Aris echoes through the ship.)"
-1013405-15 = "Oh, Sensei."
-1013405-16 = "[s1] \"Are you okay?\"\n[s2] \"Are you hurt?!\""
-1013405-19 = "Aris is fine."
-1013405-20 = "The trouble isn't with Aris, but with the Hero's armor... Abi-Eshuh."
-1013405-21 = "But... I don't really understand what kind of trouble it is."
-1013405-22 = "However, I did hear the cause."
-1013405-23 = "They said the changes were too much for Abi-Eshuh to handle. #nThey said it needs adjustments to stabilize."
-1013405-27 = "I feel sorry for Abi-Eshuh."
-1013405-28 = "[s3] \"Sorry for it?\"\n[s4] \"What do you mean by that?\""
-1013405-31 = "Well, you see... I understand, too."
-1013405-32 = "That Abi-Eshuh is a \"weapon\" created for combat."
-1013405-33 = "There is no sadness or joy in that."
-1013405-34 = "I heard it from everyone."
-1013405-35 = "That Abi-Eshuh used to be incredibly strong."
-1013405-36 = "That it was an impossibly huge, cheat-tier armor with no chance of losing."
-1013405-37 = "But then, it kept fighting and breaking over and over..."
-1013405-38 = "And now, it has shrunk until it fits me perfectly."
-1013405-39 = "...They told me this might be the last time."
-1013405-40 = "That if it breaks again... it can't be fixed anymore."
-1013405-41 = "Even so, they keep modifying Abi-Eshuh for the next battle."
-1013405-42 = "To have a fate where it just fights until the very end..."
-1013405-43 = "I... I think that's just too much, Sensei..."
-1013405-44 = "I want to take Abi-Eshuh to the Game Development Department room. #nI want to show it to everyone in the Engineering Department, too."
-1013405-45 = "I want to go to many more places together... and have it meet many more people. #nAnd then—"
-1013405-46 = "I hope Abi-Eshuh can be loved by everyone, too. Just like the Sword of Light."
-1013405-50 = "...Please tell me, Sensei."
-1013405-51 = "What is the difference between Abi-Eshuh and the Sword of Light?"
-1013405-52 = "Even though both were created as \"weapons\"..."
-1013405-53 = "To just follow a fate decided from the very beginning—"
-1013405-54 = "That isn't right. That is... what I was taught."
-1013405-55 = "That you are the one who decides your own path."
-1013405-56 = "But Abi-Eshuh is..."
-1013405-57 = "That's why I... I..."
-1013405-62 = "Sensei...?"
-1013405-65 = "[ns] You hug Aris."
-1013405-68 = "[ns5] \"Don't forget those feelings.\"\n[ns6] \"If you do, I'm sure Abi-Eshuh will be happy too.\""
-1013405-71 = "...This is strange."
-1013405-72 = "Usually, when you hug me, I feel happy."
-1013405-73 = "But for some reason, right now, tears are coming out."
-1013405-74 = "I don't really understand why this is happening..."
-1013405-75 = "[s7] \"It's okay. Aris still has plenty of time.\"\n[s8] \"The day will come when you understand.\""
-1013405-78 = "...You are a mystery, Sensei."
-1013405-79 = "I don't understand what you're trying to tell me at all."
-1013405-80 = "But when you say it, I feel like it will definitely come true someday."
-1013405-81 = "That's why... you really are a mystery, Sensei."
-1013405-83 = "(You continue to hold Aris for a while.)"
-1013405-84 = "(Once Abi-Eshuh's maintenance was complete, Aris returned to training.)"
+1013405-1 = "que há uma diferença"
+
+1013405-2 = "(Eu estava preocupado com a condição de Alice e decidi procurá-la.)"
+
+1013405-11 = "advertência. Ocorreu um problema inesperado."
+
+1013405-12 = "[ruby=てんどう]天童[/ruby]アリスは直ちに訓練を中断し、輸送船に戻ってください。"
+
+1013405-13 = "(Um anúncio sobre Alice foi ouvido no navio)"
+
+1013405-15 = "Ah, professora."
+
+1013405-16 = "[s1] \"Você está bem?\"\n[s2] \"Você não está ferido!?\""
+
+1013405-19 = "Alice está bem."
+
+1013405-20 = "O problema não surgiu com Alice, mas com a armadura do herói...Abi Yeshuf."
+
+1013405-21 = "Mas... Alice realmente não entende que tipo de problema aconteceu."
+
+1013405-22 = "Mas ouvi o motivo."
+
+1013405-23 = "Aparentemente, isso ocorreu porque as mudanças foram grandes demais para Abi Yeshuv. #nEle disse que eram necessários ajustes para estabilizá-lo."
+
+1013405-27 = "Sinto-me mal por Abi Yeshuf."
+
+1013405-28 = "[s3] \"Pobre de mim?\"\n[s4] \"O que... isso significa?\""
+
+1013405-31 = "Bem... Alice também sabe disso."
+
+1013405-32 = "Abi Yeshuf é uma “arma” feita para a batalha."
+
+1013405-33 = "Não há tristeza ou alegria aí."
+
+1013405-34 = "Alice, ouvi de todos."
+
+1013405-35 = "Dizia-se que Abi Yeshuf era muito forte."
+
+1013405-36 = "Era incrivelmente grande e não havia chance de vencer... era uma armadura de classe trapaceira."
+
+1013405-37 = "Mas então, continuei lutando e desmoronando repetidas vezes..."
+
+1013405-38 = "Agora é pequeno o suficiente para caber perfeitamente em Alice."
+
+1013405-39 = "...Disseram-me que esta poderia ser a última vez."
+
+1013405-40 = "Da próxima vez que quebrar... você não conseguirá consertá-lo."
+
+1013405-41 = "Ainda assim, Abi Yeshuv continua modificado para a próxima batalha."
+
+1013405-42 = "É meu destino apenas lutar até o fim..."
+
+1013405-43 = "Quanto a Alice...acho que esse tipo de coisa é demais para Alice..."
+
+1013405-44 = "Gostaria de trazer Abi Eshuf para a sala do departamento de desenvolvimento de jogos. #nQuero mostrar para todos do departamento de engenharia."
+
+1013405-45 = "Quero que vamos a mais lugares juntos e conheçamos mais pessoas. #n Então--"
+
+1013405-46 = "Espero que todos amem Abi Eshuf também. Como uma espada de luz."
+
+1013405-50 = "...Por favor me diga, professor."
+
+1013405-51 = "Qual é a diferença entre Abi Yeshuf e a Espada de Luz?"
+
+1013405-52 = "Mesmo que ambos tenham sido criados como "armas"..."
+
+1013405-53 = "Apenas seguindo o destino que foi decidido desde o início――"
+
+1013405-54 = "Não está correto. Alice... foi isso que aprendi."
+
+1013405-55 = "Cabe a você decidir."
+
+1013405-56 = "Mas Abi Yeshuf..."
+
+1013405-57 = "Então Alice...Alice..."
+
+1013405-62 = "professor……?"
+
+1013405-65 = "[ns] Abraço Alice."
+
+1013405-68 = "[ns5] \"Não se esqueça desse sentimento.\"\n[ns6] \"Se você fizer isso, tenho certeza que Abi Yeshuv ficará feliz.\""
+
+1013405-71 = "...Isso é estranho."
+
+1013405-72 = "Sempre me sentia feliz quando minha professora me abraçava."
+
+1013405-73 = "Por alguma razão, estou chorando agora."
+
+1013405-74 = "Alice realmente não entende por que isso está acontecendo."
+
+1013405-75 = "[s7] \"Está tudo bem. Alice ainda tem tempo.\"\n[s8] \"Um dia você vai entender.""
+
+1013405-78 = "...A professora é estranha."
+
+1013405-79 = "Alice não tem ideia do que a professora está tentando transmitir."
+
+1013405-80 = "Mas quando meu professor diz isso, sinto que isso definitivamente acontecerá algum dia."
+
+1013405-81 = "Então... afinal a professora é estranha."
+
+1013405-83 = "(continua abraçando Alice por um tempo)"
+
+1013405-84 = "(Depois que Abi Yeshuf foi reparado, Alice voltou a treinar.)"
+

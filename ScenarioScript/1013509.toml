@@ -1,97 +1,193 @@
 [translation]
-1013509-1 = "The Flowing Evening"
-1013509-3 = "[ns] \"Welcome to Schale!\""
-1013509-4 = "Too formal!"
-1013509-5 = "...Or rather, this isn't even my first time here."
-1013509-6 = "[s] \"I'm happy no matter how many times you come.\""
-1013509-7 = "...."
-1013509-8 = "It's not like I'm unhappy...."
-1013509-12 = "Please don't try and pounce on me! I'll shoot!?"
-1013509-14 = "Anyways. Your work at Schale is all just consulting or arbitrating isn't it?"
-1013509-15 = "You should be able to just talk with the parties in question and decide things within the rules.#nWhy are you bringing the work to Schale..."
-1013509-16 = "And from a security standpoint, I question the sanity of still using paper."
-1013509-17 = "Of course, a perfectly secure network doesn't exist, but...."
-1013509-18 = "In the first place, shouldn't you be decrease the matters that require high levels of security?"
-1013509-19 = "[s] \"That's just how humans work....\""
-1013509-20 = "But if you overwork yourself, that defeats the whole point!"
-1013509-21 = "If your workload was decrease, or at least you kept the status quo, I wouldn't say anything."
-1013509-22 = "But you should well know that the work never ends."
-1013509-23 = "And paradoxically, the more Schale solves problems, the more people bring in issues."
-1013509-24 = "And weren't you supposed to be an educator, Sensei?"
-1013509-25 = "You keep on telling students about their true essence, but haven't you forgotten yours?"
-1013509-26 = "[s1] \"I guess... you're right\"\n[s2] \"At this rate, I'll end up forgetting what I was supposed to teach...\""
-1013509-29 = "You're talking like it's someone else's problem."
-1013509-30 = "For now, the paperwork over here is done."
-1013509-31 = "No, even you celebrate now... I just did what the student on duty is supposed to."
-1013509-32 = "Kivotos is such a troublesome place."
-1013509-33 = "The students do as they please. So everyday ridiculous happenings occur all over."
-1013509-34 = "But students are by definition children."
-1013509-35 = "It can't be helped that they lack self-control."
-1013509-36 = "That's why construction is Kivotos' star industry."
-1013509-37 = "[s] \"Kivotos is an academy city after all....\""
-1013509-38 = "Even so, I can't just stand by and watch."
-1013509-39 = "This is the kind of situation that no one realizes is bad until someone collapses."
-1013509-40 = "....Yes, here.#nGo through this procedure, it's a statistics document."
-1013509-41 = "Sometimes the numbers are enough to prove everything."
+1013509-1 = "crepúsculo fluindo"
+
+1013509-3 = "[ns] \"Bem-vindo à placa de Petri!\""
+
+1013509-4 = "Isso é um exagero!"
+
+1013509-5 = "...Ou melhor, não é a primeira vez, certo?"
+
+1013509-6 = "[s] \"Não importa quantas vezes eu esteja feliz!""
+
+1013509-7 = "……."
+
+1013509-8 = "Não é como se eu também não estivesse feliz..."
+
+1013509-12 = "Não tente pular direto! Eu vou atirar! ?"
+
+1013509-14 = "A história em primeiro lugar. O trabalho da Placa de Petri não é mais propor opiniões e agir como intermediário?"
+
+1013509-15 = "Seria melhor que as partes envolvidas discutissem essas questões e as resolvessem dentro das regras. Mesmo sendo #n, eles se esforçaram para trazê-lo para a placa de Petri..."
+
+1013509-16 = "Também não acho que seja correto usar papel por questões de segurança."
+
+1013509-17 = "É claro que nenhuma rede pode ter segurança perfeita."
+
+1013509-18 = "Se for esse o caso, não seria uma boa ideia reduzir ao máximo o número de casos que exigem um nível de segurança mais alto...?"
+
+1013509-19 = "[s] \"É assim que os humanos funcionam...\""
+
+1013509-20 = "Se o professor estivesse exausto, ele não teria filhos?"
+
+1013509-21 = "Não reclamarei se conseguir menos trabalho ou pelo menos manter o status quo."
+
+1013509-22 = "Mas você sabe o que? Não falta trabalho."
+
+1013509-23 = "Na verdade, quanto mais problemas uma placa de Petri resolve, mais problemas as pessoas ao seu redor trazem."
+
+1013509-24 = "Ou melhor, os professores são originalmente educadores, certo?"
+
+1013509-25 = "Ao dizer isso e aquilo aos seus alunos, você não se esquece do seu próprio dever?"
+
+1013509-26 = "[s1] \"Sim, isso mesmo...\"\n[s2] \"Com isso, você pode esquecer o que precisa ensinar...\""
+
+1013509-29 = "É como se não fosse da conta de mais ninguém..."
+
+1013509-30 = "Assim que este documento estiver concluído."
+
+1013509-31 = "Não, mesmo que eu estivesse tão satisfeito... eu só estava fazendo o que era esperado de mim no serviço..."
+
+1013509-32 = "Kivotos também é difícil."
+
+1013509-33 = "Os alunos podem fazer o que quiserem. É por isso que coisas que não fazem sentido acontecem todos os dias."
+
+1013509-34 = "No entanto, os alunos são crianças."
+
+1013509-35 = "Bem, não pode ser ajudado que você não consiga se controlar."
+
+1013509-36 = "É por isso que a indústria da construção é uma indústria estrela."
+
+1013509-37 = "[s] \"Porque Kivotos é uma cidade universitária...\""
+
+1013509-38 = "Mesmo assim, não consigo assistir."
+
+1013509-39 = "Só depois que alguém desmaia é que as pessoas ao seu redor percebem isso."
+
+1013509-40 = "...Sim, isso. #nPor favor, siga estas etapas. Estes são dados estatísticos."
+
+1013509-41 = "Às vezes, os números provam tudo."
+
 1013509-45 = "[ns] \"Kei-chan.\""
-1013509-46 = "Yes?"
-1013509-51 = "[ns] \"I love you!!\""
-1013509-52 = "Stop saying stupid things and get back to work!!"
-1013509-58 = "[ns] \"I think we'll be able to just finish things by the end of the day....\""
-1013509-61 = "...Are you okay?"
-1013509-62 = "...My worry re-energized you?"
-1013509-63 = "Ha... I feel like my concern is wasted."
-1013509-64 = "Yes? Dinner? Together...?#nEh, and accessory shopping...?"
-1013509-65 = "Sensei, you must be tired.#nYou were just about to collapse earlier."
-1013509-66 = "It's okay?#nWell, if you say so, then let's do it."
-1013509-67 = "...."
-1013509-68 = "By the way, who is tomorrow's student?"
-1013509-69 = "[s] \"If I remember....\""
-1013509-73 = "[ns] \"Hm? It looks like it's undecided do to some trouble.\""
-1013509-74 = "... Are you okay with that?"
-1013509-75 = "As long as ask in the morning it'll be fine?"
-1013509-76 = "...."
-1013509-77 = "Then, why don't you choose me?"
-1013509-78 = "[s] \"Eehh?!\""
-1013509-79 = "W-what's with that face?"
-1013509-80 = "T-this is, if I were to say...!"
-1013509-81 = "O-oh yeah! This is just training so I can adapt to Kivotos! And grasp what Schale's work is, and work on my people skills....!"
-1013509-82 = "And dealing with budgets with no hope of increasing. And workloads that are about to topple! And the future of Schale, and Sensei's chores... and, and ...!"
-1013509-83 = "Anyways! It's training for those sorts of things and practice too!"
-1013509-84 = "So this is a very rational decision for both Sensei and me! You should be thanking me!"
-1013509-85 = "[s] \"Rational, you say? That sounds...\""
-1013509-86 = "!!"
-1013509-87 = "That was just a turn of the phrase and .... Uuu... this is humiliating....!"
-1013509-88 = "Anyways! It's settled!"
+
+1013509-46 = "sim?"
+
+1013509-51 = "[ns] \"Eu adorei!!\""
+
+1013509-52 = "Não diga nada estúpido e continue com seu trabalho! !"
+
+1013509-58 = "[ns] \"Parece que hoje vai acabar de alguma forma...\""
+
+1013509-61 = "……OK?"
+
+1013509-62 = "Huh? Você se sentiu melhor depois de ficar preocupado comigo...?"
+
+1013509-63 = "Suspiro... perdi dinheiro por me preocupar."
+
+1013509-64 = "sim? É jantar? junto……? #nO quê, você vai comprar alguns acessórios também...?"
+
+1013509-65 = "Professor, você não está cansado...? #nEu quase caí agora há pouco."
+
+1013509-66 = "...... Você está bem? #nBem, então. Vamos fazer isso?"
+
+1013509-67 = "……."
+
+1013509-68 = "Aliás, quem estará de plantão amanhã?"
+
+1013509-69 = "[s] \"Tenho certeza...\""
+
+1013509-73 = "[ns] \"Huh? Parece estar indeciso devido a algum tipo de problema.\""
+
+1013509-74 = "...Tudo bem?"
+
+1013509-75 = "Tudo bem se eu ligar para você pela manhã...?"
+
+1013509-76 = "……."
+
+1013509-77 = "Então por que você não faz isso por mim?"
+
+1013509-78 = "[s] \"Eh!?\""
+
+1013509-79 = "Ei, por que você está fazendo essa cara?"
+
+1013509-80 = "Bem, se eu dissesse isso...!"
+
+1013509-81 = "Isso mesmo! Pelo meu treinamento de adaptação aos Kivotos, pela compreensão do negócio da Petri e pelo aprimoramento das habilidades de negociação interpessoal...!"
+
+1013509-82 = "Despesas do departamento que não devem aumentar, o problema de uma carga de trabalho cada vez mais desequilibrada, o futuro das placas de Petri, as questões diversas do professor... e muito mais...!"
+
+1013509-83 = "de qualquer forma! Treinamento e prática para essas coisas...!"
+
+1013509-84 = "Em outras palavras, é uma decisão racional tanto para o professor quanto para mim! Por favor, seja grato!"
+
+1013509-85 = "[s] \"'Razoável'... é como... \""
+
+1013509-86 = "! !"
+
+1013509-87 = "Eu, o que acabei de dizer foi apenas um truque de palavras... Ugh, isso é uma humilhação...!"
+
+1013509-88 = "de qualquer forma! Muito legal!"
+
 1013509-89 = "[s] \"Kei-chan.\""
-1013509-90 = "What is it?"
-1013509-91 = "[s] \"Can I pat your head once?\""
-1013509-92 = "Just try it. I'll kill you and then myself!!"
-1013509-94 = "On that note, good work for today."
-1013509-95 = "In any case, I'm on duty for tomorrow, so we can do the rest then."
-1013509-96 = "……What are you doing? Let's go.#nWe're going out to eat among other things, are we not?"
-1013509-97 = "[s] \"Yeah, just wait a moment.\""
-1013509-99 = "(When I tried to get up...)"
-1013509-106 = "[ns] \"Huh...?\""
-1013509-107 = "Sensei....?"
-1013509-108 = "Is something the matter?"
-1013509-113 = "[ns] \".....!\""
-1013509-114 = "Sensei?"
-1013509-119 = "Eh? I blurred... and then disappeared?"
-1013509-120 = "I was here the entire time...?"
-1013509-121 = "...."
-1013509-122 = "You must be tired.#nThe first thing to go when you're tired is your eyesight."
-1013509-123 = "You shouldn't push yourself today."
-1013509-126 = "[wa:2180]— [log=케이 교복]Don't worry.[/log]"
-1013509-127 = "[wa:2780]— [log=케이 교복]I won't disappear.[/log]"
-1013509-130 = "[wa:560]— [log=케이 교복]In fact,[wa:1320] it's the opposite.[/log]"
-1013509-131 = "[wa:2620]— [log=케이 교복]I'm going to,[wa:1540] do everything in my power[wa:1130] to stay alive.[wa:40][/log]"
-1013509-134 = "[wa:3530]— [log=케이 교복]If you're not going to[wa:1250] abandon this world.[/log]"
-1013509-135 = "[wa:3540]— [log=케이 교복]I too, will never give up,[wa:1990] until the end.[/log]"
-1013509-138 = "[wa:500]— [log=케이 교복]So, it's okay....[wa:2360] It'll definitely,[wa:1860] be fine.[/log]"
-1013509-139 = "[wa:2320]— [log=케이 교복]I'll always[wa:1730] be here.[/log]"
-1013509-142 = "[wa:2730]— [log=케이 교복]Because just between us, but....[wa:2840] I—[/log]"
-1013509-143 = "[wa:2740]— [log=케이 교복]I don't hate you,[wa:2280] Sensei.[/log]"
-1013509-155 = "(I sent Kei back to Millennium, just a little bit more slowly than usual)"
-1013509-156 = "(At first we kept an awkward distance from each other...)"
-1013509-157 = "(But when I realized it, a small hand was grabbing my pinky.)"
+
+1013509-90 = "o que."
+
+1013509-91 = "[s] \"Posso dar um tapinha na sua cabeça só uma vez...?\""
+
+1013509-92 = "Se você fizer isso, eu vou te matar e te matar também! !"
+
+1013509-94 = "Pois bem, obrigado pelo seu trabalho duro."
+
+1013509-95 = "Estarei de plantão amanhã de qualquer maneira. O resto pode ser feito amanhã."
+
+1013509-96 = "...O que você está fazendo? Eu irei. #nVamos comer juntos e fazer outras coisas, certo?"
+
+1013509-97 = "[s] \"Sim, espere um minuto.""
+
+1013509-99 = "(Assim que eu estava prestes a me levantar――)"
+
+1013509-106 = "[ns] \"Isso......\""
+
+1013509-107 = "professor……?"
+
+1013509-108 = "O que está errado?"
+
+1013509-113 = "[ns] \"...!\""
+
+1013509-114 = "professor?"
+
+1013509-119 = "Huh? Fiquei nebuloso ou desapareci...?"
+
+1013509-120 = "Eu estive aqui o tempo todo...?"
+
+1013509-121 = "……."
+
+1013509-122 = "Parece que você está cansado, afinal. #nQuando você fica cansado, sua visão é a primeira coisa a sofrer."
+
+1013509-123 = "Provavelmente é melhor não se esforçar muito hoje."
+
+1013509-126 = "[wa:2180]― [log=케이 교복]Não se preocupe. [/registro]"
+
+1013509-127 = "[wa:2780]― [log=케이 교복]Eu nunca irei desaparecer. [/registro]"
+
+1013509-130 = "[wa:560]― [log=케이 교복]Na verdade, [wa:1320]é o oposto. [/registro]"
+
+1013509-131 = "[wa:2620]― [log=케이 교복]Eu farei [wa:1540] o que for preciso para sobreviver [wa:1130]. [wa:40] [/log]"
+
+1013509-134 = "[wa:3530]― [log=케이 교복]Se você não abandonar este mundo [wa:1250].  [/registro]"
+
+1013509-135 = "[wa:3540]― [log=케이 교복]Até o fim, [wa:1990]Eu nunca desistirei.  [/registro]"
+
+1013509-138 = "[wa:500]― [log=케이 교복]Então está tudo bem...[wa:2360]Com certeza, [wa:1860]Está tudo bem.  [/registro]"
+
+1013509-139 = "[wa:2320]― [log=케이 교복]Estou aqui desde sempre [wa:1730]. [/registro]"
+
+1013509-142 = "[wa:2730]―― [log=케이 교복]Isso é apenas uma história...[wa:2840]Eu sou――[/log]"
+
+1013509-143 = "[wa:2740]― [log=케이 교복]Eu não te odeio, [wa:2280]. [/registro]"
+
+1013509-155 = "(Enviei Kei para o Millennium um pouco mais devagar que o normal.)"
+
+1013509-156 = "(No começo eu andei a uma distância estranha...)"
+
+1013509-157 = "(A próxima coisa que percebi foi que uma pequena mão segurava meu dedo mínimo.)"
+

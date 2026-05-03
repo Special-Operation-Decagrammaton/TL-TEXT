@@ -1,65 +1,129 @@
 [translation]
-1013502-1 = "Stress Relief"
-1013502-3 = "...."
-1013502-4 = "[s] \".....\""
-1013502-5 = ".... Why are you staring at me like that?"
-1013502-6 = "Is there something on my face?#nNo, that can't be it. I looked in the mirror."
-1013502-7 = "[s] \"No... How should I say this....\""
+1013502-1 = "alívio do estresse"
+
+1013502-3 = "……."
+
+1013502-4 = "[s] \"…….\""
+
+1013502-5 = "...O que é? Olhe para mim."
+
+1013502-6 = "alguma coisa no meu rosto? #nNão, isso não pode ser verdade. Eu me olhei no espelho."
+
+1013502-7 = "[s] \"Bem, o que posso dizer...\""
+
 1013502-8 = "?"
-1013502-9 = "[s] \"I was just thinking that it really did work out well.\""
-1013502-10 = "... I suppose that's true."
-1013502-11 = "[s] \"Also that... Kei-chan really is cute....\""
-1013502-12 = "Why are we suddenly bringing this up now?!"
-1013502-13 = "[s] \"Did you maybe prefer your older body?\""
-1013502-14 = "That is *not* the case!"
-1013502-15 = "Eh? Then you think I'm not happy that I'm cute?"
-1013502-16 = "....."
-1013502-17 = "......."
-1013502-18 = ".........."
-1013502-19 = "It's not like .... I hate it."
-1013502-20 = "[s] \"You don't like it?\""
-1013502-21 = "Th-thats...."
-1013502-22 = "...."
-1013502-23 = ".... I ...."
-1013502-24 = "I like it! Only if you forced me to choose, I might add though!"
-1013502-25 = "[s] \"Fufu\""
-1013502-26 = "What...?"
-1013502-27 = "[s] \"It's cute that you can't be honest.\""
-1013502-28 = "You~~!!!!!!!"
-1013502-30 = "It seems like this body was made with performance on the front lines in mind but...."
-1013502-31 = "Given that, it sure is stiff."
-1013502-32 = "I should just use WE-40 on the joints? What are you saying!#nWhat are you saying!"
-1013502-33 = "That's a lubricant, or rather used for cleaning!#nAnd that's different from what it was originally used for!!"
-1013502-34 = "And the stiffness was just a metaphor!!"
-1013502-35 = "[s] \"Sorry, sorry....\""
-1013502-36 = "... that being said."
-1013502-37 = "It's like I'm using something left on the ground.#nI should be happy that it just moves."
-1013502-38 = "No, it's not like I'm annoyed or anything."
-1013502-39 = "Actually, I should be thankful for the situation."
-1013502-40 = "And life never goes the way you want it to.#nIsn't just having half of it go well is on the better side?"
-1013502-41 = "So, if there's still something left to burn, then I think you should burn it to ashes."
-1013502-42 = "Until those flames reach something in the unseen beyond."
-1013502-43 = "In any case, this body was fated to be discarded."
-1013502-44 = "I'm the one saying this, but it just makes me depressed."
-1013502-45 = "[s] \"Are you sure you don't want your old body....?\""
-1013502-46 = "Over! My! Dead! Body!!!"
-1013502-47 = "Geez.... can't even say a single joke here...."
-1013502-48 = "And this body is built in a much more delicate way than it looks."
-1013502-49 = "It may feel different seeing it from a third person point of view...."
-1013502-50 = "So .... what I want to say is...."
-1013502-51 = "[s] \"Everyone thinks you're precious, you know.\""
-1013502-52 = "I, I know that!#nThat's not what I wanted to say!"
-1013502-53 = "Um... what I mean is...."
-1013502-54 = "A ribbon, or..."
-1013502-55 = "Something to tie my hair would be nice....."
-1013502-56 = "[s] \"Ribbon?\""
-1013502-57 = "...!!"
-1013502-58 = "You know what? Forget about it! Pretend you didn't hear it!#nNo, you actually didn't hear anything!"
-1013502-59 = "Wh-why are you smirking! I'm gonna get angry for real, you know !?"
-1013502-60 = "Eh? You'll ask Rio...?"
-1013502-61 = "Why, Rio...?"
-1013502-62 = "...."
-1013502-63 = "...!!"
-1013502-64 = "This is on purpose, right!?"
-1013502-65 = "[s1] \"Perish the thought! Rio seems like she'd know about these things.....\"\n[s2] \"I'm truly thinking about you when I'm saying this!\""
-1013502-70 = "THIS IS EXACTLY WHAT I HATE ABOUT YOU!!!"
+
+1013502-9 = "[s] \"Achei que funcionasse.\""
+
+1013502-10 = "……Concordo."
+
+1013502-11 = "[s] \"Além disso...Kei-chan é muito fofo...\""
+
+1013502-12 = "Por que você está falando assim? ?"
+
+1013502-13 = "[s] \"Talvez seu corpo anterior fosse melhor?\""
+
+1013502-14 = "Isso não é verdade!"
+
+1013502-15 = "Huh? Então você não gosta de ser fofo...?"
+
+1013502-16 = "……."
+
+1013502-17 = "…………."
+
+1013502-18 = "………………."
+
+1013502-19 = "Não é que eu não goste... eu não gosto."
+
+1013502-20 = "[s] \"Você não gosta disso?\""
+
+1013502-21 = "isso é……."
+
+1013502-22 = "……."
+
+1013502-23 = "……é."
+
+1013502-24 = "Eu gosto disso...! Se eu tivesse que dizer isso, eu diria!"
+
+1013502-25 = "[s] \"Hehe.\""
+
+1013502-26 = "O que é...?"
+
+1013502-27 = "[s] \"Porque você não está sendo honesto.\""
+
+1013502-28 = "Também! ! ! ! !"
+
+1013502-30 = "Este corpo parece ter sido feito pensando nas atividades de linha de frente..."
+
+1013502-31 = "Estou falando muito sério sobre isso."
+
+1013502-32 = "foto? Talvez eu deva usar WE-40 para as juntas...? #nO que você está dizendo?"
+
+1013502-33 = "É um lubrificante ou algo usado para limpeza! #nIsso é diferente do uso original! !"
+
+1013502-34 = "Além disso, quando digo rígido, é apenas um exemplo!"
+
+1013502-35 = "[s] \"Desculpe, desculpe...\""
+
+1013502-36 = "... Dito isto..."
+
+1013502-37 = "É como pegar algo que caiu e usá-lo. #nDeveríamos ser gratos apenas por funcionar corretamente."
+
+1013502-38 = "Não, não é que eu esteja com raiva ou algo assim."
+
+1013502-39 = "Na verdade, eu diria que esta é uma situação pela qual devemos estar gratos."
+
+1013502-40 = "Não há como você ficar satisfeito com tudo na vida. #nNão seria melhor se você pudesse nos dar metade disso?"
+
+1013502-41 = "Portanto, se ainda há algo para queimar, acho que devemos queimar até o fim."
+
+1013502-42 = "Até que essa chama atinja algo que ainda não vimos."
+
+1013502-43 = "Em qualquer caso, parece que este corpo estava originalmente destinado a ser eliminado."
+
+1013502-44 = "...Se assim posso dizer, estou começando a me sentir deprimido."
+
+1013502-45 = "[s] \"Afinal, o corpo anterior é melhor...?\""
+
+1013502-46 = "isso é! Mesmo se eu morrer! ! Impossível! ! !"
+
+1013502-47 = "Inferno, não posso contar uma única piada."
+
+1013502-48 = "Além disso, este corpo é feito com muito mais delicadeza do que parece."
+
+1013502-49 = "Se você olhar de lado, você pode se sentir diferente, mas..."
+
+1013502-50 = "Então, de alguma forma..."
+
+1013502-51 = "[s] \"Todo mundo se preocupa com Kei, certo?\""
+
+1013502-52 = "Eu-eu sei disso! #nNão é isso que eu quero dizer!"
+
+1013502-53 = "Para que..."
+
+1013502-54 = "Fitas, etc."
+
+1013502-55 = "...Eu gostaria de ter algo para amarrar meu cabelo."
+
+1013502-56 = "[s] \"Fita?\""
+
+1013502-57 = "...! !"
+
+1013502-58 = "Afinal, não é nada! Por favor, finja que não perguntou. #nNão, a professora não ouviu nada!"
+
+1013502-59 = "O que é esse sorriso no seu rosto? Estou com muita raiva! ?"
+
+1013502-60 = "Huh? Devo perguntar ao Rio...?"
+
+1013502-61 = "Por que Rio..."
+
+1013502-62 = "……."
+
+1013502-63 = "...! !"
+
+1013502-64 = "É intencional! ?"
+
+1013502-65 = "[s1] \"De jeito nenhum! Rio sabe muitas coisas...\"\n[s2] \"Isso foi puramente para Kei-chan!\""
+
+1013502-70 = "Esse é o ponto! ! !"
+

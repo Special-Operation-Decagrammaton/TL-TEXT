@@ -1,68 +1,135 @@
 [translation]
-1013602-1 = "Efficiency and Inefficiency"
-1013602-4 = "Good morning. You're a sleepyhead, Sensei."
-1013602-5 = "[s] \"Good morning. You're energetic this early...\""
-1013602-6 = "Well, the situation is different from usual right now. We have to do what we can."
-1013602-7 = "That being said, reconnaissance is all we can do... Oh, come to think of it—"
-1013602-8 = "I picked up a slightly concerning signal earlier. I'm heading there now."
-1013602-9 = "[s] \"Can I come with you?\""
-1013602-10 = "Hmm, sure, but... Just in case something happens..."
-1013602-14 = "...Well, whatever. I'll protect you. No matter what."
-1013602-17 = "(I went outside with Eimi.)"
-1013602-20 = "We'll scout from here. It should take about 2 hours."
-1013602-21 = "I plan to move slowly, at about 4 kilometers per hour."
-1013602-22 = "Ah, but it's okay if you're slower than that. Though it'd be a bit of a problem#nif you're too slow."
-1013602-23 = "You see, if we get separated, I won't be able to protect you, right?#nTry not to fall too far behind."
-1013602-25 = "(And so, I began the reconnaissance with Eimi.)"
-1013602-29 = "(Eimi's pace was fast, and it was hard to keep up...)"
-1013602-32 = "Amazing. You're actually keeping up, Sensei."
-1013602-33 = "[s] \"Even if that's flattery, I'm happy... I mean… can I really say I’m keeping up with this…?\""
-1013602-34 = "It's not flattery. Someone would have been exhausted right away."
-1013602-35 = "Eh? Yeah, pacing is important. Just like you said, Sensei."
-1013602-36 = "I think so, but..."
-1013602-37 = "...You get used to it. Still, it’s tough."
-1013602-38 = "!?"
-1013602-39 = "Sensei, hide!"
-1013602-43 = "(Suddenly, Eimi shoved me into a fissure in the cracked ground.)"
-1013602-44 = "Sorry for the sudden move."
-1013602-45 = "I want you to stay there until I say it's safe."
-1013602-46 = "Their numbers are— about one squad? In that case...!"
-1013602-53 = "It's safe now, Sensei."
-1013602-54 = "...But I doubt that was all of them."
-1013602-56 = "(Even after that, Eimi—)"
-1013602-60 = "Coordinates confirmed. Distance... 427m. I'll strike first...!"
-1013602-63 = "(Facing the enemy forces moving at breakneck speed...)"
-1013602-66 = "Maybe it's better to wait a bit—"
-1013602-67 = "No, it's probably better to deal with them first and then move on."
-1013602-68 = "It would be inefficient if the situation escalated...!"
-1013602-73 = "It seems that they haven't discovered our location yet... Judging by their#nequipment, that's probably a transport unit..."
-1013602-74 = "In that case—Search and Destroy!"
-1013602-77 = "(Eimi proceeded with the force reconnaissance surprisingly skillfully...)"
-1013602-80 = "Alright. There are no more danger signals."
-1013602-81 = "Good work, Sensei. Let's head back soon."
-1013602-82 = "[s] \"Do you always do things like this...? Amazing...\""
-1013602-83 = "It's no big deal. It's always like this."
-1013602-84 = "Probably because someone out there works people way too hard…"
-1013602-85 = "Well, I say it to her face too."
-1013602-86 = "[s] \"L-Let's all get along...\""
-1013602-87 = "We actually get along pretty well, don't we?"
-1013602-88 = "..."
-1013602-89 = "...Come to think of it, I've always been alone, so this might be my first time#nworking in a group."
-1013602-90 = "I used to think efficiency would drop if there are more people."
-1013602-91 = "...And some people were afraid of working with me."
-1013602-92 = "...My way of thinking wasn't really understood by others."
-1013602-93 = "[s] \"How about now?\""
-1013602-94 = "Now..."
-1013602-95 = "I wonder why. I'm surprisingly okay with it."
-1013602-96 = "Maybe because everyone is a little weird? We get along well, or rather..."
-1013602-97 = "It's really comfortable."
-1013602-98 = "[s] \"It's best for students to get along if possible. With the other girls, too.\""
-1013602-99 = "With the other girls, huh..."
-1013602-100 = "..."
-1013602-101 = "If it were the old me, I probably would have thought it was inefficient."
-1013602-102 = "But, it's kind of strange."
-1013602-103 = "Now, I feel like I want to cooperate."
-1013602-104 = "[s] \"I'm glad you feel that way.\""
-1013602-105 = "Yeah."
-1013602-106 = "Maybe your words had a little to do with it. Hehe."
-1013602-108 = "(After that, I chatted with Eimi as we returned to where everyone was.)"
+1013602-1 = "eficiência/ineficiência"
+
+1013602-4 = "bom dia. Você é um dorminhoco, senhor."
+
+1013602-5 = "[s] \"Bom dia. Você está se sentindo bem desde esta manhã...\""
+
+1013602-6 = "Bem, as coisas estão diferentes agora do normal. Eu tenho que fazer o que puder."
+
+1013602-7 = "No entanto, é apenas um reconhecimento poderoso... #nAh, agora que penso nisso――"
+
+1013602-8 = "Acabei de captar um sinal que chamou minha atenção. #nPara onde estou indo agora."
+
+1013602-9 = "[s] \"Posso ir junto?\""
+
+1013602-10 = "Hmm, tudo bem, mas.... #nSe algo acontecer..."
+
+1013602-14 = "...Bem, eu acho. Eu protegerei você. #nNão importa o que aconteça."
+
+1013602-17 = "(Ele saiu com Amy)"
+
+1013602-20 = "Vou começar a investigar a partir daqui. #nAcho que levará cerca de 2 horas."
+
+1013602-21 = "O plano é mover-se lentamente a cerca de 4 km/h."
+
+1013602-22 = "Ah, mas tudo bem se for depois disso. #nSe for muito lento, terei problemas."
+
+1013602-23 = "Olha, você não pode proteger seu professor se houver distância entre vocês, certo? #nNão fique muito longe."
+
+1013602-25 = "(E então comecei a explorar com Amy)"
+
+1013602-29 = "(O ritmo de Aimi era rápido e era difícil acompanhar...)"
+
+1013602-32 = "Isso é incrível. Sensei, estou te seguindo corretamente."
+
+1013602-33 = "[s] \"Mesmo que seja um elogio, estou feliz...ou melhor, posso dizer que estou acompanhando isso...\""
+
+1013602-34 = "Não é um elogio. #nSe fosse outra pessoa, eu teria ficado desapontado imediatamente."
+
+1013602-35 = "foto? Sim, o ritmo é importante. Como disse a professora."
+
+1013602-36 = "Eu também acho..."
+
+1013602-37 = "...Bem, acho que estou acostumado. difícil."
+
+1013602-38 = "Oh! ?"
+
+1013602-39 = "Professor, esconda-se!"
+
+1013602-43 = "(De repente, ele é empurrado para uma brecha na terra rachada pela mão de Amy)"
+
+1013602-44 = "Sinto muito de repente."
+
+1013602-45 = "Quero que você fique aí até eu dizer que está tudo bem."
+
+1013602-46 = "O número é cerca de um esquadrão. #nNesse caso...!"
+
+1013602-53 = "Está tudo bem agora, professor."
+
+1013602-54 = "...Eu não acho que isso seja tudo."
+
+1013602-56 = "(Mesmo depois disso, Amy...)"
+
+1013602-60 = "Verifique as coordenadas. Distância...427m. #nEu darei o primeiro passo...!"
+
+1013602-63 = "(Diante de um exército de inimigos se movendo a uma velocidade inacreditável...)"
+
+1013602-66 = "É melhor esperar mais um pouco..."
+
+1013602-67 = "Não, acho que seria melhor processá-lo primeiro e seguir em frente."
+
+1013602-68 = "事態が大きくなってからだと非効率的だし……！"
+
+1013602-73 = "Parece que eles não sabem onde estamos... #n Considerando o equipamento do inimigo, provavelmente é uma equipe de transporte..."
+
+1013602-74 = "Então -- [ruby=Search and Destroy]Search and Destroy[/ruby]!"
+
+1013602-77 = "(Aimi prosseguiu com o reconhecimento de energia surpreendentemente bem...)"
+
+1013602-80 = "OK. Não há mais bandeiras vermelhas."
+
+1013602-81 = "Obrigado pelo seu trabalho duro, professor. Vamos para casa logo."
+
+1013602-82 = "[s] \"Você sempre age assim...? Incrível....\""
+
+1013602-83 = "Não é grande coisa. É sempre assim."
+
+1013602-84 = "Porque há alguém em algum lugar que é rude com as pessoas..."
+
+1013602-85 = "Bem, é exatamente isso que estou dizendo a mim mesmo."
+
+1013602-86 = "[s] \"Ei, vamos nos dar bem...\""
+
+1013602-87 = "Vocês são realmente bons amigos?"
+
+1013602-88 = "……."
+
+1013602-89 = "...Pensando bem, sempre estive sozinho, então esta pode ser a primeira vez que trabalho em grupo."
+
+1013602-90 = "Achei que à medida que aumenta o número de pessoas, a eficiência diminui."
+
+1013602-91 = "...Algumas pessoas tinham medo de agir comigo."
+
+1013602-92 = "...Minha ideia não foi realmente compreendida."
+
+1013602-93 = "[s] \"E agora?\""
+
+1013602-94 = "agora……."
+
+1013602-95 = "Por que? Surpreendentemente, tudo bem."
+
+1013602-96 = "É porque todo mundo mudou? Acho que nos damos bem..."
+
+1013602-97 = "É muito confortável."
+
+1013602-98 = "[s] \"É melhor que os alunos se dêem bem, se possível. Com outros alunos.""
+
+1013602-99 = "Com outras crianças também..."
+
+1013602-100 = "……."
+
+1013602-101 = "Se fosse eu antes, acho que teria pensado que era ineficiente."
+
+1013602-102 = "Mas é meio estranho."
+
+1013602-103 = "Agora sinto que quero cooperar."
+
+1013602-104 = "[s] \"Seria bom se você pensasse assim.\""
+
+1013602-105 = "Sim."
+
+1013602-106 = "Eu me pergunto se há algumas palavras do professor. #nhehe."
+
+1013602-108 = "(Depois, ele voltou para todos enquanto trocava palavras com Amy.)"
+

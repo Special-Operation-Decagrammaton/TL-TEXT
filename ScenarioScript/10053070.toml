@@ -1,125 +1,249 @@
 [translation]
-10053070-1 = "Episode 7;The Last Ghost Story"
-10053070-3 = "Oh, Konoka, Sensei.\r\n"
-10053070-4 = "Did something happen? I was just about to go looking for you if you were any later..."
-10053070-5 = "Wait, hold on!? Why are you both so drenched in sweat!? What actually happened!?"
-10053070-10 = "Ah, well... I really don't want to talk about it... it was too ominous...\r\n"
-10053070-11 = "[ns1] \"Nothing happened...\" \n[ns2] \"A lot of things, actually...\""
-10053070-16 = "Well, it sounds like something happened, then.\r\n"
-10053070-18 = "(You explained to the two of them what happened in the phone booth.)"
-10053070-19 = "(In the end, the conversation even touched upon the suspicious bus and the stone statue you saw the day before.)"
-10053070-22 = "What!? That bus was a ghost!? Why didn't you tell me!\r\n\r\n"
-10053070-23 = "Well, I knew you'd get scared if I told you..."
-10053070-24 = "Salt! You should've thrown salt!\r\n"
-10053070-25 = "Ah! Sweat is salty too, but... do you think that would have worked!?"
-10053070-27 = "[ns3] \"It's a gray area... I guess?\" \n[ns4] \"For now, let's take a shower once we get back...\""
-10053070-32 = "If everything you just told me is true, what you two experienced was likely a poltergeist phenomenon."
-10053070-33 = "It's generally known as a phenomenon where ghosts move objects, but unnatural and sudden temperature changes are also a classic example.\r\n"
-10053070-37 = "However, something is strange. I pride myself on having been in this field for quite a while, but..."
-10053070-38 = "I've experienced more paranormal phenomena since coming here than in all my time before. The frequency is abnormally high.\r\n"
-10053070-42 = "Tsubasa thought so too."
-10053070-43 = "Does that mean someone is pulling the strings behind the scenes?"
-10053070-44 = "Eh? No... I was just saying that this area has a high density of paranormal phenomena."
-10053070-45 = "Perhaps there are ancient ruins sleeping beneath this ground, or maybe there's a secret alien experimental facility here.\r\n"
-10053070-46 = "You're saying that seriously... aren't you? Yeah.\r\n"
-10053070-50 = "...Could it be one of the Seven Prisoners?\r\n"
-10053070-51 = "Even using common sense, it's weird that these inexplicable things keep happening. Isn't it more realistic to think someone is doing this intentionally?"
-10053070-52 = "Is there anyone among those seven who could pull something like this off?"
-10053070-57 = "Hmm, I don't care what it is as long as it's not a ghost...\r\n"
-10053070-58 = "There is one person who wouldn't be surprised if they were behind all of this."
-10053070-59 = "The same person you mentioned before?"
-10053070-60 = "...Unfortunately, yes."
-10053070-61 = "Ugh... why of all places, is a Tsuchinoko here of all things...\r\n"
-10053070-62 = "Or is it the other way around? Is a Tsuchinoko here because it's this kind of place!?"
-10053070-68 = "Ah, the taxi's here!"
-10053070-72 = "For now, let's head back to the cabin and rethink things—\r\n"
-10053070-76 = "...?\r\n"
-10053070-79 = "...????"
-10053070-81 = "Hey, you bastards! I've had enough!\r\n"
-10053070-82 = "Somehow... isn't this a mix of all sorts of things?"
-10053070-83 = "At this point, I'm more dumbfounded than scared..."
-10053070-84 = "Threatening me by punching tickets when I'm not even riding!!\r\n"
-10053070-85 = "And shooting and breaking things whenever you don't like them!!\r\n"
-10053070-86 = "Using common sense, who buries things eight meters deep!!\r\n"
-10053070-89 = "It seems they are extremely angry...\r\n\r\n"
-10053070-90 = "Who are you to talk about common sense?\r\n\r\n\r\n"
-10053070-91 = "Even for Konoka, rather than being scared—\r\n\r\n\r\n\r\n"
-10053070-93 = "Whoa, what is that!?\r\n\r\n\r\n\r\n"
-10053070-94 = "Ah, never mind. It's over.\r\n\r\n\r\n"
-10053070-96 = "It's all that gray-haired one...! It's all their fault...!"
-10053070-97 = "I'll show you real terror now!!"
-10053070-99 = "Konoka! Look out!\r\n"
-10053070-101 = "Waaaaah!!\r\n\r\n"
-10053070-103 = "No! They're in a complete panic!\r\n\r\n"
-10053070-104 = "If it's a ghost story, win with fear like a proper ghost story! Don't use physical violence!!\r\n\r\n\r\n\r\n"
-10053070-106 = "The \"Last Ghost Story\" is—to become a ghost story yourself!!"
-10053070-107 = "Liar!! That's not a ghost story at all, is it!?\r\n"
-10053070-108 = "Hii...!\r\n\r\n"
-10053070-110 = "Too scared to even scream? This is the end!!"
-10053070-111 = "This is bad! At this rate, Konoka is going to get run over! Eek!\r\n\r\n"
-10053070-112 = "Sensei!!\r\n\r\n\r\n"
-10053070-113 = "[ns5] \"It's okay, leave this to me!\" \n[ns6] \"Both of you, take Konoka and run...!\""
-10053070-119 = "............\r\n"
-10053070-124 = "Kyaaaaaaaaaaa!!\r\n\r\n\r\n\r\n\r\n"
-10053070-129 = "............"
-10053070-132 = "............\r\n"
-10053070-136 = "Ouchhhhhhhhhh!!\r\n\r\n\r\n"
-10053070-137 = "What is this! This is way too hard!!\r\n"
-10053070-141 = "Eh...? What was that just now?\r\n\r\n\r\n\r\n"
-10053070-142 = "What happened?\r\n\r\n\r\n"
-10053070-143 = "[s7] \"Shattered it with a punch...\" \n[s8] \"That was a truly magnificent straight punch.\""
-10053070-146 = "W-wait... Why, until the very end..."
-10053070-147 = "This is impossible..."
-10053070-148 = "(Static...)"
-10053070-149 = "Tsubasa? Hey, Tsubasa?\r\n\r\n\r\n"
-10053070-155 = "Sensei, this kid has fainted!!"
-10053070-157 = "Ahhh, this is the worst—I want to go home—\r\n\r\n"
-10053070-159 = "(...And so, the ghost story incident came to a close without a single thing being solved... or so it seemed.)"
-10053070-163 = "(And that night—)"
-10053070-166 = "To faint in a situation like that... I'm ashamed as the leader of the investigation team.\r\n"
-10053070-167 = "That aside, how did you manage to get through that?"
-10053070-173 = "Um... well, you know... somehow...\r\n\r\n\r\n\r\n"
-10053070-174 = "Things more mysterious than magic really do happen, don't they... Ah, no, there's no such thing as magic in this world, though...\r\n\r\n"
-10053070-176 = "...?\r\n"
-10053070-177 = "I don't quite follow, but can I assume it's been resolved?"
-10053070-178 = "Resolved... resolved, huh...\r\n\r\n"
-10053070-179 = "Honestly, I have no idea what happened or how... what about you, Sensei?"
-10053070-180 = "[s9] \"At the very least, it's certain that this isn't a normal situation.\" \n[s10] \"I feel like it's a bit dangerous to stay here any longer.\""
-10053070-183 = "Yeah, you're right."
-10053070-184 = "No, no, no, what about the Tsuchinoko!?\r\n"
-10053070-185 = "Are you still planning on chasing the Tsuchinoko...?\r\n\r\n\r\n"
-10053070-186 = "My bad luck is what's attracting the ghosts in the first place! If I don't find the Tsuchinoko and break the curse, it won't be solved!"
-10053070-188 = "Opinions are divided, then..."
-10053070-189 = "Regardless, it's too late today. It would be difficult to move to another location now."
-10053070-190 = "Let's rest for now and decide what to do tomorrow morning."
-10053070-191 = "I agree with that plan, but... come to think of it, why is Tsubasa calling the shots?\r\n"
-10053070-196 = "—sei."
-10053070-201 = "Sensei."
-10053070-202 = "[s11] \"Konoka?\" \n[s12] \"Can't you sleep?\""
-10053070-208 = "...Shh."
-10053070-209 = "There's someone outside the window."
-10053070-210 = "[s13] \"Eh?\" \n[s14] \"Since when?\""
-10053070-213 = "I don't know. Both the Director and I just noticed it."
-10053070-214 = "To be precise, we noticed it because Konoka woke up..."
-10053070-215 = "I don't know who it is, but if they've been watching from outside until this hour, there's a high possibility they're the mastermind behind this commotion.\r\n"
-10053070-221 = "If my guess is correct, it's one of the Seven Prisoners—\r\n"
-10053070-222 = "Kyoko Mitsui.\r\n"
-10053070-227 = "Konoka. I've set up the camera you asked for. It's ready to shoot immediately."
-10053070-228 = "Alright... then, I'll take them down on the count of three."
-10053070-229 = "One—two—\r\n"
-10053070-230 = "Here we gooooooo!!\r\n\r\n"
-10053070-239 = "Funyaa!? W-what!?\r\n"
-10053070-245 = "They were definitely there... where did they disappear to?\r\n"
-10053070-246 = "You two saw them too, right?"
-10053070-247 = "Yes. They were definitely there until Konoka opened the window. I can state that for certain."
-10053070-248 = "And they disappeared...? As if they never existed in the first place..."
-10053070-249 = "Ah, right. Director, what about the photo?\r\n"
-10053070-250 = "I'm about to check it, but don't get your hopes up."
-10053070-251 = "I could have sworn I said on the count of three...\r\n\r\n"
-10053070-257 = "Wait! What are you talking about? What is everyone doing?"
-10053070-258 = "[s15] \"It seems someone was outside.\" \n[s16] \"I think they're the mastermind behind this incident.\""
-10053070-261 = "Outside? Outside the window...?"
-10053070-262 = "...?\r\n"
-10053070-263 = "What's wrong? Are you still half-asleep?"
-10053070-264 = "No, isn't that weird?\r\n"
-10053070-269 = "Because we're on the second floor, you know?"
+10053070-1 = "Episódio 7; The Last Ghost Story."
+
+10053070-3 = "Oh, Konoka, senhor. \r}n."
+
+10053070-4 = "O que está acontecendo? Se fosse um pouco mais tarde, eu teria ido procurá-lo. ......"
+
+10053070-5 = "O que você quer dizer com isso? Por que vocês dois estão suando assim? O que realmente aconteceu! \Só estou tentando ajudar."
+
+10053070-10 = "Ah, isso - ...... Eu realmente não quero falar sobre isso. ...... É muito ameaçador. ...... \r\n"
+
+10053070-11 = "[ns1] \"Não aconteceu nada. ...... \"\r\n[ns2] \"Muitas coisas. ...... \""
+
+10053070-16 = "Bem, aconteceu alguma coisa, não foi? \r}n"
+
+10053070-18 = "(Explicando aos dois homens o que aconteceu na cabine telefônica)"
+
+10053070-19 = "(Por fim, a conversa se voltou para os ônibus estranhos e as estátuas de pedra que tinham visto no dia anterior)"
+
+10053070-22 = "O quê? Aquele ônibus era um fantasma! Por que você não me contou? \Desculpe-me."
+
+10053070-23 = "Porque era óbvio que, se eu lhe contasse, você ficaria com medo. ...... \r\n"
+
+10053070-24 = "Sal! Polvilhe-o com sal! \fr\n"
+
+10053070-25 = "Ah! O suor também é sal, mas ...... isso ainda funciona!"
+
+10053070-27 = "[ns3] \"Zona cinza...... ou ......? \"\r\n[ns4]\"Por enquanto, vamos tomar um banho primeiro quando voltarmos. ...... \""
+
+10053070-32 = "Se tudo o que você acabou de ouvir for verdade, o que os dois vivenciaram deve ter sido um fenômeno poltergeist."
+
+10053070-33 = "É geralmente conhecido como o fenômeno dos fantasmas que movem as coisas, mas #n mudanças de temperatura repentinas e não naturais são outro exemplo típico. \r}n"
+
+10053070-37 = "Mas, aparentemente, algo está errado. Tenho orgulho de dizer que estou nessa área há um tempo razoavelmente longo. ......"
+
+10053070-38 = "Desde que cheguei aqui, vivenciei muito mais fenômenos psíquicos do que no total. A frequência #n é anormalmente alta. \r}n"
+
+10053070-42 = "Tsubasa também achava isso."
+
+10053070-43 = "Eu sabia disso, então isso significa que alguém está por trás disso?"
+
+10053070-44 = "Não? Não. ...... Eu estava simplesmente falando sobre a alta densidade de atividade paranormal na área."
+
+10053070-45 = "Talvez os restos de uma civilização antiga estejam sob esse lugar ou existam instalações experimentais alienígenas secretas. \r}n"
+
+10053070-46 = "Você pode dizer isso seriamente em ......, sim. \r}n"
+
+10053070-50 = "...... sete prisioneiros, não é mesmo? \r\n"
+
+10053070-51 = "Mesmo que você pense sobre isso do ponto de vista do senso comum, é estranho que coisas inexplicáveis aconteçam uma após a outra. #Ainda é mais realista pensar que alguém está fazendo isso deliberadamente, não é?"
+
+10053070-52 = "Há alguma dessas sete pessoas que poderia fazer algo assim acontecer?"
+
+10053070-57 = "Hmmm, não me importo com nada, desde que não seja um fantasma. ...... \r}n"
+
+10053070-58 = "Uma pessoa poderia ter plantado tanto."
+
+10053070-59 = "Essa é a mesma pessoa de quem você estava falando no outro dia? \r\n"
+
+10053070-60 = "...... De forma preocupante."
+
+10053070-61 = "Ugh. ...... Por que, dentre todos os lugares, há um aardvark aqui? ...... \r\n"
+
+10053070-62 = "Não, ao contrário? É por isso que existem aardvarks em um lugar como este!"
+
+10053070-68 = "Ah, aí vem o táxi!"
+
+10053070-72 = "Enquanto isso, voltaremos ao alojamento e pensaremos novamente sobre... ˈrɛn"
+
+10053070-76 = "......? \r\n"
+
+10053070-79 = "......？？？？"
+
+10053070-81 = "Ei, seus bastardos! Não aguento mais isso! \Não vou mais tolerar isso!"
+
+10053070-82 = "O que está acontecendo com a ...... mistura de todos os tipos de coisas?"
+
+10053070-83 = "Fico mais desanimado do que assustado quando chego a esse ponto. ......"
+
+10053070-84 = "Você me ameaçou com uma multa, embora eu não esteja entrando! \cH000000}"
+
+10053070-85 = "Se eles não gostarem, eles imediatamente abrem fogo e o quebram! \fr000000}"
+
+10053070-86 = "O senso comum diz: onde alguém cavaria 8 metros para enterrá-los? \r\n"
+
+10053070-89 = "Ele parece estar extremamente chateado com alguma coisa. ...... \r\n\r\n"
+
+10053070-90 = "Qual de vocês está falando de bom senso? "
+
+10053070-91 = "Não importa o quanto você konoka, você está de fato mais do que assustado - ЎrЎnЎnЎnЎnЎnЎnЎnЎn"
+
+10053070-93 = "Oh, meu Deus! Que diabos foi isso? \fr0000000000}"
+
+10053070-94 = "Oh, não. Terminou. "
+
+10053070-96 = "É tudo culpa daquela cabeça cinza ......! A culpa é dele. ......"
+
+10053070-97 = "Agora vou lhe mostrar o medo real!"
+
+10053070-99 = "Sr. Konoka! Perigoso! \fr\n"
+
+10053070-101 = "Uau! \fr000000000000000000000000000000000000000000!"
+
+10053070-103 = "Não! Estou em pânico total! \fnComic}r\fr\fr\fr\fr\fr\fr\fr"
+
+10053070-104 = "Se você for contar uma história de fantasmas, seja assustador como uma história de fantasmas! Não me venha com física! \Não me bata com a física!"
+
+10053070-106 = "'A última história de fantasma' - para você mesmo se tornar uma história de fantasma!"
+
+10053070-107 = "Você está mentindo! Você não é uma história de fantasmas! \r}n"
+
+10053070-108 = "Soluço. ....... \r\n\r\n"
+
+10053070-110 = "Você tem muito medo de falar? Isso é o fim de tudo, ah!"
+
+10053070-111 = "Ah, não! Se isso continuar, Konoka será atropelada! Oh, não! \Me desculpe, me desculpe."
+
+10053070-112 = "Professor! "
+
+10053070-113 = "[ns5] \"Não se preocupe, eu cuidarei deste lugar! \"\r\n[ns6] \"Vocês dois peguem a Konoka e fujam ......! \""
+
+10053070-119 = "............. \r}n"
+
+10053070-124 = "Kyaaaahhh! "
+
+10053070-129 = "............."
+
+10053070-132 = "............. \r}n"
+
+10053070-136 = "Ai! \f000000}{f000000}{f000000}{f000000}"
+
+10053070-137 = "Que diabos é isso? Isso é muito difícil! \r\n"
+
+10053070-141 = "O que, ......? Agora ...... o quê? \fr0000000000}"
+
+10053070-142 = "O que aconteceu? "
+
+10053070-143 = "[s7] \"\"esmagou com seu punho. ...... \"\r\n[s8] \"Foi um golpe de punho direito realmente magnífico. \""
+
+10053070-146 = "Bem, espere. ....... Por que, até o fim, ......."
+
+10053070-147 = "Isso não é possível. ......"
+
+10053070-148 = "(Zazar ......)"
+
+10053070-149 = "Tsubasa? Ei, Tsubasa? \Sim."
+
+10053070-155 = "Doutor, esta menina está desmaiando!"
+
+10053070-157 = "Oh, meu Deus, é tão ruim - quero ir para casa!"
+
+10053070-159 = "(...... É assim que o caso da história de fantasmas deveria ter terminado ...... sem que nada disso fosse resolvido)"
+
+10053070-163 = "(E naquela noite...)"
+
+10053070-166 = "Não acredito que desmaiei nessas circunstâncias. ...... Como líder da equipe de investigação, não sou muito bom em ser brincalhão. \r\n"
+
+10053070-167 = "Dito isso, como você conseguiu passar por esse lugar?"
+
+10053070-173 = "Vejamos, ...... bem, isso ...... de alguma forma ....... \r\n\r\n\r\n\r\n\r\n\r\n"
+
+10053070-174 = "Coisas mais estranhas acontecem do que magia. ......#nOh, não, não há magia neste mundo, mas ....... \r\r\r\r\r\n"
+
+10053070-176 = "......? \r\n"
+
+10053070-177 = "Não entendi a questão, mas podemos presumir que ela foi resolvida?"
+
+10053070-178 = "Solução ...... Solução ei ....... \r\n\r\n"
+
+10053070-179 = "Sinceramente, não tenho ideia do que está acontecendo. ...... E o senhor, doutor?"
+
+10053070-180 = "[s9] \"Pelo menos não é uma situação normal, isso é certo. \"\r\n[s10] \"Não acho que seja seguro para mim ficar aqui por mais tempo. \""
+
+10053070-183 = "Eu sabia disso."
+
+10053070-184 = "Não, não, não, não, o que dizer do tubarão-parda! \r\n"
+
+10053070-185 = "Você ainda está atrás do aardvark ......? "
+
+10053070-186 = "É a minha má sorte que está atraindo os fantasmas em primeiro lugar! #Não posso resolver o problema a menos que eu encontre um Aardvark e me livre dele!"
+
+10053070-188 = "Você discorda. ......."
+
+10053070-189 = "No entanto, hoje já é tarde. Seria difícil mudar para outro local agora."
+
+10053070-190 = "Descanse por enquanto e decida sobre o futuro amanhã de manhã."
+
+10053070-191 = "Concordo com essa ideia. ...... Por falar nisso, por que Tsubasa está no comando? \r\n"
+
+10053070-196 = "-- Sexo."
+
+10053070-201 = "Professor."
+
+10053070-202 = " \"\r\n[s12] \"Você não consegue dormir? \"\"\r"\n[s12]"\"\r"}"
+
+10053070-208 = "...... Shh."
+
+10053070-209 = "Do lado de fora da janela, há alguém."
+
+10053070-210 = "[s13] \"O quê? \"\r\n[s14] \"Desde quando? \""
+
+10053070-213 = "Eu não sei sobre isso. Acabei de descobrir, assim como o diretor."
+
+10053070-214 = "Foi exatamente o que notei quando o Sr. Konoka acordou. ......"
+
+10053070-215 = "Não sei quem ele é, mas o fato de ele estar observando do lado de fora até essa hora da noite significa que #n ele provavelmente é o cérebro por trás de toda essa agitação. \r}n"
+
+10053070-221 = "Se eu estiver certo, um dos Sete Prisioneiros..."
+
+10053070-222 = "[Kyouko é a Mii [ruby=Mitsui]Kyouko. \[ruby=mitsui]kyoko[/ruby][/ruby]."
+
+10053070-227 = "Konoka. Preparei a câmera que você pediu. Ela está pronta para filmar."
+
+10053070-228 = "Ok, ...... então, vou acabar com você quando eu contar até três."
+
+10053070-229 = "1--2--\r\n"
+
+10053070-230 = "Vamos lá! \fr94}r\fr\fr\fr\fr\fr\fr\fr\fr"
+
+10053070-239 = "FUYAHH! O quê? \fr\n"
+
+10053070-245 = "Tenho certeza de que ele estava lá. ...... Para onde ele foi? \r\n"
+
+10053070-246 = "Você viu dois deles, não viu?"
+
+10053070-247 = "Oh. Eu estava definitivamente lá até o Sr. Konoka abrir a janela. Posso lhe garantir isso."
+
+10053070-248 = "Ele desapareceu ......? É como se nunca tivesse existido. ......"
+
+10053070-249 = "Ah, sim. Diretor, onde está a foto? \r}n"
+
+10053070-250 = "Vamos verificar agora, mas não espere muito."
+
+10053070-251 = "Acho que eu disse que contei até três. ...... \r\n\r\n"
+
+10053070-257 = "Psst! Sobre o que estão falando? O que vocês estão fazendo?"
+
+10053070-258 = "[Acho que alguém estava lá fora. \"\r\n[s16] \"Provavelmente o cérebro por trás desse incidente. \"\"\r}n[s16] \"Acho que ele é o cérebro por trás disso."
+
+10053070-261 = "Do lado de fora? Fora da janela ......?"
+
+10053070-262 = "......? \r\n"
+
+10053070-263 = "Qual é o problema? Continua sonâmbulo?"
+
+10053070-264 = "Não, não é engraçado? \r}n"
+
+10053070-269 = "Porque estamos no segundo andar, sabe?"
+

@@ -1,163 +1,325 @@
 [translation]
-10053060-1 = "Episode 6;The Phone Booth Where Voices of Grudge Resonate"
-10053060-2 = "(The next day)"
-10053060-7 = "I told you, we're never going to find it this way!\r\n\r\n\r\n\r\n"
-10053060-12 = "What's with the sudden outburst?\r\n"
-10053060-17 = "It's not \"sudden\" at all, okay!? We've been flipping rocks for two hours now, haven't we!?\r\n"
-10053060-18 = "However... snakes, by nature, prefer damp, sunless places..."
-10053060-19 = "And anyway, what even is a Tsuchinoko?#nDoes it have any features other than being a fat snake?\r\n"
-10053060-20 = "Hmm... that's a sharp question. First of all, the term \"fat snake\" isn't quite accurate.\r\n"
-10053060-21 = "It's just called that because it's easy to understand,#nin reality, it's said to have a silhouette closer to a rhombus."
-10053060-22 = "Is that so? Anything else?"
-10053060-23 = "Accounts vary, but it's also said to hiss like a cat when threatened."
-10053060-24 = "Isn't that just a cat?"
-10053060-25 = "And the most amazing thing is its jumping ability! It's said to be able to leap nearly a meter in place!\r\n"
-10053060-26 = "That's just a cat!!"
-10053060-27 = "Now that you mention it... wait, was the Tsuchinoko a cat all along!?"
-10053060-28 = "Why are you accepting that so easily?\r\n"
-10053060-29 = "Don't you have any more useful information to help us find it?"
-10053060-30 = "Hmm... not information, but I do have one method."
-10053060-31 = "That is—to decide on a team name."
-10053060-32 = "...?\r\n"
-10053060-33 = "What do you mean?"
-10053060-38 = "As you know, a name defines the essence. #nFor example, the moment we call ourselves an \"Investigation Team,\" our purpose becomes investigation, #nand we become subconsciously loyal to that goal.\r\n\r\n"
-10053060-39 = "And there are research results suggesting that this clear will readjust the flow of the universe, #ncausing things to converge toward the result we desire—or more accurately, the result we were hoping for.\r\n\r\n"
-10053060-40 = "Stop pivoting from plausible grit to occult-like pseudoscience so suddenly!\r\n\r\n"
-10053060-45 = "Ah, I'm in favor. It'd get me more hyped if we had a cool name.\r\n"
-10053060-46 = "What do you think, Sensei?"
-10053060-47 = "[s1] \"I think it's a good idea too.\"\r\n[s2] \"Let's see, for example...\""
-10053060-53 = "[ns] \"Since we're researching the occult, how about 'Occult-Investi'—!!\""
-10053060-55 = "Stop it! Why would you say that!?\r\n\r\n\r\n"
-10053060-60 = "I thought it was a pretty good idea, personally.\r\n"
-10053060-61 = "If that doesn't suit your tastes, how about we stay true to our original purpose... \"Tsuchinoko Investigation Team\"?\r\n"
-10053060-62 = "Hmm... I don't know, don't you have something that hits a bit harder?\r\n\r\n\r\n\r\n"
-10053060-67 = "W-what? Why are you looking at me...?\r\n\r\n\r\n\r\n"
-10053060-68 = "Well, if Rena is against \"Occult-Investi,\" she needs to provide an alternative.\r\n\r\n\r\n\r\n"
-10053060-69 = "Isn't \"Tsuchinoko Investigation Team\" just fine?\r\n\r\n\r\n\r\n\r\n"
-10053060-70 = "[s3] \"For someone who is Kivotos's top fashion designer...\"\r\n[s4] \"This is your chance to show off your artistic sense, Rena!\""
-10053060-73 = "N-no, this has nothing to do with fashion—\r\n\r\n\r\n\r\n\r\n"
-10053060-74 = "Ugh...\r\n\r\n\r\n\r\n\r\n"
-10053060-75 = "It seems you're aware it's not entirely unrelated, then...\r\n\r\n"
-10053060-76 = "Whoa, as expected of a student from Wild Hunt!\r\n\r\n\r\n\r\n\r\n"
-10053060-77 = "...X.\r\n\r\n\r\n\r\n\r\n\r\n"
-10053060-78 = "Hm?\r\n\r\n\r\n\r\n\r\n"
-10053060-79 = "\"Investigation Squad X\"... how's that?\r\n\r\n\r\n\r\n\r\n\r\n"
-10053060-80 = "...\r\n\r\n"
-10053060-81 = "...\r\n\r\n\r\n\r\n"
-10053060-82 = "Ah, never mind! Forget I said that!\r\n\r\n\r\n\r\n\r\n"
-10053060-83 = "No, that's actually super cool, Investigation Squad X!!\r\n\r\n\r\n\r\n\r\n\r\n"
-10053060-84 = "It feels like... agents of a secret organization.\r\n\r\n\r\n"
-10053060-85 = "When I ask my guys for names, they only come up with boring stuff like \"Hope\" or \"Light.\" #nArt school really is different, huh?\r\n\r\n\r\n\r\n"
-10053060-86 = "R-really? It's not bad...?\r\n\r\n\r\n\r\n\r\n"
-10053060-87 = "H-hmpf! Of course it isn't. Who do you think came up with it?\r\n\r\n\r\n\r\n\r\n"
-10053060-88 = "Now that we have a name, I feel like our Tsuchinoko hunt is going to pick up speed!\r\n\r\n\r\n"
-10053060-90 = "Alright, \"Investigation Squad X\"! Let's put our backs into it and start the search again!\r\n"
-10053060-97 = "I told you, we're never going to find it this way!!\r\n\r\n"
-10053060-102 = "Hm? Is there a problem?\r\n"
-10053060-103 = "There's nothing but problems! Nothing has changed at all!!\r\n"
-10053060-104 = "I've flipped so many rocks that I've become an expert on the bugs living under them, you know!?\r\n"
-10053060-105 = "Ah, don't worry about that. #nThe flow of the universe's energy is already directed toward us thanks to the \"Law of Attraction.\"\r\n"
-10053060-106 = "However, be careful. Do not use negative words. If possible, use the past tense instead of a wish. #nNot \"I want to find a Tsuchinoko,\" but \"I found a Tsuchinoko.\""
-10053060-108 = "That's occult!! Pseudoscience!!\r\n\r\n\r\n"
-10053060-110 = "Hm? Come to think of it, what time is it?\r\n"
-10053060-114 = "...Ah.\r\n"
-10053060-115 = "What's wrong? Is it time for the bus?\r\n"
-10053060-116 = "No, it's just...\r\n\r\n"
-10053060-118 = "...The bus already left, didn't it.\r\n"
-10053060-124 = "Well, we can just call a taxi.\r\n"
-10053060-133 = "Whoa, seriously? There's no signal here."
-10053060-134 = "I didn't know there were still places in Kivotos cut off from civilization.\r\n"
-10053060-135 = "Mine's dead too. No signal at all.\r\n"
-10053060-136 = "Wouldn't it be better to just walk back now?"
-10053060-137 = "...Oh, right."
-10053060-138 = "I think I saw a payphone earlier.\r\n"
-10053060-139 = "Ah, now that you mention it, I saw one too."
-10053060-140 = "Then let's use that to call a taxi! I'll be right back!\r\n\r\n"
-10053060-144 = "Wait! The sun is already setting. Walking through the mountains alone is—\r\n"
-10053060-145 = "...She's gone, isn't she.\r\n"
-10053060-147 = "[ns5] \"I'll go after her.\"\r\n[ns6] \"You two wait here.\""
-10053060-154 = "Don't move. Who's there...?\r\n"
-10053060-155 = "...Huh? Sensei?\r\n\r\n"
-10053060-156 = "Sorry, I knew someone was following me, #nso I thought it was \"that escapee.\"\r\n\r\n"
-10053060-157 = "Still, what are you doing here? I'm glad you waited, though.\r\n"
-10053060-158 = "...Eh? Worried? #nYou were worried about me?\r\n\r\n"
-10053060-164 = "Wow, even at the Public Safety Bureau, I've never been treated this well.\r\n\r\n"
-10053060-165 = "If anything, those guys would be the first to push me into a dangerous job, #nhahaha!"
-10053060-166 = "So, I'm happy. But I'm fine on my own! #nLike I said, I'm just making a call from a perfectly normal payphone.\r\n"
-10053060-167 = "I'll call a taxi real quick, so please wait just a second!"
-10053060-172 = "...Ah"
-10053060-173 = "Sensei, um... sorry to ask, but do you have any change?\r\n"
-10053060-174 = "[s7] \"Right after saying that...\"\r\n[s8] \"It was the right choice to follow you.\""
-10053060-179 = "Oh, are you coming in too, Sensei?\r\n"
-10053060-182 = "Isn't it cramped? Should I step out? #n...Oh, you're okay with it?"
-10053060-183 = "Alright, let's get this over with.\r\n"
-10053060-188 = "...Ah, hello? Is this the taxi company?\r\n\r\n"
-10053060-189 = "I'm calling to request a pickup. The location is—\r\n"
-10053060-190 = "Wait, hold on a second.\r\n"
-10053060-191 = "How should I explain where this is... It's Mt. Shirakawa...\r\n\r\n"
-10053060-192 = "Ah, it's cutting out! Sensei! The change! Hurry!\r\n\r\n"
-10053060-196 = "And, uh, where was this again.\r\n\r\n"
-10053060-197 = "...Right, right, please come to the Mt. Shirakawa bus stop. Yes, right in front of the stop.\r\n\r\n"
-10053060-198 = "There are four of us. Oh, would a small car be too cramped for you, Sensei?\r\n"
-10053060-199 = "No, if you take the passenger seat and we squeeze three in the back—\r\n"
-10053060-200 = "Ah, it's cutting out again! This is why I hate payphones!\r\n\r\n"
-10053060-204 = "Ah, yes, a small car is fine.\r\n"
-10053060-205 = "We'll be waiting, so please come quickly.\r\n"
-10053060-206 = "Yes, thank you very much.\r\n"
-10053060-210 = "Alright! That's solved! Now we just have to wait at the bus stop—\r\n\r\n\r\n"
-10053060-215 = "Huh? It won't open?\r\n"
-10053060-220 = "Can't be helped. Sensei, please step back!\r\n\r\n"
-10053060-228 = "Sensei? Um...\r\n"
-10053060-229 = "Do you happen to have any change left...? I feel like we should call for help...\r\n\r\n"
-10053060-230 = "[ns9] \"I'm all out...\"\n[ns10] \"That last one was the end of it.\""
-10053060-234 = "Man, when things go wrong, they really pile up, don't they.\r\n\r\n"
-10053060-235 = "Sorry for dragging you into this, Sensei...\r\n\r\n"
-10053060-236 = "[s11] \"It's not your fault, Konoka, is it?\"\n[s12] \"The door is just old and stuck.\""
-10053060-239 = "No, it's because my luck is bad, so I'm attracting disaster.\r\n"
-10053060-240 = "That's why when my luck is down, I prefer to be alone. #nOtherwise, it just spreads to everyone around me.\r\n"
-10053060-241 = "[s13] \"You really believe in that stuff, huh?\"\n[s14] \"Fortunes and superstitions.\""
-10053060-244 = "It's not about believing, isn't it just a fact?\r\n"
-10053060-245 = "Look, getting trapped in a phone booth isn't something that happens every day, right?\r\n"
-10053060-246 = "The fact that it's happening at this exact moment is proof that my luck is terrible."
-10053060-247 = "...Well, the others will probably notice and come to help eventually. #nAnd the taxi will get here sooner or later."
-10053060-251 = "...Man, it's cramped in here.\r\n"
-10053060-252 = "[s15] \"Yeah...\"\n[s16] \"I feel like it's getting hot in here too...\""
-10053060-255 = "Ah, you feel it too, Sensei?\r\n"
-10053060-256 = "Is it because there are two of us in here...?\r\n\r\n"
-10053060-260 = "Ah... no, sorry, I bumped into you.\r\n\r\n"
-10053060-261 = "What is this situation...\r\n\r\n\r\n"
-10053060-266 = "Is the payphone ringing...?\r\n"
-10053060-267 = "Eh? Can you even receive calls on a payphone?\r\n"
-10053060-268 = "[s17] \"Technically, I think it's possible...\"\r\n[s18] \"But usually, they don't ring, right...?\"\r\n"
-10053060-271 = "What should we do?\r\n\r\n"
-10053060-275 = "Should we answer it?\r\n"
-10053060-281 = "...Hello?\r\n"
-10053060-286 = "(From the other side of the receiver, the sound of roaring flames and agonizing screams can be heard)"
-10053060-287 = "You too... will burn to death here...\r\n\r\n"
-10053060-291 = "S-s-s-Sensei!?\r\n\r\n"
-10053060-292 = "Did you hear that just now!? This is bad, right!?\r\n\r\n"
-10053060-293 = "[s19] \"L-let's calm down for a second.\"\n[s20] \"It might be noise, or a prank call!\""
-10053060-296 = "How could it be a prank call!?\r\n\r\n"
-10053060-297 = "Who would make a prank call to a payphone in a place like this!\r\n"
-10053060-298 = "And they said \"burn to death,\" right? #nI feel like it's getting hotter and hotter in here...\r\n"
-10053060-299 = "No, I'm not imagining it!! The floor is seriously hot!!\r\n\r\n"
-10053060-300 = "[s21] \"You're right...!\"\n[s22] \"But let's stay calm and wait for rescue...!\""
-10053060-304 = "(10 minutes passed, but no help came...)"
-10053060-307 = "Haa... haa..."
-10053060-308 = "Sensei, are you okay? You've been sweating like crazy...\r\n"
-10053060-309 = "[s23] \"You too, Konoka...\"\n[s24] \"I think... I'm at my limit...\""
-10053060-312 = "..."
-10053060-313 = "Can't be helped.\r\n\r\n"
-10053060-314 = "Sensei, please move a little closer."
-10053060-318 = "No, this isn't the time to worry about physical contact... #nYes, that's close enough."
-10053060-319 = "Alright, here I go—"
-10053060-323 = "SMASH IT OPEN!!!!\r\n"
-10053060-333 = "Ahhh, that feels refreshing!! We should've done this from the start!\r\n\r\n"
-10053060-334 = "Sensei, are you hurt?"
-10053060-335 = "[ns25] \"No, thanks to you. Thank you.\"\r\n[ns26] \"I can't believe you threw the phone booth...\""
-10053060-338 = "This is nothing!\r\n"
-10053060-340 = "(Static...)\r\n"
-10053060-341 = "No... that's... cheating...\r\n"
-10053060-350 = "Whoa, it talked again!! Is something haunting it!?\r\n"
-10053060-351 = "Let's go! Hurry!!\r\n\r\n"
-10053060-353 = "(In the end, the identity of the voice on the other side of the phone remained a mystery...)"
+10053060-1 = "Episódio 6; Uma cabine telefônica com uma voz vingativa."
+
+10053060-2 = "(Dia seguinte)."
+
+10053060-7 = "Eu lhe disse que você nunca os encontrará dessa forma! \fnComic}}"
+
+10053060-12 = "O que está acontecendo com você de repente? \r}n"
+
+10053060-17 = "Não é nada "repentino"! Já estou revirando pedras há duas horas! \fn"
+
+10053060-18 = "Mas as cobras ...... normalmente preferem lugares úmidos e sem luz solar. ......"
+
+10053060-19 = "Afinal, o que é um aardvark? #Não há outras características além de cobras gordas? \r}n"
+
+10053060-20 = "Hmm. ...... Essa é uma pergunta incisiva. Em primeiro lugar, a expressão "cobra gorda" não é exata. \r\n"
+
+10053060-21 = "Eles só o chamam assim porque é fácil de entender, mas na verdade é uma silhueta semelhante a um losango."
+
+10053060-22 = "De fato? Mais alguma coisa?"
+
+10053060-23 = "Embora os relatos de avistamento variem, também se diz que, quando ameaça, ele faz um "Shah!" quando está ameaçando."
+
+10053060-24 = "Isso não é um gato?"
+
+10053060-25 = "E o mais incrível de tudo é sua capacidade de salto! Dizem que ela pode voar quase um metro no local! \r\n"
+
+10053060-26 = "Então é um gato!"
+
+10053060-27 = "Se você me perguntar: ...... Quero dizer, o Aardvark era um gato!"
+
+10053060-28 = "Como você pode ser convencido por isso? \r}n"
+
+10053060-29 = "Você tem mais alguma informação que possa nos ajudar a encontrá-los?"
+
+10053060-30 = "Hmmm. ...... Não é uma informação, mas há uma maneira de fazer isso."
+
+10053060-31 = "Ou seja, para decidir o nome da nossa equipe."
+
+10053060-32 = "......? \r\n"
+
+10053060-33 = "O que você quer dizer com isso?"
+
+10053060-38 = "Como sabemos, o nome define a essência. #A partir do momento em que nos chamamos de "Unidade de Investigação", por exemplo, nosso objetivo passa a ser a investigação e, inconscientemente, nos tornamos fiéis a esse objetivo. \r\n\r\n"
+
+10053060-39 = "E a pesquisa mostrou que essa vontade clara reajusta o fluxo do universo para convergir com o resultado que desejamos - ou, mais precisamente, que queremos -. \r\n\r\n"
+
+10053060-40 = "Pare de passar desse tipo de intuição para toneladas de ciência ocultista de repente! \frkrfrfrfrfrfrf"
+
+10053060-45 = "Oh, eu concordo. É mais emocionante ter um nome legal. \r}n"
+
+10053060-46 = "O que seus professores acham?"
+
+10053060-47 = "[s1] \"Eu também acho que é bom. \"\r\n[s2] \"Sim, por exemplo, ....... \""
+
+10053060-53 = "[ns] \"Vamos estudar o ocultismo, portanto, vamos estudar o ocultismo, portanto, vamos estudar o ocultismo, portanto, vamos estudar o ocultismo para abreviar...! \""
+
+10053060-55 = "Pare com isso! Por que está fazendo isso? \frx0}rfrx0}rx0}rx0}rx0}rx0}rx0}rx0}rx0"
+
+10053060-60 = "Achei a ideia muito boa, em minha opinião. \r}n"
+
+10053060-61 = "Se não gostar, que tal ...... "Aardvark Investigation Team", fiel ao seu propósito original? \r\n"
+
+10053060-62 = "Ummm... ...... Preciso de algo mais econômico para meu dinheiro. \fr000000}Alguns deles são realmente bons."
+
+10053060-67 = "Ei, o que foi? Por que está olhando para mim ......? "
+
+10053060-68 = "Não, se Rena é contra o "Instituto Oka", ela precisa encontrar uma alternativa. \r\n\r\n\n\r\n\r\n\n"
+
+10053060-69 = "Por que não usar a habitual "Equipe de Investigação Aardvark"? "
+
+10053060-70 = "[s3] \"\"\"\"\"\"\"...... para o melhor designer de moda em Kivotos. \"\r\n[s4] \"É uma vitrine do talento artístico de Lena! \""
+
+10053060-73 = "Não, não, isso não tem nada a ver com a moda ......... ɡrɡnɡrɡnɡnɡrɡrɡnɡrɡn"
+
+10053060-74 = "Gu. ....... \r\n\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+
+10053060-75 = "Você parece estar ciente de que isso também não é totalmente irrelevante. ...... \r\n\r\n"
+
+10053060-76 = "Hyah~, como esperado de um estudante da Wild Hunt! "
+
+10053060-77 = "......X. ......X. ϮrϮnϮnϮnϮnϮnϮnϮnϮnϮnϮnϮn."
+
+10053060-78 = "Hmm? "
+
+10053060-79 = "'Equipe de pesquisa X'. ...... Como? "
+
+10053060-80 = "....... \r\n\r\n"
+
+10053060-81 = "....... \r\n\r\n\n\r\n\r\n\n"
+
+10053060-82 = "Ah, não! Esqueça agora! \fnComic}{frz}{frzComic}{frzComic}{frzComic}{frzComic}{frzComic}{frzComic}"
+
+10053060-83 = "Não, é muito legal, Equipe de Pesquisa X! "
+
+10053060-84 = "É algo como um agente da organização secreta ....... "
+
+10053060-85 = "Mesmo que pedíssemos um nome aos nossos rapazes, eles só pensariam em "esperança" ou "luz" ou algo assim. #Como se espera de uma academia de arte, é diferente."
+
+10053060-86 = "Bem, sim? Nada mal. ......? \r\fnC}{{r\fnC}{r\fnC}{r\fnC}{r\fnC}{r\fnC}{r\fnC}"
+
+10053060-87 = "Hmph, hmph! É claro que isso é óbvio. Quem você acha que pensou nisso? \fnC}{fnC}{fnC}{fnC}{fnC}{fnC}{fnC}{fnC}{fnC}{fnC}"
+
+10053060-88 = "Estou começando a pensar que, quando tivermos um nome, a busca pelo Tuchinoko será muito mais fácil! "
+
+10053060-90 = "Muito bem, "Equipe de Investigação X"! Vamos nos animar novamente e começar a investigar em busca do aardvark! \frz24.89}"
+
+10053060-97 = "É por isso que você nunca o encontrará dessa forma! \fr94}r\fr\fr\fr\fr\fr\fr\fr\fr\fr"
+
+10053060-102 = "Sim? - Sim. O que há de errado? \O que se passa?"
+
+10053060-103 = "Você só tem problemas! Afinal de contas, nada mudou! \r\n"
+
+10053060-104 = "Tenho virado tantas pedras que estou me familiarizando com os tipos de insetos que estão por trás delas! \r\n"
+
+10053060-105 = "Oh, não se preocupe com isso. #nPorque o fluxo de chi no universo já está do nosso lado devido à Lei da Atração. \r}n"
+
+10053060-106 = "No entanto, tenha cuidado. Não use linguagem negativa. De preferência, no formulário preenchido, e não em um pensamento positivo. #Não é 'I want to find an aardvark', mas 'I have found an aardvark'."
+
+10053060-108 = "Isso é ocultismo! É uma tonelada de ciência! \Eu voltarei!"
+
+10053060-110 = "Hmm? Por falar nisso, que horas são? \fr\n"
+
+10053060-114 = "......A. \r\n"
+
+10053060-115 = "Qual é o problema? Já está na hora do ônibus? \fr\n"
+
+10053060-116 = "Não, é ....... \r\n\r\n"
+
+10053060-118 = "...... já foi embora, ônibus. \r\n"
+
+10053060-124 = "Bem, você pode chamar um táxi. \r\n"
+
+10053060-133 = "Uau, sério? Isso está fora dos limites, não é?"
+
+10053060-134 = "Ainda havia lugares em Kivotos que estavam isolados da civilização. \r\n"
+
+10053060-135 = "O meu também não está funcionando. Não consigo obter um sinal completamente. \r}n"
+
+10053060-136 = "Não seria melhor voltar a pé agora?"
+
+10053060-137 = "...... Ah, sim."
+
+10053060-138 = "Acho que vi um telefone público antes. \r}n"
+
+10053060-139 = "Ah, a propósito, eu também vi você."
+
+10053060-140 = "Então chamarei um táxi com ele! Estou saindo para uma longa viagem! \Volto já."
+
+10053060-144 = "Espere! Já está quase escuro. Andar sozinho nas montanhas não é..."
+
+10053060-145 = "Você já acessou o site ......? \r\n"
+
+10053060-147 = "[ns5] \"Eu o alcançarei. \"\r\n[ns6] \"Vocês dois esperem aqui. \"\"\r"\n[ns6] \"Eu os alcançarei."
+
+10053060-154 = "Pronto, não se mexa. Quem é você? ......? \r\n"
+
+10053060-155 = "...... Huh? Você é um professor? \r\r\r\r\n"
+
+10053060-156 = "Desculpe, eu sabia que alguém estava me seguindo, #nEu pensei que fosse "aquele condenado que fugiu". \fr00000000000000000000000000000000000000000000000000)"
+
+10053060-157 = "O que há de errado com você, afinal? Fico feliz que tenha esperado por mim. \r}n"
+
+10053060-158 = "...... O quê? Preocupado? #Você está preocupado comigo? \r11}r11}"
+
+10053060-164 = "Não sei, nem mesmo a Secretaria de Segurança Pública nunca cuidou tão bem de mim. \fnComic}Secretário de Estado da Segurança Pública."
+
+10053060-165 = "Se eu tivesse um trabalho perigoso, eles seriam os primeiros a me empurrar, #n haha!"
+
+10053060-166 = "É por isso que estou feliz. Mas estou bem sozinho, certo? #Como você pode ver, tudo o que tenho de fazer é ligar de um simples telefone público. \r}"
+
+10053060-167 = "Vou chamar um táxi rapidamente, só preciso que você espere um minuto!"
+
+10053060-172 = "......"
+
+10053060-173 = "Doutor, sinto muito pelo ocorrido ......, o senhor tem algum trocado? \r\n"
+
+10053060-174 = "[s7] \"Assim que eu disse isso, ....... \"\r\n[s8] \"Você estava certo em me seguir. \""
+
+10053060-179 = "Ah, o professor também vai entrar? \r\n"
+
+10053060-182 = "Não é muito pequeno? Quer que eu vá lá fora? #n......Ah, você está bem? \r11}"
+
+10053060-183 = "Então vamos desligar rapidamente. \r}n"
+
+10053060-188 = "...... Oh, olá? Você é uma empresa de táxi? \r\r\r\r\n"
+
+10053060-189 = "Liguei para pedir a alocação de um carro. O lugar é: Јrёn."
+
+10053060-190 = "Oh, espere um pouco, por favor. \r}n"
+
+10053060-191 = "O que devo explicar sobre esse lugar ......? É o Monte Shirakawa. ...... \r\r\r\r\n"
+
+10053060-192 = "Oh, ele vai se cortar! Professor! Troco pequeno! Rápido! \Vamos lá."
+
+10053060-196 = "E, er, onde estamos? \r\r\r\r\n"
+
+10053060-197 = "...... Sim, se puder ir até o ponto de ônibus no Monte Shirakawa. Sim, em frente ao ponto de ônibus. \r\r\r\r\r\r\r\n"
+
+10053060-198 = "Quatro. Oh, o professor está apertado no tamanho pequeno? \r}n"
+
+10053060-199 = "Não, se você for um professor no banco do passageiro e nós três amontoados no banco de trás... ɡrɡn."
+
+10053060-200 = "Oh, ele vai desligar de novo! É por isso que existem telefones públicos! \fr\r\r\fr\fr\fr\fr\fr"
+
+10053060-204 = "Ah, sim, o tamanho pequeno é bom. \r}n"
+
+10053060-205 = "Estou esperando por você, quero que venha logo. \r}n"
+
+10053060-206 = "Sim - obrigado por seu trabalho árduo!"
+
+10053060-210 = "OK! É isso, essa é a solução! Agora tudo o que temos que fazer é esperar no ponto de ônibus e..."
+
+10053060-215 = "O que é isso? Ele não abre? \frkrn"
+
+10053060-220 = "Isso não pode ser evitado. Doutor, por favor, se afaste por um momento! \fr0000000000}"
+
+10053060-228 = "Professor? Esse ....... \r\n"
+
+10053060-229 = "Você tem algum trocado ou ainda tem algum sobrando? ...... Sinto que devo pedir ajuda. ...... \r\r\r\r\n"
+
+10053060-230 = "[ns9] \"Ele se foi e você pode encontrá-lo em ....... \"\n[ns10] \"Esse foi o último anteriormente. \"\n[ns10]""
+
+10053060-234 = "É realmente uma combinação de má sorte, não é? \fnComic}r"
+
+10053060-235 = "Desculpe, eu até envolvi o professor. ...... \r\n\r\n"
+
+10053060-236 = "[s11] \"A culpa não é toda da Konoka, é? \"\n[s12] \"É que a porta é velha e mal construída. \"\"\n[s12]]"
+
+10053060-239 = "Não, minha má sorte está trazendo desastres. \r}n"
+
+10053060-240 = "Então, quando a sorte está em baixa, eu quero ficar sozinho. #Isso vai se espalhar para as pessoas ao seu redor, não é? \r}n"
+
+10053060-241 = "[s13] \"Você realmente acredita nessas coisas, não é? \"\n[s14] \"Como sorte e superstição. "
+
+10053060-244 = "Quero dizer, você acredita nisso, não é mesmo? \r}n"
+
+10053060-245 = "Veja, não é todo dia que você fica trancado em uma cabine telefônica, não é? \fr11}"
+
+10053060-246 = "O fato de isso acontecer neste momento é uma prova de que estou completamente sem sorte."
+
+10053060-247 = "...... Bem, mas eventualmente duas pessoas perceberão e virão em seu auxílio. Até mesmo os #náxis, eventualmente."
+
+10053060-251 = "...... É um lugar muito pequeno, não é? \r}n"
+
+10053060-252 = "[s15] \"\"\"\"....... \"\n[s16] \"Eu sinto que está ficando mais quente. ...... \""
+
+10053060-255 = "Oh, você ainda sente isso também, doutor? \r\n"
+
+10053060-256 = "É porque estamos juntos nisso ......? \fr0000000000}"
+
+10053060-260 = "Oh, ...... Não, desculpe, você acertou um pouco. \fr00000000000000}"
+
+10053060-261 = "Qual é essa situação? ....... \r\n\r\n\r\n\r\n"
+
+10053060-266 = "O telefone público está tocando. ......? \r\n"
+
+10053060-267 = "O quê? Os telefones públicos às vezes ligam para você? \r\n"
+
+10053060-268 = "[s17] \"Acho que é tecnicamente possível. ...... \"\"\r\n[s18] \"Acho que não costuma tocar. ......? \"\"\r\n"
+
+10053060-271 = "O que você faz com isso? \r\n\r\n"
+
+10053060-275 = "Devo sair? \fr\n"
+
+10053060-281 = "...... Olá? \r\n"
+
+10053060-286 = "(Pelo receptor, ouve-se o som de brasas queimando e gritos tristes)"
+
+10053060-287 = "Vocês vão morrer queimados lá ....... ...... \r\n\r\n"
+
+10053060-291 = "Se, se, se ...... teacher! \r\r\r\r\n"
+
+10053060-292 = "Você ouviu isso ......! Essa é ruim, não é mesmo! \fr0000000000}"
+
+10053060-293 = "[s19] \"\"Í, vamos nos acalmar por um momento. \"\n[s20] \"Talvez seja um barulho ou uma brincadeira! "
+
+10053060-296 = "Isso não pode ser verdade! \fr94}r\fr\fr\fr\fr\fr\fr\fr\fr\fr"
+
+10053060-297 = "Quem faria uma ligação falsa para um telefone público em um lugar como esse com precisão exata? \r\n"
+
+10053060-298 = "E você disse "queimar até a morte", não foi? #nParece que está ficando cada vez mais quente. ...... \r}n"
+
+10053060-299 = "Não, não é minha imaginação! O chão está muito quente! \Desculpe-me, desculpe-me."
+
+10053060-300 = "[s21] \"De fato, ......! \"\n[s22] \"Mas agora vamos nos acalmar e esperar pelo resgate. ...... \""
+
+10053060-304 = "(Passaram-se 10 minutos, mas não houve ajuda. ......)"
+
+10053060-307 = "Hah ...... Hah ......."
+
+10053060-308 = "Doutor, o senhor está bem? Você está suando de forma incomum há algum tempo. ...... \r}n"
+
+10053060-309 = "[s23] \"Até a Konoka é ....... \"\n[s24] \"Talvez seja hora de ...... limitar ....... \""
+
+10053060-312 = "......."
+
+10053060-313 = "Isso não pode ser evitado. \r\n\r\n"
+
+10053060-314 = "Doutor, por favor, chegue um pouco mais perto de mim."
+
+10053060-318 = "Não, não tenho tempo para me preocupar com contato corporal ou algo assim. ......#n Sim, é isso mesmo."
+
+10053060-319 = "Muito bem, aqui vamos nós..."
+
+10053060-323 = "Quebrando o vício ！！！！ \r\n"
+
+10053060-333 = "Ahhhhh, isso é revigorante! Eu deveria ter feito isso desde o início! \fnComic}Smart"
+
+10053060-334 = "Doutor, o senhor está machucado ou algo assim?"
+
+10053060-335 = "[ns25] \"Sim, graças a você. Obrigado. \"\r\n[ns26] \"Eu não esperava que você jogasse a caixa do telefone fora. ...... \""
+
+10053060-338 = "Isso é muito fácil! \r\n"
+
+10053060-340 = "(Zazer ......)．"
+
+10053060-341 = "Não. ...... é ...... falta ....... \r\n"
+
+10053060-350 = "Oh, ele está falando de novo! Alguma coisa está possuída? \fr94}"
+
+10053060-351 = "Vamos lá! Vamos lá! \Vamos lá!"
+
+10053060-353 = "(No final, a identidade da pessoa do outro lado da linha telefônica permaneceu desconhecida até o fim. ......)"
+

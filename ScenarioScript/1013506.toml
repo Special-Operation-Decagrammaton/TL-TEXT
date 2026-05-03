@@ -1,96 +1,191 @@
 [translation]
-1013506-1 = "Out Of Control"
-1013506-2 = "(I went to the GDD's club room exactly as Kei asked)"
-1013506-6 = "Ha... this place again...?"
-1013506-10 = "The problem here is the impact values, and here --"
+1013506-1 = "Fora de controle"
+
+1013506-2 = "(Quando Kei me ligou, fui para a sala do departamento de desenvolvimento de jogos.)"
+
+1013506-6 = "Huh... aqui de novo...?"
+
+1013506-10 = "Esta é a configuração do valor de colisão, e isso é..."
+
 1013506-11 = "[s] \"Kei-chan...?\""
-1013506-12 = "Ah, Sensei. You came."
-1013506-13 = "What am I doing....? #nAs you can see..."
-1013506-14 = "...."
-1013506-15 = "Well, a picture beats a thousand words. For now, give it a try."
-1013506-16 = "Here you go!"
-1013506-18 = "(Kei handed me the controller with a vibrant smile on her face)"
-1013506-19 = "(And....)"
-1013506-25 = ".... Sensei?"
-1013506-29 = "[ns] \"A...huh?\""
-1013506-30 = "Um... are you okay?"
-1013506-31 = "You were about to go unconscious there, right?"
-1013506-32 = "Well, this is a hopelessly shitty game after all."
-1013506-33 = "Ah, this game?"
-1013506-34 = "..."
-1013506-35 = "It's the Game Development Club's new game...'s alpha release."
-1013506-36 = "[s] \"Ah....\""
-1013506-37 = "Geez, why do you look like you've understood everything?"
-1013506-38 = "I do get the feeling though."
-1013506-39 = "[s1] \"Kei-chan... why do you walk this path of pain?\"\n[s2] \"Are you ... tired of life?\""
-1013506-42 = "Rude! I was just doing some QA!"
-1013506-43 = "[s3] \"QA?\"\n[s4] \"Ah, I see....\""
-1013506-44 = "It stands for Quality Assurance... basically, it's like being a debugger and a tester rolled into one."
-1013506-45 = "Even though it's essential... it's the kind of job that tends to get pushed to the back burner."
-1013506-46 = "Someone has to do the debugging and testing."
-1013506-47 = "And I have a mountain load of other things to take care of too."
-1013506-48 = "That being said, to think that the list of bugfixes would be this big...Haa...."
-1013506-49 = "What exactly was the issue? Honestly, I think the issues start with the architecture....#n"
-1013506-50 = "No, that has to be wrong... #nAnd even if we were to change it, we'd have to rewrite the game from the ground up..."
-1013506-51 = "I have to find a better way..."
-1013506-52 = "[s] \"Sounds like you're having a bad time.\""
-1013506-53 = "I don't think so. This job is still one of the better ones."
-1013506-54 = "If you traced all the way back to the project suggestion or resources, my Logic would just completely stop working."
-1013506-55 = "[s] \"You're doing those things as well?\""
-1013506-56 = "Well..."
-1013506-57 = "Let's just say it ended up this way."
-1013506-58 = "At some point while watching, I just couldn't bear it any longer."
-1013506-59 = "I wonder what I was thinking..."
-1013506-60 = "Changing the project specifications happen all the time, but..."
-1013506-61 = "Why are we not moving in the direction of lowering assets, and instead just restarting?"
-1013506-62 = "We were supposed to being making a game where you just did normal everyday quests, so why--#n"
-1013506-63 = "Are we making land battleships in underground secret bases and saving the world conquered by aliens.... #nWhen did the scale get so big?"
-1013506-64 = "The Art department just does what ever the Scenario lead says!"
-1013506-65 = "The Engineer tries their best to actualize it but they get stuck with optimization issues!"
-1013506-66 = "And the Junior Programmer has to learn from these people!"
-1013506-67 = "Save me! Hello World! I couldn't save the game!"
-1013506-68 = "Ahem. And all of this is a problem with the person dealing with it! #nThey just accept everything! Isn't this why the others don't learn?!"
-1013506-69 = "[s] \"Sounds rough....\""
-1013506-70 = "Be more serious when worrying about me!"
-1013506-71 = "[s] \"I waaaass!\""
-1013506-72 = "...."
-1013506-73 = "Thank you..."
-1013506-75 = "[ns] \"I guess that makes you QA plus Producer plus Errand Girl.\""
-1013506-76 = "If you were to go out of your way to add titles to this tiny club, I might add."
-1013506-77 = "And I'm technically a member of the Supernatural Phenomenon Investigation Taskforce."
-1013506-78 = "[s] \"But you spend most of your time here, no?\""
-1013506-79 = "..."
-1013506-80 = "I guess you're right."
-1013506-81 = "Anyways, that's how it is."
-1013506-82 = "Sometimes I wonder if I'm really debugging, or if I'm fighting with some eldritch abomination."
-1013506-83 = "But, I guess this is something someone has to do."
-1013506-84 = "That being said, another problem is how to word this feedback."
-1013506-85 = "[s] \"That's a tough one... I understand ....\""
-1013506-86 = "Really?"
-1013506-87 = "[s5] \"One misstep and instead of what 'they want to do',\"\n[s6] \"You end up forcing 'what I want to do' on them\""
-1013506-90 = ".... Yes, that's right."
-1013506-91 = "and then... saying it like this might sound childish, but--"
-1013506-92 = "our friendship might get worse."
-1013506-93 = "[s7] \"That's exactly right.\"\n[s8] \"If your relationship goes bad, everything else stops working too.\""
-1013506-96 = "...."
-1013506-97 = "You really do get it."
-1013506-98 = "On the bright side, Momoi listens to me most of the time."
-1013506-99 = "Having more ideas thrown at me right after is overwhelming though."
-1013506-100 = "I hope she understands why to leave logs after every version soon."
-1013506-101 = "Midori too. Stop saying you can do everything!"
-1013506-102 = "You might be able to do it now by shaving away yourself, but who knows about tomorrow?"
-1013506-103 = "Development with \"a little bit of crunch\" as a prerequisite is out of the question! That's what black companies do!"
-1013506-104 = "[s] \"I'm glad Kei is here...\""
-1013506-105 = "Well, I feel like I pulled the short end of the stick!"
-1013506-106 = "But, I guess..."
-1013506-107 = "I guess..."
-1013506-108 = "..."
-1013506-109 = "Everyone looks so happy when its complete."
-1013506-116 = "Fufu."
-1013506-117 = "[s] \"Ahhh...\""
-1013506-118 = "What is it this time?"
-1013506-119 = "[s] \"I should have gotten a picture.\""
-1013506-120 = "Try it and you'll regret it."
-1013506-122 = "(And so I \"enjoyed\" the GDD's new game with Kei--)"
-1013506-123 = "(Or rather I worked at QA)"
-1013506-124 = "(I think my memories blacked out in places)"
+
+1013506-12 = "Ah, professora. Você precisava disso."
+
+1013506-13 = "O que você está fazendo...? #nComo você pode ver..."
+
+1013506-14 = "……."
+
+1013506-15 = "Ver para crer. Vamos tentar de qualquer maneira."
+
+1013506-16 = "olha Você aqui!"
+
+1013506-18 = "(Kei me entrega o controle com um sorriso refrescante)"
+
+1013506-19 = "(e……)"
+
+1013506-25 = "……professor?"
+
+1013506-29 = "[ns] \"Ah...é?\""
+
+1013506-30 = "Hum... você está bem?"
+
+1013506-31 = "Você estava prestes a desmaiar agora, não estava?"
+
+1013506-32 = "Bem, este é um jogo de merda que não pode ser evitado..."
+
+1013506-33 = "Ah, esse jogo?"
+
+1013506-34 = "……."
+
+1013506-35 = "Esta é a versão alfa do novo trabalho do departamento de desenvolvimento de jogos..."
+
+1013506-36 = "[s] \"Ah...\""
+
+1013506-37 = "Por que você parece que sabe tudo?"
+
+1013506-38 = "...Eu entendo como você se sente."
+
+1013506-39 = "[s1] \"Kei-chan... por que você está fazendo esse tipo de penitência...?\"\n[s2] \"Talvez... você esteja entediado com a vida...?\""
+
+1013506-42 = "Isso é rude! Eu estava fazendo controle de qualidade!"
+
+1013506-43 = "[s3] \"QA?\"\n[s4] \"Ah, entendo...\""
+
+1013506-44 = "Significa Garantia de Qualidade... basicamente é como um depurador e testador."
+
+1013506-45 = "Embora seja essencial...é uma tarefa que tende a ser colocada em segundo plano."
+
+1013506-46 = "Alguém precisa fazer a depuração e o teste."
+
+1013506-47 = "No entanto, há muitas outras coisas que você pode fazer."
+
+1013506-48 = "No entanto, a lista de correções de bugs é tão longa...suspiro."
+
+1013506-49 = "Eu me pergunto qual foi o problema... Acho que começou na época da arquitetura #n..."
+
+1013506-50 = "Não, deveria ser diferente...#nSe quiser mudar isso, você terá que reconstruir o jogo do zero..."
+
+1013506-51 = "Eu tenho que encontrar outra maneira de alguma forma..."
+
+1013506-52 = "[s] \"Parece difícil.\""
+
+1013506-53 = "Na verdade. Este trabalho é ainda melhor."
+
+1013506-54 = "...Se eu começar a voltar às etapas de planejamento e recursos, minha lógica não será mais válida."
+
+1013506-55 = "[s] \"Você vai fazer isso?\""
+
+1013506-56 = "Concordo……."
+
+1013506-57 = "Bem, digamos que isso vai acontecer."
+
+1013506-58 = "Quando eu estava assistindo, eu não conseguia nem ficar parado ali."
+
+1013506-59 = "...Por que diabos?"
+
+1013506-60 = "É comum que os planos mudem..."
+
+1013506-61 = "Por que acabamos recomeçando em vez de reduzir recursos?"
+
+1013506-62 = "Acho que estávamos tentando fazer um jogo onde você completa missões diárias... #n então por que――"
+
+1013506-63 = "Construir um navio de guerra terrestre em uma base subterrânea secreta e salvar um mundo ocupado por alienígenas... #n A história foi nessa escala? ?"
+
+1013506-64 = "A equipe de arte não teve voz no cenário e apenas fez o que lhes foi dito!"
+
+1013506-65 = "Os engenheiros fazem o possível para que isso funcione, mas acabam tendo problemas de otimização!"
+
+1013506-66 = "E os programadores iniciantes não têm escolha senão aprender com essas pessoas!"
+
+1013506-67 = "me ajude! Olá mundo! Não consegui salvar o jogo!"
+
+1013506-68 = "……rude. Tudo isso também é um problema do lado que lida com isso! #nAceito qualquer coisa! É por isso que você não aprende! ?"
+
+1013506-69 = "[s] \"Parece difícil...\""
+
+1013506-70 = "Por favor, preocupe-se mais seriamente!"
+
+1013506-71 = "[s] \"Eu estava falando sério!""
+
+1013506-72 = "……."
+
+1013506-73 = "obrigado……."
+
+1013506-75 = "[ns] \"Afinal, é controle de qualidade, produtor e biscates.\""
+
+1013506-76 = "Se eu tivesse que me esforçar para dar um título a este pequeno clube."
+
+1013506-77 = "...Ou melhor, pertenço ao Departamento de Investigação de Fenômenos Peculiares."
+
+1013506-78 = "[s] \"Mas você passa a maior parte do tempo aqui, certo?\""
+
+1013506-79 = "……."
+
+1013506-80 = "Concordo."
+
+1013506-81 = "De qualquer forma, é isso."
+
+1013506-82 = "Há momentos em que não sei se estou depurando ou lutando contra um monstro misterioso..."
+
+1013506-83 = "Mas ei, no final, alguém tem que fazer isso."
+
+1013506-84 = "No entanto, o problema é como transmitir feedback."
+
+1013506-85 = "[s] \"Isso é realmente difícil... eu entendo...\""
+
+1013506-86 = "É verdade?"
+
+1013506-87 = "[s5] \"Se você cometer um erro, acabará forçando ``o que você quer fazer'' em vez de \"\n[s6] \"o que a outra pessoa quer fazer." \""
+
+1013506-90 = "...Sim, está certo."
+
+1013506-91 = "Nesse caso... pode ser infantil expressar assim, mas..."
+
+1013506-92 = "Porque isso causará um relacionamento ruim."
+
+1013506-93 = "[s7] \"Acho que você está certo.\"\n[s8] \"Se vocês não se dão bem, outras coisas não vão bem.\""
+
+1013506-96 = "……."
+
+1013506-97 = "Você entende."
+
+1013506-98 = "Felizmente, Momoi me escuta."
+
+1013506-99 = "...É que é difícil alguém ter uma ideia diferente."
+
+1013506-100 = "Espero que você entenda em breve por que mantemos registros em cada etapa."
+
+1013506-101 = "O mesmo vale para Midori. Não diga que você pode fazer qualquer coisa! !"
+
+1013506-102 = "Você pode conseguir se esforçar muito agora, mas não será necessariamente o caso amanhã!"
+
+1013506-103 = "Não há como desenvolver algo que seja “um pouco impossível”! Isso é preto!"
+
+1013506-104 = "[s] \"Estou feliz que Kei estava aqui...\""
+
+1013506-105 = "Sinto que sou o único a perder!"
+
+1013506-106 = "Mas tudo bem..."
+
+1013506-107 = "Oh céus……."
+
+1013506-108 = "……."
+
+1013506-109 = "Todos pareciam felizes quando foi concluído."
+
+1013506-116 = "Hehe."
+
+1013506-117 = "[s] \"Ah...\""
+
+1013506-118 = "E agora?"
+
+1013506-119 = "[s] \"Eu deveria ter tirado uma foto agora.\""
+
+1013506-120 = "Se você fizer isso, não será capaz de deixá-lo sozinho."
+
+1013506-122 = "(E aproveite o novo trabalho de Kei e do departamento de desenvolvimento de jogos――)"
+
+1013506-123 = "(Trabalhei no controle de qualidade)"
+
+1013506-124 = "(Senti que minha memória estava faltando aqui e ali)"
+

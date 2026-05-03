@@ -1,57 +1,113 @@
 [translation]
-1013708-1 = "A Certain Detective's Recovery"
-1013708-2 = "(Worried about Konoka catching a cold, I decided to give her a visit.)"
-1013708-6 = "[ns] \"Excuse me~.\""
-1013708-7 = "Ugh... who is it... jeez..."
-1013708-8 = "I told you I don't have a TV!!"
-1013708-9 = "*Cough*, I broke it when the team I was rooting for lost..."
-1013708-10 = "I believe I told you I'd arrest you if you came again, *cough*?"
-1013708-11 = "[s1] \"C-Calm down, Konoka!\"\n[s2] \"It's me, it's me!\""
-1013708-14 = "E-Eh!?"
-1013708-15 = "Sensei? Ah, please come in. The door is unlocked!"
-1013708-19 = "[ns] \"You left it unlocked!?\""
-1013708-20 = "*Cough*, if a burglar comes in, I can catch them red-handed."
-1013708-21 = "And I can meet my quota, and it's convenient in a lot of ways."
-1013708-22 = "[s] \"A burglar in the Valkyrie dorms...!?\""
-1013708-23 = "Either they're fearless, or I just don't understand how criminals think~"
-1013708-24 = "Anyway, what can I do for... *cough*..."
-1013708-25 = "[s] \"I heard you caught a cold, so I came to visit.\""
-1013708-26 = "How did you find out!?"
-1013708-27 = "[s3] \"Because you told me on Momotalk, Konoka...\"\n[s4] \"You said you caught a cold and were taking the day off, right?\""
-1013708-30 = "*Cough*, h-huh...?"
-1013708-32 = "Aah, *cough*... that Momotalk."
-1013708-33 = "I thought I sent that to my kouhais... sorry."
-1013708-34 = "I can't believe you came out to visit me... I'm really sorry."
-1013708-35 = "[s] \"Not at all! I'm happy to come.\""
-1013708-36 = "Ugh, thank you.#nBut, I'm feeling a little out of it right now..."
-1013708-37 = "This is my first time having someone visit me when I'm sick,#nso I don't know what to do..."
-1013708-38 = "[s5] \"Have you eaten yet?\"\n[s6] \"Should I make some porridge?\""
-1013708-41 = "Porridge... ah, come to think of it, I haven't eaten anything yet."
-1013708-42 = "Umm... *cough*, extra garlic tonkotsu, no vegetables, with extra chili oil please."
-1013708-43 = "[s] \"I'm not a ramen shop, you know!?\""
+1013708-1 = "O tratamento médico de um certo detetive"
+
+1013708-2 = "(Eu estava preocupado que Konoka tivesse pegado um resfriado, então decidi ir vê-la.)"
+
+1013708-6 = "[ns] \"Desculpe.\""
+
+1013708-7 = "Ugh... quem é esse... já..."
+
+1013708-8 = "Não temos TV! !"
+
+1013708-9 = "Geho, eu quebrei quando o time que eu estava torcendo perdeu..."
+
+1013708-10 = "Acho que você disse: “Ei, vou prendê-lo se você vier na próxima vez”."
+
+1013708-11 = "[s1] \"Ah, acalme-se, Konoka!\"\n[s2] \"Sou eu, sou eu!\""
+
+1013708-14 = "Oh sim! ?"
+
+1013708-15 = "professor? Oh, por favor, entre. A porta está destrancada!"
+
+1013708-19 = "[ns] \"Não tranque!?\""
+
+1013708-20 = "Ei, se um ladrão invadir, você pode pegá-lo em flagrante, certo?"
+
+1013708-21 = "Você pode atingir sua cota e isso é conveniente de várias maneiras."
+
+1013708-22 = "[s] \"Tem um ladrão no dormitório da Valquíria...!?\""
+
+1013708-23 = "Não tenho medo, ou melhor, não sei o que os criminosos pensam."
+
+1013708-24 = "Em vez disso, que tipo de negócio você tem... Geho..."
+
+1013708-25 = "[s] \"Ouvi dizer que você estava resfriado, então vim ver você.\""
+
+1013708-26 = "Como você sabia! ?"
+
+1013708-27 = "[s3] \"Konoka me contou sobre isso no Momotalk...\"\n[s4] \"Você disse que pegaria um resfriado e faria uma pausa, certo?\""
+
+1013708-30 = "Nossa, ah, ah...?"
+
+1013708-32 = "Ah, Geho... Aquela conversa da Momo."
+
+1013708-33 = "Achei que tinha mandado para meus filhos... sinto muito."
+
+1013708-34 = "Sinto muito que você tenha vindo até aqui me visitar..."
+
+1013708-35 = "[s] \"De jeito nenhum! Na verdade, eu ficaria feliz em ir.""
+
+1013708-36 = "Muito obrigado. #nMas agora estou me sentindo bastante inconsciente..."
+
+1013708-37 = "É a primeira vez que alguém me visita por causa de um resfriado, então não sei o que fazer..."
+
+1013708-38 = "[s5] \"Você já comeu?\"\n[s6] \"Devo fazer um mingau?\""
+
+1013708-41 = "Mingau... Ah, pensando bem, ainda não comi nada."
+
+1013708-42 = "Hmm... Nossa, eu gostaria de ossos de porco com alho, sem vegetais, e mais óleo de pimenta, por favor."
+
+1013708-43 = "[s] \"Não é uma loja de ramen!?\""
+
 1013708-44 = "Huh?"
-1013708-47 = "Phew, thank you for the meal."
-1013708-48 = "It was easy to eat, like ramen without the noodles.#nI should've put more garlic in."
-1013708-49 = "[s] \"Well, you were able to eat it, so I guess this is fine...?\""
-1013708-50 = "*Cough*, *cough*, you're exaggerating."
-1013708-51 = "It's just a cold. If I just exercise a bit—"
-1013708-56 = "[ns] Touching Konoka's forehead."
-1013708-58 = "!!!"
-1013708-59 = "Hyah..."
-1013708-63 = "...*Cough*."
-1013708-64 = "...E-Eh?"
-1013708-65 = "[s] \"Your fever is high. You should lie down.\""
-1013708-66 = "Ah..."
-1013708-67 = "Y-Yeah..."
-1013708-71 = "[ns] \"How is it? Still feeling sick?\""
-1013708-72 = "Ah, umm...!"
-1013708-73 = "Well... it might still be a little tough for me."
-1013708-74 = "A-Ah-, it hurts- it hurts. *Cough*, *cough*."
-1013708-75 = "[s] \"I'll stay by your side until you fall asleep.\""
-1013708-76 = "Y-Yes..."
-1013708-77 = "Ah, if that's the case... please... close the door."
-1013708-78 = "If a burglar comes right now, I won't be able to protect you, Sensei..."
-1013708-79 = "[s] \"Yeah. Oh right, should I read out today's fortune?\""
-1013708-80 = "Ah, no. I'm okay."
-1013708-81 = "Today has already turned into the best day ever."
-1013708-83 = "(After that, I stayed by Konoka's side and continued to take care of her.)"
+
+1013708-47 = "Ufa, obrigado pela refeição."
+
+1013708-48 = "Era como ramen sem macarrão e era fácil de comer. #nEu deveria ter adicionado mais alho."
+
+1013708-49 = "[s] \"Bem, parece que foi comido, então acho que está tudo bem...?\""
+
+1013708-50 = "Guha, caramba, isso é um exagero."
+
+1013708-51 = "É apenas um resfriado. Se você se exercita tanto..."
+
+1013708-56 = "[ns] Coloquei minha mão na testa de Konoka."
+
+1013708-58 = "! ! !"
+
+1013708-59 = "Ei..."
+
+1013708-63 = "... Geho."
+
+1013708-64 = "...Eh, sim?"
+
+1013708-65 = "[s] \"Você está com febre alta. Você deveria se deitar.""
+
+1013708-66 = "um……."
+
+1013708-67 = "Ah, sim..."
+
+1013708-71 = "[ns] \"O que você acha? Ainda dói?\""
+
+1013708-72 = "Ah, hum...!"
+
+1013708-73 = "Bem... ainda pode ser um pouco doloroso."
+
+1013708-74 = "Ah, ah, dói, dói. Geho, Geho."
+
+1013708-75 = "[s] \"Vou ficar ao seu lado até você adormecer.""
+
+1013708-76 = "Sim..."
+
+1013708-77 = "あ、それなら……ドア、閉めて……ください。"
+
+1013708-78 = "Mesmo que eu me torne um ladrão agora, não poderei proteger meu professor..."
+
+1013708-79 = "[s] \"Sim. Isso mesmo, você quer que eu leia sua sorte para hoje?\""
+
+1013708-80 = "Oh não. Tudo bem."
+
+1013708-81 = "Hoje parece ser o melhor dia."
+
+1013708-83 = "(Mesmo depois disso, ele continuou a cuidar de Konoka ao lado dela.)"
+

@@ -1,82 +1,163 @@
 [translation]
-10053010-1 = "Episode 1;Searching for the Tsuchinoko"
-10053010-2 = "I've been... taken care of for a long time!!!\r\n\r\n\r\n"
-10053010-7 = "...What is the meaning of this?\r\n"
-10053010-8 = "I'm going on a trip starting today."
-10053010-9 = "If you don't hear from me after a week, just assume I've disappeared—"
-10053010-10 = "...Wait, who is the person next to you? #nNice to meet you~"
-10053010-11 = "If you hadn't come in so noisily, I would have finished the introductions by now.\r\n"
-10053010-12 = "This is Sensei from Schale, [USERNAME]."
-10053010-13 = "And this sloppy one here is Konoka Shima, the Vice Director of our Public Safety Bureau."
-10053010-16 = "Sensei! Oh, so this is the one! #nMan, I've heard a lot about you from Ane-go!"
-10053010-17 = "Wait, Sensei... why are you in handcuffs?"
-10053010-18 = "[s1] \"Look... I don't want you to misunderstand...\"\n[s2] \"It was just a bit of a misunderstanding.\""
-10053010-25 = "We received a report that student graduation albums were being traded on the black market... #nI'd like to hear the details about this \"misunderstanding.\"\r\n"
-10053010-26 = "Though, knowing you, Sensei, it might have been necessary for your work..."
-10053010-27 = "......\r\n"
-10053010-28 = "I'll decide how to proceed after I've heard your explanation.\r\n"
-10053010-29 = "[s3] \"Don't worry, I have nothing to hide!\"\r\n[s4] \"Iori will understand!\""
-10053010-32 = "Sigh... I haven't heard the details yet, so I can't say for sure. #nPlease be careful with what you say.\r\n"
-10053010-33 = "Now then, Konoka."
-10053010-34 = "What is this about a trip?\r\n"
-10053010-35 = "Ah, that.\r\n\r\n"
-10053010-36 = "Please don't laugh when you hear this—\r\n\r\n"
-10053010-40 = "I have to catch a Tsuchinoko within a week!!\r\n\r\n"
-10053010-45 = "A Tsuchinoko...?\r\n\r\n"
-10053010-46 = "You mean... the urban legend?\r\n\r\n"
-10053010-47 = "That's right! That very Tsuchinoko!\r\n\r\n\r\n\r\n\r\n"
-10053010-48 = "The legendary cryptid... was it?\r\n"
-10053010-49 = "Yes, yes! There have been sightings, but it's never been caught... It's basically the final boss of the cryptid world!\r\n\r\n\r\n\r\n\r\n"
-10053010-50 = "Plus, there's a huge bounty on it... a total of 100 million yen! #nIt's no exaggeration to call it a walking... or rather, crawling gold bar!\r\n\r\n\r\n"
-10053010-51 = "...I see.\r\n\r\n"
-10053010-52 = "This is a bit of a personal question, but...\r\n"
-10053010-53 = "Are you perhaps having some financial trouble?\r\n"
-10053010-54 = "Eh? No way. #nDo I look like the type to do things just for money?\r\n\r\n\r\n\r\n"
-10053010-55 = "...Well, I suppose not.\r\n"
-10053010-56 = "Sigh... in that case... #nIs it related to a jinx again...?\r\n\r\n\r\n"
-10053010-57 = "I know I'll be neglecting my duties, but...\r\n\r\n\r\n"
-10053010-58 = "Ah, don't worry about that. #nI wasn't planning on stopping you from the start.\r\n"
-10053010-59 = "If anything, you work too hard. Rest is important.\r\n"
-10053010-60 = "However—\r\n\r\n"
-10053010-61 = "However...?\r\n\r\n\r\n"
-10053010-62 = "If you're going, you're going with Sensei.\r\n"
-10053010-63 = "Huh?\r\n\r\n\r\n\r\n"
-10053010-64 = "[s] \"...Me?\""
-10053010-65 = "Sensei, could I have a moment?\r\n"
-10053010-69 = "If you agree to accompany her on this trip, I will overlook this current incident.\r\n\r\n"
-10053010-70 = "[s5] \"I-is this a plea bargain!?\"\r\n[s6] \"I'm innocent! Let me call Iori!\"\r\n"
-10053010-73 = "No. This is a personal request from me.\r\n\r\n"
-10053010-74 = "Despite how she acts, Konoka isn't a troublemaker. Well, her methods can be a bit problematic.\r\n\r\n"
-10053010-75 = "She's surprisingly serious and talented enough to be a Vice Director as a second-year. #nUnlike me, she's sociable and has the deep trust of her subordinates.\r\n\r\n"
-10053010-76 = "However, when it comes to certain topics, her eyes change... she tends to become overly sensitive. #nThat is—\r\n\r\n"
-10053010-79 = "The topic of \"superstitions.\""
-10053010-84 = "Wow, I never thought Sensei would come along.\r\n"
-10053010-85 = "She said it was just a precaution, but Ane-go is really overprotective, isn't she?"
-10053010-86 = "I'm so loved~"
-10053010-87 = "Don't you think? Ahaha!\r\n"
-10053010-88 = "[s7] \"Y-yeah, I guess!\"\r\n[s8] (Though I'm really just a chaperone...)"
-10053010-91 = "Oh, right."
-10053010-92 = "I'm not traveling alone this time. #nWell, I'm not alone since Sensei is here.\r\n"
-10053010-93 = "\"Gurumin\" and \"Director Mo\" are coming with me."
-10053010-94 = "[s9] \"Gurumin and Director Mo...?\"\r\n[s10] \"Those are some very unique names...\""
-10053010-97 = "They're not names, they're IDs. IDs.\r\n"
-10053010-98 = "[s11] \"So, they're people you met online?\"\r\n[s12] \"What if they're dangerous people...?\""
-10053010-101 = "Huh?\r\n"
-10053010-102 = "......"
-10053010-103 = "Pfft, ahaha! Ahahahaha!!!\r\n\r\n"
-10053010-104 = "Whew, sorry, I laughed too hard.\r\n"
-10053010-105 = "Sensei, who do you think I am?"
-10053010-106 = "Catching dangerous people like that is my job.\r\n"
-10053010-107 = "Well, though, it's not like we're complete strangers this time."
-10053010-108 = "We met on social media, but we've had a few offline meetups."
-10053010-109 = "Are you not interested in this kind of thing, Sensei?"
-10053010-110 = "There's a social media site for people who like urban legends and mysterious experiences."
-10053010-111 = "I started it to monitor incidents, but there are surprisingly a lot of hidden gems...\r\n"
-10053010-116 = "Oh, looks like we've arrived. #nAnyway, we'll continue this later."
-10053010-125 = "Sigh..."
-10053010-126 = "I heard about it, but... this is really the middle of nowhere, isn't it?\r\n"
-10053010-131 = "Oh, they're here.\r\n\r\n\r\n\r\n\r\n"
-10053010-132 = "Oh my... didn't one more person join us?\r\n\r\n\r\n\r\n\r\n"
-10053010-133 = "Huh, you're right.\r\n\r\n\r\n\r\n\r\n"
-10053010-137 = "Hmm...?\r\n"
-10053010-142 = "Eh!? Why is Sensei here!?\r\n\r\n\r\n"
+10053010-1 = "Episódio 1; Procurando por Tsuchinoko"
+
+10053010-2 = "por muito tempo! ! duro! Obrigado pela ajuda! ! ! \r\n\r\n\r\n"
+
+10053010-7 = "...O que você quer dizer? \r\n"
+
+10053010-8 = "Vou viajar a partir de hoje."
+
+10053010-9 = "Se não tivermos notícias suas depois de uma semana, presumiremos que você se foi..."
+
+10053010-10 = "...Quem é a pessoa ao seu lado? #nPrazer em conhecê-lo~"
+
+10053010-11 = "Se você não tivesse entrado tão barulhento, já teríamos sido apresentados. \r\n"
+
+10053010-12 = "Este é o Dr. [NOME DE USUÁRIO] da Placa de Petri."
+
+10053010-13 = "E essa pessoa desleixada é [ruby=shima]Shima[/ruby]Konoka, vice-diretor do Departamento de Segurança Pública."
+
+10053010-16 = "professor! Ah, esse é melhor! #nBem, muitas vezes ouço falar disso da minha irmã!"
+
+10053010-17 = "Espere, professor... por que você está algemado?"
+
+10053010-18 = "[s1] \"Hum... não quero que você me entenda mal...\"\n[s2] \"Houve um pequeno mal-entendido.\""
+
+10053010-25 = "Fui informado que os álbuns do anuário dos alunos estavam sendo negociados no mercado negro...#nGostaria de ouvir mais sobre o "mal-entendido". \r\n"
+
+10053010-26 = "Porém, por se tratar de um professor, pode ter sido necessário para o trabalho..."
+
+10053010-27 = "…………. \r\n"
+
+10053010-28 = "Depois de ouvir sua história, decidirei o que fazer. \r\n"
+
+10053010-29 = "[s3] \"Está tudo bem, não vou me machucar por ser sondado!\"\r\n[s4] \"Iori vai entender!\""
+
+10053010-32 = "Suspiro... ainda não ouvi nenhum detalhe, então não posso evitar. #nPor favor, tenha cuidado com o que você diz. \r\n"
+
+10053010-33 = "Então, Konoka."
+
+10053010-34 = "O que você quer dizer com jornada? \r\n"
+
+10053010-35 = "Ah, é disso que você está falando. \r\n\r\n"
+
+10053010-36 = "Quero que você ouça sem rir.\r\n\r\n"
+
+10053010-40 = "Tenho que pegar um Tsuchinoko dentro de uma semana! ! \r\n\r\n"
+
+10053010-45 = "Tsuchinoko...? \r\n\r\n"
+
+10053010-46 = "Isso é... uma lenda urbana? \r\n\r\n"
+
+10053010-47 = "Isso mesmo! Aquele Tsuchinoko! \r\n\r\n\r\n\r\n\r\n"
+
+10053010-48 = "Uma criatura lendária não identificada... ou não? \r\n"
+
+10053010-49 = "Isso é! Embora tenha havido relatos de avistamentos, ninguém foi capturado ainda... é como se fosse o chefe final do mundo criptídeo! \r\n\r\n\r\n\r\n\r\n"
+
+10053010-50 = "Além disso, há um enorme prêmio em dinheiro em disputa... um total de 100 milhões de ienes! #nWalking... Não, não é exagero chamá-lo de pepita de ouro rastejante! \r\n\r\n\r\n"
+
+10053010-51 = "……Eu vejo. \r\n\r\n"
+
+10053010-52 = "Esta é uma questão um pouco mais aprofundada, mas... \r\n"
+
+10053010-53 = "Talvez você tenha problemas financeiros? \r\n"
+
+10053010-54 = "foto? Sem chance. #nParece que sou motivado apenas por dinheiro? \r\n\r\n\r\n\r\n"
+
+10053010-55 = "...Bem, acho que é diferente. \r\n"
+
+10053010-56 = "Suspiro...então...#nIsso está relacionado com o azar de novo...? \r\n\r\n\r\n"
+
+10053010-57 = "Vou ter que deixar um buraco no meu trabalho... \r\n\r\n\r\n"
+
+10053010-58 = "Ah, não se preocupe. #nNão tenho intenção de parar no final. \r\n"
+
+10053010-59 = "Na verdade, você está sobrecarregado. O descanso é importante. \r\n"
+
+10053010-60 = "No entanto ――\r\n\r\n"
+
+10053010-61 = "no entanto……? \r\n\r\n\r\n"
+
+10053010-62 = "Se você for, você deve ir com seu professor. \r\n"
+
+10053010-63 = "Huh? \r\n\r\n\r\n\r\n"
+
+10053010-64 = "[s] \"...Eu?\""
+
+10053010-65 = "Professor, posso ter um momento? \r\n"
+
+10053010-69 = "Se você estiver disposto a me acompanhar nesta jornada, não farei perguntas sobre esse assunto. \r\n\r\n"
+
+10053010-70 = "[s5] \"S-Um acordo judicial!?\"\r\n[s6] \"Sou inocente! Deixe-me ligar para o Iori!\"\r\n"
+
+10053010-73 = "Não. Este é meu pedido pessoal. \r\n\r\n"
+
+10053010-74 = "Mesmo assim, Konoka não é uma criança problemática. Bem, existem alguns problemas com o comportamento. \r\n\r\n"
+
+10053010-75 = "Apesar da aparência, ele é muito sério e é tão talentoso que foi nomeado vice-diretor no segundo ano. #nAo contrário de mim, ele é sociável e tem muita confiança de seus subordinados. \r\n\r\n"
+
+10053010-76 = "Porém, quando surge um determinado assunto, a cor dos meus olhos muda imediatamente... Tenho tendência a ficar hipersensível. #nIsso é ――\r\n\r\n"
+
+10053010-79 = "Esta é uma história sobre superstição."
+
+10053010-84 = "Nossa, nunca esperei que a professora me acompanhasse. \r\n"
+
+10053010-85 = "Você disse apenas para garantir, mas minha irmã também é superprotetora."
+
+10053010-86 = "Se você é eu, você é amado ~"
+
+10053010-87 = "Você não acha? Ahaha! \r\n"
+
+10053010-88 = "[s7] \"Ah, isso mesmo!\"\r\n[s8] (Só estou cuidando de você...)"
+
+10053010-91 = "Ah, isso mesmo."
+
+10053010-92 = "Não vou viajar sozinho desta vez. #nBem, eu tenho um professor, então não estou viajando sozinho. \r\n"
+
+10053010-93 = "“Gurumin” e “Chefe Mo” são iguais."
+
+10053010-94 = "[s9] \"Gurumin e Diretor Mo...?\"\r\n[s10] \"Esse é um nome único...\""
+
+10053010-97 = "Não é um nome, é uma identificação, identificação. \r\n"
+
+10053010-98 = "[s11] \"Você é um conhecido online?\"\r\n[s12] \"O que você faria se ele fosse perigoso...?\""
+
+10053010-101 = "Huh? \r\n"
+
+10053010-102 = "…………."
+
+10053010-103 = "Aff, ahaha! Ahahahaha! ! ! \r\n\r\n"
+
+10053010-104 = "Ha, desculpe, eu ri demais. \r\n"
+
+10053010-105 = "Professor, quem você pensa que eu sou?"
+
+10053010-106 = "É meu trabalho capturar pessoas tão perigosas. \r\n"
+
+10053010-107 = "Bem, mas. Desta vez, não é como se nos encontrássemos pela primeira vez."
+
+10053010-108 = "Nos conhecemos através do SNS, mas também nos encontramos diversas vezes off-line."
+
+10053010-109 = "Professor, você não está interessado nesse tipo de coisa?"
+
+10053010-110 = "Existem sites de mídia social para pessoas que gostam de temas como lendas urbanas e experiências misteriosas."
+
+10053010-111 = "No início comecei com o propósito de monitorar incidentes, mas fiquei surpreso com a quantidade de coisas que encontrei. \r\n"
+
+10053010-116 = "Ah, parece que você chegou. #n Bem, falaremos mais sobre isso depois."
+
+10053010-125 = "Suspirar..."
+
+10053010-126 = "Eu já tinha ouvido isso... mas é realmente rural. \r\n"
+
+10053010-131 = "Ah, está aqui. \r\n\r\n\r\n\r\n\r\n"
+
+10053010-132 = "Ei... não tem mais uma pessoa? \r\n\r\n\r\n\r\n\r\n"
+
+10053010-133 = "Isso é verdade. \r\n\r\n\r\n\r\n\r\n"
+
+10053010-137 = "sim……? \r\n"
+
+10053010-142 = "Huh! ? Por que o professor está aqui? ? \r\n\r\n\r\n"
+

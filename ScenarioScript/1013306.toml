@@ -1,68 +1,135 @@
 [translation]
-1013306-1 = "Unexpected Variable"
-1013306-2 = "(A short while later, I received a message from Rio.)"
-1013306-5 = "Sensei, are you free right now?"
-1013306-6 = "Regarding what I mentioned earlier, the modifications to the suit are complete."
-1013306-7 = "However, I cannot perform the test alone."
-1013306-8 = "The housekeeping Avant-Garde-kun isn't suited for this test either..."
-1013306-9 = "Sensei, would you mind helping me?"
-1013306-10 = "[s] \"I'll be right there!\""
-1013306-11 = "Thank you."
-1013306-12 = "I'll be waiting in my room."
-1013306-20 = "You're here."
-1013306-21 = "Let's get started. This is the modified suit."
-1013306-22 = "...Does it look like nothing has changed?"
-1013306-23 = "I suppose so. I don't think you can tell from the outside."
-1013306-24 = "I didn't use any new parts; I simply applied the existing functions in a new way."
-1013306-25 = "What I modified this time is the heat generation component."
-1013306-26 = "This suit is equipped with a device that amplifies electrical signals within the body.#nBy applying that, I can transmit heat throughout the entire body."
-1013306-27 = "The work itself was just rewriting a few lines of code."
-1013306-28 = "Even so, since I changed something, I need to run a test."
-1013306-29 = "I'll need your cooperation for that test, Sensei."
-1013306-30 = "[s] \"What do I need to do?\""
-1013306-31 = "I'm going to raise the suit's temperature now.#nI need you to use the thermal camera to check if the heat is distributing evenly."
-1013306-32 = "[s] \"That sounds easy enough!\""
-1013306-33 = "If there are any areas where heat is leaking, could you touch them directly to verify?"
-1013306-34 = "Just trace the surface of the suit with your hand."
-1013306-35 = "[s] \"That doesn't sound easy at all!\""
-1013306-36 = "I can handle the areas I can reach myself.#nCould you at least help me with my back?"
-1013306-37 = "I thought about having the housekeeping Avant-Garde-kun do it, but#nthat child doesn't have the function to measure temperature by touch."
-1013306-38 = "I really need your help to properly verify the state of the suit, if you don't mind..."
-1013306-39 = "[s] \"O-only the back, okay...!\""
-1013306-40 = "Yes, that will be fine."
-1013306-42 = "(I measured the temperature with the thermal camera and occasionally placed my hand on Rio's back to check.)"
-1013306-47 = "Ngh, huff..."
-1013306-48 = "[ns] \"S-sorry! Did that hurt?\""
-1013306-49 = "Don't worry about it. It was just more ticklish than I expected..."
-1013306-50 = "More importantly, it's getting hotter than I anticipated."
-1013306-51 = "For now, please just keep going like that."
-1013306-52 = "[s] \"O-okay...!\""
-1013306-53 = "(I continued checking Rio's body temperature for a while.)"
-1013306-59 = "Phew... thank you for your hard work. That concludes the test."
-1013306-60 = "I've confirmed that it's operating normally."
-1013306-61 = "...However, one unexpected variable has emerged."
-1013306-62 = "[s] \"What kind of variable?\""
-1013306-63 = "...It's too hot."
-1013306-64 = "I warmed up the room because you were coming, and that backfired."
-1013306-65 = "I need to let this heat escape..."
-1013306-68 = "Please... excuse me for a moment."
-1013306-71 = "[wa:500]― [log=리오 결전]Phew...[wa:1570] That's better.[/log]"
-1013306-74 = "[wa:1610]― [log=리오 결전]I hadn't taken the room temperature into account.[/log]"
-1013306-77 = "― [log=리오 결전]I can't believe I...[wa:1890] I must have been distracted[/log]"
-1013306-79 = "― [log=리오 결전]by the results right in front of me...[/log]"
-1013306-82 = "[wa:930]― [log=리오 결전]...Please, [wa:1560] let me rest for a moment.[/log]"
-1013306-84 = "― [log=리오 결전]The heat is making it...[wa:1920] hard to think.[/log]"
-1013306-87 = "[wa:1510]― [log=리오 결전]...Sensei?[wa:2440] Why are you looking at me like that...[/log]"
-1013306-90 = "[wa:2200]― [log=리오 결전]...Ah!![/log]"
-1013306-92 = "― [log=리오 결전](W-what[wa:320] am I...[wa:1370] doing...!?)[/log]"
-1013306-95 = "[wa:490]― [log=리오 결전]T-this[wa:660] wasn't[wa:520] intentional...![wa:1320] I'm sorry...![/log]"
-1013306-97 = "― [log=리오 결전]I-I'm[wa:810] fine now,[wa:1180] really...![/log]"
-1013306-101 = "S-see, the heat has escaped!"
-1013306-102 = "The rest can be handled by the suit's cooling function...!"
-1013306-103 = "I-I'm really fine now—"
-1013306-111 = "[ns] \"Your forehead is still hot, though?\""
-1013306-112 = "...!!"
+1013306-1 = "Variáveis ​​inesperadas"
+
+1013306-2 = "（しばらくして、リオから連絡が来た）"
+
+1013306-5 = "Professor, você está bem agora?"
+
+1013306-6 = "Quanto ao que falei anteriormente, as modificações no traje foram concluídas."
+
+1013306-7 = "No entanto, uma pessoa não pode fazer o teste sozinha."
+
+1013306-8 = "Avant-garde-kun, o ajudante doméstico, também não é adequado para este teste..."
+
+1013306-9 = "Professor, você poderia me ajudar?"
+
+1013306-10 = "[s] \"Eu vou imediatamente!""
+
+1013306-11 = "obrigado."
+
+1013306-12 = "Estarei esperando no meu quarto."
+
+1013306-20 = "Está aqui."
+
+1013306-21 = "De cara, este é o traje modificado."
+
+1013306-22 = "……全然変わってないように見える？"
+
+1013306-23 = "Isso mesmo. Eu não acho que você possa dizer de fora."
+
+1013306-24 = "Não usei nenhuma peça nova, apenas apliquei a funcionalidade que já estava lá."
+
+1013306-25 = "O que modifiquei desta vez foi a parte relacionada à função de geração de calor."
+
+1013306-26 = "Este traje está equipado com um dispositivo que amplifica sinais elétricos dentro do corpo. #nPortanto, se você aplicar, também poderá transferir calor para todo o corpo."
+
+1013306-27 = "Tudo que tive que fazer foi reescrever algumas linhas de código."
+
+1013306-28 = "No entanto, se você mudar alguma coisa, precisará testá-la."
+
+1013306-29 = "Vou pedir ao professor para me ajudar na prova."
+
+1013306-30 = "[s] \"Em que posso ajudá-lo?\""
+
+1013306-31 = "Vou aumentar a temperatura do traje de agora em diante. #nPor favor, use uma câmera térmica para verificar se o calor está distribuído pela sala."
+
+1013306-32 = "[s] \"Isso é fácil!\""
+
+1013306-33 = "Se houver alguma parte que esteja vazando calor, você poderia tocá-la diretamente para verificar?"
+
+1013306-34 = "É como traçar a superfície do traje com a mão."
+
+1013306-35 = "[s] \"Isso não é fácil!""
+
+1013306-36 = "Farei o que puder dentro das minhas possibilidades. #nEu me pergunto se posso pedir apenas o verso."
+
+1013306-37 = "Eu estava pensando em pedir ao meu ajudante doméstico, Avantgarde-kun, para fazer isso por mim, mas ele não tem a capacidade de medir a temperatura tocando nele."
+
+1013306-38 = "Gostaria de lhe pedir que confirme o estado do fato, mas..."
+
+1013306-39 = "[s] \"São só minhas costas...!\""
+
+1013306-40 = "Sim, tudo bem."
+
+1013306-42 = "(Eu medi a temperatura com uma câmera térmica e ocasionalmente coloquei minha mão nas costas de Rio para verificar.)"
+
+1013306-47 = "Hmm, kufu…."
+
+1013306-48 = "[ns] \"Sinto muito! Doeu?\""
+
+1013306-49 = "Por favor, não se preocupe com isso. É mais delicado do que eu esperava..."
+
+1013306-50 = "Está ficando mais quente do que eu esperava."
+
+1013306-51 = "Por favor, continue assim por enquanto."
+
+1013306-52 = "[s] \"U-Sim...!\""
+
+1013306-53 = "(Continuei verificando a temperatura do Rio por um tempo)"
+
+1013306-59 = "Ufa... Obrigado pelo seu trabalho duro. O teste acabou."
+
+1013306-60 = "Consegui confirmar que está funcionando corretamente."
+
+1013306-61 = "...No entanto, surgiu uma variável inesperada."
+
+1013306-62 = "[s] \"Que variável?\""
+
+1013306-63 = "...Está muito quente."
+
+1013306-64 = "Mantive a sala aquecida porque o professor estava chegando, mas o tiro saiu pela culatra."
+
+1013306-65 = "Isso se você não deixar o calor escapar..."
+
+1013306-68 = "Por favor, desculpe-me por um momento."
+
+1013306-71 = "[wa:500]― [log=리오 결전]Ufa...[wa:1570]Estou calmo. [/registro]"
+
+1013306-74 = "[wa:1610]― [log=리오 결전]Não levei em consideração a temperatura interna. [/registro]"
+
+1013306-77 = "― [log=리오 결전]O que eu fiz...[wa:1890]O resultado na minha frente,[/log]"
+
+1013306-79 = "― [log=리오 결전]Acho que me distraí... [/log]"
+
+1013306-82 = "[wa:930]― [log=리오 결전]...Por favor, deixe-me descansar um pouco [wa:1560]. [/registro]"
+
+1013306-84 = "― [log=리오 결전]Devido ao calor, [wa:1920] não consigo pensar muito... [/log]"
+
+1013306-87 = "[wa:1510]― [log=리오 결전]... Professor? [wa:2440]Por que você está assim...? [/registro]"
+
+1013306-90 = "[wa:2200]― [log=리오 결전]...Ah! ! [/registro]"
+
+1013306-92 = "― [log=리오 결전] (Uau, [wa:320]Eu...[wa:1370]O que...!?)[/log]"
+
+1013306-95 = "[wa:490]― [log=리오 결전]Ei, [wa:660]Isso é [wa:520] intencional...! [wa:1320]Sinto muito...! [/registro]"
+
+1013306-97 = "― [log=리오 결전]Eu, [wa:810]Estou [wa:1180] bem agora...! [/registro]"
+
+1013306-101 = "Ei, consegui me livrar do calor!"
+
+1013306-102 = "O resto ficará a cargo da função de resfriamento do traje...!"
+
+1013306-103 = "Oh, está tudo bem agora――"
+
+1013306-111 = "[ns] \"Sua testa ainda está quente?\""
+
+1013306-112 = "...! !"
+
 1013306-117 = "[ns] \"Rio...!?\""
-1013306-119 = "(After that, I cooled Rio down with a hand fan.)"
-1013306-120 = "(Fortunately, nothing else happened, and Rio recovered quickly.)"
-1013306-123 = "Honestly... this experiment was full of unexpected variables..."
+
+1013306-119 = "（その後、リオの体をうちわで冷ましてあげた）"
+
+1013306-120 = "(Felizmente, nada aconteceu e o Rio se recuperou rapidamente.)"
+
+1013306-123 = "Sério... esse experimento teve muitas variáveis ​​inesperadas..."
+

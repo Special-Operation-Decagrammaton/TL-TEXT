@@ -1,70 +1,139 @@
 [translation]
-1013402-1 = "Hero Training"
-1013402-2 = "Ta-da!"
-1013402-3 = "Aris has obtained new equipment!"
-1013402-7 = "Now that I have the Hero's Weapon, the Sword of Light: Supernova, and the Hero's Armor, Abi-Eshuh—"
-1013402-8 = "Having collected the legendary gear, Aris has become a true hero!"
-1013402-9 = "[s1] \"Oh, congratulations!\"\n[s2] \"You're the strongest now!\""
-1013402-13 = "No, that is not quite right... Aris had forgotten something."
-1013402-14 = "Armor... is meaningless if you just equip it!"
-1013402-15 = "To draw out its true potential, Aris must increase her proficiency!"
-1013402-16 = "[s3] \"Abi-Eshuh is a high-mobility weapon, after all.\"\n[s4] \"It must be hard to master.\""
-1013402-19 = "That is correct..."
-1013402-20 = "For Aris right now, it's like a side-scroller suddenly turning into 3D..."
-1013402-21 = "I cannot fight when I don't know my left from my right!"
-1013402-22 = "In other words, to overcome this trial, I need Hero Training!"
-1013402-23 = "I have already been taught how to use the armor by the Sage!"
-1013402-24 = "All that remains is to repeat the training until I master it!"
-1013402-25 = "But this training is very difficult...#nIt's like playing a platformer with a broken joystick!"
-1013402-26 = "So, this is where you come in, Sensei!"
-1013402-27 = "[s5] \"Understood! Leave the support to me!\"\n[s6] \"What should I do?\""
-1013402-30 = "Sensei, please just cheer Aris on from the sidelines!"
-1013402-34 = "[ns7] \"...Cheer you on?\"\n[ns8] \"...Is that all?\""
-1013402-37 = "Yes!"
-1013402-38 = "Sensei is my mascot, so having you nearby gives me energy!"
-1013402-39 = "No matter how grueling the training...#nAs long as Sensei is in the party, my morale will stay at MAX!"
-1013402-40 = "...Is something wrong?"
-1013402-41 = "Sensei, you have a face like a sad puppy."
-1013402-42 = "Huh? It's nothing, you say?"
+1013402-1 = "Treinamento corajoso"
+
+1013402-2 = "Pampakapaan!"
+
+1013402-3 = "Alice tem equipamentos novos!"
+
+1013402-7 = "Agora temos [ruby=Arma do Herói] Espada de Luz: Supernova[/ruby] e [Ruby=Armadura do Herói] Abi Yeshuf[/ruby]――"
+
+1013402-8 = "Alice colecionou armas lendárias e se tornou uma verdadeira heroína!"
+
+1013402-9 = "[s1] \"Oh, parabéns!\"\n[s2] \"Este é o mais forte!\""
+
+1013402-13 = "Não, ainda não... Alice tinha esquecido."
+
+1013402-14 = "Quanto à armadura... apenas equipá-la não faz sentido!"
+
+1013402-15 = "Para revelar seu verdadeiro potencial, Alice deve melhorar seu nível de habilidade!"
+
+1013402-16 = "[s3] \"Abi Yeshuf é uma arma altamente móvel.\"\n[s4] \"É difícil dominá-la.\""
+
+1013402-19 = "Isso mesmo..."
+
+1013402-20 = "A versão atual de Alice é como uma rolagem horizontal transformada em 3D..."
+
+1013402-21 = "Você não pode lutar sem saber a direita da esquerda!"
+
+1013402-22 = "Ou seja, para superar esse desafio, você precisa treinar como herói!"
+
+1013402-23 = "O sábio já me ensinou como usar armadura!"
+
+1013402-24 = "Tudo o que você precisa fazer é continuar praticando até dominá-lo!"
+
+1013402-25 = "Mas esse treino é muito difícil... #nÉ como jogar um jogo de plataforma com um joystick tendencioso!"
+
+1013402-26 = "Então agora é a vez do professor!"
+
+1013402-27 = "[s5] \"Entendido! Deixe o suporte comigo!\"\n[s6] \"O que devo fazer?\""
+
+1013402-30 = "Professores, por favor, fiquem ao lado de Alice e apoiem-na!"
+
+1013402-34 = "[ns7] \"...Suporte?\"\n[ns8] \"...Só isso?\""
+
+1013402-37 = "sim!"
+
+1013402-38 = "O professor é um mascote, então tê-lo ao seu lado vai te animar!"
+
+1013402-39 = "Não importa o quão difícil seja o treinamento... se #n sensei estiver no seu grupo, você poderá manter o moral no máximo!"
+
+1013402-40 = "...O que está errado?"
+
+1013402-41 = "Professor, você parece um cachorrinho triste."
+
+1013402-42 = "Huh? Não é nada, certo?"
+
 1013402-43 = "...?"
-1013402-44 = "Anyway, Hero Training starts now!"
-1013402-46 = "(And so, Aris's training began...!)"
-1013402-49 = "If I do this here..."
-1013402-53 = "Ah, that was the opposite! In times like this, I should use the booster to cancel out the momentum—"
-1013402-57 = "Wait!? That was the side booster!"
-1013402-58 = "Waaaaah! I've started spinning around!"
-1013402-60 = "(There were many mishaps, but the training continued without any major trouble—)"
-1013402-63 = "Haa... haa..."
-1013402-64 = "If I turn a little more to the right here..."
-1013402-68 = "(—Before I knew it, quite a lot of time had passed.)"
-1013402-69 = "(It seemed Aris still intended to continue her Hero Training.)"
-1013402-74 = "...Ouch!"
-1013402-79 = "I was doing it so well just a moment ago..."
-1013402-80 = "For some reason, I keep failing!"
-1013402-81 = "[s9] \"Why don't we take a break?\"\n[s10] \"Aren't you getting tired?\""
-1013402-84 = "No! I am fine!"
-1013402-85 = "Aris is still full of energy!"
-1013402-86 = "Besides, Aris has played many games like this before!"
-1013402-91 = "Just watch... like this—!"
+
+1013402-44 = "Enfim, é o início do treinamento do herói!"
+
+1013402-46 = "(Assim começou o treinamento de Alice...!)"
+
+1013402-49 = "Se você fizer isso aqui..."
+
+1013402-53 = "Ah, foi o contrário! Em momentos como este, compense o impulso com um reforço..."
+
+1013402-57 = "Lá! ? Este foi um reforço lateral!"
+
+1013402-58 = "Uau! Começou a girar!"
+
+1013402-60 = "(Houve vários incidentes, mas o treinamento continuou sem maiores problemas.)"
+
+1013402-63 = "Suspiro…suspiro…."
+
+1013402-64 = "Agora vire um pouco mais para a direita..."
+
+1013402-68 = "(--Um tempo considerável se passou antes que eu percebesse.)"
+
+1013402-69 = "(Alice parecia ainda estar planejando continuar seu treinamento como heroína.)"
+
+1013402-74 = "...Oh!"
+
+1013402-79 = "Eu estava indo bem até agora..."
+
+1013402-80 = "Por alguma razão eu continuo falhando!"
+
+1013402-81 = "[s9] \"Por que você não faz uma pausa?\"\n[s10] \"Acho que você está ficando cansado.""
+
+1013402-84 = "não! tudo bem!"
+
+1013402-85 = "Alice ainda está cheia de energia!"
+
+1013402-86 = "E Alice, já joguei muitos jogos parecidos!"
+
+1013402-91 = "Por favor, assista... assim!"
+
 1013402-92 = "Ah!"
-1013402-97 = "[ns11] \"Are you okay!?\"\n[ns12] I rush over to Aris."
-1013402-101 = "Sensei..."
-1013402-102 = "I just twisted it a little, so I am fine—"
-1013402-103 = "Ouch."
-1013402-107 = "I should have listened to you, Sensei."
-1013402-108 = "Managing fatigue is a fundamental part of any training simulation!"
-1013402-109 = "If I had kept training like this, a status-down event would have occurred!"
-1013402-110 = "Even a veteran player like Aris makes mistakes like this sometimes..."
-1013402-111 = "..."
-1013402-114 = "[ns] \"...Let's head home for today.\""
-1013402-117 = "Sensei...?"
-1013402-118 = "Why are you on your knees...?"
-1013402-119 = "[s13] \"I'll give you a piggyback ride.\"\n[s14] \"You can't move with that leg, can you?\""
-1013402-122 = "Huh? But with this equipment, I could just fly home..."
-1013402-123 = "[s15] \"Just let me!\"\n[s16] \"It's fine for once!\""
-1013402-126 = "Ah... then..."
+
+1013402-97 = "[ns11] \"Você está bem!?\"\n[ns12] Corra até Alice."
+
+1013402-101 = "professor……."
+
+1013402-102 = "Eu apenas torci um pouco, então está tudo bem--"
+
+1013402-103 = "Aí estava."
+
+1013402-107 = "Afinal, eu deveria ter ouvido o professor."
+
+1013402-108 = "Gerenciar o nível de fadiga é a base da simulação de treinamento!"
+
+1013402-109 = "Se você continuar treinando assim, ocorrerá um evento de queda de status!"
+
+1013402-110 = "Até jogadores veteranos como Alice cometem erros como esse de vez em quando..."
+
+1013402-111 = "……."
+
+1013402-114 = "[ns] \"...Vamos para casa hoje.""
+
+1013402-117 = "professor……?"
+
+1013402-118 = "Por que você coloca os joelhos no chão...?"
+
+1013402-119 = "[s13] \"Vou te dar carona nas costas.\"\n[s14] \"Você não consegue se mover com essas pernas, não é?""
+
+1013402-122 = "Huh? Mas com este equipamento, eu poderia voar para casa..."
+
+1013402-123 = "[s15] \"Está tudo bem, está tudo bem!\"\n[s16] \"Não em momentos como este!\""
+
+1013402-126 = "Ah... então..."
+
 1013402-130 = "Hehehe."
-1013402-131 = "Aris wants Sensei to give her a piggyback ride every day."
-1013402-132 = "(The warmth of Aris's body felt through her back was a little cold.#nPerhaps it was because she had been flying around in the cold air for so long.)"
-1013402-134 = "(Aris's armor was heavier than I imagined...)"
-1013402-141 = "(I thought I might throw out my back.)"
+
+1013402-131 = "Alice, quero que minha professora me dê carona todos os dias."
+
+1013402-132 = "(Eu senti a temperatura do corpo de Alice pelas costas. Provavelmente porque ela estava voando no ar frio por muito tempo.)"
+
+1013402-134 = "(A armadura de Alice é mais pesada do que eu esperava...)"
+
+1013402-141 = "(pensei que ia machucar minhas costas)"
+

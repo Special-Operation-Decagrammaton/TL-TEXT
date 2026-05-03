@@ -1,30 +1,59 @@
 [translation]
-10053120-1 = "Afterword 3;Anonymous who?"
-10053120-3 = "...I see."
-10053120-4 = "As expected of you, Sensei [USERNAME]."
-10053120-5 = "This harvest exceeds my expectations."
-10053120-6 = "If I analyze this data... I can take another step forward—"
-10053120-13 = "Club President, why are you working in the dark? You'll ruin your eyes.\r\n\r\n"
-10053120-14 = "Entering without knocking is a breach of etiquette.\r\n\r\n\r\n\r\n"
-10053120-15 = "So, what were you looking at? Something weird again?\r\n\r\n"
-10053120-16 = "Please retract that phrasing. #nIt makes it sound like I'm always looking at weird things.\r\n\r\n\r\n"
-10053120-17 = "Eh? But you are, right? Like aliens, UFOs, and stuff....\r\n"
-10053120-18 = "This time it's... a Tsuchinoko? That's way too outdated.\r\n\r\n"
-10053120-19 = "Eimi. Aliens, UFOs, and even Tsuchinoko are not [ruby=weird]things[/ruby]. #nThey are simply [ruby=unproven]not yet proven[/ruby].\n"
-10053120-20 = "If we decide that [ruby=because]they don't exist[/ruby] just because they haven't been proven, how are we supposed to make new discoveries?\n"
-10053120-21 = "That's a fair point, but... it lacks persuasiveness coming from you, President.\r\n\r\n"
-10053120-22 = "You've been quite sharp-tongued lately, haven't you!? #nAs a flower blooming on a precipice, I am a being that should be treated gently and with care, you know?\r\n\r\n\r\n\r\n"
-10053120-23 = "No, the President's vitality is more like a dandelion on the side of the road.\r\n"
-10053120-24 = "...Well, we are close, so I will let your rudeness slide. #nMore importantly, your timing is perfect. I was just about to call you.\r\n\r\n\r\n"
-10053120-25 = "Me? Wasn't the Supernatural Investigation Department's activity finished?\r\n\r\n"
-10053120-26 = "...Please look at this.\r\n\r\n\r\n"
-10053120-32 = "...?\r\n\r\n"
-10053120-33 = "...What is this data?\r\n\r\n"
-10053120-34 = "I don't know.\r\n\r\n\r\n\r\n"
-10053120-35 = "Straight to the point, huh.\r\n"
-10053120-36 = "In fact, there is not a single thing we know about it at this moment.\r\n\r\n"
-10053120-37 = "“A bus that appeared in a place it shouldn't be,” “a stone statue that moves on its own,” #n“a public phone that rings in the middle of the night”....\r\n\r\n\r\n\r\n"
-10053120-38 = "Supernatural phenomena that cannot be explained by existing common sense or theory.\r\n\r\n\r\n"
-10053120-39 = "Truly, a “supernatural phenomenon,” right?\r\n\r\n"
-10053120-46 = "...Hehe, what do you think?\r\n"
-10053120-47 = "Don't you think we still have—things left to do?\r\n\r\n"
+10053120-1 = "Mais tarde, Parte 3; ANONYMOUS WHO?"
+
+10053120-3 = "...... Entendo."
+
+10053120-4 = "É disso que estou falando, senhor [USERNAME]."
+
+10053120-5 = "A colheita supera as expectativas."
+
+10053120-6 = "Se analisarmos esses dados, podemos ir um passo além... ......"
+
+10053120-13 = "Senhor, por que está trabalhando na escuridão total? Você ficará com a visão ruim. \fr0000000000}"
+
+10053120-14 = "É falta de educação entrar sem bater na porta. \fr0000000000}"
+
+10053120-15 = "Então, o que você estava assistindo? Outro filme estranho? \fr000000000000000000}"
+
+10053120-16 = "Por favor, corrija-me quanto a essa maneira de falar. #Parece que eu costumo ver muitas coisas estranhas. "
+
+10053120-17 = "O quê? Você está olhando, não está? Alienígenas, OVNIs, etc. ....... \r\n"
+
+10053120-18 = "Desta vez, ...... aardvark? Isso está tão desatualizado. \r\r\r\r\n"
+
+10053120-19 = "Amy. Alienígenas, OVNIs e aardvarks também não são [ruby=...]estranhos[/ruby][ruby=...][/ruby][ruby=...][/ruby][ruby=...][/ruby][ruby=...]. #nStill [ruby=...]proof[/ruby][ruby=...]bright[/ruby][ruby=...][/ruby][ruby=...][/ruby][ruby=...]and[/ruby][ruby=...][/ruby][ruby=...]not[/ruby][ruby=...][/ruby][ruby=...]in[/ruby][ruby=...]the[/ruby][/ruby][ruby=...]the[/ruby][ruby=...]in[/ruby][ruby=...]the[/ruby][ruby=...]the[/ruby][ruby=...]in[/ruby][ruby=...]the[/ruby][ruby=...][ruby=... ruby] somente. \n"
+
+10053120-20 = "[ruby=...]prova[/ruby][ruby=...][ruby=...][ruby=...][ruby=...][ruby=...][ruby=...][ruby=...][ruby=...][ruby=...]e[/ruby][ruby=...]são[/ruby][ruby=...]na[/ruby][ruby=...]i[/ruby][/ruby][... Se presumirmos que [ruby=...] ou [ruby=...][ruby=...][ruby=...][ruby=...][ruby=...][ruby=...]existem[/ruby][ruby=...]em[/ruby][ruby=...]o[/ruby][ruby=...]mundo[/ruby][ruby=...]como podemos descobrir coisas novas? Como descobrimos coisas novas? \n"
+
+10053120-21 = "É um bom argumento, mas quando o diretor do ...... o diz, é muito persuasivo. \r\r\r\r\n"
+
+10053120-22 = "Você tem sido muito espinhoso desde um tempo atrás! #Sou uma flor que desabrocha em um precipício e deve ser tratada gentilmente e com cuidado. \Sou uma flor que floresce em um precipício e deve ser tratada gentilmente e com cuidado."
+
+10053120-23 = "Não, a força vital do chefe é um dente-de-leão à beira da estrada. \r}n"
+
+10053120-24 = "...... Bem, isso é entre nós, e vamos deixar o passado para trás, sem desrespeito. #Mas o mais importante é que foi a coisa certa a fazer. Eu estava prestes a ligar para você. "
+
+10053120-25 = "Eu? Pensei que você tivesse terminado com a Unidade de Investigação de Fenômenos Peculiares? \fr0000000000}"
+
+10053120-26 = "Consulte ...... this. \r\n\r\n\r\n\r\n"
+
+10053120-32 = "......? \r\n\r\n"
+
+10053120-33 = "...... O que são esses dados? \r\r\r\r\n"
+
+10053120-34 = "Nós não sabemos. \r\n\r\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+
+10053120-35 = "Resposta rápida. \r}n"
+
+10053120-36 = "De fato, não há nada que tenha sido descoberto até o momento, portanto. \r\n\r\n"
+
+10053120-37 = "'Um ônibus que apareceu onde não deveria aparecer', 'Estátuas de pedra que se movem sozinhas', #n 'Telefones públicos que ligam no meio da noite'. ....... \r\n\r\n\n\r\n\r\n\n"
+
+10053120-38 = "Fenômenos sobrenaturais que não podem ser explicados pelo senso comum ou pela teoria existente. \r}r}r}r}r}r}r}r}r}n"
+
+10053120-39 = "É um verdadeiro "fenômeno singular". \r\n\r\n"
+
+10053120-46 = "...... Huh, o que você acha? \r\n"
+
+10053120-47 = "Você não acha que ainda temos... algum trabalho a fazer? \fnComic}r\fr\fr\fr\fr\fr\fr\fr\fr"
+

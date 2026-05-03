@@ -1,104 +1,207 @@
 [translation]
-10053050-1 = "Episode 5;A Shadow Approaching the Mountain Cabin"
-10053050-6 = "I'm home...\r\n"
-10053050-11 = "I... can't... I can't move anymore..."
-10053050-12 = "Same here..."
-10053050-13 = "[ns1] \"You all must be tired, so get some rest.\"\r\n[ns2] \"I'll handle dinner... wait, what?\""
-10053050-18 = "[ns3] \"M-my body won't move...?\"\r\n[ns4] \"Don't tell me, sleep paralysis...!\""
-10053050-24 = "That's just muscle soreness, you know.\r\n"
-10053050-25 = "You all look exhausted, so I'll whip up some dinner real quick."
-10053050-26 = "Th-thank you...\r\n\r\n\r\n"
-10053050-27 = "But don't complain about whatever I end up making, okay?\r\n"
-10053050-28 = "You can cook, right...?\r\n\r\n\r\n\r\n"
-10053050-29 = "If you grill it, boil it, or throw it all together, it usually tastes good. Easy peasy~\r\n\r\n"
-10053050-33 = "That doesn't make me feel safe at all!? Are you listening!?\r\n"
-10053050-34 = "Maybe I should go after her now... I'm really uneasy...\r\n"
-10053050-35 = "Hey, Tsubasa?"
-10053050-40 = "...\r\n"
-10053050-44 = "...She's asleep."
-10053050-45 = "We've been moving all day, after all..."
-10053050-46 = "It's only natural to get sleepy... *yawn*...\r\n"
-10053050-47 = "I'm... getting sleepy... too..."
-10053050-48 = "..."
-10053050-53 = "(Thud)"
-10053050-57 = "That startled me...\r\n"
-10053050-58 = "I must have fallen asleep without realizing it..."
-10053050-59 = "...\r\n"
-10053050-60 = "Konoka...? Is that you, Konoka?"
-10053050-61 = "...\r\n"
-10053050-63 = "[ns5] \"Konoka?\"\r\n[ns6] \"Do you need help with something?\""
-10053050-66 = "H-hey! It's you, right, Konoka?\r\n\r\n"
-10053050-67 = "..."
-10053050-68 = "I know it's you! #nPulling a childish prank like this... you're not one of my seniors, after all—!"
-10053050-70 = "..."
-10053050-71 = "T-Teacher...?"
-10053050-72 = "[s7] \"Leave this to me.\"\r\n[s8] \"I'll go take a look.\""
-10053050-75 = "N-no... I'm coming too."
-10053050-76 = "I have a bad feeling about this... Teacher, stay behind me.\r\n"
-10053050-80 = "There's... someone on the other side of this door..."
-10053050-86 = "............\r\n"
-10053050-92 = "Sorry to keep you waiting!!!!\r\n\r\n\r\n"
-10053050-93 = "!?!?\r\n"
-10053050-102 = "What!? Why did you hit me!?\r\n\r\n\r\n"
-10053050-103 = "You idiot!! Why would you make such a confusing entrance!! You almost gave me a heart attack!"
-10053050-104 = "Teacher, why is Rena so angry?\r\n"
-10053050-105 = "[s9] \"Wasn't it Konoka...?\"\r\n[s10] \"You were standing in front of the door just a moment ago, right...?\""
-10053050-108 = "Nope? I just got here—\r\n\r\n"
-10053050-109 = "Oh, so that means... I really wasn't seeing things earlier.\r\n"
-10053050-110 = "Huh!? What does that mean!?\r\n\r\n\r\n\r\n"
-10053050-111 = "Well, on my way back with the clam miso soup, I felt like someone left the cabin.\r\n"
-10053050-112 = "But since everyone was inside, I thought I just imagined it."
-10053050-113 = "Then... there really is someone else here!? Besides us!?\r\n\r\n\r\n\r\n\r\n"
-10053050-114 = "If I wasn't the only one who felt it, then it must be real, right?\r\n"
-10053050-115 = "Anyway, let's eat! Wake up the Director, too.\r\n\r\n"
-10053050-116 = "There are more important things to worry about right now, aren't there!?\r\n\r\n\r\n"
-10053050-117 = "No way, there's nothing more important in this world than food. Eating is the foundation of life. #nDirector~ Wake up~\r\n\r\n"
-10053050-119 = "(Dinner began, leaving a strange atmosphere in the air.)"
-10053050-120 = "(Konoka's cooking was actually quite delicious. Though, most of the dishes were oily and heavily seasoned.)"
-10053050-123 = "I see... so that happened while I was asleep.\r\n\r\n"
-10053050-124 = "I'll ask just in case...\r\n"
-10053050-125 = "Is there anyone here who has made enemies with someone?\r\n"
-10053050-126 = "Of course not!!\r\n\r\n\r\n"
-10053050-128 = "I can think of plenty."
-10053050-130 = "Huh!?\r\n\r\n\r\n"
-10053050-132 = "Uh, well, the last person who came for revenge was two weeks ago, so...\r\n\r\n"
-10053050-133 = "It wouldn't be strange for someone to show up again soon~\r\n"
-10053050-134 = "You're joking, right?"
-10053050-135 = "Not at all."
-10053050-136 = "I'm not just getting a free meal at the Public Safety Bureau, you know~\r\n"
-10053050-137 = "...Oh, but this time is different. Only my sister knows where I am.\r\n"
-10053050-138 = "...No, that's not necessarily true."
-10053050-139 = "Hmm?\r\n\r\n\r\n\r\n"
-10053050-140 = "If someone held a deep grudge against you, Konoka, and had been tailing you in secret... #nThen now, while we're deep in the mountains, would be the perfect time to strike.\r\n"
-10053050-141 = "Of course, for this hypothesis to hold, it would require a great deal of patience and persistence... #nAnd above all, a burning desire for revenge.\r\n\r\n"
-10053050-142 = "Even I haven't done anything to be hated that much—\r\n\r\n\r\n"
-10053050-146 = "...Just a little?"
-10053050-147 = "You have!?"
-10053050-148 = "When you work a job like this, you're bound to leave a few people injured—\r\n\r\n\r\n\r\n"
-10053050-149 = "No, no, no! Is that even allowed at Valkyrie!?"
-10053050-150 = "It's self-defense, just self-defense.\r\n\r\n\r\n\r\n"
-10053050-155 = "───The Seven Prisoners."
-10053050-162 = "I've heard rumors about them. #nSeven dangerous criminals who were arrested by the General Student Council's special forces after failing to rehabilitate at their alma mater. They were sent to the Correctional Bureau, but... they later escaped.\r\n"
-10053050-163 = "What if their target isn't you personally, Konoka... but the Public Safety Bureau, or rather, the entire Valkyrie Police Academy?\r\n"
-10053050-164 = "We might be facing an unprecedented crisis...!"
-10053050-169 = "Isn't that... a bit of a stretch?"
-10053050-174 = "Hmm, but it's not impossible."
-10053050-175 = "It's not!?"
-10053050-176 = "A well-prepared, persistent, and abnormally hateful escaped convict."
-10053050-177 = "You remember them quite well."
-10053050-178 = "............"
-10053050-179 = "............"
-10053050-181 = "Oh~ thank goodness~"
+10053050-1 = "Episódio 5; Uma sombra se aproximando da cabana na montanha"
+
+10053050-6 = "Estou em casa……. \r\n"
+
+10053050-11 = "Eu não posso... não consigo mais me mover..."
+
+10053050-12 = "Eu também..."
+
+10053050-13 = "[ns1] \"Todo mundo deve estar cansado, então descanse um pouco.\"\r\n[ns2] \"Vou jantar... hein?\""
+
+10053050-18 = "[ns3] \"Ou meu corpo não consegue se mover...?\"\r\n[ns4] \"De jeito nenhum, estou amarrado...!?\""
+
+10053050-24 = "É só dor muscular, só isso. \r\n"
+
+10053050-25 = "Todo mundo parece cansado, então serei eu quem preparará o jantar."
+
+10053050-26 = "Ah, obrigado... \r\n\r\n\r\n"
+
+10053050-27 = "Em vez disso, não importa o que aconteça, não reclame, ok? \r\n"
+
+10053050-28 = "Você pode cozinhar, certo? \r\n\r\n\r\n\r\n"
+
+10053050-29 = "A maioria das coisas fica deliciosa se você assá-las, fervê-las e fervê-las. Vitória fácil, vitória fácil~\r\n\r\n"
+
+10053050-33 = "Não me sinto nada seguro! ? Estou ouvindo! ? \r\n"
+
+10053050-34 = "Talvez eu devesse ir atrás dela agora... estou muito preocupado... \r\n"
+
+10053050-35 = "Ei, Tsubasa?"
+
+10053050-40 = "……. \r\n"
+
+10053050-44 = "...Estou dormindo."
+
+10053050-45 = "Eu estava em constante movimento hoje..."
+
+10053050-46 = "Isso me dá sono... Nossa... \r\n"
+
+10053050-47 = "Eu também estava começando a sentir sono..."
+
+10053050-48 = "……."
+
+10053050-53 = "(baque)"
+
+10053050-57 = "Fiquei surpreso.... \r\n"
+
+10053050-58 = "Antes que eu percebesse, eu tinha adormecido..."
+
+10053050-59 = "……. \r\n"
+
+10053050-60 = "Conoka...? É Konoka, certo?"
+
+10053050-61 = "……. \r\n"
+
+10053050-63 = "[ns5] \"Konoka?\"\r\n[ns6] \"Posso te ajudar em algo?\""
+
+10053050-66 = "Ei, espere! É Konoka? \r\n\r\n"
+
+10053050-67 = "……."
+
+10053050-68 = "Porque eu já sei! #nMeus idosos não estariam pregando peças infantis como essa! \r\n"
+
+10053050-70 = "……."
+
+10053050-71 = "S-Sensei...? \r\n"
+
+10053050-72 = "[s7] \"Deixe isso comigo.\"\r\n[s8] \"Vou dar uma olhada.\""
+
+10053050-75 = "Não, não... eu também vou."
+
+10053050-76 = "Sinto que não gosto... A professora está atrás de mim. \r\n"
+
+10053050-80 = "Há alguém atrás desta porta..."
+
+10053050-86 = "…………. \r\n"
+
+10053050-92 = "Espere! ! ! ! \r\n\r\n\r\n"
+
+10053050-93 = "! ? ! ? \r\n"
+
+10053050-102 = "o que! ? Por que você foi atingido? ? \r\n\r\n\r\n"
+
+10053050-103 = "enganar! ! Por que aparece de forma tão confusa? ! Achei que meu coração ia parar!"
+
+10053050-104 = "先生、レナは何を怒ってるんすか？ \r\n"
+
+10053050-105 = "[s9] \"コノカじゃなかったの……？\"\r\n[s10] \"さっきまでドアの前にいたよね……？\""
+
+10053050-108 = "não? Acabei de chegar ――\r\n\r\n"
+
+10053050-109 = "Ah, então... acho que não me enganei, afinal. \r\n"
+
+10053050-110 = "Huh! ? O que isso significa! ? \r\n\r\n\r\n\r\n"
+
+10053050-111 = "Bem, quando eu estava indo trazer a sopa de missô com amêijoas, senti como se alguém tivesse saído da cabana na montanha. \r\n"
+
+10053050-112 = "Mas como todos estavam lá dentro, pensei que fosse um erro. \r\n"
+
+10053050-113 = "Então... há realmente alguém lá fora? ? Além de nós! ? \r\n\r\n\r\n\r\n\r\n"
+
+10053050-114 = "Se não fui o único que sentiu isso, então deve ser real, certo? \r\n"
+
+10053050-115 = "Em vez disso, vamos comer alguma coisa logo! Acorde o diretor também. \r\n\r\n"
+
+10053050-116 = "Há coisas mais importantes para fazer agora! ? \r\n\r\n\r\n"
+
+10053050-117 = "Não, não há nada mais importante neste mundo do que a comida. A comida é a base da vida. #nDiretor~Acorde~\r\n\r\n"
+
+10053050-119 = "(O jantar começou, deixando uma atmosfera estranha.)"
+
+10053050-120 = "(A comida de Konoka era deliciosa. No entanto, havia muitos pratos oleosos e com sabores fortes.)"
+
+10053050-123 = "Entendo... isso aconteceu enquanto eu estava dormindo. \r\n\r\n"
+
+10053050-124 = "Gostaria de te perguntar uma coisa... \r\n"
+
+10053050-125 = "Existe alguém que está ofendendo alguém? \r\n"
+
+10053050-126 = "Não tem como ele estar aí! ! \r\n\r\n\r\n"
+
+10053050-128 = "São muitos momentos memoráveis. \r\n"
+
+10053050-130 = "Huh! ? \r\n\r\n\r\n"
+
+10053050-132 = "Bom, a última pessoa que veio se vingar foi há duas semanas... \r\n\r\n"
+
+10053050-133 = "Acho que já é hora de eu voltar ~\r\n"
+
+10053050-134 = "Você está brincando? \r\n"
+
+10053050-135 = "Sem chance. \r\n"
+
+10053050-136 = "Não estou apenas comendo comida de graça no Departamento de Segurança Pública.\r\n"
+
+10053050-137 = "...Ah, mas desta vez é diferente. Só minha irmã sabe onde estou. \r\n"
+
+10053050-138 = "...Não, esse não é necessariamente o caso. \r\n"
+
+10053050-139 = "Sim? \r\n\r\n\r\n\r\n"
+
+10053050-140 = "Se alguém tivesse um forte rancor contra Konoka-kun e o estivesse seguindo secretamente...#nNa verdade, agora que ele está nas profundezas das montanhas assim deveria ser o momento perfeito para atacá-lo. \r\n"
+
+10053050-141 = "É claro que para que essa hipótese seja verdadeira, você precisará de muita paciência, tenacidade...#n e, acima de tudo, senso de vingança. \r\n\r\n"
+
+10053050-142 = "Como esperado, eu seria muito odiado ――\r\n\r\n\r\n"
+
+10053050-146 = "...Só um pouquinho?"
+
+10053050-147 = "Há! ? \r\n\r\n\r\n"
+
+10053050-148 = "Se você trabalhar assim, uma ou duas pessoas ficarão feridas ――\r\n\r\n\r\n\r\n"
+
+10053050-149 = "Não, não, não! Valquíria tem permissão para fazer isso! ?"
+
+10053050-150 = "É defesa legítima, portanto é defesa legítima. \r\n\r\n\r\n\r\n"
+
+10053050-155 = "────Sete prisioneiros."
+
+10053050-162 = "Eu ouvi os rumores. #n Sete criminosos violentos que desistiram da reabilitação em sua alma mater e foram presos pelas forças especiais do Conselho Estudantil da Federação. Ele foi enviado para o Departamento de Correções, mas depois escapou. \r\n"
+
+10053050-163 = "E se o alvo deles não fosse Konoka-kun pessoalmente... mas o Departamento de Segurança Pública, em outras palavras, a Academia de Polícia Valquíria como um todo? \r\n"
+
+10053050-164 = "Podemos estar agora enfrentando uma crise sem precedentes...!"
+
+10053050-169 = "Isso não é... um salto longe demais?"
+
+10053050-174 = "Hum, mas talvez não."
+
+10053050-175 = "Há! ? ! ?"
+
+10053050-176 = "Um fugitivo da prisão bem preparado e tenaz que odeia Valquíria."
+
+10053050-177 = "Eu consigo me lembrar disso corretamente."
+
+10053050-178 = "…………."
+
+10053050-179 = "…………."
+
+10053050-181 = "Ah, isso é bom."
+
 10053050-182 = "Huh?"
-10053050-183 = "I thought maybe a ghost had appeared."
-10053050-184 = "If it's just an escaped convict, that's easy, right? #nWe just catch them again and throw them back in the slammer."
-10053050-185 = "...Oh, scratch that. Back to the Correctional Bureau, I mean."
-10053050-186 = "Isn't that a bit too casual...?"
-10053050-187 = "Even I've heard of the Seven Prisoners.\r\n"
-10053050-188 = "Wait, you know about the Seven Prisoners, but you didn't know I was with the Public Safety Bureau?\r\n\r\n\r\n\r\n"
-10053050-189 = "Oh, no, sorry. That's not what I meant—\r\n\r\n"
-10053050-190 = "Just kidding, just kidding! No need to apologize! Hahaha!\r\n\r\n\r\n"
-10053050-194 = "Anyway, no matter who shows up, I'll protect you.\r\n"
-10053050-195 = "Case closed! Man, what a waste of energy being scared~\r\n"
-10053050-196 = "...\r\n"
-10053050-200 = "...\r\n\r\n\r\n"
+
+10053050-183 = "Não, eu realmente pensei que um fantasma tivesse aparecido."
+
+10053050-184 = "Se você for um prisioneiro fugitivo, você falará rapidamente, certo? #nVou te pegar mais uma vez e te jogar na bunda."
+
+10053050-185 = "...Ah, cancelei do jeito que falei. Para o Departamento de Correções."
+
+10053050-186 = "Não é muito leve...?"
+
+10053050-187 = "Até eu ouvi falar dos Sete Prisioneiros. \r\n"
+
+10053050-188 = "Espere, você sabe sobre os Sete Prisioneiros, mas não sabia que eu era do Departamento de Segurança Pública? \r\n\r\n\r\n\r\n"
+
+10053050-189 = "Ah, não, desculpe. Nesse sentido ――\r\n\r\n"
+
+10053050-190 = "Brincadeirinha, você não precisa se desculpar! Ahaha! \r\n\r\n\r\n"
+
+10053050-194 = "De qualquer forma, protegerei você, não importa quem vier. \r\n"
+
+10053050-195 = "Isso resolve o assunto! Ah~ eu estava com medo e perdido~\r\n"
+
+10053050-196 = "……. \r\n"
+
+10053050-200 = "……. \r\n\r\n\r\n"
+

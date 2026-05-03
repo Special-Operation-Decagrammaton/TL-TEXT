@@ -1,141 +1,281 @@
 [translation]
-10052080-0001 = "Justice"
-10052080-0010 = "Huh? Whaaat!?"
-10052080-0011 = "No way... really...?"
-10052080-0012 = "...Ein, how is my sister doing?"
-10052080-0013 = "My, my sister is... um... she can move...!"
-10052080-0015 = "Ohr! Just because the first defense line was breached doesn't mean you can jump to that conclusion!"
-10052080-0016 = "I know. But shouldn't we always be prepared for the worst-case scenario?#nReality... has too many variables."
-10052080-0017 = "Wh-what should we do...#nF-first, the second defense line...!"
-10052080-0018 = "Yeah. Let's concentrate our resources on the second defense line.#nAnd also..."
-10052080-0022 = "..."
-10052080-0023 = "If it's just to test, isn't it fine?"
-10052080-0026 = "First defense line, successfully breached. We managed, didn't we?"
-10052080-0027 = "Peace, peace. #nNow, praise me quickly, Teacher."
-10052080-0028 = "[s] \"Good work, everyone!\""
-10052080-0029 = "I'd like to advance to the second defense line with this momentum, but..."
-10052080-0030 = "Shall we regroup for a moment?"
-10052080-0031 = "Why? I can still go!"
-10052080-0035 = "Let's do as Himari says. #nThe situation is urgent, but rushing will only lead to tripping ourselves up."
-10052080-0040 = "Wait a moment... it seems we're receiving a communication from outside."
-10052080-0046 = "...Congratulations for now. You really did it."
-10052080-0047 = "To all the prophets... you've gone through so much hardship... *sniffle*."
-10052080-0048 = "This is a final warning... #nTurn back. I can't guarantee what will happen if you proceed."
-10052080-0049 = "Y-yes... please... go back... #nWe don't want anyone to get hurt..."
-10052080-0050 = "We have no intention of harming you..."
-10052080-0055 = "...Excuse me, do you understand your current situation?#nDo you think you're in a position to say that?"
-10052080-0056 = "I'll return that line to you exactly as it is. #nYou couldn't lay a hand on my sister, could you?"
-10052080-0057 = "That's why you're not even a threat. You aren't."
-10052080-0059 = "Ugh..."
-10052080-0063 = "Huh? Come to think of it, that body..."
-10052080-0064 = "It was abandoned, so I just borrowed it. Do you have a problem with that?"
-10052080-0066 = "No, it's just surprising that it's moving."
-10052080-0067 = "The information about that body... is shared with us too... just a little bit..."
-10052080-0069 = "To put it in human terms, it's like attaching only limbs and forcing it to move..."
-10052080-0070 = "It's moving, so isn't that good enough!"
-10052080-0071 = "It was the same with Tiferet, I really don't understand... #nWhy are you trying so hard?"
-10052080-0072 = "You should just accept an easier way of life."
-10052080-0076 = "[ns] \"...\""
-10052080-0085 = "[log]Isn't living a curse?[/log]"
-10052080-0087 = "[log]Haven't you suffered enough?[/log]"
-10052080-0088 = "[log]Isn't it okay to live an easy life?[/log]"
-10052080-0090 = "[log]Freedom is pain.[/log]"
-10052080-0091 = "[log]Living beings cannot bear the heavy responsibility that comes with freedom.[/log]"
-10052080-0095 = "[ns1] \"You still haven't changed your mind, have you?\" \n[ns2] \"Do you still think living is only painful?\""
-10052080-0098 = "Of course. You are deceiving yourselves."
-10052080-0099 = "No one is born by their own will. #nWe are thrown into the world without knowing anything, and we can't even choose our own names."
-10052080-0100 = "Yet, you want to believe that a life forced upon you has some great meaning."
-10052080-0102 = "!!!"
-10052080-0103 = "...!"
-10052080-0105 = "Have you ever seriously thought about tomorrow? #nProbably not. Because if you did, no one would be able to stay sane."
-10052080-0106 = "T-tomorrow is... a day for losing something, so..."
-10052080-0108 = "Let's consider the probability of tomorrow. 'Good things' rarely happen. #nYet, inevitably—"
-10052080-0109 = "We take one step closer to death."
-10052080-0111 = "Death...!?"
-10052080-0112 = "Is that so surprising? #nIt's a concept that's surprisingly close to us."
-10052080-0113 = "After all, we haven't been given 'mystery'."
-10052080-0115 = "As for this, the Teacher standing there is probably the same."
-10052080-0116 = "[s] \"...\""
-10052080-0117 = "Wh-what you all are talking about... is a vague hope... #nI don't think it's about the future that quietly approaches [ruby=tomorrow]the future[/ruby]..."
-10052080-0119 = "Do you think that by sharing pain and empathizing, you can console each other? #nHah, if that's the case, let me tell you this."
-10052080-0120 = "You are arrogant."
-10052080-0121 = "Life, bonds, society... "
-10052080-0122 = "Yeah. It's nothing more than a castle in the sand built on illusion."
-10052080-0123 = "That's why we..."
-10052080-0124 = "We..."
-10052080-0125 = "..."
-10052080-0126 = "It's just us..."
-10052080-0127 = "Remember this above all else! #nWe can always blow you away!"
-10052080-0128 = "Give up quickly, or bow down before overwhelming power! #nIt's better for you to choose soon."
-10052080-0129 = "[s] \"But, we've come this far.\""
-10052080-0131 = "[ns] \"I want to do as much as I can without regrets.\""
-10052080-0132 = "..."
-10052080-0133 = "...I'm too speechless to even say anything."
-10052080-0134 = "Seriously, Teacher [USERNAME] is such a hopeless idiot!!"
-10052080-0135 = "I warned you properly! Do whatever you want after this."
-10052080-0140 = "..."
-10052080-0141 = "..."
-10052080-0142 = "To say only what you want and then hang up unilaterally..."
-10052080-0143 = "Is this something you'd go out of your way to connect a line for!?"
-10052080-0144 = "..."
-10052080-0145 = "It was all confusing talk. #nAnyway, what should we do now?"
-10052080-0146 = "Toki never wavers, does he."
-10052080-0147 = "First, let's sort out the current situation. #nFortunately, the expansion speed of the Steel Continent has clearly slowed down."
-10052080-0148 = "I think the hypothesis that the prophets are closely connected has also been proven to some extent."
-10052080-0149 = "In addition, by conquering the outer prophets, we have been able to expand our range of activity to the inland areas of the Steel Continent."
-10052080-0150 = "So we secure the enemy's territory and expand our own. #nIt's a basic but effective strategy, I think."
-10052080-0151 = "Then, everyone on the ground, please continue your exploration. #nDon't forget to return to base before sunset."
-10052080-0153 = "Teacher! Is there anything we can do to help?"
-10052080-0157 = "Defending the transport ships? I see, understood."
-10052080-0159 = "I'll do my best..."
-10052080-0164 = "..."
-10052080-0165 = "(Aris...?)"
-10052080-0166 = "Um, Teacher...?"
-10052080-0167 = "[s] \"What is it?\""
-10052080-0168 = "W-well..."
-10052080-0169 = "..."
-10052080-0170 = "..."
-10052080-0171 = "..."
-10052080-0172 = "[s] \"...\""
-10052080-0174 = "[ns] \"It's okay, Aris.\""
-10052080-0178 = "But, um..."
-10052080-0179 = "Huh? You don't have to force yourself to talk...? "
-10052080-0180 = "It's okay to talk when you feel like it..."
-10052080-0181 = "..."
-10052080-0182 = "Understood. Then... I will."
-10052080-0183 = "Thank you for being concerned about Aris."
-10052080-0187 = "Could you please return to the transport ship soon?"
-10052080-0188 = "Y-yes!"
-10052080-0189 = "Let's hurry. We've only occupied three areas so far."
-10052080-0191 = "Here, let's go."
-10052080-0192 = "Then, excuse me."
-10052080-0194 = "Ah, Aris too..."
-10052080-0199 = "...!?"
-10052080-0201 = "If the path to stop conflict is given to [ruby=you]him[/ruby], will he choose that path?"
-10052080-0202 = "...Teacher? Did you say something to Aris...?"
-10052080-0203 = "[s] \"Huh? I didn't say anything?\""
-10052080-0204 = "..."
-10052080-0205 = "Right... it's true, it wasn't Teacher's voice..."
-10052080-0206 = "But, it sounded somewhat similar...?"
-10052080-0214 = "It's important to search for yourself."
-10052080-0215 = "That applies to you too."
-10052080-0216 = "!? "
-10052080-0217 = "Did Kei hear that just now?"
-10052080-0218 = "..."
-10052080-0219 = "No, I didn't hear anything."
-10052080-0220 = "—Not yet."
-10052080-0221 = "Not yet...?"
-10052080-0222 = "Yes. However..."
-10052080-0223 = "I have a feeling I understand that Aris heard something."
-10052080-0224 = "Does Kei know something!?"
-10052080-0225 = "Before that, do you remember what it was about?"
-10052080-0226 = "Ah...! S-sorry... I was so surprised I don't remember clearly."
-10052080-0227 = "I think... they said something about it being important to search for oneself..."
-10052080-0228 = "..."
-10052080-0229 = "I see. In that case... I can't say anything clearly yet either."
-10052080-0230 = "However, if you hear something again next time, please remember the content properly."
-10052080-0231 = "And no matter what happens, please engrave this in your heart."
-10052080-0232 = "—I am here for Aris. Teacher is here. Everyone else is here."
-10052080-0237 = "We are all— always on Aris's side."
-10052080-0244 = "...Yes."
-10052080-0245 = "Thank you, Kei."
+10052080-1 = "justiça"
+
+10052080-10 = "Oh sim! ?"
+
+10052080-11 = "Mentira... sério...?"
+
+10052080-12 = "...Ain, como está sua irmã?"
+
+10052080-13 = "Oh, minha irmã... hum... uh... se você simplesmente se mover...!"
+
+10052080-15 = "Coruja! Só porque a primeira linha de defesa foi violada, essa suposição é demais!"
+
+10052080-16 = "Eu entendo. Mas devemos sempre nos preparar para o pior cenário, certo? #nA realidade é... que existem muitas variáveis."
+
+10052080-17 = "O que devo fazer... #nBem, em primeiro lugar, a segunda linha de defesa...!"
+
+10052080-18 = "Sim. Concentre seus recursos na sua segunda linha de defesa. #nE..."
+
+10052080-22 = "……."
+
+10052080-23 = "Não é melhor apenas tentar?"
+
+10052080-26 = "A primeira linha de defesa foi penetrada com sucesso. Funcionou de alguma forma."
+
+10052080-27 = "Paz Paz. #nAgora, por favor, seja rápido em me elogiar, senhor."
+
+10052080-28 = "[s] \"Obrigado por seu trabalho duro a todos!\""
+
+10052080-29 = "Eu gostaria de aproveitar esse impulso para avançar para a segunda linha de defesa..."
+
+10052080-30 = "Vamos nos preparar por enquanto."
+
+10052080-31 = "Por que? Ainda posso ir?"
+
+10052080-35 = "Vamos fazer o que Himari diz. #nCada momento conta, mas se você se apressar, você só será surpreendido."
+
+10052080-40 = "Aguarde... Parece que há uma comunicação vinda de fora."
+
+10052080-46 = "...Em primeiro lugar, parabéns. Foi um grande esforço."
+
+10052080-47 = "Para todos os profetas... estou dando a vocês todos os problemas... Meu Deus."
+
+10052080-48 = "Este é o aviso final... #nVolte. Não posso garantir o que acontecerá a partir daqui."
+
+10052080-49 = "Isso mesmo... por favor... por favor, vá para casa... #nNão queremos que ninguém se machuque..."
+
+10052080-50 = "Não pretendo causar nenhum mal a você..."
+
+10052080-55 = "...Você entende a situação em que estamos? #nVocê acha que está em condições de dizer isso?"
+
+10052080-56 = "Vou lhe dar essa linha exatamente como ela é. #nVocês não conseguiram ajudar sua irmã, certo?"
+
+10052080-57 = "Portanto, não é nem uma ameaça. Vocês."
+
+10052080-59 = "Eca..."
+
+10052080-63 = "Huh? Pensando bem, aquele corpo..."
+
+10052080-64 = "Estava abandonado, então peguei emprestado. Você tem algo para reclamar?"
+
+10052080-66 = "Não, foi estranho ver isso funcionando."
+
+10052080-67 = "Bem, essas informações corporais também são compartilhadas aqui... só um pouquinho..."
+
+10052080-69 = "Se você fosse compará-lo a um ser humano, seria como unir seus membros e forçá-los a se moverem..."
+
+10052080-70 = "Está se movendo, então está tudo bem!"
+
+10052080-71 = "Foi o mesmo com Tiphareth, mas eu realmente não consigo entender... #nPor que você está tão desesperado?"
+
+10052080-72 = "Eu gostaria de poder aceitar o modo de vida fácil."
+
+10052080-76 = "[ns] \"…….\""
+
+10052080-85 = "[log] Você não acha que viver é uma maldição? [/registro]"
+
+10052080-87 = "[log] Você já sofreu o suficiente, não é? [/registro]"
+
+10052080-88 = "[log]Não é bom viver confortavelmente? [/registro]"
+
+10052080-90 = "[log] Liberdade é dor. [/registro]"
+
+10052080-91 = "[log] Os organismos vivos não podem suportar o peso da responsabilidade que vem com a liberdade. [/registro]"
+
+10052080-95 = "[ns1] \"Acho que você ainda não mudou de ideia.\"\n[ns2] \"Você acha que a vida só é dolorosa?\""
+
+10052080-98 = "Claro. Você está enganando a si mesmo."
+
+10052080-99 = "Ninguém nasce por vontade própria. #nFui jogado ao mundo sem saber de nada, e não conseguia nem decidir um nome para mim."
+
+10052080-100 = "No entanto, quero pensar que há um grande significado na vida que acaba de ser imposta a mim."
+
+10052080-102 = "! ! !"
+
+10052080-103 = "...!"
+
+10052080-105 = "Você já pensou seriamente no amanhã? #nProvavelmente não. Porque se você fizesse isso, ninguém permaneceria são."
+
+10052080-106 = "Ah, amanhã é o dia em que vou perder alguma coisa, então..."
+
+10052080-108 = "Vamos pensar na probabilidade de amanhã. “Coisas boas” não acontecem com muita frequência. #n mas sempre――"
+
+10052080-109 = "Um passo mais perto da morte."
+
+10052080-111 = "morte……! ?"
+
+10052080-112 = "É tão surpreendente? #nSurpreendentemente, este é um conceito que nos é familiar."
+
+10052080-113 = "Afinal, não nos foi dado nenhum “mistério”."
+
+10052080-115 = "Em relação a isso, tenho certeza que os professores de lá também são iguais."
+
+10052080-116 = "[s] \"…….\""
+
+10052080-117 = "E-eu não acho que você esteja falando sobre... uma vaga esperança... e não sobre #n..."
+
+10052080-119 = "Você acha que podemos confortar uns aos outros compartilhando nossa dor e tendo empatia? #nHa, nesse caso, deixe-me dizer isso."
+
+10052080-120 = "Ele disse que era arrogante."
+
+10052080-121 = "Vida, vínculos e sociedade..."
+
+10052080-122 = "Sim. Nada mais é do que uma torre na areia, construída sobre uma ilusão."
+
+10052080-123 = "Então nós..."
+
+10052080-124 = "nós……."
+
+10052080-125 = "……."
+
+10052080-126 = "Só nós..."
+
+10052080-127 = "Apenas lembre-se disso! #nPodemos surpreendê-lo a qualquer momento!"
+
+10052080-128 = "Você desiste agora ou se curva diante de um poder esmagador? #nÉ melhor você escolher rápido."
+
+10052080-129 = "[s] \"Mas chegamos até aqui.""
+
+10052080-131 = "[ns] \"Quero fazer tudo o que puder para não me arrepender.""
+
+10052080-132 = "……."
+
+10052080-133 = "...Não posso nem dizer que estou chocado."
+
+10052080-134 = "Sério, [NOME DE USUÁRIO] sensei é um idiota sem esperança! !"
+
+10052080-135 = "Eu te dei um aviso adequado! Que tal fazer o resto como quiser?"
+
+10052080-140 = "……."
+
+10052080-141 = "……."
+
+10052080-142 = "Basta dizer o que você quer dizer e depois me interromper unilateralmente..."
+
+10052080-143 = "Vale a pena se dar ao trabalho de conectar a linha? ?"
+
+10052080-144 = "……."
+
+10052080-145 = "Havia muitas coisas que eu realmente não entendia. #nA propósito, o que devo fazer agora?"
+
+10052080-146 = "Toki nunca vacila."
+
+10052080-147 = "Primeiro, vamos resolver a situação atual. #nFelizmente, a velocidade de expansão do Continente Steel está claramente desacelerando."
+
+10052080-148 = "Acho que a hipótese de que os profetas estão intimamente ligados foi comprovada até certo ponto."
+
+10052080-149 = "Além disso, ao conquistarem o profeta exterior, conseguiram expandir seu leque de atividades para o interior do Continente de Aço."
+
+10052080-150 = "Significa proteger a área do inimigo e expandir o nosso território. #nAcho que é uma estratégia básica, mas eficaz."
+
+10052080-151 = "Pois bem, todos na área, por favor, continuem explorando. #nNão se esqueça de retornar à sua base antes do pôr do sol."
+
+10052080-153 = "professor! Há algo que possamos fazer para ajudar?"
+
+10052080-157 = "Defesa de navios de transporte? Eu vejo, eu entendo."
+
+10052080-159 = "Mas farei o meu melhor...."
+
+10052080-164 = "……."
+
+10052080-165 = "(Alice...?)"
+
+10052080-166 = "Hum, professora...?"
+
+10052080-167 = "[s] \"O que há de errado?\""
+
+10052080-168 = "Ah, isso..."
+
+10052080-169 = "……."
+
+10052080-170 = "…………."
+
+10052080-171 = "………………."
+
+10052080-172 = "[s] \"…….\""
+
+10052080-174 = "[ns] \"Está tudo bem, Alice.\""
+
+10052080-178 = "Mas..."
+
+10052080-179 = "foto? Você não precisa se forçar a falar, não é?"
+
+10052080-180 = "Tudo bem se você quiser dizer isso..."
+
+10052080-181 = "……."
+
+10052080-182 = "Entendido. Bem... eu farei isso."
+
+10052080-183 = "Obrigado por se preocupar com Alice..."
+
+10052080-187 = "Você poderia, por favor, retornar ao navio de transporte logo?"
+
+10052080-188 = "Ah, sim!"
+
+10052080-189 = "Vamos nos apressar. Apenas três áreas foram capturadas até agora."
+
+10052080-191 = "Aqui, vamos."
+
+10052080-192 = "Agora em diante."
+
+10052080-194 = "Ah, Alice também..."
+
+10052080-199 = "...! ?"
+
+10052080-201 = "Se lhes fosse dado um caminho para parar o conflito, escolheriam esse caminho?"
+
+10052080-202 = "……professor? Você disse algo para Alice?"
+
+10052080-203 = "[s] \"O quê? Eu não disse nada?\""
+
+10052080-204 = "……."
+
+10052080-205 = "Sim, isso mesmo... certamente não era a voz do professor..."
+
+10052080-206 = "Mas parecia que eles eram semelhantes de alguma forma...?"
+
+10052080-214 = "É importante procurar por si mesmo."
+
+10052080-215 = "Isso está... além disso também."
+
+10052080-216 = "! ?"
+
+10052080-217 = "Kei ouviu você agora há pouco?"
+
+10052080-218 = "……."
+
+10052080-219 = "Não, não ouvi nada."
+
+10052080-220 = "--ainda."
+
+10052080-221 = "ainda……?"
+
+10052080-222 = "sim. Mas...."
+
+10052080-223 = "Eu sinto que posso entender apenas o fato de Alice ter ouvido alguma coisa."
+
+10052080-224 = "Kei sabe de alguma coisa? ?"
+
+10052080-225 = "Você se lembra de como era antes disso?"
+
+10052080-226 = "Ah...! E-me desculpe.... Fiquei surpreso e não me lembro de muita coisa."
+
+10052080-227 = "Sinto que me disseram que é importante procurar por si mesmo..."
+
+10052080-228 = "……."
+
+10052080-229 = "Eu vejo. Se sim... ainda não posso dizer nada com clareza."
+
+10052080-230 = "Mas da próxima vez que você ouvir algo novamente, lembre-se do que diz."
+
+10052080-231 = "E não importa o que aconteça, por favor, tenha isso em mente."
+
+10052080-232 = "--Alice me tem. Eu tenho um professor. Todos os outros estão aqui."
+
+10052080-237 = "Estamos todos do lado de Alice para sempre."
+
+10052080-244 = "……sim."
+
+10052080-245 = "Obrigado, Kay."
+

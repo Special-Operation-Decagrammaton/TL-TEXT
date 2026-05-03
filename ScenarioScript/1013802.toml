@@ -1,98 +1,195 @@
 [translation]
-1013802-1 = "Take it off, quickly!"
-1013802-2 = "(I bought the materials Rena asked for and headed to the Wild Hunt Academy.)"
-1013802-3 = "(...However.)"
-1013802-5 = "Huh!? W-what are you doing!?"
-1013802-6 = "You're putting ketchup on pasta...!?"
-1013802-7 = "This is delicious, want some?"
-1013802-8 = "Impossible... That is a blasphemy against the Wild Hunt!!"
-1013802-9 = "Wait, hold on...? What is that rice?"
-1013802-10 = "Oh, this goes really well with pasta sauce~"
-1013802-11 = "Gyaaaaah!?!? Unbelievable!! Duel! It's a duel!"
-1013802-12 = "Ahahahaha! Fine! Let's go outside!"
-1013802-14 = "[ns] \"Um... what are you doing?\""
-1013802-20 = "(I got caught up in a fight between some passing students.)"
-1013802-26 = "What is the meaning of fighting in front of the teacher!?"
-1013802-27 = "But this person... said they eat rice with pasta sauce on it!?"
-1013802-28 = "And you, didn't you add water to your espresso?"
-1013802-29 = "What...!? Hey, take them both away!!"
-1013802-35 = "[ns] \"I see, it's a sensitive issue...\""
-1013802-36 = "Phew... the peace of the Wild Hunt has been preserved."
-1013802-37 = "Teacher, are you okay?"
-1013802-38 = "[s] \"Y-yeah. I'm fine.\""
-1013802-39 = "That's good to hear."
-1013802-40 = "I apologize for the unsightly scene. I will make sure to educate them thoroughly!"
-1013802-41 = "You two... I'm going to drill the rules of the Wild Hunt into you!"
-1013802-46 = "(Although the fight had settled down...)"
-1013802-47 = "(The place remained in a mess.)"
-1013802-48 = "[ns] \"Maybe I should put the overturned table back...\""
-1013802-50 = "(As I crouched down to tidy up the table...)"
+1013802-1 = "Tire isso rapidamente!"
+
+1013802-2 = "(Comprei os materiais que Lena pediu e fui para a Wild Hunt Art Academy.)"
+
+1013802-3 = "(...No entanto)"
+
+1013802-5 = "Huh! ? O-o que você está fazendo! ?"
+
+1013802-6 = "Colocando ketchup no macarrão...! ?"
+
+1013802-7 = "Isso é delicioso, você gostaria de comê-lo?"
+
+1013802-8 = "Isso é impossível... isso é um insulto à Caçada Selvagem! !"
+
+1013802-9 = "Quero dizer...? O que é esse arroz?"
+
+1013802-10 = "Ah, isso vai muito bem com molho de macarrão."
+
+1013802-11 = "Gyaaaaah! ? ! ? não posso acreditar! ! Um duelo, um duelo!"
+
+1013802-12 = "Ahahaha! Bom! Vamos mostrar!"
+
+1013802-14 = "[ns] \"Hum... o que você está fazendo?\""
+
+1013802-20 = "(Eu me envolvi em uma briga entre estudantes que passavam)"
+
+1013802-26 = "Qual o sentido de brigar na frente do professor? ?"
+
+1013802-27 = "Mas esse cara... ele diz que come com molho de macarrão por cima do arroz! ?"
+
+1013802-28 = "Você não teria adicionado água ao seu café expresso?"
+
+1013802-29 = "O que...! ? Ei, leve os dois embora! !"
+
+1013802-35 = "[ns] \"É um assunto delicado...\""
+
+1013802-36 = "Ufa... A Paz na Caçada Selvagem agora está protegida."
+
+1013802-37 = "Professor, você está bem?"
+
+1013802-38 = "[s] \"Uh, sim. Está tudo bem.\""
+
+1013802-39 = "Isso seria ótimo."
+
+1013802-40 = "Eu te mostrei um lugar feio. Eu lhes darei uma educação completa!"
+
+1013802-41 = "Pessoal... vou te ensinar as regras da Caçada Selvagem!"
+
+1013802-46 = "(Embora a luta tenha diminuído...)"
+
+1013802-47 = "(O lugar permaneceu deserto)"
+
+1013802-48 = "[ns] \"Talvez eu devesse colocar a mesa caída de volta...\""
+
+1013802-50 = "(Quando me agacho para limpar a mesa...)"
+
 1013802-54 = "[ns] \"...!?\""
-1013802-55 = "(I suddenly felt a draft on my backside!)"
-1013802-56 = "(Don't tell me... did my pants rip in a place like this!?)"
-1013802-57 = "[ns] \"W-what do I do!? If I stay like this, I'll look like a pervert...!\""
-1013802-58 = "(My mind went completely blank...)"
-1013802-59 = "(Think! Find a way out of this crisis!!)"
+
+1013802-55 = "(Minha bunda parece tão lisa!)"
+
+1013802-56 = "(Eu nunca esperei que meu traje fosse rasgado em um lugar como este!?)"
+
+1013802-57 = "[ns] \"O-o que devo fazer!? Se isso continuar, vou me tornar uma pessoa suspeita...!\""
+
+1013802-58 = "(Minha cabeça fica completamente branca...)"
+
+1013802-59 = "(Pense! Como escapar desta crise!!)"
+
 1013802-60 = "...?"
-1013802-61 = "Teacher? What are you doing in a place like this?"
+
+1013802-61 = "professor? O que você está fazendo aqui?"
+
 1013802-64 = "[ns] \"...!!!\""
-1013802-65 = "You said you were coming to the academy, but you never showed up! I was looking for you!"
-1013802-66 = "You didn't even answer your phone..."
-1013802-67 = "...Huh? What's wrong? You look pale. #nAnd your posture... it's kind of weird, too."
-1013802-68 = "..."
-1013802-69 = "Ah! You're hiding something, aren't you?"
-1013802-70 = "What is it? What's behind you? Show me!"
-1013802-71 = "[s] \"N-no, you can't see this...!!\""
-1013802-72 = "What do you mean I can't!?"
-1013802-73 = "If you're trying to pull a prank on me, I won't let you get away with—"
-1013802-77 = "..."
-1013802-78 = "...!?"
-1013802-79 = "What... how did this happen!!"
-1013802-80 = "If it ripped, you should have just said so!!"
-1013802-81 = "[s] \"I-I tried to say it, but...!\""
-1013802-82 = "Oh, geez!"
-1013802-83 = "Just wait here! I'll be right back...!"
-1013802-88 = "(I wrapped the blanket Rena brought around my waist and moved to another spot.)"
-1013802-90 = "Phew... this should be fine."
-1013802-91 = "[s] \"Thank you so much, Rena.\""
-1013802-92 = "Stop moving like that."
-1013802-93 = "Besides, I haven't done anything yet."
-1013802-94 = "It's too early to thank me."
-1013802-95 = "...*sigh*"
-1013802-99 = "Here, take them off."
-1013802-100 = "[s] \"...Huh?\""
-1013802-101 = "Are you going to make me say it twice!?"
-1013802-102 = "Take them off, quickly! #nI'll mend them for you!"
-1013802-103 = "[s] \"Oh, right!!\""
-1013802-106 = "(I hurriedly took off my pants in secret and handed them to Rena.)"
-1013802-107 = "(I watched her mend them while wrapped in the blanket.)"
-1013802-109 = "So... you did this while trying to lift a table?"
-1013802-110 = "And why do you even need to do that? Isn't that the Dormitory Warden's job?"
-1013802-111 = "Honestly, you're way too much of a pushover."
-1013802-112 = "[s] \"Does that mean you like me!?\""
-1013802-113 = "W-whaaat!? What are you talking about!?"
-1013802-117 = "...Ah."
-1013802-118 = "H-hey! You made me mess up, geez!!"
-1013802-119 = "Always giving me more work to do... you're just like the seniors."
-1013802-120 = "[s] \"So, I'm an important person to you too...?\""
-1013802-121 = "...Do you want me to sew your pockets shut?"
-1013802-122 = "If you don't want that, then stay still."
-1013802-123 = "It's dangerous when I'm using a needle and thread... honestly."
-1013802-124 = "I'm going to focus now, so wait quietly!"
-1013802-126 = "(I decided to wait quietly as Rena said.)"
-1013802-127 = "(...A while later)"
-1013802-129 = "There, it's done. Try them on."
-1013802-136 = "Did you put them on?"
-1013802-137 = "[s] \"Yes, I did.\""
-1013802-138 = "Are you sure? Can I trust you?"
-1013802-139 = "[s] \"Of course!\""
-1013802-140 = "O-okay. I'll trust you then."
-1013802-141 = "I'm opening my eyes now, okay?"
-1013802-142 = "..."
-1013802-143 = "How is it? Is it easy to move in?"
-1013802-144 = "[s] \"It feels much better! Look, look!\""
-1013802-150 = "[ns] \"Oh...\""
-1013802-153 = "Ugh, you idiot!!"
-1013802-154 = "If you move around that much, of course it's going to rip again!!"
-1013802-155 = "Take them off!! Do you want me to sew your pockets shut!?"
-1013802-157 = "(...After that, I quietly handed my pants back to Rena and had her mend them.)"
+
+1013802-65 = "Mesmo tendo vindo para a academia, nunca vim! Eu procurei por isso!"
+
+1013802-66 = "nem atendo o telefone...."
+
+1013802-67 = "...Huh? o que aconteceu? Eu pareço pálido, no entanto. #nA postura também é... meio estranha."
+
+1013802-68 = "……."
+
+1013802-69 = "um! Você está escondendo alguma coisa?"
+
+1013802-70 = "o que? O que está atrás de você? Mostre-me!"
+
+1013802-71 = "[s] \"Não, não, isso é...!!\""
+
+1013802-72 = "O que há de errado nisso?"
+
+1013802-73 = "Se você está tentando pregar uma peça, acho que é grátis..."
+
+1013802-77 = "……."
+
+1013802-78 = "...! ?"
+
+1013802-79 = "O que... por que isso aconteceu! !"
+
+1013802-80 = "Se quebrar, é só dizer! !"
+
+1013802-81 = "[s] \"E-eu estava prestes a dizer isso...!\""
+
+1013802-82 = "Ah, já!"
+
+1013802-83 = "Espere um minuto! Já volto...!"
+
+1013802-88 = "(Lena enrolou o cobertor que havia trazido na cintura e foi para outro local)"
+
+1013802-90 = "Ufa... está tudo bem aqui, certo?"
+
+1013802-91 = "[s] \"Muito obrigado, Lena.\""
+
+1013802-92 = "Pare esse movimento estranho."
+
+1013802-93 = "Na verdade, eu não fiz nada."
+
+1013802-94 = "É muito cedo para agradecer."
+
+1013802-95 = "... Haa."
+
+1013802-99 = "Aqui, tire isso."
+
+1013802-100 = "[s] \"...Hmm?\""
+
+1013802-101 = "Vou fazer você dizer isso duas vezes! ?"
+
+1013802-102 = "Tire isso rapidamente! #nEu resolvo para você!"
+
+1013802-103 = "[s] \"Ah, sim!!\""
+
+1013802-106 = "(Ele rapidamente tirou as calças e as entregou para Lena.)"
+
+1013802-107 = "(Ele então se enrola em um cobertor e observa Lena arrumar o cabelo.)"
+
+1013802-109 = "Huh... você quer dizer que isso aconteceu quando você tentou levantar a mesa?"
+
+1013802-110 = "Ou o professor precisa fazer isso? Não é esse o trabalho do supervisor do dormitório?"
+
+1013802-111 = "Há um certo limite para ser legal."
+
+1013802-112 = "[s] \"Isso significa que você gosta de mim?\""
+
+1013802-113 = "Ha, ha! ? O que você está falando? ?"
+
+1013802-117 = "……um."
+
+1013802-118 = "Ei, espere! Você já cometeu um erro! !"
+
+1013802-119 = "É muito difícil aumentar minha carga de trabalho... Não sou diferente dos meus antecessores."
+
+1013802-120 = "[s] \"Isso significa que também sou importante...?\""
+
+1013802-121 = "...Posso costurar todos os bolsos fechados?"
+
+1013802-122 = "Se você não gosta disso, fique quieto."
+
+1013802-123 = "É perigoso usar agulha e linha..."
+
+1013802-124 = "Vou me concentrar agora, então, por favor, espere em silêncio!"
+
+1013802-126 = "(decidi esperar em silêncio como Lena disse)"
+
+1013802-127 = "(...... depois de um tempo)"
+
+1013802-129 = "Sim, eu fiz isso. Experimente."
+
+1013802-136 = "Você usou?"
+
+1013802-137 = "[s] \"Sim, coloquei.""
+
+1013802-138 = "Não é verdade? Está tudo bem em acreditar?"
+
+1013802-139 = "[s] \"Claro!""
+
+1013802-140 = "Ok, ok. Então eu acreditarei."
+
+1013802-141 = "Você vai abrir os olhos?"
+
+1013802-142 = "……."
+
+1013802-143 = "cobre? É fácil se mover?"
+
+1013802-144 = "[s] \"É muito mais fácil! Olha!""
+
+1013802-150 = "[ns] \"Ah...\""
+
+1013802-153 = "Ah, você é um idiota! !"
+
+1013802-154 = "Se se mover tanto, está fadado a quebrar! !"
+
+1013802-155 = "Tire isso! ! Quero meus bolsos cobertos! ?"
+
+1013802-157 = "(...Depois disso, ele humildemente entregou as calças para Lena e pediu para ela consertá-las.)"
+

@@ -1,66 +1,131 @@
 [translation]
-1013703-1 = "Sense of Time"
-1013703-2 = "(I had some business in the Black Market, but couldn't find what I was looking for. Just as I was about to head back...)"
-1013703-3 = "(I heard a noisy commotion coming from the alley.)"
-1013703-11 = "Don't run! Get over here!!"
-1013703-12 = "Like hell I will, idiot!"
-1013703-13 = "You think I'd let a target worth catching get away?#nI'll chase you to the ends of the earth~!"
-1013703-14 = "Eeek!!"
-1013703-21 = "I mean, today is the day I have to be strictly on time!"
-1013703-22 = "So! I need you! To quietly!#nLet yourself be caught, aight!?"
-1013703-23 = "Here! Handcuffs! Two holes! Two hands!#nYou know how to use them, right?"
-1013703-24 = "Huh!? Who in their right mind handcuffs themselves!?"
-1013703-25 = "Are you crazy!? Take this!"
-1013703-31 = "Gah...! Ugh...!"
-1013703-32 = "Haha! Teflon-coated bullets! That hurts, doesn't it?"
-1013703-33 = "There's no way a bag can block them!"
-1013703-34 = "Valkyrie's bulletproof vests are nothing compared to—"
-1013703-41 = "Huh??????"
-1013703-42 = "I emptied a whole magazine and you took zero damage!?"
-1013703-43 = "A-Ahhhh, now my school bag is full of holes!"
-1013703-44 = "I can't even read my textbooks like this anymore!"
-1013703-45 = "How are you gonna take responsibility for this!! Hey!"
-1013703-57 = "No, that's because you used your bag as a shield!!"
-1013703-62 = "It hurts if I get hit!#nIf I have something I can use, obviously I'm gonna use it!"
-1013703-63 = "Why are all your textbooks wrapped up in tape!?"
-1013703-68 = "Because they're important! I told you!"
-1013703-69 = "Then don't hit me with them! Ouch!"
-1013703-71 = "Are you really a cop?#nYou're acting just like a delinquent!"
-1013703-72 = "If you've got complaints, you should join Valkyrie~#nI'll at least help you with the paperwork."
-1013703-73 = "So, getting beaten up now, or getting beaten up after being arrested...#nwhich do you prefer?"
-1013703-74 = "They're exactly the same!!"
-1013703-75 = "I'm letting you CHOOSE, so hurry up and pick it!"
-1013703-77 = "[ns] \"U-Umm... how about we just talk it out first...\""
-1013703-78 = "S-Sensei from SCHALE!?"
-1013703-79 = "Please help meee!!!"
-1013703-80 = "Hey!#nTelling Sensei is just dirty!"
-1013703-81 = "H-Hey there, Sensei!#nWe were just, uh, playing around a bit?"
-1013703-83 = "[ns] \"Friends should... get along, right...?\""
-1013703-84 = "Is this the part where I'm the one getting in trouble!?"
-1013703-85 = "Ah!#nSensei, what time is it right now?"
-1013703-86 = "My phone broke...#nyou're paying for it later!"
-1013703-87 = "Huh? You used your phone to hit me yourself...#nisn't that a bit harsh!?"
-1013703-89 = "[ns] \"It's 5:59 PM, but...\""
+1013703-1 = "senso de tempo"
+
+1013703-2 = "(O momento em que fui ao mercado negro comprar alguma coisa, mas não encontrei o que procurava e estava prestes a voltar para casa...)"
+
+1013703-3 = "(Uma voz barulhenta foi ouvida no beco.)"
+
+1013703-11 = "Não fuja! Venha aqui! !"
+
+1013703-12 = "Idiota quem vai!"
+
+1013703-13 = "Você acha que vai deixar alguém que vale a pena ser capturado escapar? Vou persegui-lo até os confins da terra!"
+
+1013703-14 = "Ei! !"
+
+1013703-21 = "Bom, hoje é o dia que tenho que ser pontual!"
+
+1013703-22 = "é por isso! Fique quieto! Pegue-me! Quero isso! ?"
+
+1013703-23 = "sim! algemas! Dois buracos! Duas mãos! #nVocê sabe como usar, certo?"
+
+1013703-24 = "Ha! ? Quem diabos colocaria algemas em mim? ?"
+
+1013703-25 = "Você está louco? ? #nEi!"
+
+1013703-31 = "Ah...! Eca...!"
+
+1013703-32 = "Haha! É uma bala tratada com Teflon! Não dói?"
+
+1013703-33 = "Não há como uma bolsa evitar isso!"
+
+1013703-34 = "O traje à prova de balas da Valquíria..."
+
+1013703-41 = "Huh? ? ? ? ? ?"
+
+1013703-42 = "O que há sem danos, mesmo que eu tenha esvaziado um carregador? ?"
+
+1013703-43 = "Ah, minha mochila escolar está cheia de buracos!"
+
+1013703-44 = "Não consigo mais ler o livro, posso?"
+
+1013703-45 = "Como você pode assumir a responsabilidade? !コラァーッ！"
+
+1013703-57 = "Não, é porque você usou a bolsa como escudo! !"
+
+1013703-62 = "Dói se bater em você! Se tiver algo que eu possa usar, eu uso!"
+
+1013703-63 = "Por que o livro está embrulhado em fita adesiva? ?"
+
+1013703-68 = "Porque é importante! Datteba!"
+
+1013703-69 = "Então não me bata com um livro! Lá estava!"
+
+1013703-71 = "Você é realmente a polícia? O que você está fazendo não é igual ao Sukeban?"
+
+1013703-72 = "Se você tiver alguma reclamação, eu diria para se juntar à Valquíria ~#nEu ficaria feliz com o procedimento."
+
+1013703-73 = "Então, o que é melhor: sofrer bullying agora ou sofrer bullying depois de ser preso?"
+
+1013703-74 = "Ambos são iguais! !"
+
+1013703-75 = "Estou deixando você escolher, então escolha rápido!"
+
+1013703-77 = "[ns] \"Ah, uh...vamos conversar por enquanto...\""
+
+1013703-78 = "Oh, professor de placa de Petri! ?"
+
+1013703-79 = "Por favor me ajude! ! !"
+
+1013703-80 = "Ei! É contra a lei contar ao professor! ?"
+
+1013703-81 = "Chi-chiwassu, professor! Você está dizendo que estávamos apenas brincando um pouco?"
+
+1013703-83 = "[ns] \"Amigos têm que se dar bem...?\""
+
+1013703-84 = "Este é um desenvolvimento que me deixa com raiva? ?"
+
+1013703-85 = "Ah! Professor, que horas são agora?"
+
+1013703-86 = "Meu smartphone está quebrado...você terá que pagar por ele mais tarde!"
+
+1013703-87 = "Huh? Usei meu smartphone para bater nas pessoas...#nIsso não é um pouco cruel! ?"
+
+1013703-89 = "[ns] \"São 5:59...\""
+
 1013703-90 = "...!"
-1013703-91 = "Huh? 5:59 PM?"
-1013703-92 = "Crap... it's already time to clock out."
-1013703-93 = "Here, I'm handling you the handcuffs, so make sure to put them on properly.#nCome to Valkyrie at 9 AM tomorrow! I won't go easy on you if you run."
-1013703-94 = "It's a promise with me, got it?"
-1013703-95 = "Well then Sensei, excuse me for leaving early!#nToday is a strict punctuality day!"
-1013703-96 = "Thanks for your hard work!"
-1013703-98 = "[ns] \"E-Eh...?\""
-1013703-103 = "...Huh?"
-1013703-104 = "She went home...?"
-1013703-105 = "What is wrong with Valkyrie...?"
-1013703-106 = "[s] \"W-What was that all about...\""
-1013703-108 = "The Next Day, 8:59 AM"
-1013703-109 = "(Continuing from yesterday, I heard noisy voices again.)"
-1013703-114 = "Eeek!! This is a completely different city from yesterday! How did you find me!!"
-1013703-115 = "I told you I wouldn't show mercy if you ran, didn't I?"
-1013703-116 = "I did a stakeout just in case after that...#nwell, looks like it was a bingo."
-1013703-117 = "You said you were going home!!"
-1013703-118 = "Too bad, stakeouts are a hobby of mine.#nIt wasn't for work."
-1013703-119 = "8 seconds until 9 AM!#nBetter prepare yourself!"
-1013703-120 = "Uwaaah! Help me!! I promise I won't run away anymore!!!"
-1013703-127 = "(Konoka arrested the suspect exactly as the clock struck 9 AM.)"
-1013703-128 = "(Checking the time, Konoka noticed me and give me a huge smile.)"
+
+1013703-91 = "dentes? 17:59?"
+
+1013703-92 = "Ah não... já é hora de sair do trabalho..."
+
+1013703-93 = "Aqui, vou lhe entregar as algemas, então, por favor, pendure-as corretamente. Estou chegando em Valquíria às 9h! #nSe você fugir, não terei piedade."
+
+1013703-94 = "É uma promessa comigo, certo?"
+
+1013703-95 = "Bem, sensei, peço desculpas antecipadamente! Hoje é dia de pontualidade!"
+
+1013703-96 = "Obrigado pelo seu trabalho duro!"
+
+1013703-98 = "[ns] \"Eh, sim...?\""
+
+1013703-103 = "……dentes?"
+
+1013703-104 = "Você foi para casa...?"
+
+1013703-105 = "ヴァルキューレ、一体どうなってんだ……？"
+
+1013703-106 = "[s] \"E-eu me pergunto o que está acontecendo...\""
+
+1013703-108 = "Dia seguinte・8h59"
+
+1013703-109 = "(Continuando com ontem, ouvi vozes barulhentas.)"
+
+1013703-114 = "Ei! ! Esta é uma cidade completamente diferente de ontem! Como você conheceu o lugar? !"
+
+1013703-115 = "Eu te disse que não teria misericórdia se você fugisse, certo?"
+
+1013703-116 = "Depois disso, fiquei vigiado por um tempo, mas... bem, acho que foi bingo."
+
+1013703-117 = "Você disse que estava indo para casa! !"
+
+1013703-118 = "Afinal, vigiar é um hobby. #nNão dá trabalho."
+
+1013703-119 = "Faltam 8 segundos para as 9 horas! Estou esperando você lavar o pescoço!"
+
+1013703-120 = "Uau! Me ajude! ! Não vou mais fugir! ! !"
+
+1013703-127 = "(Konoka prendeu o suspeito às 9 horas)"
+
+1013703-128 = "(Konoka verificou a hora e me deu um grande sorriso quando me notou.)"
+

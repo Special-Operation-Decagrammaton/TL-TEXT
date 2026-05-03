@@ -1,93 +1,185 @@
 [translation]
-10052115-0003 = "It worked out somehow. We've secured area #n and recovered the core data."
-10052115-0009 = "...Why did Sof contact us?"
-10052115-0010 = "I'm guessing... the prophet Tiferet was important to Sof."
-10052115-0011 = "Sof said Tiferet prioritized the species over herself."
-10052115-0012 = "I feel like her behavior patterns were different from other prophets."
-10052115-0013 = "..."
-10052115-0014 = "[s] \"Aris? What's wrong?\""
-10052115-0015 = "Teacher... do you still remember?"
-10052115-0016 = "When we broke through the first defense line, Aris..."
-10052115-0017 = "[s] \"When the time comes to talk, we'll talk again, right?\""
-10052115-0018 = "Yes... #n Aris feels the same way she did then..."
-10052115-0019 = "..."
-10052115-0020 = "How should Aris answer Sof, who says that living is nothing but pain?"
-10052115-0021 = "For someone, the world is just tragedy, and birth is nothing but a curse..."
-10052115-0022 = "If there was someone who said it would have been better not to be born..."
-10052115-0023 = "What words can Aris offer to that person...?"
-10052115-0024 = "Aris... doesn't really understand. #n It feels like my chest is tight and it's hard to breathe..."
-10052115-0025 = "[s] \"Actually, Sof's words aren't entirely wrong.\""
-10052115-0026 = "What!?!?"
-10052115-0027 = "[s1] \"Tomorrow will probably be a day of loss.\"\n[s2] \"Good things don't happen often.\""
-10052115-0030 = "[ns] \"Those three were talking about it, weren't they?\""
-10052115-0031 = "Is it okay to admit that...?"
-10052115-0032 = "Huh? If you don't admit it, you can't move forward...?"
-10052115-0033 = "That's just like you, Teacher..."
-10052115-0038 = "Then where should Aris find the meaning of life...?"
-10052115-0039 = "Aris has never thought like this before. #n That's why... I'm scared. For some reason... I'm just scared."
-10052115-0040 = "[s] \"Aris already knows the answer to that.\""
-10052115-0041 = "...Huh?"
-10052115-0042 = "...A little while ago, Aris said this."
-10052115-0043 = "I don't think the time I've lived is meaningless."
-10052115-0044 = "I just... want to be with everyone."
-10052115-0045 = "But... is that okay? #n Is that really all...?"
-10052115-0046 = "[s3] \"Actually, I think that's fine.\"\n[s4] \"Life doesn't inherently have a grand meaning or purpose.\""
-10052115-0049 = "What!?!?"
-10052115-0050 = "Whaaat!?!?"
-10052115-0051 = "Life has no meaning or purpose...?"
-10052115-0052 = "...Ah."
-10052115-0053 = "Is it the opposite...? #n If life had meaning or purpose, then a life where you couldn't find it would become #n worthless...?"
-10052115-0054 = "...!"
-10052115-0055 = "[s5] \"So... I think it's okay to be as you are.\"\n[s6] \"I'm just so happy that I met everyone.\""
-10052115-0058 = "Ah, Aris too! If it weren't for you, Teacher, Aris would...!"
-10052115-0059 = "..."
-10052115-0060 = "Me too?"
-10052115-0061 = "[s] \"Of course.\""
-10052115-0062 = "Well, if that's the case... then it's fine."
-10052115-0063 = "[s7] \"Just do what you want.\"\n[s8] \"Life is full of absurdities.\""
-10052115-0068 = "[ns] \"Either way, there are only two choices in life.\""
-10052115-0069 = "Accept the absurdity..."
-10052115-0070 = "...Or fight until the end, right?"
-10052115-0071 = "But if you accept it, then beyond that..."
-10052115-0072 = "..."
-10052115-0073 = "I see. That's why there's only one path forward."
-10052115-0074 = "[s9] \"Yeah. We should fight --\"\n[s10] \"and be happy together in the end.\""
-10052115-0077 = "So... struggle is happiness?"
-10052115-0078 = "[s11] \"That's right.\"\n[s12] \"Even if it's with anger, even if it's by raising your voice against injustice.\""
-10052115-0081 = "[ns] \"Just like Kei was saying.\""
-10052115-0082 = "Why are you suddenly talking about me!?"
-10052115-0089 = "Ah, don't pat my head! #n Even if you do that...!"
-10052115-0090 = "...Just this once, okay?"
-10052115-0091 = "..."
-10052115-0092 = "You're saying that the reason we should be happy is because it's the greatest struggle against life itself, aren't you?"
-10052115-0093 = "[s13] \"Yeah. That's why I want you all to be happy.\"\n[s14] \"If you are, then I'll be happy too, as a bonus.\""
-10052115-0098 = "As a bonus...?"
-10052115-0099 = "Aris... wants you to be happy too, Teacher! #n The way you say it sounds a little sad..."
-10052115-0100 = "Huh? Isn't this not that kind of thing?"
-10052115-0101 = "When people see someone happy, they feel happy too --"
-10052115-0102 = "And when they see someone suffering, they empathize with that pain...?"
-10052115-0103 = "When someone is crying, just having someone next to them to cry with --"
-10052115-0104 = "That person gains the strength to overcome their sadness...?"
-10052115-0105 = "But you can't say that's always the case, can you? #n It might just be a misunderstanding or an illusion."
-10052115-0106 = "No, that would be a better way to put it. #n In a sense, isn't that... hypocrisy?"
-10052115-0107 = "Those three were saying it too... #n Life, bonds, society -- all are just castles in the sand built on illusions."
-10052115-0108 = "[s15] \"I don't think that's necessarily bad.\"\n[s16] \"Even if it's hypocrisy.\""
-10052115-0111 = "What!?!?"
-10052115-0112 = "..."
-10052115-0113 = "[s17] \"Being born good from the start, or overcoming your true nature through effort.\"\n[s18] \"Which one is cooler? That's the question, isn't it?\""
-10052115-0116 = "I don't think it's a matter of that..."
-10052115-0117 = "Huh? Is that important...? #n What do you mean?"
-10052115-0118 = "In a life that only happens once, there's no other way but to live it coolly...?"
-10052115-0119 = "That's just like you, Teacher..."
-10052115-0120 = "I still don't quite understand, but..."
-10052115-0121 = "Still, Aris, I think I understand! #n Aris... is fine as she is!"
-10052115-0122 = "[s] \"Yeah! That's right!\""
-10052115-0123 = "Thank you, Teacher! #n Thanks to you, Aris feels like she's found something she wants to do!"
-10052115-0124 = "And what is that?"
-10052115-0128 = "Yes! Aris wants to be friends with everyone!"
-10052115-0132 = "Ein, Sof, Ohr, Malkuth, and the other prophets too!"
-10052115-0133 = "Talking alone might not solve all problems..."
-10052115-0134 = "But at least, I think we can try."
-10052115-0135 = "Even if it's hypocrisy, it's much better than not doing anything!"
-10052115-0136 = "[s] \"Yeah. I hope it turns out that way.\""
-10052115-0137 = "Yes!"
+10052115-3 = "Acabou muito bem. #nO controle da área e a coleta dos dados principais foram concluídos."
+
+10052115-9 = "...Por que Soph me contatou?"
+
+10052115-10 = "Só um palpite... Acho que um profeta chamado Tiphareth foi importante para Soph."
+
+10052115-11 = "Soph disse que Tiphareth priorizou sua espécie em detrimento de si mesmo."
+
+10052115-12 = "Sinto que meu padrão de comportamento é diferente do de outros profetas."
+
+10052115-13 = "……."
+
+10052115-14 = "[s] \"Alice? O que há de errado?\""
+
+10052115-15 = "Professor... você ainda se lembra?"
+
+10052115-16 = "Quando Alice rompeu a primeira linha de defesa..."
+
+10052115-17 = "[s] \"Quando chegar a hora, conversaremos novamente.""
+
+10052115-18 = "sim……. #nAlice sente o mesmo agora que sentia naquela época..."
+
+10052115-19 = "……."
+
+10052115-20 = "Como Alice deveria responder a Soph, que diz que a vida nada mais é do que dor?"
+
+10052115-21 = "Para alguns, o mundo é apenas uma tragédia, e o nascimento nada mais é do que uma maldição..."
+
+10052115-22 = "Se alguém dissesse que teria sido melhor se ele nunca tivesse nascido..."
+
+10052115-23 = "Que tipo de palavras Alice pode dizer para aquela pessoa...?"
+
+10052115-24 = "Alice... bem, eu não entendo. #nSinto que tenho um aperto no peito e é difícil respirar..."
+
+10052115-25 = "[s] \"Na verdade, a história de Soph não está completamente errada.\""
+
+10052115-26 = "sim! ? ! ?"
+
+10052115-27 = "[s1] \"Amanhã é provavelmente o dia em que perderei alguma coisa.\"\n[s2] \"Coisas boas não acontecem com muita frequência.\""
+
+10052115-30 = "[ns] \"Aquelas três pessoas estavam conversando.""
+
+10052115-31 = "Está tudo bem em admitir isso...?"
+
+10052115-32 = "sim? Se você não reconhece isso, você não pode seguir em frente...?"
+
+10052115-33 = "Parece um professor..."
+
+10052115-38 = "Nesse caso, onde Alice deveria encontrar o sentido da vida?"
+
+10052115-39 = "Alice nunca tinha pensado assim antes. #nPorque... é assustador. Por alguma razão... só estou com medo."
+
+10052115-40 = "[s] \"Alice deveria saber a resposta.\""
+
+10052115-41 = "……foto?"
+
+10052115-42 = "...Alice disse isso antes."
+
+10052115-43 = "Não creio que o tempo que vivi seja sem sentido."
+
+10052115-44 = "Eu só... eu só quero estar com todos."
+
+10052115-45 = "Mas... está tudo bem? #nRealmente, isso é tudo..."
+
+10052115-46 = "[s3] \"Na verdade, acho que está tudo bem.\"\n[s4] \"A vida originalmente não tinha um grande significado ou propósito.\""
+
+10052115-49 = "sim! ?"
+
+10052115-50 = "Eh! ?"
+
+10052115-51 = "A vida não tem sentido ou propósito...?"
+
+10052115-52 = "……um."
+
+10052115-53 = "Talvez seja o contrário...? #nSe a vida tivesse sentido e propósito, a vida sem encontrá-lo não teria valor...?"
+
+10052115-54 = "...!"
+
+10052115-55 = "[s5] \"Então...acho que não há problema em ser como você é.\"\n[s6] \"Estou mais do que feliz por ter conhecido todos vocês.""
+
+10052115-58 = "Ah, Alice também está comigo! Sem a professora, Alice iria...!"
+
+10052115-59 = "……."
+
+10052115-60 = "Eu também?"
+
+10052115-61 = "[s] \"Claro.""
+
+10052115-62 = "Bem, nesse caso... está tudo bem."
+
+10052115-63 = "[s7] \"やりたいようにやったらいいんだよ。\"\n[s8] \"人生は不条理な事ばかりだからね。\""
+
+10052115-68 = "[ns] \"どのみち、人生の選択肢は2つだけだから。\""
+
+10052115-69 = "Você aceita o absurdo?"
+
+10052115-70 = "...Acho que vou lutar até o fim."
+
+10052115-71 = "Porém, uma vez que você aceita isso, o futuro já está..."
+
+10052115-72 = "……."
+
+10052115-73 = "Eu vejo. Portanto, só há um caminho a percorrer."
+
+10052115-74 = "[s9] \"Sim. Nós brigamos e-\"\n[s10] \"Devemos todos ficar felizes no final.""
+
+10052115-77 = "...Você quer dizer que luta é felicidade?"
+
+10052115-78 = "[s11] \"Isso mesmo.\"\n[s12] \"Mesmo se você estiver com raiva, mesmo se levantar a voz para algo irracional.\""
+
+10052115-81 = "[ns] \"Exatamente como Kei estava falando.\""
+
+10052115-82 = "Por que você está falando de mim de repente? ?"
+
+10052115-89 = "Oh, por favor, não me dê tapinhas na cabeça! #nFoi isso que aconteceu...!"
+
+10052115-90 = "...Bem, é só desta vez."
+
+10052115-91 = "……."
+
+10052115-92 = "Você está tentando dizer que a razão pela qual deveríamos ser felizes é porque essa é a maior luta contra a vida."
+
+10052115-93 = "[s13] \"Sim. É por isso que quero que vocês sejam felizes.\"\n[s14] \"Então eu também posso ser feliz.\""
+
+10052115-98 = "Por falar nisso...?"
+
+10052115-99 = "Alice... quero que a professora também fique feliz! #nO jeito que a professora fala parece meio triste..."
+
+10052115-100 = "sim? Não é disso que se trata?"
+
+10052115-101 = "Quando as pessoas veem alguém feliz, elas mesmas se sentem felizes..."
+
+10052115-102 = "Porque quando você vê alguém com dor, você também pode sentir empatia por essa dor...?"
+
+10052115-103 = "Quando alguém está chorando, basta ter alguém ao lado para chorar com ele..."
+
+10052115-104 = "Porque essa pessoa ganha o poder de superar a tristeza...?"
+
+10052115-105 = "No entanto, não se pode necessariamente dizer que isto seja o caso. #nPode ser apenas um mal-entendido ou uma ilusão."
+
+10052115-106 = "Não, essa ainda é uma expressão melhor. #nDe certa forma, isso não é...hipocrisia?"
+
+10052115-107 = "Essas três pessoas também disseram que... #nA vida, os laços e a sociedade nada mais são do que um palácio na areia, construído sobre uma ilusão."
+
+10052115-108 = "[s15] \"Acho que não importa.\"\n[s16] \"Mesmo que seja hipocrisia.\""
+
+10052115-111 = "sim! ? ! ?"
+
+10052115-112 = "...!"
+
+10052115-113 = "[s17] \"Nascer bom desde o início, ou superar sua verdadeira natureza através do esforço.\"\n[s18] \"O que é mais legal, certo?\""
+
+10052115-116 = "não creio que seja esse o problema..."
+
+10052115-117 = "sim? Isso é importante...? #nO que você quer dizer?"
+
+10052115-118 = "Você só vive uma vez, e não há outra maneira senão viver com calma...?"
+
+10052115-119 = "Parece um professor..."
+
+10052115-120 = "Eu realmente não entendo isso ainda..."
+
+10052115-121 = "Mesmo assim, Alice, acho que entendi! #n Alice... está tudo bem como está agora!"
+
+10052115-122 = "[s] \"Sim! Isso mesmo!""
+
+10052115-123 = "Obrigado, senhor! #nGraças à professora, Alice sente que encontrou o que quer fazer!"
+
+10052115-124 = "O que é?"
+
+10052115-128 = "sim! Alice quer ser amiga de todos!"
+
+10052115-132 = "Ain, Soph, Owl, Malchut e outros profetas também!"
+
+10052115-133 = "Nem todos os problemas podem ser resolvidos apenas conversando..."
+
+10052115-134 = "Acho que você pode pelo menos tentar."
+
+10052115-135 = "Mesmo que seja hipocrisia, ainda é melhor do que não fazer nada!"
+
+10052115-136 = "[s] \"Sim. Espero que sim.""
+
+10052115-137 = "sim!"
+

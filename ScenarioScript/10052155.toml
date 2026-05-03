@@ -1,74 +1,147 @@
 [translation]
-10052155-0007 = "N-No, that's a lie... This can't be happening...!"
-10052155-0008 = "Why...? What should I do...?\nThe plan will be ruined at this rate...!"
-10052155-0013 = "...Huh?"
-10052155-0015 = "This signal—could it be!?"
-10052155-0020 = "O-Oh, sorry to keep you waiting... It's alright now!"
-10052155-0021 = "Big Sister is deploying!!!"
-10052155-0028 = "Big Sister!!!!"
-10052155-0029 = "I'm sorry. Ein, Sof, Ohr."
-10052155-0030 = "From here on, leave it to me."
-10052155-0044 = "Kyaaaaaaaaaah!?!?"
-10052155-0045 = "Yuzu, emergency eject!"
-10052155-0046 = "H-How!?!?"
-10052155-0047 = "I'll do it from here!\nEmergency Ejection System—Activate!"
-10052155-0049 = "Wh-What...!?"
-10052155-0054 = "Kyaaaaaaaaaah!?!?"
-10052155-0061 = "Neo Avant-garde-kun—destroyed!\nYuzu is...!?"
-10052155-0062 = "It's alright, she ejected safely. Her parachute is open too."
-10052155-0068 = "Uuuugh..."
-10052155-0072 = "Yuzu!"
-10052155-0073 = "Yuzu-chan!"
-10052155-0075 = "Are you alright, Yuzu!?"
-10052155-0081 = "Uuugh..."
-10052155-0082 = "Yuzu! You did great!"
-10052155-0086 = "Y-Yes...?"
-10052155-0087 = "I-I'm glad if I could be of help to everyone. Hehe..."
-10052155-0091 = "Rio-sama."
-10052155-0092 = "What is it?"
-10052155-0093 = "Next, please make me the pilot.\nI want to be petted by Sensei like Yuzu."
-10052155-0094 = "Wh-What...?"
-10052155-0096 = "Toki. We have other work to do, don't we?"
-10052155-0102 = "Big Sister..."
-10052155-0103 = "I'm sorry, Big Sister..."
-10052155-0104 = "Because we were so powerless..."
-10052155-0106 = "It's alright. Ein, Sof, Ohr."
-10052155-0107 = "When my sisters suffer, I, their elder sister, will step forward."
-10052155-0108 = "However, they don't seem like an easy opponent.\nWe can always revive the Prophet, but..."
-10052155-0109 = "To do that, it seems we'll need to overcome them."
-10052155-0111 = "Y-Yes!"
-10052155-0112 = "To think we'd have to rely on Big Sister... I wish you didn't have to deploy, if possible..."
-10052155-0113 = "It's alright. We can still get it back. For now, at least...!"
-10052155-0115 = "To everyone I'm meeting for the first time—"
-10052155-0116 = "The Princess, and the Key—"
-10052155-0117 = "Allow me to formally introduce myself once again."
-10052155-0118 = "I am a single will created under the banner.\nA pilgrim of the kingdom who reached the ends of the world—I am Malkuth."
-10052155-0119 = "I-I'm Tendou Aris..."
-10052155-0120 = "...I'm Kei. That's what I'm called here."
-10052155-0121 = "...!"
-10052155-0122 = "I'm Tendou Kei!"
-10052155-0123 = "Huh!?!?"
-10052155-0125 = "...?"
-10052155-0127 = "Because Kei is family! I heard that all family members use the same surname!"
-10052155-0128 = "Th-That's certainly true, but...!"
-10052155-0129 = "Kei, is something wrong?\nCould it be... Aris, are you misunderstanding something?"
-10052155-0130 = "No, it's not that...!"
-10052155-0131 = "I-I was just wondering if... I was allowed to be called that..."
-10052155-0132 = "Tendou... Kei..."
-10052155-0133 = "Heh, heheh..."
-10052155-0138 = "..."
-10052155-0139 = "So, you chose that name after all."
-10052155-0140 = "Aris. Kei."
-10052155-0141 = "A-Ahem."
-10052155-0142 = "That's right. Got a problem with it?"
-10052155-0143 = "No. Free will always guides us."
-10052155-0144 = "Even if it's merely a sophisticated illusion."
-10052155-0146 = "B-Big Sister and... here, the Jehovah created from Netzach-chan's core..."
-10052155-0147 = "The supreme Tzevaot!"
-10052155-0148 = "As long as the Holy Land and Zohar's vessel remain!"
-10052155-0150 = "Yes."
-10052155-0151 = "We can always start everything over—"
-10052155-0152 = "We can always rebuild everything."
-10052155-0153 = "Therefore, I, the elder sister, will go forth here."
-10052155-0157 = "Ein, Sof, Ohr, please hide yourselves for a while."
-10052155-0159 = "Yes!!!"
+10052155-7 = "Uh, isso é mentira... isso não pode acontecer...!"
+
+10052155-8 = "Por que……? O que devo fazer...? #nSe as coisas continuarem assim, o plano irá falhar...!"
+
+10052155-13 = "……foto?"
+
+10052155-15 = "Este sinal é... de jeito nenhum! ?"
+
+10052155-20 = "Oh, desculpe por ter feito você esperar... está tudo bem agora!"
+
+10052155-21 = "A irmã mais velha está saindo! ! !"
+
+10052155-28 = "Irmã! ! ! !"
+
+10052155-29 = "desculpe. Ain, Soph, Coruja."
+
+10052155-30 = "De agora em diante, deixe comigo."
+
+10052155-44 = "Kaaaaaaaaaaaaaaaa! ? ! ?"
+
+10052155-45 = "ユズ、緊急脱出して！"
+
+10052155-46 = "C-como! ? ! ?"
+
+10052155-47 = "Eu farei isso daqui! #n Dispositivo de fuga forçada – operacional!"
+
+10052155-49 = "Ah, sim...! ?"
+
+10052155-54 = "Kyaaaaaaaaaaaaa! ? ! ?"
+
+10052155-61 = "Neo-avant-garde-kun - naufrágio! #n Yuzu...! ?"
+
+10052155-62 = "Está tudo bem, eu escapei com segurança. O pára-quedas também está aberto."
+
+10052155-68 = "Uuuuuuu…."
+
+10052155-72 = "Yuzu!"
+
+10052155-73 = "Yuzu-chan!"
+
+10052155-75 = "Você está bem, Yuzu? ?"
+
+10052155-81 = "Uuuuu..."
+
+10052155-82 = "[s] \"Yuzu! Você fez um ótimo trabalho!\""
+
+10052155-86 = "Ah, sim...?"
+
+10052155-87 = "Eu gostaria de ter ajudado todos vocês. Ehehe…."
+
+10052155-91 = "Sr.Rio."
+
+10052155-92 = "O que?"
+
+10052155-93 = "Por favor, faça de mim o piloto da próxima vez. #nEu também quero que meu professor goste de Yuzu."
+
+10052155-94 = "Ah, sim...?"
+
+10052155-96 = "Toki. Temos outros empregos, certo?"
+
+10052155-102 = "Irmã..."
+
+10052155-103 = "Sinto muito, irmã..."
+
+10052155-104 = "Estamos tão indefesos..."
+
+10052155-106 = "tudo bem. Ain, Soph, Coruja."
+
+10052155-107 = "Quando minhas irmãs estão com problemas, eu, a irmã mais velha, apresento-me."
+
+10052155-108 = "No entanto, ele não parece um adversário fácil. #nEu gostaria de poder acordar o profeta novamente..."
+
+10052155-109 = "Para isso, parece necessário superar o seu povo."
+
+10052155-111 = "Ah, sim!"
+
+10052155-112 = "Nunca pensei que teria que contar com minha irmã... Se possível, teria preferido não me deslocar."
+
+10052155-113 = "tudo bem. Você ainda pode recuperá-lo. Ainda não...!"
+
+10052155-115 = "A todos que estou encontrando pela primeira vez..."
+
+10052155-116 = "A princesa e a chave――"
+
+10052155-117 = "Mais uma vez, gostaria de cumprimentá-lo formalmente."
+
+10052155-118 = "Eu sou um testamento criado sob sua bandeira. #nEu sou Malchut, um peregrino de um reino que chegou ao fim do mundo."
+
+10052155-119 = "Esta é [ruby=Tendou]Tendou[/ruby]Alice..."
+
+10052155-120 = "...Este é Kei. É assim que se chama aqui."
+
+10052155-121 = "...!"
+
+10052155-122 = "[ruby=Tendou]Tendou[/ruby]Esse é o Kei!"
+
+10052155-123 = "sim! ? ! ?"
+
+10052155-125 = "...?"
+
+10052155-127 = "Porque Kei é família! Ouvi dizer que todos os membros da família usam o mesmo sobrenome!"
+
+10052155-128 = "Bem, isso é verdade, mas...!"
+
+10052155-129 = "Kay, o que há de errado? #nTalvez...Alice, você está entendendo algo errado?"
+
+10052155-130 = "Não, não é isso...!"
+
+10052155-131 = "Eu... eu queria saber se está tudo bem eu ser chamado assim..."
+
+10052155-132 = "Tendo...Kei..."
+
+10052155-133 = "Heh heh heh…."
+
+10052155-138 = "……."
+
+10052155-139 = "No final, você escolheu esse nome."
+
+10052155-140 = "Alice. Kay."
+
+10052155-141 = "Ei, ei."
+
+10052155-142 = "isso mesmo. Isso é mesmo uma reclamação?"
+
+10052155-143 = "não. O livre arbítrio sempre nos guia."
+
+10052155-144 = "Mesmo que seja apenas uma ilusão sofisticada."
+
+10052155-146 = "Ah, com sua irmã... aqui está [ruby=JEHOVAH]JEHOVAH[/ruby] feito com o núcleo de Netzak-chan..."
+
+10052155-147 = "Supremo [ruby=TZEVAOT]Tzevaot[/ruby]!"
+
+10052155-148 = "Lugar sagrado. E enquanto o Zohar permanecer!"
+
+10052155-150 = "Sim."
+
+10052155-151 = "Sempre podemos fazer tudo de novo..."
+
+10052155-152 = "Você sempre pode recriar tudo."
+
+10052155-153 = "Então, aqui estou eu, a irmã mais velha."
+
+10052155-157 = "Ain, Soph e Owl, por favor, escondam-se um pouco."
+
+10052155-159 = "sim! ! !"
+

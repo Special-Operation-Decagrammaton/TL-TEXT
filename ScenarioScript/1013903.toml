@@ -1,95 +1,189 @@
 [translation]
-1013903-1 = "Niko's Shopping"
-1013903-2 = "(That evening, I headed to the designated meeting place to help with the#noperation.)"
-1013903-3 = "(Since I was told it was an SRT special operation, I braced myself for a dangerous#nlocation, but...)"
-1013903-8 = "(...The designated spot was just a regular large supermarket.)"
-1013903-9 = "[ns1] \"Umm, Niko...\"\n[ns2] \"...Where exactly are we?\""
-1013903-13 = "Yes. This is where FOX Platoon conducts its special supply operations—[ruby=Market]Point Mike[/ruby]."
-1013903-14 = "It may look like nothing more than an ordinary, everyday scene..."
-1013903-15 = "But you mustn't let your guard down. It is no exaggeration to say that this place is already—a battlefield."
-1013903-16 = "[s3] \"A battlefield...?\"\n[s4] \"Don't tell me... was there a terrorist threat?\""
-1013903-19 = "No. It has nothing to do with terrorism, but..."
-1013903-20 = "It will be faster for you to see it for yourself than for me to explain it with words."
-1013903-21 = "Right this way then, Sensei."
-1013903-27 = "(The inside of the large supermarket I entered following Niko was much noisier#nthan the regular supermarkets I remembered.)"
-1013903-28 = "(A little while later...)"
-1013903-31 = "It is now 6:00 PM, so starting right now—"
-1013903-32 = "We are beginning our pre-closing time sale!"
-1013903-33 = "RAAAAAAAAAAAAA!"
-1013903-38 = "[ns] \"Whoa, what an intense cheer...\""
-1013903-39 = "This is no time to be surprised, Sensei."
-1013903-40 = "We need to move to Sector Delta 3—the \"Vegetable Section\" immediately.#nFirst, we secure the carrots!"
-1013903-41 = "[s] \"G-Got it!\""
-1013903-44 = "They said vegetables are on sale for 99 yen starting now!"
-1013903-45 = "Ugh, there are way too many people here, I can't take my time choosing at all..."
-1013903-46 = "I wonder which ones are big and taste good?"
-1013903-47 = "Ah, I just need to put anything in my basket—"
-1013903-53 = "What was that... just now!? Those movements...!"
-1013903-54 = "That girl... she weaved through the crowd flawlessly and snatched up#na huge carrot!?"
-1013903-55 = "It's hard to tell the shape of carrots with dirt on them unless you look closely...#nhow does she have such reflexes...!?"
-1013903-60 = "Carrots with dirt on them are known to be fresher...#nbut that makes it harder to judge their quality by colors"
-1013903-61 = "At times like that, you check the stem—do that, and you can tell how fresh it is#nat a glance."
-1013903-62 = "[s5] \"A-Amazing...\"\n[s6] \"And here I was struggling just to push my way through that crowd...\""
-1013903-65 = "Hehe. Compared to our usual operations, it is not that difficult."
-1013903-66 = "Now then, moving on to Delta 5—the \"Potato Section\"."
-1013903-67 = "Sensei... I ask that you guard the shopping basket!"
-1013903-68 = "[ns] \"Leave it to me!\""
-1013903-72 = "The big potato I had my eye on vanished in an instant...?"
-1013903-73 = "That girl... she's no ordinary shopper!"
-1013903-74 = "Hurry! If we just stand around, she's going to take everything!!"
-1013903-77 = "Phew... with this, we have all the vegetables we need for cooking."
-1013903-78 = "Next is Sector Charlie 1—the \"Meat Section\", but..."
-1013903-79 = "[s] \"Should I just keep holding the shopping basket for this next one too?\""
-1013903-80 = "No, the meat section alternates sales on pork and beef in 10-minute intervals#nstarting from 18:10, so if we grab one and then head to the other shelf, we won't make it in time."
-1013903-81 = "I will capture [ruby=Beef]Bravo[/ruby] point—so Sensei, I need you to handle [ruby=Pork]Papa[/ruby] point!#nLet's proceed simultaneously."
-1013903-82 = "Your objective is... a 200g pack of sliced pork belly..."
-1013903-83 = "Make sure you wait until the clerk finishes putting the half-price sticker on it!"
-1013903-84 = "[s] \"U-Understood...!\""
-1013903-86 = "(However, tackling the bargain section alone without Niko's support was far more brutal than I expected.)"
-1013903-91 = "Out of the way, out of the way! That shoulder loin was what I've been aiming for!"
-1013903-92 = "Pork ribs are 30% off? I'm buying!"
-1013903-97 = "Sorry, but I'm coming through here first."
-1013903-101 = "Then, me too…"
+1013903-1 = "Compras do Nico"
+
+1013903-2 = "（その日の夕方。作戦を手伝うために、約束の場所へ向かった）\r\n"
+
+1013903-3 = "(Ouvi dizer que era uma operação especial do SRT, então estava preparado para que fosse um lugar perigoso...)\r\n"
+
+1013903-8 = "(...o local designado era apenas um grande supermercado)"
+
+1013903-9 = "[ns1] \"Hum, Nico...\"\n[ns2] \"...Que lugar é esse?\""
+
+1013903-13 = "sim. Este é o local onde serão realizadas as operações especiais de abastecimento do Pelotão FOX - [ruby=Market]Mike Point[/ruby]."
+
+1013903-14 = "Parece um dia normal, mas..."
+
+1013903-15 = "Não baixe a guarda. Não é exagero dizer que este lugar já é um campo de batalha."
+
+1013903-16 = "[s3] \"Um campo de batalha...\"\r\n[s4] \"De jeito nenhum... é um alerta terrorista?\""
+
+1013903-19 = "não. Não tem nada a ver com terrorismo, mas..."
+
+1013903-20 = "É mais rápido ver pessoalmente do que explicar em palavras. \r\n"
+
+1013903-21 = "Agora, senhor, por favor, venha aqui."
+
+1013903-27 = "(O interior do grande supermercado em que segui Nico era muito mais barulhento do que me lembro.)"
+
+1013903-28 = "(depois de um tempo......)"
+
+1013903-31 = "São 18h, então de agora em diante..."
+
+1013903-32 = "Iniciaremos uma promoção por tempo antes de fechar!"
+
+1013903-33 = "うわぁぁああぁぁあ！ \r\n\r\n"
+
+1013903-38 = "[ns] \"Uau, que grande alegria...\""
+
+1013903-39 = "Professor, não é hora de ficar surpreso. \r\n"
+
+1013903-40 = "Agora vá para a Seção Delta 3 - "Cantinho dos Vegetais". #nPrimeiro, precisamos garantir as cenouras! \r\n\r\n"
+
+1013903-41 = "[s] \"Ah, entendi!""
+
+1013903-44 = "Os vegetais já estão à venda por 99 ienes!"
+
+1013903-45 = "Ugh, são tantas pessoas que não consigo perder tempo... \r\n\r\n\r\n\r\n\r\n"
+
+1013903-46 = "Qual é maior e tem melhor sabor?"
+
+1013903-47 = "Ah, tanto faz, tenho que colocar no carrinho ――\r\n\r\n\r\n\r\n\r\n"
+
+1013903-53 = "Agora... o que! ? Esse movimento...!"
+
+1013903-54 = "Aquela garota... ela passou habilmente pela multidão e levou uma grande cenoura com ela! ?"
+
+1013903-55 = "Você não pode dizer o formato de uma cenoura suja a menos que olhe de perto... mas por que ela tem um poder tão instantâneo...! ?"
+
+1013903-60 = "É bem sabido que as cenouras com terra são mais frescas, mas isso torna difícil julgar pela cor."
+
+1013903-61 = "Nesses casos, verifico os caules - assim posso saber imediatamente se estão frescos. \n"
+
+1013903-62 = "[s5] \"Uau, isso é incrível...\"\n[s6] \"Foi tudo o que pude fazer apenas para passar por aquela multidão...\""
+
+1013903-65 = "Hehe. Não é tão difícil em comparação com as operações normais. \r\n"
+
+1013903-66 = "O próximo é Delta 5 – “Potato Corner”."
+
+1013903-67 = "Professor... por favor acompanhe o carrinho de compras!"
+
+1013903-68 = "[ns] \"Deixe comigo!""
+
+1013903-72 = "A batata grande que eu estava olhando desapareceu em um instante...?"
+
+1013903-73 = "Aquele garoto... ele não é uma pessoa comum!"
+
+1013903-74 = "Pressa! Se você ficar distraído, tudo será tirado! !"
+
+1013903-77 = "Ufa... agora você tem todos os vegetais necessários para cozinhar. \r\n\r\n"
+
+1013903-78 = "A seguir vem a seção Charlie 1 - o "canto da carne"..."
+
+1013903-79 = "[s] \"Devo levar um carrinho de compras na próxima vez?\""
+
+1013903-80 = "Não, a seção de carnes vende carne suína e bovina em incrementos de 10 minutos a partir das 18h10, então se você pegar uma e depois for para a outra prateleira, não conseguirá chegar a tempo. \r\n"
+
+1013903-81 = "Vou capturar o ponto [ruby=Beef]Bravo[/ruby], então professor, por favor responda ao ponto [ruby=Pork]Papapo[/ruby]! Prossigamos simultaneamente."
+
+1013903-82 = "O objetivo é... 200g de barriga de porco cortada embalada num pacote..."
+
+1013903-83 = "Aguarde até que o atendente da loja termine de colar o adesivo de metade do preço! \r\n"
+
+1013903-84 = "[s] \"E-eu entendo...!\""
+
+1013903-86 = "(No entanto, o canto de venda especial, que experimentei sozinho, sem o apoio de Nico, foi mais intenso do que eu esperava.)"
+
+1013903-91 = "Lá estava! Já faz algum tempo que estou querendo aquele ombro assado! \r\n\r\n\r\n"
+
+1013903-92 = "30% de desconto em costelas de porco? Compre!"
+
+1013903-97 = "Sinto muito, mas vou deixar você passar primeiro. \r\n\r\n\r\n\r\n"
+
+1013903-101 = "Bem, eu vou primeiro também..."
+
 1013903-106 = "[ns] \"Ugh...\""
-1013903-107 = "(I was pushed around by the crowd, unable to even get close to the display...)"
-1013903-111 = "The meat section sale has now begun!"
-1013903-112 = "[ns] (Now...!)"
-1013903-117 = "[ns7] \"Huh? A 30% off sticker...?\"\n[ns8] \"I could have sworn I just saw them put a half-price sticker on this!\""
-1013903-122 = "Hehe... Is this your first time here, youngster?"
-1013903-123 = "The 30% off stickers here look a lot like the 50% off ones.#nIf you don't look closely, it's easy to make a mistake!"
-1013903-124 = "Where are you looking? That's the frozen foods section over there."
-1013903-126 = "(Overwhelmed by the intensity of these seasoned veterans, I ended up grabbing#nthe wrong items numerous times...)"
-1013903-128 = "FOX-2, I have returned."
-1013903-129 = "Sensei, were you able to secure the objective?"
-1013903-130 = "[s9] \"I'm sorry... I got overwhelmed by the sheer force of the other customers...\"\n[s10] \"I was only able to grab a 30% off one.\""
-1013903-133 = "It is perfectly fine.#nTo make up for it, I managed to acquire the beef at 70% off, so we still have plenty of room in our budget!"
-1013903-134 = "[s11] \"70% off?\"\n[s12] \"How did you manage to get an item like that...?\""
-1013903-137 = "Hehe, I suppose you could call it... negotiation tactics?"
-1013903-138 = "Building a conversation to create an advantageous situation is also an#nimportant role of the Special Forces."
-1013903-139 = "[ns] \"I'm reminded once again of SRT's true capabilities...\""
-1013903-141 = "[ns13] \"But, is it really necessary to go to such extreme lengths to save money?\"\n[ns14] \"If you don't have enough for food, I can cover the cost, you know?\""
-1013903-144 = "No, meals are an extension of our missions.#nWe cannot rely on your assistance for this."
-1013903-145 = "Furthermore, we won't always be able to get our hands on a fair amount of#ningredients."
-1013903-146 = "That is precisely why at SRT, we have learned various survival skills to efficiently#nsecure food—even deep in the mountains away from civilization, or in heavily#nguarded enemy territory."
-1013903-147 = "After all, no operation can be executed smoothly on an empty stomach."
-1013903-148 = "We were granted a special budget from the General Student Council after being#nparoled from the Correctional Bureau, but once we allocate funds for our#noperations, we are always just barely scraping by..."
-1013903-149 = "I was just trying my best to make sure everyone in the platoon could eat#nsomething nutritious, and before I knew it...#ndoing our grocery shopping during time sales just became a habit."
-1013903-150 = "...Does it seem a bit cheap from your perspective, Sensei?"
-1013903-151 = "[ns15] \"Not at all!\"\n[ns16] \"The fact that you go this far for everyone in your platoon is actually amazing!\""
-1013903-155 = "[ns] \"I completely understand why they call you the 'Platoon’s Mother' now.\""
-1013903-156 = "Hehe... the \"Platoon’s Mother,\" you say."
-1013903-157 = "I am told that often by everyone in the platoon, but having you say it makes me#nfeel a little embarrassed somehow..."
-1013903-158 = "...Even though I still have many shortcomings."
-1013903-159 = "[s] \"From my perspective... I think you're already doing an outstanding job, Niko.\""
-1013903-160 = "Ahaha..."
-1013903-161 = "I feel like you're being a little dramatic... but thank you."
-1013903-162 = "It looks like the time sale is coming to an end soon."
-1013903-163 = "The ingredients we have left to get are... probably just onions and curry powder."
-1013903-164 = "[s] \"The seasoning aisle looks pretty empty, so I'll go grab them real quick.\""
-1013903-165 = "Ah, Sensei. Please wait a moment."
-1013903-166 = "[s] \"Don't tell me... is there something else we need to be careful about when buying curry roux too?\""
-1013903-167 = "No, it is nothing like that... However, this is top-secret information."
-1013903-172 = "The curry roux is actually cheaper at a different supermarket."
-1013903-177 = "So, let's just rendezvous outside after checking out!"
-1013903-182 = "(After that, I stopped by another supermarket with Niko to pick up the curry roux, and then we returned to Schale.)"
-1013903-183 = "(The curry Niko made for me had a very elegant and deeply rich flavor...)"
+
+1013903-107 = "(Eu não conseguia nem chegar perto da área de vendas porque as pessoas estavam me pressionando...)"
+
+1013903-111 = "A promoção do cantinho da carne já começou!"
+
+1013903-112 = "[ns] (Agora...!)"
+
+1013903-117 = "[ns7] \"Huh? Um adesivo de 30% de desconto...?\"\n[ns8] \"Tenho certeza que vi um adesivo pela metade do preço agora mesmo!""
+
+1013903-122 = "ふふ……若いの、ここは初めてかい？"
+
+1013903-123 = "O selo de 30% de desconto aqui é muito semelhante ao selo de 50% de desconto. Se você não olhar de perto, é fácil entender mal!"
+
+1013903-124 = "Para onde você está olhando? Essa é a seção congelada."
+
+1013903-126 = "(Pressionados pelo espírito dos guerreiros veteranos, muitas vezes misturamos produtos...)"
+
+1013903-128 = "FOX2 está de volta."
+
+1013903-129 = "Professor, você conseguiu garantir seu objetivo?"
+
+1013903-130 = "[s9] \"Desculpe... fiquei impressionado com a pressão de outros clientes...\"\n[s10] \"Só consegui 30% de desconto.\""
+
+1013903-133 = "Tudo bem. #nEm vez disso, consegui a carne com 70% de desconto, então ainda há muito espaço no meu orçamento!"
+
+1013903-134 = "[s11] \"70% de desconto?\"\r\n[s12] \"Esse produto... como?\""
+
+1013903-137 = "Hehe, habilidades de negociação... é disso que você está falando?"
+
+1013903-138 = "Criar situações vantajosas através de conversas repetidas também é um papel importante para as forças especiais."
+
+1013903-139 = "[ns] \"Mais uma vez percebo o poder do SRT...\""
+
+1013903-141 = "[ns13] \"Mas será mesmo necessário economizar tanto?\"\n[ns14] \"Se você não tiver dinheiro suficiente para comprar comida, eu pagarei por isso, ok?\""
+
+1013903-144 = "Não, comer também é uma extensão da missão. #nNão posso contar com a ajuda do professor."
+
+1013903-145 = "Além disso, nem sempre é possível obter ingredientes suficientes."
+
+1013903-146 = "É por isso que na SRT aprendemos várias técnicas de sobrevivência para garantir alimentos de forma eficiente, mesmo em montanhas remotas ou em território inimigo altamente protegido."
+
+1013903-147 = "Nenhuma estratégia pode funcionar bem se você pular refeições."
+
+1013903-148 = "Depois de ser libertado em liberdade condicional pelo Departamento de Correções, ele recebeu um orçamento especial do Conselho Estudantil da Federação, mas mesmo assim, quando se trata de operações, sempre chega no último minuto..."
+
+1013903-149 = "Eu estava tentando o meu melhor para que todos do meu pelotão comessem a melhor comida... #nAcabei de adquirir o hábito de fazer compras durante as liquidações."
+
+1013903-150 = "...Você parece um pouco pobre para seu professor?"
+
+1013903-151 = "[ns15] \"Isso não é verdade!\"\n[ns16] \"É realmente incrível que você tenha chegado tão longe por todos no pelotão!\""
+
+1013903-155 = "[ns] \"Agora eu entendo porque Nico é chamado de ``Mãe do Pelotão''.""
+
+1013903-156 = "Hehe... “Mãe do Pelotão”, né?"
+
+1013903-157 = "Todo mundo do pelotão fala muito isso para mim, mas fico meio sem graça quando a professora fala isso para mim..."
+
+1013903-158 = "...Há muitas coisas que não consigo alcançar."
+
+1013903-159 = "[s] \"Do meu ponto de vista... acho que Nico já está fazendo o seu melhor.\""
+
+1013903-160 = "Ahaha……."
+
+1013903-161 = "Sinto que estou exagerando, mas... obrigado."
+
+1013903-162 = "A venda a prazo está quase acabando."
+
+1013903-163 = "Os únicos ingredientes que restam são... cebola e curry em pó."
+
+1013903-164 = "[s] \"O canto dos temperos parece vazio, então vou buscá-lo imediatamente.""
+
+1013903-165 = "Ah, professora. Por favor, espere um momento."
+
+1013903-166 = "[s] \"Talvez... há algo que preciso ter cuidado ao comprar roux?\""
+
+1013903-167 = "Não, não é esse o caso... esta é uma informação ultrassecreta."
+
+1013903-172 = "Curry roux é mais barato em outro supermercado."
+
+1013903-177 = "Então, depois de pagar, vamos nos encontrar lá fora!"
+
+1013903-182 = "(Depois, Nico e eu paramos em outro supermercado para comprar mais curry roux e voltamos para a placa de Petri.)"
+
+1013903-183 = "(O curry que Nico fez era muito elegante e tinha um sabor profundo...)"
+

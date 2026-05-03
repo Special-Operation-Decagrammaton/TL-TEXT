@@ -1,70 +1,139 @@
 [translation]
-10053100-1 = "Afterstory 1;Barbecue & Chili"
-10053100-3 = "Mmm, that meat smells so good!"
-10053100-4 = "Hey, bring your plate over! I'll serve you some!"
-10053100-9 = "..."
-10053100-10 = "What's the matter? Just bring your plate over."
-10053100-11 = "No, I mean... I'm grateful, but..."
-10053100-12 = "I was just wondering if it's really okay for us to join in and have a feast like this."
-10053100-13 = "What's with that weird hesitation?"
-10053100-14 = "It's pointless if we don't eat together. To live is to eat, right?"
-10053100-15 = "No, that's not what I meant..."
-10053100-16 = "Come on, close your mouth. Stop yapping and just eat."
-10053100-17 = "If I close my mouth, how am I supposed to eat...?"
-10053100-18 = "...Fair point?"
-10053100-21 = "..."
-10053100-22 = "Hmm? Is there something on my face?"
-10053100-23 = "...If you're that nice to people, you're going to get betrayed spectacularly one day, you know?"
-10053100-24 = "Hmm?"
-10053100-25 = "W-what was that for! You're too close! Too close!!"
-10053100-26 = "So, you're that worried about your big sister, huh?"
-10053100-27 = "Hiss! I didn't say anything like that!?"
-10053100-28 = "I'm not saying I'm... not worried, but!"
-10053100-29 = "It's nice to know you're worried about me, though."
-10053100-33 = "Alright, I'll give you two pieces of life advice as a special treat."
-10053100-34 = "One: No matter the situation, if you just try, things usually work out somehow."
-10053100-35 = "And two: There's nothing that can't be solved with brute force! Hahaha!"
-10053100-41 = "Someone who can destroy a bus with their bare hands... I guess there's no point in worrying about her..."
-10053100-43 = "Ahhh, so this is what happiness tastes like..."
-10053100-44 = "I wonder how long it's been since I last had meat..."
-10053100-49 = "..."
-10053100-50 = "Ah!"
-10053100-51 = "Oh dear, oh dear. I almost lost my dignity in front of my club members."
-10053100-52 = "President, what's wrong? You've stopped eating."
-10053100-53 = "Eh? Oh, no... well, I've had so much meat that... I've grown tired of it, you could say... Hahaha."
-10053100-54 = "As expected of the President! Even while on the run, you're living large!"
-10053100-55 = "W-well, of course!"
-10053100-56 = "More importantly... Tsubasa, you've been sitting next to me this whole time... is that alright?"
-10053100-57 = "Ah, sorry... It's been a while, so I was just happy..."
-10053100-58 = "Was I... in the way...?"
-10053100-59 = "N-no, not at all! How could you think that...! I was just asking!"
-10053100-60 = "Then... just a little longer..."
-10053100-61 = "Hehehe."
-10053100-62 = "It's hard to eat..."
-10053100-65 = "Hey, con artist."
-10053100-66 = "I told you to stop calling me that!"
-10053100-67 = "For a con artist, you're surprisingly well-liked by your subordinates. I've never seen the Director get attached to anyone like that before."
-10053100-68 = "I'm not a con artist...!"
-10053100-70 = "You know, Konoka."
-10053100-71 = "This is some serious advice: you shouldn't put too much faith in the media."
-10053100-73 = "...Eh?"
-10053100-75 = "The major media outlets in Kivotos are all under the control of the General Student Council. Plus, the cozy relationship between the GSC and Seminar is common knowledge in this world."
-10053100-76 = "The President was just framed."
-10053100-77 = "The President's talent is simply too extraordinary. Seminar's 'Big Sister' personally pulled strings to get rid of her."
-10053100-79 = "Ah... is that the backstory?"
-10053100-80 = "It's not a backstory, it's the truth! She was kicked out by Big Sister herself!"
-10053100-81 = "Sure, sure~"
-10053100-82 = "You definitely don't believe me, do you!?"
-10053100-86 = "Anyway, changing the subject."
-10053100-87 = "Isn't it a bit overprotective to climb up to the second floor in the middle of the night just to watch someone sleep?"
-10053100-88 = "I mean, I get that you're worried about the Director, but still."
-10053100-89 = "...What are you talking about?"
-10053100-90 = "What do you mean? You were the one outside the window, right? You're in the photo."
-10053100-91 = "I have no recollection of that..."
-10053100-92 = "...?"
-10053100-96 = "The bridge was broken that day... I was standing in front of the mountain cabin wondering what to do. Then you suddenly opened the window and screamed, so I was startled and ran away."
-10053100-97 = "Ah, well, I'd like to ask you the same thing—"
-10053100-98 = "Who was the one clinging to the window back then...? They don't seem to be here now."
-10053100-103 = "...?"
+10053100-1 = "No final do dia, Parte 1; Churrasco e Chilli."
+
+10053100-3 = "Mmmm, cheiro agradável de carne~! \r}n"
+
+10053100-4 = "Aqui, traga-me um prato! Vou compartilhá-lo com você!"
+
+10053100-9 = "......."
+
+10053100-10 = "O quê, não dê o troco. "
+
+10053100-11 = "Não, agradeço por isso ....... ...... \r\n\r\n\n\r\n\r\n\r\n"
+
+10053100-12 = "Uchiru se perguntou se não havia problema em se misturar e festejar aqui. \r}r}r}r}r}r}r}r}r}r}r"
+
+10053100-13 = "Por que esse refrão estranho? \fr0000000000}"
+
+10053100-14 = "Qual é o objetivo se não comermos juntos? Viver é comer, certo? "
+
+10053100-15 = "Não, não é disso que estou falando. ...... \r\n\r\n\n\r\n\r\n\n"
+
+10053100-16 = "Aqui, feche sua boca. Não desperdice sua boca, coma, coma. \fnComic}{frzrfnComic}{frzrfnComic}{frzrfnComic}{frzrfnComic}"
+
+10053100-17 = "Como posso comer com a boca fechada ......? \r\n\r\n\r\n\r\n\r\n\r\n"
+
+10053100-18 = "...... De fato? \r\n\r\n\n\r\n\n\n\n\n\n\n\n\n\n\n"
+
+10053100-21 = "....... \r\n\r\n"
+
+10053100-22 = "O que foi? - O que foi? Há algo em meu rosto? \Não tenho certeza."
+
+10053100-23 = "...... Se você for tão gentil com eles, mais cedo ou mais tarde eles o trairão, não é mesmo? \r\r\r\r\n"
+
+10053100-24 = "Hmmm? \fr0000000000}"
+
+10053100-25 = "O que foi tão repentino? Está perto! Está perto! \Perto!"
+
+10053100-26 = "Então você está tão preocupado com sua irmã? \Estou preocupado demais com você."
+
+10053100-27 = "Shah! Você não disse isso! \fr\r\r\fr\fr\fr\fr\n"
+
+10053100-28 = "Não estou dizendo que você não precisa se preocupar com o ......! \fr0000000000}"
+
+10053100-29 = "Sou muito grato por você estar preocupado comigo."
+
+10053100-33 = "Depois, vou lhe dar duas dicas especiais de sabedoria de vida."
+
+10053100-34 = "Primeiro, não importa qual seja a situação, você pode administrá-la melhor do que imagina se tentar."
+
+10053100-35 = "Mais uma coisa: não há nada que não possa ser resolvido pela força! Haha! \fr0000000000}"
+
+10053100-41 = "Alguém que quebraria um ônibus com as próprias mãos. ...... Há algum motivo para se preocupar com isso? ...... \r\n"
+
+10053100-43 = "Ahhhh, esse é o sabor da felicidade!"
+
+10053100-44 = "Quando foi a última vez que você comeu carne? ......"
+
+10053100-49 = "....... \r}n"
+
+10053100-50 = "Ha! \fr0000000000}}"
+
+10053100-51 = "Eu não deveria ter feito isso. Quase perdi minha dignidade na frente dos membros do clube. \r}r}r}r}r}r}r}r}r}r}r"
+
+10053100-52 = "Senhor, o que está acontecendo? Parece que você parou de comer e seus pauzinhos pararam. "
+
+10053100-53 = "Não? Oh, não~~...... isso, eu comi muita carne ...... e me cansei dela, ou ......#n haha. "
+
+10053100-54 = "É disso que estou falando, chefe! Você está fugindo, mas ainda é uma pena no boné! \fnComic}Secretário de Estado."
+
+10053100-55 = "E, é claro, é natural! "
+
+10053100-56 = "Mais importante ainda ...... Tsubasa, você esteve ao meu lado o tempo todo. ...... Tem certeza? "
+
+10053100-57 = "Oh, desculpe. ....... Já faz muito tempo, então estou feliz. ...... \r\n"
+
+10053100-58 = "Disturbed ...... ou seria .......? \r\n\r\n"
+
+10053100-59 = "Não, não, não! Isso não pode ser verdade. ...... #nEu só estava perguntando! \fnComic}{fnComic}{fnComic}{fnComic}{fnComic}{fnComic}{fnComic}{fnComic}"
+
+10053100-60 = "Em seguida, acesse ...... para obter um pouco mais de ....... \r\n"
+
+10053100-61 = "Hmmm. \r\n\r\n"
+
+10053100-62 = "Difícil de comer. ....... \r\n\r\n\r\n\r\n"
+
+10053100-65 = "Ei, golpista. "
+
+10053100-66 = "Por favor, não me chame assim, por favor! "
+
+10053100-67 = "Você é um vigarista, mas seus homens o amam. Eu nunca vi o #nDirector perder alguém antes. "
+
+10053100-68 = "Portanto, não se trata de um golpista. ...... \r\n\r\n\r\n\r\n"
+
+10053100-70 = "Sabe de uma coisa, Konoka? \r}n."
+
+10053100-71 = "Este é um conselho sério. Não confie demais na mídia."
+
+10053100-73 = "...... O quê? \O que é isso?"
+
+10053100-75 = "Todos os principais meios de comunicação em Kivotos estão sob o controle do Corpo de Cadetes Federais. #Mas o relacionamento confortável entre o Conselho Federal de Estudantes e os seminaristas é bem conhecido neste mundo."
+
+10053100-76 = "O diretor acabou de ser incriminado."
+
+10053100-77 = "O talento do diretor é extraordinário demais para isso. As "Big Sisters" do seminário #n tiveram participação direta na eliminação deles."
+
+10053100-79 = "Uh ...... esse tipo de configuração?"
+
+10053100-80 = "Não é uma armação, é um fato! Eles estão sendo expulsos pela Big Sister em pessoa!"
+
+10053100-81 = "Tudo bem, tudo bem, tudo bem!"
+
+10053100-82 = "Você definitivamente não acredita nisso!"
+
+10053100-86 = "Portanto, estou mudando de assunto."
+
+10053100-87 = "De qualquer forma, não é realmente superprotetor ir até o andar de cima no meio da noite e dar uma olhada no rosto dela dormindo?"
+
+10053100-88 = "Bem, eu sei que você está preocupado com o diretor."
+
+10053100-89 = "...... Do que você está falando?"
+
+10053100-90 = "O quê, você estava do lado de fora da janela, não estava? Você está na foto."
+
+10053100-91 = "Não tenho nenhuma ideia. ......"
+
+10053100-92 = "......?"
+
+10053100-96 = "A ponte estava quebrada naquele dia e eu estava pensando no que fazer ...... em frente ao alojamento. #Então, de repente, ele abriu a janela e gritou, então me assustei e saí correndo."
+
+10053100-97 = "Sim, bem, eu gostaria de lhe perguntar a mesma coisa..."
+
+10053100-98 = "Quem estava grudado na janela naquele momento, ......? #Não parece que ele está aqui."
+
+10053100-103 = "......?"
+
 10053100-104 = "Eh."
-10053100-106 = "Ehhhhhhh!?!?"
+
+10053100-106 = "Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!"
+

@@ -1,65 +1,129 @@
 [translation]
-1013702-1 = "Introduce Yourself Properly"
-1013702-2 = "(Upon visiting Valkyrie...)"
-1013702-3 = "Hello, Sensei!"
-1013702-4 = "Is there something you need?"
-1013702-5 = "[s1] \"I have something to discuss with Konoka.\"\n[s2] \"Do you know where she is?\""
-1013702-8 = "Ah, if you mean the Deputy Director, she's clocked in right now..."
-1013702-9 = "She's currently in the middle of other work...#nI believe she's in the basement."
-1013702-10 = "[s] \"Basement?\""
-1013702-11 = "Yes.#nThere's some work that needs to be done in the basement..."
-1013702-13 = "[ns3] \"Is this... the prison cell?\"\n[ns4] \"What kind of work is she doing exactly...\""
-1013702-16 = "Zzz... kuuu..."
-1013702-17 = "(I can hear someone snoring.)"
-1013702-18 = "Guuuu... Zzz..."
-1013702-19 = "Zzz... Uwaa... B-Bring it on!#n... Grrrr..."
-1013702-20 = "[ns5] \"Konoka...?\"\n[ns6] \"Why are you in a prison cell...?\""
-1013702-26 = "A-aughhhhh!!!"
-1013702-27 = "Hey!#nThrowing sand like that is so unfair..."
-1013702-28 = "Wait, it was a dream... Ugh, I was so close"
+1013702-1 = "Apresente-se com cuidado"
+
+1013702-2 = "(Quando você visita Valquíria...)"
+
+1013702-3 = "Olá, professor!"
+
+1013702-4 = "O que aconteceu?"
+
+1013702-5 = "[s1] \"Preciso pedir conselhos a Konoka.\"\n[s2] \"Você sabe onde estou?\""
+
+1013702-8 = "Ah, se você é vice-diretor, você já está trabalhando..."
+
+1013702-9 = "No momento, estou trabalhando em outro [ruby=・][/ruby][ruby=・]trabalho[/ruby][ruby=・][/ruby]...Acho que sou underground."
+
+1013702-10 = "[s] \"Subterrâneo?\""
+
+1013702-11 = "sim. Há algum trabalho a ser feito no subsolo..."
+
+1013702-13 = "[ns3] \"Isso é... um centro de detenção?\"\n[ns4] \"Que tipo de trabalho você está fazendo...?\""
+
+1013702-16 = "Ah... Kugo..."
+
+1013702-17 = "(eu ouvi alguém roncando)"
+
+1013702-18 = "Óculos...goo..."
+
+1013702-19 = "Ah... ah... ah, vamos lá! #n...Bom..."
+
+1013702-20 = "[ns5] \"Konoka...?\"\n[ns6] \"Por que você está no centro de detenção...?\""
+
+1013702-26 = "Uau! ! !"
+
+1013702-27 = "Colá! É covardia jogar areia..."
+
+1013702-28 = "Então, foi um sonho... Caramba, foi só mais um pouquinho..."
+
 1013702-29 = "Huh?"
-1013702-34 = "[ns] \"G-Good morning, Konoka...\""
-1013702-35 = "What... am I still dreaming...?"
-1013702-36 = "Sensei's been showing up in my dreams lately~"
-1013702-37 = "[ns] \"This is reality! Wake up!\""
-1013702-38 = "*Yawn*... *Mumble mumble*..."
-1013702-39 = "Hmm...?#nAh, I must have dozed off."
-1013702-40 = "[s7] \"So, when will you be released?\"\n[s8] \"Do they really serve katsudon?\""
-1013702-43 = "Ah, no! That's not it!#nI wasn't arrested... well, it's really no big deal, but..."
-1013702-44 = "I got into a tiiiiny little fight yesterday..."
-1013702-45 = "I got dispatched and it turned into a whole mess...#nso I just got off my shift at dawn."
-1013702-46 = "So, I figured I'd take a quick nap, but... the bureau is pretty loud#nThat's why I was sleeping in here."
-1013702-47 = "I have to do a welcome party for the rookies, meet and greets, and all that...#nbut I'm just so busy..."
-1013702-48 = "Oh, right.#nThe administrative procedures, right? Give me a sec~ I'll go grab the paperwork."
-1013702-49 = "Let's see... where did I put the keys~?"
-1013702-56 = "P-Put your hands up! Step away from the bars!#nIf you move, I'll shoot!"
+
+1013702-34 = "[ns] \"Oh, bom dia, Konoka...\""
+
+1013702-35 = "O que... ainda estou sonhando...?"
+
+1013702-36 = "Meu professor tem aparecido em meus sonhos ultimamente."
+
+1013702-37 = "[ns] \"É real! Acorde!""
+
+1013702-38 = "Fuaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa..."
+
+1013702-39 = "Hum...? #nAh, adormeci."
+
+1013702-40 = "[s7] \"Então, quando você será liberado?\"\n[s8] \"Katsudon realmente será servido?\""
+
+1013702-43 = "Oh não! Não! #nNão é que estou sendo preso... não, não é grande coisa."
+
+1013702-44 = "Houve uma pequena briga ontem..."
+
+1013702-45 = "Quando fui despachado, as coisas ficaram uma bagunça...#nEntão, acabei de sair do trabalho de madrugada."
+
+1013702-46 = "Então pensei em tirar uma soneca... mas faz barulho na estação, certo? #nÉ por isso que eu estava dormindo aqui."
+
+1013702-47 = "Tenho que dar uma festa de boas-vindas para os novos membros, conhecê-los e fazer algumas outras coisas...estou tão ocupado..."
+
+1013702-48 = "Ah, isso mesmo. Foi um procedimento administrativo, certo? #nPor favor, espere um momento. Eu vou buscá-lo."
+
+1013702-49 = "Erm... eu me pergunto onde está a chave..."
+
+1013702-56 = "Ei, levante a mão! Afaste-se dos bares! #nSe ele se mexer, atire!"
+
 1013702-60 = "Huh?"
-1013702-61 = "I warned you!#nDon't touch those keys!"
-1013702-62 = "Sensei, please step back as well!#nShe's clearly a dangerous criminal!"
-1013702-63 = "[s9] \"It's a misunderstanding!\"\n[s10] \"It might look like it, but it's a misunderstanding!\""
-1013702-66 = "Hey, aren't you one of the rookies who just joined?#nYou were on the roster."
-1013702-67 = "I mean, I'm the Deputy Director of the Public Security Bureau, you know!?"
-1013702-68 = "Public Security Bureau!?#nTrying to impersonate the Deputy Director...!"
-1013702-69 = "I've never met the Deputy Director, but I'm certain that it definitely isn't you!"
-1013702-70 = "I'm reporting you to the Deputy Director on Momotalk!"
-1013702-74 = "There, I sent it!"
-1013702-79 = "So, who is impersonating the Deputy Director?"
-1013702-80 = "Umm..."
-1013702-81 = "This is Public Security 1-2-0!!#nIt appears the suspect is in possession of the Deputy Director's phone!!"
-1013702-82 = "Wait, why!?"
-1013702-83 = "There's no way the Deputy Director would be dressed like that!!"
-1013702-84 = "This is your final warning!#nYou prison breaker! Surrender peacefully!"
-1013702-85 = "A prison breaker!? Being suspicious is a good thing and all, but...#nwhere in Kivotos are you gonna find a prison breaker who goes to dinner and#nbaths with Director Kanna!"
-1013702-86 = "D-Don't come any closer!#nPepper spray!!"
-1013702-93 = "Gyaaaah!! M-My eyes!!!"
-1013702-94 = "And here I was trying to play nice...!"
-1013702-95 = "W-Why isn't it working!?"
-1013702-96 = "Because I'm trained for it, obviously! I could even gargle tear gas!#nI am Shima Konoka—"
-1013702-97 = "Shut up!#nEat taser!!!"
-1013702-99 = "Deputy Director of the Public Security—#nAbyaah!!!"
-1013702-103 = "B-Bureau...#nyou...know..."
-1013702-105 = "This is Public Security 1-2-0, suspect has been apprehended in the#nbasement prison cell!!"
-1013702-109 = "Ah... come to think of it...#ntoday's fortune... said to introduce myself properly."
-1013702-111 = "(Afterwards, a junior officer from the Public Security Bureau rushed over and#nproved Konoka's identity.)"
-1013702-112 = "(The rookie was pale-faced and apologizing profusely. Konoka didn't seem to mind much and laughed it off, forgiving her.)"
-1013702-113 = "(Konoka was looking off into the middle distance, perhaps due to the effects of the pepper spray, but she looked somewhat in a good mood.)"
+
+1013702-61 = "Eu te avisei! #nNão toque nas teclas!"
+
+1013702-62 = "Professor, por favor, afaste-se também! #nNão importa como você olhe, ele é um bandido!"
+
+1013702-63 = "[s9] \"É um mal-entendido!\"\n[s10] \"Talvez, mas é um mal-entendido!\""
+
+1013702-66 = "Ah, não foi você quem entrou na agência dessa vez? #nVocê estava na lista, certo?"
+
+1013702-67 = "Na verdade, sou o vice-diretor do Departamento de Segurança Pública! ?"
+
+1013702-68 = "Secretaria de Segurança Pública! ? #nNão acredito que você mentiu para ser o vice-diretor...!"
+
+1013702-69 = "Nunca conheci o vice-diretor, mas sei que definitivamente não é você!"
+
+1013702-70 = "Vou contar ao vice-diretor no Momotalk!"
+
+1013702-74 = "Olha, eu enviei!"
+
+1013702-79 = "Então, quem está fingindo ser o vice-diretor?"
+
+1013702-80 = "Bem..."
+
+1013702-81 = "Este é Hitofutamaru da Segurança Pública! ! Parece que o suspeito está de posse do celular do vice-diretor! !"
+
+1013702-82 = "Não, por quê! ?"
+
+1013702-83 = "Não tem como o vice-diretor estar vestido assim! !"
+
+1013702-84 = "Aviso final! Criminoso fugitivo! Renda-se como um adulto!"
+
+1013702-85 = "Criminoso fugitivo! ? É bom ter dúvidas, mas... #n Onde em Kivotos está o fugitivo da prisão que vai comer e tomar banho com a Diretora Kanna?"
+
+1013702-86 = "Não venha! Spray lacrimal! !"
+
+1013702-93 = "Gyaaaaaaaaa! ! Oh meus olhos! ! !"
+
+1013702-94 = "Se ao menos as pessoas ficassem quietas...!"
+
+1013702-95 = "Ei, por que não funciona? ?"
+
+1013702-96 = "Está decidido porque tenho treinado! Você pode até gargarejar com gás lacrimogêneo! #nEu sou [ruby=shima]Shima[/ruby]Konoka――"
+
+1013702-97 = "barulhento! Arma de choque! ! !"
+
+1013702-99 = "Uma sub-repartição da Secretaria de Segurança Pública ――Abyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa! ! !"
+
+1013702-103 = "Longo... o que... mas..."
+
+1013702-105 = "Aqui é Hitofutamaru, da Segurança Pública, e prendemos um suspeito em um centro de detenção subterrâneo! !"
+
+1013702-109 = "Ah... agora que pensei nisso... a leitura da sorte de hoje... vou me apresentar adequadamente."
+
+1013702-111 = "(Mais tarde, um júnior do Departamento de Segurança Pública correu e verificou a identidade de Konoka.)"
+
+1013702-112 = "(O recém-chegado se desculpou com o rosto pálido. Konoka não pareceu se importar e apenas riu e o perdoou.)"
+
+1013702-113 = "(Talvez por causa do spray de pimenta, Konoka estava olhando para depois de amanhã, mas ela parecia estar de bom humor.)"
+

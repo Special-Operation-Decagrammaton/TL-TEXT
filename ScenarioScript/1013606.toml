@@ -1,72 +1,143 @@
 [translation]
-1013606-1 = "Cocoa with You"
-1013606-3 = "Good work today, Sensei."
-1013606-4 = "[s1] \"Good work to you too, Eimi!\"\n[s2] \"Huh, where are you right now?\""
-1013606-7 = "Me?"
-1013606-8 = "I'm on the top."
-1013606-9 = "Ah, not for reconnaissance or anything..."
-1013606-10 = "How should I put it."
-1013606-11 = "Hmm..."
-1013606-12 = "Do you want to come up too, Sensei?"
-1013606-13 = "It's a bit strange up here."
-1013606-16 = "(As Eimi suggested, I climbed up to find—)"
-1013606-21 = "[wa:710]― [log=에이미 결전]Welcome, [wa:957]Sensei.[/log]"
-1013606-23 = "― [log=에이미 결전]It’s kind of [wa:1440]a strange sky, isn’t it?[/log]"
-1013606-26 = "[ns] \"It is really... fascinating.\""
-1013606-27 = "[wa:730]― [log=에이미 결전]It looks similar to the night sky we know, [wa:1990]but...[/log]"
-1013606-30 = "― [log=에이미 결전]If you look closely, [wa:2100]it's completely different.[/log]"
-1013606-32 = "― [log=에이미 결전]Just like the me right now.[/log]"
-1013606-35 = "[wa:1070]― [log=에이미 결전]Up until now, [wa:1370]I didn't really[/log]"
-1013606-37 = "― [log=에이미 결전]look up like this very often...[/log]"
-1013606-40 = "― [log=에이미 결전]But lately, [wa:1760]I’ve been really into it.[/log]"
-1013606-43 = "[wa:860]― [log=에이미 결전]I wonder [wa:740]why, though.[/log]"
-1013606-45 = "― [log=에이미 결전]Every time I look up, [wa:1180]your face comes to mind, Sensei.[/log]"
-1013606-48 = "[ns] \"Why is... that?\""
-1013606-49 = "[wa:1720]― [log=에이미 결전]Hehe, [wa:1610]I wonder why.[/log]"
-1013606-51 = "― [log=에이미 결전]Sensei.[/log]"
-1013606-54 = "― [log=에이미 결전]I'm truly glad [wa:1590]that I met you, [wa:2320]Sensei.[/log]"
-1013606-56 = "― [log=에이미 결전]Yeah, [wa:1130]truly. [wa:2225]That's [wa:1288]what I think.[/log]"
-1013606-60 = "Eh... Hot Cocoa? Did you bring it for me?"
-1013606-61 = "I appreciate the thought, but... I don't do well with hot drinks."
-1013606-62 = "[s] \"Your portion is iced cocoa, Eimi.\""
-1013606-63 = "Wow, thank you, Sensei!"
-1013606-64 = "That's what I like about you."
-1013606-67 = "(I sit down next to Eimi.)"
-1013606-70 = "Probably..."
-1013606-71 = "Before I met you, Sensei—"
-1013606-72 = "I seriously thought that I could live my life entirely on my own."
-1013606-73 = "I never actually said it out loud, though..."
-1013606-74 = "I guess it must have shown on my face without me even realizing it."
-1013606-75 = "In my case, it was often more efficient to handle things alone."
-1013606-76 = "Even with knowledge, self-study was enough."
-1013606-77 = "[s] \"What about now?\""
-1013606-78 = "I wonder."
-1013606-79 = "At the least, if I were alone—"
-1013606-80 = "You handing me iced cocoa like this would never have happened."
-1013606-81 = "And sharing our body heat like this wouldn't have happened either."
-1013606-87 = "(I can feel Eimi's body heat from where we're touching.)"
-1013606-88 = "Is it warm?"
-1013606-89 = "[s] \"Yeah, the cocoa is.\""
-1013606-90 = "Hmmph..."
-1013606-91 = "[s3] \"Sorry, sorry.\"\n[s4] \"Thanks to you, Eimi, I'm not cold.\""
-1013606-94 = "That's good."
-1013606-95 = "..."
-1013606-96 = "This is kind of nice."
-1013606-97 = "It really is."
-1013606-98 = "From now on, I want to interact with more people—"
-1013606-99 = "And a lot of things are going to change... is that how it'll be?"
-1013606-100 = "..."
-1013606-101 = "......"
-1013606-102 = "........."
-1013606-103 = "I wonder."
-1013606-104 = "[s] \"You're supposed to nod there.\""
-1013606-105 = "When there are too many people involved... it gets troublesome."
-1013606-106 = "[s] \"So that's the reason...\""
-1013606-107 = "That's important, Sensei."
-1013606-108 = "One of the reasons people seek efficiency is to escape from bothersome things."
-1013606-109 = "[s] \"I won't deny that, but...\""
-1013606-110 = "Having you here is enough for now, anyway?"
-1013606-111 = "[s] \"Ehh!?\""
-1013606-112 = "It's no use pretending you didn't hear that, Sensei."
-1013606-113 = "Because I said it so you could hear it."
-1013606-118 = "(And so, I chat with Eimi until we finished our cocoa, spending a peaceful time#ntogether.)"
+1013606-1 = "cacau com você"
+
+1013606-3 = "Obrigado pelo seu trabalho duro, professor."
+
+1013606-4 = "[s1] \"Obrigado pelo seu trabalho duro, Amy!\"\n[s2] \"Uh, onde você está agora?\""
+
+1013606-7 = "EU?"
+
+1013606-8 = "Estou lá em cima."
+
+1013606-9 = "Ah, não é como reconhecimento nem nada..."
+
+1013606-10 = "O que devo dizer?"
+
+1013606-11 = "Hum..."
+
+1013606-12 = "Professor, você gostaria de vir também?"
+
+1013606-13 = "É um pouco estranho aqui."
+
+1013606-16 = "(Como Amy me disse, quando subi...)"
+
+1013606-21 = "[wa:710]― [log=에이미 결전]Bem-vindo, [wa:957]Sensei. [/registro]"
+
+1013606-23 = "― [log=에이미 결전][wa:1540]É um céu estranho. [/registro]"
+
+1013606-26 = "[ns] \"É realmente...incrível.\""
+
+1013606-27 = "[wa:730]― [log=에이미 결전]Parece [wa:2890] semelhante ao céu noturno que conhecemos... [/log]"
+
+1013606-30 = "― [log=에이미 결전]Se você olhar de perto, [wa:2100] é completamente diferente. [/registro]"
+
+1013606-32 = "― [log=에이미 결전]Assim como eu agora. [/registro]"
+
+1013606-35 = "[wa:1070]― [log=에이미 결전]Até agora [wa:1370]Não assim[/log]"
+
+1013606-37 = "― [log=에이미 결전]Eu não olhei para cima, mas... [/log]"
+
+1013606-40 = "― [log=에이미 결전]Recentemente, gosto de [wa:1760]. [/registro]"
+
+1013606-43 = "[wa:860]― [log=에이미 결전]Mas [wa:740]Eu me pergunto por quê. [/registro]"
+
+1013606-45 = "― [log=에이미 결전]Toda vez que olho para cima, [wa:1940] o rosto do professor vem à mente. [/registro]"
+
+1013606-48 = "[ns] \"Por que...?\""
+
+1013606-49 = "[wa:1720]― [log=에이미 결전]Hehe, [wa:1610]Eu me pergunto por quê. [/registro]"
+
+1013606-51 = "― [log=에이미 결전]Sensei. [/registro]"
+
+1013606-54 = "[wa:1000]― [log=에이미 결전]Fiquei [wa:1590] muito feliz em conhecer você, [wa:1820]. [/registro]"
+
+1013606-56 = "― [log=에이미 결전]Sim, [wa:1130]Sério. [wa:2225]Sim, [wa:1288]Acho que sim. [/registro]"
+
+1013606-60 = "Isso é... cacau? Você trouxe?"
+
+1013606-61 = "Sinto-me feliz, mas... estou com calor."
+
+1013606-62 = "[s] \"É chocolate gelado para Amy.\""
+
+1013606-63 = "Uau, obrigado professor!"
+
+1013606-64 = "É disso que eu gosto..."
+
+1013606-67 = "(senta-se ao lado de Amy)"
+
+1013606-70 = "Talvez..."
+
+1013606-71 = "Antes de te conhecer, eu era..."
+
+1013606-72 = "Eu realmente pensei que poderia sobreviver sozinho."
+
+1013606-73 = "Eu nunca disse isso em voz alta, mas..."
+
+1013606-74 = "Talvez inconscientemente, isso também estivesse aparecendo."
+
+1013606-75 = "No meu caso, muitas vezes era mais eficiente lidar com isso sozinho."
+
+1013606-76 = "Quanto ao conhecimento, o auto-estudo foi suficiente."
+
+1013606-77 = "[s] \"E agora?\""
+
+1013606-78 = "Não sei."
+
+1013606-79 = "Pelo menos, se você estiver sozinho..."
+
+1013606-80 = "Ter chocolate gelado entregue para mim assim nunca aconteceu."
+
+1013606-81 = "Dessa forma, eles não teriam que compartilhar o calor corporal."
+
+1013606-87 = "(Sinto a temperatura corporal de Amy de onde nos tocamos)"
+
+1013606-88 = "Está quente?"
+
+1013606-89 = "[s] \"Sim, cacau.\""
+
+1013606-90 = "Hum..."
+
+1013606-91 = "[s3] \"Desculpe, desculpe.\"\n[s4] \"Graças a Amy, não estou com frio.\""
+
+1013606-94 = "bom."
+
+1013606-95 = "……."
+
+1013606-96 = "É até legal, assim."
+
+1013606-97 = "Realmente."
+
+1013606-98 = "A partir de agora irei interagir com mais pessoas..."
+
+1013606-99 = "Muita coisa vai mudar...É mesmo?"
+
+1013606-100 = "……."
+
+1013606-101 = "……."
+
+1013606-102 = "…………."
+
+1013606-103 = "O que você acha?"
+
+1013606-104 = "[s] \"Vamos apenas acenar com a cabeça.\""
+
+1013606-105 = "Quando há muitas pessoas envolvidas... torna-se problemático."
+
+1013606-106 = "[s] \"Essa é a razão...\""
+
+1013606-107 = "É importante, senhor."
+
+1013606-108 = "Uma das razões pelas quais as pessoas buscam eficiência é para se livrar dos problemas."
+
+1013606-109 = "[s] \"Eu não nego, mas...\""
+
+1013606-110 = "Ter um professor é suficiente por enquanto?"
+
+1013606-111 = "[s] \"Eh!?\""
+
+1013606-112 = "Não adianta fingir que não consegue ouvir, senhor."
+
+1013606-113 = "Estou dizendo isso para que você possa ouvir."
+
+1013606-118 = "(Depois, troquei palavras com Amy e passei momentos tranquilos até terminar de beber o chocolate.)"
+

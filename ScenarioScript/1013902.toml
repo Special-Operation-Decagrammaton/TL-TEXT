@@ -1,69 +1,137 @@
 [translation]
-1013902-1 = "Niko's Recommendation"
-1013902-2 = "(A few minutes after receiving the mysterious Momotalk...)"
-1013902-6 = "(Suddenly, the office intercom rang.)"
-1013902-8 = "Good evening, this is \"FOX EATS\"."
-1013902-9 = "I've come to deliver your order!"
-1013902-10 = "[s1] Open the door.\n[s2] Don't open the door."
-1013902-14 = "It looks like it's locked again..."
-1013902-15 = "It can't be helped. Once again, I'll initiate a door breach—"
-1013902-16 = "[ns] \"I-I'll open it right away!!\""
-1013902-21 = "Good evening, Sensei. This is FOX EATS."
-1013902-22 = "You haven't eaten dinner yet, right?"
-1013902-23 = "You need to eat properly. It's bad for your health if you don't eat three proper#nmeals a day."
-1013902-24 = "[ns] \"I haven't eaten yet, but...\""
-1013902-26 = "[ns3] \"How did you know?\"\n[ns4] \"Are you monitoring me from somewhere?\""
-1013902-29 = "Hehe. I am an SRT Member, after all.#nI have countless methods for gathering intelligence."
-1013902-30 = "When I checked SCHALE's refrigerator this afternoon, there were hardly any#ningredients left—"
-1013902-31 = "And no one has come to SCHALE with food since noon."
-1013902-32 = "Furthermore, your messenger has been online the whole time, so I figured#nyou've been working without taking a break."
-1013902-33 = "[s] \"...You're right.\""
-1013902-34 = "Sitting in the same spot and working continuously isn't very good for you either."
-1013902-35 = "I'll prepare a meal right away, so please take a short rest, Sensei."
-1013902-36 = "[s] \"I think I'll take you up on that and catch my breath...\""
-1013902-38 = "[ns] \"By the way, what did you bring?\""
-1013902-39 = "Hehe. I only brought the ingredients."
-1013902-40 = "Food is best when it's freshly made."
-1013902-41 = "I have many of them with me, so could you tell me#nwhat you would like to eat, Sensei?"
-1013902-42 = "I can make pretty much everything."
-1013902-43 = "[s] \"I'd be happy with anything, as long as you make it, Niko...\""
-1013902-47 = "[ns] \"Then... I'll have Niko's [ruby=Omakase Course]recommendation[/ruby].\""
-1013902-48 = "My... recommendation?"
-1013902-49 = "If you ask me what dish I'm most confident in... let me see.#nPerhaps the inari sushi I always make for everyone."
-1013902-50 = "[s] \"That's fine. I'll leave it to you, Niko.\""
-1013902-51 = "Understood. Please wait a moment then."
-1013902-55 = "...Making inari sushi like this kind of reminds me of those days."
-1013902-56 = "[s] \"When we first met?\""
-1013902-57 = "Yes. I was just thinking about how I had you eat a lot of inari sushi back then too."
-1013902-58 = "That was a strategy to lower your guard, but..."
-1013902-59 = "Even so—at the very least, I put my heart into making the inari sushi."
-1013902-60 = "It's a dish everyone in the platoon loves, too."
-1013902-61 = "[s] \"Why did you start making inari sushi?\""
-1013902-62 = "The reason...? Well, let's see."
-1013902-63 = "When the FOX Platoon was first formed, I thought we needed bento boxes for#nwhen operations ran long."
-1013902-64 = "But I wasn't very good at cooking back then... making inari sushi was the best#nI could do."
-1013902-65 = "Even that, I couldn't make it very well back then..."
-1013902-66 = "But everyone encouraged me and gave me lots of compliments. Their words made#nme feel happy so I kept on making it."
-1013902-67 = "Hehe, it's a funny story, isn't it.#nBack then, I didn't have any special attachment to inari sushi."
-1013902-68 = "[s] \"I feel like I kind of understand.\""
-1013902-72 = "[ns5] \"Because memories are another seasoning that adds to the flavor of food.\"\n[ns6] \"It means your inari sushi is steeped with all those different memories, Niko.\""
-1013902-75 = "…For me, this dish is very special."
-1013902-76 = "And with that, while we were chatting, the inari sushi is done!"
-1013902-77 = "[s7] \"Already?\"\n[s8] \"That was fast.\""
-1013902-80 = "It's a simple dish, just stuffing rice into simmered fried tofu pouches."
-1013902-81 = "If tofu has to be deep-fried from start to end, making inari sushi will take quite#na while, otherwise it can be made quickly."
-1013902-82 = "[s] \"Well then, thanks for the me—\""
-1013902-83 = "Please wait a moment, Sensei."
-1013902-84 = "Hehe. You said it earlier, right?#nThat tonight's dinner would be my recommendation."
-1013902-89 = "Here are some kitsune udon I made while simmering the fried tofu.#nTonight, please have this instead."
-1013902-90 = "It's cold tonight, so I thought warm udon would be gentler on your body."
-1013902-91 = "[s] \"I'm really happy for the consideration, but what about the inari sushi...?\""
-1013902-92 = "Having it fresh is also good, but inari sushi actually tastes better if you let it sit#nfor a while..."
-1013902-93 = "...Sensei. You were going to either skip breakfast tomorrow or make do with#ninstant food anyway, weren't you?"
-1013902-94 = "[ns] \"...Is that also the result of your information gathering?\""
-1013902-95 = "No, just a hunch."
-1013902-96 = "You are surprisingly easy to read, Sensei."
-1013902-97 = "I will put this inari sushi in the refrigerator, so please eat it tomorrow morning."
-1013902-98 = "Also... please don't push yourself too hard."
-1013902-99 = "Well then, Sensei, good night."
-1013902-101 = "(After that, I ate the kitsune udon Niko made for me, and spent a warm evening#nfor the first time in a while.)"
+1013902-1 = "Recomendações de Nico"
+
+1013902-2 = "(Alguns minutos depois de receber o misterioso Momotalk...)"
+
+1013902-6 = "(De repente, o interfone do escritório tocou)"
+
+1013902-8 = "Boa noite, aqui é "FOX EATS"."
+
+1013902-9 = "O produto encomendado foi entregue!"
+
+1013902-10 = "[s1] Abra a porta. \r\n[s2] Não consigo abrir a porta."
+
+1013902-14 = "Parece que está trancado novamente..."
+
+1013902-15 = "Eu não posso evitar. Branqueamento de porta novamente..."
+
+1013902-16 = "[ns] \"Eu-eu vou abrir agora mesmo!!\""
+
+1013902-21 = "Boa noite, professor. Esta é a FOX EATS."
+
+1013902-22 = "Você ainda não jantou, não é?"
+
+1013902-23 = "Você tem que comer corretamente. Se você não fizer três refeições corretamente, faz mal à saúde."
+
+1013902-24 = "[ns] \"Ainda não comi...\""
+
+1013902-26 = "[ns3] \"Como você sabia?\"\n[ns4] \"Você está me monitorando de algum lugar?\""
+
+1013902-29 = "Hehe. Ele é um membro das forças especiais. #nExistem muitas maneiras de coletar informações."
+
+1013902-30 = "Quando verifiquei a geladeira da placa de Petri esta tarde, quase não havia mais comida."
+
+1013902-31 = "E ninguém veio à placa de Petri com comida depois do almoço."
+
+1013902-32 = "Além disso, o mensageiro do professor estava sempre online, então pensei que ele devia estar trabalhando sem parar."
+
+1013902-33 = "[s] \"...Isso mesmo.\""
+
+1013902-34 = "Também não é uma boa ideia trabalhar sentado no mesmo lugar o tempo todo."
+
+1013902-35 = "Prepararei sua refeição imediatamente, então, por favor, faça uma pausa, professor."
+
+1013902-36 = "[s] \"Acho que vou acreditar na sua palavra e fazer uma pausa...\""
+
+1013902-38 = "[ns] \"A propósito, o que você trouxe?\""
+
+1013902-39 = "n / D. Tudo que trouxe foram os ingredientes. \r\n"
+
+1013902-40 = "A comida é melhor quando preparada na hora."
+
+1013902-41 = "Eu comprei muitas coisas, então você poderia me dizer o que gostaria de comer?"
+
+1013902-42 = "Eu acho que você pode fazer a maioria das coisas."
+
+1013902-43 = "[s] \"Eu ficaria feliz se Nico pudesse fazer isso para mim...\""
+
+1013902-47 = "[ns] \"Então...Recomendação do Nico [ruby=Curso Omakase][/ruby].\""
+
+1013902-48 = "Minha... recomendação? \r\n"
+
+1013902-49 = "Quando questionado sobre o prato em que tenho mais confiança... é verdade. #nÉ o sushi inari que sempre faço para todo mundo?"
+
+1013902-50 = "[s] \"Está tudo bem. Vou deixar isso para Nico.""
+
+1013902-51 = "Eu entendi. Por favor, espere um momento. \r\n"
+
+1013902-55 = "...Quando faço sushi assim, meio que me lembra daqueles dias. \r\n"
+
+1013902-56 = "[s] \"E a primeira vez que você conheceu Nico?\""
+
+1013902-57 = "sim. Naquela época, a professora também comia muito sushi inari."
+
+1013902-58 = "Essa foi uma estratégia para aliviar a cautela do professor, mas..."
+
+1013902-59 = "Mesmo assim, pelo menos o sushi inari foi feito com sinceridade."
+
+1013902-60 = "É um prato que todos do pelotão também adoram."
+
+1013902-61 = "[s] \"Por que você começou a fazer sushi inari?\""
+
+1013902-62 = "Foi isso que desencadeou isso? Isso mesmo."
+
+1013902-63 = "Pouco depois da criação do pelotão FOX, percebi que precisávamos de uma lancheira para quando as operações fossem longas."
+
+1013902-64 = "Mas naquela época eu não era muito bom em cozinhar... o máximo que conseguia fazer era sushi inari."
+
+1013902-65 = "Mesmo isso... eu não era muito bom nisso..."
+
+1013902-66 = "Mesmo assim, todos me incentivaram e disseram que estava uma delícia... isso me deixou feliz e comecei a fazer de novo."
+
+1013902-67 = "Hehe, essa é uma história estranha. #nNaquela época, eu não tinha nenhum apego especial ao sushi inari."
+
+1013902-68 = "[s] \"De alguma forma, sinto que entendo.""
+
+1013902-72 = "[ns5] \"O sabor da comida também é o tempero das memórias.\"\r\n[ns6] \"O Inarizushi de Nico está imbuído de tantas memórias.\""
+
+1013902-75 = "……Concordo. É um prato especial para mim."
+
+1013902-76 = "Então, enquanto conversávamos, o sushi inari foi concluído! \r\n\r\n"
+
+1013902-77 = "[s7] \"Já?\"\r\n[s8] \"É cedo.\""
+
+1013902-80 = "É um prato simples, basta rechear tofu frito cozido com arroz."
+
+1013902-81 = "Leva tempo para fritar o tofu frito do zero, mas se não fizer isso, você pode prepará-lo imediatamente."
+
+1013902-82 = "[s] \"Ok, eu aceito--\""
+
+1013902-83 = "Espere um minuto, senhor. \r\n"
+
+1013902-84 = "n / D. Você disse isso antes, certo? #nO jantar de hoje é minha recomendação."
+
+1013902-89 = "Este é o kitsune udon que fiz enquanto fervia o tofu frito. #nPor favor, aproveite esta noite. \r\n"
+
+1013902-90 = "Está frio esta noite, então acho que udon quente seria melhor para o corpo. \r\n"
+
+1013902-91 = "[s] \"Fico muito feliz pela sua consideração, mas e o sushi inari...?\""
+
+1013902-92 = "Tudo bem se estiver pronto, mas o sushi inari fica melhor se você deixar descansar um pouco... \r\n"
+
+1013902-93 = "……professor. De qualquer forma, você estava planejando não tomar café da manhã amanhã ou apenas tomá-lo em uma réplica, certo? \r\n"
+
+1013902-94 = "[ns] \"...Isso também é resultado da coleta de informações?\""
+
+1013902-95 = "Não, é apenas um palpite."
+
+1013902-96 = "O professor é surpreendentemente fácil de entender."
+
+1013902-97 = "Guarde este sushi inari na geladeira e saboreie-o amanhã de manhã."
+
+1013902-98 = "Além disso... por favor, não se esforce demais."
+
+1013902-99 = "Pois bem, professor, boa noite."
+
+1013902-101 = "(Depois, comi o udon kitsune que Nico fez e tive uma noite quente pela primeira vez em muito tempo.)"
+

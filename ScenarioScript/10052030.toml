@@ -1,42 +1,83 @@
 [translation]
-10052030-0002 = "Wh-wh-wha... WHAAAAAT!!"
-10052030-0003 = "Don't think you've won just yet!!"
-10052030-0008 = "Well then, shall we head back?"
-10052030-0009 = "...Yes."
-10052030-0018 = "[ns] \"Himari! Rio! Are you two alright?\""
-10052030-0019 = "Oh, Sensei. To think you'd be this worried. #n It seems my little exertion was worth it."
-10052030-0020 = "There's no need to worry about me ♪"
-10052030-0021 = "In fact, I think using this trick every time might be a good idea ♪"
-10052030-0022 = "I have a feeling that's not a good idea..."
-10052030-0023 = "[ns] \"That's right. Just like Rio said.\""
-10052030-0024 = "Dejected."
-10052030-0025 = "...Why are you acting so dejected on purpose?"
-10052030-0026 = "Either way, I'm just glad you're both safe."
-10052030-0027 = "Kei is worried about me too? #n Hehe, I'm already feeling better!"
-10052030-0028 = "Never mind that! Honestly!"
-10052030-0032 = "Chief, President. Can I have a moment? #n I think I found something like a core."
-10052030-0037 = "This is... a core?"
-10052030-0039 = "Kei, can you confirm it?"
-10052030-0040 = "I'll try... #n Eimi, could you set it down on the ground?"
-10052030-0041 = "Huh? Got it."
-10052030-0045 = "..."
-10052030-0046 = "Understanding... Observer... [ruby=JEHOVAH ELOHIM]Jehovah Elohim[/ruby]... #n Silence and Greed, Abundance and Sorrow..."
-10052030-0047 = "...!"
-10052030-0048 = "Confirmed. It is indeed Binah's core."
-10052030-0049 = "You can tell without seeing the actual object?"
-10052030-0050 = "Yes, I can now."
-10052030-0051 = "...I see. #n The area around this hole is already under our control..."
-10052030-0052 = "In addition, this is like a gateway to the Steel Continent's network. #n Something like this is manageable."
-10052030-0053 = "And... there's something new I've learned about the Prophet's core."
-10052030-0054 = "What is it?"
-10052030-0055 = "First, let me recap what I told you before. #n The information held by the core can be installed into my body."
-10052030-0056 = "That means I will inherit the network's higher authority and divine power... the status of each Sephiroth."
-10052030-0057 = "And furthermore..."
-10052030-0058 = "By incorporating and applying the Prophet's core, we might be able to enhance the transport ship itself."
-10052030-0059 = "In what way...?"
-10052030-0060 = "Well... if we incorporate Binah's core into the transport ship, the transport ship will be able to use some of Binah's abilities and output."
-10052030-0061 = "It should be the same for the other Prophet's cores."
-10052030-0066 = "You don't mean...!!"
-10052030-0067 = "Just like I thought, Kei! A lifeform that utilizes the enemy's abilities!"
-10052030-0068 = "No, to put it another way, it's like..."
-10052030-0069 = "Please, at least use something else..."
+10052030-2 = "O que, o que, o que… naaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa! !"
+
+10052030-3 = "Não pense que você ganhou! !"
+
+10052030-8 = "Bem, vamos voltar."
+
+10052030-9 = "……Sim."
+
+10052030-18 = "[ns] \"Himari! Rio! Você está bem?\""
+
+10052030-19 = "Ah, senhor. Não acredito que você está tão preocupado comigo. #nValeu a pena o esforço."
+
+10052030-20 = "Não há necessidade de se preocupar♪"
+
+10052030-21 = "Tanto que acho uma boa ideia usar esse método sempre ♪"
+
+10052030-22 = "não acho que isso seja bom..."
+
+10052030-23 = "[ns] \"Isso mesmo. O Rio está certo.""
+
+10052030-24 = "Shobon."
+
+10052030-25 = "...Por que você está tão deprimido de propósito?"
+
+10052030-26 = "De qualquer forma, estou feliz que os dois estejam seguros."
+
+10052030-27 = "Kei ficará preocupado com você também? #nHehe, sinto que minha energia voltou!"
+
+10052030-28 = "Isso é bom! Absolutamente!"
+
+10052030-32 = "Diretor, presidente. Está tudo bem? Eu descobri algo como #ncore."
+
+10052030-37 = "Isso é... o núcleo?"
+
+10052030-39 = "Kay, você pode verificar?"
+
+10052030-40 = "Vou tentar.... #nAimi, você poderia abaixar isso no chão?"
+
+10052030-41 = "Sim? Entendi."
+
+10052030-45 = "……."
+
+10052030-46 = "Compreensão...observador...#nSilêncio e ganância, abundância e tristeza..."
+
+10052030-47 = "...!"
+
+10052030-48 = "Eu confirmei. Definitivamente o núcleo de Binah."
+
+10052030-49 = "Você pode dizer sem ver a coisa real?"
+
+10052030-50 = "Sim, agora."
+
+10052030-51 = "……Eu vejo. #nA área ao redor deste buraco já está sob nossa ocupação..."
+
+10052030-52 = "Além disso, é uma porta de entrada para a rede Steel Continent. #nEu não me importo muito com isso."
+
+10052030-53 = "E... aprendi algo novo sobre a essência do Profeta."
+
+10052030-54 = "O que é?"
+
+10052030-55 = "Primeiro, vamos revisar o que eu disse antes. #nAs informações contidas no núcleo podem ser instaladas em meu corpo."
+
+10052030-56 = "Isso significa que herdarei a autoridade superior e a autoridade divina da rede... o status de cada Sephirah."
+
+10052030-57 = "E ainda mais...."
+
+10052030-58 = "Ao incorporar e aplicar o Núcleo do Profeta, pode ser possível fortalecer a própria nave de transporte."
+
+10052030-59 = "De que maneira...?"
+
+10052030-60 = "Bem... se você incorporar o núcleo de Binar em uma nave de transporte, a nave de transporte será capaz de usar algumas das habilidades e resultados de Binar."
+
+10052030-61 = "A essência de outros profetas deveria ser semelhante."
+
+10052030-66 = "Sem chance! !"
+
+10052030-67 = "Afinal é isso, Kei! Uma forma de vida que usa as habilidades do inimigo!"
+
+10052030-68 = "Não, se eu tivesse que comparar com isso..."
+
+10052030-69 = "Pelo menos tente algo diferente..."
+

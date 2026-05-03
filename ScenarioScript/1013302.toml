@@ -1,63 +1,125 @@
 [translation]
-1013302-1 = "What is a Maid Robot?"
-1013302-2 = "(I'm worried about whether Rio is actually keeping her room clean...)"
-1013302-3 = "(I decided to go check on her.)"
-1013302-10 = "Sensei? Do you need something?"
-1013302-11 = "[ns1] \"...Oh?\"\n[ns2] \"Whoa...!!\""
+1013302-1 = "O que é um robô empregada?"
+
+1013302-2 = "(Estou preocupado se o Rio está arrumando seu quarto corretamente...)"
+
+1013302-3 = "(decidi dar uma olhada)"
+
+1013302-10 = "professor? Você precisa de alguma coisa?"
+
+1013302-11 = "[ns1] \"...Ah?\"\n[ns2] \"Ah...!!\""
+
 1013302-14 = "...?"
-1013302-15 = "[ns3] \"The room is clean...!\"\n[ns4] \"I knew you could do it if you tried!\""
-1013302-18 = "Ah, so you came because you were worried about that."
-1013302-19 = "I'm fine now. I have someone helping me with the cleaning. Since it's a good opportunity, I'll introduce you—"
-1013302-20 = "This is the housekeeping Avant-Garde-kun."
-1013302-25 = "I kept the base as is, but modified it to handle all sorts of housework."
-1013302-26 = "What do you think? I think it turned out quite well."
-1013302-27 = "[ns] \"So you weren't the one cleaning it yourself...\""
-1013302-30 = "I'm the one who built this Avant-Garde-kun, aren't I? Doesn't that mean it's synonymous with me doing the cleaning?"
-1013302-31 = "I would say this experiment is a complete success."
-1013302-32 = "Even after returning to the academy, I intend to keep having Avant-Garde-kun do the housework."
-1013302-33 = "It wouldn't be a bad idea to mass-produce them and spread them around, if possible."
-1013302-34 = "[s] \"In that case, a normal maid robot would be better!\""
-1013302-35 = "A maid robot...?"
-1013302-36 = "I believe that refers to a robot that helps with housework, correct?"
-1013302-37 = "If so, it meets the criteria."
-1013302-38 = "Avant-Garde-kun should count as a maid robot."
-1013302-39 = "Yes? There's a missing element?"
-1013302-40 = "...Ah, I see. I forgot something important."
-1013302-41 = "I didn't have it wear a maid outfit."
-1013302-42 = "Then, for the official version, let's have it wear a maid outfit and distribute it."
-1013302-43 = "[s] \"I'd like you to reconsider that!?\""
-1013302-44 = "I don't understand why."
-1013302-45 = "Wouldn't putting it in a maid outfit fulfill the requirements?"
-1013302-46 = "[s] \"I want you to be more particular about the appearance!\""
-1013302-50 = "Could you explain in a bit more detail?"
-1013302-51 = "What exactly is Sensei's ideal 'maid robot'?"
-1013302-52 = "[s] \"Cute and charming!\""
-1013302-53 = "I think Avant-Garde-kun is... cute and charming as well..."
-1013302-54 = "[s] \"A neat and elegant demeanor!\""
-1013302-55 = "Avant-Garde-kun is also... depending on how you look at it, perhaps."
-1013302-56 = "[s] \"A reliable presence that can do anything!\""
-1013302-57 = "Avant-Garde-kun is the same... isn't it?"
-1013302-58 = "[s] \"...And, a cute maid outfit!\""
-1013302-59 = "I believe we already discussed the maid outfit..."
-1013302-60 = "However, in that regard, Avant-Garde-kun still holds the advantage."
-1013302-61 = "For example, the girls in C&C wear maid outfits. But they aren't robots, so they aren't 'maid robots'."
-1013302-62 = "Even if I put one on Aris, she wouldn't become a 'maid robot'. She is a human, not a robot."
-1013302-63 = "But Avant-Garde-kun is a genuine robot."
-1013302-64 = "If I put a maid outfit on the housekeeping Avant-Garde-kun—"
-1013302-65 = "It's a proper maid robot."
-1013302-66 = "[s] (I-I'm starting to feel like that might be true... but...!)"
-1013302-67 = "...It seems there is still a discrepancy in our understanding."
-1013302-68 = "I didn't think our opinions would be this divided."
-1013302-69 = "If the two of us can't reach a conclusion, let's gather more opinions."
-1013302-70 = "For now, I'll go show everyone the Avant-Garde-kun wearing a maid outfit."
-1013302-71 = "A maid outfit and a robot—"
-1013302-72 = "Combined, that makes a maid robot."
-1013302-73 = "Faced with this fact, everyone will have no choice but to acknowledge it."
-1013302-74 = "[s] \"Where do you plan on getting a maid outfit...?\""
-1013302-75 = "Doesn't Toki have a spare?"
-1013302-76 = "[s] \"It definitely won't fit...!!\""
-1013302-77 = "In that case, I will modify Avant-Garde-kun to fit the size of the outfit."
-1013302-78 = "Regardless, I'm going to go borrow a maid outfit now."
-1013302-79 = "See you... later."
-1013302-83 = "[ns] \"Rio, you're serious about this...\""
-1013302-85 = "(I wonder what the result will be...)"
+
+1013302-15 = "[ns3] \"O quarto é lindo...!\"\n[ns4] \"Você consegue se tentar!\""
+
+1013302-18 = "Ah, você veio aqui porque estava preocupado com isso."
+
+1013302-19 = "Estou bem agora. Tenho um filho que vai me ajudar a limpar. #nComo é uma boa oportunidade, vou apresentá-la a você――"
+
+1013302-20 = "Cara vanguardista encarregado das tarefas domésticas."
+
+1013302-25 = "Mantive o modelo básico igual, mas modifiquei-o para poder fazer todo tipo de tarefas domésticas."
+
+1013302-26 = "O que você acha? Mas acho que não é um resultado ruim."
+
+1013302-27 = "[ns] \"Eu não estava limpando sozinho...\""
+
+1013302-30 = "Fui eu quem criou esse cara vanguardista? #nAcho que é a mesma coisa que eu limpar."
+
+1013302-31 = "Posso dizer com segurança que esta tentativa foi um grande sucesso."
+
+1013302-32 = "Mesmo se eu voltar para a escola, estou pensando em deixar Avant Garde-kun fazer o trabalho doméstico."
+
+1013302-33 = "Se tudo correr bem, não seria uma má ideia produzi-lo em massa e popularizá-lo."
+
+1013302-34 = "[s] \"Nesse caso, um robô empregada normal seria melhor!\""
+
+1013302-35 = "Empregada robô...?"
+
+1013302-36 = "Eu me pergunto se ele estava se referindo a um robô que ajuda nas tarefas domésticas."
+
+1013302-37 = "Nesse caso, as condições estão resolvidas."
+
+1013302-38 = "Avant-garde-kun também pode ser chamado de robô empregada."
+
+1013302-39 = "sim? Falta algum elemento?"
+
+1013302-40 = "...Ah, isso mesmo. Esqueci algo importante."
+
+1013302-41 = "Eu não a vesti com roupa de empregada."
+
+1013302-42 = "Na versão oficial, vamos espalhar a notícia vestindo-a com uma fantasia de empregada doméstica."
+
+1013302-43 = "[s] \"Você quer que eu reconsidere isso!?\""
+
+1013302-44 = "Eu não sei por quê."
+
+1013302-45 = "Não seria possível ter todos os elementos se você a vestisse com uma fantasia de empregada doméstica?"
+
+1013302-46 = "[s] \"Quero que você preste mais atenção na sua aparência!""
+
+1013302-50 = "Você poderia explicar com um pouco mais de detalhes?"
+
+1013302-51 = "Qual é o seu “robô empregada doméstica” ideal?"
+
+1013302-52 = "[s] \"Tão fofo e charmoso!\""
+
+1013302-53 = "Avant-garde-kun também... acho ele fofo e charmoso..."
+
+1013302-54 = "[s] \"Aparência limpa e elegante!\""
+
+1013302-55 = "Avant-garde-kun também... dependendo de como você olha para isso, ou algo assim."
+
+1013302-56 = "[s] \"Uma pessoa confiável que pode fazer qualquer coisa!\""
+
+1013302-57 = "Avant-garde-kun... não é a mesma coisa?"
+
+1013302-58 = "[s] \"...E uma linda roupa de empregada!\""
+
+1013302-59 = "Acho que já falamos sobre a fantasia de empregada, mas..."
+
+1013302-60 = "Porém, nesse aspecto, a Avant Garde ainda leva vantagem."
+
+1013302-61 = "Por exemplo, as crianças do C&C também usam roupas de empregada doméstica. #nNo entanto, eles não são robôs, portanto não são "robôs domésticos"."
+
+1013302-62 = "Mesmo se você vestir Alice, ela não se tornará uma “empregada robô”. #nEssa criança é um humano, não um robô."
+
+1013302-63 = "No entanto, Avant Garde é um verdadeiro robô."
+
+1013302-64 = "Se você vestir a ajudante doméstica Avant Garde com uma roupa de empregada..."
+
+1013302-65 = "Um maravilhoso robô empregada."
+
+1013302-66 = "[s] (Ei, estou começando a me sentir assim... mas...!)"
+
+1013302-67 = "...Parece que ainda há uma discrepância de entendimento."
+
+1013302-68 = "Nunca pensei que as opiniões fossem tão divididas."
+
+1013302-69 = "Se você não consegue encontrar uma solução entre duas pessoas, reúna mais opiniões."
+
+1013302-70 = "Por enquanto, vou mostrar a todos o Avant Garde-kun com roupa de empregada doméstica."
+
+1013302-71 = "Roupas de empregada e robôs..."
+
+1013302-72 = "Combinado, torna-se um robô doméstico."
+
+1013302-73 = "Todos deveriam ser forçados a admitir esse fato."
+
+1013302-74 = "[s] \"Onde você vai conseguir a roupa de empregada...?\""
+
+1013302-75 = "Eu me pergunto se Toki tem um sobressalente."
+
+1013302-76 = "[s] \"O tamanho definitivamente não cabe...!!\""
+
+1013302-77 = "Nesse momento, modificarei o Avant Garde-kun para caber no tamanho das roupas."
+
+1013302-78 = "De qualquer forma, vou pegar emprestada uma fantasia de empregada agora."
+
+1013302-79 = "では……後ほど。"
+
+1013302-83 = "[ns] \"リオ、本気なんだね……。\""
+
+1013302-85 = "(Eu me pergunto qual será o resultado...)"
+

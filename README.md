@@ -1,5 +1,7 @@
 # BA-TL-TEXT
 
+Brazilian Portuguese Translations Branch.
+
 This repository hosts community translations for game assets. Finalized translations are deployed to [BA-TL-Assets](https://github.com/Special-Operation-Decagrammaton/BA-TL-Assets).
 
 ### ✍️ How to Contribute

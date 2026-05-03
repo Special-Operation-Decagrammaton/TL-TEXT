@@ -1,142 +1,283 @@
 [translation]
-10053040-1 = "Episode 4;The Living Stone Statue"
-10053040-4 = "Whew... hah... the air is so fresh!\r\n"
-10053040-5 = "Huh, Sensei? Why are you walking so far behind?\r\n"
-10053040-6 = "[s1] \"A little... slower...\"\r\n[s2] \"My... legs... are at their limit...\""
-10053040-9 = "Haha, what's that about! You really need to exercise more often, you know?\r\n\r\n"
-10053040-14 = "No, Konoka is the abnormal one!\r\n"
-10053040-15 = "She wouldn't stop no matter how much I called her!!"
-10053040-16 = "Everyone is so out of shape... What about Director Mo?\r\n"
-10053040-21 = "Hah...! Haaaaah...!\r\n"
-10053040-22 = "You're on the verge of collapsing, aren't you?\r\n\r\n"
-10053040-23 = "But doesn't it feel refreshing to break a sweat?"
-10053040-24 = "Hah... phew...!\r\n"
-10053040-25 = "You don't even have the energy left to answer! Hahaha!\r\n"
-10053040-26 = "This isn't a laughing matter...!\r\n"
-10053040-33 = "Phew... finally... arrived at the first point...\r\n"
-10053040-34 = "Is this really the destination? There's nothing here, is there?"
-10053040-35 = "W-wait a second... let me catch my breath—\r\n"
-10053040-40 = "Revived! #nThis is definitely the first exploration spot on Mt. Shirakawa."
-10053040-41 = "It's only natural that there's nothing here. #nIf it were a place people frequented, the Tsuchinoko would have either fled or already been found."
-10053040-42 = "Well... now that you mention it, that's true..."
-10053040-46 = "...Hey, just to be sure, I'll ask one more time."
-10053040-47 = "Are you seriously planning to search this entire mountain? For a fat snake that we don't even know exists?"
-10053040-52 = "...If there is—"
-10053040-53 = "a Tsuchinoko on this mountain.\r\n"
-10053040-57 = "(30 minutes later...)"
-10053040-61 = "............"
-10053040-66 = "Hey! Isn't it too early to give up!?"
-10053040-67 = "Just now... I had an out-of-body experience... therefore... the existence of the soul has been proven... Q.E.D."
-10053040-68 = "What are you talking about...\r\n"
-10053040-69 = "What about Sensei...?"
-10053040-70 = "[ns5] \"My body is wrecked from all the desk work...!\"\r\n[ns6] (There is no reply, they look like a mere corpse)"
-10053040-73 = "You two are pathetic...\r\n"
-10053040-74 = "...Why are you grinning?"
-10053040-75 = "Hmm? Was I making that face?\r\n"
-10053040-76 = "You were. Your mouth was stretched all the way to your ears."
-10053040-77 = "Hmm... no, it's nothing, really."
-10053040-78 = "It's just that doing things together is unexpectedly fun.\r\n\r\n"
-10053040-79 = "...I suppose so."
-10053040-80 = "Hey, I've been curious about something..."
-10053040-81 = "Tsubasa, don't you join any clubs?"
-10053040-82 = "Wouldn't that give you more opportunities to interact with people?"
-10053040-83 = "Ah...\r\n\r\n"
-10053040-87 = "Well... how should I put it... It's a bit complicated to explain to an outsider.\r\n"
-10053040-88 = "I was in one. But... I couldn't continue."
-10053040-89 = "You see, my club—"
-10053040-90 = "was disbanded. Due to performance issues and various other things.\r\n"
-10053040-91 = "...Sorry.\r\n"
-10053040-92 = "No, it's fine. Don't worry about it. I haven't given up yet.\r\n"
-10053040-93 = "Millennium is a meritocratic academy. #nSo, if we can discover a Tsuchinoko, we might be able to revive the club with that achievement!"
-10053040-94 = "Well, I've never heard of a club being revived, though...\r\n\r\n"
-10053040-95 = "Regardless, I'll help. Even though I don't think the Tsuchinoko is actually here."
-10053040-96 = "That's fine. Even a wrong hypothesis has value if it's verified and disproven."
-10053040-97 = "...More importantly, I don't see Konoka-kun."
-10053040-98 = "I saw her running off earlier, shouting something about finding something.\r\n"
-10053040-99 = "Let's go check on her. Konoka-kun is the most delicate among us, after all."
-10053040-100 = "...Are you serious?"
-10053040-101 = "What do you mean by that?"
-10053040-103 = "U-uaaaaah..."
-10053040-104 = "What was that listless scream just now...?"
-10053040-105 = "Could something have happened to Konoka-kun...!? Let's hurry!"
-10053040-109 = "U-uwaaaaah...! S-Sensei... help me...!"
-10053040-110 = "[s7] \"Are you okay!?\"\n[s8] \"Your face is pale!\""
-10053040-113 = "W-well, you see... something was buried in the ground... so I dug it up... and...!"
-10053040-118 = "I messed up."
-10053040-119 = "What is this!? It looks ominous just by looking at it!?"
-10053040-120 = "It looks like an old wooden box. I can't tell the exact age without examining it, but..."
-10053040-121 = "The fact that the paper talisman is intact suggests it's likely not that old."
-10053040-122 = "This isn't the time for calm analysis! This is the real deal, isn't it!?"
-10053040-126 = "W-w-w-what do we do!? Is it safe if we bury it back!? Should I dig it back in right now!?\r\n\r\n"
-10053040-127 = "Wait. Aren't you going to open it?"
-10053040-129 = "LIKE I WOULD!!!!\r\n\r\n\r\n"
-10053040-134 = "No, please listen calmly. #nWhile media tends to emphasize them as evil, talismans are originally made to wish for happiness.\r\n"
-10053040-135 = "In short, they are more often than not good luck charms."
-10053040-136 = "At the very least, this one isn't! Just looking at it, it's a curse, right!?"
-10053040-137 = "Ah, I get it! The Director is a Water-type, right!? #nThat's why you're trying to bring a curse upon me, a Fire-type!"
-10053040-139 = "I-I'm also... on the side of burying it back, if possible...\r\n"
-10053040-140 = "I-it's not like I believe in curses or anything! #nBut it's just bad manners to open something someone else buried, right!\r\n"
-10053040-142 = "Hmm...\r\n"
-10053040-148 = "[ns9] \"Ah...\"\r\n[ns10] \"It opened...\""
-10053040-154 = "This is... a stone statue? It looks like a doll made of stone."
-10053040-155 = "You found something seriously dangerous, didn't you!?"
-10053040-156 = "No, it's just a stone doll. There's nothing to be afraid of."
-10053040-157 = "A stone doll came out of a box wrapped in talismans, you know!? #nAt this point, it's definitely not \"just\" anything!!"
-10053040-162 = "It's fine. Unfortunately, this is a fake.\r\n"
-10053040-163 = "A fake?\r\n"
-10053040-168 = "Yes. It's almost certainly not stone. It's too light for stone, and the surface texture is too uniform."
-10053040-169 = "It's likely plastic... a replica made by mixing stone powder with resin. #nIn other words, it's likely a mass-produced item, not a craft."
-10053040-170 = "The box, on the other hand, is wooden and somewhat old. #nIt's probably a setup to make the contents look authentic.\r\n\r\n"
-10053040-176 = "Who would go through such an elaborate prank...\r\n"
-10053040-178 = "Actually, these kinds of setups are quite common."
-10053040-179 = "Video content, AR games, noise marketing... the reasons vary."
-10053040-180 = "There are even cases of bad taste where they just want to surprise whoever finds it.\r\n"
-10053040-181 = "You run into these things often when exploring ruins."
-10053040-187 = "See! It wasn't a big deal after all, right? #nRight, Sensei!\r\n"
-10053040-188 = "[s11] \"D-don't put me on the spot...\"\r\n[s12] \"But I'm glad it's a fake. Now Konoka can rest easy—\""
-10053040-195 = "I'm digging! A hole!\r\n"
-10053040-197 = "...Huh?\r\n\r\n"
-10053040-199 = "Even if it's a prank, as long as it's filled with malice, it's still an ominous object!"
-10053040-200 = "So, to make sure there's not even a one-in-a-million chance! #nI'll seal it at a depth where no one can ever dig it up again!!\r\n"
-10053040-201 = "There is some logic to that, but... if we want to reduce the number of victims, we should be the ones to collect it—"
-10053040-202 = "NO!! This was something that should never have been brought to the surface!!\r\n"
-10053040-203 = "That's why I'm burying it to the depths of the earth!!"
-10053040-205 = "Come on, grab a shovel!!! Start!!!\r\n\r\n"
-10053040-207 = "Ehh!?"
-10053040-208 = "...H-hey, wait a minute!?\r\n\r\n"
-10053040-217 = "Phew! Sealing complete!! That settles that!\r\n\r\n"
-10053040-218 = "Man, that feels refreshing! My mind and body feel light! Hahahaha!"
-10053040-223 = "Hah... hah... Is that girl tireless...?\r\n"
-10053040-224 = "............\r\n"
-10053040-229 = "Didn't she dig about 10 meters by herself...?"
-10053040-230 = "The last time I measured, it was 8 meters...\r\n"
-10053040-232 = "Eh~, you're exaggerating."
-10053040-233 = "I just played in the dirt a little."
-10053040-234 = "Don't talk about it like it's a sandbox in a park..."
-10053040-235 = "Hey, are all Valkyries like this?"
-10053040-236 = "No, no, I'm still a beginner! Kanna-ane-go is even more amazing.\r\n"
-10053040-241 = "...\r\n\r\n"
-10053040-242 = "I'm going to live a virtuous life."
-10053040-243 = "...Same here."
-10053040-248 = "Well then, shall we—"
-10053040-252 = "head down the mountain?\r\n"
-10053040-253 = "[s13] \"Hooray!!!!\"\r\n[s14] \"Is the Tsuchinoko hunt over?\""
-10053040-254 = "That sounds like I forced you all to come along."
-10053040-255 = "Well, dragging people along is my day job, though, hahaha!\r\n\r\n"
-10053040-259 = "We still have plenty of days left, and it's already evening."
-10053040-260 = "Or rather... after seeing something like that, I don't feel like searching anymore...\r\n\r\n"
-10053040-265 = "Phew... finally over.\r\n\r\n"
-10053040-266 = "...All that trouble and zero results."
-10053040-267 = "If it could be found in a single day, it wouldn't be called a legendary creature."
-10053040-268 = "That... might be true, but."
+10053040-1 = "Episódio 4; Estátua de pedra viva e em movimento"
+
+10053040-4 = "Então... ha... o ar está tão bom! \r\n"
+
+10053040-5 = "Hein, professora? Por que você está andando tão atrás de mim? \r\n"
+
+10053040-6 = "[s1] \"Um pouco mais devagar...\"\r\n[s2] \"Minhas pernas...estão no limite...\""
+
+10053040-9 = "Haha, é isso! Você tem que se exercitar regularmente, certo?\r\n\r\n"
+
+10053040-14 = "Não, Konoka é anormal! \r\n"
+
+10053040-15 = "Não importa quantas vezes eu ligue, não vai parar! !"
+
+10053040-16 = "Parece que todo mundo está com falta de exercício... E o Diretor Mo? \r\n"
+
+10053040-21 = "Huh...! Haaa...! \r\n"
+
+10053040-22 = "Está um pouco abaixo. \r\n\r\n"
+
+10053040-23 = "Mas suar faz você se sentir revigorado, certo?"
+
+10053040-24 = "Haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...! \r\n"
+
+10053040-25 = "Você nem tem forças para responder? Ahaha! \r\n"
+
+10053040-26 = "Não é motivo de riso...! \r\n"
+
+10053040-33 = "Ufa... finalmente... chegamos ao primeiro ponto... \r\n"
+
+10053040-34 = "Este é realmente o destino? Nada? \r\n"
+
+10053040-35 = "Ei, espere um minuto... vou recuperar o fôlego ――\r\n"
+
+10053040-40 = "avivamento! #nEste é definitivamente o primeiro local a explorar o Monte. Shirakawa."
+
+10053040-41 = "Claro que não há nada. #nSe for um lugar por onde passam pessoas, Tsuchinoko ou fugiu ou foi encontrado."
+
+10053040-42 = "Bem... se você me perguntar, isso é verdade..."
+
+10053040-46 = "...Ei, vou perguntar mais uma vez só para ter certeza."
+
+10053040-47 = "Você vai mesmo vasculhar toda esta montanha? Por uma cobra gorda que nem sei se está aí?"
+
+10053040-52 = "...nesta montanha..."
+
+10053040-53 = "Se houver um Tsuchinoko. \r\n"
+
+10053040-57 = "(30 minutos depois...)"
+
+10053040-61 = "…………."
+
+10053040-66 = "um pouco! Não é cedo para desistir! ?"
+
+10053040-67 = "Acabei de ter um projeto extracorpóreo... Portanto... a existência de almas foi comprovada... Q.E.D."
+
+10053040-68 = "Do que você está falando... \r\n"
+
+10053040-69 = "A professora...?"
+
+10053040-70 = "[ns5] \"O acúmulo de trabalho administrativo danificou meu corpo...!\"\r\n[ns6] (É como um cadáver sem respostas)"
+
+10053040-73 = "Tenho pena dos dois.... \r\n"
+
+10053040-74 = "...Por que você está sorrindo?"
+
+10053040-75 = "Sim? Ele parecia assim? \r\n"
+
+10053040-76 = "Eu estava fazendo isso. Os cantos de sua boca subiram até as orelhas."
+
+10053040-77 = "Hmm... não, não é grande coisa."
+
+10053040-78 = "É surpreendentemente divertido fazer algo juntos. \r\n\r\n"
+
+10053040-79 = "……Concordo."
+
+10053040-80 = "Oi, fiquei um pouco curioso..."
+
+10053040-81 = "Tsubasa não participa das atividades do clube?"
+
+10053040-82 = "Isso não lhe daria mais oportunidades de interagir com as pessoas?"
+
+10053040-83 = "um……. \r\n\r\n"
+
+10053040-87 = "Isso... o que você disse...? É um pouco difícil de explicar para quem está de fora. \r\n"
+
+10053040-88 = "Eu estava lá. Mas... eu não pude continuar."
+
+10053040-89 = "Bem, as atividades do nosso clube são――"
+
+10053040-90 = "Foi descontinuado. Existem várias conquistas e coisas assim. \r\n"
+
+10053040-91 = "……desculpe. \r\n"
+
+10053040-92 = "Não, está tudo bem. Eu não me importo. Não é como se eu tivesse desistido ainda. \r\n"
+
+10053040-93 = "Millennium é uma escola baseada no mérito. #nEntão, se conseguirmos encontrar Tsuchinoko, poderemos reanimar o clube com os resultados!"
+
+10053040-94 = "Bem, eu não ouvi falar de nenhum caso de ser revivido... \r\n\r\n"
+
+10053040-95 = "Por enquanto, vou cooperar. Eu não acho que exista nenhum Tsuchinoko."
+
+10053040-96 = "Tudo bem, no entanto. Há valor em validar e negar até mesmo hipóteses incorretas."
+
+10053040-97 = "...Mais importante, não consigo ver Konoka-kun."
+
+10053040-98 = "Eu o vi fugindo gritando que havia encontrado alguma coisa. \r\n"
+
+10053040-99 = "Vamos ver o que está acontecendo. Konoka-kun é o mais delicado entre nós."
+
+10053040-100 = "...Você está falando sério?"
+
+10053040-101 = "O que você quer dizer?"
+
+10053040-103 = "Uh, aaaaa...."
+
+10053040-104 = "Qual é o atual grito de fraqueza...?"
+
+10053040-105 = "Nunca pensei que algo iria acontecer com Konoka-kun...! ? Vamos nos apressar!"
+
+10053040-109 = "Uau...! S-sensei... por favor me ajude...!"
+
+10053040-110 = "[s7] \"Você está bem!?\"\n[s8] \"Seu rosto está pálido!\""
+
+10053040-113 = "Bem... havia algo enterrado no chão... então eu desenterrei...!"
+
+10053040-118 = "Eu fiz algo errado."
+
+10053040-119 = "O que é isso! ? Parece ameaçador! ?"
+
+10053040-120 = "Parece uma velha caixa de madeira. Não saberei o ano exato até investigar..."
+
+10053040-121 = "O fato de o amuleto de papel estar intacto significa que provavelmente não é tão antigo."
+
+10053040-122 = "Este não é o momento de analisar isso com calma! Isso é uma coisa real! ?"
+
+10053040-126 = "O que você vai fazer? ? É seguro se eu preencher? ? Você quer cavar agora? ? \r\n\r\n"
+
+10053040-127 = "Espere. Por que você não abre?"
+
+10053040-129 = "Você pode abri-lo? ! ! ! \r\n\r\n\r\n"
+
+10053040-134 = "Não, quero que você se acalme e ouça. #nEmbora tendam a ser enfatizadas na mídia como algo ruim, as notas são feitas para desejar felicidade. \r\n"
+
+10053040-135 = "A questão é que, em muitos casos, é na verdade um amuleto da sorte."
+
+10053040-136 = "Pelo menos este é diferente! ? Pelo que parece, é uma maldição! ?"
+
+10053040-137 = "Ah, eu entendo! O diretor é do atributo água! ? #nÉ por isso que ele está tentando trazer o desastre para mim, que tenho um atributo de fogo!"
+
+10053040-139 = "Eu também... gostaria de preencher se possível... \r\n"
+
+10053040-140 = "Bem, não é como se eu acreditasse em maldições ou algo assim! #nMas é falta de etiqueta abrir algo que outra pessoa enterrou sem permissão! \r\n"
+
+10053040-142 = "Hum... \r\n"
+
+10053040-148 = "[ns9] \"Ah...\"\r\n[ns10] \"Eu abri...\""
+
+10053040-154 = "Isto é... uma estátua de pedra? Parece uma boneca feita de pedra."
+
+10053040-155 = "Algo realmente perigoso saiu! ?"
+
+10053040-156 = "Não, é apenas uma boneca de pedra. Não tenha medo."
+
+10053040-157 = "Uma boneca de pedra saiu de uma caixa embrulhada em notas! ? #nNeste ponto, não é "só" de jeito nenhum! !"
+
+10053040-162 = "Tudo bem. Infelizmente, isso é uma farsa. \r\n"
+
+10053040-163 = "falso? \r\n"
+
+10053040-168 = "ah. Em primeiro lugar, definitivamente não é uma pedra. É muito leve para uma pedra e a textura da superfície é muito uniforme."
+
+10053040-169 = "Provavelmente é plástico... é uma imitação feita de resina misturada com pó de pedra. #nEm outras palavras, há uma grande probabilidade de que seja um item produzido em massa e não um item artesanal."
+
+10053040-170 = "A caixa, por outro lado, é de madeira e um tanto antiga. #nProvavelmente é um truque para fazer o conteúdo parecer real. \r\n\r\n"
+
+10053040-176 = "Quem poderia fazer uma pegadinha tão elaborada...? \r\n"
+
+10053040-178 = "Surpreendentemente, há muitas pessoas que preparam esse tipo de coisa."
+
+10053040-179 = "Material de vídeo, jogos de RA, marketing barulhento... os motivos são vários."
+
+10053040-180 = "Parece que há casos em que as pessoas só querem surpreender quem o encontrou, e isso é de mau gosto. \r\n"
+
+10053040-181 = "Isso é algo que encontro frequentemente ao explorar ruínas."
+
+10053040-187 = "Ver! Afinal, não foi grande coisa, certo? #nEi, professor! \r\n"
+
+10053040-188 = "[s11] \"Oh, não acene para mim...\"\r\n[s12] \"Mas estou feliz que seja falso. Agora Konoka pode se sentir à vontade――\""
+
+10053040-195 = "Eu vou cavar! Buraco! \r\n"
+
+10053040-197 = "……dentes? \r\n\r\n"
+
+10053040-199 = "Mesmo que seja apenas uma brincadeira, desde que esteja cheio de intenções maliciosas, ainda é algo sinistro!"
+
+10053040-200 = "Portanto, certifique-se de que nada aconteça! #nVou selá-lo em uma profundidade que ninguém poderá desenterrar! ! \r\n"
+
+10053040-201 = "Em teoria faz sentido, mas... se vamos reduzir o número de vítimas, seria melhor que o recolhêssemos..."
+
+10053040-202 = "Não! ! Essa coisa não deveria ter caído no chão! ! \r\n"
+
+10053040-203 = "É por isso que vou enterrá-lo nas profundezas da terra! !"
+
+10053040-205 = "Ei, pegue uma pá! ! ! Começar! ! ! \r\n\r\n"
+
+10053040-207 = "Eh! ?"
+
+10053040-208 = "...Espere um minuto! ? \r\n\r\n"
+
+10053040-217 = "Ufa! Selo concluído! ! O assunto está resolvido agora! \r\n\r\n"
+
+10053040-218 = "Nossa, me senti revigorado! Sinta-se leve na mente e no corpo! Ahahaha!"
+
+10053040-223 = "Suspiro…suspiro…. Essa criança não é incansável...? \r\n"
+
+10053040-224 = "…………. \r\n"
+
+10053040-229 = "Ele não cavou cerca de 10 metros sozinho...?"
+
+10053040-230 = "A última vez que medi, eram 8 metros... \r\n"
+
+10053040-232 = "Uau, isso é um exagero."
+
+10053040-233 = "Mesmo que eu estivesse apenas brincando um pouco."
+
+10053040-234 = "Não diga isso como uma caixa de areia em um parque..."
+
+10053040-235 = "Ei, todas as Valquírias são assim?"
+
+10053040-236 = "Não, não, ainda tenho um longo caminho a percorrer! A irmã mais velha de Kanna é ainda mais incrível. \r\n"
+
+10053040-241 = "……. \r\n\r\n"
+
+10053040-242 = "Vou viver uma vida boa."
+
+10053040-243 = "...Mesmo."
+
+10053040-248 = "Bem, já era hora..."
+
+10053040-252 = "Você quer descer? \r\n"
+
+10053040-253 = "[s13] \"Viva!!!\"\r\n[s14] \"A busca por Tsuchinoko acabou?\""
+
+10053040-254 = "Não parece que eu a forcei aqui?"
+
+10053040-255 = "Bem, tirar as pessoas é meu verdadeiro trabalho, haha! \r\n\r\n"
+
+10053040-259 = "Ainda falta muito tempo e já é noite."
+
+10053040-260 = "Ou melhor... depois de ver algo assim, ainda não tenho vontade de procurar... \r\n\r\n"
+
+10053040-265 = "Suspiro... finalmente terminou. \r\n\r\n"
+
+10053040-266 = "...Trabalhei tanto e não obtive nenhum resultado."
+
+10053040-267 = "Se você conseguir encontrá-lo em um dia, não será chamado de criatura lendária."
+
+10053040-268 = "Isso pode ser verdade."
+
 10053040-276 = "Huh?"
-10053040-277 = "Did something just move in the bushes? An animal...?"
-10053040-281 = "...!!!\r\n"
-10053040-282 = "KYAAAAAAAHHHHHHH!!!!"
-10053040-286 = "[ns15] \"Rena!?\"\r\n[ns16] Look where Rena was looking."
-10053040-290 = "(The stone statue we definitely buried was looking at us from between the trees...!)"
-10053040-291 = "(............)"
-10053040-292 = "(And somehow, it looked dirtier than when we first saw it... and it looked exhausted, too.)"
-10053040-293 = "Sensei~ what are you doing~?"
-10053040-297 = "(When I looked away, the stone statue had vanished.)"
-10053040-298 = "(...I feel like I've incurred some strange grudge.)"
+
+10053040-277 = "Agora...alguma coisa se moveu nos arbustos? animal……?"
+
+10053040-281 = "...! ! ! \r\n"
+
+10053040-282 = "Kaaaaaaaaaaaaaaaa! ! ! !"
+
+10053040-286 = "[ns15] \"Lena!?\"\r\n[ns16] Veja para onde Lena estava olhando."
+
+10053040-290 = "(A estátua de pedra que deveria estar enterrada ali estava olhando para nós por entre as árvores...!)"
+
+10053040-291 = "None"
+
+10053040-292 = "(E por alguma razão, estava mais sujo do que quando o vi pela primeira vez... e parecia extremamente cansado.)"
+
+10053040-293 = "Professor, o que você está fazendo?"
+
+10053040-297 = "(Quando desviei o olhar, a estátua de pedra havia desaparecido.)"
+
+10053040-298 = "(...sinto que ganhei alguns ressentimentos estranhos.)"
+

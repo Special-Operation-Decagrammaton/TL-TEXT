@@ -1,48 +1,95 @@
 [translation]
-10052180-0001 = "Day of Wrath"
-10052180-0002 = "[log][FF6666]I saw a new heaven and a new earth.[/log]"
-10052180-0004 = "[log][FF6666]for the first heaven and the first earth had passed away,[/log]"
-10052180-0006 = "[log][FF6666]and the sea was no more.[/log]"
-10052180-0013 = "Huh?! What is this?!"
-10052180-0014 = "W-we're... being pulled into the sky!!!"
-10052180-0015 = "The energy of the Steel Continent... has begun to gather at the altar once more...!"
-10052180-0018 = "Cross this land, and build an altar on the summit of the desolate mountain."
-10052180-0019 = "When its live coal touches your lips, you shall be cleansed."
-10052180-0020 = "[ruby=CAST IN THE NAME OF GOD]Do this in the name of God[/ruby], [ruby=YE NOT GUILTY]there is no sin here[/ruby]."
-10052180-0025 = "This place is...?"
-10052180-0026 = "...The 'Altar'."
-10052180-0027 = "So Sensei was in a place like this just now..."
-10052180-0028 = "[s] \"Yeah...\""
-10052180-0030 = "B-but why us here...?"
-10052180-0031 = "Perhaps they 'invited' us to their stronghold."
-10052180-0032 = "I'm not sure if that's the right way to put it, but what an inflated ego."
-10052180-0033 = "T-Toki-san?! Th-that kind of talk isn't really appropriate at a time like this..."
-10052180-0038 = "[ns] \"Hinari! Can you call the transport ship here?\""
-10052180-0039 = "Yes... it's possible. It's parked nearby."
-10052180-0040 = "But why...?"
-10052180-0041 = "[ns1] \"For now, return to the transport ship!\"\n[ns2] \"Then, please analyze the Prophet's Cores we collected...!\"\n[ns3] \"Also, it would be helpful if you could provide remote data support!\""
-10052180-0046 = "[ns] (And then, if it comes to that...!)"
-10052180-0047 = "That's quite a big task for a request made on the spur of the moment."
-10052180-0048 = "(Could it be, they're anticipating a critical moment...!?)"
-10052180-0049 = "(But at that time, what about Sensei...?)"
-10052180-0050 = "..."
-10052180-0051 = "......"
-10052180-0052 = "........."
-10052180-0053 = "...Understood."
-10052180-0054 = "Yuzu! Momoi! Midori! Come with me!"
-10052180-0055 = "U-us!?"
-10052180-0056 = "Hinari-senpai!?"
-10052180-0060 = "Eek!?"
-10052180-0064 = "..."
-10052180-0065 = "[ns] \"Are you alright?\""
-10052180-0066 = "...Is this really the time to be worrying about others?"
-10052180-0067 = "Well, honestly, I feel like I'm going to die. It's like I have weights on my limbs."
-10052180-0068 = "But even as we speak, that person is trying to concentrate energy into the second divine body."
-10052180-0069 = "Hiding stealthily within the pillar of energy... What is their deal?#nAre they not satisfied unless the world revolves around them?"
-10052180-0070 = "Kei...? Are you really alright...?"
-10052180-0071 = "I'm fine.#n...No, I'm not, but I'll be fine."
-10052180-0072 = "I have to land a hit on them..."
-10052180-0075 = "..."
-10052180-0079 = "......"
-10052180-0083 = "........."
-10052180-0089 = "Even if I die! My anger won't be appeased!!"
+10052180-1 = "dia de raiva"
+
+10052180-2 = "[log][FF6666] Eu vi um novo céu e uma nova terra. [/registro]"
+
+10052180-4 = "[log][FF6666]O céu e a terra anteriores desaparecerão,[/log]"
+
+10052180-6 = "[log][FF6666] O mar também desapareceu. [/registro]"
+
+10052180-13 = "Sim! ? O que é isso! ?"
+
+10052180-14 = "N-nós...estamos sendo puxados pelo céu! ! !"
+
+10052180-15 = "A energia do Continente de Aço... começou a se reunir no altar novamente...!"
+
+10052180-18 = "Depois de cruzar esta terra, construa um altar no topo da montanha em ruínas."
+
+10052180-19 = "As brasas tocarão seus lábios e você ficará purificado."
+
+10052180-20 = "[ruby=CAST IN THE NAME OF GOD]Faça isso em nome de Deus[/ruby] e [ruby=YE NOT GUILTY]Não há pecado aqui[/ruby]."
+
+10052180-25 = "Aqui...?"
+
+10052180-26 = "...É um "altar"."
+
+10052180-27 = "A professora esteve em um lugar como esse há algum tempo..."
+
+10052180-28 = "[s] \"Sim...\""
+
+10052180-30 = "Mas, por que você nos trouxe aqui...?"
+
+10052180-31 = "Talvez ele tenha me “convidado” para sua fortaleza."
+
+10052180-32 = "Não sei se esta expressão está correta, mas sinto-me extremamente constrangido."
+
+10052180-33 = "E Toki-san! ? Bem, em momentos como este..."
+
+10052180-38 = "[ns] \"Himari! Você pode chamar um navio de transporte aqui?\""
+
+10052180-39 = "Sim... é possível. O avião está estacionado aqui perto."
+
+10052180-40 = "Mas por que...?"
+
+10052180-41 = "[ns1] \"Por enquanto, retorne à nave de transporte!\"\n[ns2] \"Além disso, analise os núcleos proféticos que você reuniu...!\"\n[ns3] \"Além disso, seria útil se você pudesse fornecer suporte remoto de dados!\""
+
+10052180-46 = "[ns] (E quando chegar a hora...!)"
+
+10052180-47 = "É um grande trabalho para um pedido feito tão rapidamente."
+
+10052180-48 = "(Em antecipação a uma emergência...!?)"
+
+10052180-49 = "(Mas naquela hora, a professora...?)"
+
+10052180-50 = "……."
+
+10052180-51 = "…………."
+
+10052180-52 = "………………."
+
+10052180-53 = "……Entendido."
+
+10052180-54 = "Yuzu! Momoi! Midori! Por favor, siga-me!"
+
+10052180-55 = "N-nós! ?"
+
+10052180-56 = "Himari Senpai! ?"
+
+10052180-60 = "Yay! ?"
+
+10052180-64 = "……."
+
+10052180-65 = "[ns] \"Você está bem?\""
+
+10052180-66 = "...É quando você está preocupado com alguém?"
+
+10052180-67 = "Bem, honestamente, sinto que vou morrer. Parece que estou colocando pesos nos meus membros."
+
+10052180-68 = "No entanto, mesmo ao fazer isso, ele tenta concentrar sua energia no segundo corpo divino."
+
+10052180-69 = "Escondido dentro de um pilar de energia, esgueirando-se... o que é isso? #nVocê não se sente satisfeito se o mundo não gira ao seu redor?"
+
+10052180-70 = "Kei...? Você está realmente bem...?"
+
+10052180-71 = "Tudo bem. #n...Não está tudo bem, mas está tudo bem."
+
+10052180-72 = "Se eu não lhe der uma chance..."
+
+10052180-75 = "……."
+
+10052180-79 = "…………."
+
+10052180-83 = "………………."
+
+10052180-89 = "Mesmo se eu morrer! O problema no meu estômago não vai embora! !"
+

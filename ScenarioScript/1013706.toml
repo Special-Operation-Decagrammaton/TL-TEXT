@@ -1,60 +1,119 @@
 [translation]
-1013706-1 = "Partner"
-1013706-2 = "(I took the bus out to the countryside to meet up with Konoka.)" 
-1013706-4 = "Sensei, over here~!" 
-1013706-5 = "Thanks for coming all this way.#nI really needed a partner, so..." 
-1013706-6 = "But there's regular training at Valkyrie today, so there was no one who could come with me." 
-1013706-7 = "[s] \"What do you need me to do?\""
-1013706-8 = "An investigative stakeout!"
-1013706-9 = "There's a suspect on the run, and apparently they got on a bus heading this way."
-1013706-10 = "They're an outsider so they'll stand out. I think asking around will get us a hit#nin no time!" 
-1013706-11 = "It's supposed to rain in the afternoon, so let's wrap this up quickly and go home!"
-1013706-12 = "Moving out~!"
-1013706-25 = "*Sigh*..."
-1013706-26 = "Nobody has seen them... what does that mean?"
-1013706-27 = "Asking around any more than this would probably be pointless, huh..."
-1013706-28 = "Could they have run into the mountains...?#nI'll search for them even if I have to tear through the tree roots!"
-1013706-29 = "[s] \"Please don't, I'd feel bad for the mountain animals!\""
-1013706-30 = "I'd put everything right back the way it was, of course.#nI mean, it was just a metaphor anyway..."
-1013706-31 = "It's getting late, so if we don't settle this in a hurry—"
+1013706-1 = "companheiro"
+
+1013706-2 = "(Peguei um ônibus e vim para o interior para conhecer Konoka.)"
+
+1013706-4 = "Professor, aqui!"
+
+1013706-5 = "Obrigado pelo seu trabalho duro. #nEu realmente preciso de um amigo..."
+
+1013706-6 = "No entanto, havia uma sessão regular de treinamento na Valquíria e ninguém estava disposto a vir comigo."
+
+1013706-7 = "[s] \"O que devo fazer?\""
+
+1013706-8 = "Investigação de entrevista!"
+
+1013706-9 = "Há um suspeito em fuga e parece que entrou num autocarro que vinha para cá."
+
+1013706-10 = "Como ele é um estranho, provavelmente se destacará e, se você perguntar a ele, será um sucesso!"
+
+1013706-11 = "Parece que vai chover à tarde, então vou terminar rápido e ir para casa!"
+
+1013706-12 = "Shutsudo~!"
+
+1013706-25 = "Suspirar..."
+
+1013706-26 = "O que você quer dizer com ninguém está assistindo?"
+
+1013706-27 = "Mesmo se eu te perguntar mais do que isso, é um pouco estranho..."
+
+1013706-28 = "Talvez ele tenha fugido para as montanhas...? #nVou cavar nas raízes da árvore para encontrá-lo!"
+
+1013706-29 = "[s] \"Sinto pena dos animais da montanha, então pare com isso!""
+
+1013706-30 = "Claro que vou restaurar as coisas ao normal. #n Ou melhor, é apenas um exemplo..."
+
+1013706-31 = "Está ficando tarde, então tenho que me apressar e resolver isso..."
+
 1013706-36 = "Huh?"
-1013706-37 = "Ugyaah! It's cold!!"
-1013706-38 = "Looks like we can take shelter from the rain over there!#nAh, jeez!!"
-1013706-41 = "(I hurried with Konoka towards a place where we could escape the rain.)"
-1013706-42 = "(Feeling very tired after multiple failed attempts, Konoka suddenly began #ntaking off her jacket.)"
-1013706-45 = "[wa:2172]― [log=코노카]Ahh-ah, [wa:1075]I'm soaking wet...[/log]"
-1013706-47 = "― [log=코노카]Uuu...[wa:570]it's cold[/log]"
-1013706-50 = "[wa:1586]― [log=코노카]it[wa:162] started raining down, huh[/log]"
-1013706-52 = "― [log=코노카]They said it wouldn't stop until tonight... [wa:500]Sigh...[wa:1761][/log]"
-1013706-55 = "― [log=코노카]Well, I guess it was just what I needed to cool my head down.[wa:2167][/log]"
-1013706-58 = "[ns] \"Are you okay? Have you calmed down?\""
-1013706-59 = "[wa:517]― [log=코노카]Huh? [wa:973]Ah, yeah, [wa:860]I guess.[/log]"
-1013706-61 = "― [log=코노카]It would be a lie [wa:487]if I say I'm not frustrated.[/log]"
-1013706-64 = "― [log=코노카]All that effort went to waste, now I ended up soaking wet...[wa:1753][/log]"
-1013706-67 = "[wa:556]― [log=코노카]But, it's just like the fortune teller predicted.[/log]"
-1013706-69 = "― [log=코노카]Having my partner right by my side made it a great day.[/log]"
-1013706-72 = "― [log=코노카]...Thanks to you, Sensei.[/log]"
-1013706-75 = "[wa:870]― [log=코노카]So, [wa:934]if I had to say...[/log]"
-1013706-77 = "― [log=코노카]I'm happy.[/log]"
-1013706-80 = "― [log=코노카]...Ah, [wa:276]no, [wa:607]I mean![/log]"
-1013706-82 = "― [log=코노카]I mean I'm lucky and happy that we get to take shelter from the rain like this![/log]"
-1013706-85 = "― [log=코노카]T-[wa:456]That's all... [wa:806]I meant...[/log]"
-1013706-88 = "..."
-1013706-89 = "Ah... umm, by \"happy\" I mean...#ny'know, because we avoided the worst-case scenario, and..."
-1013706-90 = "There's no particularly deep meaning to it—"
-1013706-95 = "Whoops, looks like someone beat us here."
-1013706-96 = "Sorry to interrupt you two lovebirds. It just started pouring out of nowhere."
+
+1013706-37 = "Eca! Está frio! !"
+
+1013706-38 = "Parece que podemos nos proteger da chuva ali! #nAh, também! !"
+
+1013706-41 = "(Ele correu para um lugar para ficar longe da chuva com Konoka.)"
+
+1013706-42 = "(Os ombros de Konoka caíram por causa de seus repetidos fracassos e de repente ela começou a tirar a jaqueta.)"
+
+1013706-45 = "[wa:2172]― [log=코노카]Ah, [wa:1075]Encharcado... [/log]"
+
+1013706-47 = "― [log=코노카]Uh...[wa:570]Samu. [/registro]"
+
+1013706-50 = "[wa:1586]― [log=코노카]A descida [wa:162] começou. [/registro]"
+
+1013706-52 = "― [log=코노카]Parece que não para até a noite...[wa:2261]Suspiro... [/log]"
+
+1013706-55 = "― [log=코노카]Bem, [wa:994][wa:1173]foi perfeito para esfriar minha cabeça. [/registro]"
+
+1013706-58 = "[ns] \"Você está bem? Acalme-se?\""
+
+1013706-59 = "[wa:517]― [log=코노카]はぇ？ [wa:973]ああ、[wa:860]うーん。 [/log]"
+
+1013706-61 = "― [log=코노카]Se eu disser [wa:487] que não me arrependo, [wa:995] estarei mentindo. [/registro]"
+
+1013706-64 = "― [log=코노카]Um monte de coisas [wa:273]Vou ser uma perda de tempo, [wa:1480]Vou ser um rato molhado... [/log]"
+
+1013706-67 = "[wa:556]― [log=코노카]No entanto, [wa:816] adivinhação [wa:481] está correta. [/registro]"
+
+1013706-69 = "― [log=코노카]Meu amigo estava [wa:217] ao meu lado, então [wa:1039] tive um bom dia [wa:425]. [/registro]"
+
+1013706-72 = "- [log=코노카]...Obrigado ao professor [wa:1002]. [/registro]"
+
+1013706-75 = "[wa:870]― [log=코노카]Então, [wa:934]Em vez――[/log]"
+
+1013706-77 = "― [log=코노카]Estou feliz. [/registro]"
+
+1013706-80 = "― [log=코노카]...Ah, [wa:376]Não, [wa:607]Isso! [/registro]"
+
+1013706-82 = "― [log=코노카]Assim eu [wa:337] posso me proteger da chuva, [wa:1249] tenho sorte [wa:490] estou feliz [wa:430] [wa:315]! [/registro]"
+
+1013706-85 = "― [log=코노카]Bem, [wa:456]É isso...[wa:806]Então... [/log]"
+
+1013706-88 = "……."
+
+1013706-89 = "Ah... bem, o que quero dizer com felicidade. #nBem, evitei o pior, então..."
+
+1013706-90 = "Especialmente o significado profundo..."
+
+1013706-95 = "Oh, havia um cliente na minha frente."
+
+1013706-96 = "Está muito quente lá dentro. Choveu de repente."
+
 1013706-97 = "...?"
-1013706-98 = "What, are you being chased too? You guys look like our kind of people."
-1013706-99 = "Oh, right. Have you seen any cops around here?"
-1013706-103 = "Are you kidding me..."
-1013706-105 = "[ns] \"If you're looking for Valkyrie, they're right here...\""
+
+1013706-98 = "O que, você está sendo perseguido também? #nSinto que você é parecido conosco."
+
+1013706-99 = "Ah, isso mesmo. Você viu um peixe-doce aqui perto?"
+
+1013706-103 = "Seriamente...?"
+
+1013706-105 = "[ns] \"Se for Valquíria, aqui...\""
+
 1013706-107 = "Eh..."
-1013706-108 = "Ah~! I suddenly feel like meditating under a waterfall!#nExcuse me then!!"
-1013706-112 = "Waaaaait!!!"
-1013706-116 = "Undercover operations are dirty fights, DIRTY!!"
-1013706-117 = "Alright, that's double the charges!"
-1013706-118 = "Why!?"
-1013706-119 = "For the crime of interrupting two lovebirds!"
-1013706-121 = "(Dashing out into the rain after the delinquent, Konoka apprehended the suspect#nin the blink of an eye.)"
-1013706-122 = "(On the way back, Konoka gazed out the window as the bus swayed along.)"
+
+1013706-108 = "Ah~! De repente tenho vontade de ir a uma cachoeira! #nEntão vá primeiro! !"
+
+1013706-112 = "Espere! ! !"
+
+1013706-116 = "Uma operação policial é covardia! !"
+
+1013706-117 = "Sim, duplique as taxas!"
+
+1013706-118 = "Por que! ?"
+
+1013706-119 = "Isso é um crime grave de obstrução!"
+
+1013706-121 = "(Konoka correu em direção ao delinquente na chuva e prendeu rapidamente o suspeito.)"
+
+1013706-122 = "(No caminho para casa, Konoka estava olhando pela janela enquanto era balançada pelo ônibus.)"
+

@@ -1,82 +1,163 @@
 [translation]
-1013803-1 = "I won't admit it!"
-1013803-2 = "(Following Rena's instructions, I headed to the meeting place.)"
-1013803-5 = "Ah, over here, over here!"
-1013803-6 = "[s1] \"At a bus stop at this hour?\"\n[s2] \"Where are you going?\""
-1013803-9 = "Um..."
-1013803-10 = "Right now..."
-1013803-11 = "I'm going to the ruins where ghosts are rumored to appear."
-1013803-12 = "[s] \"Wait, ghosts!?\""
-1013803-13 = "W-well, I don't have a choice!"
-1013803-14 = "I already told the seniors that I'd 'prove there's no such thing as ghosts'!"
-1013803-15 = "[s] \"It sounds like everyone else would want to come along, though.\""
-1013803-16 = "I told them not to come."
-1013803-17 = "They'd probably just play pranks or something..."
-1013803-18 = "And I'm the only one with an outing permit."
-1013803-19 = "But, going alone is... well, it's a little, you know..."
-1013803-20 = "[s] \"So that's where I come in.\""
-1013803-21 = "Well, it's not like I actually think they'll [ruby=appear]show up[/ruby]...!"
-1013803-22 = "Anyway, now we're even!"
-1013803-23 = "[s] \"Understood! I'll protect you, Rena!\""
-1013803-24 = "Sigh... how did it end up like this..."
-1013803-25 = "Oh, the bus is here."
-1013803-30 = "(And so, we arrived at a deserted place...)"
-1013803-31 = "The ruins are just ahead."
-1013803-32 = "It's been a notorious spot for a long time. #nThere were rumors of strange noises ever since the building was constructed."
-1013803-33 = "And apparently, you can still hear those noises now..."
-1013803-34 = "Kids who went there for a dare ended up fainting or feeling sick, #nso it seems like nobody goes near it anymore."
-1013803-35 = "[s] \"You're pretty well-informed, aren't you?\""
-1013803-36 = "W-well, obviously I'd look into what kind of place it is!"
-1013803-37 = "Come on, let's go! I'm going to prove that ghosts don't exist!"
-1013803-42 = "(And as we proceeded into the ruins...)"
-1013803-43 = "[ns] \"It's got quite an atmosphere...\""
-1013803-44 = "They say this place has seven mysteries."
-1013803-45 = "The first: the sound of tapping on windows echoing through the hallway at midnight."
-1013803-46 = "The second: the non-existent 13th staircase."
-1013803-47 = "The third: a figure wandering the halls."
-1013803-48 = "The fourth: a blood-stained cherry blossom tree visible from the window."
-1013803-49 = "The fifth: the sound of a bell heard from a broken speaker."
-1013803-50 = "The sixth: crying sounds leaking from the underground machine room."
-1013803-51 = "And the seventh—"
-1013803-52 = "—nobody knows what that one is yet."
-1013803-53 = "They say that disaster befalls anyone who notices it..."
-1013803-54 = "[s] \"Those all sound like stories I've heard before.\""
-1013803-55 = "R-right? They're common stories, aren't they?"
-1013803-56 = "Anyway. I plan to send photos to the seniors once I've checked them all."
-1013803-57 = "Nothing will happen, for sure. #nI'll prove there are no ghosts—"
-1013803-61 = "...!?"
-1013803-62 = "W-what...?"
-1013803-66 = "Eek...!!"
-1013803-70 = "[ns] \"The sound of tapping on windows echoing through the hallway at midnight...!\""
-1013803-71 = "T-there's no way anyone else is here besides us!"
-1013803-72 = "[s] \"Shall we go check?\""
-1013803-73 = "...!!"
-1013803-74 = "[s3] \"Don't worry.\"\n[s4] \"I won't let go of your hand.\""
-1013803-77 = "W-who's worried about that...!!"
-1013803-82 = "A-anyway, let's go!"
-1013803-91 = "Caw! Cawww...!"
-1013803-95 = "What, it's just a crow..."
-1013803-96 = "Why would it peck at the window? There's no food there."
-1013803-97 = "[s] \"Could it have been a real ghost instead of a crow...?\""
-1013803-98 = "Hiss!! No way!"
-1013803-99 = "First, I'm taking a picture! I have to leave proof that the hallway noise was just a crow."
-1013803-106 = "Look. It came out well, right? Nothing strange is in the photo."
-1013803-107 = "I'm going to keep investigating the seven mysteries!"
-1013803-109 = "(Contrary to her enthusiastic voice, Rena never let go of my hand.)"
-1013803-111 = "[ns] (I should be careful not to let go either.)"
-1013803-113 = "(And so, I began the investigation of the ruins with Rena.)"
-1013803-115 = "The hallway where a figure is said to appear"
-1013803-122 = "The place where the blood-stained cherry blossom tree is visible"
-1013803-127 = "The underground machine room where crying is said to be heard"
-1013803-137 = "(We checked all the places called the seven mysteries and took photos.)"
-1013803-138 = "(In the end, no ghosts appeared.)"
-1013803-140 = "Phew, just as I thought. #nThere's no way ghosts exist."
-1013803-141 = "It's all just animals or the building aging."
-1013803-142 = "Alright! I've got the proof, so let's head back. #nI have to show the seniors."
-1013803-143 = "[s5] \"I was able to prove there are no ghosts, but...\"\n[s6] \"Should we keep holding hands?\""
-1013803-146 = "T-that is..."
-1013803-147 = "I-it's not like I'm holding your hand because I'm scared!"
-1013803-148 = "I-it's dark... and it'd be dangerous if I tripped!"
-1013803-149 = "[s] \"Yeah, yeah, it's dangerous.\""
-1013803-151 = "(I walked Rena back to Wild Hunt.)"
-1013803-157 = "(And though I thought the ruin exploration had come to an end...)"
+1013803-1 = "Porque você não vai admitir isso!"
+
+1013803-2 = "(Fui para o local de encontro especificado por Lena)"
+
+1013803-5 = "Ah, aqui, aqui!"
+
+1013803-6 = "[s1] \"Você está no ponto de ônibus a esta hora?\"\n[s2] \"Onde você está indo?\""
+
+1013803-9 = "Bem..."
+
+1013803-10 = "a partir de agora……."
+
+1013803-11 = "Estou indo para uma ruína que dizem ser mal-assombrada."
+
+1013803-12 = "[s] \"O que, um fantasma!?\""
+
+1013803-13 = "Bem, não posso evitar!"
+
+1013803-14 = "Eu disse aos meus mais velhos: ``Vou provar que não existem fantasmas!''"
+
+1013803-15 = "[s] \"Todo mundo parece estar me seguindo.\""
+
+1013803-16 = "Eu disse para você não vir."
+
+1013803-17 = "Parece que vai ser uma brincadeira..."
+
+1013803-18 = "Sou o único com passe de viagem."
+
+1013803-19 = "Porém, ir sozinho é um pouco..."
+
+1013803-20 = "[s] \"É aí que eu entro.""
+
+1013803-21 = "Bem, eu realmente não acho que [ruby=・ ・]vai aparecer[/ruby], mas...!"
+
+1013803-22 = "とにかく、これで貸し借りなしよ！"
+
+1013803-23 = "[s] \"Entendido! Vou proteger Lena!\""
+
+1013803-24 = "Suspiro... eu me pergunto por que isso aconteceu..."
+
+1013803-25 = "あっ、バスが来たわ。"
+
+1013803-30 = "(Então chegamos a um lugar deserto...)"
+
+1013803-31 = "Em breve estará em ruínas."
+
+1013803-32 = "É um lugar onde eu costumava me divertir muito. #nHá rumores sobre ruídos estranhos desde que o prédio foi construído."
+
+1013803-33 = "E parece que ainda consigo ouvir aquele som..."
+
+1013803-34 = "As crianças que foram lá para testar sua coragem desmaiaram ou passaram mal, então ninguém parece mais se aproximar delas."
+
+1013803-35 = "[s] \"Você sabe bastante, não é?\""
+
+1013803-36 = "Bem, normalmente você descobriria como é!"
+
+1013803-37 = "ほら、行くわよ！ Vou provar para você que não existem fantasmas!"
+
+1013803-42 = "(E então, conforme avançamos pelas ruínas...)"
+
+1013803-43 = "[ns] \"Há uma certa atmosfera...\""
+
+1013803-44 = "Existem sete maravilhas neste lugar."
+
+1013803-45 = "O primeiro. O som de batidas na janela ecoou pelo corredor no meio da noite."
+
+1013803-46 = "Segundo. A 13ª escada que não existe."
+
+1013803-47 = "Terceiro. Uma figura vagando pelo corredor."
+
+1013803-48 = "Quarto. Uma cerejeira manchada de sangue pode ser vista da janela."
+
+1013803-49 = "Quinto. O som de uma campainha vindo de um alto-falante quebrado."
+
+1013803-50 = "Sexto. Sons de choro vazaram da sala de máquinas subterrânea."
+
+1013803-51 = "O sétimo é--"
+
+1013803-52 = "--Ninguém sabe disso ainda."
+
+1013803-53 = "Aqueles que perceberem isso serão confrontados com um desastre..."
+
+1013803-54 = "[s] \"Sinto que já ouvi tudo isso antes.""
+
+1013803-55 = "Ah, não é? Esta não é uma história comum?"
+
+1013803-56 = "de qualquer forma. Depois de verificar tudo, pretendo enviar fotos para meus idosos."
+
+1013803-57 = "Porque nada jamais acontecerá. #nProva de que não existem fantasmas――"
+
+1013803-61 = "...! ?"
+
+1013803-62 = "Naná, o que...?"
+
+1013803-66 = "Ei...! !"
+
+1013803-70 = "[ns] \"O som de batidas na janela ecoa no corredor no meio da noite...!\""
+
+1013803-71 = "E-não tem como ter mais ninguém além de nós!"
+
+1013803-72 = "[s] \"Vamos dar uma olhada.\""
+
+1013803-73 = "...! !"
+
+1013803-74 = "[s3] \"Não se preocupe.\"\n[s4] \"Eu nunca vou deixar você ir.""
+
+1013803-77 = "Bem, quem está tão preocupado...! !"
+
+1013803-82 = "De qualquer forma, vamos!"
+
+1013803-91 = "Ah! Ah...!"
+
+1013803-95 = "O que, não é um corvo..."
+
+1013803-96 = "Eu me pergunto por que ele cutucou a janela. Não há outro alimento."
+
+1013803-97 = "[s] \"Não era um corvo, era na verdade um fantasma...?\""
+
+1013803-98 = "Shhh! ! Isso não pode ser verdade!"
+
+1013803-99 = "Vamos tirar uma foto primeiro! Preciso deixar evidências de que o barulho no corredor era de um corvo."
+
+1013803-106 = "Olhar. Você está tirando boas fotos, não é? Não há coisas estranhas na foto."
+
+1013803-107 = "Continuarei investigando os Sete Mistérios nesse ritmo!"
+
+1013803-109 = "(Ao contrário de sua voz animada, Lena nunca largou sua mão.)"
+
+1013803-111 = "[ns] (Vamos ter cuidado para não me largar também)"
+
+1013803-113 = "(E então Lena e eu começamos a investigar as ruínas)"
+
+1013803-115 = "Corredor com sombra de uma pessoa"
+
+1013803-122 = "Onde você pode ver cerejeiras manchadas de sangue"
+
+1013803-127 = "Sala de máquinas subterrânea onde sons de choro podem ser ouvidos"
+
+1013803-137 = "(conferi e tirei fotos de todos os lugares chamados de Sete Maravilhas)"
+
+1013803-138 = "(No final, o fantasma não apareceu.)"
+
+1013803-140 = "Ufa, assim como pensei. #nNão existe fantasma."
+
+1013803-141 = "Tudo é causado por animais e edifícios envelhecidos."
+
+1013803-142 = "OK! Peguei algumas evidências, então vamos para casa. #nTenho que mostrar aos meus mais velhos."
+
+1013803-143 = "[s5] \"Consegui provar que não existem fantasmas, mas...\"\n[s6] \"Ainda devemos dar as mãos?\""
+
+1013803-146 = "Isso é..."
+
+1013803-147 = "べ、別に、怖くて繋いでるわけじゃないから！"
+
+1013803-148 = "Está escuro... e seria perigoso se eu caísse!"
+
+1013803-149 = "[s] \"Sim, sim, é perigoso.\""
+
+1013803-151 = "(Levei Lena para a Caçada Selvagem)"
+
+1013803-157 = "(Mesmo pensando que a exploração das ruínas havia chegado ao fim...)"
+

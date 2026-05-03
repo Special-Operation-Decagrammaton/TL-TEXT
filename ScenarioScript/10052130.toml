@@ -1,90 +1,179 @@
 [translation]
-10052130-0001 = "Yesod: Purifier of the Foundation-Governing Power"
-10052130-0004 = "I'm in position."
-10052130-0005 = "So we're climbing up there."
-10052130-0006 = "..."
-10052130-0007 = "What should we call that?"
-10052130-0008 = "Hmm... a wall?"
-10052130-0009 = "Yes. I think that's the most fitting name."
-10052130-0010 = "That Prophet, Yesod, was it?"
-10052130-0013 = "It gave us quite the welcome as soon as we arrived."
-10052130-0014 = "We managed to defeat it once, but..."
-10052130-0017 = "...It was literally like an ironclad guardian, wasn't it?"
-10052130-0018 = "Its epithet is completely different from [ruby=Path]Path[/ruby], though."
-10052130-0019 = "What was it again?"
-10052130-0020 = "Path is 'The Truth that Advances Towards Completion'."
-10052130-0021 = "Its epithet is 'Purifier of the Foundation-Governing Power'."
-10052130-0022 = "...You remember all of that?"
-10052130-0023 = "Because I had nothing else to do."
-10052130-0024 = "Huh...?"
-10052130-0025 = "...My apologies, that was a slip of the tongue.#nEveryone else has so much to do."
-10052130-0026 = "You said that reflexively again, didn't you?#nToki, you might want to learn to read the room a bit better."
-10052130-0027 = "Is that so? I'll be more careful from now on.#nAlso, it's true that I made that joke reflexively."
-10052130-0028 = "...Because I'm scared."
-10052130-0029 = "...Toki, do you feel scared too?"
-10052130-0030 = "Eimi?"
-10052130-0034 = "I'm scared too."
-10052130-0035 = "Everyone might think I'm—"
-10052130-0036 = "—that we're—"
-10052130-0037 = "—a bit strange as students, but..."
-10052130-0038 = "Our feelings are the same."
-10052130-0039 = "I hate troublesome things, and I want to be lazy."
-10052130-0040 = "If possible, I'd like to eat potato chips with Sensei and watch gameplay videos."
-10052130-0041 = "Gameplay videos?"
-10052130-0042 = "I'm currently in the process of finding a hobby."
-10052130-0043 = "It's what you'd call a 'temporary hobby'. V."
-10052130-0044 = "...Temporary?"
-10052130-0045 = "Yes. I'm a little interested in gameplay videos right now, but that might change again soon."
-10052130-0046 = "Do you have other 'temporary hobbies'?"
-10052130-0047 = "Hmm, I suppose games. Playing with Aris is fun.#nAlso, manga is decent."
-10052130-0048 = "After trying various things, I realized something.#nThat enjoyment includes a certain degree of irrationality and inefficiency."
-10052130-0049 = "Manga, games... I see."
-10052130-0050 = "It's not like I particularly like fighting either.#nIf there's a more efficient way to solve things, that would be better."
-10052130-0051 = "I wish everyone could just get along."
-10052130-0052 = "I wish this situation could have been like that too, but..."
-10052130-0053 = "I'm scared right now.#nThe thought that something might happen and Sensei or I won't see tomorrow..."
-10052130-0054 = "Just that thought makes my chest ache."
-10052130-0055 = "What about me?"
-10052130-0056 = "I'm worried about you, perhaps second only to myself and Sensei."
-10052130-0057 = "...Are you serious?"
-10052130-0058 = "It's a joke. There's no hierarchy in human lives."
-10052130-0059 = "...Thank you."
-10052130-0060 = "I don't want anyone to get hurt."
-10052130-0061 = "I want all suffering to disappear from everyone living in the present."
-10052130-0062 = "That... might be a bit difficult."
-10052130-0063 = "That's why everyone prays for the safety of at least those within their reach.#nThis world is full of scary things, after all."
-10052130-0064 = "The Department Head alone is a handful, but recently even the President..."
-10052130-0065 = "...And I'm really... worried about Sensei too."
-10052130-0066 = "I see. Maybe we should just lock Sensei in a Millennium-made shelter?"
-10052130-0067 = "If it's to guarantee Sensei's safety, that might be the most efficient method."
-10052130-0068 = "Are you planning to wage war against Kivotos?"
-10052130-0069 = "Very well. If that's your intention, I will proudly stand on the front lines."
-10052130-0070 = "...It was a joke."
-10052130-0071 = "I was joking too."
-10052130-0072 = "With Toki, you never know if she's joking or serious..."
-10052130-0073 = "Is that so? But thanks to that, I learned something."
-10052130-0074 = "Precisely because the situation is dangerous and difficult."
-10052130-0075 = "We should actively make jokes and laugh at trivial things."
-10052130-0076 = "...Otherwise, I won't be able to bear it."
-10052130-0077 = "So, is Toki's usual behavior an extension of that too?"
-10052130-0078 = "No, that's just me saying whatever comes to mind."
-10052130-0079 = "...That's so Toki, really."
-10052130-0088 = "Toki, Eimi, can you hear me? Our preparations are complete.#nWe'll match your movements, so you decide the timing for the assault."
-10052130-0089 = "We can finally see the end, can't we? It's been quite a long journey, but..."
-10052130-0090 = "This is the last Prophet, right?"
-10052130-0091 = "Technically, there are still two left. Netzach, who is the Steel Continent itself, and—"
-10052130-0092 = "Malkuth..."
-10052130-0093 = "Ugh... C-can we really defeat them...?"
-10052130-0094 = "It's alright, Yuzu! We all got new weapons and armor!#nKei has also leveled up a lot!"
-10052130-0095 = "Yes... I think we're better than before.#nWe can now utilize the Prophet's power to some extent, after all."
-10052130-0098 = "It feels like the time has come."
-10052130-0099 = "Yes."
-10052130-0104 = "I'll go first. I'll be leading the vanguard this time."
-10052130-0105 = "My armament is lighter than usual, and it feels good."
-10052130-0108 = "[ruby=Operation Steel Rain]Operation Steel Rain[/ruby]—"
-10052130-0109 = "Keep Yesod's attention firmly until everyone else descends."
-10052130-0112 = "Eimi, you were providing fire support from the rear, right?"
-10052130-0113 = "They said that's the most efficient way to use me in this operation."
-10052130-0114 = "Alright then, I'll leave it to you. Stay safe."
-10052130-0115 = "Good luck."
-10052130-0118 = "You too."
+10052130-1 = "Yesod: Purificador de poder que controla a fundação"
+
+10052130-4 = "Estou em posição."
+
+10052130-5 = "Vou subir em cima disso."
+
+10052130-6 = "……."
+
+10052130-7 = "Como devemos chamar isso?"
+
+10052130-8 = "Hmm... parede?"
+
+10052130-9 = "sim. Acho que esse é o nome mais adequado."
+
+10052130-10 = "Esse profeta foi Yesod."
+
+10052130-13 = "Assim que chegamos, eles nos deram uma recepção calorosa."
+
+10052130-14 = "Consegui derrotá-lo uma vez, mas..."
+
+10052130-17 = "...Literalmente, parecia um guardião revestido de ferro."
+
+10052130-18 = "[ruby=path]Path[/ruby] e o apelido são completamente diferentes."
+
+10052130-19 = "O que foi?"
+
+10052130-20 = "O caminho é “a verdade que caminha em direção à conclusão”."
+
+10052130-21 = "Outro nome é “Purificador do poder que controla a base”."
+
+10052130-22 = "...Você se lembra de tudo isso?"
+
+10052130-23 = "Porque não havia mais nada a fazer."
+
+10052130-24 = "foto……?"
+
+10052130-25 = "...Desculpe, isso foi uma gafe. #nPessoal, há muito o que fazer."
+
+10052130-26 = "Você disse isso de novo reflexivamente. #nPode ser bom para Toki aprender a ler um pouco mais a atmosfera."
+
+10052130-27 = "Entendo, terei cuidado de agora em diante. #nE é verdade que fiz uma piada por reflexo."
+
+10052130-28 = "...Porque é assustador."
+
+10052130-29 = "...Você acha que Toki também é assustador?"
+
+10052130-30 = "E quanto a Amy?"
+
+10052130-34 = "Estou com medo também."
+
+10052130-35 = "Todo mundo pensa em mim..."
+
+10052130-36 = "nós..."
+
+10052130-37 = "Você pode pensar que há algo diferente nesse aluno, mas..."
+
+10052130-38 = "Porque parece o mesmo."
+
+10052130-39 = "Não quero que as coisas sejam problemáticas e quero ser preguiçoso."
+
+10052130-40 = "Se possível, gostaria de assistir ao vídeo ao vivo enquanto como batata frita com meu professor."
+
+10052130-41 = "Vídeo ao vivo?"
+
+10052130-42 = "Atualmente estou procurando um hobby."
+
+10052130-43 = "É chamado de hobby (provisório). Sim."
+
+10052130-44 = "...Kakkokari?"
+
+10052130-45 = "sim. No momento estou um pouco interessado em vídeos ao vivo, mas isso pode mudar em breve."
+
+10052130-46 = "Você tem algum outro hobby (provisório)?"
+
+10052130-47 = "Hmm, afinal é um jogo. É divertido brincar com Alice. #nAlém disso, existem alguns quadrinhos também."
+
+10052130-48 = "Depois de tentar várias coisas, percebi uma coisa. #nO prazer inclui um certo grau de irracionalidade e ineficiência."
+
+10052130-49 = "Mangá e jogos... entendo."
+
+10052130-50 = "Eu particularmente não gosto de lutar também. #nSe houver uma maneira mais eficiente de resolver o problema, seria melhor."
+
+10052130-51 = "Eu gostaria que todos pudessem se dar bem."
+
+10052130-52 = "Eu gostaria que fosse assim nesta situação também..."
+
+10052130-53 = "Estou com medo agora. #nSe acontecer alguma coisa e eu achar que eu e meu professor não poderemos ver amanhã..."
+
+10052130-54 = "Só isso já faz meu coração doer."
+
+10052130-55 = "EU?"
+
+10052130-56 = "Ela está tão preocupada quanto eu e minha professora."
+
+10052130-57 = "...Você está falando sério?"
+
+10052130-58 = "Estou brincando. Não há altos ou baixos na vida humana."
+
+10052130-59 = "……obrigado."
+
+10052130-60 = "Não quero que ninguém se machuque."
+
+10052130-61 = "Quero que todas as pessoas que vivem hoje estejam livres do sofrimento."
+
+10052130-62 = "Isso... não é um pouco difícil?"
+
+10052130-63 = "Portanto, estou orando pela segurança de todos, pelo menos daqueles que estão ao nosso alcance. #nEste mundo está cheio de coisas assustadoras."
+
+10052130-64 = "Já é difícil ser o gerente geral, mas recentemente fui até o presidente..."
+
+10052130-65 = "...Eu também estou muito... preocupado com a professora."
+
+10052130-66 = "Bem, acho que deveria trancá-la no abrigo especial da Millennium."
+
+10052130-67 = "Esta pode ser a forma mais eficiente de garantir a segurança dos professores."
+
+10052130-68 = "Você está planejando entrar em guerra contra Kivotos?"
+
+10052130-69 = "Isso é bom. Se você quiser, estarei orgulhosamente na linha de frente."
+
+10052130-70 = "...É uma piada."
+
+10052130-71 = "Eu também estou brincando."
+
+10052130-72 = "Não sei se Toki é uma piada ou verdade..."
+
+10052130-73 = "é assim mesmo. Porém, graças a você, aprendi uma coisa."
+
+10052130-74 = "Isto porque é uma situação perigosa e difícil."
+
+10052130-75 = "Deveríamos fazer piadas ativamente e rir de histórias triviais."
+
+10052130-76 = "...Caso contrário, eu não seria capaz de suportar."
+
+10052130-77 = "Então, o trabalho habitual do Toki é uma extensão disso?"
+
+10052130-78 = "Não, só estou dizendo o que me veio à mente."
+
+10052130-79 = "...Realmente se parece com o Toki."
+
+10052130-88 = "Toki, Amy, vocês podem me ouvir? Os preparativos aqui estão completos. #nEu combinarei os movimentos, então cabe a você decidir quando entrar correndo."
+
+10052130-89 = "O fim está finalmente à vista. Foi um caminho bastante longo, mas..."
+
+10052130-90 = "Este é o último profeta, certo?"
+
+10052130-91 = "Para ser exato, ainda restam dois. Com Netzak do próprio Continente Steel――"
+
+10052130-92 = "Malchut…."
+
+10052130-93 = "Uuuu... Será que podemos derrotá-lo...?"
+
+10052130-94 = "Está tudo bem, Yuzu! Todos nós ganhamos novas armas e armaduras! #nKei também subiu muito de nível!"
+
+10052130-95 = "Sim... acho que está melhor do que antes. #nConsegui utilizar o poder do profeta até certo ponto."
+
+10052130-98 = "Parece que chegou a hora."
+
+10052130-99 = "sim."
+
+10052130-104 = "Eu irei em frente. Desta vez serei a ponta de lança."
+
+10052130-105 = "As armas são mais leves que o normal, o que é bom."
+
+10052130-108 = "[ruby=Operação Chuva de Aço]Operação Chuva de Aço[/ruby]――"
+
+10052130-109 = "Certifique-se de manter a atenção de Yesod até que todos desçam."
+
+10052130-112 = "Amy forneceu apoio de fogo pela retaguarda."
+
+10052130-113 = "Com essa estratégia, essa é a maneira mais eficiente de usá-la."
+
+10052130-114 = "Muito obrigado. Fique seguro."
+
+10052130-115 = "Boa sorte."
+
+10052130-118 = "Um para o outro."
+

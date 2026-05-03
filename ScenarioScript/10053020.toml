@@ -1,124 +1,247 @@
 [translation]
-10053020-1 = "Episode 2;A Girl With That Kind of Persona"
-10053020-2 = "Why are you here, Sensei!?"
-10053020-3 = "[s1] \"Huh!? Rena!?\"\n[s2] \"What are you doing here?\""
-10053020-6 = "What do you mean 'what'? I just filed a standard outing request."
-10053020-7 = "I mean, well... I know how our academy is viewed by others, but..."
-10053020-8 = "It's not like 'Wildhunt' keeps its students locked up, you know?"
-10053020-9 = "The outing procedure is just a bit of a hassle..."
-10053020-10 = "Huh? Sensei, do you know 'Gurumin'?"
-10053020-11 = "[s3] \"Yeah, I know her well.\"\n[s4] \"She's a junior from a past life.\""
-10053020-14 = "Ahaha, what kind of relationship is that?"
-10053020-15 = "Hiss!! Don't say weird things just because you're not the seniors! #nIt's going to make things complicated!!"
-10053020-16 = "And besides, why is Sensei here!?"
-10053020-17 = "We were supposed to go look for the Tsuchinoko as a group of three, right?"
-10053020-18 = "Sorry, sorry, I forgot to tell you."
-10053020-19 = "But hey, the more the merrier, right?"
-10053020-20 = "Don't push your extrovert logic on me..."
-10053020-21 = "Since Sensei and 'Gurumin'... Rena, seem to know each other, I'll skip the introductions."
-10053020-22 = "Well then—"
-10053020-30 = "..."
-10053020-35 = "[ns5] \"Why are you pointing at me...?\"\n[ns6] I match my finger to the one being held out."
-10053020-36 = "...So the telepathy failed."
-10053020-37 = "It seems I'm not on the same frequency as Sensei."
-10053020-41 = "...!"
-10053020-42 = "As I thought! Sensei, you possess the same aura as I do!"
-10053020-47 = "...Nice to meet you. And, welcome."
-10053020-48 = "My name is Tsubasa Hanemoto. #nI am the leader of this investigation team and the director of the 'Mo-Supernatural Phenomenon Research Institute'."
-10053020-49 = "Please, feel free to call me 'Director Tsubasa'."
-10053020-50 = "[ns7] \"Director...?\"\n[ns8] \"Um, Rena...?\""
-10053020-55 = "I know what you're thinking, but... #nRest assured, I'm a reasonable person."
-10053020-56 = "The 'Mo-Supernatural Phenomenon Research Institute' is just the name of the channel Tsubasa runs. #nShe's a streamer."
-10053020-57 = "So, well... it's just 'that kind of persona'."
-10053020-58 = "Persona? Rena, that's a bit harsh to hear."
-10053020-59 = "My institute is the one and only organization in Kivotos that investigates supernatural phenomena based on scientific methods."
-10053020-60 = "Isn't it just you, not an organization?"
-10053020-61 = "W-well, that's... there are some complicated adult circumstances involved..."
-10053020-62 = "Anyway, Sensei, please don't misunderstand!"
-10053020-63 = "Supernatural phenomena are not unscientific!"
-10053020-64 = "Ugh, here we go again..."
-10053020-68 = "Supernatural phenomena exist in this Kivotos! #nAnd they happen frequently, right under our noses!"
-10053020-69 = "Just recently, there was that terrifying incident at Millennium, right? #nI'm sure you're aware of it, Sensei..."
+10053020-1 = "Episódio 2; Uma garota com esse cenário"
+
+10053020-2 = "Por que o professor está aqui? ? \r\n\r\n"
+
+10053020-3 = "[s1] \"O quê!? Lena!?\"\r\n[s2] \"Por que você está aqui!?\""
+
+10053020-6 = "Eu me pergunto por que... me inscrevi para sair normalmente."
+
+10053020-7 = "Não, bem... eu sei como nossa escola é vista por outras escolas... \r\n"
+
+10053020-8 = ""Wild Hunt" não é sobre prender estudantes, certo?"
+
+10053020-9 = "Só que o procedimento para sair é um pouco problemático... \r\n"
+
+10053020-10 = "Huh? Você e Gurumin se conheciam? \r\n\r\n\r\n\r\n"
+
+10053020-11 = "[s3] \"Sim, eu o conheço muito bem.\"\r\n[s4] \"Ele é o mais novo da minha vida anterior.""
+
+10053020-14 = "Haha, que tipo de relacionamento é esse? \r\n\r\n\r\n\r\n"
+
+10053020-15 = "Shhh! ! Não somos idosos, então não diga nada estranho! #nA história vai ficar complicada! ! \r\n\r\n\r\n"
+
+10053020-16 = "Ou melhor, por que o professor está aqui? ? \r\n"
+
+10053020-17 = "Você disse que nós três íamos procurar Tsuchinoko, certo? \r\n"
+
+10053020-18 = "Desculpe, esqueci de te contar. \r\n\r\n\r\n\r\n"
+
+10053020-19 = "Mas você sabe, é mais divertido quando tem mais gente, né? \r\n\r\n\r\n"
+
+10053020-20 = "Não me force sua teoria positiva... \r\n\r\n"
+
+10053020-21 = "A professora é ``Gurumin''...parece que ela e Rena são conhecidas, então não vou apresentá-la. \r\n\r\n\r\n"
+
+10053020-22 = "Bem, então ――\r\n\r\n\r\n"
+
+10053020-30 = "……. \r\n\r\n"
+
+10053020-35 = "[ns5] \"Por que você está apontando para mim...?\"\r\n[ns6] Coloquei meu dedo no dedo que me foi oferecido."
+
+10053020-36 = "...A telepatia é um fracasso? \r\n\r\n\r\n"
+
+10053020-37 = "Parece que a frequência não coincide com a do professor. \r\n\r\n\r\n\r\n"
+
+10053020-41 = "...! \r\n\r\n\r\n"
+
+10053020-42 = "também! Acho que o professor tem a mesma aura que eu! \r\n\r\n\r\n\r\n"
+
+10053020-47 = "……prazer em conhecê-lo. E vamos recebê-lo. \r\n"
+
+10053020-48 = "Meu nome é [ruby=Hanemoto]Hakui[/ruby]Tsubasa. #nEle é o líder desta equipe de investigação e diretor do ``Moh Paranormal Research Institute''."
+
+10053020-49 = "Por favor, me chame de ``Chefe Tsubasa.'' \r\n"
+
+10053020-50 = "[ns7] \"Diretor...?\"\r\n[ns8] \"Hum, Lena...?\""
+
+10053020-55 = "Eu sei o que você está tentando dizer, mas...#nNão se preocupe, sou uma pessoa de bom senso. \r\n"
+
+10053020-56 = ""Mo Paranormal Research Institute" é o nome do canal de Tsubasa. #nSou um streamer."
+
+10053020-57 = "Então, bem... chama-se "esse tipo de cenário"."
+
+10053020-58 = "contexto? Lena-kun, você não pode ignorar isso. \r\n"
+
+10053020-59 = "Nosso instituto é uma organização única em Kivotos que investiga fenômenos paranormais com base em métodos científicos."
+
+10053020-60 = "Não é uma pessoa, não um grupo?"
+
+10053020-61 = "Bem, existem algumas circunstâncias adultas complicadas... \r\n"
+
+10053020-62 = "De qualquer forma, professor, por favor, não entenda mal! \r\n\r\n"
+
+10053020-63 = "Fenômenos paranormais não são inciência!"
+
+10053020-64 = "Ah, começou de novo... \r\n"
+
+10053020-68 = "Fenômenos paranormais existem em Kivotos! #nE mais, isso acontece frequentemente no nosso dia a dia!"
+
+10053020-69 = "Mesmo nessa época, houve um incidente terrível no milênio, certo? #nAcho que você sabe disso, mas..."
+
 10053020-70 = "[s] \"...!\""
-10053020-75 = "Hmm... that look on your face, it seems you have an idea of what I'm talking about."
-10053020-76 = "It caused such a stir, it would be unnatural not to know about it."
-10053020-77 = "That's right—the 'Millennium East Alps UFO Sighting Incident'!"
-10053020-78 = "[ns9] \"...Hm?\"\n[ns10] \"East Alps...?\""
-10053020-83 = "According to eyewitness testimony, at dawn, a white, glowing, disc-shaped object was flying as if ignoring gravity."
-10053020-84 = "From here on is my own analysis, but this is a classic characteristic of an 'Adamski-type UFO'."
-10053020-85 = "Some scholars dismiss it as confirmation bias, but I firmly disagree!"
-10053020-86 = "UFOs exist!!"
-10053020-91 = "The fact that similar sightings are being reported all over Kivotos is proof of that!"
-10053020-92 = "I actually wanted to try and make contact on-site, but... #nunfortunately, due to circumstances, I can't freely enter Millennium..."
-10053020-93 = "[s11] \"UFO... contact...?\"\n[s12] \"Um, Rena...?\""
-10053020-96 = "I admit she's a weird kid, but! It's slightly different!"
-10053020-97 = "How should I put it... unlike the seniors, she's a bit more realistic, or rather... #nshe's just slightly off, but you can actually talk to her..."
-10053020-98 = "Wait, why am I the one defending her!?"
-10053020-102 = "Despite how she looks, the Director is actually quite famous in these circles..."
-10053020-103 = "She streams her explorations of ruins every day~"
-10053020-104 = "What circles are you talking about... #nShe's not famous at all."
-10053020-105 = "Besides, it's just a stream of her wandering around abandoned buildings. #nHer views and subscriber count aren't growing at all."
-10053020-107 = "[ns13] \"Every day, exploring ruins...?\"\n[ns14] \"I wonder if she's okay with her studies...\""
-10053020-112 = "O-of course! It's impossible for a Millennium student to neglect their studies!"
-10053020-113 = "Tsubasa is from Millennium?"
-10053020-114 = "Oh, did I not mention that?"
-10053020-115 = "Yeah. I mean, it's a bit surprising... I thought Millennium students didn't believe in this kind of stuff."
-10053020-116 = "What do you mean by 'this kind of stuff'?"
-10053020-117 = "Um, you know, like Tsuchinoko... or Yetis..."
-10053020-118 = "And... magic?"
-10053020-119 = "Hmm, that is a statement I cannot overlook as a Millennium student."
-10053020-120 = "No theory was proven from the start. #nEvery proposition can become a universal truth through verification."
-10053020-121 = "Yeah...?"
-10053020-125 = "In other words, denying something just because it hasn't been proven yet is synonymous with denying the very foundation of natural philosophy built up until now."
-10053020-126 = "Even in Millennium, which boasts the cutting edge of modern science, there are still unknown territories like 'ruins'."
-10053020-127 = "Supernatural phenomena are challenges that we, as students of science, should solve, #nnot things to be avoided."
-10053020-128 = "Well, it tends to be treated as occult by the conservatives, though..."
-10053020-133 = "Wow... As expected of a Millennium student."
-10053020-134 = "Even saying the same thing, it has more credibility than my seniors..."
-10053020-135 = "What are you saying? In terms of that inquisitive spirit, aren't we comrades?"
-10053020-136 = "Rena, you came here to look for the unproven Tsuchinoko as well, didn't you?"
-10053020-137 = "No, that's not really it."
-10053020-138 = "Hm?"
-10053020-142 = "I'll say this first so there's no misunderstanding—"
-10053020-143 = "I don't believe in Tsuchinoko!!"
-10053020-149 = "[ns15] \"Ah, is that your persona?\"\n[ns16] \"I see, I get it, I get it.\""
-10053020-153 = "Hey! What's with that reaction!?"
-10053020-154 = "That's actually my line, isn't it?"
-10053020-155 = "If you don't believe in Tsuchinoko, why did you participate in this investigation?"
-10053020-156 = "That's obviously—"
-10053020-161 = "Sigh... Sensei, you probably know, but my roommates are all weirdos. #nThey're all occult fanatics."
-10053020-162 = "If they find something like 'Tsuchinoko sighting on SNS!', it becomes a huge festival."
-10053020-163 = "So I go there first to secure the scene!"
-10053020-164 = "The sighting this time is probably just a misidentified snake or lizard anyway."
-10053020-165 = "I'm going to find the source of the rumor and prove it was just a rumor."
-10053020-166 = "...Well, it's doubtful if the seniors will come to their senses after that, though."
-10053020-167 = "[s17] \"Ah, is that your persona?\"\n[s18] \"I see, I get it, I get it.\""
-10053020-170 = "I said that's not it!"
-10053020-175 = "Wait. I cannot allow you to participate with such impure motives."
-10053020-176 = "Our goal is, to the end, to verify the existence of the legendary UMA, the Tsuchinoko."
-10053020-177 = "Exactly, exactly!"
-10053020-178 = "And—to prove that its true identity is an alien reconnaissance drone!"
-10053020-179 = "...Wait, was our group that suspicious?"
-10053020-181 = "It's not! Don't add weird settings!"
-10053020-182 = "We're just looking for a Tsuchinoko!"
-10053020-183 = "...I see. Maybe that was a bit too difficult for a beginner."
-10053020-184 = "But this isn't my delusion. It's a topic that's getting a lot of attention in the academic world."
-10053020-185 = "An article was even published in the latest issue of Red Winter's famous academic journal, 'Neo Pyramid Future'."
-10053020-186 = "That's an occult magazine!"
-10053020-187 = "Every printing shop in Millennium refused to publish it, so they just print it in Red Winter where they'll print anything if you pay them, right!?"
-10053020-188 = "No. Behind that incident, there are people called 'Seminar' who control the academic world of Millennium under the guise of mainstream science—"
-10053020-189 = "...Hm? You're quite knowledgeable, aren't you?"
-10053020-190 = "I don't think even regular subscribers know about those behind-the-scenes details..."
-10053020-191 = "...!"
-10053020-192 = "...I see. So you're an expert who is also well-armed with theory."
-10053020-193 = "Very well, I accept your challenge!"
-10053020-194 = "My claim remains the same. The Tsuchinoko is an alien reconnaissance drone!"
-10053020-195 = "That unnatural form is the result of a half-baked imitation of indigenous creatures. #nBut its mobility and elusive nature are exactly like a reconnaissance drone!"
-10053020-196 = "No, I really need it to be a snake..."
-10053020-197 = "There is still hope for the classical school. The possibilities of life are infinite, after all."
-10053020-198 = "I wonder which theory is closer to the truth—this investigation is going to be very interesting!"
-10053020-203 = "No, that's why I—"
-10053020-204 = "Whatever. My goal is to find the truth behind the Tsuchinoko rumors anyway."
-10053020-205 = "...Could it be that I'm the only sane person in Kivotos?"
-10053020-206 = "[ns19] \"Ah, is that your persona?\"\n[ns20] \"I see, I get it, I get it.\""
-10053020-211 = "Hiss! I told you to stop that!!"
+
+10053020-75 = "Hmm... esse rosto me parece familiar. \r\n"
+
+10053020-76 = "Houve tanta confusão que não seria natural não saber disso. \r\n"
+
+10053020-77 = "É isso mesmo – o “incidente de avistamento de OVNIs nos Alpes Orientais do Milênio”! \r\n"
+
+10053020-78 = "[ns9] \"...Hmm?\"\r\n[ns10] \"Alpes Orientais...?\""
+
+10053020-83 = "De acordo com relatos de testemunhas oculares, ao amanhecer, um objeto branco e luminoso em forma de disco voava como se ignorasse a gravidade."
+
+10053020-84 = "A partir daqui, minha opinião é que esta é uma característica típica de um “OVNI do tipo Adamski”."
+
+10053020-85 = "Alguns estudiosos descartam isso como um viés de confirmação, mas discordo veementemente!"
+
+10053020-86 = "OVNIs são reais! ! \r\n\r\n\r\n"
+
+10053020-91 = "O facto de avistamentos semelhantes terem sido relatados em todo Kivotos é prova disso! \r\n"
+
+10053020-92 = "Na verdade, queria tentar comunicar localmente...#nInfelizmente, devido às circunstâncias, não pude entrar e sair livremente do Millennium... \r\n"
+
+10053020-93 = "[s11] \"OVNI... contato...?\"\r\n[s12] \"Hum, Lena...?\""
+
+10053020-96 = "Sou uma criança estranha... admito! É um pouco diferente! \r\n"
+
+10053020-97 = "O que posso dizer... ao contrário dos meus mais velhos, eu diria que ele é um pouco mais realista, ou talvez seja alguém que consegue entender as coisas, mesmo que elas estejam um pouco erradas. \r\n"
+
+10053020-98 = "Então, por que estou seguindo você? ? \r\n"
+
+10053020-102 = "Ah, entendo, o diretor é bastante famoso nessa área... \r\n\r\n\r\n"
+
+10053020-103 = "Estou transmitindo exploração de ruínas todos os dias~\r\n\r\n"
+
+10053020-104 = "Que bairro é esse...#nNão é particularmente famoso. \r\n"
+
+10053020-105 = "Na maioria das vezes, não é apenas uma transmissão de perambulação por um prédio abandonado. #nO número de visualizações e inscritos não aumentou em nada. \r\n\r\n"
+
+10053020-107 = "[ns13] \"Explorando ruínas todos os dias...?\"\r\n[ns14] \"Tudo bem equilibrar isso com seus estudos...?\""
+
+10053020-112 = "Bem, é claro! É impossível para um estudante do milênio negligenciar seus estudos! \r\n"
+
+10053020-113 = "Tsubasa é um milênio? \r\n"
+
+10053020-114 = "Ei, eu não te contei?"
+
+10053020-115 = "Sim. Na verdade, é um pouco surpreendente... Achei que as crianças do Millennium não acreditariam nesse tipo de coisa."
+
+10053020-116 = "O que significa “esse tipo de coisa”? \r\n"
+
+10053020-117 = "Bem, olhe, Tsuchinoko... Yeti..."
+
+10053020-118 = "Além disso… magia?"
+
+10053020-119 = "Hmm, essa é uma afirmação que não posso ignorar como estudante do milênio."
+
+10053020-120 = "Nenhuma teoria é comprovada desde o início. #nToda proposição pode se tornar uma verdade universal após ser verificada."
+
+10053020-121 = "Sim……? \r\n"
+
+10053020-125 = "Em outras palavras, negar algo porque ainda não foi provado equivale a negar os fundamentos da filosofia natural que foram construídos até agora."
+
+10053020-126 = "Mesmo no Milénio, que ostenta a vanguarda da ciência moderna, permanecem áreas desconhecidas, como “ruínas”."
+
+10053020-127 = "Fenômenos paranormais são problemas que nós, como cientistas, devemos resolver, e não algo que deva ser evitado."
+
+10053020-128 = "Bom, entre os conservadores isso tende a ser tratado como oculto... \r\n"
+
+10053020-133 = "oh……. Como esperado, os alunos do Millennium são diferentes..."
+
+10053020-134 = "Mesmo que eu diga a mesma coisa, meu poder de persuasão é diferente do meu superior... \r\n"
+
+10053020-135 = "O que você diz? Nesse sentido, somos aliados, certo? \r\n"
+
+10053020-136 = "Rena-kun também veio procurar o não comprovado Tsuchinoko."
+
+10053020-137 = "Não, não é nada disso."
+
+10053020-138 = "Sim? \r\n"
+
+10053020-142 = "Não quero ser mal interpretado, então vou dizer primeiro..."
+
+10053020-143 = "Porque não acredito em Tsuchinoko! ! \r\n\r\n"
+
+10053020-149 = "[ns15] \"Ah, essa é a configuração?\"\r\n[ns16] \"Entendo, entendo.\""
+
+10053020-153 = "um pouco! Que reação! ? \r\n\r\n"
+
+10053020-154 = "Não é mais parecido com esta linha?"
+
+10053020-155 = "Se você não acredita em Tsuchinoko, por que participou desta investigação?"
+
+10053020-156 = "Claro ――\r\n"
+
+10053020-161 = "Suspiro... acho que a professora sabe, mas meus colegas de quarto são todos pessoas estranhas. #nTodo mundo gosta de ocultismo. \r\n"
+
+10053020-162 = "Informações sobre avistamento de Tsuchinoko no SNS! Se eu encontrasse um, seria uma grande celebração."
+
+10053020-163 = "É por isso que irei primeiro e assumirei o controle da cena! \r\n"
+
+10053020-164 = "De qualquer forma, o avistamento recente foi provavelmente um erro de uma cobra ou de um lagarto."
+
+10053020-165 = "Encontre a origem do boato e prove que é apenas um boato."
+
+10053020-166 = "...Bem, duvido que os idosos voltem a si. \r\n"
+
+10053020-167 = "[s17] \"Ah, esse tipo de cenário?\"\r\n[s18] \"Entendo, entendo.\""
+
+10053020-170 = "Isso é diferente! \r\n"
+
+10053020-175 = "Espere. Participar com tais segundas intenções é inaceitável."
+
+10053020-176 = "Nosso objetivo é simplesmente verificar a existência do lendário [ruby=UMA]animal não identificado[/ruby] Tsuchinoko."
+
+10053020-177 = "Isso mesmo! \r\n"
+
+10053020-178 = "E... para provar que na verdade é um drone de reconhecimento alienígena! \r\n"
+
+10053020-179 = "...Eh, nossa casa era uma reunião tão suspeita? \r\n"
+
+10053020-181 = "Porque é diferente! Não adicione configurações estranhas!"
+
+10053020-182 = "Basta procurar por Tsuchinoko! \r\n\r\n"
+
+10053020-183 = "……Eu vejo. Acho que foi um pouco difícil para iniciantes."
+
+10053020-184 = "Mas esta não é minha fantasia. Este é um tema que está atraindo muita atenção no meio acadêmico."
+
+10053020-185 = "Um artigo também foi publicado na última edição da famosa revista acadêmica da Red Winter, “Neopyramid Future”."
+
+10053020-186 = "Essa é uma revista oculta!"
+
+10053020-187 = "As gráficas do milênio se recusaram a publicá-lo, então a Red Winter, que irá imprimi-lo para você se você pagar por isso, está apenas publicando! ? \r\n"
+
+10053020-188 = "diferente. Por trás desse incidente, há pessoas chamadas #n "Seminário" que controlam o mundo acadêmico do milênio sob o nome de ciência dominante ――\r\n"
+
+10053020-189 = "……sim? Você sabe muito, não é? \r\n"
+
+10053020-190 = "Mesmo entre os assinantes regulares, não creio que haja muitos que saibam dos detalhes dos bastidores..."
+
+10053020-191 = "...! \r\n"
+
+10053020-192 = "……Eu vejo. Então você também é um especialista com bastante teoria?"
+
+10053020-193 = "Ok, isso é um desafio... eu aceito! \r\n"
+
+10053020-194 = "Meu argumento permanece inalterado. Tsuchinoko é um drone de reconhecimento alienígena!"
+
+10053020-195 = "Essa forma antinatural é o resultado de uma imitação tímida de criaturas indígenas. #nNo entanto, sua manobrabilidade e recursos evasivos são o próprio drone de reconhecimento! \r\n"
+
+10053020-196 = "Não, eu estaria em apuros se não fosse uma cobra... \r\n\r\n"
+
+10053020-197 = "Ainda há esperança para os clássicos. Porque as possibilidades da vida são infinitas."
+
+10053020-198 = "Qual teoria está mais próxima da verdade? Essa pesquisa vai ser muito interessante! \r\n"
+
+10053020-203 = "Não, é por isso que eu--"
+
+10053020-204 = "Já basta. O objetivo é descobrir a verdade por trás dos rumores sobre Tsuchinoko. \r\n"
+
+10053020-205 = "...Talvez eu seja a única pessoa sã em Kivotos?"
+
+10053020-206 = "[ns19] \"Ah, essa é a configuração?\"\r\n[ns20] \"Entendo, entendo.\""
+
+10053020-211 = "Shhh! Então pare de fazer isso! ! \r\n\r\n\r\n"
+

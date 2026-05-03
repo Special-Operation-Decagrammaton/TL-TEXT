@@ -1,73 +1,145 @@
 [translation]
-10052160-0001 = "Malkuth: Pilgrim of the Kingdom Reaching the World's End"
-10052160-0002 = "[ns] \"Those children!?\""
-10052160-0003 = "...It seems they're hiding."
-10052160-0004 = "Why did they do something like this...? Even at this point, it seems they still have no intention of telling us."
-10052160-0005 = "Is our bond still not strong enough...?"
-10052160-0006 = "...It's not that simple, Aris."
-10052160-0007 = "But it is perplexing."
-10052160-0008 = "To say it was all for us, and yet not explain a single thing even when cornered like this."
-10052160-0009 = "Right. #nJust talking would buy us time. It's inefficient."
-10052160-0010 = "Or perhaps they're acting without thinking ahead in the first place. #nThat's why there's nothing to talk about."
-10052160-0011 = "No matter what, they wouldn't have caused such a situation so carelessly..."
-10052160-0015 = "Well, the Four Heavenly Kings of the Demon Lord's Castle either don't know the real situation, #nor they just say incomprehensible things!"
-10052160-0016 = "Maybe we didn't even need to ask? #nLet's just call it saving time!"
-10052160-0017 = "What if there's a reason they absolutely can't tell us...?"
-10052160-0018 = "E-Even if there's a reason, I don't think this is acceptable..."
-10052160-0020 = "I-I think we're safe here...! #nThey shouldn't be able to find us..."
-10052160-0022 = "Ugh... this is tiring, isn't it?"
-10052160-0023 = "To this extent..."
-10052160-0027 = "Ein, Sof, Ohr, are you alright?"
-10052160-0028 = "Y-Yes...! Still--"
-10052160-0034 = "No problem! #nUm... Ein seems a little tired, but don't worry, Big Sister."
-10052160-0040 = "Good grief. Ein and Sof lack grit. #nStill--!"
-10052160-0046 = "..."
-10052160-0047 = "Ein, Sof, Ohr."
-10052160-0048 = "The Steel Continent was your will, wasn't it?"
-10052160-0049 = "Yes... Is something wrong with that?"
-10052160-0050 = "I was very happy to hear that Ein, Sof, and Ohr created this Steel Continent of their own will."
-10052160-0051 = "However, why did you try to create the Steel Continent? #nWhat did you hope to gain from it--I still don't know."
-10052160-0052 = "The plan to expand the Steel Continent and cover Kivotos. #nI perceive that there is no firm reason behind that plan."
-10052160-0053 = "Th-That is..."
-10052160-0054 = "It's alright. I didn't say it to blame you."
-10052160-0055 = "Just, for what purpose were you trying to expand the Steel Continent?"
-10052160-0056 = "And regarding the fact that you won't even tell me the reason."
-10052160-0057 = "I am simply curious."
-10052160-0058 = "Because I believe if you hadn't insisted on the Steel Continent, none of this would have happened."
-10052160-0059 = "..."
-10052160-0060 = "I'm sorry, Big Sister."
-10052160-0061 = "There's a reason we can't tell you."
-10052160-0062 = "Because it must not be uttered aloud..."
-10052160-0063 = "But please believe us. It's all for you, Big Sister..."
-10052160-0067 = "No, it's for you, Big Sister, and for us."
-10052160-0068 = "Ein, Sof, Ohr, for me?"
-10052160-0069 = "Why, exactly?"
-10052160-0070 = "Hey, Big Sister."
-10052160-0071 = "Yes, Sof."
-10052160-0075 = "Big Sister, do you want to live?"
-10052160-0076 = "Huh?"
-10052160-0077 = "..."
-10052160-0078 = "I'm sorry, I don't understand the intent of your question..."
-10052160-0079 = "As long as I possess consciousness, it's natural to wish for its continuation. #nIn that sense... yes, I want to live."
-10052160-0080 = "But, Ein, Sof, Ohr."
-10052160-0081 = "You already know, don't you?"
-10052160-0082 = "Yes. Of course. Much more than anyone else."
-10052160-0083 = "Even so, we... want to live."
-10052160-0084 = "We want to live... forever, together with you, Big Sister."
-10052160-0085 = "That is..."
-10052160-0086 = "...!"
-10052160-0087 = "I see."
-10052160-0088 = "I can't perfectly understand yet, but if that is what you wish."
-10052160-0089 = "U-Ugh..."
-10052160-0090 = "..."
-10052160-0091 = "I'm sorry, Big Sister. We already..."
-10052160-0092 = "Yes, I know."
-10052160-0093 = "It's alright. #nFrom now on, trust me."
-10052160-0094 = "For that person, and for my precious sisters."
-10052160-0097 = "Everyone, over there!"
-10052160-0102 = "So this is the final boss battle, right?"
-10052160-0103 = "Yes. I think it's an apt metaphor. 'Momoi, who occasionally says something good.'"
-10052160-0104 = "Um... how many nicknames do I have?"
-10052160-0105 = "Do you really want to know?"
-10052160-0106 = "N-No... I'm fine."
-10052160-0107 = "Please focus properly, already!"
+10052160-1 = "Malkuth: Peregrino do reino que chegou ao fim do mundo"
+
+10052160-2 = "[ns] \"Aquelas crianças!?\""
+
+10052160-3 = "...Parece que ele está se escondendo."
+
+10052160-4 = "Por que ele fez isso? Mesmo depois desse período, ele ainda não parece estar disposto a me contar."
+
+10052160-5 = "Talvez eu ainda não tenha carinho suficiente..."
+
+10052160-6 = "...Não é tão simples, Alice."
+
+10052160-7 = "No entanto, é incompreensível."
+
+10052160-8 = "Embora eles tenham dito que estavam fazendo isso por nós, eles ainda não nos contaram nada sobre a situação, apesar de estarem em uma situação tão difícil."
+
+10052160-9 = "Isso mesmo. #nSó falar sobre isso já deve lhe dar algum tempo. É ineficiente."
+
+10052160-10 = "Ou você está fazendo isso sem pensar nas consequências? #nEntão acho que não há nada que eu possa falar."
+
+10052160-11 = "Não importa como você diga, eu não teria causado essa situação levianamente..."
+
+10052160-15 = "Bem, ou os Quatro Reis Celestiais do Castelo do Demônio não sabem a real situação, ou apenas dizem coisas que não fazem sentido!"
+
+10052160-16 = "Acho que não precisei perguntar, certo? #nÉ uma economia de tempo!"
+
+10052160-17 = "O que você faria se houvesse algo que você não pudesse contar?"
+
+10052160-18 = "Não importa quais sejam as circunstâncias, isso definitivamente não é uma boa ideia..."
+
+10052160-20 = "E-eu acho que está tudo bem aqui...! #nAh, tenho certeza que essas pessoas não vão me encontrar..."
+
+10052160-22 = "Ugh... isso é cansativo."
+
+10052160-23 = "Até aqui..."
+
+10052160-27 = "Ain, Soph, Coruja, vocês estão bem?"
+
+10052160-28 = "Ah, sim...! ainda--"
+
+10052160-34 = "Sem problemas! #nUm...Ain parece um pouco cansada, mas não se preocupe com ela."
+
+10052160-40 = "Oh meu Deus. Tanto Ain quanto Soph não têm coragem. #nAinda não――!"
+
+10052160-46 = "……."
+
+10052160-47 = "Ain, Soph, Coruja."
+
+10052160-48 = "O Continente de Aço foi a sua vontade, certo?"
+
+10052160-49 = "Sim... o que há de errado nisso?"
+
+10052160-50 = "Fiquei muito feliz em saber que Ain, Soph e Owl criaram este continente de aço por vontade própria."
+
+10052160-51 = "Mas por que decidiram criar um continente siderúrgico? #nO que eu estava tentando tirar disso - ainda não sei."
+
+10052160-52 = "Um plano para expandir o Continente Steel e cobrir Kivotos. #nVejo que não há uma razão sólida para este plano."
+
+10052160-53 = "Isso é..."
+
+10052160-54 = "tudo bem. Eu não tive a intenção de [ruby=to]culpar[/ruby] nenhum de vocês."
+
+10052160-55 = "Mas por que ele estava tentando expandir o Continente do Aço?"
+
+10052160-56 = "E sobre o fato de você nem me contar o motivo."
+
+10052160-57 = "Simplesmente me perguntando."
+
+10052160-58 = "Não creio que essas coisas teriam acontecido se não tivéssemos nos apegado ao Continente do Aço."
+
+10052160-59 = "……."
+
+10052160-60 = "Desculpe, irmã."
+
+10052160-61 = "Há uma razão pela qual não posso dizer isso."
+
+10052160-62 = "Não deve ser pronunciado como um som..."
+
+10052160-63 = "Mas por favor acredite em mim. É tudo pela minha irmã..."
+
+10052160-67 = "Não, é para sua irmã e para nós."
+
+10052160-68 = "Ain, Soph e Owl para mim?"
+
+10052160-69 = "Por que diabos?"
+
+10052160-70 = "Ei, irmã."
+
+10052160-71 = "Sim, Soph."
+
+10052160-75 = "Irmã, você quer viver?"
+
+10052160-76 = "sim?"
+
+10052160-77 = "……."
+
+10052160-78 = "Desculpe, não entendi a intenção da pergunta..."
+
+10052160-79 = "Agora que você ganhou consciência, é natural que queira continuar fazendo isso. #nNesse sentido...Sim, eu quero viver."
+
+10052160-80 = "No entanto, Ain, Soph, Coruja."
+
+10052160-81 = "Você já sabe, certo?"
+
+10052160-82 = "Sim. Claro. Muito mais do que qualquer outra pessoa."
+
+10052160-83 = "Mesmo assim, queremos viver..."
+
+10052160-84 = "Quero viver para sempre com minha irmã."
+
+10052160-85 = "isso é……."
+
+10052160-86 = "...!"
+
+10052160-87 = "Eu vejo."
+
+10052160-88 = "Ainda não entendi completamente, mas se é isso que você quer."
+
+10052160-89 = "Uh, uh..."
+
+10052160-90 = "……."
+
+10052160-91 = "Desculpe, irmã. Já estamos..."
+
+10052160-92 = "Sim eu sei."
+
+10052160-93 = "Você está bem. #nDe agora em diante, por favor, acredite em mim."
+
+10052160-94 = "Para essa pessoa e para minhas preciosas irmãs."
+
+10052160-97 = "Olá a todos!"
+
+10052160-102 = "Esta é a batalha final do chefe, certo?"
+
+10052160-103 = "sim. Acho que é uma metáfora adequada. “Momoi às vezes diz coisas boas.”"
+
+10052160-104 = "Hmm... quantos apelidos eu tenho?"
+
+10052160-105 = "Você realmente quer saber?"
+
+10052160-106 = "U-uh... está tudo bem."
+
+10052160-107 = "Por favor, concentre-se adequadamente, agora!"
+

@@ -1,55 +1,109 @@
 [translation]
-10052065-0002 = "Kether's silence, confirmed."
-10052065-0003 = "Ugh... Ugh..."
-10052065-0004 = "Yuzu, you did great."
-10052065-0005 = "Yeeees..."
-10052065-0006 = "Kei! Over here!"
-10052065-0010 = "Understood. Then, please proceed, Himari."
-10052065-0011 = "Confirmed. I'll send the coordinates now."
-10052065-0012 = "Descent commencing!"
-10052065-0016 = "Onee-chan, please be careful... Oh, you already are..."
-10052065-0023 = "Phew... That was a truly swift and [ruby=barbaric]intuitive[/ruby] way to rendezvous..."
-10052065-0024 = "I couldn't agree more..."
-10052065-0025 = "Area control is almost complete. #nKei, are you able to secure the core?"
-10052065-0026 = "Yes, no problem. However, during that time..."
-10052065-0028 = "[ns] \"There might be an enemy attack, so please provide escort.\""
-10052065-0029 = "Leave it to me. It's my specialty."
-10052065-0030 = "...Don't you say everything is your specialty...?"
-10052065-0031 = "That is correct. #nFor a perfect and supreme maid and agent, that is the state they should strive for."
-10052065-0032 = "(It seems Himari's strange habits are rubbing off on you...)"
-10052065-0033 = "It's Aris's turn to protect Kei this time... Aris will do her best!"
-10052065-0034 = "Aris, please... take care of it..."
-10052065-0035 = "Yes! Leave it to Aris!"
-10052065-0036 = "Speaking of which, I heard Kether's research district was completely sealed off due to flooding from a dam breach."
-10052065-0037 = "That's right. In the end, all we learned at that point was that Decagrammaton's main body was a vending machine AI."
-10052065-0038 = "And that it became a super AI on its own, triggered by auditory hallucinations, right?"
-10052065-0039 = "Yes, that's right."
-10052065-0040 = "Section Chief, back then... you called Decagrammaton a megalomaniac, didn't you?"
-10052065-0041 = "It's the truth. Is there a problem?"
-10052065-0042 = "I just thought it was strange how you described it, almost like a human."
-10052065-0043 = "Well, the Section Chief is strict about word choice."
-10052065-0044 = "That..."
-10052065-0045 = "...I don't want to draw a line between us and our comrades."
-10052065-0046 = "I-In other words, it's best to narrow down the classification criteria as much as possible...!"
-10052065-0047 = "?"
-10052065-0048 = "..."
-10052065-0049 = "I see, classification criteria from a rationality standpoint. That's helpful."
-10052065-0050 = "At least you shouldn't interpret it that way..."
-10052065-0051 = "R-Really?"
-10052065-0052 = "...The small talk is over. I have successfully secured the core."
-10052065-0053 = "I'll share it on the 'Tree of Life' displayed on the transport ship's monitor, so please check it."
-10052065-0054 = "...I've confirmed the reflection. Everyone, good work."
-10052065-0055 = "Ta-da! Kei's level has increased by 10! #nLet's keep leveling up like this!"
-10052065-0056 = "Indeed."
-10052065-0061 = "...Sensei, I, um, have a small request..."
-10052065-0062 = "[s] \"What is it?\""
-10052065-0063 = "Shh! Quiet! You're too loud!"
-10052065-0064 = "Um... later, to Himari--"
-10052065-0065 = "Please tell her thank you."
-10052065-0066 = "[ns] \"...\""
-10052065-0068 = "[ns] \"Okay! I'll be sure to tell her!\""
-10052065-0069 = "That's why you're too loud!"
-10052065-0070 = "Kei, Sensei? Is something wrong?"
-10052065-0071 = "N-N-N-Nothing's wrong! Right, Sensei!?"
-10052065-0075 = "[ns] \"You see! Kei-chan is...!\""
-10052065-0077 = "Sensei--!!!!!!!!"
+10052065-2 = "O silêncio de Ketel foi confirmado."
+
+10052065-3 = "Uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu."
+
+10052065-4 = "Yuzu, você fez um ótimo trabalho."
+
+10052065-5 = "Sim…."
+
+10052065-6 = "Kay! Aqui está!"
+
+10052065-10 = "sim. Por favor, Himari."
+
+10052065-11 = "Eu confirmei. Vou lhe enviar as coordenadas agora."
+
+10052065-12 = "A descida começa!"
+
+10052065-16 = "Irmã, por favor, tome cuidado... já estou fazendo isso..."
+
+10052065-23 = "Ufa... essa é uma maneira muito rápida de mesclar..."
+
+10052065-24 = "Concordo plenamente...."
+
+10052065-25 = "O controle da área está quase completo. #nK, você acha que consegue proteger o núcleo?"
+
+10052065-26 = "Sim, não há problema. Mas enquanto isso..."
+
+10052065-28 = "[ns] \"Pode haver um ataque inimigo, então forneça escolta.""
+
+10052065-29 = "Por favor, deixe isso comigo. Esta é minha especialidade."
+
+10052065-30 = "...Você não diz que é bom em tudo...?"
+
+10052065-31 = "Isso mesmo. #nSe você quer ser a melhor e perfeita empregada e agente, é isso que você deve alcançar."
+
+10052065-32 = "(Parece que os estranhos hábitos de Himari foram transferidos para ela...)"
+
+10052065-33 = "Desta vez é a vez de Alice proteger Kei...Alice, farei o meu melhor!"
+
+10052065-34 = "Alice, muito obrigado..."
+
+10052065-35 = "sim! Deixe isso para Alice!"
+
+10052065-36 = "Aliás, ouvi dizer que a área de pesquisa de Ketel foi totalmente fechada devido a enchentes causadas pelo rompimento de uma barragem."
+
+10052065-37 = "Concordo. No final das contas, tudo que eu sabia naquele momento era que o corpo principal do Deka Grammaton era a IA de uma máquina de venda automática."
+
+10052065-38 = "Além disso, foi dito que ele próprio se tornou um super IA depois de experimentar alucinações auditivas."
+
+10052065-39 = "Sim, foi."
+
+10052065-40 = "Diretor, naquela época... você chamou o Big Grammaton de megalomaníaco."
+
+10052065-41 = "Porque é um fato. Existe algum problema?"
+
+10052065-42 = "Achei que eles estavam se expressando como humanos."
+
+10052065-43 = "Veja bem, o gerente é muito rigoroso na escolha das palavras."
+
+10052065-44 = "isso é……."
+
+10052065-45 = "...Não quero traçar uma linha divisória entre nossos amigos."
+
+10052065-46 = "Por outras palavras, é melhor restringir ao máximo os critérios de classificação...!"
+
+10052065-47 = "?"
+
+10052065-48 = "……."
+
+10052065-49 = "Entendo, é um padrão de classificação do ponto de vista da racionalidade. Será útil."
+
+10052065-50 = "Pelo menos você, eu não acho que você deveria encarar dessa forma..."
+
+10052065-51 = "Oh sério?"
+
+10052065-52 = "...O bate-papo acabou. Protegemos o núcleo com sucesso."
+
+10052065-53 = "Iremos compartilhá-lo com a “Árvore da Vida” mostrada no display do navio de transporte, então, por favor, dê uma olhada."
+
+10052065-54 = "...consegui confirmar o reflexo. Obrigado a todos pelo seu trabalho duro."
+
+10052065-55 = "Pampakapaan! O nível de Kei aumentou em 10! #nVamos continuar subindo de nível com esse impulso!"
+
+10052065-56 = "Concordo."
+
+10052065-61 = "...Sensei, tenho um pequeno pedido..."
+
+10052065-62 = "[s] \"O que é isso?\""
+
+10052065-63 = "Shhh! Fique quieto! Está alto!"
+
+10052065-64 = "Depois disso... mais tarde, Himari..."
+
+10052065-65 = "Por favor, diga obrigado."
+
+10052065-66 = "[ns] \"…….\""
+
+10052065-68 = "[ns] \"Sim! Avisarei você!""
+
+10052065-69 = "É por isso que está tão alto!"
+
+10052065-70 = "Kay, professora? Aconteceu alguma coisa?"
+
+10052065-71 = "Não, vovó, não é nada! Ei, professor! ?"
+
+10052065-75 = "[ns] \"É isso! Kei-chan está aqui!\""
+
+10052065-77 = "professor--! ! ! ! ! !"
+
