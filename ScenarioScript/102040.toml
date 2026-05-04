@@ -1,549 +1,283 @@
 [translation]
 102040-1 = "Episódio 4; Preparação da operação (2)"
-
 102040-4 = "isso é……"
-
 102040-5 = "O céu está tingido de vermelho... o que está acontecendo..."
-
-102040-6 = "...Recebi uma mensagem do meu professor. #nParece que preciso de ajuda."
-
-102040-7 = "Mas...vamos ajudar? #nMesmo sendo perseguido...prefiro causar problemas para o professor..."
-
+102040-6 = "...Recebi uma mensagem do meu sensei. #nParece que preciso de ajuda."
+102040-7 = "Mas...vamos ajudar? #nMesmo sendo perseguido...prefiro causar problemas para o sensei..."
 102040-8 = "Não é o caso, tenho certeza que vai ficar tudo bem. #nVamos encontrar uma maneira de ajudar."
-
 102040-9 = "Nós também podemos ajudar..."
-
 102040-14 = "...Quem está aí?"
-
 102040-15 = "Bem, eu não esperava que houvesse um perseguidor! ?"
-
 102040-16 = "……."
-
 102040-23 = "……."
-
 102040-25 = "! ?"
-
 102040-26 = "……."
-
 102040-27 = "……."
-
 102040-30 = "Eu finalmente encontrei. #nVocê estava aqui...?"
-
 102040-39 = "Ei, Misaki-san! ? De repente assim..."
-
 102040-40 = "Quem? Você."
-
 102040-41 = "Uma pessoa muito suspeita...."
-
 102040-42 = "Bem, espere. EU……!"
-
 102040-43 = "Ah, entendo."
-
 102040-47 = "...Oh meu Deus. Bom dia, Sacchan. #nVocê está dando um tempo para se encontrar?"
-
 102040-52 = "...... ah."
-
 102040-54 = "Costumo dizer que estou procurando por mim mesmo. #nVocê está apenas fugindo de casa."
-
 102040-55 = "líder……."
-
-102040-56 = "Desculpe... gostaria de falar sobre acumular coisas, mas não tenho tempo agora. #nTenho que ajudar o professor."
-
+102040-56 = "Desculpe... gostaria de falar sobre acumular coisas, mas não tenho tempo agora. #nTenho que ajudar o sensei."
 102040-57 = "Sim. Eles também nos contataram."
-
 102040-58 = "Ah, sim! Isso mesmo!"
-
 102040-62 = "Estou feliz que você esteja bem, Líder."
-
 102040-64 = "...... ah."
-
 102040-65 = "Bem, vamos lá."
-
-102040-69 = "Eu sou [ruby=Urawa]Urawa[/ruby] Hanako, responsável pelas operações do 4º Santuário ♡"
-
+102040-69 = "Eu sou Urawa Hanako, responsável pelas operações do 4º Santuário ♡"
 102040-70 = "Vocês estão prontos?"
-
 102040-72 = "……sim. As tropas #nSisterhood estão esperando em frente às Catacumbas do Santuário."
-
 102040-73 = "A propósito... onde exatamente está Sakurako-sama..."
-
 102040-75 = "Os Cavaleiros Socorros estão esperando no local da operação."
-
 102040-76 = "Muito obrigado!"
-
 102040-78 = "Que tal o 5º Santuário? #nPor favor, informe."
-
 102040-80 = "...Há um pequeno problema aqui."
-
 102040-81 = "Ah, o que aconteceu?"
-
-102040-82 = ""Hodo" passou à clandestinidade na cidade-fortaleza. #nEstou verificando minha localização atual..."
+102040-82 = "\"Hodo\" passou à clandestinidade na cidade-fortaleza. #nEstou verificando minha localização atual..."
 
 102040-83 = "O porão da cidade-fortaleza de Eridu é protegido por um código criado pelo Presidente Rio. #nSem hacking, sem vibrações, sem detecção de som."
-
 102040-85 = "...do presidente Rio? #n, mas o presidente agora é..."
-
 102040-87 = "sim. #n, estamos realizando cálculos para decifrar o código."
-
 102040-88 = "Felizmente, não acho que a criptografia seja tão difícil... mas o problema é que leva muito tempo."
-
 102040-89 = "Suspiro... Se isso continuar, talvez eu não consiga chegar a tempo para a missão..."
-
 102040-90 = "Ah, é um grande negócio! #nMas não posso ajudar porque estou analisando o Sanctum..."
-
 102040-91 = "Maki-san continua focado no 1º Santuário. #n Todos no departamento de engenharia, vocês têm energia sobrando?"
-
 102040-93 = "Não, também estamos tentando destruir os Pilares de Invasão em cada área... mas também estamos passando por momentos difíceis."
-
 102040-94 = "Suspiro... não consigo encontrar uma resposta... não consigo nem chegar perto."
-
 102040-95 = "Também estou analisando os materiais do Sanctum ao mesmo tempo, então minha força física está no limite... Sinto muito, mas não posso trabalhar mais."
-
 102040-96 = "Durma mais... não, consumindo cafeína... youkai max..."
-
 102040-97 = "Acho que deveria ter me exercitado um pouco mais e aumentado minha resistência..."
-
 102040-98 = "Não faz sentido dizer isso agora."
-
 102040-100 = "Estou com problemas... parece que não há energia sobrando ali também."
-
 102040-101 = "Como esperado de uma irmã mais velha... mesmo que ela tenha morrido, ela ainda está causando problemas..."
-
 102040-103 = "Himari!"
-
 102040-104 = "Os títulos do milênio já foram falsificados antes, certo?"
-
 102040-105 = "O sistema de segurança para emissão de títulos também foi construído pelo Rio, mas como você resolveu naquela época?"
-
 102040-106 = "sim? Não é esse o trabalho da Himari? #nNão fazemos nada que viole a ética."
-
 102040-107 = "Ah, isso é inesperado. Eu também não. #nEu estava ocupado naquela época e não tinha tempo para essas pegadinhas..."
-
 102040-108 = "...Então, de quem foi esse trabalho?"
-
 102040-113 = "...Yuka-chan, você estava ouvindo?"
-
 102040-114 = "Ha... estou ouvindo."
-
 102040-115 = "Noah, venha para a sala de reflexão agora!"
-
 102040-116 = "sim. #n――Até logo."
-
 102040-122 = "...Este pode ser o limite para a conquista do Pilar Invadido."
-
 102040-123 = "... Cave um buraco ao redor do pilar, separe-o do chão... e queime-o..."
-
 102040-124 = "Este é realmente o único caminho?"
-
 102040-125 = "Eu queria encontrar outra maneira, mas... acho que esta é a melhor maneira que posso fazer agora..."
-
 102040-126 = "Porém, a construção desta escala já está ao nível do desenvolvimento urbano..."
-
 102040-127 = "Hmm, gostaria de saber se há outra maneira... Gostaria de começar a fazer um drone para trabalhos de engenharia civil agora..."
-
 102040-128 = "Que tal adicionar um lança-chamas ao Rai-chan? #nPá e martelo..."
-
 102040-129 = "Isso é um pouco..."
-
 102040-135 = "Sim!"
-
 102040-139 = "Ah, quem são vocês? ?"
-
 102040-140 = "Hoje é outro grande dia para o desenvolvimento de fontes termais!"
-
 102040-142 = "fonte termal......"
-
 102040-143 = "Departamento de desenvolvimento...! ?"
-
 102040-144 = "Oh, é uma fonte termal? Tem algo assim aqui..."
-
 102040-146 = "Hahahahaha! Estamos aqui porque tem uma fonte termal lá! Não, mesmo que não haja fontes termais, ainda estamos aqui!"
-
 102040-148 = "Não se preocupe com os detalhes. #nNós ficaremos encarregados disso."
-
 102040-150 = "U-Sim...?"
-
 102040-154 = "Basta cavar e cavar, remover prédios e queimar tudo, certo? #nAgora é hora do desenvolvimento das fontes termais! !"
-
 102040-155 = "Seria bom se finalmente pudéssemos chegar às fontes termais! Não há necessidade de pensar muito sobre isso!"
-
 102040-156 = "Além disso, sempre tive curiosidade em saber que tipo de fontes termais existem no subsolo do Millennium. Ou seja, é uma ótima oportunidade!"
-
-102040-158 = ""'Hahahahahaha!!!'""
+102040-158 = "\"'Hahahahahaha!!!'\""
 
 102040-163 = "Nossa, havia pessoas incríveis lá..."
-
 102040-165 = "Em frente à Sala de Reflexão do Milénio"
-
 102040-166 = "Suspirar..."
-
 102040-177 = "Olá, senpai! ?"
-
-102040-178 = "Codinome: "Coelho Branco"...Não, [ruby=Kurosaki]Kurosaki[/ruby]Koyuki...#nPor favor, saia e me deixe ir."
+102040-178 = "Codinome: \"Coelho Branco\"...Não, KurosakiKoyuki...#nPor favor, saia e me deixe ir."
 
 102040-179 = "Koyuki-chan, como você está?"
-
 102040-180 = "Sou eu? liberar? #n, agora? Por que?"
-
 102040-181 = "Eu não tenho tempo. Saia rapidamente, Koyuki."
-
 102040-182 = "Eu-eu não gosto disso! Para um veterano vir de repente e liberar você, isso é definitivamente algo!"
-
 102040-183 = "Por fim, eles mandam para o departamento correcional! ? Isso mesmo! ?"
-
 102040-184 = "……."
-
 102040-185 = "……."
-
 102040-186 = "Ha, acho que não tenho escolha a não ser levá-la comigo à força. #nNoah, por favor me ajude."
-
 102040-187 = "Hehe, não posso evitar."
-
 102040-193 = "Uau! ? Não venha! #n Senpai é assustador! Não! Impossível! Eu sou contra o assédio de poder! !"
-
 102040-196 = "O que é aquilo?! Você esteve quieto até agora, não foi? #nNão causei nenhum problema e nem escapei! terrível! Contra a violência! É uma falsa acusação! !"
-
 102040-197 = "Ei, você provavelmente está aqui por causa dos problemas que causou! #nOnde você está dizendo que isso é uma acusação falsa? ?"
-
 102040-198 = "Muito bem, Yuka-chan. #nKoyuki-chan também parece estar arrependido."
-
 102040-199 = "introspecção! ? De que parte disso você se arrepende?"
-
 102040-200 = "Isso mesmo! Por favor, pare de dizer isso como se fosse minha culpa!"
-
 102040-201 = "Isso foi um caso de força maior, ou melhor, foi um acontecimento..."
-
 102040-202 = "A falsificação de títulos está acontecendo! ?"
-
 102040-203 = "Ah, e... você veio me capturar usando um C&C sênior super intimidante! Já é traumático!"
-
 102040-205 = "……."
-
 102040-206 = "Koyuki-chan... você está fazendo uma auto-reflexão, não está?"
-
-102040-207 = "Hein, hein...? Bem, eu acho... um sistema criptográfico [ruby=sloppy]desleixado[/ruby] é ruim desde o início, certo? é por isso--"
-
+102040-207 = "Hein, hein...? Bem, eu acho... um sistema criptográfico desleixado é ruim desde o início, certo? é por isso--"
 102040-208 = "Co-yu-ki-chan?"
-
 102040-209 = "Hum... isso..."
-
 102040-210 = "Se-senpai... esse rosto é seriamente assustador, por favor, pare..."
-
 102040-211 = "Como meu superior disse, eu estava errado..."
-
 102040-212 = "Do que você se arrepende?"
-
 102040-213 = "Ha, sim... estou me arrependendo..."
-
-102040-214 = "ふふっ、いい子ですね。"
+102040-214 = "Hehe, que boa menina."
 
 102040-215 = "Ei, Yuuka-chan. #nComo você pode ver, Koyuki-chan também parece estar arrependido."
-
 102040-216 = "Por que você está tão quieto com Noah? ?"
-
 102040-217 = "Mas Noah-senpai às vezes é realmente assustador... parece que ele está saindo de um sonho..."
-
 102040-218 = "Ela até especifica a hora e o minuto do que ela disse no passado e diz: ``Koyuki-chan, o que você disse naquela época é diferente, não é?'' Sério, é um pouco..."
-
 102040-219 = "Então... o que exatamente aconteceu para vocês dois virem nos visitar...?"
-
 102040-220 = "Para ser franco, precisamos da força de Koyuki-chan."
-
 102040-221 = "sim. Preciso da sua misteriosa habilidade computacional. #nPor favor, retorne ao seminário agora."
-
 102040-222 = "Você quer ir ao seminário agora? #nFui demitido...?"
-
 102040-223 = "Isso não é verdade. #nVou explicar os detalhes conforme for avançando, então se apresse."
-
 102040-224 = "sim. Eu também trouxe o uniforme da Koyuki-chan, então troque aqui."
-
 102040-225 = "Mas... eu gosto muito dessa roupa..."
-
 102040-227 = "Co-yu-ki-chan?"
-
 102040-228 = "Ei... eu entendo..."
-
 102040-232 = "Tudo o que resta... é o Sanctum 6, localizado no coração de D.U."
-
 102040-233 = "Ei, que tal?"
-
 102040-235 = "Centro de D.U."
-
 102040-236 = "A evacuação civil foi concluída. #nVários centros de evacuação foram instalados a 30 km da Torre Sanctum."
-
-102040-237 = "No entanto, não há pessoal suficiente. Além disso, comida. #n Valquíria e colaboradores voluntários estão estacionados no centro de evacuação para ajudar, mas..."
-
+102040-237 = "No entanto, não há pessoal suficiente. Além disso, comida. #n Valkyrie e colaboradores voluntários estão estacionados no centro de evacuação para ajudar, mas..."
 102040-239 = "Por favor clique aqui. Este é o mingau feito por Fuuka-senpai. #nVai te aquecer."
-
 102040-240 = "obrigado……."
-
 102040-244 = "Julie, você pode me dar isso também?"
-
 102040-245 = "Sim, Senpai!"
-
 102040-246 = "Ufa... próximo..."
-
 102040-247 = "Posso ajudá-lo com algo? sênior."
-
 102040-248 = "Tudo bem, estou acostumada a cozinhar. #nJuri, por favor, sirva as refeições normalmente."
-
 102040-249 = "Sim, Senpai! Certamente precisamos da ajuda do departamento de merenda escolar aqui!"
-
 102040-250 = "Tudo bem se você puder ajudar..."
-
 102040-251 = "Mas se as coisas continuarem assim, poderemos ficar sem ingredientes..."
-
 102040-256 = "falta?"
-
 102040-257 = "Ei, o que há de errado? ?"
-
 102040-264 = "Hehehe. Fuuka-san, vim para Suketachi."
-
 102040-265 = "Chegamos★"
-
 102040-266 = "Por que o Grupo de Pesquisa Gourmet…! ? #nOu melhor, por que você está tão molhado...! ?"
-
 102040-267 = "Ouvi dizer que você administrava uma cozinha comunitária e veio ajudar! Olhar!"
-
 102040-268 = "oh sim! Eu trouxe os ingredientes!"
-
 102040-273 = "Ah... tanto peixe fresco...!"
-
 102040-274 = "Parece que teremos ingredientes suficientes, Senpai!"
-
 102040-275 = "Ah, isso mesmo... Posso fazer sopas, frituras e grelhados com isso...#nO equilíbrio nutricional parece estar bom."
-
 102040-276 = "Mas estou curioso para saber por que vocês estão andando no caminhão da merenda escolar..."
-
 102040-277 = "Bem, tudo bem. Não foi difícil coletar peixes?"
-
 102040-279 = "Foi tão difícil! Água próxima--"
-
 102040-283 = "Nnnnnnnnnnn! ?"
-
 102040-284 = "Bem, não se preocupe com os detalhes!"
-
 102040-286 = "Hehe. Não somos amigos do clube de merenda escolar? #nDevemos ajudar uns aos outros quando estamos com problemas."
-
 102040-287 = "Não, não estamos tão perto..."
-
 102040-288 = "...Bem, tudo bem. #nÉ verdade que você me ajudou... obrigado."
-
 102040-290 = "Hehe, de jeito nenhum."
-
 102040-291 = "Bem, nós também fazemos isso quando é hora de fazer!"
-
 102040-292 = "A amizade é realmente maravilhosa, não é?"
-
 102040-293 = "Então, quando posso comer esse peixe?"
-
 102040-295 = "Não há ninguém na ala D.U.Siratri agora. #nVá à loucura como quiser."
-
 102040-296 = "Obrigado...O guardião do 6º Santuário ainda não foi confirmado, mas possui a energia mais poderosa entre os 6 Santuários..."
-
 102040-297 = "Quando o guardião aparecer, guie-o até a área onde a evacuação foi concluída e ali inicie a operação."
-
-102040-299 = "Hifumi, estamos patrulhando o perímetro externo de D.U. e em busca de guardiões - [ruby=chamados][/ruby], uma unidade de reconhecimento."
-
+102040-299 = "Hifumi, estamos patrulhando o perímetro externo de D.U. e em busca de guardiões - , uma unidade de reconhecimento."
 102040-300 = "Ah... por que estamos..."
-
 102040-301 = "Provavelmente porque as habilidades de manobra de Hifumi são incríveis. #nEu sou o suficiente para proteger Hifumi sozinho."
-
 102040-302 = "Naquela época, conseguimos eliminar 30 membros do Comitê de Realização da Justiça... mas agora, não seria um problema se o dobro de pessoas viessem."
-
 102040-303 = "Bem, eu não queria fazer isso... mas..."
-
 102040-304 = "...Eu estava planejando assistir ao filme de efeitos especiais de Peroro-sama hoje..."
-
 102040-306 = "Sim, eu também estava ansioso por isso..."
-
 102040-307 = "Então, vamos assistir juntos depois que essa operação terminar, Hifumi."
-
 102040-308 = "None"
-
 102040-309 = "Sim, Azusa-chan. Esta missão...vamos fazer o nosso melhor!"
-
 102040-310 = "ah."
-
 102040-312 = "Você está pronto? Nyahaha."
-
 102040-313 = "[s] \"Niya! Como foi?\""
-
 102040-314 = "Pois bem, Kaho, obrigado pelo resto."
-
 102040-315 = "Ufa... vocês estão prontos?"
-
 102040-319 = "Izuna, ouvi a voz do Senhor! #nEstamos aqui para cumprir uma missão especial!"
-
 102040-320 = "Então, eu cheguei..."
-
-102040-321 = "Cohon! Visite o chefe do Clube de Pesquisa Ninjutsu, [ruby=Chidori]Chidori[/ruby]Michiru! #nDeclaro minha intenção de participar aqui!"
-
+102040-321 = "Cohon! Visite o chefe do Clube de Pesquisa Ninjutsu, ChidoriMichiru! #nDeclaro minha intenção de participar aqui!"
 102040-322 = "Olha...aqui...declaração..."
-
 102040-323 = "[s] \"Clube de Pesquisa de Ninjutsu...!?\""
-
 102040-324 = "Esta é a cena onde Tsukuyo anuncia a participação do Ninjutsu Research Club! #n Mostre mais a sua presença!"
-
 102040-325 = "E-É mesmo...? #nUau, sinto que ainda tenho uma presença forte..."
-
 102040-326 = "Hum, isso não é suficiente!"
-
 102040-327 = "Tsukuyo, Izuna!"
-
 102040-328 = "Sim, chefe!"
-
 102040-329 = "Ah, sim! ?"
-
-102040-330 = "Vamos fazer a "Hiper pose estilo Ninja"!"
+102040-330 = "Vamos fazer a \"Hiper pose estilo Ninja\"!"
 
 102040-331 = "Ei, ei, essa é a pose final...! ?"
-
 102040-332 = "Como esperado de você, chefe! #nVocê ataca com todas as suas forças! Izuna, eu entendo!"
-
 102040-333 = "……."
-
 102040-334 = "Nyahahaha! Saiu, aquela pose famosa!"
-
 102040-339 = "O que é um ninja? E o que é Ninpo?"
-
 102040-340 = "A essência do ninja...!"
-
 102040-341 = "...Eh, hum, você está realmente bem?...?"
-
 102040-345 = "Você está bem! ! Pesquise, explore e descubra sua essência..."
-
 102040-346 = "Tudo bem! Acredite em você, Tsukuyo!"
-
 102040-347 = "Um trio de ninjas fofos trabalhando nos bastidores para espalhar o charme dos ninjas!"
-
 102040-348 = "É um trio! ! Ninnin!"
-
 102040-352 = "Até a criança chorando ri na Hyakki Yagyo Union Academy."
-
 102040-353 = "O grupo ninja mais forte!"
-
 102040-355 = "Seu nome é “Clube de Pesquisa Ninjutsu”! !"
-
 102040-361 = "……."
-
 102040-362 = "(Crackle crackle!) #nNyahahahaha! Como esperado, todos. Afinal, Ninja era a resposta correta."
-
 102040-363 = "[soma...\""
-
 102040-364 = "Izuna, ouvi dizer que o Senhor tem um favor para me pedir... o que devo fazer?"
-
 102040-365 = "ei. O que é que só nós podemos fazer?"
-
 102040-366 = "Ops... Hmm, gostaria que o Clube de Pesquisa Ninjutsu realizasse missões especiais como uma unidade destacada de agora em diante."
-
 102040-367 = "Missão especial...?"
-
-102040-369 = "……sim. #nDe agora em diante, todos irão em direção ao "Grande Campo de Neve" no extremo norte de Hyakki Yagyo."
+102040-369 = "……sim. #nDe agora em diante, todos irão em direção ao \"Grande Campo de Neve\" no extremo norte de Hyakki Yagyo."
 
 102040-371 = "É o “Grande Campo de Neve”? ?"
-
 102040-372 = "Esse é um lugar onde não há nada além de neve! ? Por que...! ?"
-
-102040-374 = "Gostaria que você encontrasse o #n presidente do comitê "Hyakka Ryoran", que está desaparecido no momento."
+102040-374 = "Gostaria que você encontrasse o #n presidente do comitê \"Hyakka Ryoran\", que está desaparecido no momento."
 
 102040-375 = "Centenas de flores...? #n Presidente?"
-
 102040-376 = "Quando você diz “Hyakka Ryouran”… você quer dizer o Comitê de Mediação de Disputas…? #nEu me pergunto se você não estará na sala do comitê..."
-
 102040-377 = "Isso é..."
-
 102040-378 = "...! #nÉ verdade que não tenho visto muitas flores ultimamente."
-
 102040-379 = "Algo está errado, Kaho."
-
 102040-380 = "...Sim, você está certo."
-
 102040-381 = "Mas se estamos procurando alguém, não precisamos fazer isso...?"
-
 102040-383 = "Bem, isso é verdade ~... O único aluno do terceiro ano que se lembra da aparência de Hyakka Ryouran e em quem pode confiar é Runrun do #nNinjutsu Research Club, então você diz isso ~?"
-
 102040-384 = "Quem é Runrun! ?"
-
 102040-385 = "Oh meu Deus! O gerente sabe mais sobre Hyakka Ryoran, certo?"
-
 102040-386 = "Hmm, nós nos cruzamos várias vezes...? #nMas também não me lembro direito..."
-
 102040-387 = "Hehehe. Isso é o suficiente."
-
 102040-389 = "(Aquele gerente insidioso, o que diabos você está planejando desta vez...?)"
-
-102040-391 = "Eu vejo. Izuna, eu entendo! #nVocê só precisa descobrir o paradeiro da pessoa chamada "Kuzunoha"!"
+102040-391 = "Eu vejo. Izuna, eu entendo! #nVocê só precisa descobrir o paradeiro da pessoa chamada \"Kuzunoha\"!"
 
 102040-392 = "Eu conheço essa pessoa como o ``Presidente do Hyakka Ryoran''...#nmmm, eu entendo, vou tentar."
-
 102040-393 = "Gerente! Hyakka Ryouran é forte? #nÉ tão legal quanto um ninja?"
-
 102040-394 = "Hyakka Ryouran era um comitê formado inteiramente por elites..."
-
 102040-395 = "Hya, Hyakka Ryouran, Comitê de Mediação de Disputas... Já ouvi falar disso..."
-
 102040-396 = "Bem, não é melhor que um ninja! #nO ninja é sempre o último que resta!"
-
 102040-397 = "Isso mesmo! Como esperado de um ninja!"
-
 102040-398 = "[s1] \"Izuna, Tsukuyo, Michiru, por favor. Esta é uma missão importante.\" \n[s2] \"Se você encontrar essa pessoa, por favor diga a ela para ``contatar Petri.'' \""
-
 102040-399 = "Sim, eu entendo!"
-
 102040-400 = "Sim, eu entendo!"
-
 102040-401 = "Ha, eu entendo... Estou em dívida com o Sr. Sensei de muitas maneiras..."
-
 102040-402 = "Sim... mas farei o meu melhor..."
-
 102040-406 = "Estamos enfrentando uma crise sem precedentes como esta. Você está dizendo que as ações que Hyakka Ryouran realizará são predeterminadas ou está dizendo que pode adivinhá-las..."
-
 102040-407 = "O presidente do Comitê das Cem Flores provavelmente está indo para o “Templo do Crepúsculo” no Grande Campo de Neve."
-
 102040-408 = "Como resultado da mobilização de todas as minhas redes de informação e da dedução disso... é quase certo que este é o lugar onde o Presidente das Cem Flores, Ryouran e Kuzunoha, se encontrarão."
-
 102040-409 = "Então espero poder conhecê-lo se eu for para lá. Nyahaha ~."
-
 102040-410 = "...Neste momento, só posso esperar que a dedução de Niya-sama esteja correta."
-
 102040-411 = "Isso é terrível. Essa é uma conclusão na qual estou bastante confiante."
-
 102040-412 = "Felizmente, o Grande Campo Nevado é menos afetado pelo “Sanctum of Illusion”, então não é tão perigoso..."
-
 102040-413 = "Actualmente não sabemos nada sobre esta situação, por isso não devemos baixar a guarda."
-
 102040-414 = "Então, por favor... tenha cuidado."
-
 102040-415 = "deixe-me ver. #nA situação é atual, portanto, caso não esteja no templo, retorne imediatamente."
-
 102040-416 = "Além disso, por favor, mantenha esta missão confidencial."
-
 102040-418 = "……Concordo. Há muitas coisas que ainda não podem ser tornadas públicas..."
-
 102040-420 = "entendido. Se não houver ninguém lá, já volto."
-
 102040-421 = "Se acontecer alguma coisa, entrarei em contato com você... Obrigado."
-
 102040-422 = "Agora, o Clube de Pesquisa Ninjutsu parte para o Grande Campo de Neve em busca do presidente das Cem Flores!"
-
 102040-426 = "Bem, vamos esperar pelo relatório de acompanhamento."
-
 102040-427 = "……."
-
 102040-429 = "...Kikiki, entendo."
-
 102040-431 = "Você conseguiu algumas informações importantes. Clube de Pesquisa Ninjutsu, ei."
-
 102040-432 = "ABC! Onde você está? Prepare isso!"
-
 102040-433 = "O que? O que? #nOu não deveríamos responder às chamadas da placa de Petri?"
-
 102040-434 = "...Kikikiki, não se preocupe com isso, Iroha. #nJá está tudo combinado."
-
 102040-435 = "sim? O que você diz de novo..."
-
 102040-437 = "KiKiKiKi, isso significa que é uma grande oportunidade. #nNão posso me dar ao luxo de perder isso."
-
 102040-439 = "Próxima vez; Preparação da operação (3)"
-

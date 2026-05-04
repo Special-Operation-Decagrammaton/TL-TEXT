@@ -1,121 +1,49 @@
 [translation]
 1012303-1 = "Além da estagnação"
-
 1012303-2 = "Escritório da placa de Petri"
-
 1012303-3 = "(Como Seia estava chegando, limpei rapidamente o quarto bagunçado.)"
-
 1012303-8 = "Hmm... eu não esperava que você se preparasse com tanto cuidado."
-
 1012303-9 = "Acho que isso tornaria mais difícil a visita."
-
 1012303-10 = "[s1] \"...Seia?\"\n[s2] \"Ei, que bom ver você.\""
-
 1012303-17 = "……."
-
-1012303-18 = "Não, prefiro dizer que é uma honra. #nA preocupação do meu professor comigo. É a prova disso."
-
+1012303-18 = "Não, prefiro dizer que é uma honra. #nA preocupação do meu sensei comigo. É a prova disso."
 1012303-19 = "É correto interpretar isso como se dissesse que minha presença entre os professores aumentou ainda mais?"
-
 1012303-20 = "[s3] \"...Seia?\"\n[s4] \"Você veio até aqui vestido assim?\""
-
 1012303-23 = "...Hehe, você está interessado?"
-
 1012303-24 = "Não há nada com que se preocupar. Tenho certeza que ninguém vai me julgar por essa roupa. #nVim de carro hoje."
-
 1012303-25 = "……Sim?"
-
 1012303-26 = "Você gosta dessa roupa? #nAh, claro. Isso é tudo que tenho usado ultimamente."
-
 1012303-27 = "A resposta é – claro. #nPorque eu mesmo fiz parecer."
-
 1012303-28 = "Pensando bem, ainda não ouvi nenhum feedback."
-
 1012303-29 = "Que tipo de palavras você dirá?"
+1012303-30 = "[s5] \"Claro, você fica bem nele.\"\n[s6] \"Você tem um bom senso de moda.\"\"\n1012303-33 = \"...Hum.\"\n1012303-34 = \"Embora seja como esperado...#nÉ importante não decepcionar.\"\n1012303-38 = \"...Estou escondendo meu constrangimento. Não se preocupe com isso.\"\n1012303-39 = \"Sentido de moda... hein...\"\n1012303-40 = \"Eu tenho um ditado secreto.\"\n1012303-41 = \"Acho que essa é a melhor parte: criar uma forma de evitar a mediocridade sem estragar o sabor da estação.\"\n1012303-42 = \"Parece uma história bem escrita ou um mistério inteligente... Acho que você poderia chamá-lo de #n.\"\n1012303-43 = \"No entanto, dada a minha posição, não posso ignorar os olhares daqueles que me rodeiam. #nA realidade é que existem muito poucas oportunidades para colocar isso em prática.\"\n1012303-44 = \"É por isso que quando surge uma oportunidade, você deve aproveitá-la ao máximo.\"\n1012303-45 = \"Não há nada de errado em querer que as pessoas vejam do que você se orgulha, certo?\"\n1012303-46 = \"É por isso que seu elogio foi muito bom. #nFiquei feliz.\"\n1012303-47 = \"...Oh, isso não é surpreendente?\"\n1012303-48 = \"[s7] \"Um pouco. Mas acho que é uma coisa boa.\"\n[s8] \"Estou feliz em ver um novo lado seu.\""
 
-1012303-30 = "[s5] \"Claro, você fica bem nele.\"\n[s6] \"Você tem um bom senso de moda.""
-
-1012303-33 = "...Hum."
-
-1012303-34 = "Embora seja como esperado...#nÉ importante não decepcionar."
-
-1012303-38 = "...Estou escondendo meu constrangimento. Não se preocupe com isso."
-
-1012303-39 = "Sentido de moda... hein..."
-
-1012303-40 = "Eu tenho um ditado secreto."
-
-1012303-41 = "Acho que essa é a melhor parte: criar uma forma de evitar a mediocridade sem estragar o sabor da estação."
-
-1012303-42 = "Parece uma história bem escrita ou um mistério inteligente... Acho que você poderia chamá-lo de #n."
-
-1012303-43 = "No entanto, dada a minha posição, não posso ignorar os olhares daqueles que me rodeiam. #nA realidade é que existem muito poucas oportunidades para colocar isso em prática."
-
-1012303-44 = "É por isso que quando surge uma oportunidade, você deve aproveitá-la ao máximo."
-
-1012303-45 = "Não há nada de errado em querer que as pessoas vejam do que você se orgulha, certo?"
-
-1012303-46 = "É por isso que seu elogio foi muito bom. #nFiquei feliz."
-
-1012303-47 = "...Oh, isso não é surpreendente?"
-
-1012303-48 = "[s7] \"Um pouco. Mas acho que é uma coisa boa.\"\n[s8] \"Estou feliz em ver um novo lado seu.""
-
-1012303-51 = "Professor... você jogou fora seu vocabulário negativo em algum lugar?"
-
-1012303-52 = "Se eu fosse ganancioso, não me importaria de brincar na água com o professor...#nNo entanto, o professor não parece ser assim."
-
+1012303-51 = "Sensei... você jogou fora seu vocabulário negativo em algum lugar?"
+1012303-52 = "Se eu fosse ganancioso, não me importaria de brincar na água com o sensei...#nNo entanto, o sensei não parece ser assim."
 1012303-53 = "Não se preocupe. Não vou interferir no seu trabalho."
-
 1012303-57 = "...Não, está tudo bem. #nO egoísmo perde seu brilho se for feito com muita frequência."
-
 1012303-58 = "Vamos passar um tempo tranquilo aqui hoje. #nEu gostaria de ser perdoado por tamanho luxo..."
-
 1012303-59 = "[s9] \"Claro.\"\n[s10] \"Em qualquer lugar, quanto você quiser.\""
-
 1012303-62 = "…………."
-
 1012303-66 = "…………."
-
 1012303-67 = "[s11] \"Seia?\"\n[s12] \"O-O que há de errado...?\""
-
 1012303-70 = "...Não se preocupe com isso e continue trabalhando."
-
 1012303-71 = "Mesmo sabendo que você era esse tipo de pessoa, a culpa foi minha por fazer a mesma coisa sem nenhum remorso."
-
-1012303-72 = "Se esta for a intenção do professor, não nos resta outra alternativa senão dar um passo em frente."
-
+1012303-72 = "Se esta for a intenção do sensei, não nos resta outra alternativa senão dar um passo em frente."
 1012303-80 = "[ns13] \"...S-Seia!?\"\n[ns14] \"Acho que gostaria que você me desse um tempo disso...\""
-
 1012303-83 = "Você disse “em todos os lugares”, certo? #nVamos descansar um pouco aqui hoje."
-
 1012303-84 = "Ou... se desejar, posso ajudá-lo em algo. #nA menos que seja algo como ``apenas uma tarefa'' ou ``documento confidencial''."
-
 1012303-85 = "Por enquanto, quando se trata de trabalho, sou muito bom nisso."
-
 1012303-86 = "……sim?"
-
 1012303-87 = "Você está com raiva? EU? Por que você pergunta isso? #nÉ você... você realmente achou que eu estava com raiva...?"
-
 1012303-88 = "...Hehe."
-
 1012303-89 = "Não creio que minhas opiniões sejam estreitas o suficiente para ficar irritado com algo assim."
-
 1012303-90 = "……Oh céus."
-
 1012303-91 = "Fiquei um pouco irritado, mas graças a você isso não importava mais."
-
 1012303-92 = "Na verdade, é muito confortável sentar."
-
 1012303-96 = "...no seu colo."
-
-1012303-97 = "Vamos, professor. Vamos trabalhar imediatamente? #n Vamos limpar rapidamente e relaxar sem preocupações."
-
+1012303-97 = "Vamos, sensei. Vamos trabalhar imediatamente? #n Vamos limpar rapidamente e relaxar sem preocupações."
 1012303-98 = "De outra forma..."
-
 1012303-103 = "Meu trabalho ocupa um tempo valioso que deveria ser gasto comigo."
-
 1012303-105 = "(Com a ajuda de Seia, o trabalho do dia foi concluído mais cedo do que o esperado.)"
-
 1012303-106 = "(Depois de tirar uma soneca confortável no sofá da sala de descanso, Seia foi para casa.)"
-

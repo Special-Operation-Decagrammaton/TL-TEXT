@@ -1,79 +1,78 @@
 [translation]
-1007103-1 = "SRT, treinamento."
+1007103-1 = "SRT, trem"
 
-1007103-3 = "Os incidentes que ocorrem no mar estão sujeitos a várias restrições, diferentemente dos que ocorrem em terra."
+1007103-3 = "Os incidentes que ocorrem no mar são diferentes dos que ocorrem em terra e existem várias restrições."
 
-1007103-4 = "A bordo de um navio, por exemplo, passagens estreitas e muitos pontos cegos significam que é preciso se proteger constantemente contra ataques surpresa."
+1007103-4 = "Por exemplo, num navio, as passagens são estreitas e existem muitos pontos cegos, por isso é preciso estar sempre atento contra ataques surpresa."
 
-1007103-5 = "Acima de tudo, o navio balança e é fácil perder o equilíbrio. Também é difícil acertar o número de miras."
+1007103-5 = "Acima de tudo, o barco balança, o que facilita a perda de equilíbrio. #nTambém tenho dificuldade em mirar corretamente."
 
-1007103-6 = "A única maneira de resolver qualquer um dos problemas é repetir o treinamento constantemente. ......"
+1007103-6 = "A única maneira de resolver qualquer problema é praticar de forma constante e repetida..."
 
-1007103-7 = "Infelizmente, o pelotão RABBIT não tem proficiência em operações marítimas devido ao curto período de treinamento."
+1007103-7 = "Infelizmente, devido ao curto período de treino do pelotão RABBIT, falta-lhes proficiência suficiente em operações marítimas."
 
-1007103-8 = "Como estamos em uma vila de pescadores, estávamos pensando em treinar a bordo do navio. ......"
+1007103-8 = "Agora que estamos numa vila de pescadores, estava pensando em um treinamento que aconteceria em um barco..."
 
-1007103-9 = "Foi-nos gentilmente oferecido o uso de um barco."
+1007103-9 = "Graças à sua gentileza, conseguimos emprestar-lhe um barco."
 
-1007103-10 = "[É bom saber disso. \""
+1007103-10 = "[s] \"Isso foi bom.\""
 
-1007103-12 = "[ns1] \"Então, em que posso ajudá-lo? \"\n[ns2] \"Dirigir um barco pode ser um pouco difícil. ......\""
+1007103-12 = "[ns1] \"それじゃあ、私は何を手伝えばいいのかな？\"\n[ns2] \"船の運転は、ちょっと難しいかもだけど……\""
+1007103-15 = "Não se preocupe. Quando se trata de dirigir o navio, deixe comigo."
 
-1007103-15 = "Não se preocupe. Se quiser dirigir o barco, deixe comigo."
+1007103-16 = "O professor tem o papel de refém..."
 
-1007103-16 = "Os professores têm o papel de reféns: ......"
+1007103-20 = "... Provavelmente seria mais rápido explicar no local do que explicar aqui."
 
-1007103-20 = "...... Afinal, seria mais rápido explicar isso no campo do que aqui."
+1007103-21 = "Daremos mais detalhes assim que chegarmos ao seu destino."
 
-1007103-21 = "Mais detalhes serão fornecidos quando você chegar ao local de destino."
+1007103-22 = "[s] Suba a bordo."
 
-1007103-22 = "[Embarque."
+1007103-28 = "...Bem, com licença. Vou apertar um pouco mais o cinto do colete salva-vidas. #nSim. Agora, se você cair na água, você ficará bem. Agora vamos embora."
 
-1007103-28 = "......, desculpe-me. Vou apertar um pouco mais o cinto do colete salva-vidas. #nSim. Agora você está seguro se cair na água. Agora vamos continuar."
+1007103-33 = "(Depois de um tempo, quando a terra não era mais visível...)"
 
-1007103-33 = "(Depois de um tempo, quando a terra não estiver mais visível: ......)"
+1007103-37 = "... Já era hora."
 
-1007103-37 = "...... Já era hora."
+1007103-38 = "Estar tão longe da terra dificulta a natação até o navio, além de haver oscilação devido aos efeitos das ondas, portanto esta é uma situação ideal que fica perto do próprio local."
 
-1007103-38 = "Com essa distância da terra, seria difícil nadar perto do barco e o balanço causado pelas ondas tornaria a situação ideal e próxima do local real."
+1007103-39 = "O treinamento de hoje é para resgate de reféns capturados a bordo de um navio."
 
-1007103-39 = "O exercício de hoje é um exercício de resgate de reféns presos a bordo."
+1007103-40 = "Sensei está agindo como refém, então por favor permaneça contido e espere na cabine."
 
-1007103-40 = "O professor desempenha o papel de refém e deve permanecer na cabine em uma posição de contenção."
+1007103-41 = "...Agora, vamos amarrar."
 
-1007103-41 = "Em ......, vou amarrá-lo."
+1007103-47 = "[ns] \"E-Não está amarrado com muita força?\""
 
-1007103-47 = "[ns] \"Ts, você não está amarrando muito apertado? \""
+1007103-48 = "Claro. Não faz sentido poder se mover."
 
-1007103-48 = "Naturalmente. Se você não consegue se mover, não faz sentido."
+1007103-49 = "O treinamento deve sempre ser conduzido tendo em mente o desempenho real. #nMinha postura pode ser um pouco difícil, mas por favor me perdoe."
 
-1007103-49 = "O treinamento deve sempre ser conduzido com a realidade em mente. #nPerdoe-me se minha postura for um pouco dura."
+1007103-50 = "Agora que as restrições foram concluídas, me preparo para entrar pelo convés..."
 
-1007103-50 = "Bem, agora que as restrições estão no lugar, estou pronto para entrar pelo convés: ......"
+1007103-54 = "...Ah."
 
-1007103-54 = "Oh, ......."
+1007103-55 = "[s] \"...O que há de errado?\""
 
-1007103-55 = "[s]\"......What's wrong? \""
+1007103-56 = "Pedi ao meu professor para fazer o papel de refém, mas esqueci da unidade inimiga virtual..."
 
-1007103-56 = "Pedi ao médico que fizesse o papel de refém, mas fiquei decepcionado com a força inimiga virtual. ......"
+1007103-57 = "Fiquei muito animado em poder fazer o treinamento a bordo..."
 
-1007103-57 = "Estávamos animados com o fato de podermos treinar a bordo. ......"
+1007103-58 = "...Se não houver inimigo virtual, não haverá treinamento para operações de resgate."
 
-1007103-58 = "...... Sem um inimigo virtual, não há treinamento para operações de resgate."
+1007103-59 = "[s3] \"Não tem jeito.\"\n[s4] \"O treinamento de hoje é...\""
 
-1007103-59 = "[s3] \"Então não temos escolha. \"\n[s4] \"O treinamento de hoje é ......\.""
+1007103-60 = "……Concordo. Deixaremos a operação de resgate de reféns para outro momento e passaremos para o treinamento de fuga para escoltar os prisioneiros de volta para casa."
 
-1007103-60 = "...... Sim, é isso mesmo. Deixaremos a operação de resgate de reféns para outra ocasião e passaremos a um exercício de fuga para escoltar os prisioneiros de guerra de volta."
+1007103-61 = "……Concordo. Deixaremos a operação de resgate de reféns para outro momento e passaremos para o treinamento de fuga para escoltar os prisioneiros de volta para casa."
 
-1007103-61 = "...... Sim, é isso mesmo. Deixaremos a operação de resgate de reféns para outro momento e mudaremos para um exercício de fuga para escoltar os prisioneiros de guerra de volta."
+1007103-65 = "[ns5] \"Hum...Miyako-san?\"\n[ns6] \"Você não vai liberar as restrições...?\""
 
-1007103-65 = "[ns5] \"erm ...... Miyako? \"\n[ns6] \"Eles não vão liberar as amarras ......? \"\"\n[ns6]?"
+1007103-68 = "Professor, você está bem? #nO professor é um prisioneiro de guerra, portanto, siga minhas instruções."
 
-1007103-68 = "Senhor, posso? #Senhor, você é um prisioneiro de guerra e deve seguir minhas instruções."
+1007103-69 = "Além disso, como eu disse anteriormente..."
 
-1007103-69 = "E, como eu disse anteriormente: ......"
+1007103-74 = "Sempre abordo o treinamento como se fosse real."
 
-1007103-74 = "Eu sempre encaro o treinamento como se estivesse no programa."
-
-1007103-76 = "(Mais tarde, como prisioneiro do Miyako, ele se divertiu a bordo)."
+1007103-76 = "(Depois disso, nos divertimos muito no navio como prisioneiros de Miyako.)"
 

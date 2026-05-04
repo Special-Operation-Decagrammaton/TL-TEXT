@@ -1,103 +1,47 @@
 [translation]
 80000100-1 = "O coração da degustação"
-
 80000100-2 = "Genbu Shokai"
-
 80000100-3 = "(Rumi me pediu para provar a comida, então fui para Genbu Shokai)"
-
 80000100-4 = "Ah, professora. Bem-vindo."
-
 80000100-5 = "Vamos, venha aqui. ...Sente-se mais perto."
-
 80000100-6 = "[s] \"Desculpe, desculpe. A propósito, o que você fez para mim hoje?\""
-
 80000100-7 = "Isso mesmo...que tal um chá primeiro? Porque consegui algumas folhas de chá boas."
-
 80000100-8 = "Confiei nas minhas habilidades e preparei muitas coisas hoje."
-
 80000100-9 = "(Eu saciei minha garganta com o chá verde que Rumi preparou para mim)"
-
-80000100-10 = "Agora, se você fosse um professor astuto, acho que teria notado algo na hora de preparar o chá..."
-
-80000100-11 = "[s1] \"Hmm...me pergunto o que é.\"\n[s2] \"Eu meio que entendo.""
-
-80000100-12 = "Haha, como esperado, não houve muitas dicas. Certamente, se você pudesse entender os pensamentos de alguém apenas tomando uma xícara de chá, não haveria necessidade de conversar."
-
-80000100-13 = "Sim, eu vou te dar isso."
-
-80000100-14 = "real? Pois bem, gostaria de ouvir sua resposta."
-
-80000100-15 = "...Talvez você tenha preparado algo doce? #nComo esperado de você, Sensei. Não acredito que podemos nos comunicar sem palavras."
-
-80000100-20 = "esse? É um bolo lunar."
-
-80000100-21 = "É um pouco diferente dos mooncakes normais porque contém chocolate."
-
-80000100-22 = "[s] \"Sinto que os três tipos são diferentes.""
+80000100-10 = "Agora, se você fosse um sensei astuto, acho que teria notado algo na hora de preparar o chá..."
+80000100-11 = "[s1] \"Hmm...me pergunto o que é.\"\n[s2] \"Eu meio que entendo.\"\"\n80000100-12 = \"Haha, como esperado, não houve muitas dicas. Certamente, se você pudesse entender os pensamentos de alguém apenas tomando uma xícara de chá, não haveria necessidade de conversar.\"\n80000100-13 = \"Sim, eu vou te dar isso.\"\n80000100-14 = \"real? Pois bem, gostaria de ouvir sua resposta.\"\n80000100-15 = \"...Talvez você tenha preparado algo doce? #nComo esperado de você, Sensei. Não acredito que podemos nos comunicar sem palavras.\"\n80000100-20 = \"esse? É um bolo lunar.\"\n80000100-21 = \"É um pouco diferente dos mooncakes normais porque contém chocolate.\"\n80000100-22 = \"[s] \"Sinto que os três tipos são diferentes.\""
 
 80000100-23 = "São boas habilidades de observação. Como disse a professora, cada mooncake é diferente."
-
 80000100-24 = "O primeiro é igual até o embrulho da pasta de feijão, mas a superfície é revestida com chocolate."
-
 80000100-25 = "O segundo está embrulhado em chocolate."
-
 80000100-26 = "Finalmente, o terceiro tem uma cor de pelagem ligeiramente diferente dos outros."
-
 80000100-27 = "É feito afinando a casca, envolvendo-a em chocolate cremoso e congelando. #n Chame-o de bolo lunar de chocolate gelado!"
-
 80000100-28 = "Qual destes três seria melhor para o nome “bolo lunar de chocolate”?"
-
 80000100-29 = "Agora, não tenha pressa e divirta-se. Se for muito doce, experimente refrescar o paladar com chá verde."
-
 80000100-31 = "(Como Rumi me disse, eu os provei na ordem...)"
-
 80000100-32 = "(Todos estavam muito deliciosos e foi difícil escolher entre eles.)"
-
 80000100-34 = "Pois bem, gostaria de ouvir sua resposta."
-
-80000100-35 = "Qual você acha que é adequado para "bolo lunar de chocolate"?"
+80000100-35 = "Qual você acha que é adequado para \"bolo lunar de chocolate\"?"
 
 80000100-36 = "[s3] \"Acho que é o primeiro que cobre a superfície, mantendo o caráter de bolo lunar.\"\n[s4] \"Este é o segundo onde você pode desfrutar plenamente das delícias do chocolate.\"\n[s5] \"Dizem que cozinhar é um desafio, então acho que é o terceiro que é incomum.\""
-
 80000100-40 = "Entendo... Ok! Foi útil. Obrigado, senhor."
-
 80000100-41 = "[s] \"Mas eu tinha grandes expectativas para mais do que apenas a degustação...\""
-
 80000100-42 = "...É isso. Afinal, hoje é Dia dos Namorados, certo?"
-
 80000100-43 = "Então talvez a degustação tenha sido apenas uma desculpa..."
-
 80000100-44 = "[s] \"Huh...?\""
-
 80000100-45 = "……."
-
 80000100-46 = "...Eu nunca pensei que me sentiria assim."
-
 80000100-47 = "Quando você diz isso em voz alta... é constrangedor."
-
 80000100-48 = "Estava tudo bem quando pratiquei ontem, mas me pergunto por que..."
-
 80000100-49 = "Agora que eu disse isso, estou começando a me sentir ainda mais envergonhado... o que devo fazer?"
-
 80000100-50 = "[s6] \"...É isso que estou dizendo.\"\n[s7] \"Talvez eu devesse transmitir isso de forma um pouco mais clara...?\""
-
 80000100-53 = "Há algo nisso que eu não gosto."
-
-80000100-54 = "Porque... eu não queria esconder nada do meu professor."
-
+80000100-54 = "Porque... eu não queria esconder nada do meu sensei."
 80000100-55 = "Então, vamos conversar sobre tudo honestamente..."
-
 80000100-56 = "Nunca esperei que fosse tão constrangedor..."
-
 80000100-57 = "[s] \"...Já que estamos aqui, vamos comer juntos.\""
-
-80000100-58 = "foto? Mas eu preparei isso para o professor, certo?"
-
+80000100-58 = "foto? Mas eu preparei isso para o sensei, certo?"
 80000100-59 = "É tão grande que não consigo terminar...?"
-
 80000100-60 = "……."
-
 80000100-61 = "Sim, eu entendo. Espere um momento, vou preparar um chá."
-
 80000100-63 = "(Nós dois saboreávamos calmamente os bolos lunares de chocolate e conversávamos de vez em quando.)"
-

@@ -1,111 +1,58 @@
 [translation]
 1009302-1 = "Atividades do clube de Kirala"
-
 1009302-2 = "(Vi alunos conversando alegremente a caminho de casa depois de terminar uma tarefa em Gehenna)."
-
 1009302-10 = "[ns] (Parece divertido. ......)"
-
 1009302-12 = "Oh, estamos aqui! #n Até mais tarde, Kirala!"
-
 1009302-13 = "Estou preso!"
-
 1009302-19 = "O quê?"
-
-1009302-21 = "[USERNAME] Você é um professor, Haro Haro~!"
-
+1009302-21 = "[USERNAME] Você é um sensei, Haro Haro~!"
 1009302-22 = "Voltou do trabalho? Também estou indo para casa!"
-
 1009302-23 = "[\"A garota com quem você estava é sua amiga? \""
-
 1009302-24 = "É isso mesmo~! Eu o conheci há pouco tempo!"
-
 1009302-25 = "[s1] \"Você acabou de conhecer ......? \"\n[s2] \"Você parecia muito amigável! \""
-
 1009302-28 = "Não importa realmente quando nos conhecemos, não é?"
-
 1009302-29 = "â"
-
 1009302-30 = "Acho que já somos colegas do médico também, não acha?"
-
 1009302-31 = "[s]\"Este é o yangka ......! \""
-
 1009302-32 = "Haha, que divertido!"
-
 1009302-33 = "Quero dizer, isso é ...... talvez você esteja com ciúmes?"
-
 1009302-34 = "Ahahaha! Desculpe, desculpe... ♪ Não fique de mau humor porque vamos para casa juntos ♪"
-
 1009302-48 = "E então, sabe, eu estava em uma loja de conveniência e, de repente..."
-
 1009302-49 = "Oh, eu estava aqui! Vejo você mais tarde!"
-
 1009302-50 = "Eu me diverti muito hoje! Obrigado, professora... ♪"
-
 1009302-51 = "[s]\"Eu só estava pensando. ....... \""
-
 1009302-52 = "O quê? O quê, o quê, o quê?"
-
 1009302-53 = "[s3] \"Kira não participa de nenhuma atividade do clube nem nada? \"\n[s4] \"Se ela está indo para casa a essa hora, pensei que talvez ela não esteja em nenhum lugar. \""
-
 1009302-56 = "Haha, pensei que fosse alguma coisa porque você parece tão sério!"
-
 1009302-57 = "Hmmm... ...... Estou em um clube, caso você esteja se perguntando."
+1009302-58 = "Bem, mas com certeza parece uma \"volta ao lar\" normal, não é?"
 
-1009302-58 = "Bem, mas com certeza parece uma "volta ao lar" normal, não é?"
-
-1009302-59 = "Hmmm, talvez eu deva contar para o professor..."
-
+1009302-59 = "Hmmm, talvez eu deva contar para o sensei..."
 1009302-60 = "De fato, há algum tempo, eu era realmente uma pessoa caseira. ......"
-
 1009302-65 = "O clube do qual faço parte se chama..."
-
-1009302-66 = ""Clube do brilho"!"
+1009302-66 = "\"Clube do brilho\"!"
 
 1009302-67 = "[s] \"Sparkling ...... part? \""
-
 1009302-68 = "Muito empolgante - #n atividades de clube muito brilhantes!"
-
 1009302-69 = "[s]\"Nah, estou vendo. ......? \""
-
 1009302-70 = "As atividades regulares do clube são boas, mas é um pouco demais para mim."
-
 1009302-71 = "Se você faz as mesmas atividades todos os dias, verá as mesmas pessoas, certo?"
-
 1009302-72 = "Isso parece divertido, mas ......#n eu gostaria de conhecer muito mais pessoas!"
-
-1009302-73 = "Foi por isso que criei esses clubes"."
-
-1009302-74 = "Você pode fazer amizade com novas pessoas que nem sequer conhecia antes de ontem. ......"
-
-1009302-75 = "Vá direto para a praça de alimentação para conversar e ...... comprar roupas. ......"
-
-1009302-76 = "Eu quero cantar! Estou com vontade de cantar!", você pode ir direto para o karaokê ou acessar o site ......."
+1009302-73 = "Foi por isso que criei esses clubes\".\"\n1009302-74 = \"Você pode fazer amizade com novas pessoas que nem sequer conhecia antes de ontem. ......\"\n1009302-75 = \"Vá direto para a praça de alimentação para conversar e ...... comprar roupas. ......\"\n1009302-76 = \"Eu quero cantar! Estou com vontade de cantar!\", você pode ir direto para o karaokê ou acessar o site ......."
 
 1009302-77 = "É assim que brincamos com todos os tipos de coisas"
+1009302-78 = "É claro que não precisa ser um primeiro encontro absoluto, e não precisa ser #n compras ou karaokê - mas #n \"De qualquer forma, divirta-se!\" é a primeira coisa..."
 
-1009302-78 = "É claro que não precisa ser um primeiro encontro absoluto, e não precisa ser #n compras ou karaokê - mas #n "De qualquer forma, divirta-se!" é a primeira coisa..."
-
-1009302-79 = "Esse é o lema do nosso "Glitter Club"!"
+1009302-79 = "Esse é o lema do nosso \"Glitter Club\"!"
 
 1009302-80 = "Não é tudo muito brilhante e empolgante?"
-
 1009302-81 = "[\"Sim, é muito parecido com o Kirala. \""
-
 1009302-82 = "Haha, é isso mesmo?"
-
 1009302-83 = "Bem, eu faço o que eu quiser. #Por que você não faz o que quiser também?"
-
-1009302-84 = "Ah, mas ele é um professor, então por que não? Haha!"
-
+1009302-84 = "Ah, mas ele é um sensei, então por que não? Haha!"
 1009302-85 = "Eu me diverti muito hoje..."
-
 1009302-86 = "Por que não? Por que não? ......."
-
-1009302-93 = "Porque, veja você, eu pude conversar com o professor... chave de ouro!"
-
-1009302-94 = "Como era seu professor?"
-
+1009302-93 = "Porque, veja você, eu pude conversar com o sensei... chave de ouro!"
+1009302-94 = "Como era seu sensei?"
 1009302-95 = "[\"Também gostei de conhecer melhor a Kirala. \""
-
 1009302-96 = "Haha, bom, bom, bom!"
-

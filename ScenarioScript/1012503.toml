@@ -1,135 +1,44 @@
 [translation]
 1012503-1 = "\tChapéu mágico"
-
 1012503-4 = "Uh... você veio, Mestre!"
-
 1012503-5 = "O que devo fazer...?"
-
 1012503-6 = "Tenho prova prática esta tarde...#nO supervisor responsável é famoso por ser extremamente cruel e extremamente rígido."
-
 1012503-7 = "É claro que é proibido trazer chapéus e outros itens não relacionados ao exame...!"
-
 1012503-8 = "Para mim, tirar o chapéu e fazer um exame é como ser convidado a andar pelado pela cidade!"
-
 1012503-12 = "Realmente, o que devo fazer..."
-
 1012503-13 = "Mestre...eu não quero sair pelado..."
-
 1012503-19 = "[ns1] \"Vamos trocar de lugar por enquanto!\"\n[ns2] \"Seria ruim se houvesse um estranho mal-entendido...!\""
-
 1012503-25 = "(Ouvi calmamente a história de Eli em um lugar tranquilo)"
-
 1012503-28 = "[ns3] \"Então, a única coisa que você pode trazer são materiais de arte, certo?\"\n[ns4] \"Claro, você pode desenhar se precisar apenas disso...\""
-
 1012503-31 = "...Mestre, você está dizendo que eu deveria tirar o chapéu também?"
-
 1012503-32 = "Em outras palavras... você quer que pareça nada...?"
-
 1012503-33 = "[s] \"Eu não disse isso!\""
-
 1012503-34 = "Se isso acontecer, só há uma maneira de fazer isso: peça ao fiscal da prova para ocupar o seu lugar...!"
-
 1012503-35 = "Acho que afinal é uma maldição...#nDurante o exame, tive que fazer uma pausa devido a dores de estômago..."
-
 1012503-36 = "[s] \"V-você pode usar magia assim!?\""
-
 1012503-37 = "Nada é impossível com magia. Se você secretamente adicionar um pouco à sua refeição..."
-
-1012503-38 = "[s] \"Não é mágica, é crime, então não!""
-
-1012503-39 = "Ugh...uuuuuu...!"
-
-1012503-40 = "E-eu sei... eu não deveria fazer isso..."
-
-1012503-41 = "...Será impossível substituir o inspetor do exame agora."
-
-1012503-42 = "Nesse ritmo, irei para a sala de exames sem todo o meu equipamento――"
-
-1012503-43 = "E então, enquanto ela estava desarmada, seu poder mágico acabou, e ela olhou para ela assim...!"
-
-1012503-44 = "[s5] \"Calma! Ainda dá tempo!\"\n[s6] \"Gostaria de tirar o chapéu e praticar desenho?\""
-
-1012503-47 = "De agora em diante?"
-
-1012503-48 = "Concordo……. #nEles não vão esperar pela prova da tarde..."
-
-1012503-49 = "Você está determinado...? Ufa…."
-
-1012503-50 = "Ok, vou tirar meu chapéu...! #nÉ constrangedor, mas...!"
-
-1012503-54 = "...Mestre, por favor feche os olhos e olhe ali. #nVocê definitivamente deveria assistir!"
-
-1012503-56 = "(Como me disseram, fechei os olhos e desviei o olhar.)"
-
-1012503-60 = "Ufa…."
-
-1012503-61 = "Melhor ainda, tire a roupa com o chapéu..."
-
-1012503-62 = "[s] \"Por favor, não faça isso!""
+1012503-38 = "[s] \"Não é mágica, é crime, então não!\"\"\n1012503-39 = \"Ugh...uuuuuu...!\"\n1012503-40 = \"E-eu sei... eu não deveria fazer isso...\"\n1012503-41 = \"...Será impossível substituir o inspetor do exame agora.\"\n1012503-42 = \"Nesse ritmo, irei para a sala de exames sem todo o meu equipamento――\"\n1012503-43 = \"E então, enquanto ela estava desarmada, seu poder mágico acabou, e ela olhou para ela assim...!\"\n1012503-44 = \"[s5] \"Calma! Ainda dá tempo!\"\n[s6] \"Gostaria de tirar o chapéu e praticar desenho?\"\"\n1012503-47 = \"De agora em diante?\"\n1012503-48 = \"Concordo……. #nEles não vão esperar pela prova da tarde...\"\n1012503-49 = \"Você está determinado...? Ufa….\"\n1012503-50 = \"Ok, vou tirar meu chapéu...! #nÉ constrangedor, mas...!\"\n1012503-54 = \"...Mestre, por favor feche os olhos e olhe ali. #nVocê definitivamente deveria assistir!\"\n1012503-56 = \"(Como me disseram, fechei os olhos e desviei o olhar.)\"\n1012503-60 = \"Ufa….\"\n1012503-61 = \"Melhor ainda, tire a roupa com o chapéu...\"\n1012503-62 = \"[s] \"Por favor, não faça isso!\""
 
 1012503-63 = "Eu entendo! É uma piada, é uma piada!"
-
 1012503-64 = "... Ufa. #nNão há problema em abrir os olhos agora, Mestre."
-
 1012503-66 = "O que você acha? Não é estranho...?"
-
-1012503-67 = "[s7] \"Não é nada estranho.\"\n[s8] \"É muito natural, não se preocupe.""
-
-1012503-70 = "E-É mesmo? Nyufufufu…."
-
-1012503-71 = "Obrigado, Mestre. Eu me sinto com mais energia."
-
-1012503-79 = "Ah, é a Eri-chan."
-
-1012503-80 = "Yahoo, Eri-chan! É incomum que ele não esteja usando chapéu."
-
-1012503-81 = "Ah! Huh! Ei, pessoal...! ?"
-
-1012503-82 = "Ah, ah, hum, olá! Por que você está aqui...! ?"
-
-1012503-83 = "Vim aqui praticar para o exame prático da tarde."
-
-1012503-84 = "Eri também está praticando?"
-
-1012503-85 = "Vamos dar o nosso melhor juntos no exame! Porque estou torcendo por você!"
-
-1012503-86 = "Ah, ah... obrigado! Mas farei o meu melhor...! !"
-
-1012503-91 = "Aaaaa...! Bem, acabou...! #nPara poder ver pessoas nuas no mesmo departamento...!"
-
-1012503-92 = "[s] \"Não estou nu! Acalme-se!""
+1012503-67 = "[s7] \"Não é nada estranho.\"\n[s8] \"É muito natural, não se preocupe.\"\"\n1012503-70 = \"E-É mesmo? Nyufufufu….\"\n1012503-71 = \"Obrigado, Mestre. Eu me sinto com mais energia.\"\n1012503-79 = \"Ah, é a Eri-chan.\"\n1012503-80 = \"Yahoo, Eri-chan! É incomum que ele não esteja usando chapéu.\"\n1012503-81 = \"Ah! Huh! Ei, pessoal...! ?\"\n1012503-82 = \"Ah, ah, hum, olá! Por que você está aqui...! ?\"\n1012503-83 = \"Vim aqui praticar para o exame prático da tarde.\"\n1012503-84 = \"Eri também está praticando?\"\n1012503-85 = \"Vamos dar o nosso melhor juntos no exame! Porque estou torcendo por você!\"\n1012503-86 = \"Ah, ah... obrigado! Mas farei o meu melhor...! !\"\n1012503-91 = \"Aaaaa...! Bem, acabou...! #nPara poder ver pessoas nuas no mesmo departamento...!\"\n1012503-92 = \"[s] \"Não estou nu! Acalme-se!\""
 
 1012503-93 = "...Isso mesmo! #nTirar o chapéu é uma grande coisa...! #n...Em geral."
-
 1012503-98 = "...Hmm, talvez isso seja impossível, afinal."
-
 1012503-99 = "Não importa o que você faça, basta trazer seu chapéu para a sala de exames..."
-
 1012503-100 = "...Isso mesmo. Tudo que você precisa fazer é criar um chapéu transparente usando magia!"
-
 1012503-101 = "Se você usá-lo, não terá que se preocupar com a possibilidade de ele ser confiscado...!"
-
 1012503-102 = "...Não é o mesmo que não usar, afinal?"
-
-1012503-106 = "Isso é como um "rei nu"!"
+1012503-106 = "Isso é como um \"rei nu\"!"
 
 1012503-107 = "Ahhhh, não mais! Afinal, o examinador foi amaldiçoado com magia...!"
-
 1012503-108 = "[s9] \"Ah, acalme-se! Apenas pratique!\"\n[s10] \"Se você tentar, tenho certeza que conseguirá fazer um bom desenho!\""
-
 1012503-111 = "Ugh...me pergunto se consigo realmente desenhar..."
-
 1012503-112 = "[s] \"Sim! Vou manter você perto de mim e reabastecer sua mana!\""
-
 1012503-113 = "...Se o Mestre diz isso."
-
 1012503-114 = "……entendi. Vou tentar mudar um pouco de ideia."
-
 1012503-115 = "Concordo. #nSe você esquecer o constrangimento de fingir ser modelo para um desenho nu..."
-
 1012503-116 = "A nudez também é uma bela arte...!"
-
 1012503-117 = "[s] \"E-eu sinto que algo está errado... Boa sorte!\""
-
 1012503-119 = "(Assim, ele se tornou o modelo de Eli e começou a praticar para o exame prático.)"
-

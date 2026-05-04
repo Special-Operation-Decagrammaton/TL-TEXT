@@ -1,195 +1,101 @@
 [translation]
 1011302-1 = "Hora do passatempo (1)"
-
 1011302-2 = "(cheguei ao parque um pouco mais cedo)"
-
 1011302-3 = "[ns1] \"Estou feliz por ter conhecido Sena no parque, mas...\"\n[ns2] \"O que devo fazer...?\""
-
 1011302-7 = "[ns3] \"Os hobbies de Sena eram esperar e manter remédios...\"\n[ns4] \"Mas você não pode fazer isso no parque...\""
-
-1011302-10 = "Você é o tipo de professor que se preocupa se a outra pessoa está se divertindo?"
-
+1011302-10 = "Você é o tipo de sensei que se preocupa se a outra pessoa está se divertindo?"
 1011302-11 = "[ns] \"Seria melhor se pudéssemos nos divertir juntos...\""
-
-1011302-12 = "Então, se a outra pessoa estiver se divertindo, o professor também ficará satisfeito?"
-
+1011302-12 = "Então, se a outra pessoa estiver se divertindo, o sensei também ficará satisfeito?"
 1011302-13 = "[ns5] \"Bem, depende da situação...\"\n[ns6] \"Acho que você ficará feliz.\""
-
 1011302-16 = "... Entendo, isso foi útil."
-
 1011302-17 = "[ns] \"Sim, isso seria ótimo...hein?\""
-
 1011302-22 = "Olá, você já está aqui."
-
 1011302-23 = "[s] \"Quando você veio!?\""
-
-1011302-24 = "Agora posso entender um pouco melhor o professor."
-
+1011302-24 = "Agora posso entender um pouco melhor o sensei."
 1011302-25 = "Há algumas coisas que excedem as minhas expectativas."
-
 1011302-26 = "...Sou eu? #nNão se preocupe com isso. Mais do que isso, estou feliz por ter conhecido você."
-
 1011302-27 = "...Eu estava ansioso por isso."
-
 1011302-28 = "Então, você poderia me contar seus planos depois disso?"
-
 1011302-29 = "Meu propósito foi alcançado quando te conheci."
-
 1011302-30 = "É bom o suficiente terminar agora."
-
 1011302-31 = "Contudo, aproveitamos para falar de um futuro brilhante..."
-
 1011302-32 = "...Oh meu Deus."
-
-1011302-33 = "[s7] \"Não, não, isso pode ser um pouco diferente!?\"\n[s8] \"Isso mesmo, vamos "aguardar"! \""
+1011302-33 = "[s7] \"Não, não, isso pode ser um pouco diferente!?\"\n[s8] \"Isso mesmo, vamos \"aguardar\"! \""
 
 1011302-36 = "...Ok, vamos fazer isso."
+1011302-37 = "Porém, não tenho certeza se o sensei também vai gostar..."
+1011302-38 = "Eu acredito no sensei."
+1011302-40 = "(Foi assim que decidi \"aguardar\"...)"
 
-1011302-37 = "Porém, não tenho certeza se o professor também vai gostar..."
-
-1011302-38 = "Eu acredito no professor."
-
-1011302-40 = "(Foi assim que decidi "aguardar"...)"
-
-1011302-44 = "Professor, você está bem?"
-
+1011302-44 = "Sensei, você está bem?"
 1011302-45 = "Não entendo o que você está dizendo...?"
-
-1011302-46 = "...O atual professor parecia muito entediado."
-
+1011302-46 = "...O atual sensei parecia muito entediado."
 1011302-47 = "[s] \"Como você sabe!?\""
-
 1011302-48 = "Sim, é apenas um sentimento..."
-
 1011302-49 = "Você saberá quando ver."
-
 1011302-50 = "Quanto a mim..."
-
 1011302-51 = "Parece extremamente perigoso."
-
 1011302-52 = "...Tudo o que você pode ver."
-
 1011302-53 = "[s] \"Eh, por quê!?\""
-
 1011302-54 = "Por favor, dê uma olhada lá."
-
 1011302-58 = "Ahahaha! Pare com isso, irmã! É delicado!"
-
 1011302-59 = "Faz cócegas aqui? #nOlha, não adianta fugir!"
-
 1011302-61 = "Pode parecer apenas crianças brincando."
-
 1011302-62 = "Mas, ao mesmo tempo, é uma situação muito perigosa."
-
 1011302-63 = "O corpo humano é considerado normal quando mantém a saturação de oxigênio em 99%."
-
 1011302-64 = "Cócegas excessivas podem diminuir a saturação de oxigênio e causar hipóxia."
-
 1011302-65 = "Bem, normalmente isso não me agrada muito..."
-
 1011302-66 = "Os humanos são criaturas imprevisíveis."
-
 1011302-67 = "Além disso... há pessoas lá que estão fazendo coisas perigosas."
-
 1011302-69 = "Ah... parece delicioso."
-
 1011302-70 = "Ok, vamos adicionar os ovos termais mais tarde."
-
 1011302-71 = "Vamos começar pelo macarrão?"
-
 1011302-73 = "Xícara de ramen com ovos termais - uma maneira única de saboreá-lo."
-
 1011302-74 = "No entanto, os ovos são mais difíceis de comer do que o macarrão, e o macarrão tende a ficar preso na garganta."
-
 1011302-75 = "Nesse caso, é mais seguro comer ovos primeiro para enviar um sinal ao estômago."
-
 1011302-76 = "Acima de tudo, se você comer macarrão demais de uma vez, sua traqueia ficará entupida e você se transformará em um cadáver... não, em um paciente de emergência."
-
 1011302-77 = "Isso não é tudo. #nHá elementos perigosos à espreita por lá também."
-
 1011302-79 = "Hmph, queijo, queijo."
-
 1011302-80 = "Picles são essenciais para o queijo!"
-
 1011302-81 = "Os picles refrescantes complementam o rico sabor do queijo."
-
 1011302-83 = "...É perigoso comer queijo e picles juntos."
-
 1011302-84 = "É encontrado em um componente chamado tiramina, que está envolvido na fermentação dos alimentos."
-
 1011302-85 = "Queijo e picles são alimentos fermentados que contêm grandes quantidades de tiramina."
-
 1011302-86 = "Em outras palavras, a ingestão excessiva pode causar estimulação significativa do sistema nervoso simpático, podendo causar arritmia."
-
 1011302-87 = "Na pior das hipóteses, pode causar parada cardíaca, por isso você deve ter cuidado."
-
 1011302-88 = "[s9] \"Então, para viver com segurança...\"\n[s10] \"É melhor ficar parado e não comer nada...?\""
-
 1011302-91 = "Sim, se todos os nutrientes estiverem satisfeitos, acho que é a opção mais segura."
-
 1011302-92 = "[s] \"Isso não é muito extremo!?\""
-
 1011302-93 = "E no caso improvável de ocorrer uma emergência, a nossa equipa de medicina de emergência está sempre pronta para responder imediatamente."
-
 1011302-94 = "[s] \"Não tenho palavras para responder...\""
-
-1011302-95 = "O professor parece que estou apenas gostando da espera?"
-
+1011302-95 = "O sensei parece que estou apenas gostando da espera?"
 1011302-96 = "...Esse não é realmente o caso."
-
 1011302-97 = "Enquanto esperava assim, organizei documentos e verifiquei registros..."
-
 1011302-98 = "Passar um tempo em um lugar onde não há ninguém por perto e estar pronto para correr para o trabalho a qualquer momento...#nPara mim, esse tempo me permite me acalmar."
-
 1011302-99 = "E...#nBem, há uma expectativa de fenômenos desconhecidos."
-
 1011302-100 = "[s] \"O que você quer dizer?\""
-
 1011302-101 = "...Ninguém conhece o futuro."
-
 1011302-102 = "Portanto, isso criará ansiedade."
-
 1011302-103 = "Mas é também isso que nos move."
-
 1011302-104 = "Não, é porque não podemos prever quando e onde os corpos serão encontrados...#nNão, é impossível prever quando e onde os ferimentos ocorrerão..."
-
 1011302-105 = "Esperar enquanto imagina tal situação cria uma sensação de tensão."
-
 1011302-106 = "Claro, seria melhor se nada acontecesse..."
-
 1011302-107 = "Além disso, há uma sensação de satisfação em observar o mundo com uma sensação de tensão."
-
 1011302-108 = "Eu aprecio esse sentimento."
-
 1011302-113 = "Já é essa hora."
-
 1011302-114 = "Talvez seja porque estou de vestido, mas minha temperatura corporal está mais baixa que o normal."
-
 1011302-115 = "Se isto continuar, existe o risco de hipotermia."
-
 1011302-116 = "Posso chegar um pouco mais perto...?"
-
 1011302-121 = "[ns] \"...Está realmente tão frio assim?\""
-
 1011302-122 = "...Não, é só uma desculpa."
-
-1011302-123 = "Isso é tudo que eu queria fazer com meu professor."
-
+1011302-123 = "Isso é tudo que eu queria fazer com meu sensei."
 1011302-124 = "Hoje é realmente..."
-
 1011302-128 = "Fiquei muito feliz em conhecer você."
-
 1011302-129 = "...Sinto muito, mas posso não ter palavras suficientes."
-
 1011302-130 = "Fiquei animado com a data de espera."
-
 1011302-131 = "O que é uma “data de espera”? #nVocê está perguntando coisas que são óbvias."
-
 1011302-132 = "É um encontro que acontece enquanto você espera."
-
 1011302-133 = "Como nós agora."
-
-1011302-135 = "(Gostei de um "encontro de espera" de meio dia com Sena)"
+1011302-135 = "(Gostei de um \"encontro de espera\" de meio dia com Sena)"
 
 1011302-136 = "(Data também inclui o significado de simplesmente “reunião”, portanto não deveria estar errado.)"
-

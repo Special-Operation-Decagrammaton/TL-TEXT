@@ -65,7 +65,7 @@
 
 10052195-51 = "Você se lembrou. Foi bom."
 
-10052195-52 = "O que importa é quem são [ruby=você]as outras pessoas[/ruby] e quais escolhas elas farão a partir de agora."
+10052195-52 = "O que importa é quem somos e quais escolhas faremos daqui para frente."
 
 10052195-53 = "Alice, a princesa sem nome dos deuses, e sua empregada e chave, Kei."
 
@@ -83,7 +83,7 @@
 
 10052195-60 = "Por esses sacerdotes, ela foi preparada como uma princesa de deuses sem nome."
 
-10052195-61 = "[ruby=Kivotos]Para retornar o mundo atual[/ruby] para um mundo governado por deuses sem nome em sua forma original."
+10052195-61 = "A fim de devolver o mundo a um mundo governado por deuses sem nome em sua forma original."
 
 10052195-62 = "O mesmo vale para a Chave dos Deuses Sem Nome."
 
@@ -133,7 +133,7 @@
 
 10052195-88 = "Parece que você percebeu. #nSim, se o outro lado retornar à sua forma original――"
 
-10052195-89 = "A possibilidade atual de [ruby=Tendou]Tendou[/ruby]Alice não existirá mais."
+10052195-89 = "A possibilidade atual de Alice não existe mais."
 
 10052195-90 = "! ! !"
 
@@ -261,7 +261,7 @@
 
 10052195-182 = "Isso significa que o outro lado esquecerá tudo o que viu, ouviu e percebeu neste lugar."
 
-10052195-183 = "O esquecimento é a condição mais importante para que eles permaneçam no [ruby=here]Kivotos[/ruby]."
+10052195-183 = "O esquecimento é a condição mais importante para que permaneçam."
 
 10052195-184 = "Eu sei. Mas isso não importa para Alice."
 
@@ -367,24 +367,15 @@
 
 10052195-251 = "o que……! ?"
 
-10052195-256 = "[log=아리스 결전 비무장]Olá! [wa:1250]Meu nome é Alice Tendo! [/registro]"
-
-10052195-257 = "[wa:1800][log=아리스 결전 비무장]Sou membro do departamento de desenvolvimento de jogos! [/registro]"
-
-10052195-262 = "[log=아리스 결전 비무장]Recentemente, comecei a aprender codificação,[/log]"
-
-10052195-263 = "[wa:2230][log=아리스 결전 비무장]Agora você pode fazer uma programação simples [wa:1130]! [/registro]"
-
-10052195-268 = "[log=아리스 결전 비무장]E [wa:960]Embora seja um aprendiz, ele também é um herói! [/registro]"
-
-10052195-273 = "[log=아리스 결전 비무장]Um herói...[wa:1080]Não é como se ele fosse particularmente bom em alguma coisa, [wa:1850]. [/registro]"
-
-10052195-278 = "[log=아리스 결전 비무장]Mas [wa:830]Seja corajoso com todos, [/log]"
-
-10052195-279 = "[wa:1910][log=아리스 결전 비무장]Este é um trabalho que leva você a uma jornada [wa:1000] além do horizonte! [/registro]"
-
-10052195-284 = "[log=아리스 결전 비무장]É por isso que [wa:960]Alice nunca desistirá [wa:1790] até o fim! [/registro]"
-
+10052195-256 = "[log=아리스 결전 비무장]こんにちは！[wa:1250]天童アリスといいます！[/log]"
+10052195-257 = "[wa:1800][log=아리스 결전 비무장]ゲーム開発部の部員です！[/log]"
+10052195-262 = "[log=아리스 결전 비무장]最近はコーディングを習い始めて、[/log]"
+10052195-263 = "[wa:2230][log=아리스 결전 비무장]簡単なプログラミングも[wa:1130]できるようになりました！[/log]"
+10052195-268 = "[log=아리스 결전 비무장]そして、[wa:960]見習いですが勇者でもあります！[/log]"
+10052195-273 = "[log=아리스 결전 비무장]勇者は……[wa:1080]何かが特別得意、[wa:1850]というわけではありません。[/log]"
+10052195-278 = "[log=아리스 결전 비무장]でも、[wa:830]みんなと一緒に勇気を出して、[/log]"
+10052195-279 = "[wa:1910][log=아리스 결전 비무장]地平線の向こうまで[wa:1000]旅に出るお仕事です！[/log]"
+10052195-284 = "[log=아리스 결전 비무장]だから、[wa:960]アリスは最後の最後まで[wa:1790]絶対にあきらめません！[/log]"
 10052195-287 = "Alice...!"
 
 10052195-288 = "Por favor, seja paciente só mais um pouco! Vamos mostrar exatamente quem somos!"
@@ -405,36 +396,21 @@
 
 10052195-296 = "! ?"
 
-10052195-302 = "[wa:170][log=케이 교복 무소속]...Ok, [wa:970]Alice. [/registro]"
-
-10052195-303 = "[wa:1540][log=케이 교복 무소속]Vou tentar. [/registro]"
-
-10052195-308 = "[log=케이 교복 무소속]Pesquise recursos disponíveis――[/log]"
-
-10052195-309 = "[wa:1700][log=케이 교복 무소속]Completo, [wa:1010]Intangível. [/registro]"
-
-10052195-314 = "[log=케이 교복 무소속] Expansão da área de recursos disponíveis. [/registro]"
-
-10052195-315 = "[wa:1940][log=케이 교복 무소속]Completo, [wa:1130]Estrutura [wa:1100]Todos os órgãos de informação do "Continente do Aço". [/registro]"
-
-10052195-320 = "[log=케이 교복 무소속]Ofertas defeituosas. [/registro]"
-
-10052195-321 = "[wa:1420][log=케이 교복 무소속]Mudança estrutural [wa:1420] e conversão iniciada. [/registro]"
-
-10052195-327 = "[log=아리스 결전 비무장]A heroína do milênio, [wa:1530]Alice, declara aqui! [/registro]"
-
-10052195-332 = "[log=아리스 결전 비무장]Nós damos as mãos [wa:1690] seguindo em frente,[/log]"
-
-10052195-333 = "[wa:1300][log=아리스 결전 비무장]Vou continuar a me desafiar até o limite! [/registro]"
-
-10052195-338 = "[log=아리스 결전 비무장]Mesmo que as pessoas não entendam, [wa:1960]Alice concorda com isso. [/registro]"
-
-10052195-343 = "[log=아리스 결전 비무장]Alice acredita que [wa:1030]Alice está certa[/log]"
-
-10052195-344 = "[wa:2180][log=아리스 결전 비무장]Vamos continuar [wa:1400]. [/registro]"
-
-10052195-349 = "[log=아리스 결전 비무장]Isso é o que -- [wa:1680]A "auto-prova" de Alice! [/registro]"
-
+10052195-302 = "[wa:170][log=케이 교복 무소속]……分かりました、[wa:970]アリス。[/log]"
+10052195-303 = "[wa:1540][log=케이 교복 무소속]やってみます。[/log]"
+10052195-308 = "[log=케이 교복 무소속]可用リソースを検索――[/log]"
+10052195-309 = "[wa:1700][log=케이 교복 무소속]完了、[wa:1010]無形物。[/log]"
+10052195-314 = "[log=케이 교복 무소속]可用リソース領域の拡大。[/log]"
+10052195-315 = "[wa:1940][log=케이 교복 무소속]完了、[wa:1130]構造物[wa:1100]「鋼鉄大陸」の全ての情報体。[/log]"
+10052195-320 = "[log=케이 교복 무소속]欠陥品の供物。[/log]"
+10052195-321 = "[wa:1420][log=케이 교복 무소속]構造変更[wa:1420]および変換開始。[/log]"
+10052195-327 = "[log=아리스 결전 비무장]ミレニアムの勇者、[wa:1530]アリスがここに宣言します！[/log]"
+10052195-332 = "[log=아리스 결전 비무장]私たちは手を取り合って[wa:1690]前に進み、[/log]"
+10052195-333 = "[wa:1300][log=아리스 결전 비무장]限界まで挑み続けます！[/log]"
+10052195-338 = "[log=아리스 결전 비무장]たとえ理解されなくたって、[wa:1960]アリスは平気です。[/log]"
+10052195-343 = "[log=아리스 결전 비무장]アリスは、[wa:1030]アリスが正しいと信じることを、[/log]"
+10052195-344 = "[wa:2180][log=아리스 결전 비무장]これからもずっと[wa:1400]続けていくだけですから。[/log]"
+10052195-349 = "[log=아리스 결전 비무장]それこそが――[wa:1680]アリスの「自己証明」です！[/log]"
 10052195-355 = "...Você recriou o corpo da chave e destruiu a harmonia construída aqui?"
 
 10052195-356 = "A razão pela qual o cinturão de Atzilut parou foi porque o fluxo que continuava a partir daquela harmonia foi interrompido."
@@ -529,7 +505,7 @@
 
 10052195-415 = "Himari?"
 
-10052195-416 = "コアから、メッセージが届いています。"
+10052195-416 = "Chegou uma mensagem do Core."
 
 10052195-417 = "[s] \"Você quer dizer do profeta...?\""
 
@@ -543,7 +519,7 @@
 
 10052195-422 = "Sim. Eu queria discutir isso também. Mas...."
 
-10052195-423 = "[s] \"Ok. Tente enviar mesmo assim.""
+10052195-423 = "[s] \"Ok. Tente enviar mesmo assim.\""
 
 10052195-424 = "professor! ?"
 
@@ -679,7 +655,7 @@
 
 10052195-550 = "Entender. Arona-senpai reservou um espaço específico dentro da caixa de Shittem."
 
-10052195-551 = "As vozes de todos foram muito gentis. Hehehe."
+10052195-551 = "As vozes de todos foram muito gentis. Ehehe."
 
 10052195-552 = "Mas Arona-senpai. #nE se for uma voz falsa criada para nos enganar?"
 
@@ -699,9 +675,9 @@
 
 10052195-563 = "……."
 
-10052195-565 = "[ns] \"Isso mesmo.""
+10052195-565 = "[ns] \"Isso mesmo.\""
 
-10052195-567 = "[ns] \"Vamos lembrar disso também.""
+10052195-567 = "[ns] \"Vamos lembrar disso também.\""
 
 10052195-568 = "……positivo."
 

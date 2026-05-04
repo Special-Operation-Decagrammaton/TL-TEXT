@@ -1,127 +1,53 @@
 [translation]
 1010506-1 = "Coragem para dar um passo à frente"
-
 1010506-2 = "(Depois de terminar seu trabalho, ele visitou a catedral em Trinity)."
-
 1010506-8 = "[Marie, desculpe tê-la feito esperar. \"\n[ns2] \"Posso entrar, ......? "
-
-1010506-11 = "...... Professor."
-
+1010506-11 = "...... Sensei."
 1010506-12 = "Obrigado por sua atenção."
-
 1010506-13 = "De repente, você é recebido com o traje de seu ídolo. ......"
-
 1010506-14 = "...... Eu o surpreendi?"
-
 1010506-15 = "Mas veja ......."
-
 1010506-16 = "Porque, enquanto eu estiver no palco, tenho que estar assim."
-
 1010506-17 = "...... Oh, não se preocupe."
-
 1010506-18 = "Não há outros."
-
 1010506-19 = "Somos os únicos aqui."
-
-1010506-20 = "...... Professor."
-
+1010506-20 = "...... Sensei."
 1010506-21 = "Pela gentileza das pessoas que sempre se preocupam comigo, sou muito grato a ......."
-
 1010506-22 = "...... Você gostaria de receber uma cópia?"
-
 1010506-23 = "É assim que estou agora em ......."
-
-1010506-24 = "Por causa do professor."
-
+1010506-24 = "Por causa do sensei."
 1010506-25 = "...... Sou apenas uma irmã."
-
 1010506-26 = "Portanto, a única maneira de retribuir era orando."
-
 1010506-27 = "...... Até o momento."
-
 1010506-28 = "Sabemos que o período de tempo em que podemos ficar ociosos é temporário."
-
 1010506-29 = "É por isso que criamos isso com sua ajuda."
-
 1010506-30 = "Se meu canto como ídolo pode ser um ato para os outros, então ......"
-
 1010506-31 = "Em seguida, acesse ......."
-
-1010506-32 = "...... Achei que poderia dar algo em troca ao professor além de orações."
-
+1010506-32 = "...... Achei que poderia dar algo em troca ao sensei além de orações."
 1010506-33 = "[s3] \"Então, hoje vamos subir ao palco no ....... \"\n[s4] \"É um show secreto. "
-
 1010506-36 = "...... phew."
-
 1010506-37 = "Sim, isso está correto."
-
 1010506-38 = "Fiquei pensando em como expressar esse sentimento. ......"
-
 1010506-39 = "À minha maneira, cantarei a música com toda a gratidão que puder reunir."
-
 1010506-40 = "Vou deixá-los com esta história: ......."
-
-1010506-41 = "Deixe-me cantar apenas para o professor."
-
+1010506-41 = "Deixe-me cantar apenas para o sensei."
 1010506-42 = "Não a irmã Marie. ......."
-
 1010506-46 = "...... como Marie the Idol."
-
 1010506-48 = "(Depois, assistiu à apresentação ao vivo de Marie em uma catedral particular)"
-
 1010506-49 = "(Era uma fase boa demais para ser guardada só para mim)."
-
 1010506-52 = "(Depois do show, decidi acompanhar Marie até seu quarto)."
-
 1010506-53 = "Uau, não se preocupe em enviá-los para ......."
-
 1010506-54 = "Os professores devem ir para casa mais cedo e descansar um pouco."
-
 1010506-55 = "Porque estou bem."
-
 1010506-56 = "É uma estrada normal e você não precisa se preocupar."
-
 1010506-57 = "Além disso, se você está tão preocupado com isso, acesse ......."
-
 1010506-58 = "Pode ser normal que os professores vejam seus alunos de folga. ......"
-
 1010506-59 = "Oh, ......."
-
 1010506-60 = "Sim, é. ......."
-
 1010506-64 = "...... phew."
-
-1010506-65 = "[Mary? \"\n[s6] \"O que há de errado? \"\"\n[s6]"\n[s7]"What's wrong?""
-
-1010506-68 = "Desculpe-me, eu estava apenas..."
-
-1010506-69 = "Acho que entendo um pouco mais sobre como você se sente."
-
-1010506-70 = "Sei que os professores do #n estão pensando em mim, assim como eu estou pensando neles."
-
-1010506-71 = "...... inadvertidamente."
-
-1010506-72 = "......."
-
-1010506-73 = "......, mas estou feliz por ter notado."
-
-1010506-74 = "Você estava certo em ser corajoso hoje."
-
-1010506-75 = "Seus professores estão sempre lhe ensinando."
-
-1010506-76 = "O tempo passado como ídolo foi uma lembrança muito preciosa."
-
-1010506-77 = "À minha maneira, acho que consegui chegar ao fim."
-
-1010506-78 = "Amanhã, tentarei fazer o melhor possível para servi-los novamente como irmã."
-
-1010506-79 = "[s7] \"Marie é uma boa garota. \"\n[s8] \"Bom trabalho, Marie. \"\n[s8] \"Bom trabalho, Marie.""
+1010506-65 = "[Mary? \"\n[s6] \"O que há de errado? \"\"\n[s6]\"\n[s7]\"What's wrong?\"\"\n1010506-68 = \"Desculpe-me, eu estava apenas...\"\n1010506-69 = \"Acho que entendo um pouco mais sobre como você se sente.\"\n1010506-70 = \"Sei que os professores do #n estão pensando em mim, assim como eu estou pensando neles.\"\n1010506-71 = \"...... inadvertidamente.\"\n1010506-72 = \".......\"\n1010506-73 = \"......, mas estou feliz por ter notado.\"\n1010506-74 = \"Você estava certo em ser corajoso hoje.\"\n1010506-75 = \"Seus professores estão sempre lhe ensinando.\"\n1010506-76 = \"O tempo passado como ídolo foi uma lembrança muito preciosa.\"\n1010506-77 = \"À minha maneira, acho que consegui chegar ao fim.\"\n1010506-78 = \"Amanhã, tentarei fazer o melhor possível para servi-los novamente como irmã.\"\n1010506-79 = \"[s7] \"Marie é uma boa garota. \"\n[s8] \"Bom trabalho, Marie. \"\n[s8] \"Bom trabalho, Marie.\""
 
 1010506-82 = "Ufa."
-
 1010506-83 = "Mais uma vez, ...... muito obrigado, doutor."
-
 1010506-84 = "Em seguida, acesse ......."
-
 1010506-85 = "...... me, como sempre, por favor."
-

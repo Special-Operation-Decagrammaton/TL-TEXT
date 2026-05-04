@@ -9,24 +9,20 @@
 
 1012902-19 = "[ns3] (Parece que não há ninguém lá)\n[ns4] Abra a porta lentamente."
 
-1012902-27 = "[wa:270]― [log=스즈미 매지컬]Diga, [wa:430]Sensei! ? [/registro]"
-
+1012902-27 = "[wa:270]― [log=스즈미 매지컬]せ、[wa:430]先生！？[/log]"
 1012902-30 = "― [log=스즈미 매지컬]Ei, [wa:370]Preciso de alguma coisa [wa:500]! ? [/registro]"
 
 1012902-32 = "― [log=스즈미 매지컬] Ou melhor, [wa:780] Há quanto tempo você está aqui? [/registro]"
 
-1012902-35 = "[ns5] \"Desculpe! Pensei que não havia ninguém lá...!"\n[ns6] \"Bati, mas não houve resposta...!\""
+1012902-35 = "[ns5] \"Desculpe! Pensei que não havia ninguém lá...!\"\n[ns6] \"Bati, mas não houve resposta...!\""
 
-1012902-36 = "[wa:770]― [log=스즈미 매지컬]Eu estava me concentrando na música[/log]"
-
-1012902-37 = "[wa:770]― [log=스즈미 매지컬]Eu estava me concentrando na música[/log]"
-
+1012902-36 = "[wa:770]― [log=스즈미 매지컬]音楽に集中していたので[/log]"
+1012902-37 = "[wa:770]― [log=스즈미 매지컬]音楽に集中していたので[/log]"
 1012902-39 = "― [log=스즈미 매지컬]Eu não percebi nada... [/log]"
 
 1012902-42 = "― [log=스즈미 매지컬]Mas [wa:710]Fiquei feliz que a outra pessoa fosse meu professor [wa:650]. [/registro]"
 
-1012902-45 = "[wa:2300]― [log=스즈미 매지컬]Ah, [wa:630], [wa:450]Essa fantasia é [wa:1020]Isso...! [/registro]"
-
+1012902-45 = "[wa:2300]― [log=스즈미 매지컬]あっ、[wa:630]こ、[wa:450]この衣装は、[wa:1020]その……！[/log]"
 1012902-47 = "― [log=스즈미 매지컬] Eu fiz isso [wa:690] para [wa:670] da investigação secreta do grupo de vigilantes [wa:800]... [/log]"
 
 1012902-50 = "― [log=스즈미 매지컬]Uau, [wa:250]Não é só meu hobby...! [/registro]"
@@ -35,8 +31,7 @@
 
 1012902-55 = "[ns] \"Combina com você, fofo.\""
 
-1012902-56 = "[wa:550]― [log=스즈미 매지컬]O tamanho cabe?[/log]"
-
+1012902-56 = "[wa:550]― [log=스즈미 매지컬]サイズが合うか[/log]"
 1012902-58 = "― [log=스즈미 매지컬]Eu queria conferir [wa:270] antes e [wa:1150] acabei de usar...! [/registro]"
 
 1012902-61 = "― [log=스즈미 매지컬] (ou [wa:850]Ela disse que eu era fofo...)[/log]"
@@ -47,15 +42,14 @@
 
 1012902-68 = "― [log=스즈미 매지컬] (Estou feliz, mas...![wa:2500]Mas...!)[/log]"
 
-1012902-71 = "[wa:1170]― [log=스즈미 매지컬]O que vi hoje é [/log]"
-
+1012902-71 = "[wa:1170]― [log=스즈미 매지컬]今日見たことは、[/log]"
 1012902-73 = "― [log=스즈미 매지컬]Por favor, mantenha isso em segredo dos outros [wa:650]! [/registro]"
 
 1012902-76 = "― [log=스즈미 매지컬]Este é [wa:1320]assunto confidencial... [wa:1570]! [/registro]"
 
 1012902-79 = "A propósito, você precisou de alguma coisa no vestiário?"
 
-1012902-80 = "[s7] \"As luzes estavam acesas.\"\n[s8] \"Achei que alguém tivesse caído.""
+1012902-80 = "[s7] \"As luzes estavam acesas.\"\n[s8] \"Achei que alguém tivesse caído.\""
 
 1012902-83 = "Eu vejo. Patrulha da placa de Petri."
 
@@ -71,7 +65,7 @@
 
 1012902-92 = "Bem, eu gostaria de trocar de roupa logo..."
 
-1012902-93 = "[s] \"Ah, isso mesmo! Com licença!""
+1012902-93 = "[s] \"Ah, isso mesmo! Com licença!\""
 
 1012902-94 = "Vejo você novamente."
 

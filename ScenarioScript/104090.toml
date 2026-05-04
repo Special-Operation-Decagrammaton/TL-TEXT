@@ -1,287 +1,154 @@
 [translation]
 104090-1 = "Episódio 9; Epílogo (1)"
-
-104090-6 = "Bom dia a todos os alunos Kivotos! Aqui é [ruby=Kawaru]Kawaru[/ruby] Sinon do Departamento de Notícias da Chronos!"
-
+104090-6 = "Bom dia a todos os alunos Kivotos! Aqui é Kawaru Sinon do Departamento de Notícias da Chronos!"
 104090-7 = "Hoje estou visitando D.U. Bairro Shiratoli, onde estão sendo realizados trabalhos de restauração. #nO que se vê ali é um edifício em fase de restauro."
-
 104090-8 = "O distrito de Shiratoli foi palco de uma batalha feroz entre robôs gigantes e monstros e foi uma das áreas mais atingidas em Kivotos."
-
 104090-9 = "Mas confira! Já renasceu como uma figura viva! #nAfinal, a redesenvolvimento é inevitável nas cidades! ?"
+104090-10 = "OgigiAoi, chefe do escritório financeiro do Conselho Estudantil da Federação, disse: \"Neste momento, restaurar a cidade é a principal prioridade\", e aprovou os fundos de apoio emergencial à reconstrução, e autorizou os funcionários administrativos do escritório de controle a executá-los."
 
-104090-10 = "[ruby=Oki]Ogigi[/ruby]Aoi, chefe do escritório financeiro do Conselho Estudantil da Federação, disse: "Neste momento, restaurar a cidade é a principal prioridade", e aprovou os fundos de apoio emergencial à reconstrução, e autorizou os funcionários administrativos do escritório de controle a executá-los."
-
-104090-11 = "[ruby=Nanagami]Nanagami[/ruby] Embora a resolução para censurar Lin tenha estagnado, alguns dizem que sua postura de priorizar a recuperação da cidade em detrimento da política é altamente louvável."
-
+104090-11 = "Nanagami Embora a resolução para censurar Lin tenha estagnado, alguns dizem que sua postura de priorizar a recuperação da cidade em detrimento da política é altamente louvável."
 104090-12 = "O destino dos custos dos terrenos, dos custos de construção e dos lucros da reabilitação não é especificado – pode-se realmente dizer que isto é realmente para o benefício dos cidadãos? ?"
-
 104090-13 = "Da próxima vez, para descobrir a verdade..."
-
 104090-14 = "sim? Não me engane? Se você estiver interessado..."
-
 104090-18 = "～Por favor, espere um pouco～"
-
 104090-20 = "-Muito tempo se passou desde aquele incidente."
-
 104090-21 = "Torres vermelhas aparecem por toda Kivotos, e um inimigo desconhecido sobe ao poder... Apesar de um incidente tão sem precedentes, os cidadãos que relembram o incidente estão claramente insatisfeitos."
-
 104090-22 = "Ouvi de muitos membros do público que “ocorreu algo que parecia um grande incidente, mas tudo chegou ao fim graças aos esforços da Placa de Petri, por isso é provavelmente uma coisa boa”."
-
 104090-23 = "Há também reações como “Um anúncio de placas de Petri?” e “Um plano de pegadinha com o Conselho Estudantil da Federação?”"
-
 104090-24 = "Na verdade, no DU, que sofreu os maiores danos com este incidente, apenas algumas pessoas ficaram feridas e ninguém morreu."
-
 104090-25 = "Alguns dizem que é um milagre termos escapado com tantos danos, considerando a escala do incidente, mas parece que isto não é totalmente compreendido pela maioria dos cidadãos."
-
 104090-26 = "Dado que não houve pedidos de recuperação ou de apoio por parte de outras regiões autónomas, é provável que outras regiões estejam numa situação semelhante."
-
 104090-27 = "Ah, há quem diga que a maior vítima deste incidente é o “Conselho Estudantil da Federação”. Afinal, o prédio do Conselho Estudantil da Federação e a “Torre do Santuário” foram destruídos!"
-
-104090-28 = "O desaparecimento da "Torre Sanctum" que gere os direitos de controlo administrativo da Kivotos..."
+104090-28 = "O desaparecimento da \"Torre Sanctum\" que gere os direitos de controlo administrativo da Kivotos..."
 
 104090-29 = "Kivotos morrerá assim! ? Alguns espectadores podem ter se sentido desconfortáveis ​​com isso."
-
 104090-30 = "No entanto, a Torre Sanctum já havia deixado de cumprir o seu papel após o desaparecimento do seu administrador final, o Presidente do Conselho Estudantil da Federação. Em outras palavras, mesmo que desapareça, não haverá nenhum dano real."
-
 104090-31 = "O Conselho Estudantil da Federação comentou que este incidente foi um “ataque causado por um fenômeno desconhecido” e não revelou quaisquer detalhes do incidente."
+104090-32 = "E na \"placa de Petri\" que se suspeita estar relacionada com este incidente,"
 
-104090-32 = "E na "placa de Petri" que se suspeita estar relacionada com este incidente,"
-
-104090-33 = "Quanto ao avistamento do professor correndo nu pelo campo, ele não fez nenhum comentário!"
-
-104090-34 = "「自らをヌーディストと称し自然回帰を訴えるのなら、なぜ電子機器を持っていたのか」という意見や、「これは人間と自然の共生を主張する、一種のパフォーマンスだ」という解釈が――"
+104090-33 = "Quanto ao avistamento do sensei correndo nu pelo campo, ele não fez nenhum comentário!"
+104090-34 = "Existem opiniões como “Se você se autodenomina nudista e defende o retorno à natureza, por que você tem um dispositivo eletrônico?” e “Este é um tipo de performance que defende a coexistência entre humanos e natureza”."
 
 104090-35 = "……sim? Espalhando teorias da conspiração? Não, isso é maravilhoso――"
-
 104090-39 = "～Por favor, espere um pouco～"
-
-104090-43 = "Em outras palavras, isso não é apenas silêncio para evitar a atenção do público? ? #n "Placa de Petri" deveria dizer a verdade agora..."
+104090-43 = "Em outras palavras, isso não é apenas silêncio para evitar a atenção do público? ? #n \"Placa de Petri\" deveria dizer a verdade agora..."
 
 104090-47 = "～Por favor, espere um pouco～"
-
 104090-49 = "...O Conselho Estudantil da Federação está prosseguindo com um projeto para reconstruir a Torre Sanctum e em breve revelará a torre reconstruída ao público."
-
 104090-50 = "Este é um projeto de grande escala baseado nas plantas existentes da Sanctum Tower, mas devido à dificuldade de construção, há rumores de que o projeto terá parceria com a empresa privada Kaiser Industries."
-
 104090-51 = "Em resposta a este boato, há vozes que dizem que apenas as grandes empresas de construção irão beneficiar, e os cidadãos estão cada vez mais preocupados com o aumento constante das taxas de juro e dos preços."
-
 104090-58 = "... Tsc."
-
 104090-59 = "É isso que quero dizer, Diretor de Defesa."
-
 104090-60 = "Sem nós, teria sido humilhante."
-
 104090-61 = "Isso não é mútuo? #nSe não fosse por mim, Kaiser estaria no meio do processo de falência neste momento."
-
 104090-62 = "...Está tudo bem em continuar o acordo?"
-
 104090-63 = "Quero tocar de novo na pessoa que coça meu pescoço enquanto durmo..."
-
 104090-64 = "...Uma pessoa comum provavelmente hesitaria em tomar esta decisão."
-
 104090-66 = "Contudo, uma pessoa só é um “super-humano” se realizar algo que as pessoas comuns não conseguem fazer."
-
 104090-67 = "……lei?"
-
 104090-68 = "Um super-humano é algo que se diferencia dos humanos medíocres. Obrigado pelo seu apoio contínuo, General."
-
 104090-69 = "kkkkkkkkkkkkkkk então. É exatamente o que o presidente esperava."
-
 104090-70 = "Um verdadeiro adulto dará as mãos aos inimigos de ontem em prol de uma causa maior."
-
 104090-71 = "Não sou um idiota que deixa minhas emoções mesquinhas tomarem conta de mim e arruinar meus planos."
-
 104090-72 = "Bem, vou continuar perguntando. Diretor do Gabinete de Defesa."
-
 104090-74 = "……."
-
 104090-75 = "……."
-
 104090-79 = "Alice, estou em casa."
-
 104090-80 = "Huh? Alice, o que você está fazendo?"
-
 104090-81 = "Modelo de plástico?"
-
 104090-85 = "Não, não é um modelo de plástico..."
-
 104090-90 = "O que é isso? robô……?"
-
-104090-91 = "……sim. Acho que provavelmente é... "Kei"."
+104090-91 = "……sim. Acho que provavelmente é... \"Kei\"."
 
 104090-92 = "Huh! ? Este é Kei...?"
-
 104090-93 = "Aquela criança... acho que ele desapareceu..."
-
 104090-94 = "Sim... naquela época ela desapareceu... e nunca mais a vi desde então."
-
 104090-95 = "Mas naquele momento... no momento em que Kei desapareceu... foi só por um momento, mas eu senti como se tivesse visto um robô parecido com este."
-
 104090-97 = "É por isso que eu queria fazer isso... para não esquecer."
-
 104090-98 = "Eu vejo..."
-
 104090-99 = "Alice..."
-
 104090-100 = "Kei...você acabou nos ajudando...#nTalvez pudéssemos ter nos tornado amigos..."
-
-104090-101 = "……sim. Se nos encontrarmos novamente na próxima vez... #nNesse momento, eu definitivamente gostaria que Alice dissesse: "Vamos nos tornar amigos.""
+104090-101 = "……sim. Se nos encontrarmos novamente na próxima vez... #nNesse momento, eu definitivamente gostaria que Alice dissesse: \"Vamos nos tornar amigos.\""
 
 104090-102 = "……."
-
 104090-108 = "Huh? Devo me inscrever para uma partida online?"
-
 104090-112 = "……sim? O que é?"
-
 104090-113 = "O que há de errado, irmã?"
-
 104090-114 = "...Há dados salvos na minha memória que eu nunca vi antes."
-
 104090-115 = "Não foi esse que sua irmã fez por acidente?"
-
 104090-116 = "Não há como você criar acidentalmente dados salvos! #nE é um título que nunca vi antes!"
-
 104090-117 = "Erm..."
-
 104090-123 = "Isso...isso..."
-
 104090-124 = "Você está bem?"
-
 104090-127 = "Kei.sav"
-
-104090-129 = "Salvar dados... "Kei"...?"
+104090-129 = "Salvar dados... \"Kei\"...?"
 
 104090-130 = "Ei, é o Kei, certo? Isso é lido como Kei! ?"
-
 104090-131 = "...! ! !"
-
 104090-133 = "Vamos levá-lo rapidamente para Himari-senpai!"
-
 104090-134 = "sim! !"
-
 104090-139 = "Todos do departamento de desenvolvimento de jogos, pedimos desculpas pelo inconveniente."
-
 104090-140 = "Yahoo."
-
 104090-142 = "Ah, o que? O que você está fazendo? ?"
-
 104090-143 = "C&C's..."
-
 104090-144 = "Presidente Rio..."
-
-104090-145 = "……sim. [ruby=Asuma]Asukauma[/ruby]Este é o Toki. Paz, paz."
-
+104090-145 = "……sim. AsukaumaEste é o Toki. Paz, paz."
 104090-149 = "Huh? Eu não tenho paz! ?"
-
 104090-150 = "...! ?"
-
 104090-151 = "O gerente me contou algo estranho de novo..."
-
 104090-152 = "Não é estranho. É um tipo de estratégia, por assim dizer, que tira vantagem do seu caráter e explora as fraquezas do seu oponente."
-
 104090-153 = "...Se você concorda com isso, tudo bem."
-
 104090-154 = "...O presidente Rio ainda está desaparecido, então estou procurando emprego."
-
 104090-155 = "Toki está aparecendo em todos os lugares agora... ele irá para a sala do clube do C&C em seguida?"
-
 104090-156 = "...Não, não tenho visto meus veteranos na C&C desde então, talvez eles também estejam ocupados."
-
 104090-157 = "É assim mesmo? Isso significa que você está atualmente desempregado. #nGostaria de fazer uma festa conosco?"
-
 104090-159 = "Ei! ?"
-
 104090-160 = "Ah, Alice..."
-
 104090-164 = "Obrigado por me convidar. Porém, tenho outra missão agora..."
-
 104090-166 = "Se você tiver uma chance novamente, por favor, volte novamente."
-
 104090-172 = "Ah, você não é Alice?"
-
 104090-173 = "Olá, Himari-senpai."
-
 104090-174 = "Vim aqui porque tinha algo que eu queria ver!"
-
 104090-175 = "Esse...!"
-
 104090-179 = "Máquina de jogo...?"
-
 104090-181 = "...Hum. Eu vejo."
-
 104090-182 = "O que você acha?"
-
 104090-183 = "Você acha que isso pode estar relacionado ao Kei-chan...?"
-
 104090-184 = "……."
-
-104090-185 = "Bem... eu também não sou especialista em "Deus Sem Nome", então não posso ter certeza..."
+104090-185 = "Bem... eu também não sou especialista em \"Deus Sem Nome\", então não posso ter certeza..."
 
 104090-186 = "Se tais dados fossem criados naturalmente... certamente poderiam ser chamados de “fenômeno singular”."
-
-104090-187 = "Porém, se este for "Kei"... acho que seria difícil provar isso neste estado."
+104090-187 = "Porém, se este for \"Kei\"... acho que seria difícil provar isso neste estado."
 
 104090-188 = "Ah, isso mesmo..."
-
 104090-189 = "sim. A quantidade de dados é de no máximo 2 kilobytes... Mesmo depois de analisar até o nível de bits, é difícil para mim tirar uma conclusão sobre o que é isso..."
-
 104090-190 = "A menos que a pessoa tímida e especialista na área retorne..."
-
 104090-191 = "Isso mesmo... ainda não sei de nada..."
-
 104090-193 = "Alice acha que seria legal se este fosse Kei... então... então Alice..."
-
 104090-194 = "Alice...."
-
 104090-195 = "Alice..."
-
 104090-200 = "Ah... isso é...?"
-
 104090-201 = "Isso... Alice fez isso pensando em Kei."
-
 104090-202 = "Entendo... está bem feito."
-
 104090-203 = "……."
-
 104090-204 = "Tudo bem se eu tentar modificar um pouco este robô?"
-
 104090-205 = "Remodelando...?"
-
 104090-206 = "Embora se diga que é uma modificação, apenas adiciona a função de memória USB, mas se for esse o caso, então talvez..."
-
 104090-207 = "Ah... os dados do Kei-chan aqui...?"
-
 104090-208 = "Uau, gênio! ! Um robô que Alice fez pensando em Kei..."
-
 104090-209 = "Depois de inserir esses dados...!"
-
 104090-210 = "...! !"
-
 104090-211 = "Sim, ela é uma garota super genial e doentia. Eu não acho que nenhum fenômeno incomum ocorrerá devido a isso..."
-
 104090-212 = "Bem... acho que é sobre manter os sentimentos de alguém longe..."
-
 104090-214 = "……sim! ! Tudo bem!"
-
 104090-215 = "Hehe...sou bom em remodelar, então deixe comigo. #nAfinal, ele é um “gênio”."
-
 104090-216 = "A propósito, também modifiquei o traje do Toki. O gosto daquela mulher é tão delicado..."
-
 104090-220 = "Hmm, qual... com a memória que comprei... Além disso, vamos possibilitar usá-lo como alça."
-
 104090-223 = "Sim, está feito."
-
 104090-224 = "...! !"
-
 104090-225 = "Obrigado, Himari-senpai!"
-
 104090-226 = "Que bom para você, Alice!"
-
 104090-227 = "Sim...Alice-chan, isso é bom."
-
 104090-228 = "Vamos continuar para não perdê-lo...!"
-
 104090-230 = "sim!"
-
 104090-235 = "Próxima vez; Epílogo (2)"
-

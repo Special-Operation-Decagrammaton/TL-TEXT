@@ -1,121 +1,42 @@
 [translation]
 1006902-1 = "Coma muito!"
-
 1006902-2 = "Placa de Petri, escritório"
-
 1006902-4 = "-Então, é ......#n um pouco deselegante pedir repetidamente um shirk da Câmara de Comércio de Gemmu, você sabe."
-
-1006902-5 = "Então, desta vez, como um "pedido pessoal", eu queria que o professor me ajudasse."
+1006902-5 = "Então, desta vez, como um \"pedido pessoal\", eu queria que o sensei me ajudasse."
 
 1006902-6 = "Sinto muito, doutor. Estou em posição de #pedir sua ajuda, mas eu o fiz passar por mais problemas por meus próprios motivos."
-
 1006902-7 = "[\"Não, não importa. \""
-
 1006902-9 = "[ns] \"What happened? \""
-
 1006902-10 = "Tenho desconfiado dos canais de distribuição dos temperos que sempre uso em minha cozinha. #Fiz uma pequena pesquisa e..."
-
 1006902-11 = "--conectado ao mercado negro."
-
 1006902-12 = "Se o problema fosse interno ao Sutra Sankai, eu poderia tê-lo resolvido sozinho. ......"
-
 1006902-13 = "Já que o mercado negro está envolvido, achei melhor perguntar ao ......#n Sherre."
-
 1006902-14 = "[s1]\"De fato, não é seguro eu ir sozinho. ......\"\n[s2]\"Obrigado por conversar comigo, vou deixar essas coisas com você. \""
-
 1006902-17 = "Obrigado, doutor. #n E desculpe-me por fazer isso por você, mas preciso que se apresse um pouco neste caso: ......"
-
 1006902-18 = "Esse ...... tempero de reserva só tem o suficiente para mais um mês."
-
 1006902-27 = "Não sei como dizer isso depois de ter pedido para você fazer isso por mim, mas você está se sentindo bem, #n-sensei? Parece que você esteve ocupado o dia todo. ......"
-
 1006902-28 = "Até mesmo os horários das entrevistas pareciam difíceis de coordenar. ......"
-
-1006902-29 = "[s3]\"Eu gostaria de ajudar mais a todos, mas nem sempre é tão fácil quanto parece. ......\"\n[s4]\"Nem sempre é tão fácil quanto parece. ...... \"\n[s4]\n[s4]\n[s4]\n[s4]\n[s4]\n[s4]\n[s4]}""
-
-1006902-32 = "Há algo que eu possa fazer para ajudar?"
-
-1006902-33 = "[\"Fico feliz que você tenha dito isso. \""
-
-1006902-34 = "Sinto falta de ser cuidado dessa forma."
-
-1006902-35 = "Gostaria de poder ajudar o professor. ......"
-
-1006902-36 = "...... professor, você já almoçou? #nJá é tarde e você já comeu sua areia movediça."
-
-1006902-37 = "[s5]\"Eu não tinha tempo para comer devagar, então pensei que poderia comer à noite para isso. ......\"\n[s6]\"Pensei que poderia comer à noite para isso. \""
-
-1006902-42 = "...... Doutor, e agora?"
-
-1006902-43 = "[s7] \"erm...... Lumi, senhor? \"\n[s8] \"Ki, o que há de errado de repente ......? \"\"\n[s8] \"}"
-
-1006902-46 = "Mooo!"
-
-1006902-47 = "Você sabe o que dizem sobre [ruby=Dyoku-dougen]medicina e comida[/ruby]? Você não pode simplesmente pular a comida, sabe! #nEu o deixarei saudável, doutor!"
-
-1006902-48 = "[s]\"Yes, are you sure ......? \""
-
-1006902-49 = "Não posso fazer isso. Vou preparar o jantar!"
-
-1006902-51 = "(Assim que ela disse isso, Lumi deixou o Salão Oval)."
-
-1006902-55 = "Placa de Petri e sala de descanso"
-
-1006902-57 = "[Só para ter certeza, segui a Lumi."
-
-1006902-58 = "Quais ...... cebolas ...... ainda estão boas? #nElas brotaram, mas posso usá-las se remover o miolo."
-
-1006902-59 = "Teacher ...... Essas batatas estão dessa cor desde que você as comprou? #n hey ...... isso é um pouco estranho."
-
-1006902-60 = "Tenho um pouco de pão. Não está mofado, mas está muito seco. ......#n Eu poderia usá-lo como farinha de rosca."
-
-1006902-61 = "Vejamos, o que há no freezer? #n Wow, ...... sua carne foi queimada pelo congelamento."
-
-1006902-62 = "E é incrível que o molho de soja e o saquê de cozinha expirem ao contrário. ...... #nOh, não estou sendo sarcástico. Fiquei surpreso, ou melhor, me diverti."
-
-1006902-63 = "[s9] \"\"\"\"\"\"....... \"\n[s10] \"Esta é uma execução pública ....... \"\n""
+1006902-29 = "[s3]\"Eu gostaria de ajudar mais a todos, mas nem sempre é tão fácil quanto parece. ......\"\n[s4]\"Nem sempre é tão fácil quanto parece. ...... \"\n[s4]\n[s4]\n[s4]\n[s4]\n[s4]\n[s4]\n[s4]}\"\"\n1006902-32 = \"Há algo que eu possa fazer para ajudar?\"\n1006902-33 = \"[\"Fico feliz que você tenha dito isso. \"\"\n1006902-34 = \"Sinto falta de ser cuidado dessa forma.\"\n1006902-35 = \"Gostaria de poder ajudar o sensei. ......\"\n1006902-36 = \"...... sensei, você já almoçou? #nJá é tarde e você já comeu sua areia movediça.\"\n1006902-37 = \"[s5]\"Eu não tinha tempo para comer devagar, então pensei que poderia comer à noite para isso. ......\"\n[s6]\"Pensei que poderia comer à noite para isso. \"\"\n1006902-42 = \"...... Doutor, e agora?\"\n1006902-43 = \"[s7] \"erm...... Lumi, senhor? \"\n[s8] \"Ki, o que há de errado de repente ......? \"\"\n[s8] \"}\"\n1006902-46 = \"Mooo!\"\n1006902-47 = \"Você sabe o que dizem sobre medicina e comida? Você não pode simplesmente pular a comida, sabe! #nEu o deixarei saudável, doutor!\"\n1006902-48 = \"[s]\"Yes, are you sure ......? \"\"\n1006902-49 = \"Não posso fazer isso. Vou preparar o jantar!\"\n1006902-51 = \"(Assim que ela disse isso, Lumi deixou o Salão Oval).\"\n1006902-55 = \"Placa de Petri e sala de descanso\"\n1006902-57 = \"[Só para ter certeza, segui a Lumi.\"\n1006902-58 = \"Quais ...... cebolas ...... ainda estão boas? #nElas brotaram, mas posso usá-las se remover o miolo.\"\n1006902-59 = \"Teacher ...... Essas batatas estão dessa cor desde que você as comprou? #n hey ...... isso é um pouco estranho.\"\n1006902-60 = \"Tenho um pouco de pão. Não está mofado, mas está muito seco. ......#n Eu poderia usá-lo como farinha de rosca.\"\n1006902-61 = \"Vejamos, o que há no freezer? #n Wow, ...... sua carne foi queimada pelo congelamento.\"\n1006902-62 = \"E é incrível que o molho de soja e o saquê de cozinha expirem ao contrário. ...... #nOh, não estou sendo sarcástico. Fiquei surpreso, ou melhor, me diverti.\"\n1006902-63 = \"[s9] \"\"\"\"\"\"....... \"\n[s10] \"Esta é uma execução pública ....... \"\n\""
 
 1006902-66 = "Ok, acho que posso me virar."
-
 1006902-67 = "[s] \"Really! \""
-
-1006902-68 = "Não subestime o [ruby=abnormal] Genbu Shokai [ruby=abnormal], senhor. #Sim, parece um pouco difícil, mas vou ter que tentar."
-
+1006902-68 = "Não subestime o  Genbu Shokai , senhor. #Sim, parece um pouco difícil, mas vou ter que tentar."
 1006902-69 = "Não tenha pressa, doutor. #Farei o melhor que puder para prepará-lo para você."
-
 1006902-79 = "[ns] \"Amazing ....... \""
-
 1006902-80 = "O que você acha? #Não posso me dar ao luxo de sobrar nada, e usei muito bem os ingredientes que sobraram."
-
 1006902-81 = "Há refis, portanto, coma bastante."
-
 1006902-86 = "[ns] \"I'll have some! \""
-
 1006902-91 = "(A comida do Lumi era ...... surpreendentemente boa)"
-
 1006902-92 = "(É difícil acreditar que foi feito com ingredientes deixados na geladeira. ......)"
-
 1006902-93 = "Haha. #nQuando as pessoas o comem de forma tão deliciosa, faz com que valha a pena eu fazer também."
-
 1006902-94 = "Minha política é fazer boa comida com ingredientes comuns."
-
 1006902-95 = "Estou tentando descobrir que tipo de alimento as pessoas acham bom. #nEstou sempre tentando descobrir como posso expandir meus negócios comprando ingredientes."
-
 1006902-96 = "É claro que prestaremos atenção ao sabor e à apresentação da comida e ao interior do restaurante, e faremos boas vendas. #Se houver algum problema, nós o melhoraremos."
-
 1006902-97 = "Precisamos dar uma guinada nos negócios da loja ...... para o bem de nossos clientes e de todos no Gensu Shokai."
-
 1006902-98 = "[s]\"Apenas ...... its, não é um pouco demais? \""
-
 1006902-99 = "Do que está falando? Pelo modo como tem agido, você já pulou refeições mais de uma vez, não foi? Enquanto eu estiver aqui, vou me certificar de que você coma direito!"
-
 1006902-100 = "Em tudo o que você faz, seu corpo é seu capital!"
-
 1006902-101 = "Sinta-se à vontade para comer! #n Ah, a propósito, posso fazer o jantar para você?"
-
 1006902-102 = "Doutor, seus pauzinhos pararam, mas ...... phew. #Quer que eu o alimente?"
-
 1006902-103 = "[s]\"Isso, não mais, meu estômago está ......! \""
-
 1006902-105 = "(Em seguida, seria servida uma refeição que faria nossos estômagos explodirem: ......)"
-

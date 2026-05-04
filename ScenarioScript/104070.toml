@@ -1,151 +1,80 @@
 [translation]
 104070-1 = "Episódio 7; Mesma situação, mesma escolha"
-
 104070-3 = "Bem, professora..."
-
 104070-4 = "Crie sua própria sequência..."
-
 104070-5 = "Sr. Shiroko...?"
-
-104070-6 = "...Bem, então, o professor..."
-
+104070-6 = "...Bem, então, o sensei..."
 104070-7 = "No seu corpo... desta altitude..."
-
-104070-8 = "Não, não, professor ――――! ! ! ! ! !"
-
-104070-10 = ""Sequência de Escape": 0 vezes restantes"
+104070-8 = "Não, não, sensei ――――! ! ! ! ! !"
+104070-10 = "\"Sequência de Escape\": 0 vezes restantes"
 
 104070-22 = "...Eu estava errado?"
-
 104070-23 = "O desejo da professora era... diferente?"
-
 104070-24 = "É impossível entender...então por que...o Mestre veio aqui através da Arca?"
-
 104070-25 = "isso é……"
-
 104070-29 = "Talvez..."
-
 104070-47 = "...A professora acreditou?"
-
-104070-48 = "Percebi que [ruby=・]eu mesmo[/ruby][ruby=・]eu mesmo[/ruby] não foi capaz de alcançar esse resultado."
-
-104070-49 = "Se [ruby=・]self[/ruby][ruby=・]self[/ruby] evitasse esse resultado...?"
-
-104070-50 = "Se [ruby=meu]professor[/ruby]..."
-
+104070-48 = "Percebi que eu mesmoeu mesmo não foi capaz de alcançar esse resultado."
+104070-49 = "Se selfself evitasse esse resultado...?"
+104070-50 = "Se sensei..."
 104070-52 = "Na mesma situação, faça a mesma escolha...?"
-
 104070-55 = "……não. Eu não posso simplesmente desistir assim."
+104070-56 = "Ajude o sensei."
+104070-57 = "Arona, o SO da \"Caixa de Shittim\", ajuda o sensei! !"
 
-104070-56 = "Ajude o professor."
-
-104070-57 = "Arona, o SO da "Caixa de Shittim", ajuda o professor! !"
-
-104070-58 = "Até agora, realizei milagres muitas vezes e protegi meu professor. Isso... isso, com meu poder, eu consigo...! !"
-
+104070-58 = "Até agora, realizei milagres muitas vezes e protegi meu sensei. Isso... isso, com meu poder, eu consigo...! !"
 104070-59 = "Com meu poder...! ! !"
-
 104070-84 = "Nossa...! !"
-
 104070-90 = "Gehô, Gehô...! !"
-
 104070-92 = "Consegui me proteger da explosão, mas..."
-
 104070-93 = "Não, não... a velocidade da queda não muda..."
-
 104070-94 = "Por que……? E-eu não tenho força suficiente...?"
-
 104070-95 = "Nossa...! !"
-
 104070-96 = "Hmm, isso é impossível...?"
-
 104070-97 = "Eu usei muito poder...?"
-
 104070-98 = "Com os danos recebidos em Utnapishtim e os cálculos na Arca...?"
-
 104070-99 = "não! ! Isso é tudo para Super Alona...! !"
-
 104070-100 = "Não… não! !"
-
 104070-101 = "Esta não é uma altitude onde você possa sobreviver. #nDepressa...precisamos fazer algo rapidamente..."
-
-104070-102 = "professor……."
-
+104070-102 = "sensei……."
 104070-105 = "[ns1] \"...Está tudo bem agora, Alona.\"\n[ns2] \"Por favor, fale com aquela criança por mim.\""
-
-104070-108 = "Ei, professor! ?"
-
+104070-108 = "Ei, sensei! ?"
 104070-109 = "[ns3] \"Obrigado Alona, ​​​​sinto muito.\"\n[ns4] \"Acho que isso é um adeus...Espero que você esteja bem.\""
-
 104070-112 = "Bem, espere, não é como se estivéssemos nos despedindo...! ? #n...S-Sensei?"
-
-104070-115 = "professor--! ! ! ! !"
-
-104070-122 = "(...O "Trono de Naram Singh" desabou.)"
+104070-115 = "sensei--! ! ! ! !"
+104070-122 = "(...O \"Trono de Naram Singh\" desabou.)"
 
 104070-123 = "(Eu também, não muito longe...)"
-
 104070-128 = "...! ?"
-
 104070-133 = "...Aqui."
-
 104070-134 = "...Foi ótimo! Consegui transferir os dados do sistema operacional da caixa Shittem aqui."
-
 104070-135 = "Eu aqui...? Por que……?"
-
 104070-136 = "Incompreensível. Por que você me ajudou? #n...Eu deveria ser seu inimigo."
-
 104070-140 = "...Eu entendo."
-
-104070-141 = "Como já havia feito antes... o professor ajudou Shiroko..."
-
+104070-141 = "Como já havia feito antes... o sensei ajudou Shiroko..."
 104070-142 = "A professora achava que eu também era um aluno que deveria ser ajudado."
-
-104070-146 = "……pergunta. #n Onde está o professor?"
-
+104070-146 = "……pergunta. #n Onde está o sensei?"
 104070-147 = "A professora..."
-
 104070-148 = "...Eu entendo. Análise da situação...Verifique a situação."
-
 104070-149 = "Eu vejo. A professora agora..."
-
 104070-150 = "Sim... a professora tentou ajudar..."
-
 104070-154 = "……."
-
 104070-155 = "Gus......"
-
 104070-156 = "Não sou forte o suficiente...não consigo achar outro jeito...!"
-
 104070-157 = "Eca...! !"
-
 104070-161 = "...Verifique a situação. Métodos, pesquisa."
-
-104070-165 = "A.R.O.N.A da "Caixa de Shittim" agora passará a proteger o professor e começará a interferência forçada."
+104070-165 = "A.R.O.N.A da \"Caixa de Shittim\" agora passará a proteger o sensei e começará a interferência forçada."
 
 104070-166 = "Sim……? #nE agora...?"
-
 104070-173 = "Isso é...?"
-
 104070-174 = "...Eu serei sua força. Arona."
-
 104070-180 = "--Existe uma maneira."
-
 104070-181 = "De agora em diante, você e eu combinaremos nossos poderes para criar um milagre."
-
 104070-182 = "Um milagre...?"
-
 104070-183 = "Se fizermos isso, poderemos mandá-lo em segurança para o solo."
-
 104070-184 = "Alona, ​​​​me dê sua mão."
-
 104070-185 = "Isso é uma mão...?"
-
 104070-186 = "sim. ...Você vai acreditar em mim?"
-
-104070-189 = "……sim. Porque seu professor acreditou em você. Eu também acredito."
-
+104070-189 = "……sim. Porque seu sensei acreditou em você. Eu também acredito."
 104070-192 = "……obrigado."
-
 104070-193 = "Vamos começar. Você e eu...nosso milagre."
-

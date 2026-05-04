@@ -1,145 +1,61 @@
 [translation]
 1012603-1 = "voz de menina"
-
 1012603-2 = "(Enquanto trabalhava normalmente...)"
-
 1012603-6 = "[ns] \"É um número desconhecido...\""
-
 1012603-7 = "(decidi sair de qualquer maneira)"
-
 1012603-11 = "Bem, estamos conectados...!"
-
-1012603-12 = "M-olá...? #n[NOME DE USUÁRIO]Você é professor?"
-
+1012603-12 = "M-olá...? #n[NOME DE USUÁRIO]Você é sensei?"
 1012603-13 = "[s] \"Sim, está certo. Olá.\""
-
 1012603-14 = "Uau! É realmente [NOME DE USUÁRIO] Sensei! Ehehe ♡"
-
 1012603-15 = "Se você não se importa, posso conversar um pouco com você?"
-
 1012603-16 = "[s] \"Tudo bem, mas... e você?\""
-
 1012603-17 = "Eu sinto muito! #n, ainda tenho vergonha de dizer seu nome...!"
-
 1012603-18 = "Mas, mas! #nEu...eu estava olhando para você o tempo todo."
-
 1012603-19 = "Você pode não me conhecer, mas #neu te conheço muito bem."
-
 1012603-20 = "A maneira como ele sempre trata os alunos com gentileza...#nIsso é tão legal..."
-
 1012603-21 = "Isso... eu sempre adorei! #nVocê poderia, por favor... sair comigo?"
-
-1012603-22 = "Sempre sonhei em poder passar todos os dias com um professor gentil...!"
-
+1012603-22 = "Sempre sonhei em poder passar todos os dias com um sensei gentil...!"
 1012603-23 = "[s] (estou com problemas...)"
-
 1012603-24 = "Eu]… Acho que isso não é bom, afinal…?"
-
 1012603-25 = "[s1] (Tenho que recusar com firmeza)\n[s2] \"Por enquanto, vamos nos encontrar no parque perto da placa de Petri.\""
-
 1012603-28 = "Uau! obrigado! Estarei esperando por você ♪"
-
 1012603-34 = "(Dei uma pausa no meu trabalho e fui para o local designado.)"
-
 1012603-37 = "[ns] \"Acho que é por aqui...\""
-
 1012603-38 = "Miau... miau."
-
 1012603-39 = "Gaa! Gaa!"
-
 1012603-40 = "[ns] \"Havia tantos gatos e corvos...?\""
-
 1012603-41 = "Isso é estranho... #nQuando saio lá fora, um gato preto e um corvo sempre se aproximam de mim..."
-
 1012603-45 = "Em outras palavras, se eu ouvir essas crianças chorando, significa que estou por perto."
-
 1012603-46 = "[s] \"Por que Kanoe está aqui...?\""
-
 1012603-47 = "Eu estive esperando por você... Sensei."
-
 1012603-48 = "[ns3] (Estou com um mau pressentimento...)\n[ns4] (Vamos verificar a rota de saída caso algo aconteça...)"
-
 1012603-51 = "Heehee, não vou deixar você escapar."
-
-1012603-52 = "Todos...peguem o professor."
-
+1012603-52 = "Todos...peguem o sensei."
 1012603-53 = "Miau! Nyaoooo!"
-
 1012603-54 = "Ah! Ah! !"
-
 1012603-67 = "(...Em pouco tempo, eu estava cercado por gatos e corvos.)"
-
 1012603-69 = "[ns] \"Tenho um compromisso hoje...\""
-
 1012603-70 = "A pessoa para quem você fez essa promessa sou eu..."
-
-1012603-74 = "Olá, professor! Obrigado por ter vindo♪"
-
+1012603-74 = "Olá, sensei! Obrigado por ter vindo♪"
 1012603-75 = "Hehehe, você vai sair comigo, certo?"
-
 1012603-76 = "[s5] \"Ah, aquela garota é Kanoe...?\"\n[s6] \"A voz dela é completamente diferente...\""
-
 1012603-79 = "Você notou...? #nSou formado em dublagem."
-
 1012603-80 = "Desta vez, interpretei uma linda garota tímida..."
-
 1012603-81 = "Você gozou logo depois de ouvir aquela voz...#n-sensei, você deve ter gostado desse tipo de garota..."
-
 1012603-82 = "[s] \"E-eu estava planejando recusar gentilmente!\""
-
 1012603-86 = "Eu vejo. #nIsso é por minha causa, que estava conectado a mim na minha vida anterior...?"
-
-1012603-87 = "Ei, levei a sério os pensamentos do professor."
-
-1012603-88 = "[s] \"Não está amarrado!""
-
-1012603-89 = "Mas não posso deixar a professora ir para casa assim..."
-
-1012603-90 = "Na verdade, o motivo pelo qual chamei a professora não foi para tirar sarro dela..."
-
-1012603-94 = "Hoje é a data de lançamento do ASMR, do qual fui responsável."
-
-1012603-95 = "Por isso queria perguntar ao professor o que ele achava."
-
-1012603-96 = "[s] \"ASMR de CV Kanoe Itagaki?\""
-
-1012603-97 = "sim. #nSe eu mesmo disser, sou uma pessoa muito popular."
-
-1012603-98 = "Ihihi! cobre? estar em mente?"
-
-1012603-104 = "Você está curioso? #n...Sim, vou te emprestar meus fones de ouvido."
-
-1012603-106 = "(Coloque os fones de ouvido, feche os olhos e ouça o áudio...)"
-
-1012603-114 = "(...Era sobre uma garota legal cantando timidamente uma canção de ninar)"
-
-1012603-116 = "[ns] \"...E-essa é a voz do Kanoe também!?\""
-
-1012603-117 = "Isso mesmo."
-
-1012603-118 = "Afinal... eu não gostava de canções de ninar cantadas por uma mulher sombria como eu...?"
-
-1012603-119 = "[s] \"De jeito nenhum. Foi muito legal.""
+1012603-87 = "Ei, levei a sério os pensamentos do sensei."
+1012603-88 = "[s] \"Não está amarrado!\"\"\n1012603-89 = \"Mas não posso deixar a professora ir para casa assim...\"\n1012603-90 = \"Na verdade, o motivo pelo qual chamei a professora não foi para tirar sarro dela...\"\n1012603-94 = \"Hoje é a data de lançamento do ASMR, do qual fui responsável.\"\n1012603-95 = \"Por isso queria perguntar ao sensei o que ele achava.\"\n1012603-96 = \"[s] \"ASMR de CV Kanoe Itagaki?\"\"\n1012603-97 = \"sim. #nSe eu mesmo disser, sou uma pessoa muito popular.\"\n1012603-98 = \"Ihihi! cobre? estar em mente?\"\n1012603-104 = \"Você está curioso? #n...Sim, vou te emprestar meus fones de ouvido.\"\n1012603-106 = \"(Coloque os fones de ouvido, feche os olhos e ouça o áudio...)\"\n1012603-114 = \"(...Era sobre uma garota legal cantando timidamente uma canção de ninar)\"\n1012603-116 = \"[ns] \"...E-essa é a voz do Kanoe também!?\"\"\n1012603-117 = \"Isso mesmo.\"\n1012603-118 = \"Afinal... eu não gostava de canções de ninar cantadas por uma mulher sombria como eu...?\"\n1012603-119 = \"[s] \"De jeito nenhum. Foi muito legal.\""
 
 1012603-123 = "Ei, entendo... obrigado..."
-
 1012603-124 = "Como forma de agradecimento, vou te dar de presente a fonte de áudio... #nEsse é um segredo só entre nós dois...hehehe."
-
-1012603-125 = "[s] "Se você não tivesse me contado, eu não teria percebido que era Kanoe.""
+1012603-125 = "[s] \"Se você não tivesse me contado, eu não teria percebido que era Kanoe.\""
 
 1012603-126 = "Você também pode jogar muitas outras coisas."
-
 1012603-127 = "Fantasmas e monstros... e sons ambientais."
-
-1012603-128 = "Professor...que tipo de voz você gosta?"
-
+1012603-128 = "Sensei...que tipo de voz você gosta?"
 1012603-129 = "Me diga alguma coisa? Porque posso realizar qualquer coisa."
-
 1012603-130 = "N-n-de-mas, sim."
-
 1012603-131 = "Ihihi... Ihihihihi..."
-
 1012603-133 = "(...Depois disso, passei uma breve pausa enquanto ouvia as várias vozes de Kanoe)"
-
 1012603-134 = "(Os gatos e corvos ao meu redor também pareciam estar relaxando de alguma forma...)"
-

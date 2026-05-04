@@ -1,249 +1,492 @@
 [translation]
-34180-1 = "Episódio 18; A Outra Nós"
-34180-9 = "É por aqui, Hiyori, Misaki.#nVamos nos esconder aqui."
-34180-10 = "Sa-Saori-nee-san..."
-34180-11 = "Shiii! Fiquem quietas. Abaixem mais a cabeça."
-34180-12 = "Si-sim... a propósito, quem é aquela pessoa no centro?#nEla está usando roupas... ta-tão bonitas..."
-34180-13 = "Eu também não sei bem... deve ser alguém importante."
-34180-14 = "Dizem que é uma princesa. Algo sobre ter sangue nobre ou coisa do tipo."
-34180-15 = "U-uma princesa!? É uma princesa de verdade?"
-34180-16 = "E-então existem princesas no mundo? Diferente de nós, que estamos na base da pirâmide..."
-34180-17 = "Ela provavelmente nunca passa fome... nem se machuca...#nE-ela não dorme na beira da estrada, né...? Não é?"
-34180-18 = "A-ah, sim... deve ser isso, não é?"
-34180-19 = "...Eu achava que neste mundo só existia sofrimento... mas existem princesas tão lindas e que vivem felizes... é tão emocionante. Uaaaaa!"
-34180-20 = "Pa-pare de chorar de repente! Vão descobrir a gente!"
-34180-21 = "De-desculpe, Saori-nee-san... Uaaaaa!#nMas... Uaaaaa!"
-34180-22 = "...Mesmo sendo uma princesa, acho que a situação dela não é diferente da nossa, ou talvez seja até pior."
+34180-1 = "Episódio 18; Outro de nós"
+
+34180-9 = "Por aqui, Hiyori, Misaki. #nVamos nos esconder aqui."
+
+34180-10 = "Bem, Saori-neesan..."
+
+34180-11 = "Shhh! Silenciosamente. Incline mais a cabeça."
+
+34180-12 = "Ha, sim... A propósito, quem é essa pessoa no centro? #nE-Estou usando roupas muito lindas...mas..."
+
+34180-13 = "Também não sei muito sobre ele... acho que é uma ótima pessoa."
+
+34180-14 = "Ela é uma princesa. Talvez você tenha sangue nobre ou algo assim."
+
+34180-15 = "Ah, princesa! ? Você é uma princesa?"
+
+34180-16 = "Ei, existem princesas neste mundo, certo? Nossa, diferente de nós que estamos no fundo..."
+
+34180-17 = "You won't starve, you won't get hurt, you won't sleep on the street, right? Não é verdade?"
+
+34180-18 = "Uh, sim... Não é mesmo?"
+
+34180-19 = "...Achei que só existia sofrimento nesse mundo, mas tem princesas que são tão lindas e felizes...Estou meio emocionada. Uau!"
+
+34180-20 = "Kyu, não chore de repente! Você descobrirá!"
+
+34180-21 = "E-me desculpe, Saori-nee-san... Uau! #nMas... Uau!"
+
+34180-22 = "...Mesmo sendo uma princesa, acho que a situação dela não é diferente da de todos nós, ou talvez ela seja tratada pior do que isso."
+
 34180-23 = "...?"
-34180-24 = "Parece um desfile, mas é um cortejo para entregar reféns ao inimigo.#nDeve ser por causa da guerra civil... coisas assim acontecem."
-34180-25 = "Aquela princesa, com certeza, vai acabar passando fome na prisão.#nVai ter sorte se conseguir comer as sobras."
-34180-26 = "A-auuu..."
-34180-27 = "Pare com isso, Misaki. A Hiyori está com medo."
-34180-28 = "...E então, o que vamos fazer, Saori-nee-san?#nViemos até aqui só para assistir e ir embora?"
-34180-29 = "Não, é claro que vamos atacar.#nVamos nos misturar à multidão e pegar algo que possa ser útil."
-34180-30 = "Vamos, sigam-me."
-34180-38 = "Pare!!"
-34180-39 = "Saia da frente, Capitã do 8º Esquadrão."
-34180-40 = "Você pretende destruir o halo dela!?#nPare!!"
-34180-41 = "Po-por favor... por favor, parem com isso agora... ugh, uuu..."
-34180-42 = "Ela resistiu a nós, então é o esperado.#nSe não sair da frente, você terá o mesmo destino."
-34180-43 = "Cof... cof.#nNão me faça rir... quem você..."
-34180-44 = "Sua insolente, como ousa!!"
-34180-45 = "Espere!!"
-34180-46 = "...Eu vou instruí-la."
-34180-47 = "Instruir...?"
-34180-48 = "...Mais um desperdício de tempo."
-34180-49 = "Hiyori e Misaki também são alunas que eu instruí. A princesa é a mesma coisa — todas têm boas notas, não é?"
-34180-50 = "Por isso, deixem comigo — eu assumirei a responsabilidade de instruí-la."
-34180-53 = "...Dói."
-34180-54 = "Misaki... nunca mais, nunca mais faça isso!#nNunca mesmo...!!"
-34180-55 = "...Por quê?"
-34180-56 = "O quê...?"
-34180-57 = "Por que não posso?#nPor que temos que continuar vivendo nesse sofrimento sem sentido?"
-34180-58 = "— Com frio, com fome, sofrendo.#nSendo que são apenas dias de dor repetitiva."
-34180-59 = "Por que a Nee-san nos força a passar por esse sofrimento inútil?#nE que sentido isso tem, afinal?"
-34180-60 = "Is-isso é..."
-34180-61 = "Isso... é..."
-34180-62 = "...Viu só, você não consegue responder.#nFinge que sabe de tudo, mas você é igual a nós, Nee-san."
-34180-65 = "...Mi-Misaki! Espere..."
-34180-66 = "Espere! Eu..."
-34180-68 = "...Por favor, me perdoe... sinto muito..."
-34180-69 = "Nunca mais... nunca mais farei algo assim..."
-34180-70 = "Nunca mais desobedecerei às palavras dos adultos... não vou mais me rebelar... me esforçarei para não nutrir esperanças sobre o futuro..."
-34180-71 = "Nunca mais desejarei a felicidade... não rezarei..."
-34180-72 = "Por isso, por favor..."
-34180-74 = "Por favor... tenha misericórdia..."
-34180-75 = "Misericórdia..."
-34180-77 = "...Por que você resiste tanto, Azusa?"
-34180-78 = "Um símbolo de reconciliação...? Não, isso não passa de um engano. #nVocê não é esse tipo de existência."
-34180-79 = "Tudo o que você preparou e estudou foi para 'aquela missão'."
-34180-80 = "Portanto, desista e aceite — já que tudo não passa de um vazio."
+
+34180-24 = "Parece um desfile, mas na verdade é uma procissão para enviar reféns ao inimigo. #nTalvez seja porque estamos em uma guerra civil... coisas assim acontecem."
+
+34180-25 = "Essa princesa definitivamente morrerá de fome na prisão. #nEu teria sorte se conseguisse sobras de comida."
+
+34180-26 = "Ah, ai..."
+
+34180-27 = "Pare com isso, Misaki. Hiyori está com medo, certo?"
+
+34180-28 = "...Então, o que você vai fazer, Saori-nee-san? #nVocê chegou até aqui, vai só ver os pontos turísticos e depois voltar para casa?"
+
+34180-29 = "Não, claro que vou atacar você. #nEu me misturo com aquela multidão e pego emprestado qualquer coisa que pareça útil."
+
+34180-30 = "Vamos, vamos."
+
+34180-38 = "Pare com isso! !"
+
+34180-39 = "Saia do caminho, 8º Líder de Esquadrão."
+
+34180-40 = "Você está planejando destruir o Halo? ? #nPare com isso! !"
+
+34180-41 = "P-por favor...por favor, por favor pare...uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu."
+
+34180-42 = "Claro que ele nos resistiu. #nSe você não recuar, enfrentará a mesma coisa."
+
+34180-43 = "Geho... Geho. #nNão me faça rir...quem..."
+
+34180-44 = "Esse cara é ótimo! !"
+
+34180-45 = "Espere! !"
+
+34180-46 = "...Eu vou te guiar."
+
+34180-47 = "Orientação...?"
+
+34180-48 = "...Outro desperdício."
+
+34180-49 = "Tanto Hiyori quanto Misaki são alunos que ensinei. O mesmo vale para a princesa – todo mundo tem boas notas, certo?"
+
+34180-50 = "Então, deixe comigo: eu assumirei a responsabilidade de instruir esse cara."
+
+34180-53 = "……isso dói."
+
+34180-54 = "Misaki...não faça isso de novo! #nAbsolutamente...! !"
+
+34180-55 = "……Por que?"
+
+34180-56 = "o que……?"
+
+34180-57 = "Por que não? #nPor que tenho que continuar vivendo com uma dor tão sem sentido?"
+
+34180-58 = "-Está frio, com fome e doloroso. #nMesmo que a dor continue se repetindo."
+
+34180-59 = "Por que ela está nos forçando a passar por essa dor sem sentido? #nQual é o sentido disso?"
+
+34180-60 = "Isso é..."
+
+34180-61 = "isso é……."
+
+34180-62 = "...Olha, não posso responder a isso. #nFinja que sabe de tudo, mesmo que sua irmã seja igual a nós."
+
+34180-65 = "... M-Misaki! Espere..."
+
+34180-66 = "Espere! Eu-eu..."
+
+34180-68 = "Por favor, me perdoe... me desculpe..."
+
+34180-69 = "Nunca mais... isso nunca mais acontecerá..."
+
+34180-70 = "Nunca mais quebrarei as palavras dos adultos... Nunca me rebelarei... Tentarei não ter muitas esperanças para o futuro..."
+
+34180-71 = "Nunca mais esperarei pela felicidade... Nunca rezarei por ela..."
+
+34180-72 = "Então, por favor..."
+
+34180-74 = "Por favor... tenha piedade..."
+
+34180-75 = "Tenha piedade...."
+
+34180-77 = "...Por que você está resistindo tanto, Azusa?"
+
+34180-78 = "Um símbolo de reconciliação...? Não, isso é apenas um engano. #nVocê não é esse tipo de pessoa."
+
+34180-79 = "Tudo o que você preparou e estudou é para “essa missão”."
+
+34180-80 = "Então desista e aceite - é tudo futilidade."
+
 34180-81 = "Azusa...?"
-34180-82 = "O que você disse agora? #nEspere..."
-34180-85 = "Pa-para onde você vai? Azusa!"
-34180-86 = "Espere! O que você... para onde você está indo? #nNós ainda estamos 'aqui'..."
+
+34180-82 = "E agora? #nEspere...."
+
+34180-85 = "Onde? Azusa!"
+
+34180-86 = "Espere! O que... onde você está indo? #nMesmo que ainda estejamos “aqui”…."
+
 34180-87 = "Azusa..."
-34180-88 = "Vo-você... descobriu? #nVocê... você sabe a resposta para isso...?"
-34180-89 = "Me diga, eu..."
-34180-90 = "O que eu deveria... o que eu devo fazer..."
-34180-93 = "...Azusa."
-34180-94 = "...Azusa?"
-34180-95 = "...!! #nGu, ah..."
-34180-99 = "...Ugh, ah."
-34180-103 = "...Com esse ferimento, não dá, Saori."
-34180-104 = "...Entendo."
-34180-105 = É verdade... eu perdi, não é?"
-34180-106 = "...Já chega."
-34180-107 = "Já... chega...?"
-34180-108 = "...É. Não sei mais o que é o certo daqui em diante."
-34180-109 = "Até agora, segui em frente acreditando que isso era o certo... #nMas, ao olhar para trás, tudo estava errado..."
-34180-110 = "...Shirasu Azusa."
+
+34180-88 = "Ah, você... você sabia? #nVocê...você sabe a resposta...?"
+
+34180-89 = "Por favor me diga, eu..."
+
+34180-90 = "O que devo fazer..."
+
+34180-93 = "... Azusa."
+
+34180-94 = "... Azusa?"
+
+34180-95 = "...! ! #n, ah..."
+
+34180-99 = "...Eca."
+
+34180-103 = "...Eu não posso fazer isso com esses ferimentos, Saori."
+
+34180-104 = "...Eu vejo."
+
+34180-105 = "Isso mesmo... eu perdi?"
+
+34180-106 = "...Isso é o suficiente."
+
+34180-107 = "Está tudo bem agora...?"
+
+34180-108 = "...... ah. Já não sei o que é certo."
+
+34180-109 = "Até agora, eu tinha seguido em frente pensando que isso era a coisa certa...#n, mas quando olhei para trás, tudo estava errado..."
+
+34180-110 = "... Azusa."
+
 34180-111 = "...?"
-34180-112 = "O que você queria perguntar para a Azusa-chan?"
-34180-113 = "...Você estava ouvindo."
-34180-114 = "A Azusa-chan do Clube de Estudos Suplementares. #nPara começar, ela foi escolhida como espiã para ajudar no meu plano de golpe, não foi?"
-34180-115 = "Se não fosse pela ajuda do Sensei, ela deveria ter sido apenas uma peça no tabuleiro..."
-34180-116 = "...A Azusa."
-34180-117 = "Não foi escolhida como espiã desde o início."
+
+34180-112 = "O que você queria perguntar a Azusa-chan?"
+
+34180-113 = "...Você ouviu isso?"
+
+34180-114 = "Azusa-chan do clube de classe suplementar. #nEm primeiro lugar, você foi um espião escolhido para me ajudar a planejar um golpe, certo?"
+
+34180-115 = "Se não fosse a ajuda da professora, seria só mais uma peça..."
+
+34180-116 = "... Quanto a Azusa."
+
+34180-117 = "Originalmente, não o escolhi como espião."
+
 34180-118 = "...Eh?"
-34180-123 = "Aquela criança..."
-34180-124 = "...Estava destinada a ser um 'símbolo de reconciliação'."
-34180-125 = "..."
-34180-126 = "O quê..."
-34180-127 = "De Trinity e Arius... #nVocê foi a primeira a usar essa expressão, Mika."
-34180-128 = "Do que você está falando... isso é... #nSim, eu me lembro... eu inventei isso de qualquer jeito para enganar o Sensei..."
-34180-129 = "— Não. Foi a palavra que você usou quando nos visitou pela primeira vez."
-34180-130 = "Antes do ataque à Seia — quando nem o Tratado de Eden, nem o seu plano de golpe, tinham sido planejados."
-34180-131 = "..."
-34180-132 = "Naquela época, você disse que queria se reconciliar com Arius."
-34180-134 = "Muito prazer☆ Não sei quem você é, mas você é uma aluna de Arius, certo...?"
-34180-135 = "Hoje o dia está tão bonito, não é? Tão tranquilo..."
-34180-136 = "Diga logo o que quer, Trinity."
-34180-137 = "Uau... vejo que você não gosta de quebrar o gelo. [wa:34180] #n...Certo, então vamos direto ao ponto, já que não tem jeito."
-34180-142 = "――Eu quero me reconciliar com vocês, do Esquadrão Arius."
-34180-143 = "Reconciliação...?"
-34180-144 = "Sim. Pode parecer uma proposta um pouco radical, mas..."
-34180-145 = "Vocês provavelmente ainda nos odeiam, não é?"
-34180-146 = "É por isso que recusam a nossa ajuda e a ajuda do Conselho Estudantil Geral, isolando-se em um distrito autônomo escondido, certo? Porque o ódio do passado ainda permanece."
+
+34180-123 = "Aquele garoto..."
+
+34180-124 = "... Pretendia ser um \"símbolo de reconciliação\"."
+
+34180-125 = "……."
+
+34180-126 = "O que..."
+
+34180-127 = "Trinity e Arius...#nVocê foi o primeiro a usar essa expressão, Mika."
+
+34180-128 = "Do que você está falando... isso é... #n Sim, eu lembro... inventei uma palavra aleatória para enganar o professor..."
+
+34180-129 = "--não. Essas foram as palavras que você usou quando veio me visitar pela primeira vez."
+
+34180-130 = "Antes do ataque de Seia acontecer – quando nem o Tratado do Éden nem o seu plano de golpe tinham sido planeados em primeiro lugar."
+
+34180-131 = "……."
+
+34180-132 = "Você disse naquela época que queria fazer as pazes com Arius."
+
+34180-134 = "Prazer em conhecê-lo☆ Não sei quem você é, mas você é aluno do Arius, certo?"
+
+34180-135 = "O tempo está muito bom hoje, não é? É muito tranquilo..."
+
+34180-136 = "Apenas me conte o que você quer fazer, Trinity."
+
+34180-137 = "Uau... eu não gosto de quebra-gelos. #n...Sim, então não tenho escolha a não ser ir direto ao ponto."
+
+34180-142 = "――私は、あなた達アリウスと和解したい。"
+34180-143 = "povoado……?"
+
+34180-144 = "Sim. Esta pode ser uma afirmação um pouco extremada, mas..."
+
+34180-145 = "Vocês provavelmente ainda nos odeiam, certo?"
+
+34180-146 = "É por isso que você recusou a nossa ajuda e a ajuda do Conselho Estudantil da Federação, e está isolado em uma região autônoma escondida, certo? Porque o ódio do passado permanece."
+
 34180-147 = "……."
-34180-148 = "Mas, para resolver isso... o ódio mútuo é grande demais... [wa:34180] #nAlém disso, os mal-entendidos acumulados também devem ser consideráveis... bem, não é algo simples, né."
-34180-149 = "É natural que a Nagi-chan e a Seia-chan sejam contra..."
-34180-150 = "Mas... será que é tão difícil assim nos darmos bem? [wa:34180] #nSe nos aproximarmos um pouco de cada vez, não é algo que podemos alcançar algum dia?"
-34180-151 = "Eu penso assim... por isso, decidi vir aqui para tentarmos, pouco a pouco."
-34180-152 = "……Como quer que eu acredite que essas palavras são sinceras?"
-34180-153 = "Sim... eu entendo essa reação. [wa:34180] #nPor isso, eu pensei em algo."
-34180-154 = "Que tal transferir uma aluna do Arius para Trinity? [wa:34180] #nClaro, em segredo."
-34180-155 = "Se eu for a responsável, posso dar um jeito. [wa:34180] #nMesmo que não pareça, eu faço parte do Tea Party, afinal."
+
+34180-148 = "Mas para resolver isso... há muito ódio entre eles... #nE provavelmente há muitos mal-entendidos que se acumularam... Bem, não será fácil."
+
+34180-149 = "É natural que Nagi-chan e Seia-chan se oponham..."
+
+34180-150 = "Mas... é realmente tão difícil se dar bem? #nSe nos aproximarmos aos poucos, isso vai se tornar realidade algum dia, certo?"
+
+34180-151 = "É o que eu penso... Por isso vim aqui dar o meu melhor aos poucos."
+
+34180-152 = "...Como posso acreditar que essas palavras são verdadeiras?"
+
+34180-153 = "Sim... posso entender essa reação. #nEntão pensei sobre isso."
+
+34180-154 = "Que tal transferirmos um de vocês, alunos do Arius, para Trinity? #nClaro, mantenha isso em segredo."
+
+34180-155 = "Se eu me tornar seu guardião, tudo ficará bem. #nMesmo tendo essa aparência, sou um Tea Party."
+
 34180-156 = "……."
-34180-157 = "Assim, provaremos que uma aluna do Arius pode viver feliz e em harmonia na nossa escola, sem qualquer problema."
-34180-159 = "Em outras palavras, ela se tornaria o \"símbolo da reconciliação\". [wa:34180] #nO que acha?"
-34180-163 = "……Que plano absurdo."
-34180-164 = "Ma-mas... se existisse alguém assim, tenho certeza de que a Seia-chan e a Nagi-chan entenderiam!"
+
+34180-157 = "Assim provaremos que os alunos arianos podem ser felizes e se dar bem em nossa escola sem problemas."
+
+34180-159 = "Em outras palavras, essa criança se tornará um “símbolo de reconciliação”. #nO que você acha?"
+
+34180-163 = "...Esse é um plano ridículo."
+
+34180-164 = "Mas... se tal pessoa existisse, tenho certeza que Seia-chan e Nagi-chan estariam convencidos!"
+
 34180-165 = "……."
-34180-166 = "Muito bem. Mas não é uma decisão que eu possa tomar sozinha. [wa:34180] #nVocê terá que aguardar nosso próximo contato."
-34180-167 = "Eh? E-espere um pouco! [wa:34180] #nExiste mesmo alguém assim?"
+
+34180-166 = "Isso é bom. No entanto, esta não é uma questão que eu possa decidir sozinho. #nSerá solicitado que você aguarde o próximo contato."
+
+34180-167 = "foto? Ei, espere um minuto! #nEssa criança realmente existe?"
+
 34180-168 = "……."
-34180-175 = "Azusa, temos uma missão."
-34180-179 = "……O que foi?"
-34180-181 = "Reconciliação? Uma ideia ingenuamente pura, a ponto de ser ridícula. É estranho se não for uma armadilha."
-34180-182 = "Hum... bem, não há pressa. [wa:34180] #nSe ela é pura ou uma serpente traiçoeira, vamos observar por enquanto."
-34180-183 = "Recuse por enquanto. [wa:34180] #nE então, convença-a moderadamente para manter o relacionamento e obter informações sobre Trinity."
-34180-184 = "Isso significa... recusar?"
-34180-185 = "Certamente. Símbolo da reconciliação? O que ela está sonhando? [wa:34180] #nVamos usá-la como uma ferramenta para obter informações de Trinity."
+
+34180-175 = "Azusa, esta é a sua missão."
+
+34180-179 = "……o que?"
+
+34180-181 = "povoado? É uma ideia chocantemente inocente. Seria estranho se não fosse uma armadilha."
+
+34180-182 = "Hmm... bem, acho que não há pressa. #nVamos esperar para ver se é uma cobra inocente ou uma cobra de coração negro."
+
+34180-183 = "Por favor, recuse uma vez. #nE mantenha o relacionamento moderado e obtenha informações sobre Trinity."
+
+34180-184 = "それは断るという……事ですか？"
+34180-185 = "Claro. A symbol of reconciliation? What are you half asleep about? #nVamos usá-la como ferramenta para obter informações sobre Trinity."
+
 34180-186 = "……."
-34180-187 = "Saori... há algum problema? [wa:34180] #nNão me diga que você preparou algo sem a minha permissão?"
-34180-188 = "N-não... não é isso, Madame."
-34180-189 = "Você não esqueceu, não é? [wa:34180] #nA razão pela qual vocês sofrem — a raiz do motivo pelo qual tremem de frio e passam fome?"
-34180-190 = "……Sim. Tudo isso é culpa de Trinity, que nos expulsou."
-34180-191 = "Exato. Reconciliação com o inimigo é algo impossível por toda a eternidade. [wa:34180] #n――Jamais se esqueça desse ódio."
-34180-192 = "Sim, Madame. [wa:34180] #nEu não esquecerei o ódio."
-34180-194 = "Eu mesma não sei bem o porquê... mas se fosse a Azusa... [wa:34180] #nAquela, se fosse a Azusa..."
-34180-195 = "Eu... eu queria que a Azusa se tornasse alguém assim..."
+
+34180-187 = "Saori...há algum problema? #n Você preparou algo sem minha permissão?"
+
+34180-188 = "Não, não... isso não é verdade, senhora."
+
+34180-189 = "Você não esqueceu, não é? #nPor que você está sofrendo? Qual é a causa raiz de você estar tremendo de frio e continuar morrendo de fome?"
+
+34180-190 = "……sim. É tudo culpa da Trinity por nos banir."
+
+34180-191 = "Sim. A reconciliação com um inimigo nunca será possível. #n――Yumeyume, não se esqueça desse ódio."
+
+34180-192 = "Sim, senhora. #nEu nunca esquecerei o ódio."
+
+34180-194 = "Eu realmente não sei por que... mas se for Azusa...#nHum, se for Azusa..."
+
+34180-195 = "Eu acho... eu queria que Azusa fosse assim..."
+
 34180-196 = "……."
-34180-197 = "Mas a oportunidade de confirmar isso nunca chegou..."
-34180-201 = "……A Seia-chan está aqui."
-34180-202 = "Se tivessem apenas a enviado silenciosamente para um hospital..."
-34180-203 = "É isso, conto com você."
+
+34180-197 = "No entanto, a oportunidade de confirmar isso nunca chegou..."
+
+34180-201 = "...Seia-chan está aqui."
+
+34180-202 = "Se você pudesse me levar para o hospital em silêncio..."
+
+34180-203 = "É isso que quero dizer, então, por favor, cuide de mim."
+
 34180-205 = "……."
-34180-206 = "……A Madame não perdeu essa oportunidade. [wa:34180] #nPorque a Seia era um incômodo para a Madame."
-34180-207 = "Você deve ter nos considerado apenas como um exército privado conveniente. [wa:34180] #nCaso contrário, nunca teria revelado a localização secreta da Seia."
-34180-208 = "Mas nós não somos seres tão convenientes assim. [wa:34180] #nNós somos..."
-34180-210 = "Aprendemos o \"método para destruir halos\", treinamos e possuímos as ferramentas para isso... [wa:34180] #num grupo de assassinos."
-34180-212 = "Recebemos a missão de matar a Seia com uma 'bomba capaz de destruir halos'."
-34180-216 = "Azusa... como ela possuía muito conhecimento sobre a Trinity para servir como um símbolo de reconciliação, acabou sendo enviada para essa missão."
-34180-224 = "……A Nagi-chan está tramando algo estranho."
+
+34180-206 = "...Madame não perdeu essa oportunidade. #n Seia era uma monstruosidade para a Senhora."
+
+34180-207 = "Você deve ter pensado em nós como um exército privado útil. #nCaso contrário, não terei como te dizer a localização de Seia, que é ultrassecreta."
+
+34180-208 = "Contudo, não somos seres tão convenientes. #nNós somos...."
+
+34180-210 = "Eles aprenderam e treinaram como destruir o Halo e possuem as ferramentas para fazer isso... Eles são um grupo de assassinos."
+
+34180-212 = "Temos a tarefa de matar Seia com uma “bomba que destrói Halo”."
+
+34180-216 = "Azusa...tinha muito conhecimento sobre a Trindade e foi escolhida para ser um símbolo de reconciliação, por isso foi enviada nesta missão."
+
+34180-224 = "...Nagi-chan está planejando algo estranho."
+
 34180-225 = "……."
-34180-226 = "Parece que ela perdeu o rumo depois que a Seia-chan morreu. #nUm tratado de paz com Gehenna, francamente. Essa Nagi-chan……."
-34180-227 = "Por isso―― é isso. Quero que você comece o plano que propus da última vez."
-34180-229 = "Infiltrar uma espiã dentro da Trinity. #nDiferente de quando foi com a Seia-chan, desta vez de forma cautelosa."
-34180-231 = "Mika……"
-34180-232 = "Eu não conseguia te entender. #nNão fazia a menor ideia do que você realmente desejava."
-34180-233 = "Cheguei a pensar que você era apenas uma idiota…… mas, se você realmente pensava daquela forma……"
-34180-234 = "Quando ouvi a palavra 'reconciliação' vinda de você pela primeira vez…… embora minha mente entendesse que não passava de delírios……"
-34180-235 = "Eu me perguntei se, talvez, 'esse futuro' pudesse existir para nós……."
-34180-236 = "Não consegui apagar completamente esse pensamento……."
+
+34180-226 = "Eu sinto que perdi a cabeça desde que Seia-chan morreu. #n Gehenna e tratado de paz, de jeito nenhum. Se Nagi-chan..."
+
+34180-227 = "Então... sim. Quero que você inicie o plano que propus outro dia."
+
+34180-229 = "Envie um espião para dentro do Trinity. #nAo contrário de Seia-chan, de forma cuidadosa."
+
+34180-231 = "Mika..."
+
+34180-232 = "Eu não consegui entender você. #nEu não tinha ideia do que diabos eu queria."
+
+34180-233 = "Achei que talvez ele fosse apenas um idiota... mas se era isso que ele realmente pensava..."
+
+34180-234 = "Quando ouvi pela primeira vez a palavra “reconciliação” de você... embora eu entendesse mentalmente o que significava..."
+
+34180-235 = "E se “tal futuro” existir para nós..."
+
+34180-236 = "Eu não conseguia apagar completamente esse pensamento..."
+
 34180-237 = "……."
-34180-238 = "Mika, você……"
-34180-243 = "Realmente queria, do fundo do coração, se reconciliar conosco."
+
+34180-238 = "Mika, você..."
+
+34180-243 = "Acho que ele realmente queria fazer as pazes conosco."
+
 34180-244 = "……."
-34180-245 = "Você nos procurou com boas intenções. #nFui eu quem pisoteou seus sentimentos, te enganou e te levou para este inferno."
-34180-246 = "E você não conseguiu aceitar este inferno…… por isso, cobriu suas próprias memórias e as negou."
-34180-247 = "Sim, e não foi só você……."
-34180-248 = "……O fato de a Princesa ter que viver escondendo sua voz e seu rosto, #ne o fato de ter arrastado Hiyori e Misaki para o esquadrão……"
-34180-249 = "E a Azusa, que foi enviada de volta à Trinity não como um 'símbolo de reconciliação', mas como uma 'assassina'―― como uma 'espiã' que precisava enganar e pisotear a todos……"
-34180-250 = "――Tudo isso é culpa minha."
-34180-251 = "Eu…… não sou um cão de caça. Eu……"
-34180-252 = "Sou um agouro…… que espalha sofrimento por onde passa."
+
+34180-245 = "Você veio até nós com boas intenções. #nFui eu quem pisoteou seu coração, te enganou e te levou para este inferno."
+
+34180-246 = "E você não podia aceitar esse inferno... então você cobriu suas próprias memórias e negou."
+
+34180-247 = "Sim, não é só você..."
+
+34180-248 = "...O fato da princesa ter que viver escondendo a voz e o rosto, e o fato de #n Hiyori e Misaki terem sido trazidas para o esquadrão..."
+
+34180-249 = "Azusa foi enviado novamente para Trinity, não como um “símbolo de reconciliação”, mas como um “assassino” – como um “espião” que tinha que enganar e atropelar a todos..."
+
+34180-250 = "--Tudo é minha culpa."
+
+34180-251 = "Não sou um cão de caça. EU……"
+
+34180-252 = "周囲のすべてに苦痛を撒き散らす……疫病神だ。"
 34180-253 = "……."
-34180-254 = "O que eu queria perguntar para a Azusa, é isso…… #nÉ verdade…… tinha isso……."
-34180-255 = "Mesmo tendo sido forçada a carregar tudo isso, a Azusa……"
-34180-256 = "……Parecia feliz."
-34180-257 = "Aquela Azusa, que não mostrava emoções para ninguém, que não nos aceitou até o fim, #ne que vivia em solidão……."
-34180-259 = "Aquela garota que mantinha o coração fechado como uma concha no fundo do mar……."
-34180-270 = "Junto com seus amigos…… e com a ajuda dos adultos……"
-34180-271 = "No final, superou as dificuldades……."
-34180-272 = "E seguiu em frente…… sob um céu azul radiante e cheio de felicidade……."
-34180-274 = "Não…… não é verdade. #nAquilo…… aquilo é mentira. É falso!"
-34180-275 = "É uma felicidade como uma miragem que desaparecerá um dia!"
-34180-279 = "Não adianta nada baixar a cabeça e implorar em oração!"
-34180-280 = "Azusa, no fim das contas, nós não podemos ser felizes. #nVocê sabe bem, não sabe? ――Que tudo é vazio."
-34180-282 = "No entanto…… no fim, tive que admitir……."
-34180-285 = "Ah…… entendo."
-34180-286 = "Nossa raiva…… e a frase de que 'tudo é vazio'…… #ntudo o que aconteceu……"
-34180-287 = "――Era tudo mentira……."
-34180-288 = "Eu, que fui estúpida e fraca…… levei todos ao meu redor à ruína como um agouro……."
-34180-299 = "――Ah, no fim era isso. #nTudo foi por minha causa."
-34180-300 = "A Azusa só conseguiu ser feliz porque se afastou de mim."
-34180-301 = "Eu provavelmente queria negar essa verdade até o fim……."
-34180-303 = "Azusa, se fosse você…… saberia a resposta certa?"
-34180-304 = "Azusa…… eu……."
-34180-305 = "――Será que eu consigo…… ser feliz?"
-34180-306 = "O que eu preciso fazer para ser como você? #nSerá que existe essa oportunidade? Será que eu tenho o direito de desejar algo assim……?"
-34180-307 = "Se... se eu..."
-34180-310 = "...Se eu tivesse conhecido um adulto decente um pouco mais cedo..."
-34180-311 = "...Será que alguém como eu... teria tido uma vida diferente...?"
-34180-312 = "Será que eu poderia ter tido um futuro diferente, em vez deste fim trágico...?"
-34180-313 = "Será que para mim... também haveria... essa oportunidade...?"
-34180-314 = "Azusa... o que foi que você disse naquela época?"
+
+34180-254 = "アズサに聞きたかったこと、か……#nそう……あったな……。"
+34180-255 = "そのすべてを押しつけられたにも関わらず、アズサは……"
+34180-256 = "...Ele parecia feliz."
+
+34180-257 = "Aquela Azusa que não demonstrava suas emoções para ninguém, não nos aceitou até o fim, e vivia na solidão..."
+
+34180-259 = "Aquela criança cujo coração estava fechado como uma concha no fundo da água..."
+
+34180-270 = "Com amigos...trabalhar junto com adultos..."
+
+34180-271 = "No final, superando as dificuldades..."
+
+34180-272 = "Sob um céu azul brilhante cheio de felicidade... seguimos em frente..."
+
+34180-274 = "Não... isso não é verdade. #nIsso... esse tipo de coisa é mentira. É falso!"
+
+34180-275 = "A felicidade é como uma miragem que um dia desaparecerá!"
+
+34180-279 = "Mesmo se você orar e orar, nada mudará!"
+
+34180-280 = "Azusa, afinal não podemos ser felizes. #nVocê entende muito bem, né? --Que tudo está vazio."
+
+34180-282 = "Mas... no final, eu tive que admitir..."
+
+34180-285 = "Ah... entendo."
+
+34180-286 = "Nosso ódio...as palavras \"tudo é vão\"...#nTudo o que veio..."
+
+34180-287 = "-Era tudo mentira..."
+
+34180-288 = "Então, como um deus da peste, levei aqueles ao meu redor à ruína..."
+
+34180-299 = "--Ah, foi isso que aconteceu afinal. #nFoi tudo culpa minha."
+
+34180-300 = "Azusa conseguiu ser feliz porque conseguiu me deixar."
+
+34180-301 = "Acho que queria negar essa verdade até o fim..."
+
+34180-303 = "Azusa, se você... você sabe a resposta correta?"
+
+34180-304 = "Azusa... eu..."
+
+34180-305 = "--Você pode ser feliz?"
+
+34180-306 = "Como posso me tornar como você? #nEssa oportunidade existe? Está tudo bem eu desejar tal coisa...?"
+
+34180-307 = "Se... eu..."
+
+34180-310 = "...Se eu tivesse conhecido um bom adulto antes..."
+
+34180-311 = "Eu me pergunto se havia outra vida para mim..."
+
+34180-312 = "Eu me pergunto se ele poderia ter tido um futuro diferente em vez de um final tão trágico..."
+
+34180-313 = "Eu também tenho uma oportunidade dessas..."
+
+34180-314 = "Azusa... o que você disse naquela época?"
+
 34180-315 = "Eu... isso..."
-34180-319 = "...Mika."
-34180-320 = "Chegamos a este ponto. #n— Faça o que quiser. Pode tirar tanto quanto tiraram de você."
-34180-321 = "Pois fui eu, e ninguém mais, que transformou você, que tinha um coração gentil, #nna 'bruxa' do ódio."
-34180-322 = "Eu tirei muito dos outros... acho que, com isso, as coisas ficarão, no mínimo, justas..."
-34180-332 = "Ah... eu pensei que, se esse papel coubesse a alguém, seria a Azusa... #nmas era você, Mika."
+
+34180-319 = "... Mika."
+
+34180-320 = "Esta é a situação agora. #n――Faça o que quiser. Espero que você tire tanto quanto foi tirado de mim."
+
+34180-321 = "Não fui outro senão eu quem transformou você, que tinha um coração bondoso, em uma “bruxa” do ódio."
+
+34180-322 = "Eu tirei tanto dos outros... isso pelo menos tornará tudo justo..."
+
+34180-332 = "Ah...Achei que Azusa seria quem assumiria esse papel...#nFoi você, Mika."
+
 34180-340 = "...?"
-34180-341 = "...E-eu..."
-34180-342 = "Eu não... não consigo."
-34180-343 = "Eu não posso fazer isso... #nporque..."
-34180-344 = "Eu também..."
-34180-345 = "Eu também desejava uma oportunidade como a sua..."
-34180-346 = "Eu também... queria ser feliz..."
-34180-347 = "Eu também pensava... que se tivesse conhecido o Sensei um pouco mais cedo, como você. #nTalvez... eu pudesse ter consertado meus erros..."
-34180-352 = "Eu aceitei isso como um castigo merecido... #nmas, ainda assim, rezei incontáveis vezes por misericórdia."
-34180-353 = "Mas... foi inútil."
-34180-354 = "Não faço a menor ideia de como ser perdoada por todas as coisas irreparáveis que cometi..."
+
+34180-341 = "... eu-eu ..."
+
+34180-342 = "Eu... não posso fazer isso."
+
+34180-343 = "Eu não posso fazer isso...#n..."
+
+34180-344 = "eu também……"
+
+34180-345 = "Assim como você, eu esperava por essa oportunidade..."
+
+34180-346 = "Eu também queria ser feliz..."
+
+34180-347 = "Assim como você, gostaria de ter conhecido você antes. #nSe eu fizesse isso...pensei que talvez pudesse compensar meu erro..."
+
+34180-352 = "Aceitei que esse era um castigo merecido... #nMas ainda orei inúmeras vezes por misericórdia."
+
+34180-353 = "Mas... foi em vão."
+
+34180-354 = "Não tenho ideia de como posso ser perdoado por todas as coisas irreparáveis ​​que fiz..."
+
 34180-355 = "Uma segunda chance..."
-34180-356 = "O Sensei e todos se reuniram por mim... e eu poderia recomeçar. #nEu acreditava que tinha essa chance... mas não tinha... esse futuro não existia..."
-34180-357 = "Neste mundo onde tudo é vazio, eu apenas sofria, ansiando por salvação..."
-34180-359 = "Você é... eu, Saori..."
-34180-360 = "Você não pode ser feliz. #nAssim como eu não posso ser feliz."
-34180-361 = "Isso é impossível. Não existe uma segunda chance para nós, que já passamos do ponto de retorno."
-34180-363 = "Talvez por isso eu tenha desejado uma dor 'justa' para você..."
-34180-364 = "Mas, justamente por isso... eu não consigo..."
-34180-365 = "Se eu decidir o seu fim dessa maneira..."
-34180-366 = "Estarei provando a mim mesma que não há salvação para mim..."
+
+34180-356 = "Meus professores e todos se uniram por mim... posso recomeçar. #nEu acreditei que teria essa chance... mas não foi... não existia esse futuro..."
+
+34180-357 = "Neste mundo onde tudo está vazio, tudo que posso fazer é sofrer e esperar pela salvação..."
+
+34180-359 = "Você... sou eu, Saori..."
+
+34180-360 = "você não pode ser feliz #nAssim como eu não posso ser feliz."
+
+34180-361 = "Isso é impossível. Não há como termos uma segunda chance porque chegamos ao ponto sem volta."
+
+34180-363 = "Então talvez eu estivesse desejando a você uma dor \"justa\"..."
+
+34180-364 = "Mas é por isso... que não consigo..."
+
+34180-365 = "Se eu decidisse seu final assim..."
+
+34180-366 = "Terei que provar a mim mesmo que não há salvação para mim..."
+
 34180-371 = "Mika... você..."
-34180-372 = "Ei, por que você não usou a 'bomba que destrói halos'?"
-34180-373 = "...!!"
-34180-374 = "Ouvi dizer que você a tinha... você teve várias chances de usar, não teve? #nPor que não usou?"
-34180-375 = "Se você tivesse usado... eu..."
-34180-376 = "Isso é... para começo de conversa, eu não a tenho."
-34180-377 = "Porque o Sensei a confiscou..."
-34180-378 = "...Hã?"
-34180-379 = "...Confiscou? O Sensei?"
-34180-380 = "Ué, por quê...?"
-34180-385 = "[ns] \"O Sensei confisca coisas perigosas.\""
-34180-386 = "¡?"
-34180-387 = "Se-Sensei...!?"
-34180-388 = "Se-Sensei... po-por que você está aqui...!?"
-34180-390 = "Próximo episódio: Possibilidades Infinitas"
+
+34180-372 = "Ei, por que você não usou a \"bomba destruidora de halos\"?"
+
+34180-373 = "...! !"
+
+34180-374 = "#nPor que você não usou?"
+
+34180-375 = "Se você tivesse usado isso... eu..."
+
+34180-376 = "Bem... eu não tenho isso em primeiro lugar."
+
+34180-377 = "Meu professor confiscou..."
+
+34180-378 = "……foto?"
+
+34180-379 = "...Confiscado? Para o professor?"
+
+34180-380 = "Ei, por que...?"
+
+34180-385 = "[ns] \"Itens perigosos serão confiscados pelo professor.\""
+
+34180-386 = "! ?"
+
+34180-387 = "Bem, professora...! ?"
+
+34180-388 = "S-Sensei... P-por que você está aqui...! ?"
+
+34180-390 = "Próxima vez; infinitas possibilidades"
+

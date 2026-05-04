@@ -1,6 +1,8 @@
 [translation]
-10045025-2 = "[log]70名脱落！[/log]"
-10045025-4 = "[log]試合終了！[/log]"
+10045025-2 = "[log]70 pessoas desistiram![/log]"
+
+10045025-4 = "[log]A partida acabou![/log]"
+
 10045025-7 = "Pessoal, obrigado. Graças a vocês, conseguimos passar."
 10045025-8 = "Bom trabalho a todos!"
 10045025-10 = "Foi uma batalha intensa, não foi..."
@@ -22,7 +24,8 @@
 10045025-39 = "Faremos uma pequena pausa agora."
 10045025-40 = "Descansem bem para se prepararem para a próxima modalidade!"
 10045025-41 = "[ns] \"A próxima modalidade é esta!\""
-10045025-43 = "[log]暴走ジェットボート！[/log]"
+10045025-43 = "[log]Barco a jato em fuga![/log]"
+
 10045025-46 = "Um jet ski que vive fazendo drifts e mergulhos!#nSe você cair, está desclassificado!"
 10045025-47 = "[ns] \"Vamos continuar até sobrarem apenas 10 pessoas, nyan!\""
 10045025-48 = "Já posicionamos os salva-vidas, então podem ficar tranquilos e se divertir ao máximo, nyan nyan!"

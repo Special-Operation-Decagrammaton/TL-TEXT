@@ -1,103 +1,95 @@
 [translation]
-1010505-1 = "Após a apresentação ao vivo"
+1010505-1 = "Depois da apresentação ao vivo"
 
 1010505-2 = "(Fui ver Marie no dia do show)"
 
-1010505-4 = "...... Sim, já estava na hora."
+1010505-4 = "...Sim, está quase na hora."
 
-1010505-5 = "Pronto para começar."
+1010505-5 = "Estou pronto."
 
-1010505-6 = "......?"
+1010505-6 = "...?"
 
-1010505-7 = "Professor ......!"
+1010505-7 = "professor……! ?"
 
-1010505-8 = "Talvez você esteja preocupado e queira verificar o site ......?"
+1010505-8 = "Talvez você esteja preocupado e queira ver o que está acontecendo...?"
 
-1010505-9 = "...... Sorry. #nPeço desculpas por ter incomodado o médico novamente."
+1010505-9 = "...... sinto muito. #nEu fiz a professora se preocupar novamente."
 
-1010505-10 = "[s1] \"Não importa, eu só queria ver você. \"\n[s2] \"Eu vim aqui para ver a Marie ao vivo. \"\n[s2]""
+1010505-10 = "[s1] \"Não se preocupe, eu só queria ver você.\"\n[s2] \"Vim porque queria ver a apresentação ao vivo da Marie.\""
 
-1010505-13 = "...... Obrigado, doutor."
+1010505-13 = "...Obrigado, Sensei."
 
-1010505-14 = "Eles são os outros dois ......?"
+1010505-14 = "Vocês são os outros dois...?"
 
-1010505-15 = "Essa etapa será realizada somente por mim."
+1010505-15 = "Esta etapa está programada para ser realizada por mim mesmo."
 
-1010505-16 = "Eles realizam várias mini-vidas durante o festival da escola."
+1010505-16 = "Parece que mini-lives acontecerão diversas vezes durante o período do festival escolar."
 
-1010505-17 = "Vocês dois têm trabalhado duro em outros lugares!"
+1010505-17 = "Vocês dois estão trabalhando duro em lugares diferentes!"
 
-1010505-18 = "[s3] \"Hoje é o show solo da Marie! \"\n[s4] \"Vai ser muito divertido! \"\"\n[s3]]"
+1010505-18 = "[s3] \"Hoje é o show solo da Marie!\"\n[s4] \"Vai ser divertido!\""
 
-1010505-21 = "Ehehe. ......."
+1010505-21 = "Ehehe…."
 
-1010505-22 = "...... Para mim, esse momento é um presente inestimável. #nCantar na frente de todos e torcer pelos meus professores. ......"
+1010505-22 = "...Para mim, este tempo é um presente insubstituível. #nTocar a música na frente de todos e ter o professor torcendo por você..."
 
-1010505-23 = "Nunca pensei que veria tantos rostos sorridentes."
+1010505-23 = "Não acredito que vi tantos rostos sorridentes."
 
-1010505-24 = "Pense nisso: ......."
+1010505-24 = "Se você pensar sobre isso..."
 
-1010505-25 = "Parece que mais pessoas visitam o site do que a sala de consulta ......."
+1010505-25 = "...Parece que mais pessoas estão visitando do que a sala de aconselhamento."
 
-1010505-26 = "Isso. ......."
+1010505-26 = "Que..."
 
-1010505-27 = "...... está correto?"
+1010505-27 = "...Está tudo bem?"
 
-1010505-28 = "[s5] \"Geralmente há tantas pessoas assim no ......? \"\n[s6] \"É muito mais do que isso. ...... Marie é incrível! \""
+1010505-28 = "[s5] \"普段からそんなに多くの人が……？\"\n[s6] \"それよりも多いって……マリーはすごいね！\""
+1010505-31 = "Palavras tão inúteis..."
 
-1010505-31 = "Que desperdício de palavras. ......"
+1010505-32 = "...Hehe."
 
-1010505-32 = "...... phew."
+1010505-33 = "Ah, tenho que ir logo..."
 
-1010505-33 = "Oh, tenho que ir andando. ......"
+1010505-34 = "Bem, sensei... se não se importa, depois do show ao vivo..."
 
-1010505-34 = "Bem, senhor, ...... se quiser, pode ir para ...... depois do show."
+1010505-39 = "...Não é nada!"
 
-1010505-39 = "......, não é nada!"
+1010505-40 = "[s7] \"Estou torcendo por você!\"\n[s8] \"Vai!\""
 
-1010505-40 = "[s7] \"Você tem meu apoio! \"\n[s8] \"Tenha um bom dia! \"\"\n[s8] \"Vá!"
-
-1010505-43 = "......!"
+1010505-43 = "...!"
 
 1010505-44 = "Sim, senhor."
 
-1010505-45 = "Acesse ......!"
+1010505-45 = "...Estou indo!"
 
-1010505-48 = "(Esperando por Marie fora do palco até o final do show)"
+1010505-48 = "(Esperei por Marie nos bastidores do palco até o show terminar.)"
 
-1010505-49 = "(Marie no palco também era muito brilhante)"
+1010505-49 = "(Marie no palco também estava brilhando muito)"
 
-1010505-53 = "(E depois do show ......)"
+1010505-53 = "(E depois da apresentação ao vivo...)"
 
-1010505-54 = "...... Professor!"
+1010505-54 = "……professor!"
 
-1010505-63 = "(Marie voltou com bom humor)."
+1010505-63 = "(Marie voltou saudável)"
 
-1010505-66 = "[wa:800]- [log=마리 아이돌]Doutor, [wa:880]o senhor estava esperando por mim! [/log]"
+1010505-66 = "[wa:800]― [log=마리 아이돌]先生、[wa:880]待っていてくださったのですね！[/log]"
+1010505-68 = "― [log=마리 아이돌]Eu não conseguia acreditar que [wa:930] você estava esperando aqui [wa:550] todo esse tempo...[/log]"
 
-1010505-68 = "- [log=마리 아이돌]Nunca pensei que [wa:930]você estaria aqui [wa:550]esperando por mim todo esse tempo. ......[/log]"
+1010505-71 = "[wa:1500]― [log=마리 아이돌]その……[wa:1500]ステージ、[wa:1200]どうでしたか？[/log]"
+1010505-73 = "― [log=마리 아이돌]Acho que não consegui ver [wa:1550] muito bem[wa:700] dos bastidores do palco...[/log]"
 
-1010505-71 = "[wa:1500]- [log=마리 아이돌]Aquela ......[wa:1500]etapa, [wa:1200]como foi? [/log]"
+1010505-76 = "[wa:830]― [log=마리 아이돌]でも、[wa:1050]先生はずっと[wa:900]見守ってくださっていたから……[/log]"
+1010505-78 = "― [log=마리 아이돌]Está tudo bem em estar nos bastidores do palco [wa:1300]...[/log]"
 
-1010505-73 = "- [log=마리 아이돌]Acho que não conseguiria ver [wa:1550]muito bem [wa:700]de fora do palco. ......[/log]"
+1010505-81 = "[wa:830]― [log=마리 아이돌]その……[wa:1250]パフォーマンス、[wa:1200]どうでした？[/log]"
+1010505-83 = "― [log=마리 아이돌]Você se acostumou a ser um \"ídolo\" corretamente...[wa:950]? [/registro]"
 
-1010505-76 = "[wa:830]- [log=마리 아이돌]Mas [wa:1050]o professor sempre [wa:900]cuidou de mim. ......[/log]"
+1010505-86 = "[ns9] \"Ela era realmente um ídolo!\"\n[ns10] \"Marie tem sido o ídolo de todos desde o início!\"\n[ns11] \"Como fã número um, posso garantir isso!\""
 
-1010505-78 = "- [log=마리 아이돌]Mesmo de fora do palco [wa:1300]Espero que esteja tudo bem. ......[/log]"
+1010505-90 = "[wa:670]― [log=마리 아이돌]……！！[/log]"
+1010505-92 = "[wa:1300]― [log=마리 아이돌]……ありがとうございます、[wa:1100]先生……！[/log]"
+1010505-95 = "[wa:1350]― [log=마리 아이돌]……えへへ。[/log]"
+1010505-98 = "(Então, depois de esperar que Marie se acalmasse depois de ficar corada por causa do calor)"
 
-1010505-81 = "[wa:830]- [log=마리 아이돌]Esse desempenho do ......[wa:1250]foi bom? [/log]"
-
-1010505-83 = "- [log=마리 아이돌]Você conseguiu [wa:900] ......[wa:950]ser [wa:900] corretamente um "ídolo"? [/log]"
-
-1010505-86 = "[ns9] \"Eu era um ídolo genuíno! \"\"\n[ns10] \"Marie tem sido o ídolo de todos desde o início! \"\"\n[ns11] \"Eu sou a primeira fã, eu garanto! \"\"\n[ns10] \"\n[ns11] \"A Marie é o ídolo de todos desde o início!"
-
-1010505-90 = "[wa:670]- [log=마리 아이돌]......! [/log]"
-
-1010505-92 = "[wa:1300]- [log=마리 아이돌]...... Obrigado, [wa:1100]Professor ......! [/log]"
-
-1010505-95 = "[wa:1350]- [log=마리 아이돌]...... ehehe. [/log]"
-
-1010505-98 = "(Então, depois de esperar que Marie se acalme com o calor)"
-
-1010505-99 = "(Saí do local com uma lembrança persistente da apresentação ao vivo)."
+1010505-99 = "(Saí do local com o brilho do show em meu coração)"
 

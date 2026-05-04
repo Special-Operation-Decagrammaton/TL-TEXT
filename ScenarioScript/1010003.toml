@@ -1,111 +1,104 @@
 [translation]
-1010003-1 = "O que mudou e o que permaneceu igual."
+1010003-1 = "O que mudou, o que permanece igual"
 
-1010003-3 = "[ns1] \"\"\"\"\"\"}Quer dizer, com os números da loteria que você conhece do outro lado. ...... \"\n[ns2] \"Isso significa que você está indo para o dinheiro premiado. ......! \""
+1010003-3 = "[ns1] \"Em outras palavras, com os números da loteria que você descobriu do outro lado...\"\n[ns2] \"Visando os ganhos...!?\""
 
-1010003-6 = "Hmm. #n basta lembrar o número que você ganhará no próximo sorteio."
+1010003-6 = "sim. #nO número que você acabou de memorizar ganhará no próximo sorteio."
 
-1010003-7 = "[s3] \"hmmm. \"\n[s4] \"Mas isso é ....... \""
+1010003-7 = "[s3] \"Hmm.\"\n[s4] \"Mas...\""
 
-1010003-10 = "Hmm, do jeito que só eu posso fazer. #nTudo é um desafio, certo?"
+1010003-10 = "Hmm, é um método que só eu posso fazer. #nVocê pode tentar qualquer coisa, certo?"
 
-1010003-11 = "[s]\"Os desafios são importantes, mas ....... \""
+1010003-11 = "[s] \"O desafio é importante, mas...\""
 
-1010003-13 = "[ns5] \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"...... \"\n[ns6] \"Como educador, sou ....... \"\n""
+1010003-13 = "[ns5] \"Me pergunto se está tudo bem...\"\n[ns6] \"Como educador...\""
 
-1010003-18 = "[ns7] \"...... Isso é para o Shiroko! \"\n[ns8] Compre um bilhete de loteria."
+1010003-18 = "[ns7] \"...Isto é para Shiroko!\"\n[ns8] Compre um bilhete de loteria."
 
-1010003-26 = "(Mais tarde, verificamos os resultados e eles eram diferentes dos números que Siroko lembrava)."
+1010003-26 = "(Quando verifiquei o resultado mais tarde, era diferente do número que Shiroko lembrava.)"
 
-1010003-35 = "...... Desculpe, senhor. #nDesperdício de dinheiro por minha causa. ......"
+1010003-35 = "...Desculpe, professor. #nVocê desperdiçou dinheiro por minha causa..."
 
-1010003-36 = "[\"Está tudo bem, gostei de esperar pelos resultados. \""
+1010003-36 = "[s] \"Tudo bem, gostei de esperar pelos resultados.\""
 
-1010003-37 = "......n. #Afinal de contas, talvez este seja um pouco diferente do mundo que conheço."
+1010003-37 = "……sim. #nAfinal, esse mundo pode ser um pouco diferente daquele que conheço."
 
-1010003-38 = "[\"Por exemplo, quais? \""
+1010003-38 = "[s] \"Por exemplo, de que lado?\""
 
-1010003-39 = "O que devo dizer para ......?"
+1010003-39 = "...O que devo dizer?"
 
-1010003-40 = "Não me lembro de tantos detalhes."
+1010003-40 = "Não tenho essa memória detalhada."
 
-1010003-41 = "...... Não consigo explicar bem, desculpe."
+1010003-41 = "...Não consigo explicar bem, me desculpe."
 
-1010003-42 = "......Não sou quem eu costumava ser e não sou o [ruby=sunaokami]sandwolfsi[/ruby]loco deste mundo."
+1010003-42 = "...Não sou a mesma pessoa que costumava ser e não sou #nthisworldloco."
 
-1010003-43 = "Talvez muitas coisas sejam diferentes, como os números da loteria."
+1010003-43 = "Muitas coisas podem ser diferentes, como números de loteria."
 
-1010003-44 = "[\"Mas algumas coisas nunca mudam. \""
+1010003-44 = "[s] \"Mas algumas coisas nunca mudam.\""
 
-1010003-45 = "Hmm, sim. #Estranhamente, apenas o Dr. ...... não muda."
+1010003-45 = "Hum, isso mesmo. #nÉ estranho, mas...a única coisa que não mudou foi o professor."
 
-1010003-46 = "[\"A parte em que Siroko também gosta de cavalgar. \""
+1010003-46 = "[s] \"Também gosto do fato de Shiroko adorar andar de bicicleta.\""
 
-1010003-47 = "......."
+1010003-47 = "……."
 
-1010003-48 = "[\"Você pode me dizer por que desistiu? \""
+1010003-48 = "[s] \"Você pode me dizer por que desistiu?\""
 
-1010003-50 = "[ns9] \"Eu até gero eletricidade pedalando minha bicicleta. \"\n[ns10] \"Tenho até uma garagem de bicicletas em meu quarto. \""
+1010003-50 = "[ns9] \"Eu simplesmente pedalo minha bicicleta para gerar eletricidade.\"\n[ns10] \"Meu quarto tem até garagem para minha bicicleta.\""
 
-1010003-53 = "N. ......."
+1010003-53 = "sim……."
 
-1010003-54 = "Não há um motivo específico. #Só que não ando de bicicleta há algum tempo."
+1010003-54 = "Não há nenhuma razão específica. #nNo entanto, faz um tempo que não ando nele."
 
-1010003-55 = "Eu costumava correr alguns milhares de quilômetros, mais ou menos, de leve. ......"
+1010003-55 = "Eu costumava dirigir levemente, cerca de alguns milhares de quilômetros, mas..."
 
-1010003-56 = "Não estou mais confiante de que posso correr. ......"
+1010003-56 = "Não tenho mais confiança de que posso terminar a corrida..."
 
-1010003-57 = "Se você achar que não consegue voltar a pisar no pedal como antes. ......"
+1010003-57 = "Quando você percebe que mesmo pressionando o pedal, você não pode voltar a ser como era antes..."
 
-1010003-58 = "[\"Por que você pensou isso? \""
+1010003-58 = "[s] \"Por que você achou isso?\""
 
-1010003-59 = "...... Estou com medo."
+1010003-59 = "...É assustador."
 
-1010003-60 = "Se eu estiver em Abydos e estiver com meu professor ......#n e tudo for um sonho."
+1010003-60 = "Se estou em Abidos e estou com você...#n, é tudo um sonho."
 
-1010003-64 = "Desculpe, doutor. #nDiga algo estranho novamente."
+1010003-64 = "Desculpe, professor. #nDiga algo estranho novamente."
 
-1010003-70 = "[\"Eu não sou um sonho, Shiloko. \""
+1010003-70 = "[ns] \"Não estou sonhando, Shiroko.\""
 
-1010003-74 = "[ns] \"Eu sempre estarei com Siroko. \""
+1010003-74 = "[ns] \"Estarei sempre ao lado de Shiroko.\""
 
-1010003-75 = "...... Chi, um pouco mais perto."
+1010003-75 = "...Tch, está um pouco perto."
 
-1010003-79 = "......n, eu sei. #n[ruby= ・・・]Teacher[/ruby] estava sempre ao meu lado."
+1010003-79 = "...Hmm, eu sei. #n sempre esteve ao meu lado."
 
-1010003-80 = "As coisas que não mudam estão no lugar."
+1010003-80 = "Há coisas que não mudam."
 
-1010003-86 = "Também me lembro dessa estrada."
+1010003-86 = "Também me lembro desta estrada."
 
-1010003-87 = "O local pelo qual passou o primeiro dia da travessia de Kivotos."
+1010003-87 = "O local onde fui no primeiro dia de travessia de Kivotos."
 
-1010003-88 = "...... Fui pego no semáforo de lá e mandei uma conversa sobre pêssego para o professor."
+1010003-88 = "...Fui pego num semáforo de lá e mandei um Momotalk para a professora."
 
-1010003-92 = "......n. #n Todos eles, de memória."
+1010003-92 = "……sim. #nLembro de tudo."
 
-1010003-96 = "Doutor, por aqui."
+1010003-96 = "Professor, por aqui."
 
-1010003-97 = "[ns] \"shi, shiroko? \""
+1010003-97 = "[ns] \"Shiroko?\""
 
-1010003-107 = "A partir daqui, você tem uma vista panorâmica."
+1010003-107 = "Você pode obter uma vista panorâmica daqui."
 
-1010003-111 = "[ns11] \"Bem, espere ...... shiroko. \"\n[ns12] \"Hah ...... Hah, já estou fisicamente exausto. \""
+1010003-111 = "[ns11] \"Bem, espere... Shiroko.\"\n[ns12] \"Haa... haa, já estou ficando sem energia.\""
 
-1010003-114 = "[Alinhe-se onde Siroko está de pé."
+1010003-114 = "[ns] Alinhe-se onde Shiroko está."
 
-1010003-120 = "[wa:1800]- [log=시로코 테러 무소속]...... como de costume, [wa:1230]aqui. [/log]"
+1010003-120 = "[wa:1800]― [log=시로코 테러 무소속]……いつも通りだね、[wa:1230]ここは。[/log]"
+1010003-121 = "[wa:3260]― [log=시로코 테러 무소속]変わったのは、[wa:1190]私だけか。[/log]"
+1010003-124 = "[wa:550]― [log=시로코 테러 무소속]ん……[wa:1140]でも、[wa:860]変わってないものもあって、[wa:1630]少し安心した。[/log]"
+1010003-127 = "[wa:1540]― [log=시로코 테러 무소속]先生、[wa:1560]私、[wa:1280]また自転車に乗ってみたいと思う。[/log]"
+1010003-130 = "[wa:1170]― [log=시로코 테러 무소속]色々と壁はあるかもしれないけど……[/log]"
+1010003-131 = "[wa:3720]― [log=시로코 테러 무소속]でも、[wa:940]先生が居てくれたら……[wa:2250]できる気がするの。[/log]"
+1010003-134 = "[ns] \"Sim. Estou torcendo por você, Shiroko.\""
 
-1010003-121 = "[wa:3260]- [log=시로코 테러 무소속] Sou o único que mudou [wa:1190]? [/log]"
-
-1010003-124 = "[wa:550]- [log=시로코 테러 무소속] ん......[wa:1140]mas alguns [wa:860]permaneceram os mesmos, [wa:1630]o que foi um pouco aliviador. [/log]"
-
-1010003-127 = "[wa:1540]- [log=시로코 테러 무소속]Professor, [wa:1560]eu, [wa:1280]gostaria de andar de bicicleta novamente. [/log]"
-
-1010003-130 = "[wa:1170]- [log=시로코 테러 무소속]Pode haver muitas barreiras, mas ......[/log]"
-
-1010003-131 = "[wa:3720]- [log=시로코 테러 무소속]Mas [wa:940]sinto que eu poderia ......[wa:2250] fazer isso se o professor estivesse aqui. [/log]"
-
-1010003-134 = "[ns] \"Sim. Estou torcendo por você, Shiloko. \""
-
-1010003-135 = "[wa:820]- [log=시로코 테러 무소속]n, [wa:1110]obrigado. [wa:990]Professor. [/log]"
-
+1010003-135 = "[wa:820]― [log=시로코 테러 무소속]ん、[wa:1110]ありがとう。[wa:990]先生。[/log]"

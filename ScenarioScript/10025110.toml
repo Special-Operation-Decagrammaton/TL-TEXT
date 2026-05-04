@@ -72,7 +72,8 @@
 10025110-145 = "Ei, olhem só isso!"
 10025110-146 = "Moe…… você tem noção de quanto tempo passou desde que saiu――"
 10025110-147 = "Hehe…… Saki, mesmo sendo você, #nnão vai conseguir reclamar depois de ver isso, né?"
-10025110-148 = "Tcharam! A "Marmita Premium Matsu de Edição Limitada" da Angel 24!! #nConsegui pegar uma de cada um dos 4 tipos!"
+10025110-148 = "Tcharam! A \"Marmita Premium Matsu de Edição Limitada\" da Angel 24!! #nConsegui pegar uma de cada um dos 4 tipos!"
+
 10025110-149 = "Não é a Take nem a Ume, é a marmita Matsu……? #nIsso não é muito caro……"
 10025110-150 = "Exato. É uma marmita de luxo feita com produtos locais, super rara e com produção limitada!"
 10025110-151 = "Mas, ao verificar a rede logística da loja de conveniência, #nvi que as marmitas Matsu estavam sendo descartadas, então corri para lá!"
@@ -99,41 +100,81 @@
 10025110-190 = "Pronto…… por favor, assine aqui."
 10025110-196 = "Com licença…… é realmente uma encomenda para mim? #nNeste parque……?"
 10025110-197 = "Sim. Sem dúvida, o endereço deste parque está registrado aqui."
-10025110-198 = "「D.U.子ウサギタウン近隣公園、手洗い場前。A型1号テント、月雪ミヤコ様」#n……ですよね？"
-10025110-200 = "テントの位置まで、無駄に具体的だな……"
-10025110-202 = "たしかに間違いありませんが、どなたからの荷物ですか……？"
-10025110-203 = "発送元は、夜戸浦村の漁業組合ですね！！"
-10025110-204 = "冷凍保管が必要な物なので、常温だと中身が傷む恐れがあります。"
+10025110-198 = "\"DU Rabbit Town Neighborhood Park, em frente à área de lavagem das mãos. Tenda Tipo A No. 1, Miyako Tsukiyuki.\"#n... Não é?"
+
+
+10025110-200 = "Até a localização da tenda é desnecessariamente específica..."
+
+10025110-202 = "Não há dúvida, mas de quem veio o pacote...?"
+
+10025110-203 = "A fonte de envio é a associação de pescadores da Vila Yotoura! !"
+
+10025110-204 = "Este item precisa ser mantido congelado, pois o conteúdo pode estragar se for mantido em temperatura ambiente."
+
 10025110-205 = "開封したら早めに召し上っていただくか、冷凍保存するようお願いします。"
-10025110-206 = "ありがとうございました。では、失礼します！"
-10025110-213 = "どうして、夜戸浦村から……？"
-10025110-214 = "しかも冷凍便って、何が送られてきたんだろうねぇ。"
-10025110-215 = "生モノの気配がするような……"
-10025110-217 = "……私が開けてみる。"
-10025110-225 = "これは……"
-10025110-226 = "……エビじゃん！！しかもこんなに高級なやつ！！！"
-10025110-227 = "すごい……高そうなエビが、箱にいっぱい……"
-10025110-228 = "……あ、箱の中にメッセージが入ってますね。"
-10025110-234 = "「通りすがりの心優しい観光客の皆様へ。夜戸浦村・漁業組合一同より、心からの感謝を込めて。」"
-10025110-235 = "……やはり、私たち宛てで間違いないようですね。"
-10025110-237 = "「通りすがりの心優しい観光客」ねぇ……私たちにピッタリじゃない？"
-10025110-238 = "……心優しい、って文字にされると恥ずかしいな。"
-10025110-239 = "それにSRTとして当然の仕事をしただけなのに、こんなお礼を頂いてしまうなんて、ちょっと申し訳ないな……"
-10025110-240 = "ですが、ご厚意で送っていただいた物を断るわけにはいけません。#nこのエビは、ありがたいと頂くとしましょう。"
-10025110-241 = "あ、そうだサキ。さっきのエビフライ弁当、食べちゃって良いよ。#n私はこれがあれば十分だから。"
-10025110-242 = "なっ、ズルいぞ！"
-10025110-244 = "この量……10人前はありそうだけど、私たちだけで食べれるのかな……？"
-10025110-245 = "冷凍庫はないし……このままじゃ大切なエビがダメになっちゃうかも……"
-10025110-247 = "……それは、皆さんに失礼ですね。"
-10025110-248 = "……では、今回も力を貸してくださった[USERNAME]先生を呼ぶのはどうでしょう？"
-10025110-249 = "賛成！！！"
-10025110-258 = "こんにちは、先生。今お時間、大丈夫でしょうか？"
-10025110-259 = "その、先日のシュリンプ・トラップ作戦に関するお話なのですが……"
-10025110-260 = "あ、あのときは、大変お世話になりました……それで、えっと……"
-10025110-261 = "……何をそんなにモジモジしてるんだ？"
-10025110-262 = "恥ずかしいなら、みんなで言っちゃう？"
-10025110-263 = "じゃ、じゃあみんなで――"
-10025110-265 = "――今度は、私たちが先生をおもてなしします！"
-10025110-270 = "（子ウサギ公園で、RABBIT小隊のみんなと盛大にバーベキューを楽しんだ）"
-10025110-274 = "（後日シャーレに10人前のくさやが届いた事で、ちょっとした騒ぎになったのはまた別のお話）"
-10025110-275 = "夏の特殊作戦！RABBIT小隊と消えたエビの謎"
+
+10025110-206 = "muito obrigado.では、失礼します！"
+
+10025110-213 = "Por que você saiu da vila Yatoura...?"
+
+10025110-214 = "Além disso, me pergunto o que foi enviado pelo correio congelado."
+
+10025110-215 = "Parece algo cru..."
+
+10025110-217 = "...Vou abrir."
+
+10025110-225 = "isso é……"
+
+10025110-226 = "...É camarão! ! E é tão luxuoso! ! !"
+
+10025110-227 = "Incrível... uma caixa cheia de camarões que parecem caros..."
+
+10025110-228 = "...Ah, tem uma mensagem dentro da caixa."
+
+10025110-234 = "``A todos os turistas de bom coração que por aqui passam. De todos nós da Vila Yatoura e da Associação de Pesca, gostaríamos de expressar nossa sincera gratidão.''"
+
+10025110-235 = "...Parece que é definitivamente endereçado a nós."
+
+10025110-237 = "\"Um turista de bom coração passando\" Ei... isso não é perfeito para nós?"
+
+
+10025110-238 = "...É constrangedor quando você diz que tem um bom coração."
+
+10025110-239 = "Além disso, sinto um pouco por ter recebido tanto agradecimento quando estava apenas fazendo meu trabalho como SRT..."
+
+10025110-240 = "No entanto, não posso recusar as coisas que você gentilmente me envia.#nDigamos que estou grato por este camarão."
+
+10025110-241 = "Ah, isso mesmo, Saki. Você pode comer aquele bento de camarão frito de antes.#nPorque isso é suficiente para mim."
+
+10025110-242 = "Ei, isso é trapaça!"
+
+10025110-244 = "Essa quantidade... parece que é suficiente para 10 pessoas, mas me pergunto se podemos comê-la sozinhos...?"
+
+10025110-245 = "Eu não tenho freezer... Se as coisas continuarem assim, meu precioso camarão pode estragar..."
+
+10025110-247 = "...Isso é rude com todo mundo."
+
+10025110-248 = "...Bem, então, obrigado por emprestar sua força desta vez também.[USERNAME]Que tal ligar para o professor?"
+
+10025110-249 = "acordo! ! !"
+
+10025110-258 = "Olá, senhor. Seu tempo está bom?"
+
+10025110-259 = "Estou falando sobre a Operação Shrimp Trap outro dia..."
+
+10025110-260 = "Ah, muito obrigado pela sua ajuda naquela época... e, uh..."
+
+10025110-261 = "...Por que você está tão inquieto?"
+
+10025110-262 = "Se você está envergonhado, por que não dizemos todos?"
+
+10025110-263 = "Bem, então vamos todos--"
+
+10025110-265 = "--Desta vez vamos entreter o professor!"
+
+10025110-270 = "(Desfrutei de um grande churrasco com o pelotão COELHO no parque dos coelhos bebês)"
+
+10025110-274 = "(Mais tarde, 10 porções de Kusaya chegaram em uma placa de Petri, o que causou certo alvoroço, mas isso é outra história.)"
+
+10025110-275 = "Operações especiais de verão! O mistério do pelotão COELHO e o camarão desaparecido"
+

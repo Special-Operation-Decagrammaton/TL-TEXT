@@ -1,117 +1,48 @@
 [translation]
 1010902-1 = "incolor"
-
 1010902-2 = "Dormitórios e corredores do milênio"
-
 1010902-4 = "(No dia seguinte, ele arrumou seu trabalho às pressas e foi para seu dormitório na Millennium)."
-
 1010902-5 = "[ns1] (É raro o Noah ficar doente ......)Ђn[ns2] (Espero que ele esteja bem ......)"
-
 1010902-9 = "...... Qual deles é?"
-
-1010902-15 = "...... Oh, professor [USERNAME]."
-
+1010902-15 = "...... Oh, sensei [USERNAME]."
 1010902-16 = "Por que você está aqui ......?"
-
 1010902-17 = "[s3] \"Como está se sentindo? \"\n[s4] \"Eu estava preocupado, então vim ver como você estava. \"\"\n[s3]]"
-
 1010902-20 = "Pedimos desculpas por qualquer preocupação que isso possa causar."
-
 1010902-21 = "Tenho descansado e estou começando a me acalmar. ......"
-
 1010902-22 = "Keho-ho, keho-ho."
-
 1010902-23 = "[ns] \"It's okay! \""
-
 1010902-25 = "[ns5] \"Trouxe algo para você comer. ...... \"\n[ns6] \"Posso interrompê-lo por um momento? \""
-
 1010902-28 = "Não é? Ou, tudo bem, mas você pode ir para ......."
-
 1010902-29 = "Achei que você não estava aqui, então tive que limpar tudo. ......"
-
 1010902-30 = "Posso lhe pedir que aguarde um momento?"
-
 1010902-31 = "[s7] \"Você não está se sentindo bem, é claro que não está! \"\n[s8] \"Eu faço a faxina! \"\"\n[s8] \"Eu posso limpar!"
-
 1010902-34 = "Não foi isso que eu quis dizer. ......"
-
 1010902-35 = "Kehoho, kehoho ...... Não há nada para ficar parado e conversar, então, por favor, venha por aqui."
-
 1010902-40 = "Quarto do Noah"
-
 1010902-43 = "[ns] \"}, Noah. ....... \""
-
 1010902-44 = "Ah, desculpe."
-
 1010902-45 = "Por favor, use esta cadeira."
-
 1010902-46 = "[s]\"Não, eu não quis dizer isso. ....... \""
-
 1010902-50 = "[ns] \"Você acabou de se mudar? \""
-
 1010902-51 = "Não, sempre foi esta sala desde que eu era calouro."
-
 1010902-52 = "[s9] \"Então você mora aqui há quase dois anos. \"\n[s10] \"É um quarto simples para isso. \""
-
 1010902-55 = "Veja, eu tenho um conjunto completo de utensílios domésticos como esse, sabe?"
-
 1010902-56 = "Os livros didáticos e os artigos de papelaria estão na gaveta ali."
-
 1010902-57 = "Produtos de higiene pessoal e de higiene em prateleiras na parte de trás."
-
-1010902-58 = "[s11] \"\"...... em vez de itens domésticos. \"\n[s12] \"Como se os itens pessoais de Noé estivessem faltando. \"\n""
-
-1010902-61 = "Phew, Yuka disse algo semelhante."
-
-1010902-62 = "Eu costumava ter um interior. ......"
-
-1010902-63 = "Eu não achava que merecia isso. O resultado foi o seguinte: ......."
-
-1010902-64 = "[s]\"Por quê? \""
-
-1010902-65 = "Como secretário do seminário, achei que deveria ser objetivo."
-
-1010902-66 = "É o resultado do corte da subjetividade para evitar o preconceito. ......"
-
-1010902-67 = "Às vezes me dizem que não tenho personalidade. ...... Goho."
-
-1010902-68 = "Mas isso é o que considero minha "personalidade"."
-
-1010902-69 = "[s13] \"De fato, as margens que você se atreve a deixar são únicas. ...... \"\n[s14] \"Provavelmente ficaria mais bonito se tivesse uma 'mancha'. \""
-
-1010902-72 = "...... Stains, não é?"
-
-1010902-73 = "[s15] \"Sim. \"\n[s16] \"É difícil manter um espaço sem uma única mancha. \""
-
-1010902-76 = "[ns17]\"Mas se você tiver uma sala em branco com "[ruby=stain]personality[/ruby]" ....... \"\n[ns18] \"Acho que isso me tornaria mais gentil comigo mesmo. \"\"\n[ns18]""
+1010902-58 = "[s11] \"\"...... em vez de itens domésticos. \"\n[s12] \"Como se os itens pessoais de Noé estivessem faltando. \"\n\"\"\n1010902-61 = \"Phew, Yuka disse algo semelhante.\"\n1010902-62 = \"Eu costumava ter um interior. ......\"\n1010902-63 = \"Eu não achava que merecia isso. O resultado foi o seguinte: .......\"\n1010902-64 = \"[s]\"Por quê? \"\"\n1010902-65 = \"Como secretário do seminário, achei que deveria ser objetivo.\"\n1010902-66 = \"É o resultado do corte da subjetividade para evitar o preconceito. ......\"\n1010902-67 = \"Às vezes me dizem que não tenho personalidade. ...... Goho.\"\n1010902-68 = \"Mas isso é o que considero minha \"personalidade\".\"\n1010902-69 = \"[s13] \"De fato, as margens que você se atreve a deixar são únicas. ...... \"\n[s14] \"Provavelmente ficaria mais bonito se tivesse uma 'mancha'. \"\"\n1010902-72 = \"...... Stains, não é?\"\n1010902-73 = \"[s15] \"Sim. \"\n[s16] \"É difícil manter um espaço sem uma única mancha. \"\"\n1010902-76 = \"[ns17]\"Mas se você tiver uma sala em branco com \"personality\" ....... \"\n[ns18] \"Acho que isso me tornaria mais gentil comigo mesmo. \"\"\n[ns18]\""
 
 1010902-79 = "...... Sim."
-
 1010902-80 = "É bom ter espaço suficiente para não ter que se preocupar com manchas, mesmo que elas não estejam lá."
-
 1010902-81 = "Mas ...... não estou familiarizado com design de interiores quando se trata de redecorar. ......"
-
 1010902-82 = "Se não se importar, poderia me ajudar?"
-
-1010902-83 = "Sei que, com meu professor, serei capaz de fazer isso funcionar."
-
+1010902-83 = "Sei que, com meu sensei, serei capaz de fazer isso funcionar."
 1010902-84 = "[\"É claro, verei o que posso fazer. \""
-
 1010902-85 = "Sim, na próxima vez que nos encontrarmos..."
-
 1010902-86 = "Kehoe, kehoe. ......!"
-
 1010902-87 = "[\"Tenho que me livrar do resfriado primeiro. \""
-
 1010902-88 = "Pedimos desculpas por qualquer preocupação que isso possa causar."
-
 1010902-89 = "[ns19] \"Você já comeu? \"\n[ns20] \"Vou preparar algo para você! \"\"\n[ns20]]"
-
 1010902-92 = "Ainda não, mas apenas ovos estão disponíveis na geladeira do ....... ......"
-
 1010902-93 = "[\"Isso é o suficiente para mim. \""
-
 1010902-99 = "(Peguei a cozinha emprestada e fiz mingau de ovo)"
-
 1010902-100 = "(O sabor era muito convencional, mas Noah pareceu gostar)."
-

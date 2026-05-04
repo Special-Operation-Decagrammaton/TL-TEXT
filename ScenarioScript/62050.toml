@@ -106,7 +106,8 @@
 62050-221 = "O-o-o que a gente faz!?"
 62050-222 = "A-agora ainda dá tempo...!"
 62050-226 = "!!!"
-62050-227 = "Precisamos "purificar" Arius!"
+62050-227 = "Precisamos \"purificar\" Arius!"
+
 62050-228 = "Purificar...?"
 62050-229 = "!!!"
 62050-230 = "Isso mesmo! O Sensei e o Esquadrão... #ntemos que expulsar todos de Arius!"
@@ -120,7 +121,8 @@
 62050-239 = "Temos que devolver Arius para nós!"
 62050-240 = "Ainda faltam tocar três trombetas, não é!?"
 62050-241 = "M-mas... nós não ouvimos nada sobre isso...?"
-62050-242 = "Se a gente "purificar" tudo, não vamos mais ouvir nada, então não precisa se preocupar com isso!"
+62050-242 = "Se a gente \"purificar\" tudo, não vamos mais ouvir nada, então não precisa se preocupar com isso!"
+
 62050-244 = "M-mas..."
 62050-245 = "(Eu até tinha revisado a matéria direitinho...)"
 62050-246 = "(Terminar desse jeito, pela metade... é um pouco...)"
@@ -190,14 +192,22 @@
 62050-364 = "Você vai nos proteger, não vai?"
 62050-366 = "Prove isso, Senpai!!!"
 62050-368 = "P-por favor... me dê um tempo."
-62050-373 = "[log]証明[/log]"
-62050-376 = "[log]証明[/log]"
-62050-379 = "[log]証明証明[/log]"
-62050-382 = "[log]証明証明[/log]"
-62050-385 = "[log]証明証明証明[/log]"
-62050-388 = "[log]証明証明証明証明[/log]"
-62050-391 = "[log]証明証明証明証明証明証明[/log]"
-62050-395 = "[log]証明！！！[/log]"
+62050-373 = "[log]Prova[/log]"
+
+62050-376 = "[log]Prova[/log]"
+
+62050-379 = "[log]prova de prova[/log]"
+
+62050-382 = "[log]prova de prova[/log]"
+
+62050-385 = "[log]prova prova prova[/log]"
+
+62050-388 = "[log]prova, prova, prova, prova[/log]"
+
+62050-391 = "[log]prova, prova, prova, prova, prova[/log]"
+
+62050-395 = "[log]Prova! ! ![/log]"
+
 62050-399 = "Se... Senpai..."
 62050-400 = "E-eu... não... não é isso..."
 62050-401 = "Sério, é sério, não é nada disso... Eu só estava..."

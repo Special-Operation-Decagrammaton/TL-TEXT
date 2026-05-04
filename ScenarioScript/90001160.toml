@@ -49,7 +49,8 @@
 90001160-114 = "Entendo a lógica, mas como pretende preparar algo assim...?"
 90001160-115 = "Isso é..."
 90001160-119 = "...Você está dizendo que esses dados estão vivos?"
-90001160-120 = "Se fosse a "eu" de antes, talvez eu tivesse negado, mas..."
+90001160-120 = "Se fosse a \"eu\" de antes, talvez eu tivesse negado, mas..."
+
 90001160-121 = "Exatamente, Himari. Independentemente de onde ou como definimos os limites da vida."
 90001160-122 = "Neste dado, certamente existe uma parte que pode ser interpretada dessa forma."
 90001160-131 = "[ns1] \"A Toki e a Eimi conseguem acompanhar esse assunto, né...\"\n[ns2] \"Eu, por outro lado, não entendo absolutamente nada...\""
@@ -237,16 +238,19 @@
 90001160-602 = "???"
 90001160-603 = "＜＜＜Meu grande e…………o.＞＞＞"
 90001160-607 = "???"
-90001160-608 = "[log=???]Por isso, ■■■, acho que o nome "■■" é um nome muito bonito.[/log]"
+90001160-608 = "[log=???]Por isso, ■■■, acho que o nome \"■■\" é um nome muito bonito.[/log]"
+
 90001160-612 = "???"
 90001160-613 = "[log=???]Ah, ahhh...![/log]"
 90001160-616 = "???"
 90001160-617 = "＜＜＜Meu grande e…………＞＞＞"
 90001160-620 = "???"
-90001160-621 = "Por isso, ■■■, acho que o nome "■■" é um nome muito bonito."
+90001160-621 = "Por isso, ■■■, acho que o nome \"■■\" é um nome muito bonito."
+
 90001160-624 = "■??"
 90001160-625 = "[7cd0ff]■[-]"
-90001160-626 = "Por isso, ■■■, acho que o nome "■■" é um nome muito bonito."
+90001160-626 = "Por isso, ■■■, acho que o nome \"■■\" é um nome muito bonito."
+
 90001160-629 = "□■?"
 90001160-630 = "[7cd0ff]□■[-]"
 90001160-631 = "Por isso, acho que o nome «■■» é um nome muito bom."

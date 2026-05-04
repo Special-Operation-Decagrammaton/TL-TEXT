@@ -1,131 +1,124 @@
 [translation]
-1009006-1 = "Festivais para você"
+1009006-1 = "festa para você"
 
-1009006-4 = "Uau! Professor!"
+1009006-4 = "Uau! professor!"
 
-1009006-5 = "[s1] \"Oh, olá. Umika. \"\n[s2] \"Você parece ...... mais enérgico do que o normal, não é? \"\"\n[s2]""
+1009006-5 = "[s1] \"Ah, olá, Umika.\"\n[s2] \"Você parece mais enérgico do que o normal, não é?\""
 
-1009006-8 = "Olá, doutor! Como você está se saindo ......? Eu mesmo não tenho certeza. ......"
+1009006-8 = "Olá, professor! #nParece que você está bem...? Eu realmente não entendo isso sozinho..."
 
-1009006-9 = "A tensão está mais alta do que o normal, não é? #n ummm ...... Isso é apenas a imaginação de seu professor, não é? Ehehe."
+1009006-9 = "Você está se sentindo mais animado do que o normal? #nHmm...Isso não é apenas imaginação do professor? Ehehe."
 
-1009006-10 = "E é por isso que eu o convidei para vir aqui hoje, doutor, porque..."
+1009006-10 = "Então, a razão pela qual te chamei aqui hoje é..."
 
-1009006-11 = "[s]\"Reason: ......! \""
+1009006-11 = "[s] \"O motivo é...!\""
 
-1009006-12 = "Ainda é um segredo~!"
+1009006-12 = "Ainda é um segredo!"
 
-1009006-13 = "[s]\"Segredo ou Oh ....... \""
+1009006-13 = "[s] \"É segredo...\""
 
-1009006-14 = "Bem, não fique tão desapontado!"
+1009006-14 = "Não fique tão desapontado!"
 
-1009006-15 = "Isso ......, senhor."
+1009006-15 = "Hum... isso mesmo, Sensei."
 
-1009006-16 = "Agora ...... eu saio pela porta dos fundos para evitar fazer barulho."
+1009006-16 = "De agora em diante... sairei pela porta dos fundos sem fazer barulho."
 
-1009006-17 = "O professor contou até dez e depois..."
+1009006-17 = "Depois que a professora contou até dez..."
 
-1009006-18 = "Devagar, siga-me. ESTÁ BEM?"
+1009006-18 = "Por favor, siga-me lentamente. Posso?"
 
-1009006-19 = "Portanto, ...... eu vou em frente!"
+1009006-19 = "Bem... eu vou primeiro!"
 
-1009006-24 = "(Umika se dirigiu silenciosamente para a porta dos fundos: ......)"
+1009006-24 = "(Umika caminhou silenciosamente em direção à porta dos fundos...)"
 
-1009006-28 = "(Conte 10 em sua cabeça: ......1, 2, 3 ......)"
+1009006-28 = "(Contando até 10 mentalmente... 1, 2, 3...)"
 
-1009006-32 = "(indo para a porta dos fundos)"
+1009006-32 = "[ns] (Vá para a porta dos fundos)"
 
-1009006-38 = "[wa:830]- [log=우미카]Bem-vindo ao festival, [wa:1520]senhor! [/log]"
+1009006-38 = "[wa:830]― [log=우미카]お祭りへようこそ、[wa:1520]先生！[/log]"
+1009006-41 = "[wa:250]― [log=우미카]えへへ。[wa:1390]どうですか？[/log]"
+1009006-42 = "[wa:1520]― [log=우미카]今までずっと準備していたのは……[wa:2900]全部、[wa:1400]この瞬間のためでした！[/log]"
+1009006-45 = "[wa:530]― [log=우미카]誰にも知らせてないし、[wa:1880]誰も招待していません。[/log]"
+1009006-48 = "[wa:600]― [log=우미카]このお祭りは……[wa:2430]先生のためのものですから！[/log]"
+1009006-51 = "[wa:370]― [log=우미카]他に誰もいない、[wa:2260]私と先生だけのお祭り……[/log]"
+1009006-52 = "[wa:3120]― [log=우미카]ちょっと恥ずかしいですが……[wa:2880]気に入ってくれたら[wa:1710]嬉しいです！[/log]"
+1009006-56 = "Você disse isso outro dia. #nNão tenho muito tempo para ir a festivais devido ao meu trabalho na Petri Dish..."
 
-1009006-41 = "[wa:250]- [log=우미카]Ehehe. [wa:1390]Como está? [/log]"
+1009006-57 = "[s] \"Então... você preparou esse festival?\""
 
-1009006-42 = "[wa:1520]- [log=우미카]Todo esse tempo eu estive preparando ......[wa:2900]tudo, [wa:1400]foi para este momento! [/log]"
+1009006-58 = "sim. Mesmo que você não tenha tempo para ir a grandes festivais por causa do seu trabalho na Placa de Petri...#n, pensei que você poderia desfrutar de um pequeno festival só para você."
 
-1009006-45 = "[wa:530]- [log=우미카]Eu não informei ninguém, [wa:1880]Eu não convidei ninguém. [/log]"
+1009006-59 = "É uma questão de tempo, mas isso faz parte do trabalho do professor..."
 
-1009006-48 = "[wa:600]- [log=우미카]Porque este festival é para professores de ......[wa:2430]! [/log]"
+1009006-60 = "[s] \"Isso é o que você quis dizer com ``boa ideia''.\""
 
-1009006-51 = "[wa:370]- [log=우미카]Ninguém mais, [wa:2260]apenas eu e meu professor ......[/log]"
+1009006-61 = "Ehehe, isso mesmo!"
 
-1009006-52 = "[wa:3120]- [log=우미카]Estou um pouco envergonhado, mas se você gosta de ......[wa:2880][wa:1710]fico feliz! [/log]"
+1009006-62 = "professor! Como este é um grande festival, vou guiá-lo por todos os cantos!"
 
-1009006-56 = "Você mencionou isso outro dia. Você disse que não tem muito tempo para ir a festivais por causa do seu trabalho na #nShirley. ......"
+1009006-63 = "Em primeiro lugar, por favor, dê uma olhada neste “Sensei Uchiwa”!"
 
-1009006-57 = "[s]\"So ...... you prepared this festival? \""
+1009006-64 = "[s] \"Uh, sim...! Definitivamente está escrito lá. \"[NOME DE USUÁRIO]\"... \""
 
-1009006-58 = "Sim. Pensei que, mesmo que não conseguisse encontrar tempo para visitar os grandes festivais devido ao meu trabalho como xerife, eu poderia aproveitar um pequeno festival para um professor do ......#n."
+1009006-65 = "Eles também têm ``Sensei Kushiyaki'' aqui! Experimente!"
 
-1009006-59 = "Além do compromisso de tempo, isso faria parte do trabalho do professor. ......"
+1009006-66 = "[s] \"Não é um espeto normal...?\""
 
-1009006-60 = "[\"Boa ideia\" foi essa. \""
+1009006-67 = "Claro! Este espeto é... #nBaseado nos cardápios que os professores encomendaram no Hyakuyado até agora――"
 
-1009006-61 = "Ehehe, é isso mesmo!"
+1009006-68 = "Selecione cuidadosamente o molho preferido do seu professor! Está assado!"
 
-1009006-62 = "Professor! É um grande festival, e eu lhe mostrarei cada centímetro dele!"
+1009006-69 = "A seguir, vamos fazer \"Sensei Okonomiyaki\"! #nOkonomiyaki é originalmente algo em que você adiciona seus ingredientes favoritos e depois grelha."
 
-1009006-63 = "Comece com este "Sensei Fan"!"
+1009006-70 = "Em outras palavras, se você fizer com os ingredientes e o cozimento preferidos do professor... #nÉ isso que o torna \"Sensei Okonomiyaki\"!"
 
-1009006-64 = "[s]\"U, sim ......! Sim, de fato está escrito. "[USERNAME]" é ....... \""
+1009006-71 = "[s] \"Hyakuyado sabe do que eu gosto!\""
 
-1009006-65 = "Há também um "Espeto Sensei" aqui! Experimente!"
+1009006-72 = "Ehehe. Não subestime o serviço do Hyakuyado!"
 
-1009006-66 = "[s]\"Não são espetos comuns, você é ......? \""
+1009006-73 = "Além disso, há ``Sensei algodão doce'', ``Sensei yo-yo Fishing'', #n ``Sensei shooting'', etc. usando a foto do professor...!"
 
-1009006-67 = "Claro que sim! Esses espetos estão aqui. ....... #nBaseado no cardápio pedido pelos professores no Salão das Cem Noites até agora--."
+1009006-89 = "[ns] \"Estou feliz, mas posso estar um pouco envergonhado.\""
 
-1009006-68 = "Molhos cuidadosamente selecionados à escolha do professor! Está assado!"
+1009006-91 = "Não há problema em sair do seu caminho! Somos os únicos aqui! #nAh, você gostaria de tirar uma foto também?"
 
-1009006-69 = "Da próxima vez, farei o "Sensei Okonomiyaki"! #nPorque o okonomiyaki é basicamente assado com os ingredientes de sua escolha..."
+1009006-96 = "Além do mais! Também temos um menu muito especial no final!"
 
-1009006-70 = "Em outras palavras, se você fizer o prato com os ingredientes e o tempo de cozimento favoritos do seu professor, poderá fazê-lo em ....... #nIsso significa que será o "Okonomiyaki do Sensei"!"
+1009006-101 = "O que você acha, senhor? Você gostou? #nO \"festival para professores\" que preparei..."
 
-1009006-71 = "[\"No Hundred Night Hall, eles sabem do que você gosta! \""
-
-1009006-72 = "Hehe. Não subestime o serviço do Salão das Cem Noites, ok?"
-
-1009006-73 = "Além disso, "Sensei cotton candy" e "Sensei yo-yo fishing" com fotos de professores, #n "Sensei target shooting" e outros. ......"
-
-1009006-89 = "[ns] \"Estou feliz, mas talvez um pouco envergonhado. \""
-
-1009006-91 = "Não há problema em irritar algumas penas! Somos só nós dois aqui! #nOh, por que você não tira uma foto também?"
-
-1009006-96 = "Além disso! Também temos um menu muito especial no final!"
-
-1009006-101 = "O que o senhor acha, doutor? Você gostou? #nEu preparei um "festival para professores": ......."
-
-1009006-102 = "[s]\"Acho que ele sempre será lembrado. ....... \""
+1009006-102 = "[s] \"Acho que ficará na minha memória para sempre...\""
 
 1009006-103 = "Certo, certo?"
 
-1009006-107 = "Estou muito feliz. Eu ...... me diverti muito durante todo o tempo em que estava me preparando..."
+1009006-107 = "Estou muito feliz. Eu... eu me diverti muito enquanto me preparava..."
 
-1009006-108 = "Vou me lembrar desse festival por muito, muito tempo. ......"
+1009006-108 = "Penso também que este festival ficará na minha memória por muito tempo..."
 
-1009006-109 = "[s3] \"...... Sim. Essa foi uma lembrança especial. \"\n[s4]\"Obrigado, Umika. Não vou me esquecer de hoje. "
+1009006-109 = "[s3] \"...Sim. Foi uma lembrança especial.\"\n[s4] \"Obrigado, Umika. Nunca esquecerei hoje.\""
 
-1009006-115 = "É realmente o site ......?"
+1009006-115 = "Realmente...?"
 
-1009006-116 = "Ehehe. Mas ...... ainda não é o fim."
+1009006-116 = "Hehehe. Mas... ainda não acabou."
 
-1009006-117 = "O 'Festival for Teachers' está quase no fim, mas! #n ainda falta um grande evento!"
+1009006-117 = "O “Festival dos Professores” está quase no fim! #nAinda falta um grande evento!"
 
-1009006-118 = "[\"Você ainda está preparando algo para mim? \""
+1009006-118 = "[s] \"Você já está preparando alguma coisa?\""
 
-1009006-119 = "Sim! Olhem para o céu! Professor."
+1009006-119 = "sim! Olhe para o céu! professor."
 
-1009006-127 = "[ns] \"Eles até prepararam os fogos de artifício. ...... \""
+1009006-127 = "[ns] \"Eles até prepararam fogos de artifício...\""
 
-1009006-128 = "Sim, estou aqui! Afinal, o festival termina com fogos de artifício!"
+1009006-128 = "sim! O final do festival é, claro, com fogos de artifício!"
 
-1009006-134 = "Aquele professor do ......?"
+1009006-134 = "Hum... professor?"
 
-1009006-135 = "[s] \"yeah? \""
+1009006-135 = "[s] \"Sim?\""
 
-1009006-137 = "Fogos de artifício ...... Posso sentar ao seu lado e assisti-los, por favor ......?"
+1009006-137 = "Fogos de artifício...Tudo bem se eu sentar ao seu lado e observá-los...?"
 
-1009006-142 = "Obrigado. ....... Ehehe ......."
+1009006-142 = "……obrigado. Ehehe…."
 
-1009006-146 = "(Umika se sentou gentilmente ao lado dele)"
+1009006-146 = "(Umika sentou-se calmamente ao lado dele)"
 
-1009006-147 = "(E assim, ombro a ombro, eles assistiram aos fogos de artifício juntos. ......)"
+1009006-147 = "(Assim, ficamos ombro a ombro e assistimos juntos aos fogos de artifício...)"
 

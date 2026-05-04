@@ -1,231 +1,228 @@
 [translation]
-1010403-1 = "cuidar de alguém"
+1010403-1 = "cuidando"
 
-1010403-2 = "Sede da Gemba Shokai"
+1010403-2 = "Loja principal do Genbu Shokai"
 
-1010403-4 = "Está de acordo com seu gosto, doutor?"
+1010403-4 = "Está de acordo com seu gosto, senhor?"
 
-1010403-5 = "[s1] \"Foi ótimo! \"\n[s2] \"Agora eu quero experimentar a comida do Rayjo também. \"\n[s2]""
+1010403-5 = "[s1] \"Foi incrível!\"\n[s2] \"Da próxima vez eu gostaria de experimentar a comida do Reijo.\""
 
-1010403-6 = "Eu gostaria que tivesse sido."
+1010403-6 = "Eu gostaria de ter feito isso."
 
-1010403-7 = "Estamos ansiosos para recebê-lo novamente a qualquer momento!"
+1010403-7 = "Por favor, venha nos visitar novamente a qualquer momento."
 
-1010403-8 = "...... Minha comida, não é?"
+1010403-8 = "...Minha comida?"
 
-1010403-9 = "De fato, costumo ajudar o presidente. ......"
+1010403-9 = "É verdade que costumo ajudar o presidente, mas..."
 
-1010403-10 = "Não seria uma má ideia cozinhar para seu professor um dia."
+1010403-10 = "Não seria uma má ideia cozinhar para seu professor algum dia."
 
-1010403-15 = "Sr. Rayjo, parece que algumas lojas não receberam os ingredientes!"
+1010403-15 = "Sr. Reijo, parece que algumas lojas não receberam seus ingredientes!"
 
-1010403-16 = "Onde fica essa loja?"
+1010403-16 = "む、どこのお店ですか？"
+1010403-17 = "京華坊です！"
+1010403-18 = "……Eu vejo."
 
-1010403-17 = "Kyokaibo!"
+1010403-19 = "O que devo fazer? #nNesse ritmo estaremos abertos apenas para almoço...!"
 
-1010403-18 = "...... Entendo."
+1010403-20 = "Por enquanto, vamos trazer alguns ingredientes do armazém da loja principal."
 
-1010403-19 = "O que devemos fazer? #nSe não fizermos isso, estaremos abertos para o almoço em ......!"
+1010403-21 = "Isso deve durar algumas horas."
 
-1010403-20 = "Para começar, traga alguns dos gêneros alimentícios do armazém principal."
+1010403-22 = "Além disso, gostaria que você me desse uma carona da Torre Tianxing, na 3ª Avenida, Hongzheng Road. #nPor favor, pilote dois caminhões."
 
-1010403-21 = "Isso deve mantê-los por algumas horas."
+1010403-23 = "Entrarei em contato com você."
 
-1010403-22 = "E da Torre Tianxing, no número 3 da Hongzheng Road, podemos dar a volta? Por favor, envie dois caminhões #n."
-
-1010403-23 = "Manterei contato com você."
-
-1010403-24 = "O custo dos alimentos deve ser calculado e informado após o encerramento dos negócios."
+1010403-24 = "Calcule e relate o custo dos ingredientes após o fechamento do negócio."
 
 1010403-25 = "Sim, eu entendo!"
 
-1010403-27 = "Acho que consigo fazer isso."
+1010403-27 = "Ufa, parece que vai dar certo de alguma forma."
 
-1010403-31 = "É aqui que se encontra o boato sobre a Câmara de Comércio de Gemba: ......."
+1010403-31 = "Este é o suposto Genbu Shokai..."
 
-1010403-32 = "Oh - ei, traga-me a comida mais deliciosa!"
+1010403-32 = "Ei, traga-me a comida mais deliciosa!"
 
-1010403-35 = "Ele pode ser encontrado em ......."
+1010403-35 = "Bem, isso é..."
 
-1010403-40 = "Deixe-me levá-lo primeiro ao seu assento, por aqui, por favor."
+1010403-40 = "Primeiro, vou mostrar-lhe o seu lugar, então, por favor, venha aqui."
 
-1010403-42 = "Obrigado por sua visita."
+1010403-42 = "Obrigado por nos visitar."
 
-1010403-43 = "Como você gostaria que o chef recomendasse um prato?"
+1010403-43 = "O chefe de cozinha tem um prato recomendado, o que você acha?"
 
-1010403-44 = "Ah, você tem um menu como esse?"
+1010403-44 = "Ah, existe esse menu?"
 
-1010403-45 = "Não é servido normalmente, mas é especial para os clientes."
+1010403-45 = "Não costumamos servir, mas é especial para nossos clientes."
 
-1010403-46 = "Uau, eu também nunca tinha ouvido falar disso. ......"
+1010403-46 = "Nossa, é a primeira vez que ouço isso também..."
 
-1010403-47 = "...... Tudo bem, por favor, combine."
+1010403-47 = "...Está tudo bem, por favor combine."
 
-1010403-49 = "Qual é o problema?"
+1010403-49 = "Existe algum problema?"
 
-1010403-50 = "Não, verificamos nosso estoque de ingredientes e está tudo certo. Os pratos de abalone são servidos como um prato no #n."
+1010403-50 = "Não, verifiquei o inventário de ingredientes e parece não haver problema. No #n servimos pratos de abalone como prato principal."
 
-1010403-51 = "Isso é algo pelo qual podemos esperar!"
+1010403-51 = "Estou ansioso por isso!"
 
-1010403-53 = "Ho, tem certeza de que está bem?"
+1010403-53 = "Ei, você está realmente bem? ?"
 
-1010403-54 = "A comida mais deliciosa, porque ele disse."
+1010403-54 = "Disseram que era a comida mais deliciosa."
 
 1010403-55 = "Além disso, algumas pessoas ficam irritadas quando você serve comida barata."
 
-1010403-56 = "Agora, desculpe nosso cliente ......."
+1010403-56 = "Pois bem, caro cliente... por favor, desculpe-me."
 
-1010403-57 = "Favor informar a cozinha o mais rápido possível."
+1010403-57 = "Por favor, avise a cozinha imediatamente."
 
 1010403-59 = "Sim, eu entendo!"
 
-1010403-64 = "De modo algum. ...... Por que você está tão ocupado hoje?"
+1010403-64 = "Exatamente... por que você está tão ocupado hoje?"
 
-1010403-68 = "Eu certamente paguei por isso!"
+1010403-68 = "Eu paguei!"
 
-1010403-74 = "Mas veja ......."
+1010403-74 = "Mas...."
 
-1010403-75 = "Você vai receber o dobro do dinheiro!"
+1010403-75 = "Você vai levar o dobro do dinheiro! ?"
 
-1010403-82 = "Como posso ajudá-lo, senhor?"
+1010403-82 = "O que aconteceu, cliente?"
 
-1010403-83 = "Paguei com o aplicativo e eles me acusaram de não poder fazer o pagamento!"
+1010403-83 = "Mesmo tendo pago pelo app, eles continuaram me acusando de não conseguir efetuar o pagamento!"
 
-1010403-84 = "É assim que a Câmara de Comércio de Gemba faz as coisas?"
+1010403-84 = "É isso que Genbu Shokai faz?"
 
-1010403-85 = "Não, cliente ......."
+1010403-85 = "Não, cliente..."
 
-1010403-87 = "Se tivermos cometido um erro, pediremos desculpas adequadamente."
+1010403-87 = "Se cometemos um erro, pedimos sinceras desculpas."
 
-1010403-88 = "Mas antes de fazer isso, podemos verificar o histórico de pagamentos e as câmeras de segurança no aplicativo?"
+1010403-88 = "Mas antes disso, você se importaria de verificar o histórico de pagamentos e as câmeras de segurança do aplicativo?"
 
-1010403-89 = "Porque [ruby= ・ ・ ・ ]erros[/ruby] não devem ser cometidos."
+1010403-89 = "Não deveria haver nenhum."
 
-1010403-90 = "Torne-se. ......."
+1010403-90 = "O que..."
 
-1010403-91 = "Se for uma declaração, ficaremos felizes em fornecê-la imediatamente."
+1010403-91 = "Se for uma declaração detalhada, você poderia enviá-la para mim imediatamente?"
 
-1010403-92 = "Se nos der cinco minutos, poderemos terminar de verificar a filmagem do CCTV."
+1010403-92 = "Devemos ser capazes de confirmar as imagens da câmara de vigilância em cerca de 5 minutos."
 
-1010403-96 = "Vejamos, acho que é esse o problema. ...... Acho que não paguei corretamente."
+1010403-96 = "Bem, acho que é isso... sinto que não paguei direito."
 
-1010403-97 = "É por isso que você nem precisa verificar as câmeras de CCTV. ......"
+1010403-97 = "Então, não há necessidade de verificar as câmeras de vigilância..."
 
-1010403-98 = "Não, porque não pode haver erros."
+1010403-98 = "Não, não deve haver erros."
 
-1010403-99 = "E ...... É claro que essa conversa também foi gravada pela câmera."
+1010403-99 = "E... claro, essa conversa também foi gravada pelas câmeras."
 
-1010403-100 = "Ro-Ro, uma gravação!"
+1010403-100 = "Ah, é uma gravação! ?"
 
-1010403-101 = "Senhor, há algo errado com sua pele ......?"
+1010403-101 = "Cliente, seu rosto está pálido...há algo de errado com você?"
 
 1010403-102 = "Está tudo bem, não é nada!"
 
-1010403-104 = "Desculpe-me pelo incômodo, doutor."
+1010403-104 = "お騒がせして申し訳ありません、先生。"
+1010403-105 = "[s] \"Fiquei surpreso com o quão habilidoso foi.\""
 
-1010403-105 = "[\"Fiquei surpreso com o quão bem você lidou com isso. \""
+1010403-106 = "Kyu, o que você fez quando eu te elogiei de repente?"
 
-1010403-106 = "Kyu, o que aconteceu com seu elogio repentino?"
+1010403-107 = "Claro, fico feliz em ouvir isso, mas..."
 
-1010403-107 = "É claro que ficamos felizes em ouvi-lo dizer isso. ......"
+1010403-108 = "Problemas como esse são comuns."
 
-1010403-108 = "Porque problemas dessa magnitude são comuns."
+1010403-109 = "...No entanto, sinto que houve muitos problemas hoje por algum motivo."
 
-1010403-109 = "...... Entretanto, por alguma razão, parecia haver muitos problemas nesse dia."
+1010403-110 = "Mesmo que o evento importante ainda não tenha começado..."
 
-1010403-110 = "Mesmo que o evento importante ainda não tenha começado, ......."
+1010403-111 = "[s] \"Tem mais alguma coisa?\""
 
-1010403-111 = "[\"O que mais? \""
+1010403-112 = "Na verdade..."
 
-1010403-112 = "Isso, de fato, pode ser encontrado em ......."
+1010403-113 = "...Depois disso, um grupo de alunos do jardim de infância de Baikaen está programado para vir."
 
-1010403-113 = "...... As crianças do Plum Blossom Garden estão programadas para vir em um grupo depois disso."
+1010403-114 = "Tenho vergonha de dizer isso, mas..."
 
-1010403-114 = "Eu mesmo tenho vergonha de dizer isso. ......"
+1010403-115 = "Não sei interagir com crianças..."
 
-1010403-115 = "Não sei como interagir com meu filho. ......"
+1010403-116 = "[s] \"É difícil encontrar a resposta correta.\""
 
-1010403-116 = "[\"É difícil encontrar a resposta certa, não é? \""
+1010403-117 = "Foi o mesmo com seu professor?"
 
-1010403-117 = "O mesmo aconteceu com os professores?"
+1010403-118 = "Crianças pequenas são fofas e inocentes, mas nunca se sabe o que vai acontecer..."
 
-1010403-118 = "Crianças pequenas são fofas e inocentes, mas, dito isso, nunca se sabe o que pode acontecer. ......"
+1010403-119 = "...O que? #nO professor também vai me ajudar?"
 
-1010403-119 = "...... eh. O Dr. #n o ajudará com isso?"
-
-1010403-120 = "Entendo. ...... Sinceramente, serei mimado aqui."
+1010403-120 = "Entendo...serei honesto com você aqui."
 
 1010403-121 = "Obrigado, senhor."
 
-1010403-123 = "Sensei, essa lula parece uma flor!"
+1010403-123 = "Sensei, esta lula parece uma flor!"
 
-1010403-124 = "[\"É uma grande maravilha. \""
+1010403-124 = "[s] \"É tão estranho.\""
 
-1010403-125 = "O que é uma salsicha de polvo?"
+1010403-125 = "O que é Polvo Wiener?"
 
-1010403-126 = "Você é um polvo? Você é uma salsicha?"
+1010403-126 = "Você é um polvo? É uma salsicha?"
 
-1010403-127 = "[\"É uma salsicha no formato de um polvo. \""
+1010403-127 = "[s] \"É uma salsicha em forma de polvo.\""
 
-1010403-128 = "Então eu gostaria de experimentar!"
+1010403-128 = "Eu quero experimentar!"
 
-1010403-129 = "Outro dia, no Plum Blossom Garden, serviram arroz frito com brócolis e pimentão com..."
+1010403-129 = "Outro dia, no Baikaen, saiu arroz frito com brócolis e pimenta..."
 
-1010403-133 = "Os professores estão acostumados a lidar com crianças. ......"
+1010403-133 = "Os professores estão acostumados a lidar com crianças..."
 
-1010403-134 = "Se não se importar, posso lhe pedir algumas dicas?"
+1010403-134 = "Se você não se importa, posso te dar algumas dicas?"
 
-1010403-135 = "[s3] \"Não são tanto dicas, mas ....... \"\n[s4] \"Não acho que você precise resolver nenhum problema. \""
+1010403-135 = "[s3] \"Não é realmente um truque...\"\n[s4] \"Não acho que haja necessidade de resolver nenhum problema.\""
 
-1010403-138 = "Não se atreva a resolver o problema e ......?"
+1010403-138 = "Você não se atreve a resolver o problema...?"
 
-1010403-139 = "...... De fato, há momentos em que tudo o que você precisa fazer é pedir conselhos."
+1010403-139 = "...Certamente, há momentos em que é bom apenas pedir conselhos."
 
-1010403-140 = "Obrigado pela referência, doutor."
+1010403-140 = "Isso foi útil, senhor."
 
-1010403-141 = "[\"Você gostaria de experimentar o Reijo? \""
+1010403-141 = "[s] \"Você gostaria de experimentar o Reijo também?\""
 
-1010403-145 = "...... Sim, é claro, é meu trabalho."
+1010403-145 = "...Sim, claro que é meu trabalho."
 
-1010403-151 = "Eu gosto de bolinhos de camarão!"
+1010403-151 = "Adoro gyoza de camarão!"
 
-1010403-152 = "Mas também gosto de pãezinhos de carne de porco!"
+1010403-152 = "Mas também gosto de pãezinhos de porco!"
 
-1010403-153 = "Eu também gosto de bolinhos grelhados e fritos! #Também gosto de bolinhos com muitos ingredientes!"
+1010403-153 = "Além disso, adoro gyoza frito e frito! #n Gyoza com muitos recheios também!"
 
-1010403-154 = "Você gosta de todos os tipos de bolinhos."
+1010403-154 = "Gosto de todos os tipos de gyoza."
 
-1010403-155 = "Ah. Mas eu odeio bolinhos de wakame. ......"
+1010403-155 = "Ah. Mas eu não gosto de wakame gyoza..."
 
-1010403-156 = "Então, esses bolinhos de massa são ......?"
+1010403-156 = "Isso é gyoza?"
 
-1010403-160 = "...... A disseminação da cultura de comer fora é de partir o coração. #É uma prova do fato de que não temos mais tempo para cozinhar."
+1010403-160 = "...É de partir o coração ver a cultura de comer fora se espalhar. #nIsso é a prova de que não tenho mais tempo para cozinhar."
 
-1010403-161 = "Comemos fora para economizar tempo, mas usamos esse tempo para trabalhar. ......"
+1010403-161 = "Comemos fora para economizar tempo, mas acabamos aproveitando esse tempo livre para trabalhar..."
 
-1010403-162 = "Mesmo que você seja um gerente, não poderá escapar desse problema. ...... porque o sistema inevitavelmente faz com que isso aconteça. ......"
+1010403-162 = "Mesmo se você for proprietário de uma empresa, não poderá escapar desse problema...porque o sistema é tal que isso acontece inevitavelmente..."
 
-1010403-163 = "Bem, o que há de errado com o ......?"
+1010403-163 = "O que há de errado nisso...?"
 
-1010403-164 = "Não. É muito triste que não haja nada de errado com o ......."
+1010403-164 = "Não... é tão triste que não há nada de errado com isso."
 
-1010403-166 = "...... Acabou, com segurança."
+1010403-166 = "...Acabou com segurança."
 
-1010403-167 = "Fiquei confuso quando as crianças se agarraram a mim e tentaram começar um jogo de esconde-esconde na loja #n. ......"
+1010403-167 = "Fiquei confuso quando as crianças ficaram agarradas em mim e #n quando tentaram brincar de esconde-esconde na loja..."
 
-1010403-168 = "[Acho que é assim que nos tornamos próximos. \""
+1010403-168 = "[s] \"Acho que isso significa apenas que nos tornamos amigos.\""
 
-1010403-169 = "...... Sim, ele disse que gostaria de voltar para visitá-lo."
+1010403-169 = "...Sim, ele disse que gostaria de visitá-lo novamente."
 
-1010403-170 = "Não importa quantas vezes eu pergunte, sempre fico feliz ao ouvi-los dizer "de novo"."
+1010403-170 = "Não importa quantas vezes eu pergunte, fico feliz quando as pessoas dizem “de novo”."
 
 1010403-174 = "Foi uma experiência muito estranha."
 
-1010403-175 = "Obrigado a você. Professor."
+1010403-175 = "obrigado. professor."
 
-1010403-176 = "[\"Eu não fiz nada de especial. \""
+1010403-176 = "[s] \"Eu não fiz nada em particular.\""
 
-1010403-177 = "Para o professor, talvez, mas ...... foi muito, muito útil."
+1010403-177 = "Isso pode ser verdade para o professor, mas foi muito útil."
 
-1010403-178 = "Esperamos contar com sua orientação contínua."
+1010403-178 = "Aguardamos sua orientação contínua."
 

@@ -1,201 +1,103 @@
 [translation]
 11140-2 = "Episódio 14; Expedição! Grupo de maiô mascarado (2)"
-
 11140-3 = "banco"
-
 11140-7 = "Obrigado por esperar, clientes."
-
-11140-8 = "O que é "Desculpe por ter feito você esperar"! Eu realmente esperei! 6 horas! Aqui! !"
+11140-8 = "O que é \"Desculpe por ter feito você esperar\"! Eu realmente esperei! 6 horas! Aqui! !"
 
 11140-9 = "Por que leva meio dia para revisar um empréstimo? ? Não parecia haver mais ninguém à nossa frente!"
-
 11140-10 = "Meu companheiro cansou de esperar e adormeceu ali no sofá!"
-
 11140-11 = "Por favor, entenda que isso se deve às nossas circunstâncias internas."
-
 11140-12 = "...A propósito, Sr. Não creio que você esteja em condições de tomar tal atitude?"
-
 11140-13 = "Ah, uh..."
-
 11140-14 = "Se precisar de nossa ajuda, seja paciente. #n...Ah, e para a pessoa que você está acompanhando, eu teria problemas se você tirasse o dia de folga."
-
 11140-15 = "(estalo) Segurança. Aquele vagabundo... Não, por favor, acorde o cliente."
-
 11140-17 = "Ei, eu acordei! Eu acordei!"
-
 11140-18 = "Hum..."
-
 11140-19 = "Uau! ? O que, o que! ?"
-
 11140-20 = "(clique)...! !"
-
 11140-21 = "Ah...desculpe, adormeci! !"
-
 11140-23 = "……."
-
-11140-24 = "Bem, vamos verificar juntos. O nome é...[ruby=Rikuhachima]Rikuhachima[/ruby]Al. #nEla é uma estudante do segundo ano da Gehenna Academy."
-
+11140-24 = "Bem, vamos verificar juntos. O nome é...RikuhachimaAl. #nEla é uma estudante do segundo ano da Gehenna Academy."
 11140-25 = "Você é atualmente o presidente do Handyman 68? #nEste faz-tudo não é uma empresa de fachada? No papel, suas finanças estão em ruínas?"
-
 11140-26 = "Ei, estou ganhando um bom dinheiro! Só não consegui cobrar a taxa de solicitação ainda..."
-
 11140-27 = "Além disso, existem apenas 4 funcionários incluindo o presidente, mas há gerentes de escritório, gerentes de seção e funcionários regulares... #nNão é um desperdício de títulos? Você também está desempenhando um papel corporativo?"
-
 11140-28 = "Bem, é melhor pedir trabalho se você tiver um título..."
-
 11140-29 = "Além disso, o aluguel do escritório é superior ao necessário. #nVocê precisa encontrar um imóvel adequado à sua situação financeira."
-
 11140-30 = "Bem, prefiro ter um escritório adequado... solicitando trabalho..."
-
 11140-31 = "……."
-
 11140-32 = "Prezado Al. Isto dificulta o financiamento."
-
 11140-33 = "Ei, ei! ?"
-
 11140-34 = "Por que não tentar primeiro conseguir um emprego mais estável? Existem algumas coisas que você pode começar rapidamente, como trabalho diário ou trabalho temporário."
-
 11140-35 = "dentes? Haha! ?"
-
 11140-38 = "(agitado)"
-
 11140-39 = "(Estou ficando irritado... Devo enlouquecer e tirar o dinheiro do banco?)"
-
 11140-40 = "(...Não, isso não é bom. Mesmo que você pudesse tirar o dinheiro daqui, seria extremamente difícil escapar do mercado negro. Há guardas do mercado por toda parte...)"
-
 11140-41 = "(...Mas talvez eles não sejam grande coisa. #nEu sinto que nós quatro poderíamos vencer todos eles e sair impunes...)"
-
 11140-42 = "(...suspiro, isso é impossível. Não tenho coragem de fazer do mercado negro meu inimigo...)"
-
 11140-43 = "(Droga, o que é isso? É patético... Decidi me tornar um fora-da-lei em Kivotos. Eu...)"
-
 11140-44 = "(É um empréstimo... sempre fico incomodado com essas coisas chatas...)"
-
 11140-45 = "(Isso não é o que eu quero... um fora-da-lei obstinado que não tem medo de nada e não está preso a nada...)"
-
 11140-47 = "(Mesmo que eu quisesse que fosse assim...)"
-
 11140-48 = "...Senhor. Al!"
-
 11140-49 = "Uau! ? Ah, sim! ? ...Bem, você disse alguma coisa?"
-
 11140-50 = "O empréstimo não foi aprovado. Lamento não poder ajudá-lo."
-
 11140-51 = "Oh sim! ? Ei, espere um minuto! !"
-
 11140-52 = "(Papai!)"
-
 11140-53 = "O-o que está acontecendo? Falta de energia! ?"
-
 11140-54 = "Quem diabos é esse? ? A energia do seu computador também está desligada!"
-
 11140-55 = "(Da-da-da-da-da-da-da! Da-da-da-da-da-da-da!!)"
-
 11140-56 = "Tiro! ?"
-
 11140-59 = "Uau! Aaaaaah!"
-
 11140-60 = "Uau!"
-
 11140-63 = "O que aconteceu... Uau! !"
-
 11140-65 = "(Papai!)"
-
 11140-67 = "(Dodon!)"
-
 11140-70 = "Todos deitem-se onde estão! Jogue fora suas armas!"
-
 11140-71 = "Se você não ouvir o que eu digo, você terá problemas☆"
-
-11140-72 = "あ、あはは……みなさん、ケガしちゃいけないので……伏せてくださいね……。"
+11140-72 = "Ah, ahaha... pessoal, não quero que vocês se machuquem, então, por favor, deitem-se..."
 
 11140-74 = "Ei, assalto a banco! ?"
-
 11140-75 = "Ocorreu uma emergência! Ocorreu uma emergência!"
-
 11140-76 = "Nossa, que desperdício. #nA energia do sistema de segurança que reporta a pessoas de fora foi desligada."
-
 11140-77 = "Ei, ei!"
-
 11140-78 = "Olha, aí! ! Apenas coloque-o no chão! Se você se mover mal, terá problemas! ?"
-
 11140-79 = "Todos, por favor, fiquem parados... ahhh..."
-
 11140-80 = "Uau ~ Tudo correu conforme o planejado até agora! Vamos para a próxima etapa! #nLíder Fausto! Espero instruções!"
-
 11140-81 = "Huh! ? Huh! ? Fausto, sou eu? Você é um líder? EU! ?"
-
 11140-82 = "Eu sou o líder! É o chefe! A propósito, eu..."
-
 11140-83 = "Esta é Christina do grupo de maiôs mascarados♧"
-
 11140-84 = "Uau, o que é isso! Quando surgiu o nome Masked Swimsuit Group? ? E é muito chato!"
-
 11140-85 = "……."
-
 11140-86 = "Ei, o Sr. Fausto fica assustador quando fica com raiva, certo? Você ficará com raiva se não me ouvir."
-
 11140-87 = "Ah... eu me tornei o líder... Agora vou manchar o nome do Tea Party..."
-
 11140-89 = "Isso... aqueles caras..."
-
-11140-90 = "Ah... Abidos...?"
-
-11140-91 = "Isso mesmo, os filhos de Abidos. Há alguns rostos que não conheço. #n...O que você está fazendo aqui? Também estava mascarado."
-
+11140-90 = "Ah... Abydos...?"
+11140-91 = "Isso mesmo, os filhos de Abydos. Há alguns rostos que não conheço. #n...O que você está fazendo aqui? Também estava mascarado."
 11140-92 = "Ei, somos o alvo? ? Nesse caso, vamos nos vingar! ?"
-
 11140-93 = "Não, parece que não somos o alvo... O que vocês acham? #nDe jeito nenhum, aqui...?"
-
 11140-94 = "Ei, o que Al-chan está fazendo?"
-
 11140-96 = "Os pontos cegos das câmeras de vigilância, as linhas de movimento dos seguranças e a estrutura do banco estão todos na minha cabeça. Não faça resistência desnecessária."
-
 11140-97 = "Agora, você aí, coloque-o nesta bolsa. O veículo de transporte de dinheiro que chegou há algum tempo..."
-
 11140-98 = "Ah, eu entendo! Eu te darei qualquer coisa! Por favor, traga tanto dinheiro, títulos ou barras de ouro quanto desejar! !"
-
 11140-99 = "Bom, não é isso... registro de arrecadação..."
-
 11140-102 = "O que, por favor! Eu empacotei tudo! Por favor, salve sua vida! !"
-
 11140-103 = "Ah... ah... ah..."
-
 11140-106 = "……."
-
 11140-107 = "(Uau, isso é assustador! O que essas pessoas estão fazendo!? Elas estão roubando um banco do mercado negro!)"
-
 11140-108 = "(Como você planeja escapar? Bem, antes disso, não posso acreditar que ainda existam bandidos que bolaram um plano tão ousado!!)"
-
 11140-109 = "(Ele é extremamente habilidoso e extremamente profissional. É como se ele tivesse nascido apenas para esse propósito. Ele fez isso em 5 minutos!)"
-
 11140-110 = "(Uau, isso é legal...! É chocante! Este é um verdadeiro fora-da-lei! Uau... estou prestes a chorar!)"
-
 11140-112 = "Você parece não notar nada..."
-
 11140-113 = "Na verdade, fez meus olhos brilharem."
-
 11140-114 = "Suspirar..."
-
 11140-115 = "Ah, vamos esperar aqui?"
-
 11140-116 = "...Não há razão para ajudar essas crianças e não há razão para ajudar o banco. #nE já que o presidente está nesse estado agora... vamos nos esconder por enquanto."
-
 11140-117 = "Sim..."
-
 11140-120 = "Hum, Shiro... não, Blue-senpai! Você conseguiu o item?"
-
 11140-121 = "Ah, sim. Protegido."
-
 11140-122 = "Então fuja! Todos se retirem!"
-
 11140-123 = "Adeus☆"
-
 11140-124 = "Parece que ninguém ficou ferido...me desculpe, adeus! !"
-
 11140-125 = "(Humph!)"
-
 11140-127 = "Ei, pegue-os! ! Bloqueie a estrada! Reporte ao guarda do mercado!"
-
 11140-129 = "Não deixe ninguém escapar! !"
-

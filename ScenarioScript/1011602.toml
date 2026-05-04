@@ -1,129 +1,65 @@
 [translation]
 1011602-1 = "novo emprego de meio período"
-
 1011602-2 = "(Depois de um tempo, Saori chegou à placa de Petri carregando uma sacola grande.)"
-
-1011602-9 = "Obrigado por dedicar seu tempo, professor."
-
+1011602-9 = "Obrigado por dedicar seu tempo, sensei."
 1011602-10 = "Quanto ao motivo pelo qual entrei em contato com você..."
-
 1011602-11 = "Não, seria mais rápido se você me mostrasse."
-
 1011602-12 = "Você poderia, por favor, sair do seu lugar por um momento?"
-
 1011602-13 = "Eu preciso me preparar."
-
 1011602-14 = "[s1] \"Entendido!\"\n[s2] \"Estou ansioso por isso!\""
-
 1011602-17 = "Então, quando você terminar, eu te ligo novamente."
-
 1011602-23 = "Droga... está mais apertado do que antes."
-
 1011602-27 = "De jeito nenhum, é maior de novo...? #nIsso é inesperado..."
-
 1011602-28 = "[ns3] \"Oh, hum, Saori-san?\"\n[ns4] \"Que diabos...?\""
-
 1011602-31 = "Espere, ainda não...!"
-
 1011602-32 = "Por favor, espere aí mais um pouco!"
-
 1011602-36 = "(depois de um tempo......)"
-
 1011602-40 = "...Eu fiz você esperar. #nNão me importo se você entrar."
-
 1011602-43 = "……."
-
 1011602-44 = "[ns] \"Hmm...?\""
-
 1011602-45 = "...Sensei, o que aconteceu com aquele rosto?"
-
 1011602-46 = "Mesmo que algo esteja errado...?"
-
 1011602-47 = "[s5] \"Vestido!?\"\n[s6] \"Oh, é mesmo Saori!?\""
-
 1011602-50 = "Ah, sou eu! !"
-
 1011602-51 = "Acho que afinal não combina comigo..."
-
 1011602-52 = "Desculpe por tomar seu tempo. Esqueça esse assunto..."
-
 1011602-56 = "[ns] \"S-me desculpe! Fiquei tão surpreso... você parece tão bem!\""
-
 1011602-60 = "Ah, entendo... obrigado."
-
 1011602-61 = "Eu deveria ter explicado isso primeiro."
-
 1011602-62 = "Na verdade, acabei conseguindo um emprego de meio período com um bom salário por hora."
-
 1011602-63 = "A ideia é usar um vestido e fazer uma sessão de fotos. #nSerá publicado em uma revista posteriormente."
-
-1011602-64 = "[s7] \"Ah, é um trabalho de modelo!\"\n[s8] \"É um trabalho sério!""
-
-1011602-67 = "ah. No entanto, os preparativos foram deixados para mim."
-
-1011602-68 = "Embora o vestido tenha me sido dado com antecedência..."
-
-1011602-69 = "Eu não entendo mais nada."
-
-1011602-70 = "[s9] \"Nesse caso...\"\n[s10] \"Você está lindamente vestido. Parece que foi um profissional que fez isso!""
-
+1011602-64 = "[s7] \"Ah, é um trabalho de modelo!\"\n[s8] \"É um trabalho sério!\"\""
+1011602-67 = "\"ah. No entanto, os preparativos foram deixados para mim.\""
+1011602-68 = "\"Embora o vestido tenha me sido dado com antecedência...\""
+1011602-69 = "\"Eu não entendo mais nada.\""
+1011602-70 = "\"[s9] \"Nesse caso...\"\n[s10] \"Você está lindamente vestido. Parece que foi um profissional que fez isso!\""
 1011602-76 = "Ei, isso acabou de dar certo...!"
-
 1011602-77 = "Enfim... tudo que sei sobre modelos é como posar para uma sessão de fotos."
-
-1011602-78 = "É por isso que eu queria fazer muitas perguntas ao professor..."
-
+1011602-78 = "É por isso que eu queria fazer muitas perguntas ao sensei..."
 1011602-82 = "Que tipo de pose uma modelo faz?"
-
 1011602-83 = "[s11] \"Hmm, normalmente há uma especificação de pose, mas...\"\n[s12] \"Se não, a forma natural atual não seria Saori?\""
-
 1011602-86 = "E-eu vejo...? #nO que você quer dizer com “eu”?"
-
 1011602-87 = "É forte e dá uma sensação de nobreza, mas parece que falta alguma coisa...?"
-
 1011602-88 = "Huh, é assim que eu costumo parecer...! ?"
-
 1011602-89 = "[s13] \"Você não precisa se preocupar muito!\"\n[s14] \"Vamos trazer a Saori de sempre!\""
-
 1011602-92 = "Meu eu habitual..."
-
 1011602-93 = "...Eu vejo. Quero dizer, seja natural sem ficar nervoso."
-
 1011602-94 = "Então... é assim que você anda?"
-
 1011602-105 = "E se você endireitar as costas e estufar o peito... o que você acha? Você se sente confiante?"
-
-1011602-109 = "professor? Que tipo de expressão isso tem?"
-
+1011602-109 = "sensei? Que tipo de expressão isso tem?"
 1011602-110 = "...É estranho afinal? Pensei nisso à minha maneira."
-
 1011602-111 = "[ns] \"...Posso tirar uma foto?\""
-
 1011602-115 = "Não, não!"
-
-1011602-116 = "[s] \"Não vou mostrar para todo mundo!""
-
-1011602-117 = "Pior ainda!"
-
-1011602-118 = "Se for ficar nas mãos do professor, farei um pouco melhor...!"
-
-1011602-119 = "...Ah."
-
-1011602-120 = "[s] \"A expressão em seu rosto agora é muito boa!\""
-
-1011602-121 = "...O que, o que há de bom nisso?"
-
-1011602-122 = "De qualquer forma, ainda é ruim."
-
-1011602-123 = "Vou te mandar uma foto assim que me acostumar um pouco mais."
-
-1011602-124 = "[s15] \"Vou atender!? Estou tão feliz!\"\n[s16] \"Então farei o meu melhor para pensar em uma pose também!""
-
-1011602-127 = "...Não sou páreo para o professor."
-
+1011602-116 = "[s] \"Não vou mostrar para todo mundo!\"\""
+1011602-117 = "\"Pior ainda!\""
+1011602-118 = "\"Se for ficar nas mãos do sensei, farei um pouco melhor...!\""
+1011602-119 = "\"...Ah.\""
+1011602-120 = "\"[s] \"A expressão em seu rosto agora é muito boa!\"\""
+1011602-121 = "\"...O que, o que há de bom nisso?\""
+1011602-122 = "\"De qualquer forma, ainda é ruim.\""
+1011602-123 = "\"Vou te mandar uma foto assim que me acostumar um pouco mais.\""
+1011602-124 = "\"[s15] \"Vou atender!? Estou tão feliz!\"\n[s16] \"Então farei o meu melhor para pensar em uma pose também!\""
+1011602-127 = "...Não sou páreo para o sensei."
 1011602-133 = "Tudo bem, é isso que você quer! Estou pronto!"
-
-1011602-134 = "[ns] \"Esteja preparado, Saori! Minha orientação será rigorosa!""
-
+1011602-134 = "[ns] \"Esteja preparado, Saori! Minha orientação será rigorosa!\""
 1011602-136 = "(Depois, trabalhei duro para estudar Saori e poses.)"
-

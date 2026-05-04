@@ -1,209 +1,110 @@
 [translation]
 1013403-1 = "cidade dos começos"
-
-1013403-3 = "Hum, professor... o que é isso?"
-
+1013403-3 = "Hum, sensei... o que é isso?"
 1013403-4 = "[ns] \"Treinamento especial!!\""
-
 1013403-5 = "Bom, mas isso..."
-
 1013403-6 = "É um jogo normal... certo?"
-
 1013403-7 = "[ns] \"Treinamento especial!!\""
-
 1013403-8 = "É tão difícil!"
-
-1013403-9 = "Meu professor está quebrado!"
-
+1013403-9 = "Meu sensei está quebrado!"
 1013403-10 = "[s1] \"Estive pensando sobre isso.\"\n[s2] \"Acho que Alice ainda não está acostumada com a armadura do herói.\""
-
 1013403-15 = "[ns3] \"Então, o primeiro passo é acostumá-la ao seu corpo.\"\n[ns4] \"Aprenda a usar a armadura sem ficar nervoso!\""
-
 1013403-18 = "Deixe caber no seu corpo...?"
-
 1013403-19 = "É normal apenas usar a armadura do herói e jogar?"
-
 1013403-23 = "Hum..."
-
 1013403-24 = "Alice realmente não entende como isso pode ser considerado treinamento."
-
-1013403-28 = "professor? Por que você apaga as luzes?"
-
+1013403-28 = "sensei? Por que você apaga as luzes?"
 1013403-29 = "foto……? É mais envolvente e divertido apagar as luzes?"
-
 1013403-30 = "Alice também pensa assim..."
-
-1013403-31 = "Jogar com as luzes apagadas pode piorar a sua visão! Isso é o que meu professor sempre dizia!"
-
+1013403-31 = "Jogar com as luzes apagadas pode piorar a sua visão! Isso é o que meu sensei sempre dizia!"
 1013403-32 = "[s5] \"Sim, normalmente você não pode.\"\n[s6] \"Mas hoje é um treinamento especial.\""
-
 1013403-35 = "...!"
-
 1013403-36 = "Alice, estou meio animada!"
-
 1013403-37 = "É semelhante a quando você vai secretamente a uma loja de conveniência depois de jogar tarde da noite!"
-
-1013403-41 = "...Ha!これは内緒なんでした。"
+1013403-41 = "...Ah! Isso era um segredo."
 
 1013403-42 = "Bem, é mais um jogo! O que devo jogar?"
-
 1013403-43 = "Ei, o que você quiser...?"
-
 1013403-44 = "Alice, há tantos jogos que eu gosto!"
-
-1013403-50 = "……どれも名作ばかりで選べません！"
+1013403-50 = "...São todas obras-primas, então não posso escolher!"
 
 1013403-54 = "Por exemplo isso!"
-
 1013403-55 = "Este é um jogo onde você caça dragões com armas grandes!"
-
 1013403-56 = "Use os materiais que você obtém ao caçar dragões para fazer armas mais fortes e caçar dragões ainda mais fortes!"
-
 1013403-57 = "Claro, só porque você tem um bom equipamento não significa que você ficará mais forte imediatamente! #nNão faz sentido a menos que o próprio jogador se torne forte!"
-
 1013403-61 = "Este pode ser o jogo perfeito para Alice agora!"
-
 1013403-62 = "[s] \"Então você quer fazer isso?\""
-
 1013403-63 = "...Certamente, Alice gosta deste jogo."
-
 1013403-64 = "Mas não acho que agora seja o momento. Demora muito para jogar..."
-
 1013403-65 = "Vou apenas dar uma olhada nisso um pouco mais."
-
 1013403-66 = "...Ah, é isso!"
-
 1013403-70 = "Este jogo é famoso por ser extremamente difícil!"
-
 1013403-71 = "Existem armadilhas por todo o campo que matarão instantaneamente o jogador..."
-
 1013403-72 = "Mesmo que consiga chegar ao chefe, se não tiver nenhum conhecimento prévio, perderá num instante! #nEste é um jogo que não pode ser concluído a menos que o jogador cresça tentando de novo e de novo!"
-
 1013403-73 = "É por isso que a sensação de realização ao limpá-lo é incomparável!"
-
 1013403-74 = "...Isso também se parece com a Alice moderna."
-
 1013403-75 = "[s] \"Então você quer jogar esse jogo?\""
-
 1013403-76 = "……não. #nÉ definitivamente um jogo que eu gosto, mas..."
-
 1013403-77 = "Se você jogar este jogo, é provável que a armadura do herói fique traumatizada..."
-
 1013403-78 = "Fora isso... existem jogos que têm a quantidade certa de tempo de jogo e fazem você se sentir calmo..."
-
 1013403-83 = "……um."
-
 1013403-87 = "Eu decidi. Alice, isso é bom."
-
 1013403-88 = "[s7] \"Isso é...\"\n[s8] \"Tales Saga Chronicle?\""
-
 1013403-91 = "sim! Este é o “Tales Saga Chronicle” sem marca!"
-
 1013403-92 = "Este é um trabalho criado pelo departamento de desenvolvimento de jogos antes de Alice ingressar."
-
 1013403-93 = "Portanto Alice não está envolvida na produção deste jogo. #nNo entanto, à medida que avança no jogo, você pode realmente sentir os pensamentos de todos."
-
 1013403-94 = "E acima de tudo, este jogo..."
-
 1013403-95 = "É um jogo de merda!"
-
 1013403-96 = "[s9] \"Alice!?\"\n[s10] \"Ouvi dizer que o jogo é bem diferente...!\""
-
 1013403-99 = "Isso é um fato!"
-
 1013403-100 = "Não entendi Alice no início, mas agora que joguei muitos jogos, posso dizer com certeza."
-
 1013403-101 = "“Tales Saga Chronicle” é um jogo de merda!"
-
 1013403-105 = "...Mas está tudo bem."
-
 1013403-106 = "Este é... o primeiro jogo que Alice jogou."
-
 1013403-107 = "Este jogo foi a primeira vez que Alice foi chamada de “heroína”."
-
 1013403-108 = "...Como esperado, Alice gosta deste jogo."
-
 1013403-109 = "Além disso, o tempo de jogo é perfeito!"
-
 1013403-110 = "Se você conhece a estratégia, poderá assistir ao verdadeiro final em 3 horas!"
-
-1013403-111 = "professor! Vamos fazer isso juntos com Alice!"
-
+1013403-111 = "sensei! Vamos fazer isso juntos com Alice!"
 1013403-113 = "(Acabei jogando Tales Saga Chronicle por causa do impulso.)"
-
 1013403-115 = "[56cd7b] No ano 2354 do Século do Cosmos, a humanidade foi engolfada pelas chamas do fogo do inferno――[-]"
-
 1013403-116 = "Mesmo sendo um RPG clássico de fantasia, tem uma abertura como essa!"
-
 1013403-117 = "Além disso, o nome próprio “Século do Cosmos” só aparece aqui!"
-
 1013403-118 = "[56cd7b] Inicie o tutorial. [-]"
-
 1013403-120 = "[56cd7b] Primeiro, pressione o botão B e tente equipar a arma à sua frente. [-]"
-
 1013403-121 = "Ah, isso é uma armadilha. Se você pressionar o botão B aqui, o jogo termina."
-
 1013403-122 = "Pressione o botão A para prosseguir."
-
 1013403-124 = "[ns11] \"É um jogo mais difícil do que eu imaginava...\"\n[ns12] \"Você consegue completá-lo em 3 horas?\""
-
 1013403-127 = "Se você não conhece a estratégia, talvez nunca consiga eliminá-la."
-
 1013403-128 = "No entanto, se você é um jogador veterano como Alice, você pode pagar!"
-
 1013403-130 = "Ah."
-
 1013403-131 = "Chegou à primeira cidade sem encontrar nenhum inimigo."
-
 1013403-132 = "Isso é uma sorte porque os métodos de recuperação são limitados nos estágios iniciais!"
-
-1013403-138 = "...Este é o BGM de "The Town of Beginnings"."
+1013403-138 = "...Este é o BGM de \"The Town of Beginnings\"."
 
 1013403-139 = "Eu gosto muito de Alice. #nQuando o ouço, lembro-me de quando encontrei este jogo pela primeira vez."
-
 1013403-140 = "...Hehe."
-
 1013403-141 = "É muito estranho. Alice não sabia de nada naquela época."
-
 1013403-142 = "Desde então, ele obteve a espada de luz, fez amigos e passou por muitas aventuras..."
-
 1013403-143 = "Agora chegamos ao vasto mar gelado."
-
 1013403-144 = "Realmente parece uma aventura de herói."
-
-1013403-145 = "...Esta "cidade dos começos" é também o lugar dos começos para Alice."
+1013403-145 = "...Esta \"cidade dos começos\" é também o lugar dos começos para Alice."
 
 1013403-149 = "...Ah! Eu encontrei um monstro!"
-
 1013403-150 = "É Punipuni usando uma espingarda dupla! #nÉ difícil estar próximo, então aqui..."
-
-1013403-152 = "(Continuou com "Tales Saga Chronicle" com Alice)"
+1013403-152 = "(Continuou com \"Tales Saga Chronicle\" com Alice)"
 
 1013403-153 = "(depois de um tempo......)"
-
 1013403-156 = "...Eu derrotei o chefe final! Está claro!"
-
-1013403-157 = "……professor? O que está errado?"
-
+1013403-157 = "……sensei? O que está errado?"
 1013403-158 = "Ele parece um cachorrinho triste!"
-
 1013403-159 = "[s] \"Alice...posso te perguntar uma coisa?\""
-
 1013403-163 = "[ns13] \"Por que minha mãe é a heroína, e ainda assim ela é na verdade minha esposa de uma vida anterior...\"\n[ns14] \"Por que minha meio amiga está saltando no tempo?\""
-
 1013403-167 = "Nem Alice entende!"
-
 1013403-168 = "……mas."
-
 1013403-169 = "Você não acha interessante?"
-
 1013403-170 = "[s15] \"...Isso mesmo.\"\n[s16] \"Foi muito interessante.\""
-
 1013403-173 = "Que bom que minha professora é Alice! Alice também se divertiu muito!"
-
 1013403-174 = "Então, a seguir--"
-
 1013403-176 = "(Naturalmente, o jogo continua)"
-
 1013403-177 = "(Passei o tempo jogando vários jogos com Alice)"
-

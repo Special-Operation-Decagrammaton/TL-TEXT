@@ -26,9 +26,11 @@
 1601906-55 = "[wa:1900]― [log=토키 결전]Este instante, [wa:1410]só existe [wa:740]neste momento.[/log]"
 1601906-57 = "― [log=토키 결전]E nunca mais [wa:1190]voltará.[/log]"
 1601906-60 = "[wa:2510]― [log=토키 결전]Sensei.[/log]"
-1601906-62 = "― [log=토키 결전]Se agora, [wa:1360]o momento "final" [wa:690]chegasse――[/log]"
+1601906-62 = "― [log=토키 결전]Se agora, [wa:1360]o momento \"final\" [wa:690]chegasse――[/log]"
+
 1601906-65 = "[wa:730]― [log=토키 결전]Eu, [wa:1270]ao seu lado, [wa:1610]compartilharia esse instante…….[/log]"
-1601906-67 = "― [log=토키 결전]Posso ser a [wa:770]"última" pessoa ao seu lado?[/log]"
+1601906-67 = "― [log=토키 결전]Posso ser a [wa:770]\"última\" pessoa ao seu lado?[/log]"
+
 1601906-70 = "[ns] \"Então é isso que você mais gosta, Toki.\""
 1601906-71 = "Sim."
 1601906-72 = "Claro, eu sei que esses são sentimentos contraditórios."
@@ -39,9 +41,11 @@
 1601906-77 = "[s] \"Acho que sentir que algo belo é belo é uma coisa boa.\""
 1601906-81 = "[ns1] \"Porque isso é――\"\n[ns2] \"a prova de que você não perdeu a esperança.\""
 1601906-84 = "……Entendo."
-1601906-85 = "……Sim? #nAs expressões sobre "o momento final chegar" ou "a última pessoa" foram um pouco assustadoras?"
+1601906-85 = "……Sim? #nAs expressões sobre \"o momento final chegar\" ou \"a última pessoa\" foram um pouco assustadoras?"
+
 1601906-86 = "……."
-1601906-87 = "Certamente, pode ser. #nO "fim" é algo assustador."
+1601906-87 = "Certamente, pode ser. #nO \"fim\" é algo assustador."
+
 1601906-88 = "Mas não se preocupe. Eu estou ao seu lado, Sensei."
 1601906-89 = "Acima de tudo…… eu impedirei que esse momento chegue."
 1601906-90 = "É por isso que estou aqui, armada e pronta."

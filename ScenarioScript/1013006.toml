@@ -17,7 +17,7 @@
 
 1013006-12 = "São partituras."
 
-1013006-13 = "[s] \"Hmm? Desculpe, não consegui ouvir você claramente.""
+1013006-13 = "[s] \"Hmm? Desculpe, não consegui ouvir você claramente.\""
 
 1013006-14 = "U-uh... é por isso."
 
@@ -47,7 +47,7 @@
 
 1013006-28 = "É divertido só olhar em volta, mas..."
 
-1013006-29 = "Mas... "Eu gostaria de ganhar um algum dia", certo?"
+1013006-29 = "Mas... \"Eu gostaria de ganhar um algum dia\", certo?"
 
 1013006-30 = "Acho que algumas pessoas têm vontade de viver por causa desse desejo... #nSinto que tenho que suprimir esse sentimento."
 
@@ -115,38 +115,32 @@
 
 1013006-87 = "(Um lindo tom ecoa enquanto a brisa da noite acaricia suas bochechas)"
 
-1013006-91 = "[wa:1890]― [log=니코 스바루]De alguma forma, [wa:1380] parece novo. [/registro]"
-
+1013006-91 = "[wa:1890]― [log=니코 스바루]なんだか、[wa:1380]新鮮な気持ちです。[/log]"
 1013006-93 = "― [log=니코 스바루]Esta é minha primeira vez [wa:1380] tocando [wa:820] para alguém [wa:660]... [/log]"
 
-1013006-96 = "[wa:770]― [log=니코 스바루]Como foi [wa:1440]? [/registro]"
-
+1013006-96 = "[wa:770]― [log=니코 스바루]どう、[wa:1440]でしたでしょうか？[/log]"
 1013006-98 = "― [log=니코 스바루]Isso é estranho, não foi [wa:1890]...? [/registro]"
 
 1013006-101 = "[ns] \"Foi uma ótima apresentação.\""
 
-1013006-103 = "[wa:1260]― [log=니코 스바루]É isso...[wa:1760]É isso[/log]"
-
+1013006-103 = "[wa:1260]― [log=니코 스바루]それって……[wa:1760]その、[/log]"
 1013006-105 = "― [log=니코 스바루] Honestamente, não há problema em considerar [wa:1510] [wa:770], certo? [/registro]"
 
 1013006-108 = "― [log=니코 스바루]...Obrigado. [/registro]"
 
-1013006-111 = "[wa:400]― [log=니코 스바루]Na verdade, [wa:1440]Se houver algo mais que eu possa fazer [wa:1190][/log]"
-
+1013006-111 = "[wa:400]― [log=니코 스바루]本当は、[wa:1440]他に何かできることが[wa:1190]あれば[/log]"
 1013006-113 = "― [log=니코 스바루]Estou feliz... [/log]"
 
 1013006-116 = "― [log=니코 스바루]Para mim agora,[/log]"
 
 1013006-118 = "― [log=니코 스바루]Isso é tudo que tenho... [/log]"
 
-1013006-121 = "[wa:370]― [log=니코 스바루] Hein? [/registro]"
-
+1013006-121 = "[wa:370]― [log=니코 스바루]えっ？[/log]"
 1013006-123 = "― [log=니코 스바루] “Se você praticar novamente, [wa:930] quero que você ouça”…? [/registro]"
 
 1013006-126 = "― [log=니코 스바루] “Eu também comprei muitas partituras [wa:790]”…? [/registro]"
 
-1013006-129 = "[wa:360]― [log=니코 스바루]Bem, [wa:990]Isso é... [/log]"
-
+1013006-129 = "[wa:360]― [log=니코 스바루]そ、[wa:990]それは……。[/log]"
 1013006-132 = "― [log=니코 스바루]De novo...[wa:1320]Quando essa hora chegar,[/log]"
 
 1013006-134 = "― [log=니코 스바루]Deixe-me pensar sobre isso. [/registro]"

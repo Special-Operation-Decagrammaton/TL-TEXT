@@ -1,113 +1,100 @@
 [translation]
-1007005-1 = "Cor do céu chuvoso"
+1007005-1 = "a cor do céu chuvoso"
 
-1007005-3 = "(Acabei de terminar minhas tarefas administrativas para o Sutra da Montanha e do Mar e estou a caminho de casa. ......)"
+1007005-3 = "(Eu estava voltando para casa depois de terminar o trabalho administrativo em Shanhai Jing...)"
 
-1007005-6 = "[ns] \"Huh ......? \""
+1007005-6 = "[ns] \"Huh...?\""
 
-1007005-8 = "(ZAZAR)"
+1007005-8 = "(Zaza)"
 
-1007005-12 = "[ns] \"Is it raining on the street? ......? \""
+1007005-12 = "[ns] \"Está chovendo...?\""
 
-1007005-13 = "O senhor precisa de um guarda-chuva, doutor?"
+1007005-13 = "Você precisa de um guarda-chuva, senhor?"
 
-1007005-14 = "[\"Mina! \""
+1007005-14 = "[s] \"Mina!\""
 
-1007005-19 = "[ns] \"Você sabia que ia chover? \""
+1007005-19 = "[ns] \"Você sabia que ia chover?\""
 
-1007005-20 = "...... velhas feridas me dizem."
+1007005-20 = "Hehe... minhas antigas feridas me ensinaram isso."
 
-1007005-21 = "[s] (...... não vamos mencionar isso hoje)"
+1007005-21 = "[s] (...não vamos tocar nisso por hoje)"
 
-1007005-26 = "Bem, ...... com um clima como esse, por que não os mandamos embora?"
+1007005-26 = "Bem... o tempo está assim, então pensei em mandá-lo embora."
 
-1007005-34 = "(E assim, junto com Mina, caminhamos pelo Sutra Shanhai debaixo de chuva)."
+1007005-34 = "(Então caminhei por Shanhaijing na chuva com Mina.)"
 
-1007005-35 = "(O perfil de Mina parecia um tanto divertido)"
+1007005-35 = "(O perfil de Mina parecia que ela estava se divertindo.)"
 
-1007005-36 = "[s1]\"Talvez ......\"\n[s2]\"A Mina gosta de chuva? \""
+1007005-36 = "[s1] \"Talvez...\"\n[s2] \"Mina gosta de chuva?\""
 
-1007005-39 = "O quê?"
+1007005-39 = "sim?"
 
-1007005-40 = "Se for o caso, ......"
+1007005-40 = "Se alguma coisa..."
 
-1007005-43 = "[wa:1400]- [log=미나]Sim, eu gosto da paisagem do dia [wa:1600]chuvoso [wa:300]e [wa:300]de hoje. [/log]"
+1007005-43 = "[wa:1400]― [log=미나]そうだな……[wa:1600]雨の[wa:300]日の[wa:300]景色は好きだ。[/log]"
+1007005-45 = "[wa:100]― [log=미나]色々なものが[wa:1000]シンプルに[wa:300]見える。 [/log]"
+1007005-48 = "[wa:1600]― [log=미나]白と[wa:650]黒――[/log]"
+1007005-50 = "[wa:200]― [log=미나]ノワールの[wa:400]世界。[/log]"
+1007005-53 = "[wa:800]― [log=미나]この世界は、[/log]"
+1007005-55 = "[wa:100]― [log=미나]眩しすぎるほどの光彩で構成されている。[/log]"
+1007005-58 = "[wa:900]― [log=미나]だが、[wa:1100]人々は[wa:900]その事実に[wa:500]気付かない……[/log]"
+1007005-60 = "[wa:400]― [log=미나]私だって[wa:600]例外ではないが。[/log]"
+1007005-63 = "[wa:800]― [log=미나]ノワールの世界は、[wa:2100]違うんだ。[/log]"
+1007005-65 = "[wa:200]― [log=미나]少なくとも……[wa:1300]分かりやすい。[/log]"
+1007005-68 = "[wa:1400]― [log=미나]ただ……[wa:1200]そうだな。[/log]"
+1007005-70 = "[wa:600]― [log=미나]せめて[wa:700]傘くらいは……[wa:2100]道に迷わぬよう、[/log]"
+1007005-73 = "[wa:700]― [log=미나]明るい色のものが良いだろう。[/log]"
+1007005-78 = "[ns3] \"Certamente, se eu tivesse um guarda-chuva colorido...\"\n[ns4] \"Seria.\""
 
-1007005-45 = "[wa:100]- [log=미나]Várias coisas parecem [wa:1000]simples [wa:300]. [/log]"
+1007005-81 = "--Como o sacerdote chefe."
 
-1007005-48 = "[wa:1600]- [log=미나]Branco e [wa:650]Preto--[/log]"
+1007005-82 = "[s] \"Kisaki...?\""
 
-1007005-50 = " [/log]"
+1007005-83 = "ah. A razão pela qual entrei em Genryumon foi porque o porteiro estava lá."
 
-1007005-53 = "[wa:800]- [log=미나]Este mundo[/log]."
+1007005-84 = "Não me importo com dinheiro ou fama. #nEsse tipo de coisa acabará desaparecendo...está simplesmente vazio."
 
-1007005-55 = "[wa:100]- [log=미나]Ele consiste em muito brilho. [/log]"
+1007005-85 = "No entanto, o espírito duro do mestre-chefe é real!"
 
-1007005-58 = "[wa:900]- [log=미나]mas [wa:1100]as pessoas [wa:900]não estão [wa:500]cientes[/wa:500] desse fato ......[/log]"
+1007005-86 = "Carismático o suficiente para fazer você se ajoelhar! #nAo mesmo tempo, ele tem a mente aberta e ouve a opinião de todos!"
 
-1007005-60 = "[wa:400]- [log=미나]Nem mesmo eu [wa:600]sou uma exceção. [/log]"
+1007005-87 = "Apesar disso, ela tem uma figura delicada que parece que iria quebrar se você a abraçasse! #nEssa lacuna seria a melhor! ?"
 
-1007005-63 = "[wa:800]- [log=미나]O mundo noir é [wa:2100]diferente. [/log]"
+1007005-88 = "Ah, eu não sou o único. #nA maioria dos membros são atraídos pelo charme de Monshu-sama e se reúnem!"
 
-1007005-65 = "[wa:200]- [log=미나]Pelo menos ......[wa:1300] fácil de entender. [/log]"
+1007005-92 = "[ns] (Eu me pergunto se Genryumon é o fã-clube de Kisaki...?)"
 
-1007005-68 = "[wa:1400]- [log=미나]Apenas ......[wa:1200] Sim. [/log]"
+1007005-93 = "...Cohon. #nDesculpe, fiquei um pouco perturbado."
 
-1007005-70 = "[wa:600]- [log=미나]Pelo menos [wa:700]um guarda-chuva ......[wa:2100]para que você não se perca[/log]."
+1007005-94 = "Enfim... a vida exige um guarda-chuva brilhante."
 
-1007005-73 = "[wa:700]- [log=미나]Seria melhor se fossem de cores vivas. [/log]"
+1007005-95 = "[s] \"Isso mesmo. Em dias chuvosos, é claro.\""
 
-1007005-78 = "[ns3]\"Claro, um guarda-chuva de cores vivas seria uma boa ......\"\n[ns4]\"[ruby=michijirobe]sinalização[/ruby]\"\n[ns4]\"[ruby=michijirobe]sinalização[/ruby]. \""
+1007005-96 = "...Huh. Eu entendo, senhor."
 
-1007005-81 = "-como o Mestre do Portal."
+1007005-97 = "Quando falo com meu professor... às vezes tenho uma sensação estranha."
 
-1007005-82 = "[s]\"Kisaki......? \""
+1007005-98 = "Coisas que eu não pretendia dizer saem naturalmente."
 
-1007005-83 = "Ah. Entrei no Portão Xuanlong por causa do Mestre do Portão."
+1007005-102 = "O que aconteceu quando você pulou de repente? #nOlha, ainda está chovendo, professora."
 
-1007005-84 = "Dinheiro e honra não importam. #nEssas coisas desaparecerão mais cedo ou mais tarde. ...... É apenas vazio."
+1007005-103 = "[s5] \"Na verdade, eu também gosto da chuva.\"\n[s6] \"Cante e dance enquanto sou pego pela chuva.\""
 
-1007005-85 = "Mas o espírito de guardião do portão é real!"
+1007005-106 = "……."
 
-1007005-86 = "Carismático o suficiente para deixá-lo de joelhos! #nE ainda tem a nostalgia de ouvir as opiniões de todos!"
-
-1007005-87 = "Apesar disso, ela tem aquele corpo esguio que parece se quebrar quando você a abraça! #nA distância entre as duas é a melhor, não é mesmo!"
-
-1007005-88 = "Uau, não sou o único. A maioria dos membros do #n é atraída pelo guardião por causa de seu charme!"
-
-1007005-92 = "[ns] (A Genryumon é um fã-clube da Kisaki? ......?)"
-
-1007005-93 = "...... Kohon. #nDesculpe-me, estou um pouco perturbado."
-
-1007005-94 = "De qualquer forma, a vida de ...... pessoas precisa de um guarda-chuva brilhante, só isso."
-
-1007005-95 = "[Sim, eu sei. E, é claro, em dias de chuva. \""
-
-1007005-96 = "...... Huh. Você sabe o que quero dizer, doutor."
-
-1007005-97 = "Conversar com professores às vezes me faz sentir ...... estranho."
-
-1007005-98 = "Até mesmo partes da história que eu não havia pensado em contar para mim mesmo saem espontaneamente de minha boca."
-
-1007005-102 = "Você pulou de repente, o que há de errado? #n Olhe, ainda está chovendo, doutor."
-
-1007005-103 = "[s5] \"Na verdade, eu também gosto da chuva. \"\n[s6] \"Cantar e dançar na chuva. \"\n[s6]""
-
-1007005-106 = "......."
-
-1007005-107 = "Oh, ...... Entendo."
+1007005-107 = "Ah... entendo."
 
 1007005-108 = "Lembro-me de ter visto isso em um filme há muito tempo."
 
-1007005-109 = "Afinal de contas, o professor sabe muito sobre filmes."
+1007005-109 = "Acho que o professor sabe muito sobre filmes, afinal."
 
-1007005-110 = "Oh ...... Hoje é um bom dia, de fato, não é?"
+1007005-110 = "Ah... hoje é realmente um belo dia."
 
-1007005-111 = "É dia de sapateado. ......!"
+1007005-111 = "É um bom dia para sapatear...!"
 
-1007005-112 = "Hahahaha, haha. ...... haha. ......"
+1007005-112 = "Ahaha, haha… hahaha…!"
 
-1007005-117 = "(Mina entrou correndo, sorrindo alegremente)"
+1007005-117 = "(Mina veio correndo com um sorriso brilhante)"
 
-1007005-118 = "(Dançamos em um palco só com nós dois sob uma chuva torrencial)."
+1007005-118 = "(Dançamos em um palco só nós dois sob uma chuva torrencial)"
 

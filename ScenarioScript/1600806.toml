@@ -1,79 +1,156 @@
 [translation]
-1600806-1 = "A gentileza de uma policial preguiçosa"
-1600806-2 = "（Já que vim até a Academia de Polícia Valkyrie, visitei o escritório do Departamento de Segurança Pública para ver como Fubuki estava）"
-1600806-4 = "Academia de Polícia Valkyrie - Departamento de Segurança Pública"
-1600806-5 = "Eu já disse, isso não é nosso trabalho..."
-1600806-6 = "Mas me disseram que, se eu estivesse com problemas, deveria procurar o Departamento de Segurança Pública..."
-1600806-7 = "Eu estou realmente em apuros!"
-1600806-8 = "Mesmo que digam isso, esse tipo de problema é um pouco..."
-1600806-9 = "Por favor, aquele grampo de cabelo é único no mundo, é muito importante..."
-1600806-10 = "É um grampo precioso que minha avó fez para o meu aniversário...!"
-1600806-11 = "...Gerenciar itens perdidos é trabalho do Departamento de Segurança Pública, mas sair por aí procurando um objeto perdido é outra história."
-1600806-12 = "Quando foi que você percebeu que tinha perdido?"
-1600806-13 = "Quando saí de casa, eu estava usando... mas quando cheguei na escola, nem percebi quando..."
+1600806-1 = "A gentileza de um policial preguiçoso"
+
+1600806-2 = "(Como eu estava na Academia de Polícia Valquíria, visitei o escritório do Departamento de Segurança Comunitária para verificar como estava Fubuki.)"
+
+1600806-4 = "Academia de Polícia Valquíria/Departamento de Segurança da Vida"
+
+1600806-5 = "Então esse não é o nosso trabalho..."
+
+1600806-6 = "No entanto, se eu tivesse algum problema, me disseram para entrar em contato com o Departamento de Segurança Comunitária..."
+
+1600806-7 = "Estou realmente em apuros!"
+
+1600806-8 = "Mesmo assim, esse tipo de problema é um pouco..."
+
+1600806-9 = "Por favor, esse grampo é a única coisa preciosa no mundo..."
+
+1600806-10 = "Este é um grampo precioso que minha avó fez para o meu aniversário...!"
+
+1600806-11 = "... Gerenciar itens perdidos é tarefa do Community Safety Bureau, mas sair do seu caminho para procurar itens perdidos é uma história diferente."
+
+1600806-12 = "Quando você percebeu isso?"
+
+1600806-13 = "Coloquei quando saí de casa, mas quando cheguei na escola não sabia..."
+
 1600806-14 = "Talvez em algum lugar no caminho para a escola...?"
-1600806-15 = "...Entendi a situação, mas se nem você sabe onde perdeu, não posso sair por aí procurando sem rumo."
-1600806-16 = "Mesmo sendo o Departamento de Segurança Pública, nossos recursos humanos são limitados."
-1600806-17 = "Mentira! Eu sei que as alunas do Departamento de Segurança Pública não têm nada para fazer e passam o dia todo tirando cochilos!"
-1600806-18 = "E mesmo assim, dizem que não têm tempo para procurar meu grampo... que horror!"
-1600806-19 = "Bem, não vou negar a parte dos cochilos. Mas, para estar pronta para chamados de emergência, não posso deixar o escritório vazio por muito tempo."
-1600806-20 = "...De qualquer forma, se algum item perdido parecido for entregue, entraremos em contato, então pode deixar seu contato aqui?"
-1600806-21 = "...Policial chata, idiota!"
-1600806-27 = "...Ah, levei bronca de novo."
-1600806-28 = "...Espera, Sensei? H-há quanto tempo você estava aí...?"
-1600806-29 = "[s] \"Desculpe, desde o começo, praticamente.\""
-1600806-30 = Entendi, que vergonha ser vista em um momento desses..."
-1600806-31 = "Bem, não se preocupe. Esse tipo de coisa acontece sempre."
-1600806-32 = "Procurar objetos perdidos, abrir portas trancadas, procurar animais de estimação... se fôssemos atender a tudo, não teríamos fim."
-1600806-33 = "[s] \"Não tem como você procurar o grampo dela?\""
-1600806-34 = "...Se pelo menos soubéssemos o local exato, seria bom, mas o caminho que ela faz para a escola é bem longo."
-1600806-35 = "Se fôssemos procurar em cada canto daquele caminho, acho que um dia inteiro não seria suficiente."
-1600806-36 = "Se eu aceitar um pedido, outra pessoa pode ficar sabendo e perguntar 'por que não faz o meu também?'. Se ficarmos ocupados com isso e não pudermos atender ao que é realmente importante, seria contraproducente. Por isso, basicamente, temos que recusar."
-1600806-37 = "[s1] \"Bem, faz sentido...\"\n[s2] \"A Fubuki é bem sensata.\""
-1600806-38 = "...Ah."
-1600806-39 = "Claro, mesmo sendo assim, sou uma policial profissional. Não posso me deixar levar por emoções triviais."
-1600806-40 = "...Ah."
-1600806-41 = "Falando nisso, Sensei, meus donuts acabaram."
-1600806-42 = "Desculpe o incômodo, mas você poderia cuidar do escritório enquanto vou comprar mais? Volto antes da próxima troca de turno, por favor."
-1600806-43 = "[s] \"Por mim tudo bem, mas e quanto a estar pronta para emergências?\""
-1600806-44 = "B-bem, para isso tem a Kirino e as outras..."
-1600806-45 = "Além disso, donuts são mais importantes que o trabalho do Departamento de Segurança Pública!"
-1600806-46 = "De qualquer forma, volto logo. Então, conto com você."
-1600806-55 = "No entanto, depois disso, Fubuki não voltou mesmo após o horário da troca de turno..."
-1600806-56 = "[ns] Ir procurar a Fubuki."
-1600806-59 = "D.U. Distrito Central - Perto da escola primária pública"
-1600806-62 = "Encontrei a Fubuki procurando algo nos arbustos do caminho para a escola."
-1600806-67 = "...Tsc, um abridor de garrafas."
-1600806-69 = "Não é esse também..."
+
+1600806-15 = "...Eu entendo a situação, mas como não tenho certeza de onde o perdi, não posso fazer nada de imprudente a respeito."
+
+1600806-16 = "Até o Gabinete de Segurança Comunitária tem recursos humanos limitados."
+
+1600806-17 = "Mentiroso! Eu sei que os alunos do Community Safety Bureau não têm nada para fazer e não fazem nada além de tirar uma soneca todos os dias!"
+
+1600806-18 = "E mesmo assim não tenho tempo de procurar meu grampo... isso é terrível!"
+
+1600806-19 = "Bem, eu não nego cochilar. Para me preparar para emergências, não posso sair do escritório por longos períodos de tempo."
+
+1600806-20 = "...De qualquer forma, entrarei em contato com você se receber um item perdido, então você poderia deixar seus dados de contato?"
+
+1600806-21 = "...A policial é uma idiota!"
+
+1600806-27 = "……あーあ、また怒られた。"
+1600806-28 = "...O que, professor? Ei, desde quando você assistiu...?"
+
+1600806-29 = "[s] \"Desculpe, é bem o começo.\""
+
+1600806-30 = "Entendo, vi algo embaraçoso..."
+
+1600806-31 = "Bem, não se preocupe com isso. Porque esse tipo de coisa acontece com frequência."
+
+1600806-32 = "Seja procurando algo que você esqueceu, destrancando uma porta ou encontrando seu animal de estimação... você nunca ficará sem dinheiro se cuidar de todos eles."
+
+1600806-33 = "[s] \"Você não consegue me encontrar um grampo de cabelo?\""
+
+1600806-34 = "...Seria bom se pudéssemos pelo menos identificar a localização, mas o percurso da criança até a escola é bastante longo."
+
+1600806-35 = "Mesmo um dia provavelmente não é suficiente para procurar esse caminho em cada canto e recanto."
+
+1600806-36 = "Uma vez que você ouve sobre um pedido, alguém pode descobrir e perguntar: “E o meu?” Se você ficar tão ocupado que não consiga lidar com coisas importantes, você estará colocando a carroça na frente dos bois. Então, basicamente, não tenho escolha a não ser recusar."
+
+1600806-37 = "[s1] \"Bem, acho que sim...\"\n[s2] \"Fubuki está calmo.\""
+
+1600806-38 = "...... ah."
+
+1600806-39 = "Claro, ainda sou um policial profissional. Não posso ser influenciado por emoções mesquinhas."
+
+1600806-40 = "...... ah."
+
+1600806-41 = "Agora que penso nisso, professora, estou um pouco sem donuts."
+
+1600806-42 = "Sinto muito, mas você poderia ficar em casa até eu comprar? Estarei de volta na hora do próximo turno, por favor."
+
+1600806-43 = "[s] \"Está tudo muito bem, mas que tal se preparar para um despacho de emergência?\""
+
+1600806-44 = "Bem, Kirino e outros..."
+
+1600806-45 = "Além disso, os donuts são mais importantes do que o trabalho na Secretaria de Segurança Pública!"
+
+1600806-46 = "De qualquer forma, voltarei em breve. Pois bem, prazer em conhecê-lo."
+
+1600806-55 = "Porém, depois disso, Fubuki não voltou mesmo depois do tempo para sua substituição..."
+
+1600806-56 = "[ns] Vá procurar por Fubuki."
+
+1600806-59 = "DU Bairro Chuo/Perto de escola primária pública"
+
+1600806-62 = "Encontrei Fubuki procurando algo nos arbustos a caminho da escola."
+
+1600806-67 = "... Tsk, um abridor de garrafas?"
+
+1600806-69 = "Não é nem isso..."
+
 1600806-70 = "[s] \"Fubuki.\""
-1600806-71 = "Hmm... ah, Sensei!? P-por que você está aqui...!?"
-1600806-72 = "Ah, o horário?"
-1600806-73 = "Ah... desculpe, desculpe, é que a fila estava enorme hoje."
-1600806-74 = "Isso é, bem... eu deixei cair meu donut no caminho de volta."
-1600806-75 = "Como é redondo, ele sai rolando, né? Tenho quase certeza de que foi por aqui..."
-1600806-76 = "[s] \"...Quer que eu ajude?\""
-1600806-77 = "Não, não precisa se incomodar, Sensei, veja bem...!"
-1600806-79 = "...Hehe, acho que não dá para enganar o Sensei mesmo."
-1600806-80 = "...Em princípio, não deveria. Mas dizer que meu coração não balançou ao ver aquela expressão seria mentira."
-1600806-81 = "Bem, não dá para fazer isso sempre... e não teria graça nenhuma comer um donut me sentindo assim."
-1600806-82 = "Então, estou apenas matando aula para poder comer um donut delicioso. É isso."
-1600806-83 = "[s] \"Entendi, então eu vou ajudar.\""
-1600806-84 = "..."
-1600806-85 = "[s] \"Eu também quero comer um donut delicioso.\""
-1600806-89 = "...Então não tem jeito. É um incômodo, mas não tenho escolha."
-1600806-90 = "Certo, Sensei, cuide daquela área ali. Eu vou cuidar desta aqui."
+
+1600806-71 = "Hmm... eh, professora! ? P-por que você está aqui...! ?"
+
+1600806-72 = "Que horas?"
+
+1600806-73 = "Ah... desculpe, desculpe, a fila está muito longa hoje."
+
+1600806-74 = "Bem... deixei cair um donut no caminho para casa."
+
+1600806-75 = "Afinal rola porque é redondo, e acho que fui para essa área..."
+
+1600806-76 = "[s] \"...Então, posso te ajudar?\""
+
+1600806-77 = "Não, você não precisa pedir ajuda ao professor...!"
+
+1600806-79 = "...Hehe, acho que não consegui enganar o professor, afinal."
+
+1600806-80 = "...Em princípio, não adianta. Mas seria mentira se eu dissesse que meu coração não se mexeu ao ver aquela expressão."
+
+1600806-81 = "Bem, eu não posso comer todos os donuts sempre... Mesmo se eu comer donuts nesse estado de espírito, eles não terão um gosto bom."
+
+1600806-82 = "Então sou apenas eu relaxando para comer alguns donuts deliciosos. Porque é isso que é."
+
+1600806-83 = "[s] \"Sim, é por isso que vou ajudá-lo.\""
+
+1600806-84 = "……."
+
+1600806-85 = "[s] \"Porque eu também quero comer donuts deliciosos.\""
+
+1600806-89 = "...então não pode ser ajudado. É uma dor, mas você não pode substituir o estômago pelas costas."
+
+1600806-90 = "Pois bem, professor, por favor, cuide disso. Eu farei este."
+
 1600806-93 = "(Alguns minutos depois...)"
-1600806-98 = "Achei, é o grampo de cabelo!"
-1600806-99 = "Que bom... obrigada."
-1600806-100 = "Então, vamos dizer que foi \"entregue como um item perdido encontrado por acaso\"."
-1600806-101 = "[s] \"Acho que não teria problema dizer que você encontrou, não é?\""
-1600806-102 = "Porque dá muito trabalho..."
-1600806-103 = "Se descobrirem, com certeza vão aparecer com mais casos problemáticos para eu resolver. Eu não quero isso de jeito nenhum."
-1600806-104 = "Eu só quero poder comer meu donut em paz."
-1600806-105 = "[s] \"Entendi. Então, quer ir comprar um donut agora?\""
-1600806-106 = "Pode ser. Ah, por acaso o Sensei vai pagar para mim?"
-1600806-107 = "[s3] \"Com certeza.\"\n[s4] \"Você se esforçou bastante, afinal.\""
-1600806-108 = "Então, eu quero um donut glaceado da \"Master Donut\"!"
-1600806-109 = "Então, eu quero um donut glaceado da \"Master Donut\"!"
-1600806-110 = "É sempre delicioso, mas hoje, com esse problema resolvido e sendo por conta do Sensei... nossa, vai ser bom demais!"
-1600806-112 = "Depois de devolver o grampo de cabelo para a garota, comi um donut delicioso junto com a Fubuki."
+
+1600806-98 = "Aí está, um grampo de cabelo!"
+
+1600806-99 = "Bom... obrigado."
+
+1600806-100 = "Então, “chegou por acaso como algo que esqueci”."
+
+1600806-101 = "[s] \"Acho que não há problema em dizer que encontrei para você, certo?\""
+
+1600806-102 = "Porque é uma dor..."
+
+1600806-103 = "Se isso fosse descoberto, eu tinha certeza de que outro caso problemático seria trazido de algum lugar para mim. Eu absolutamente odeio isso."
+
+1600806-104 = "Eu só quero que os donuts sejam deliciosos."
+
+1600806-105 = "[s] \"Entendo. Então, você quer comprar donuts agora?\""
+
+1600806-106 = "Certo. Ah, talvez o professor me compre alguma coisa?"
+
+1600806-107 = "[s3] \"Claro.\"\n[s4] \"Eu tentei o meu melhor.\""
+
+1600806-108 = "Então experimente os donuts glaceados da Master Donuts!"
+
+1600806-109 = "Então experimente os donuts glaceados da Master Donuts!"
+
+1600806-110 = "Claro que fica uma delícia não importa quando você coma, mas hoje, com todo o trabalho resolvido e a guloseima da professora... Nossa, deve estar uma delícia!"
+
+1600806-112 = "Depois de devolver o grampo para a dona dele, comi alguns donuts deliciosos com Fubuki."
+

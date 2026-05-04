@@ -1,125 +1,37 @@
 [translation]
 1007105-1 = "SRT, Explore."
-
 1007105-4 = "Oh, senhor. ......!"
-
-1007105-5 = "[s1] \"Você chegou cedo, Miyako. \"\n[s2] \"Desculpe, você esperou demais. \"\n[s2]""
-
-1007105-8 = "Então, esse é o ......"
-
-1007105-9 = "Eu mal podia esperar para poder caminhar no mar, e antes do prometido ......"
-
-1007105-10 = "É vergonhoso que o líder do pelotão da SRT não consiga cumprir o horário de montagem."
-
-1007105-11 = "[s3] \"Acho que conheço esse sentimento. \"\n[s4] \"Nos dias de excursão, você quer ir para a escola mais cedo. \""
-
-1007105-16 = "Phew. ...... Sim, é isso mesmo."
-
-1007105-17 = "No entanto, como os moradores nos disseram, quando a maré baixou, o caminho estava realmente formado."
-
-1007105-18 = "Um fenômeno tão estranho, duas vezes no mesmo dia. ......"
-
-1007105-19 = "Diante do [ruby=chose]maremoto[/ruby], até mesmo nossas forças especiais da SRT se sentem desamparadas."
-
-1007105-23 = "...... Um pouco sentimental, infelizmente."
-
-1007105-27 = "A maré não vai baixar por muito tempo, então vamos em frente, certo?"
-
-1007105-28 = "Professor, tenha cuidado ao andar no caminho do mar, pois é fácil se desequilibrar e cair."
-
-1007105-32 = "(Caminhando ao lado de Miyako na estrada marítima, em direção a uma ilha remota)."
-
-1007105-34 = "Uau. ...... É uma ilha linda, exatamente como ouvi em suas histórias."
-
-1007105-35 = "De fato, a natureza é abundante. ......"
-
-1007105-36 = "Nunca pensei que veria um cenário tão incrível em uma ilha remota. ......"
-
-1007105-37 = "...... Não, é mais pelo fato de ser uma ilha remota que ela ainda tem ótimas paisagens."
-
-1007105-41 = "Professor ...... Se quiser, você pode dar a volta e ir para o cais."
-
-1007105-42 = "Talvez eu tenha visto errado, pois estava à distância, mas parecia que uma flor estava desabrochando: ......"
-
-1007105-43 = "[\"Vamos, Miyako. \""
-
-1007105-44 = "Hmmm... com o professor ......, é um pouco flutuante."
-
-1007105-49 = "(Depois de ver as flores no topo do penhasco, volte para a praia. ......)"
-
-1007105-56 = "Ah, é o ......?"
-
-1007105-57 = "[s]\"Sea Road is ......\""
-
-1007105-58 = "Eu estava tão absorvido pelas flores que perdi a noção do tempo. ......#n Antes que eu percebesse, a maré havia mudado. ......"
-
-1007105-59 = "Isso torna improvável que você consiga voltar para casa a pé."
-
-1007105-60 = "Desculpe-me. ...... Eu estava apenas sendo tolerante com o médico. ......"
-
-1007105-61 = "[s5] \"Está tudo bem, não se preocupe com isso. \"\n[s6] \"A culpa não é da Miyako. \"\n[s6] \"Não é culpa da Miyako.""
+1007105-5 = "[s1] \"Você chegou cedo, Miyako. \"\n[s2] \"Desculpe, você esperou demais. \"\n[s2]\"\"\n1007105-8 = \"Então, esse é o ......\"\n1007105-9 = \"Eu mal podia esperar para poder caminhar no mar, e antes do prometido ......\"\n1007105-10 = \"É vergonhoso que o líder do pelotão da SRT não consiga cumprir o horário de montagem.\"\n1007105-11 = \"[s3] \"Acho que conheço esse sentimento. \"\n[s4] \"Nos dias de excursão, você quer ir para a escola mais cedo. \"\"\n1007105-16 = \"Phew. ...... Sim, é isso mesmo.\"\n1007105-17 = \"No entanto, como os moradores nos disseram, quando a maré baixou, o caminho estava realmente formado.\"\n1007105-18 = \"Um fenômeno tão estranho, duas vezes no mesmo dia. ......\"\n1007105-19 = \"Diante do maremoto, até mesmo nossas forças especiais da SRT se sentem desamparadas.\"\n1007105-23 = \"...... Um pouco sentimental, infelizmente.\"\n1007105-27 = \"A maré não vai baixar por muito tempo, então vamos em frente, certo?\"\n1007105-28 = \"Sensei, tenha cuidado ao andar no caminho do mar, pois é fácil se desequilibrar e cair.\"\n1007105-32 = \"(Caminhando ao lado de Miyako na estrada marítima, em direção a uma ilha remota).\"\n1007105-34 = \"Uau. ...... É uma ilha linda, exatamente como ouvi em suas histórias.\"\n1007105-35 = \"De fato, a natureza é abundante. ......\"\n1007105-36 = \"Nunca pensei que veria um cenário tão incrível em uma ilha remota. ......\"\n1007105-37 = \"...... Não, é mais pelo fato de ser uma ilha remota que ela ainda tem ótimas paisagens.\"\n1007105-41 = \"Sensei ...... Se quiser, você pode dar a volta e ir para o cais.\"\n1007105-42 = \"Talvez eu tenha visto errado, pois estava à distância, mas parecia que uma flor estava desabrochando: ......\"\n1007105-43 = \"[\"Vamos, Miyako. \"\"\n1007105-44 = \"Hmmm... com o sensei ......, é um pouco flutuante.\"\n1007105-49 = \"(Depois de ver as flores no topo do penhasco, volte para a praia. ......)\"\n1007105-56 = \"Ah, é o ......?\"\n1007105-57 = \"[s]\"Sea Road is ......\"\"\n1007105-58 = \"Eu estava tão absorvido pelas flores que perdi a noção do tempo. ......#n Antes que eu percebesse, a maré havia mudado. ......\"\n1007105-59 = \"Isso torna improvável que você consiga voltar para casa a pé.\"\n1007105-60 = \"Desculpe-me. ...... Eu estava apenas sendo tolerante com o médico. ......\"\n1007105-61 = \"[s5] \"Está tudo bem, não se preocupe com isso. \"\n[s6] \"A culpa não é da Miyako. \"\n[s6] \"Não é culpa da Miyako.\""
 
 1007105-64 = "Eu estava planejando voltar para a vila em breve, então deixei minhas baterias sobressalentes para trás. ......"
-
 1007105-65 = "Acho que temos 10 horas até a próxima maré baixa. #n...... O que devemos fazer, doutor?"
-
 1007105-66 = "[s]\"Não tenho outros planos para o dia. ......\""
-
 1007105-68 = "[ns] \"É feriado, vamos passar algum tempo juntos. \""
-
 1007105-70 = "...... Sim!"
-
 1007105-73 = "(aproximadamente 1 hora depois: ......)"
-
 1007105-76 = "(...... médico me disse para não ter pressa, mas é frustrante estar em uma situação em que não posso fazer nada a respeito)"
-
 1007105-77 = "(Já dei uma olhada na paisagem da ilha e no site ......)"
-
 1007105-78 = "(Para tópicos interessantes, consulte ......)"
-
 1007105-83 = "...... Huh? Acabei de ver um sinal de algo na grama: ......"
-
 1007105-87 = "Há algum animal selvagem?"
-
 1007105-95 = "Eh ......"
-
 1007105-96 = "[ns] \"Você é um coelho. \""
-
 1007105-97 = "Coelho. ......."
-
 1007105-105 = "E não apenas um, mas muitos ......, não, é provável que haja dezenas deles."
-
 1007105-109 = "Ufa, que fofo. Eles são muito amigáveis."
-
 1007105-110 = "Mas por que há uma manada de coelhos em uma ilha tão remota? ......?"
-
 1007105-111 = "[Acho que estou nadando, não estou? \""
-
 1007105-112 = "Não, os coelhos têm medo de água. É improvável que eles tenham nadado no mar."
-
 1007105-113 = "No entanto, não acho que os coelhos viviam originalmente na ilha, que é cercada por água, e não acho que alguém teria feito todo o caminho para ...... a ilha para libertá-los."
-
 1007105-117 = "Não há evidências que comprovem isso. ......"
-
 1007105-118 = "...... Você pode ter perdido o rumo."
-
 1007105-119 = "[s]\"...... na estrada? \""
-
 1007105-120 = "Sim. Acredito que os coelhos cruzaram acidentalmente o caminho do mar que aparecia na maré baixa, caíram na mesma situação que nós e se estabeleceram."
-
 1007105-121 = "[\"Mas há muitos deles. \""
-
 1007105-122 = "Talvez ......"
-
 1007105-123 = "...... Os primeiros coelhos a visitar a ilha devem ter sido um casal."
-
 1007105-124 = "Não há inimigos naturais nessa ilha, e a comida é abundante. #nEles se estabeleceram, tiveram bebês e continuaram a se multiplicar."
-
 1007105-125 = "No início, pode ter sido uma ilha solitária, sem ninguém morando nela. #n, mas de alguma forma ela se tornou um paraíso para os coelhos. ......"
-
 1007105-131 = "Mesmo que você se mude para um lugar onde ninguém o conheça ......"
-
 1007105-132 = "Não tenho medo de nenhum lugar - tenho certeza de que não teria medo de nenhum lugar - se estivesse com alguém em quem pudesse confiar."
-
 1007105-134 = "(Depois, ele e Miyako passaram algum tempo cuidando dos coelhos até que a maré baixasse novamente)."
-

@@ -1,125 +1,124 @@
 [translation]
-1011006-1 = "Os bebês pássaros sonhadores dedicam uma canção para um dia deixar o ninho."
+1011006-1 = "Um passarinho sonhador dedica uma canção para um dia deixar o ninho."
 
-1011006-2 = "(A reunião, com uma agenda com mais de dois dígitos, durou muito tempo)."
+1011006-2 = "(As reuniões com mais de dois dígitos de itens na agenda duraram muito tempo)"
 
-1011006-3 = "(No final da reunião, já estava escuro lá fora)."
+1011006-3 = "(Quando a reunião terminou, já estava escuro lá fora.)"
 
-1011006-8 = "[ns1] \"Birdsong......? \"\n[ns2] Caminhe em direção à voz."
+1011006-8 = "[ns1] \"Sons de pássaros...?\"\n[ns2] Caminhe na direção do som."
 
-1011006-14 = "[ns3] \"This is ......\"\n[ns4] \"Park ......? \""
+1011006-14 = "[ns3] \"Aqui é...\"\n[ns4] \"Estacionamento...?\""
 
-1011006-17 = "...... professor?"
+1011006-17 = "……professor?"
 
-1011006-22 = "Afinal, você é um professor."
+1011006-22 = "Afinal, é um professor?"
 
-1011006-23 = "Eles finalmente deixaram você ir? Parece que foi uma jornada muito longa."
+1011006-23 = "ようやく解放されたのかい？随分と長丁場だったようだね。"
+1011006-24 = "Se fosse esse o caso, me pergunto se deveria ter mostrado minha cara desta vez."
 
-1011006-24 = "Se for esse o caso, eu deveria ter aparecido dessa vez?"
+1011006-25 = "Não, o quê? Se for uma reunião que faça sentido para mim participar, eu participo ativamente..."
 
-1011006-25 = "Não, o quê. Se for uma reunião em que minha presença faz sentido, estou participando ativamente. ......"
+1011006-26 = "Pelo que ouvi anteriormente, não foi esse o caso."
 
-1011006-26 = "Isso não era tudo o que tínhamos ouvido antes."
+1011006-27 = "……sim? O que você estava fazendo?"
 
-1011006-27 = "...... Hmm? O que eu estava fazendo?"
+1011006-28 = "É apenas uma caminhada. #nO som de tiros, granadas e até fofocas não chegam a este lugar."
 
-1011006-28 = "É apenas uma caminhada. #nPorque o som de tiros, granadas e até mesmo o som de fofocas não chega a este lugar."
+1011006-29 = "É perfeito para caminhar sozinho e tranquilo."
 
-1011006-29 = "É um ótimo lugar para caminhar sozinho e em paz."
+1011006-33 = "...Bem, deixe-me confessar."
 
-1011006-33 = "...... Não, vamos falar a verdade."
+1011006-34 = "Na verdade, eu estava esperando a professora passar."
 
-1011006-34 = "Na verdade, eu estava esperando que o médico passasse."
+1011006-35 = "[s5] \"Fui atraído até aqui pela voz de um pássaro...\"\n[s6] \"Foi a voz da criança na mão de Seia?\""
 
-1011006-35 = "[s5]\"Fui atraído para cá pelo som dos pássaros. ......\"\n[s6]\"Essa era a voz da garota na mão de Seia? \""
+1011006-38 = "Sons de pássaros...?"
 
-1011006-38 = "Birdsong. ......?"
+1011006-43 = "...Eu vejo."
 
-1011006-43 = "...... 成程."
+1011006-44 = "Pelo menos, não foi isso que eu pretendia."
 
-1011006-44 = "Pelo menos, essa não era minha intenção, você sabe."
+1011006-45 = "Talvez o que a professora ouviu tenha sido o choro dessa criança."
 
-1011006-45 = "Talvez tenha sido o grito dela que o médico ouviu."
+1011006-46 = "Mas não tenho certeza."
 
-1011006-46 = "Mas também não tenho certeza."
+1011006-47 = "Existem muitos outros pássaros aqui."
 
-1011006-47 = "Há muitos outros pássaros aqui."
+1011006-48 = "Esta criança não estará em minhas mãos para sempre."
 
-1011006-48 = "Ela também não estará em minhas mãos o tempo todo."
-
-1011006-49 = "[s7] \"Estou vendo. \"\n[s8] \"É um pouco estranho. \"\"\n[s8] \"Estou vendo."
+1011006-49 = "[s7] \"Entendo.\"\n[s8] \"É meio estranho.\""
 
 1011006-52 = "Os pássaros estão por toda parte."
 
-1011006-53 = "Qual foi a voz da criança que o professor ouviu?"
+1011006-53 = "Qual voz de criança a professora ouviu?"
 
-1011006-54 = "A resposta não é mais conhecida por ninguém. Como um enigma #n, é uma pergunta ruim."
+1011006-54 = "Ninguém sabe mais a resposta. #n Perguntas ruins também são boas para resolver enigmas."
 
-1011006-55 = "No entanto, era uma voz adorável que fazia com que você quisesse acompanhar, não era?"
+1011006-55 = "Porém, ela tinha uma voz fofa que dava vontade de segui-la, certo?"
 
-1011006-56 = "Ligeira curiosidade na vida cotidiana casual."
+1011006-56 = "Uma curiosidade sutil na vida cotidiana."
 
-1011006-57 = "Se você se sentir atraído pelo som desse grito, #nNão é uma experiência ruim."
+1011006-57 = "Se você se sente atraído pelo choro, acho que não é uma experiência ruim."
 
-1011006-58 = "[s9] \"Foi definitivamente uma boa experiência. \"\n[s10] \"Foi como cantar por diversão. \"\n[s10]""
+1011006-58 = "[s9] \"Foi definitivamente uma boa experiência.\"\n[s10] \"Eles pareciam estar se divertindo cantando.\""
 
-1011006-61 = "É bom ouvir isso. Fico feliz, mesmo que isso não seja um elogio para mim. #nElas são boas cantoras, essas garotas."
+1011006-61 = "Isso foi bom. Mesmo não tendo sido elogiado, estou feliz. #nEssas crianças cantam bem."
 
-1011006-62 = "E ......"
+1011006-62 = "E..."
 
-1011006-63 = "Na verdade, também não me importo de cantar."
+1011006-63 = "Na verdade, eu também não odeio cantar."
 
-1011006-64 = "...... Entendo."
+1011006-64 = "...Eu vejo."
 
-1011006-65 = "...... Heh. Os professores têm uma maneira de surpreender você, não é?"
+1011006-65 = "...Ei. Os professores surpreendem coisas assim."
 
-1011006-66 = "Eu adoraria estar aqui para cantar para os professores e mostrar a eles como se faz. ......"
+1011006-66 = "Eu gostaria de cantar para o professor aqui, mas..."
 
-1011006-67 = "Acho que vou deixar isso para hoje. Se vou permitir que você ouça o #n pela primeira vez, deve haver um momento mais desejável."
+1011006-67 = "Acho que vou deixar isso para você hoje. #nDeve haver um momento mais desejável para ouvi-lo pela primeira vez."
 
-1011006-71 = "Não olhe para mim dessa maneira. ......"
+1011006-71 = "Por favor, não me olhe assim..."
 
-1011006-72 = "Cantar é algo que significa muito para mim."
+1011006-72 = "As músicas têm um significado importante para mim."
 
-1011006-73 = "Deixe-me contar um pouco sobre os velhos tempos. ...... Eu era uma péssima conversadora quando era menina. Não importava o que eu dissesse, eu sempre deixava as pessoas desconfortáveis. ......"
+1011006-73 = "Deixe-me contar um pouco sobre o passado... Quando eu era jovem, eu era muito ruim em conversar. #nNão importa o que eu disse, apenas deixei todos ao meu redor desconfortáveis..."
 
-1011006-74 = "Foi extremamente difícil quebrar um hábito antigo e, na época, nunca me ocorreu consertá-lo."
+1011006-74 = "Foi extremamente difícil quebrar hábitos antigos e, na época, nunca pensei em mudá-los."
 
-1011006-75 = "Mas quero transmitir meus "verdadeiros sentimentos" sem ser mal interpretado. #Já tive muitas ocasiões em que me senti assim."
+1011006-75 = "Contudo, quero transmitir meus “verdadeiros sentimentos” sem ser mal interpretado. #nO momento de pensar dessa forma já me ocorreu muitas vezes."
 
-1011006-76 = "...... O único recurso que eu podia usar naquele momento era cantar."
+1011006-76 = "...Naquela época o único método que eu tinha era cantar."
 
-1011006-77 = "Tea Party, Sisterhood, Rescue Knights e alunos da Trinity."
+1011006-77 = "O Tea Party, a Irmandade, a Ordem de Socorro e os estudantes da Trinity."
 
-1011006-78 = "Algumas vezes foi uma forma de comunicação com outras escolas e outras vezes foi uma forma de expressar sentimentos por meio da música, quando necessário."
+1011006-78 = "Às vezes, mesmo interagindo com outras escolas, eu expressava meus sentimentos por meio de músicas quando necessário."
 
-1011006-79 = "Sempre hipócrita para mim, e nem mesmo honesto em minhas próprias palavras."
+1011006-79 = "Para alguém como eu, que é sempre hipócrita e nem consegue falar honestamente minhas próprias palavras."
 
-1011006-80 = "Uma música dedicada a alguém é a única maneira de expressar "sentimentos verdadeiros" e ......"
+1011006-80 = "Uma música dedicada a alguém é a única maneira de expressar seus verdadeiros sentimentos..."
 
-1011006-81 = "Eu só canto quando me viro e digo a eles como "realmente me sinto"."
+1011006-81 = "Em outras palavras, só canto quando quero transmitir meus verdadeiros sentimentos."
 
-1011006-90 = "Você está me mostrando o quanto está decepcionado."
+1011006-90 = "Ele claramente parece desapontado."
 
-1011006-91 = "Não quero ser maldoso com nada, você sabe."
+1011006-91 = "Não quero ser mau."
 
-1011006-92 = "Os professores do ...... sempre entendem meus "verdadeiros sentimentos"."
+1011006-92 = "...Meu professor sempre entende meus “verdadeiros sentimentos”."
 
-1011006-93 = "Não precisei dizer a eles, pois eles entendem. ...... Pensei que a oportunidade de mostrar minha voz cantada nunca chegaria."
+1011006-93 = "Achei que nunca teria a chance de mostrar minha voz para cantar, porque eles entenderiam sem que eu tivesse que contar."
 
-1011006-94 = "No entanto, também é verdade que falei demais fora do personagem. #A culpa é minha por ter atraído inadvertidamente o interesse do professor. ......"
+1011006-94 = "Porém, também é verdade que acabei falando demais sem motivo. #nA culpa foi minha por atrair inadvertidamente o interesse do professor..."
 
-1011006-95 = "Não é uma perda de tempo. ...... Talvez agora seja o melhor momento."
+1011006-95 = "Não espere...Talvez agora seja o melhor momento."
 
-1011006-96 = "Professor ......, você é um gênio em fazer com que eles se envolvam antes que você perceba."
+1011006-96 = "Professor... você é um gênio que pode fazer os outros se sentirem como você antes que percebam."
 
-1011006-97 = "Não há escolha. Posso lhe dizer como realmente me sinto em uma música?"
+1011006-97 = "Eu não posso evitar. Vamos expressar nossos “verdadeiros sentimentos” através da música."
 
-1011006-98 = "Desculpe-me por ser a cappella, mas deixarei o acompanhamento do ...... para os pássaros."
+1011006-98 = "Não posso fazer a cappella, mas deixo o acompanhamento para os pássaros."
 
-1011006-99 = "Professor."
+1011006-99 = "professor."
 
-1011006-106 = "Cante para esse dia e para seu professor: ......"
+1011006-106 = "Eu canto para este dia e minha professora..."
 
-1011006-107 = "É minha "música de agradecimento"."
+1011006-107 = "Esta é a minha \"música de agradecimento\"."
 

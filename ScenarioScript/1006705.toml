@@ -1,171 +1,170 @@
 [translation]
-1006705-1 = "local de descanso e relaxamento"
+1006705-1 = "Um lugar relaxante"
 
-1006705-2 = "Placa de Petri e sala de descanso"
+1006705-2 = "Placa de Petri/sala de descanso"
 
-1006705-5 = "(Não consegui dormir bem porque estava preocupado com a segurança de Toki)"
+1006705-5 = "(Tive problemas para dormir porque estava preocupado com a segurança de Toki.)"
 
-1006705-6 = "(A sonolência apareceu várias vezes, mas todas as vezes foi ......)"
+1006705-6 = "(Senti sono várias vezes, mas todas as vezes...)"
 
-1006705-8 = "Este é o indicativo de chamada Zero Four. #nVocês estão em ......"
+1006705-8 = "Este é o indicativo zero quatro. #nMinha localização atual é..."
 
-1006705-10 = "[ns] \"Toki! \""
+1006705-10 = "[ns] \"Toki!?\""
 
-1006705-11 = "(Embora a comunicação seja cortada imediatamente, após um curto período de tempo ela estará disponível em ......)"
+1006705-11 = "(Embora a comunicação seja interrompida imediatamente, depois de um tempo...)"
 
-1006705-16 = "Este é o indicativo de chamada Zero Four. #nResponda ...... e, por favor, ...... ......"
+1006705-16 = "Este é o indicativo zero quatro. #nResponda... por favor..."
 
-1006705-17 = "(Voz interrompida ......)"
+1006705-17 = "(Voz que tende a falhar...)"
 
-1006705-22 = "...... Sim. #nNext: ......"
+1006705-22 = "...... eu entendi. #nPróximo..."
 
-1006705-23 = "(E assim, pela enésima vez, ......)"
+1006705-23 = "(Então, várias vezes...)"
 
-1006705-28 = "-A linha foi restaurada."
+1006705-28 = "--A linha foi restaurada."
 
-1006705-29 = "...... Ei, por que o professor?"
+1006705-29 = "...Hum, por que o professor?"
 
-1006705-30 = "[s]\"ikki"! O que aconteceu com você! \""
+1006705-30 = "[s] \"Toki! O que aconteceu!?\""
 
-1006705-32 = "Sou ......"
+1006705-32 = "EU……"
 
-1006705-37 = "[ns] \"I'm out again. ....... \""
+1006705-37 = "[ns] \"Cortou de novo...\""
 
-1006705-40 = "Missão concluída: ...... Bom trabalho, pessoal: ......"
+1006705-40 = "Missão cumprida... Obrigado a todos pelo seu trabalho árduo..."
 
-1006705-42 = "(Não importava quantas vezes eu ligasse, só recebia uma mensagem da secretária eletrônica com a voz de Toki)."
+1006705-42 = "(Não importa quantas vezes eu liguei, acabei de receber uma secretária eletrônica com a voz de Toki.)"
 
-1006705-43 = "(Eu deveria ter ficado acordado até o amanhecer, mas adormeci antes que percebesse)"
+1006705-43 = "(Eu deveria ficar acordado até o amanhecer, mas adormeci antes que percebesse.)"
 
-1006705-48 = "(Pássaros cantando, recuperando vagamente a consciência)"
+1006705-48 = "(Ele recupera a consciência devido ao som dos pássaros cantando)"
 
-1006705-49 = "(Sonâmbulo, coloquei meu braço sob o edredom e a segurei perto de mim. ......)"
+1006705-49 = "(Com os olhos sonolentos, estendi os braços no futon e a abracei...)"
 
-1006705-58 = "(Por que o calor da pele humana macia ......)"
+1006705-58 = "(Por alguma razão, sinto o calor da pele humana macia...)"
 
-1006705-61 = "[wa:1000]- n......[wa:1200] teacher......?"
+1006705-61 = "[wa:1000]― ん……[wa:1200]先生……？"
+1006705-64 = "[wa:900]- O que aconteceu...?"
 
-1006705-64 = "[wa:900]- Como posso ajudá-lo: ......?"
+1006705-66 = "[wa:1000]- Você tem aquela cara [wa:1000] estranha [wa:300]...?"
 
-1006705-66 = "[wa:1000]- Uma cara tão [wa:1000]engraçada [wa:300]......?"
-
-1006705-69 = "[ns] \"Toki-san nnnn! \""
+1006705-69 = "[ns] \"T-Toki-sannnnnnn!?\""
 
 1006705-70 = "[wa:2000]- Se você não se importa,"
 
-1006705-72 = "[wa:500]- Posso [wa:500]dormir [wa:300]um pouco mais ......?"
+1006705-72 = "[wa:500]― Tudo bem se eu dormir um pouco mais [wa:500] [wa:300]...?"
 
-1006705-75 = "[wa:3600]- Hmm. ......? [wa:1800]Por enquanto, [wa:700]levante-se e vá para ......?"
+1006705-75 = "[wa:3600]- Hmm...? [wa:1800]Por enquanto, [wa:700]apenas fique acordado...?"
 
-1006705-77 = "[wa:1900]- ...... Eu odeio isso. [wa:1200]Eu [wa:500]quero [wa:500]mais [wa:500]sono."
+1006705-77 = "[wa:1900]― ...eu não gosto disso. [wa:1200]Quero [wa:500] dormir mais [wa:500]."
 
-1006705-80 = "[wa:2000]- e [wa:500]esta cama ......"
+1006705-80 = "[wa:2000]― E [wa:500] essa cama..."
 
-1006705-82 = "[wa:600]- É quente, [wa:1500]fofo, [wa:1800]eu gosto."
+1006705-82 = "[wa:600]- É quente, [wa:1500]suave e [wa:1800]eu gosto."
 
-1006705-85 = "[wa:2000]- O que quer que o professor [wa:500]diga, [wa:1800]eu vou dormir. ......"
+1006705-85 = "[wa:2000] - Não importa o que o professor [wa:500] diga, [wa:1800] eu vou dormir..."
 
-1006705-87 = "[wa:2000]- nn......[wa:1600] sleepy......."
+1006705-87 = "[wa:2000]- Hmm... [wa:1600] Estou com sono..."
 
-1006705-91 = "(Não houve nenhum sinal de que o íbis tenha acordado depois disso. ......)"
+1006705-91 = "(Mesmo depois disso, não havia sinal de Toki acontecendo...)"
 
-1006705-92 = "(Era fim de tarde quando ele acordou)"
+1006705-92 = "(Era início da tarde quando acordei.)"
 
-1006705-97 = "......."
+1006705-97 = "……."
 
-1006705-98 = "[s]\"......Por que você estava dormindo ao meu lado? \""
+1006705-98 = "[s] \"...Por que você estava dormindo ao meu lado?\""
 
-1006705-99 = "Os professores às vezes fazem perguntas estranhas. #nPorque havia uma cama lá."
+1006705-99 = "O professor às vezes faz perguntas estranhas. #nPorque tinha uma cama ali."
 
-1006705-100 = "[s]\"Você parece um alpinista: ......\""
+1006705-100 = "[s] \"Mesmo que as pessoas digam coisas como eu sou um montanhista...\""
 
-1006705-101 = "Não tenho escolha, vou explicar. #Acabei de voltar de uma missão à meia-noite. ......"
+1006705-101 = "Não tem jeito, vou explicar. #nTerminei minha missão tarde da noite e voltei..."
 
-1006705-102 = "Vi uma luz acesa no escritório da Sherle, então fiquei curioso e fui visitá-la."
+1006705-102 = "Tinha uma luz acesa no escritório do Petri, então fiquei curioso e fui até lá."
 
-1006705-103 = "[s]\"Uh, ...... porta, ela não estava fechada? \""
+1006705-103 = "[s] \"Hum...a porta não estava fechada?\""
 
-1006705-104 = "Doutor, eu sou um C&C."
+1006705-104 = "Senhor, meu nome é C&C."
 
-1006705-105 = "[s]\"......Sim, certo. \""
+1006705-105 = "[s] \"...Sim, isso mesmo.\""
 
-1006705-106 = "A primeira coisa que vi quando entrei no escritório foi uma professora sentada em sua mesa com as luzes acesas."
+1006705-106 = "A primeira coisa que vi quando entrei na sala foi o professor caído sobre a mesa com a luz acesa."
 
-1006705-125 = "Seu professor sabe que sou a empregada perfeita e o melhor agente. Como sou #n, é natural que eu leve o professor para a cama."
+1006705-125 = "A professora sabe que sou a empregada perfeita e a melhor agente. #nEntão é natural carregar o professor para a cama."
 
-1006705-126 = "Essa missão foi um pouco mais desafiadora e o horário também era tarde da noite. ......"
+1006705-126 = "Essa missão foi um pouco difícil e já era tarde da noite..."
 
-1006705-127 = "Até eu, que sou uma pessoa peculiar, estava no limite da sonolência."
+1006705-127 = "Como esperado, até eu estava no limite da sonolência."
 
-1006705-128 = "Depois, ...... como havia uma cama à minha frente na qual eu queria me deitar."
+1006705-128 = "Naquele momento...havia uma cama bem na minha frente que parecia querer que eu me deitasse."
 
-1006705-129 = "Pode-se argumentar que não havia outra opção."
+1006705-129 = "Você poderia dizer que não havia outra escolha."
 
-1006705-130 = "[s]\"Então ele dormiu ao lado de ....... \""
+1006705-130 = "[s] \"Então... eu dormi perto de você.\""
 
-1006705-131 = "Sim."
+1006705-131 = "isso mesmo."
 
-1006705-132 = "A propósito, o conforto para dormir foi excelente. Elogios rápidos."
+1006705-132 = "Aliás, a cama era super confortável. Vou te dar um elogio rápido."
 
-1006705-133 = "[s1] \"yeah ...... thanks ....... \"\n[s2] \"Da próxima vez, não entre sem permissão. \""
+1006705-133 = "[s1] \"Sim...obrigado...\"\n[s2] \"Da próxima vez, não entre sem permissão.\""
 
-1006705-136 = "Hoje eu estava no limite da sonolência."
+1006705-136 = "Eu estava no meu limite de sonolência hoje."
 
-1006705-137 = "[\"Se você está com sono, você dorme em algum lugar? \""
+1006705-137 = "[s] \"Se você está com sono, você dorme em algum lugar?\""
 
-1006705-138 = "......!"
+1006705-138 = "...!"
 
-1006705-142 = "Por favor, aguarde, senhor. #Eu lhe darei algum tempo para pensar sobre isso."
+1006705-142 = "Por favor, espere, senhor. #nVou tirar um tempo para pensar sobre isso."
 
-1006705-143 = "[s]\"eh, yeah ....... \""
+1006705-143 = "[s] \"Eh, sim...\""
 
-1006705-149 = "(...... pouco tempo depois)"
+1006705-149 = "(...... depois de um tempo)"
 
-1006705-150 = "(Eu estava prestes a dizer que você não precisa levar isso tão a sério. ......)"
+1006705-150 = "(Eu ia dizer que não há necessidade de levar isso tão a sério...)"
 
-1006705-151 = "Todo lugar não dorme ....... #n...... não está claro."
+1006705-151 = "Eu não durmo em lugar nenhum... #n...mas não entendo direito."
 
-1006705-152 = "[s]\"\"......? \""
+1006705-152 = "[s] \"O que você quer dizer...?\""
 
-1006705-153 = "Não importa quantas vezes eu pense sobre isso, não me sinto confortável dormindo na cama de outra pessoa."
+1006705-153 = "Não importa quantas vezes eu pense nisso, não me sinto confortável dormindo na cama de outra pessoa."
 
-1006705-154 = "Mas não sei por que me sinto assim."
+1006705-154 = "Mas nem sei por que me sinto assim."
 
-1006705-155 = "E ...... Por que um professor estaria seguro?"
+1006705-155 = "E... por que está tudo bem se for professor?"
 
-1006705-156 = "[s]\"Ei, por que não ......? \""
+1006705-156 = "[s] \"P-por quê?...?\""
 
-1006705-157 = "Nem mesmo os professores entendem."
+1006705-157 = "Até o professor não entende."
 
-1006705-158 = "Se for o caso, entre em contato com ...... e vamos deixar esse assunto de lado."
+1006705-158 = "Nesse caso, vamos encerrar esse problema aqui."
 
-1006705-159 = "[s]\"Muito cedo para desistir! \""
+1006705-159 = "[s] \"Não é muito cedo para desistir!?\""
 
-1006705-160 = "Não faz sentido gastar muito tempo em algo em que você não consegue nem pensar. #nPorque é ineficiente."
+1006705-160 = "Não adianta perder tempo com algo que não faz sentido. #nÉ ineficiente."
 
-1006705-161 = "Percebemos que havia questões muito mais importantes do que isso."
+1006705-161 = "Percebi que havia uma questão muito mais importante do que essa."
 
-1006705-162 = "[\"O que é tão importante? \""
+1006705-162 = "[s] \"Isso é tão importante?\""
 
-1006705-163 = "Sim, seria uma questão muito importante ...... e crítica."
+1006705-163 = "Sim, é muito importante... e um problema sério."
 
-1006705-164 = "Ou seja, tenho tempo disponível."
+1006705-164 = "Isso significa que estou livre."
 
-1006705-165 = "[ns] \"Você não me disse que isso era importante e crítico! \""
+1006705-165 = "[ns] \"Você não disse que era importante!?\""
 
-1006705-166 = "O senhor não consegue entender a gravidade da situação, doutor?"
+1006705-166 = "Você não consegue entender a gravidade da situação?"
 
-1006705-167 = "Diz-se que o tédio mata os coelhos - se eles não brincarem, morrem."
+1006705-167 = "Dizem que o tédio mata coelhos – se você não brincar, você morre."
 
-1006705-168 = "Se o médico não me deixar em paz, ficarei até que ...... eu esteja pronto para isso."
+1006705-168 = "Se o professor não se importar...eu fico até dar vontade."
 
-1006705-169 = "Ou será que o professor está fazendo isso de propósito?"
+1006705-169 = "Ou o professor é... de propósito?"
 
-1006705-170 = "[s]\"...... está brincando ou algo assim? \""
+1006705-170 = "[s] \"...Você está brincando?\""
 
-1006705-176 = "Eu já contei alguma piada?"
+1006705-176 = "Eu já contei uma piada?"
 
-1006705-178 = "(Embora ele tenha ficado intrigado com a atitude muito imponente do íbis-de-crista. ......)"
+1006705-178 = "(Fiquei confuso com a atitude excessivamente digna de Toki...)"
 
-1006705-179 = "(Nesse dia, Toki e eu nos divertimos muito)."
+1006705-179 = "(Toki e eu nos divertimos muito naquele dia.)"
 

@@ -1,159 +1,87 @@
 [translation]
 104050-1 = "Episódio 5; Solução fácil"
-
 104050-2 = "Desconectei a Arca com sucesso. #nAcho que não conseguirei hackeá-la por enquanto."
-
 104050-3 = "sim. O sistema Utnapishtim que foi desligado também está de volta!"
-
 104050-4 = "Se for isso...! Himari-senpai, por favor! !"
-
-104050-8 = "Sim. A partir de agora, o sistema de segurança será reconfigurado. #nRestauraremos o controle da "nave principal de Utnapishtim"."
+104050-8 = "Sim. A partir de agora, o sistema de segurança será reconfigurado. #nRestauraremos o controle da \"nave principal de Utnapishtim\"."
 
 104050-9 = "Devemos recuperar o controle da Arca...#nRio, ordene que Toki se retire!"
-
-104050-10 = "...Toki, esse "santuário" desaparecerá em breve."
+104050-10 = "...Toki, esse \"santuário\" desaparecerá em breve."
 
 104050-15 = "Sim, então até então..."
-
 104050-16 = "--Então não precisamos mais brigar. #nToki, evacue rapidamente."
-
 104050-22 = "...Sinto muito, Rio-sama. A retirada é... difícil."
-
 104050-26 = "Toki! ?"
-
 104050-27 = "Meu corpo não se moverá mais... Mesmo que ainda restem inimigos..."
-
 104050-28 = "Toki... pelo menos vá para um lugar seguro. #nEstamos solicitando sua ajuda, por favor, imediatamente-"
-
 104050-29 = "...Não, está tudo bem. #nEntendo que a ajuda não virá..."
-
 104050-33 = "Dada a distância entre este local e o Millennium, é impossível chegar lá imediatamente."
-
 104050-39 = "...Sinto muito, Rio-sama."
-
 104050-41 = "! ?"
-
 104050-42 = "E embora tenha sido pouco tempo... foi uma honra estar com você, Diretora Himari."
-
 104050-43 = "Toki...que diabos..."
-
 104050-44 = "Eu também... na verdade..."
-
 104050-45 = "...Eu queria brigar com a Placa de Petri."
-
 104050-46 = "...Junto com meus superiores da C&C."
-
-104050-49 = "...Senhor. Rio. Finalmente, por favor me diga o código de autodestruição para [ruby=Abi-Eshuh]"Abi-Eshuh"[/ruby]."
+104050-49 = "...Senhor. Rio. Finalmente, por favor me diga o código de autodestruição para \"Abi-Eshuh\"."
 
 104050-50 = "...! ?"
-
 104050-51 = "Se for Rio-sama, ele está preparado... caso eu o traia."
-
 104050-55 = "Esta energia “armada” deverá ser capaz de destruir o Sanctum."
-
 104050-56 = "...Não, tal coisa não existe. Para você, isso..."
-
 104050-59 = "...Você disse que era um problema no bonde. #nMinha vida ou a sobrevivência de Kivotos - qual escolher é mais claro do que olhar para o fogo."
-
 104050-60 = "Naquela época, Rio-sama achou que alguém deveria puxar a alavanca..."
-
 104050-61 = "Não, Toki. Essa... essa pergunta..."
-
 104050-62 = "...Eu estava errado sobre a própria premissa."
-
 104050-63 = "...?"
-
 104050-64 = "Eu nem procurei alguém para me ajudar..."
-
 104050-65 = "……."
-
 104050-67 = "Eu gostaria que houvesse uma resposta simples como essa..."
-
 104050-69 = "isso é--"
-
 104050-73 = "Confirmação de destino. Capturou o alvo."
-
 104050-78 = "...! ?"
-
 104050-79 = "Isso é...?"
-
 104050-90 = "Bem, idosos...?"
-
 104050-91 = "Yaho Toki-chan! Eu vim ajudar ♪"
-
 104050-92 = "Sim, consegui chegar a tempo."
-
 104050-93 = "Sim, foi por pouco."
-
 104050-97 = "Ei, cara novo aí."
-
-104050-100 = "Nunca mais diga tal frase na frente do seu [ruby=・]amigo[/ruby][ruby=・]amigo[/ruby]."
-
+104050-100 = "Nunca mais diga tal frase na frente do seu amigoamigo."
 104050-101 = "Como você chegou aqui..."
-
 104050-103 = "Ufa... você conseguiu chegar a tempo?"
-
 104050-104 = "Não, Noé...! ? Garota, como diabos você...!"
-
 104050-105 = "A menos que você possa prever o futuro, algo assim não acontecerá..."
-
 104050-106 = "Sim, saí antes que essa situação acontecesse. #n――Usando o helicóptero mais rápido do milênio."
-
 104050-107 = "O que diabos..."
-
 104050-109 = "...Isso é o que eu queria."
-
 104050-110 = "...! !"
-
 104050-111 = "``Sonhos precognitivos'' ---Não posso dizer isso, mas é uma habilidade muito próxima...ou devo descrevê-la como ``intuição''..."
-
 104050-112 = "Tive a sensação de que isso iria acontecer... embora seja difícil colocar em palavras com precisão."
-
 104050-113 = "Eu não tinha certeza, mas Noah acreditou em mim."
-
 104050-114 = "Hehe, isso é ultrajante. #nEnquanto todos trabalhavam duro, eu fiz o que pude."
-
 104050-115 = "Por alguma razão, havia juniores ao meu redor que tinham boa intuição...#nAlém disso, tive uma sensação semelhante."
-
 104050-117 = "Pois bem, todos da C&C. #nObrigado pelo seu apoio, Toki-san."
-
 104050-121 = "……."
-
 104050-122 = "É isso, presidente Rio..."
-
 104050-123 = "Não é bom ter uma solução fácil como essa de vez em quando? #n... Principalmente para aqueles que foram obrigados a sofrer porque conheciam o futuro."
-
 104050-124 = "……."
-
-104050-129 = "...Por enquanto, vamos começar a "limpar"!"
+104050-129 = "...Por enquanto, vamos começar a \"limpar\"!"
 
 104050-130 = "Ah, lide com os restos."
-
-104050-131 = "おらぁ！ Vamos! !"
+104050-131 = "Ei! Vamos!"
 
 104050-133 = "É hora do show!"
-
 104050-136 = "presidente? Por favor, seja forte!"
-
 104050-140 = "Se você tem algo a dizer, faça-o depois de retornar ao Millennium! #nAgora não é hora de ficar atordoado!"
-
 104050-141 = "...Isso mesmo. #nEu entendo, Yuuka."
-
 104050-142 = "Exatamente...me pergunto se o presidente era assim...?"
-
 104050-146 = "Ah, você não sabia? A Irmã Mais Velha é assim, mas por dentro ela tem um coração que parece água turva em uma fossa séptica."
-
 104050-150 = "...Eu não entendo o exemplo?"
-
 104050-156 = "Este trabalho também está concluído. Usando o dispositivo computacional de Utnapishtim, reiniciaremos a sequência de autodestruição da Arca. Todos, preparem-se."
-
 104050-157 = "Mas..."
-
-104050-158 = "Bem... a única maneira de fazer isso é esta nave explodir junto com a "Arca"."
+104050-158 = "Bem... a única maneira de fazer isso é esta nave explodir junto com a \"Arca\"."
 
 104050-159 = "Bem, então e nós...?"
-
-104050-160 = "...Vou devolvê-lo ao solo usando a "sequência de fuga" que preparei."
+104050-160 = "...Vou devolvê-lo ao solo usando a \"sequência de fuga\" que preparei."
 
 104050-162 = "Próxima vez; condições equivalentes"
-

@@ -1,151 +1,50 @@
 [translation]
 1007905-1 = "Espíritos afins"
-
-1007905-2 = "(......) procurando por [ruby=misaka]Misaka[/ruby] em um centro de jogos próximo."
-
+1007905-2 = "(......) procurando por Misaka em um centro de jogos próximo."
 1007905-3 = "(Encontrado colado em uma prateleira em frente a um mostruário de prêmios)"
-
 1007905-10 = "Esta é a ...... peça única ......"
-
 1007905-11 = "[s1] \"......Misaka? \"\n[s2] \"Isso o incomoda? \""
-
 1007905-14 = "O que é esse ......?"
-
 1007905-15 = "...... Você não acha que ele está com defeito?"
-
 1007905-16 = "Não, mas está em exibição. ......"
-
-1007905-21 = "[ns3] \"Oh~ \"\n[ns4] \"As pessoas que o veem pela primeira vez podem reagir da mesma forma. \"\"\n[ns4]""
-
-1007905-24 = "Hmm?"
-
-1007905-25 = "Esse é o tipo de design de que você está falando? #n...... Ho, realmente?"
-
-1007905-26 = "Ele é um pouco ...... único em seu design, em muitos aspectos."
-
-1007905-27 = "...... O que, existem outros tipos? O companheiro desse cara é ......?"
-
-1007905-28 = "Vejamos: ......"
-
-1007905-35 = "Ho, você está realmente aqui. Ha, ha: ......"
-
-1007905-36 = "...... O quê, ainda está lá?"
-
-1007905-37 = "Se você for à rua comercial, poderá ver mais: ......?"
-
-1007905-38 = "Um personagem razoavelmente conhecido em Kivothos é uma piada do ......! #nVocê deve estar confundindo-o com outra coisa."
-
-1007905-39 = "Bem, sim, estou vendo. Hmmm. ......"
-
-1007905-40 = "...... Professor."
-
-1007905-41 = "Pela primeira vez desde que cheguei aqui, sinto que estou em outro mundo."
-
-1007905-42 = "[s5] \"Eu nunca vi você parecer tão surpreso. \"\n[s6] \"Então, isso é muito ......? "
-
-1007905-45 = "...... O mundo é um lugar grande."
-
-1007905-46 = "E é engraçado que eu seja o único a dizer o que está acontecendo aqui: ......"
-
-1007905-47 = "O quê, não?"
-
-1007905-48 = "...... Oh, ela é uma personagem bastante agradável."
-
-1007905-49 = "Estou vendo: ......"
-
-1007905-50 = "[s7] \"As pessoas que gostam disso são classificadas como um pouco exigentes. \"\n[s8] \"Há um certo número de pessoas que são negativas. \""
-
-1007905-53 = "Entendo. ...... Gosta de coisas, certo."
-
-1007905-54 = "Hmmm. ............."
-
-1007905-58 = "[ns9] \"......Misaka? \"\n[ns10] \"What's wrong? \"\"}"
-
-1007905-61 = "Não, mais ou menos. ......"
-
-1007905-62 = "Hmmm, há uma sensação de déjà vu."
-
-1007905-63 = "...... Oh, ok."
-
-1007905-64 = "Gekota."
-
-1007905-65 = "[s11] \"Gekota? \"\n[s12] \"Eu nunca ouvi esse nome antes. \"\n[s12]""
+1007905-21 = "[ns3] \"Oh~ \"\n[ns4] \"As pessoas que o veem pela primeira vez podem reagir da mesma forma. \"\"\n[ns4]\"\"\n1007905-24 = \"Hmm?\"\n1007905-25 = \"Esse é o tipo de design de que você está falando? #n...... Ho, realmente?\"\n1007905-26 = \"Ele é um pouco ...... único em seu design, em muitos aspectos.\"\n1007905-27 = \"...... O que, existem outros tipos? O companheiro desse cara é ......?\"\n1007905-28 = \"Vejamos: ......\"\n1007905-35 = \"Ho, você está realmente aqui. Ha, ha: ......\"\n1007905-36 = \"...... O quê, ainda está lá?\"\n1007905-37 = \"Se você for à rua comercial, poderá ver mais: ......?\"\n1007905-38 = \"Um personagem razoavelmente conhecido em Kivothos é uma piada do ......! #nVocê deve estar confundindo-o com outra coisa.\"\n1007905-39 = \"Bem, sim, estou vendo. Hmmm. ......\"\n1007905-40 = \"...... Sensei.\"\n1007905-41 = \"Pela primeira vez desde que cheguei aqui, sinto que estou em outro mundo.\"\n1007905-42 = \"[s5] \"Eu nunca vi você parecer tão surpreso. \"\n[s6] \"Então, isso é muito ......? \"\n1007905-45 = \"...... O mundo é um lugar grande.\"\n1007905-46 = \"E é engraçado que eu seja o único a dizer o que está acontecendo aqui: ......\"\n1007905-47 = \"O quê, não?\"\n1007905-48 = \"...... Oh, ela é uma personagem bastante agradável.\"\n1007905-49 = \"Estou vendo: ......\"\n1007905-50 = \"[s7] \"As pessoas que gostam disso são classificadas como um pouco exigentes. \"\n[s8] \"Há um certo número de pessoas que são negativas. \"\"\n1007905-53 = \"Entendo. ...... Gosta de coisas, certo.\"\n1007905-54 = \"Hmmm. .............\"\n1007905-58 = \"[ns9] \"......Misaka? \"\n[ns10] \"What's wrong? \"\"}\"\n1007905-61 = \"Não, mais ou menos. ......\"\n1007905-62 = \"Hmmm, há uma sensação de déjà vu.\"\n1007905-63 = \"...... Oh, ok.\"\n1007905-64 = \"Gekota.\"\n1007905-65 = \"[s11] \"Gekota? \"\n[s12] \"Eu nunca ouvi esse nome antes. \"\n[s12]\""
 
 1007905-68 = "Estou vendo: ......"
-
 1007905-69 = "Isso também é verdade: ......"
-
 1007905-70 = "'Senhor, talvez eu não tenha pensado um pouco sobre isso."
-
 1007905-71 = "Até mesmo essa personagem, eu não a entendo muito bem, mas tenho certeza de que ela é importante para alguém ......#n."
-
 1007905-72 = "...... Eu estava em uma situação semelhante na escola da cidade."
-
 1007905-73 = "Essa garota ...... Hum, como eu disse que ela se chamava?"
-
 1007905-74 = "...... peroro? Dos Momofriends?"
-
 1007905-75 = "Sinto que Peroro também está muito próximo de ...... Gecota."
-
 1007905-76 = "...... hmm."
-
 1007905-77 = "...... Se você pensar bem, fica um pouco mais bonito."
-
 1007905-78 = " \"\n[s14] \"Parecia que você estava sentindo pena de mim. ...... \""
-
 1007905-81 = "Ei, o que isso importa? Não me importo com os detalhes!"
-
 1007905-82 = "Decisão. Talvez tenha sido algum tipo de destino que me trouxe a esta cidade."
-
 1007905-83 = "Vamos comprar pelo menos uma coisa."
-
 1007905-84 = "Vejamos, a área de vendas sem prêmios está em ...... ali."
-
 1007905-88 = "Hmmm ...... Ok, já me decidi por essa. Doutor, onde está a caixa registradora?"
-
 1007905-89 = "O quê, você está comprando para mim em vez de comprar para o ......?"
-
 1007905-90 = "Hmm, você está bem?"
-
 1007905-91 = "...... Ah, você quer dizer que não há problema em ser um peroro?"
-
 1007905-95 = "Hmmm. ...... Certo."
-
 1007905-96 = "Não sei, mas se eu o carregar comigo de qualquer maneira, vou me apegar a ele, não é? Vou tentar #n amá-lo!"
-
 1007905-97 = "[s15] \"É um nível de esforço que precisa ser feito. ...... \"\n[s16] \"Então não há mais nada a dizer de minha parte. \""
-
 1007905-100 = "OK!"
-
 1007905-101 = "Vou pedir que você faça isso agora! Perro!"
-
 1007905-104 = "[wa:500]- [log=미사카]Uh-oh. [/log]"
-
 1007905-107 = "[wa:500]- [log=미사카]Se você continuar olhando para ele,[/log]"
-
 1007905-109 = "- [log=미사카]Estou começando a parecer [wa:720]um pouco [wa:1740]bonito[/log] como ......[/log]."
-
 1007905-112 = "[wa:500]- [log=미사카]Afinal de contas, [wa:970]isso é um porco ......? [/log]"
-
 1007905-114 = "- [log=mi사카]Ou é um hipopótamo? [/log]"
-
 1007905-117 = "- [log=미사카]...... O que, [wa:200]pássaros! [wa:810]Você está mentindo!!! [/log]"
-
 1007905-120 = "[ns17] \"Quicksilver como um porco ou um hipopótamo. ...... \"\n[ns18] \"Eu tenho um bico e asas aqui. ......\""
-
 1007905-124 = "[wa:500]- [log=미사카]Então, [wa:560]é isso, ......[/log]"
-
 1007905-126 = "- [log=미사카]Haha ......[wa:1500] Bem, [wa:730]de qualquer forma. [/log]"
-
 1007905-129 = "[wa:500]- [log=미사카]Ou, [wa:1300]pensando bem, ......[/log]"
-
-1007905-131 = "- [log=미사카]Este é [wa:610]um [wa:1010]presente[/log] de seu professor. [/log]"
-
+1007905-131 = "- [log=미사카]Este é [wa:610]um [wa:1010]presente[/log] de seu sensei. [/log]"
 1007905-134 = "[wa:800]- [log=미사카]......[/log][wa:700] Cuidarei bem de você. [/log]"
-
 1007905-136 = "- [log=미사카]Obrigado, [wa:340]professor. [/log]"
-
 1007905-139 = "(Foi assim que apresentei o bicho de pelúcia à Misaka: ......)"
-
 1007905-140 = "(Ele continuou olhando com admiração enquanto saía do salão de jogos)."
-

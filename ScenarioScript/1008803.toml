@@ -1,127 +1,17 @@
 [translation]
 1008803-1 = "código de vestimenta"
-
 1008803-4 = "(Ela visitou o escritório do faz-tudo no momento de seu encontro com Kayoko)."
-
 1008803-8 = "...... Ah, senhor."
-
 1008803-9 = "Você pode entrar."
-
-1008803-10 = "[ns1] \"Excuse me - ⌘"\n[ns2] Abra a porta e entre na sala."
-
-1008803-17 = "Eu estava esperando."
-
-1008803-18 = "Isso é mais incomum. Não acredito que esteja passando por aqui a esta hora."
-
-1008803-22 = "...... Oh, outros membros?"
-
-1008803-23 = "Eles não estão aqui no momento. Cada um de nós tem seu próprio trabalho. ......"
-
-1008803-24 = "Mas todos queriam ver o professor, então ele disse que passaria lá em outro momento."
-
-1008803-25 = "Agora ......."
-
-1008803-29 = "Você disse que estava procurando algo?"
-
-1008803-30 = "Espere um pouco. Vou atender agora."
-
-1008803-34 = "Ah, eu tinha isso por aqui. ......"
-
-1008803-38 = "Está um pouco bagunçado. ......"
-
-1008803-39 = "Hum, ......."
-
-1008803-43 = "[ns3] \"Kayoko. Esse cartão pode ser encontrado em ....... \"\n[ns4] \"O vestido que você usou no outro dia quando pediu? \"\"\n[ns4]]"
-
-1008803-46 = "...... sim?"
-
-1008803-47 = "Oh, aqui. ......."
-
-1008803-48 = "Bem, ...... não é um item de uso diário e, se eu o uso, é somente quando sou solicitado a fazê-lo."
-
-1008803-49 = "Por isso, eu os guardo em caixas de papelão em meu escritório."
-
-1008803-50 = " \"\n[s6] \"Não é bom demais para deixá-lo? \"\n[s6] \""
-
-1008803-53 = "Você acha que sim? ......"
-
-1008803-54 = "Não que eu o usasse normalmente. ......"
-
-1008803-58 = "O ...... ficou bem em você, quer que eu o use às vezes?"
-
-1008803-62 = "...... Well."
-
-1008803-63 = "Tenho certeza de que você está lisonjeado, mas espero que esteja ...... feliz com o elogio. ......"
-
-1008803-64 = "Mas você não precisa dizer isso."
-
-1008803-65 = "E eu me conheço muito bem."
-
-1008803-66 = "...... não é lisonjeiro? Ho, você quer dizer isso......?"
-
-1008803-69 = "Realmente ...... já ......."
-
-1008803-70 = "OK, eu entendo. Essa conversa acabou. Eu sei que você, professor, tem algo a fazer."
-
-1008803-74 = "Espere um pouco mais. Eu o procurarei em breve."
-
-1008803-81 = "(Um pouco mais tarde, Kayoko me ajudou a encontrar os materiais de que eu precisava)."
-
-1008803-85 = "Foram eles."
-
-1008803-89 = "Sim, isso."
-
-1008803-90 = "Se quiser me agradecer, tudo bem. O médico geralmente cuida de mim e isso é o máximo que posso fazer. ......"
-
-1008803-94 = "...... O quê?"
-
-1008803-95 = "E agora que você teve todo esse trabalho, está se oferecendo para me pagar um jantar?"
-
-1008803-99 = "...... isso."
-
-1008803-100 = "Eu apenas disse que, se você quiser me agradecer, tudo bem."
-
-1008803-101 = "[s7] \"Você deveria perder este lugar por causa do meu rosto. \"\n[s8] \"Os adultos são assim. "
-
-1008803-106 = "...... haha."
-
-1008803-107 = "Espero que você não use muito essa habilidade."
-
-1008803-108 = "Bem, mas ...... é bom. Se o professor assim o diz."
-
-1008803-109 = "Sim, aceitarei com gratidão."
-
-1008803-110 = "Diga-me quando chegar a hora. Eu o acompanharei até a loja."
-
-1008803-116 = "...... Até logo."
-
-1008803-119 = "(Depois de receber o material de Kayoko, concluí o restante de meu trabalho na placa de Petri)."
-
-1008803-123 = "(Por um lado, ele reservou um restaurante e disse a Kayoko a hora e o local)."
-
-1008803-133 = "(Entre no restaurante onde você fez a reserva e aguarde Kayoko em seu assento. ......)"
-
-1008803-138 = "Desculpe tê-lo feito esperar, doutor. Você chegou cedo, embora ainda tenha tempo. #n Eu também achei que tinha saído bem cedo. ......"
-
-1008803-145 = "[ns9] \"Hey, Kayoko. \"\"\n[ns10} \"Você já chegou? Você chegou cedo. \"\n[ns10] \"Chegamos cedo.""
+1008803-10 = "[ns1] \"Excuse me - ⌘\"\n[ns2] Abra a porta e entre na sala.\"\n1008803-17 = \"Eu estava esperando.\"\n1008803-18 = \"Isso é mais incomum. Não acredito que esteja passando por aqui a esta hora.\"\n1008803-22 = \"...... Oh, outros membros?\"\n1008803-23 = \"Eles não estão aqui no momento. Cada um de nós tem seu próprio trabalho. ......\"\n1008803-24 = \"Mas todos queriam ver o sensei, então ele disse que passaria lá em outro momento.\"\n1008803-25 = \"Agora .......\"\n1008803-29 = \"Você disse que estava procurando algo?\"\n1008803-30 = \"Espere um pouco. Vou atender agora.\"\n1008803-34 = \"Ah, eu tinha isso por aqui. ......\"\n1008803-38 = \"Está um pouco bagunçado. ......\"\n1008803-39 = \"Hum, .......\"\n1008803-43 = \"[ns3] \"Kayoko. Esse cartão pode ser encontrado em ....... \"\n[ns4] \"O vestido que você usou no outro dia quando pediu? \"\"\n[ns4]]\"\n1008803-46 = \"...... sim?\"\n1008803-47 = \"Oh, aqui. .......\"\n1008803-48 = \"Bem, ...... não é um item de uso diário e, se eu o uso, é somente quando sou solicitado a fazê-lo.\"\n1008803-49 = \"Por isso, eu os guardo em caixas de papelão em meu escritório.\"\n1008803-50 = \" \"\n[s6] \"Não é bom demais para deixá-lo? \"\n[s6] \"\"\n1008803-53 = \"Você acha que sim? ......\"\n1008803-54 = \"Não que eu o usasse normalmente. ......\"\n1008803-58 = \"O ...... ficou bem em você, quer que eu o use às vezes?\"\n1008803-62 = \"...... Well.\"\n1008803-63 = \"Tenho certeza de que você está lisonjeado, mas espero que esteja ...... feliz com o elogio. ......\"\n1008803-64 = \"Mas você não precisa dizer isso.\"\n1008803-65 = \"E eu me conheço muito bem.\"\n1008803-66 = \"...... não é lisonjeiro? Ho, você quer dizer isso......?\"\n1008803-69 = \"Realmente ...... já .......\"\n1008803-70 = \"OK, eu entendo. Essa conversa acabou. Eu sei que você, sensei, tem algo a fazer.\"\n1008803-74 = \"Espere um pouco mais. Eu o procurarei em breve.\"\n1008803-81 = \"(Um pouco mais tarde, Kayoko me ajudou a encontrar os materiais de que eu precisava).\"\n1008803-85 = \"Foram eles.\"\n1008803-89 = \"Sim, isso.\"\n1008803-90 = \"Se quiser me agradecer, tudo bem. O médico geralmente cuida de mim e isso é o máximo que posso fazer. ......\"\n1008803-94 = \"...... O quê?\"\n1008803-95 = \"E agora que você teve todo esse trabalho, está se oferecendo para me pagar um jantar?\"\n1008803-99 = \"...... isso.\"\n1008803-100 = \"Eu apenas disse que, se você quiser me agradecer, tudo bem.\"\n1008803-101 = \"[s7] \"Você deveria perder este lugar por causa do meu rosto. \"\n[s8] \"Os adultos são assim. \"\n1008803-106 = \"...... haha.\"\n1008803-107 = \"Espero que você não use muito essa habilidade.\"\n1008803-108 = \"Bem, mas ...... é bom. Se o sensei assim o diz.\"\n1008803-109 = \"Sim, aceitarei com gratidão.\"\n1008803-110 = \"Diga-me quando chegar a hora. Eu o acompanharei até a loja.\"\n1008803-116 = \"...... Até logo.\"\n1008803-119 = \"(Depois de receber o material de Kayoko, concluí o restante de meu trabalho na placa de Petri).\"\n1008803-123 = \"(Por um lado, ele reservou um restaurante e disse a Kayoko a hora e o local).\"\n1008803-133 = \"(Entre no restaurante onde você fez a reserva e aguarde Kayoko em seu assento. ......)\"\n1008803-138 = \"Desculpe tê-lo feito esperar, doutor. Você chegou cedo, embora ainda tenha tempo. #n Eu também achei que tinha saído bem cedo. ......\"\n1008803-145 = \"[ns9] \"Hey, Kayoko. \"\"\n[ns10} \"Você já chegou? Você chegou cedo. \"\n[ns10] \"Chegamos cedo.\""
 
 1008803-150 = "[ns11] \"...... ou Kayoko! \"\n[ns12] \"......Por que você está de vestido? \"\"\n[ns12] \n[ns13] \""
-
 1008803-153 = "Você não deveria estar tão surpreso."
-
-1008803-154 = "O professor disse que era bom demais para ser deixado de lado. ......#n E achei que combinaria com a atmosfera da loja. ......"
-
+1008803-154 = "O sensei disse que era bom demais para ser deixado de lado. ......#n E achei que combinaria com a atmosfera da loja. ......"
 1008803-155 = "...... E, além disso, não tenho a chance de usar um vestido a menos que seja em uma ocasião como essa."
-
 1008803-156 = "...... ou ainda é lisonjeiro dizer que você está bonita?"
-
 1008803-157 = "[s13] \"Não, não. Isso não é absolutamente verdade. \"\n[s14] \"Fica muito bem em mim, estou sem palavras. ...... \""
-
 1008803-160 = "...... Hmmm, brincadeira."
-
 1008803-161 = "É uma refeição que o médico está comprando para mim, e eu queria me vestir adequadamente."
-
 1008803-168 = "Em seguida, ......"
-
 1008803-169 = "Eu aceito, senhor."
-

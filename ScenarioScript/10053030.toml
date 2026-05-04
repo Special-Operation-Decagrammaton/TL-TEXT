@@ -1,369 +1,190 @@
 [translation]
 10053030-1 = "Episódio 3; Ônibus fantasma"
-
 10053030-5 = "Uau... \r\n"
-
 10053030-6 = "Está tudo bem? \r\n"
-
 10053030-11 = "Este é realmente o caminho certo? \r\n\r\n\r\n"
-
 10053030-12 = "Pelo menos está correto no mapa. \r\n\r\n"
-
 10053030-13 = "...Não é como se você estivesse sendo enganado, certo? \r\n\r\n\r\n"
-
 10053030-14 = "Fiz minha reserva em um site confiável e verifiquei as avaliações deste ano. \r\n"
-
 10053030-15 = "Esta ponte suspensa é o único caminho para chegar à cabana na montanha. \r\n"
-
 10053030-16 = "Não vai quebrar na travessia, certo? \r\n\r\n\r\n\r\n"
-
 10053030-20 = "Bem, mesmo que aconteça o pior, há um rio abaixo. Você pode atravessá-lo nadando. \r\n\r\n\r\n"
-
 10053030-21 = "Isso não pode ser verdade... \r\n\r\n\r\n\r\n\r\n"
-
 10053030-23 = "As senhoras lá. \r\n\r\n\r\n"
-
 10053030-28 = "Talvez você tenha algo para fazer na cabana da montanha ali?"
-
 10053030-30 = "Há um desenvolvimento tão complicado..."
-
-10053030-32 = "Se você está buscando "aquela cabana na montanha"..."
+10053030-32 = "Se você está buscando \"aquela cabana na montanha\"..."
 
 10053030-33 = "Pare com isso."
-
 10053030-35 = "Huh! ? Afinal, é uma farsa! ? Eu estava enganado! ? \r\n\r\n"
-
 10053030-37 = "Não, existem cabanas nas montanhas. Mas... é melhor não passar a noite."
-
 10053030-38 = "A razão é... você não precisa me contar, você entenderá se for."
-
 10053030-40 = "...! \r\n\r\n"
-
 10053030-42 = "Eu te dei alguns conselhos. É hora de começar a procurar em outro lugar."
-
 10053030-48 = "Ele é um velho bastante excêntrico."
-
 10053030-49 = "Tudo bem. #nVamos, vamos nos apressar. O sol se põe cedo nas montanhas."
-
 10053030-50 = "Não, não, não! Espere um minuto! #nEu realmente pretendo ir! ?"
-
 10053030-51 = "Você não vai? \r\n"
-
 10053030-52 = "Ele disse algo como “conselho”... não importa como eu olhe, parece que ele estava “esperando” por nós! ? \r\n"
-
 10053030-53 = "Konoka-kun.... É admirável sentir que você se valoriza. Mas--"
-
 10053030-54 = "Acreditar que o mundo gira em torno de você é o início de delírios de grandeza."
-
 10053030-55 = "Está tudo bem, você pode superar isso."
-
 10053030-60 = "Pensando bem, Konoka era bastante assustador. \r\n"
-
 10053030-61 = "Outro dia não consegui dormir porque estava lendo histórias de fantasmas na internet, então tive que ficar no telefone a noite toda... \r\n\r\n"
-
 10053030-62 = "dentes! ? Definitivamente não! ? \r\n"
-
 10053030-63 = "Ei, olhe! Acho muito perigoso sair do seu caminho para dar conselhos... \r\n"
-
-10053030-64 = "Ei, professor! Acho que a professora também está desconfiada! ?"
-
+10053030-64 = "Ei, sensei! Acho que a professora também está desconfiada! ?"
 10053030-65 = "[s1] \"Certamente... Acho que é bom demais para ser uma coincidência...\"\r\n[s2] \"Talvez eu esteja um pouco curioso.\""
-
 10053030-68 = "Isso mesmo! ? \r\n"
-
 10053030-70 = "...Deixe-me dizer isso primeiro, mas não há outras pousadas por aqui."
-
 10053030-71 = "O mais próximo fica a uma hora de caminhada."
-
 10053030-72 = "Nossa, eu não gosto disso."
-
 10053030-73 = "Vamos ficar com fome agora. #nSe você cancelar no mesmo dia, não será reembolsado."
-
-10053030-75 = "O professor está do seu lado! ?"
-
+10053030-75 = "O sensei está do seu lado! ?"
 10053030-76 = "[ns3] \"Demorou uma hora para caminhar...\"\r\n[ns4] \"Não havia táxis...\""
-
 10053030-80 = "[ns] \"Konoka.\""
-
 10053030-82 = "[ns] \"Acho que há momentos em que você precisa ser corajoso.\""
-
-10053030-83 = "professor! ? ! ?"
-
+10053030-83 = "sensei! ? ! ?"
 10053030-87 = "Ok, vamos lá. Mesmo que um fantasma apareça, protegerei Konoka-kun. \r\n"
-
 10053030-88 = "Ei! Pare com isso! Se você disser algo assim, vai sair! \r\n\r\n\r\n\r\n"
-
 10053030-89 = "Se sair só de dizer, já foi observado. #nAqui, vamos dar as mãos. \r\n"
-
 10053030-90 = "Ah, eu entendo! Não puxe! Caminhe no seu próprio ritmo! \r\n\r\n\r\n\r\n\r\n"
-
 10053030-99 = "...O interior é mais bonito do que eu esperava."
-
 10053030-102 = "Achei que era forçado a morar em um casebre, mas acabou sendo surpreendentemente confortável. \r\n"
-
 10053030-103 = "Lena... você não sente frio aqui...? \r\n"
-
 10053030-104 = "...Você ainda está arrastando isso de antes?"
-
 10053030-105 = "Não! Eu realmente posso sentir isso! #nO ar está frio...! \r\n"
-
 10053030-107 = "Hum. Baixas temperaturas localizadas – o chamado “fenômeno da mancha fria”? #nCertamente um sinal típico quando um fantasma aparece."
-
 10053030-112 = "No entanto, nenhuma mudança não natural de temperatura foi observada em ambientes fechados. Não se preocupe. \r\n"
-
 10053030-117 = "O que é isso, uma câmera? \r\n"
-
 10053030-118 = "Para ser mais preciso, é uma câmera infravermelha com função de fotografia. #nÉ ótimo porque permite observar fontes de calor mesmo no escuro. \r\n"
-
 10053030-119 = "Isso é muito sério..."
-
 10053030-120 = "Claro, certo? O que estamos perseguindo é uma criatura lendária que ninguém capturou antes."
-
 10053030-121 = "Agora, Konoka-kun. Não há nada de anormal aqui. Por favor, fique tranquilo."
-
 10053030-123 = "Muito bem, Diretor! Confiável! \r\n"
-
 10053030-124 = "Hehe, ele é um profissional. \r\n"
-
-10053030-129 = "...Oh? Professor, há algo que o preocupa?"
-
+10053030-129 = "...Oh? Sensei, há algo que o preocupa?"
 10053030-130 = "[ns5] \"Não, você diz que é um profissional...\"\r\n[ns6] \"Você está fazendo isso como uma atividade de clube?\""
-
 10053030-133 = "...! \r\n"
-
 10053030-134 = "Bem, essa é uma boa pergunta, mas vamos deixar para depois! \r\n\r\n"
-
 10053030-135 = "Afinal, não tenho muito tempo agora! Quando o sol se pôr, o seu dia inteiro será desperdiçado! \r\n"
-
 10053030-140 = "O que aconteceu de repente?"
-
 10053030-141 = "Entendo perfeitamente a sensação de não querer falar sobre as atividades do clube. \r\n"
-
 10053030-142 = "[s7] \"Oh, vocês dois não sabem?\"\r\n[s8] \"Em que tipo de clube Tsubasa está?\""
-
 10053030-145 = "Hum... isso é --\r\n"
-
 10053030-149 = "Huh? Se você pensar bem, não sabe nada sobre Tsubasa, não é?"
-
 10053030-150 = "Não é óbvio? São apenas mídias sociais mútuas."
-
-10053030-151 = "[ruby=Kinui]Ibi[/ruby]Lena. Aluna do primeiro ano da Wild Hunt Art Academy, com especialização em design de moda."
-
+10053030-151 = "IbiLena. Aluna do primeiro ano da Wild Hunt Art Academy, com especialização em design de moda."
 10053030-152 = "Ei, espere, o que? \r\n"
-
 10053030-156 = "Os quatro prédios de dormitórios da academia, os números dos quartos são――"
-
 10053030-157 = "Sinistro... Moro no quarto 404. #nMeus colegas de quarto são três idosos. \r\n"
-
 10053030-158 = "sim? Então, não só o número do quarto, mas também o número de pessoas... Nossa, isso dá azar. \r\n"
-
 10053030-159 = "um pouco! Como você sabe! ? #nDe jeito nenhum...perseguidor! ? \r\n\r\n"
-
 10053030-160 = "Tsk tsk tsk. O SNS é um tesouro de informações. \r\n"
-
 10053030-161 = "Principalmente no SNS, você não tweeta sobre várias coisas em tempo real? #nMuitas informações pessoais vazam."
-
 10053030-162 = "Por exemplo, se você conectar as fotos que às vezes carrega, como a distância de sua casa até a loja de conveniência, o caminho para a escola e se há um declive, poderá identificar o #n prédio do dormitório."
-
 10053030-163 = "Ei, acho que você nem sabe o número do quarto! ?"
-
 10053030-164 = "Você não reclamou antes que o número do quarto não estava correto? #nQuando se trata de números do azar, são 4 ou 6. Tenho certeza que ele mora no 4º prédio, então acho que é o quarto 404. #nMesmo que seja o quarto 606, não é o mesmo que o prédio 4, certo?"
-
 10053030-165 = "...Detetive? \r\n"
-
 10053030-166 = "Hum, que pena!"
-
 10053030-167 = "Eu pertenço ao Departamento de Segurança Pública, que cala a boca até o choroso Sukeban! #nÉ por isso que sou uma criança tão pequena quanto ao chá. \r\n"
-
-10053030-168 = "Oh, realmente era Valquíria. #nAchei que fosse só moda."
-
-10053030-169 = "Eh, você quer dizer: "Ela parece uma bandida e não parece uma Valquíria"?"
+10053030-168 = "Oh, realmente era Valkyrie. #nAchei que fosse só moda."
+10053030-169 = "Eh, você quer dizer: \"Ela parece uma bandida e não parece uma Valkyrie\"?"
 
 10053030-170 = "Eu não disse muito embora! ?"
-
 10053030-171 = "Mas você não pensou um pouco sobre isso?"
-
 10053030-172 = "Isso é diferente! \r\n"
-
 10053030-173 = "Não, mas isso não significa que você não tenha pensado nisso, certo? #nVocê pensou um pouco sobre isso, não foi?"
-
 10053030-174 = "Bem… só um pouco…. \r\n"
-
 10053030-175 = "Sensei! Lena disse que eu era um bandido! \r\n"
-
 10053030-176 = "Você mesmo guiou! ! \r\n\r\n"
-
 10053030-177 = "[s9] \"Konoka, por favor, não provoque muito Rena.\"\r\n[s10] \"Rena, Konoka é sua sênior...\""
-
 10053030-178 = "Usu!"
-
 10053030-183 = "Segurando os ombros de Konoka! ? \r\n\r\n\r\n"
-
 10053030-186 = "Ah, já! Pare de me provocar! \r\n"
-
 10053030-189 = "Segundo relatos, os avistamentos de Tsuchinoko estão concentrados ao longo dos riachos das montanhas do Monte Shirakawa."
-
 10053030-192 = "Se Tsuchinoko fosse um ser vivo, seria razoável supor que vivesse perto da água. #nAlém disso, a possibilidade é ainda maior se for uma montanha ou vale onde ninguém consegue acessar."
-
 10053030-197 = "Eu entendo! \r\n\r\n"
-
 10053030-198 = "Monte Shirakawaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa para o ônibus para o Monte."
-
 10053030-202 = "...Huh?"
-
 10053030-203 = "Existem apenas duas rotas por dia aqui?"
-
 10053030-204 = "É isso que é, não é? Está no campo."
-
 10053030-205 = "É inconveniente... \r\n"
-
 10053030-206 = "Mas acho que ainda é melhor já que o próximo é em 30 minutos. Se eu sair direito, tenho certeza que ele virá em breve."
-
 10053030-211 = "Oh? Parece que o ônibus chegou. \r\n"
-
 10053030-212 = "estranho. Muito antes do horário..."
-
 10053030-217 = "……. \r\n"
-
 10053030-220 = "…………."
-
 10053030-221 = "...Ah!"
-
 10053030-222 = "Sem chance...!"
-
 10053030-225 = "Ao me aproximar de Tsuchinoko, minha fortuna perdida voltou! \r\n"
-
 10053030-226 = "Você estava certo sobre perseguir a cobra!"
-
 10053030-231 = "Eu me pergunto se foi sorte ou azar ter chegado tão cedo... Não, é só uma coincidência. \r\n"
-
 10053030-232 = "Espere um minuto. \r\n"
-
 10053030-233 = "Só eu acho estranho aquele número daquele ônibus?"
-
 10053030-234 = "[s11] \"``44-66''...? \"\r\n[s12] \"É meio... sinistro... \""
-
-10053030-237 = "Como você provavelmente sabe, “shi” não é usado em placas de automóveis. #n[ruby=shi]morte[/ruby] porque está associada à má sorte. \r\n"
-
-10053030-238 = "E é "44-66"..."
+10053030-237 = "Como você provavelmente sabe, “shi” não é usado em placas de automóveis. #nmorte porque está associada à má sorte. \r\n"
+10053030-238 = "E é \"44-66\"..."
 
 10053030-239 = "Huh? Talvez... \r\n"
-
 10053030-240 = "Você sabe alguma coisa?"
-
 10053030-241 = "Não sei muito sobre isso, mas... uma história semelhante foi popular no SNS há algum tempo. \r\n"
-
 10053030-242 = "Tem até um ônibus com fantasmas... \r\n"
-
 10053030-243 = "fantasma……?"
-
 10053030-244 = "Uma história comum. Entrei no trem sem saber e estava cheio de fantasmas, então desci às pressas..."
-
 10053030-245 = "As pessoas dizem que dormiram demais e acabaram em outro mundo que se parecia com Kivotos... essa é uma história de fantasma comum."
-
 10053030-246 = "Esse tipo de história já é tendência nas redes sociais há algum tempo."
-
 10053030-247 = "Então, o número de ônibus que aparecem nessas histórias de fantasmas era “44-66”?"
-
 10053030-251 = "É apenas uma coincidência! Eu não acredito nisso? \r\n"
-
 10053030-252 = "É dia, estou no campo pela primeira vez, e um ônibus que parece exatamente uma história de fantasmas chega por acaso... #nÉ bom demais para ser verdade!"
-
-10053030-253 = "Mas e se... e se aquela coisa na sua frente fosse "real"...?"
+10053030-253 = "Mas e se... e se aquela coisa na sua frente fosse \"real\"...?"
 
 10053030-254 = "……."
-
 10053030-259 = "Você não vai cavalgar? O ônibus está chegando~\r\n"
-
 10053030-260 = "[ns13] \"Acho que não é aquele ônibus.\"\r\n[ns14] \"Vamos esperar o próximo ônibus.\""
-
 10053030-264 = "foto? Mas há outras rotas aqui..."
-
 10053030-265 = "...? \r\n"
-
 10053030-266 = "O que é isso? Isso é estranho. Não há número de sistema ou exibição de destino..."
-
 10053030-267 = "Desculpe, motorista! Esse ônibus vai para o Monte Shirakawa?"
-
 10053030-268 = "…………. \r\n"
-
 10053030-269 = "Olá, você pode me ouvir?"
-
 10053030-270 = "…………. \r\n"
-
 10053030-274 = "suspeito……."
-
 10053030-275 = "...Parece que não temos escolha a não ser liberar isso. \r\n"
-
 10053030-277 = "Tirando... uma arma?"
-
 10053030-278 = "Não acho que começar uma briga com um fantasma seja uma boa ideia..."
-
-10053030-281 = "Professor, por favor, fique de olho em Konoka."
-
+10053030-281 = "Sensei, por favor, fique de olho em Konoka."
 10053030-282 = "Quando estão envolvidas “superstições”, sempre ocorrem “incidentes”. \r\n"
-
-10053030-284 = "[ns15] (O "incidente" do qual Kanna estava falando...)\r\n[ns16] \"Konoka, por favor, deixe este ônibus por enquanto--\""
+10053030-284 = "[ns15] (O \"incidente\" do qual Kanna estava falando...)\r\n[ns16] \"Konoka, por favor, deixe este ônibus por enquanto--\""
 
 10053030-289 = "Não, senhor. Neste caso, este é o mais eficaz."
-
 10053030-290 = "Afinal, tenho que usá-lo em momentos como este."
-
 10053030-295 = "[ns17] \"...O que é isso?\"\r\n[ns18] \"Manual do aluno?\""
-
 10053030-298 = "Não, eu não entendo nada."
-
 10053030-299 = "Bem, por favor, observe. As pessoas que dirigem em Kivotos têm mais medo disso do que de armas. \r\n"
-
-10053030-300 = "Motorista, Valquíria! Posso pedir para ver sua carteira de motorista? \r\n"
-
+10053030-300 = "Motorista, Valkyrie! Posso pedir para ver sua carteira de motorista? \r\n"
 10053030-302 = "…………."
-
 10053030-303 = "Você não ouviu? Vou verificar sua licença. #nSe você recusar, será uma violação das leis de trânsito. Devo conseguir um ingresso?"
-
 10053030-305 = "…………."
-
 10053030-309 = "Ah! ? Ei! ! Ei, não fuja! Parar! \r\n\r\n"
-
 10053030-314 = "...eu fui embora."
-
 10053030-315 = "Até os fantasmas parecem ter medo de ingressos... \r\n"
-
 10053030-317 = "Ei... lembre-se disso na próxima vez que encontrar..."
-
 10053030-318 = "Mas eu sabia que era suspeito. Parecia um ônibus normal."
-
 10053030-319 = "[s19] \"Lena me contou.\"\r\n[s20] \"Talvez seja por causa de Tsubasa.\""
-
 10053030-321 = "Huh! ? Oh sim! Foi meio suspeito...! \r\n"
-
 10053030-322 = "(Você ficaria surpreso se fosse chamado de repente, certo!?)\r\n"
-
 10053030-327 = "Hum?"
-
 10053030-329 = "foto? Bem, ainda sou um especialista nisso! Acho que tenho esse tipo de olfato... \r\n"
-
 10053030-330 = "Huh? Como você conta?"
-
 10053030-331 = "Bem...acho que ainda é muito cedo para Konoka-kun...! \r\n"
-
 10053030-335 = "Hum?"
-
 10053030-342 = "Oh, não parece real desta vez, não é?"
-
 10053030-347 = "Desta vez... não, não acho que tenha sido um ônibus fantasma! ?"
-
 10053030-354 = "Desculpe por ter feito você esperar ~ Por favor, tome cuidado com seus passos ~"
-
 10053030-355 = "Olá. \r\n\r\n"
-
 10053030-356 = "Hum, essa pode ser uma pergunta um pouco estranha, mas...#nHá ônibus circulando outro dia? \r\n\r\n"
-
 10053030-358 = "foto? na frente? Isso é estranho."
-
 10053030-359 = "Apenas um de nossos carros está circulando nesta rota."
-
 10053030-360 = "...! ? \r\n\r\n\r\n"
-
 10053030-363 = "(No final, de onde veio aquele ônibus suspeito e onde ele desapareceu? #nNunca descobrimos até o final.)"
-

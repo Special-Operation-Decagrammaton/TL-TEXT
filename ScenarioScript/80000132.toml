@@ -1,81 +1,158 @@
 [translation]
-80000132-1 = "Recarga de mana para o Mestre"
-80000132-2 = "（Esta manhã, recebi uma mensagem da Eri...）"
-80000132-5 = "Mestre! Você vai vir à academia hoje, não vai?"
-80000132-6 = "Na verdade, tenho algo para lhe contar!"
-80000132-7 = "Nyu-fufu! Então, vamos nos encontrar em um lugar secreto!"
-80000132-9 = "（...E assim, cheguei a um terreno baldio na Academia de Artes Wild Hunt）"
-80000132-12 = "Terreno baldio deserto"
-80000132-14 = "Ah, Mestre!#nVocê foi rápido!"
-80000132-15 = "[s] \"Por que me chamou em um lugar como este?\""
-80000132-16 = "...Porque aqui, a ressonância de mana pode ser maximizada."
-80000132-17 = "Onde há outras pessoas, bem... a energia mágica acaba interferindo..."
-80000132-18 = "[s] \"...? Você queria me ver a sós?\""
-80000132-19 = "S-sim, é isso!"
-80000132-20 = "Como esperado do Mestre, você é perspicaz."
-80000132-21 = Então, já que estamos a sós...!"
-80000132-22 = "...Posso tirar, não posso?"
-80000132-23 = "[s] \"...Hã!?\""
-80000132-24 = "Quero que você veja a minha determinação, Mestre."
-80000132-25 = "...Aaaah!!!"
-80000132-30 = "Kyaaaa...!"
-80000132-39 = "M-mesmo sendo pelo Mestre, fazer isso ao ar livre... é, bem, é vergonhoso."
-80000132-40 = "[s] \"...Eh?\""
-80000132-41 = "D-desculpe, é estranho, não é! Eu sei disso, mas...!"
-80000132-42 = "Para mim, é quase a mesma coisa que ficar nua..."
-80000132-43 = "Quando pratiquei na frente do pessoal do Clube de Pesquisa Oculta, eu estava bem, mas..."
-80000132-44 = "[s] \"N-não é vergonhoso na frente delas?\""
-80000132-45 = "Bem, nós tomamos banho juntas e tudo mais..."
-80000132-46 = "Então, tirar o chapéu não é nada demais..."
-80000132-47 = "É a mesma coisa, por assim dizer..."
-80000132-48 = "...!?#nAh, não, não que isso signifique algo a mais!"
-80000132-49 = "[s] \"N-não se force! Já pode colocar de volta.\""
-80000132-50 = "M-mas eu tomei uma decisão para vir até aqui...!"
-80000132-51 = "Este visual é o ideal para um compartilhamento de mana eficiente..."
-80000132-52 = "..."
-80000132-53 = "E-está tudo bem, eu consigo fazer isso direito...!"
-80000132-54 = "Fuu..."
-80000132-55 = "E-então, Mestre!"
-80000132-60 = "Coloquei bastante do meu mana..."
-80000132-61 = "Desta vez, tentei criar usando meu próprio poder, sem depender do chapéu..."
-80000132-62 = "Por isso, achei que não seria bom continuar usando o chapéu...!"
-80000132-63 = "...M-Mestre?"
-80000132-64 = "[s] \"Incrível, só de olhar para esse chocolate, sinto minhas forças voltarem...!\""
-80000132-65 = "V-verdade?"
-80000132-66 = "E-então, hum..."
-80000132-67 = "Posso te dar na boca...?"
-80000132-68 = "[s] \"...Entendi, é uma recarga de mana!\""
-80000132-69 = "S-sim!"
-80000132-70 = "Essa capacidade de compreensão... como esperado do Mestre, você é incrível!"
-80000132-71 = "Chegar perto sem o chapéu exige coragem, mas..."
-80000132-72 = "Suuu... haaa...#nV-vou começar, está bem?"
-80000132-73 = "[s] \"A qualquer momento!\""
-80000132-74 = "Então...!"
-80000132-75 = "Primeiro, o chocolate de estrela..."
-80000132-80 = "O-o que achou?"
-80000132-85 = "[ns] \"Incrível, está estalando na boca!\""
-80000132-86 = "Ehehe... eu adicionei balas explosivas!"
-80000132-87 = "Se comer quando estiver com sono, seus olhos vão abrir na hora!"
-80000132-88 = "[s] \"Qual é o sabor do chocolate de coração?\""
-80000132-89 = "Isso é... uma surpresa para depois que você comer."
-80000132-90 = "E-então, por favor...!"
-80000132-94 = "[ns] \"I-isso é...?\""
-80000132-95 = "(Doce... e com um leve toque ácido?)"
-80000132-96 = "(É como se minha mana estivesse se recuperando...!)"
-80000132-97 = "O-o que achou?"
-80000132-98 = "Eu adicionei várias vitaminas."
-80000132-99 = "É um chocolate, mas também funciona como um suplemento nutricional."
-80000132-100 = "...Mestre, você está sempre tão ocupado."
-80000132-101 = "Ouvi dizer que muitas vezes você trabalha até tarde sem nem conseguir fazer uma refeição..."
-80000132-102 = "Ugh, só de pensar nisso, fico um pouco triste..."
-80000132-103 = "Por isso, nessas noites...#npor favor, coma este chocolate enquanto pensa em mim!"
-80000132-104 = "Com certeza, a mana vai fluir de volta para você!"
-80000132-105 = "[s1] \"O carinho da Eri está me tocando...\"\n[s2] \"Quero comer tudo agora mesmo!\""
-80000132-108 = "N-não pode comer demais, viu!?"
-80000132-109 = "Repor mana em excesso também não faz bem."
-80000132-110 = "[ns] \"Com certeza, vou tomar cuidado.\""
-80000132-112 = "[ns] \"Eri, você não quer comer comigo?\""
-80000132-115 = "U-uma recarga de mana reversa do Mestre...!?"
-80000132-116 = "É verdade, se fizermos uma carga mútua, o efeito deve ser mais que o dobro!"
-80000132-117 = "Então... por favor, Mestre!"
-80000132-119 = "(Depois disso, passei um tempo repleto de magia junto com a Eri)"
+80000132-1 = "Carga de Mana para Mestre"
+
+80000132-2 = "(Eri me contatou esta manhã――)"
+
+80000132-5 = "Mestre! Você vem para a escola hoje, certo?"
+
+80000132-6 = "Na verdade, tenho uma coisa que quero te contar!"
+
+80000132-7 = "Nyufufu! Vejo você em um local secreto!"
+
+80000132-9 = "(...e então eles chegaram ao terreno baldio da Wild Hunt Art Academy)"
+
+80000132-12 = "terreno baldio deserto"
+
+80000132-14 = "Ah, mestre! #nIsso foi rápido!"
+
+80000132-15 = "[s] \"Qual o sentido de chamar você para um lugar como este?\""
+
+80000132-16 = "...Aqui você pode maximizar a ressonância da mana."
+
+80000132-17 = "Em lugares onde há pessoas, esse... poder mágico irá interferir..."
+
+80000132-18 = "[s] \"...?Então você queria se encontrar sozinho?\""
+
+80000132-19 = "Isso mesmo!"
+
+80000132-20 = "Como esperado de um mestre, ele é muito perspicaz."
+
+80000132-21 = "Então, somos só nós dois...!"
+
+80000132-22 = "...Não há problema em tirar a roupa, certo?"
+
+80000132-23 = "[s] \"...Hmm!?\""
+
+80000132-24 = "Quero que o Mestre veja minha determinação."
+
+80000132-25 = "...Sim! ! !"
+
+80000132-30 = "Eiaaaaah...!"
+
+80000132-39 = "Não, mesmo que seja pelo bem do mestre, é lá fora... bem, é muito constrangedor."
+
+80000132-40 = "[s] \"...Hein?\""
+
+80000132-41 = "Desculpe, isso é estranho! Eu sei, mas...!"
+
+80000132-42 = "Para mim não é tão diferente de estar nu..."
+
+80000132-43 = "Quando pratiquei na frente de todos em Okaken, fiquei bem, mas..."
+
+80000132-44 = "[s] \"Você não fica com vergonha na frente de todo mundo?\""
+
+80000132-45 = "Bom, vamos tomar banho juntos..."
+
+80000132-46 = "Então, mesmo que eu tire o chapéu..."
+
+80000132-47 = "Eu diria a mesma coisa..."
+
+80000132-48 = "...! ? #nAh, não, isso não significa que eu não me importe!"
+
+80000132-49 = "[s] \"M-não se esforce demais! Não há problema em usá-lo agora.\""
+
+80000132-50 = "Mas eu também já me decidi...!"
+
+80000132-51 = "Esta roupa é perfeita para um compartilhamento eficiente de mana..."
+
+80000132-52 = "……."
+
+80000132-53 = "Não, está tudo bem, eu posso fazer isso direito...!"
+
+80000132-54 = "Ufa..."
+
+80000132-55 = "Pois bem, mestre!"
+
+80000132-60 = "Minha mana... eu coloquei bastante."
+
+80000132-61 = "Dessa vez não contei com chapéu e tentei fazer eu mesma..."
+
+80000132-62 = "Então pensei que talvez não fosse uma boa ideia manter o chapéu...!"
+
+80000132-63 = "...Bem, Mestre?"
+
+80000132-64 = "[s] \"Nossa, esses chocolates me dão força só de olhar...!\""
+
+80000132-65 = "Ah, é verdade?"
+
+80000132-66 = "Então, então..."
+
+80000132-67 = "Tudo bem se eu disser \"Ah\"...! ?"
+
+80000132-68 = "[s] \"...Entendo, é uma carga de mana!\""
+
+80000132-69 = "Ah, sim!"
+
+80000132-70 = "Essa compreensão... Mestre é incrível!"
+
+80000132-71 = "Bem, você precisa estar preparado para abordá-los sem chapéu..."
+
+80000132-72 = "Entããão...suspiro...#nE-eu vou?"
+
+80000132-73 = "[s] \"A qualquer hora!\""
+
+80000132-74 = "Pois bem...!"
+
+80000132-75 = "Em primeiro lugar, o chocolate estrela...!"
+
+80000132-80 = "C-como...?"
+
+80000132-85 = "[ns] \"すごい、パチパチ弾けてる！\""
+80000132-86 = "Hehehe... adicionei rebuçados!"
+
+80000132-87 = "Se você comer quando estiver com sono, seus olhos ficarão mais brilhantes!"
+
+80000132-88 = "[s] \"Qual é o sabor do chocolate coração?\""
+
+80000132-89 = "É algo que você pode desfrutar depois de comer."
+
+80000132-90 = "Então, aqui está...!"
+
+80000132-94 = "[ns] \"I-isso é...!?\""
+
+80000132-95 = "(Doce... só um pouco azedo?)"
+
+80000132-96 = "(Parece que sua mana está se recuperando...!)"
+
+80000132-97 = "O que você acha?"
+
+80000132-98 = "色々とビタミンを入れてみました。"
+80000132-99 = "É chocolate e suplemento nutricional."
+
+80000132-100 = "...O Mestre está sempre ocupado."
+
+80000132-101 = "Ouvi dizer que tem muitos dias que eles trabalham até tarde sem nem comer..."
+
+80000132-102 = "Ugh, fico meio triste só de pensar nisso..."
+
+80000132-103 = "Então, nessas noites...#nPor favor, coma esse chocolate enquanto se lembra de mim!"
+
+80000132-104 = "Tenho certeza que a mana fluirá!"
+
+80000132-105 = "[s1] \"エリの気持ちが染みていく……。\"\n[s2] \"今すぐ全部食べたい！\""
+80000132-108 = "Não é bom comer demais! ?"
+
+80000132-109 = "O suprimento excessivo de mana também não é bom."
+
+80000132-110 = "[ns] \"Claro, terei cuidado.\""
+
+80000132-112 = "[ns] \"Você gostaria de comer comigo também, Eli?\""
+
+80000132-115 = "Bem, inverta o fornecimento de mana do mestre...! ?"
+
+80000132-116 = "É verdade que se vocês cobrarem um ao outro, o efeito será mais que o dobro!"
+
+80000132-117 = "Bem... por favor, Mestre!"
+
+80000132-119 = "(Depois disso, passei um tempo mágico com Eli.)"
+

@@ -1,137 +1,70 @@
 [translation]
 1013705-1 = "Aparência do detetive"
-
-1013705-2 = "Felicidades, professor."
-
+1013705-2 = "Felicidades, sensei."
 1013705-3 = "Ah, você não está sendo seguido, está? #nSeria ruim se as pessoas descobrissem um pouco."
-
 1013705-4 = "[s1] \"Acho que está tudo bem, mas...\"\n[s2] \"O que diabos aconteceu...?\""
-
 1013705-7 = "Você estará sob os olhos do público aqui, então vamos entrar."
-
 1013705-8 = "Oh, tudo o que você está prestes a ver é informação ultrassecreta."
-
 1013705-9 = "Por favor, não vaze para fora."
-
 1013705-10 = "[s] \"U-Sim...!\""
-
 1013705-15 = "Ei, quem é esse? Antes mesmo de ver, me senti bastante revigorado."
-
 1013705-16 = "Eu não me canso disso. Sou eu, sou eu."
-
 1013705-17 = "Eu trouxe um cliente. #nEstou de boca fechada, então está tudo bem."
-
 1013705-18 = "Este lugar continua sendo um lugar famoso, conhecido apenas por quem conhece."
-
 1013705-19 = "Apenas algo egoísta...! !"
-
 1013705-24 = "Eu administro uma loja de roupas como empresa! Que tal torná-lo um lugar secreto? ! !"
-
 1013705-25 = "Bem, provavelmente você está comprando muito."
-
 1013705-26 = "Você não pode sobreviver apenas com vendas individuais! !"
-
 1013705-28 = "[ns] \"Isso é... uma loja de camisas aloha?\""
-
 1013705-29 = "Isso mesmo! Se você quiser comprar uma camisa aloha, este é o lugar."
-
 1013705-30 = "Há de tudo, desde roupas usadas até itens novos, e há uma grande variedade de cores... realmente parece uma joia escondida!"
-
 1013705-31 = "Não esconda isso! Você está apenas escondendo isso!"
-
-1013705-32 = "まぁまぁ……10人分買うから許してほしいっす～"
+1013705-32 = "Bem, bem... Vou comprar o suficiente para 10 pessoas, então espero que você me perdoe."
 
 1013705-33 = "Se o número de pessoas aumentar, as camisas raras se esgotarão."
-
-1013705-34 = "Você é professor de placas de Petri, certo? #nPor favor! Por favor, promova nossa loja!"
-
+1013705-34 = "Você é sensei de placas de Petri, certo? #nPor favor! Por favor, promova nossa loja!"
 1013705-35 = "Eu não vou deixar você fazer isso! #nVou parar todas as informações!"
-
 1013705-36 = "Suspiro...qual é o objetivo da polícia nisso...?"
-
 1013705-37 = "Ha, mas... isso mesmo. #nPoucas pessoas conseguem apreciar os benefícios das camisas aloha."
-
 1013705-38 = "Como Miss-chan disse, é útil que eles ensinem apenas para entusiastas que possam entendê-lo..."
-
 1013705-39 = "Acho que não é tão ruim assim. #nAgora, o que temos?"
-
 1013705-40 = "O que devo fazer?"
-
 1013705-44 = "Fumhun~~Police Shutsud~~Brigada de Capacetes Taiho~♪"
-
 1013705-48 = "Acabou para você ♪"
-
 1013705-49 = "Hmm, gosto do esquema de cores, mas... o equilíbrio pode ser um pouco decepcionante."
-
 1013705-50 = "[ns3] \"Konoka sabe muito sobre camisas aloha.\"\n[ns4] \"Você gosta delas há muito tempo?\""
-
 1013705-53 = "Já faz muito tempo que não é assim."
-
 1013705-54 = "Eu não tinha nenhum interesse particular nisso. Na verdade, provavelmente não gostei muito."
-
-1013705-55 = "Só quando vim para Valquíria é que me interessei por isso."
-
+1013705-55 = "Só quando vim para Valkyrie é que me interessei por isso."
 1013705-56 = "O que é aquilo? Você está curioso? #nA razão pela qual me apaixonei pelas camisas Aloha."
-
 1013705-57 = "[s] \"...Ugh! Foi tão fácil de entender?\""
-
 1013705-58 = "Haha! Embora tenha esta aparência, na verdade ele é o vice-diretor do Departamento de Segurança Pública."
-
 1013705-59 = "Eu me pergunto quando isso começou..."
-
 1013705-60 = "Acho que foi na época em que entrei na escola? #nOuvi dizer que tinha uma escola onde você seria elogiado por punir delinquentes, então fui lá."
-
-1013705-61 = "Bem, como tudo que eu sabia era lutar, fui designado a um professor para me ensinar. #nO responsável por mim não fala muito, mas é uma pessoa enfadonha..."
-
+1013705-61 = "Bem, como tudo que eu sabia era lutar, fui designado a um sensei para me ensinar. #nO responsável por mim não fala muito, mas é uma pessoa enfadonha..."
 1013705-62 = "Quando nós dois fomos ao local após receber uma denúncia, descobrimos que era uma armadilha. #nVárias pessoas me atacaram... e me deram um soco de polvo."
-
 1013705-63 = "Consegui vencer, mas meu uniforme estava em frangalhos. #nBem, no final eles ficaram com tanto medo que tentaram chamar a polícia."
-
 1013705-64 = "[s] \"Você deu um soco na polícia e tentou chamar a polícia...?\""
-
 1013705-65 = "Bem, a pessoa responsável por mim tinha uma cara assustadora e era muito forte..."
-
 1013705-66 = "Bem, eu não poderia simplesmente ir para casa, então estava procurando uma loja que estivesse aberta e encontrei esse lugar."
-
 1013705-67 = "Aloha, aloha, aloha para onde quer que você olhe! Eu ri tanto disso!"
-
 1013705-68 = "No início, as roupas da jovem estavam tão enlameadas que pensei que ela estivesse usando uma camisa aloha com aquele padrão."
-
 1013705-69 = "Ah, não, haha! Parece real quando há uma voz real!"
-
 1013705-70 = "Então, não tive escolha a não ser ir para casa usando aloha com meu supervisor e achei que ficou surpreendentemente bem em mim. Eu uso aloha desde #n! Também é útil durante investigações."
-
 1013705-74 = "um! Isso isso! Eu só queria um padrão de pato!"
-
 1013705-75 = "Eu tenho outro aqui, então vou dar para a professora também. #nÉ um presente meu!"
-
 1013705-76 = "Lojista, eu gostaria de dois desses, por favor."
-
 1013705-77 = "Aiyo~ #n-sensei, vocês ficam bem juntos."
-
 1013705-78 = "[s] \"Quanto?\""
-
 1013705-79 = "Não se preocupe com o custo. A senhora do detetive me pagou cerca de 300 moedas adiantadas porque era um incômodo carregar minha carteira."
-
 1013705-80 = "Por favor, volte novamente! Fique à vontade para promover nossa loja!"
-
 1013705-82 = "Haa! Comprar é o melhor! Hehehe!"
-
-1013705-83 = "Professor, por favor, mantenha isso em segredo a todo custo. #nVamos juntos de novo!"
-
+1013705-83 = "Sensei, por favor, mantenha isso em segredo a todo custo. #nVamos juntos de novo!"
 1013705-84 = "Bem, já faz muito tempo que não me lembro de algo do passado..."
-
 1013705-85 = "Eu gostaria de ter tirado uma foto da minha irmã usando aloha naquela época..."
-
 1013705-86 = "[s] \"Talvez a pessoa responsável de quem Konoka estava falando...?\""
-
-1013705-87 = "Ah, é exatamente isso que o professor pensa. #n, quem mais está aí?"
-
+1013705-87 = "Ah, é exatamente isso que o sensei pensa. #n, quem mais está aí?"
 1013705-88 = "Um delinquente e um cachorro louco. A alta administração da época que propôs essa combinação não era um verdadeiro fã."
-
 1013705-89 = "Bem, então, por favor, me desculpe ~#nAh! Por favor, lave sua camisa uma vez antes de usá-la!"
-
 1013705-90 = "Bem, então ~!"
-
 1013705-92 = "(Depois disso, Konoka desapareceu pelo beco com passos animados.)"
-

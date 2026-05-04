@@ -1,167 +1,84 @@
 [translation]
 1013303-1 = "monólogo"
-
 1013303-2 = "(Houve uma pausa no meu trabalho na sala, então saí para mudar de ritmo.)"
-
 1013303-7 = "[ns1] \"Está tranquilo...\"\n[ns2] \"O que o Rio está fazendo?\""
-
 1013303-10 = "Ah... isso não é bom."
-
 1013303-11 = "[ns] \"...?\""
-
-1013303-12 = "Se o professor ouvir, isso atrapalhará o trabalho."
-
+1013303-12 = "Se o sensei ouvir, isso atrapalhará o trabalho."
 1013303-13 = "Fique o mais quieto possível..."
-
 1013303-14 = "[ns] \"...??\""
-
 1013303-15 = "(Fiquei curioso, então fui na direção onde ouvi a voz)"
-
 1013303-22 = "[ns] \"Rio?\""
-
 1013303-23 = "sim……."
-
 1013303-24 = "[s] \"Rio...?\""
-
 1013303-25 = "……."
-
 1013303-26 = "(Ele parece estar concentrado e não parece me notar.)"
-
 1013303-27 = "(decidi esperar e ver o que acontece)"
-
 1013303-28 = "Sim, aí está."
-
 1013303-29 = "Não... é muito forte, tome mais cuidado..."
-
 1013303-30 = "...Está indo bem. Apenas continue."
-
 1013303-31 = "Ah, espere. Essa é uma área delicada, então seja gentil..."
-
 1013303-32 = "Sim... é assim que é."
-
 1013303-33 = "sim……."
-
 1013303-34 = "... Uau, isso é bom."
-
 1013303-35 = "Agora, lembre-se de como você se sentiu agora e tente novamente."
-
 1013303-36 = "[ns] \"...?\""
-
 1013303-37 = "(Rio não parou de falar sozinho depois disso)"
-
 1013303-38 = "(Vamos gritar antes que alguém chegue em casa)"
-
 1013303-39 = "[ns] \"Hum...Rio?\""
-
 1013303-40 = "Vamos tentar isso da próxima vez."
-
 1013303-41 = "Você já deve estar acostumado com isso, você pode fazer melhor, certo?"
-
 1013303-42 = "[s] \"R-Rio...?\""
-
 1013303-43 = "...?"
-
 1013303-47 = "...! !"
-
-1013303-48 = "Ei, professor! ? Desde quando...?"
-
+1013303-48 = "Ei, sensei! ? Desde quando...?"
 1013303-49 = "[s] \"A partir do momento em que ele estava dando instruções seriamente...?\""
-
 1013303-50 = "É isso..."
-
 1013303-51 = "Você estava sendo vigiado."
-
 1013303-52 = "...Se for esse o caso, por favor diga isso o mais rápido possível."
-
 1013303-53 = "[s] \"Eu estava chamando você, mas... o que você estava fazendo?\""
-
 1013303-54 = "Isso é..."
-
 1013303-55 = "[s] \"Se for difícil dizer, não vou forçar você a perguntar, ok?\""
-
 1013303-56 = "...Não, não há razão para esconder isso."
-
 1013303-57 = "Eu estava atualizando um navio de transporte."
-
 1013303-58 = "Usando este AMAS."
-
 1013303-63 = "[ns] \"Entendo...!\""
-
 1013303-64 = "Consegui algumas peças muito boas em uma operação recente."
-
 1013303-65 = "É por isso que eu queria me concentrar no meu trabalho quando não havia ninguém por perto, tanto quanto possível."
-
 1013303-66 = "E então..."
-
 1013303-67 = "Eu estava planejando surpreender a todos atualizando-o secretamente, mas..."
-
 1013303-68 = "[s3] \"Isso mesmo!\"\n[s4] \"O Rio é incrível!\""
-
 1013303-71 = "obrigado……."
-
 1013303-72 = "A propósito...Sensei, por que seu rosto está tão vermelho?"
-
 1013303-73 = "...Parecia que ele estava falando sozinho de uma maneira estranha?"
-
 1013303-74 = "É assim mesmo? Eu estava apenas dando ordens. #nTenho certeza――"
-
 1013303-79 = "Com cuidado."
-
 1013303-80 = "devagar."
-
 1013303-81 = "eu me sinto bem."
-
 1013303-82 = "suavemente."
-
 1013303-83 = "...Lembro-me de dizer isso."
-
 1013303-87 = "...Eu não acho que haja um problema."
-
 1013303-92 = "[ns] \"Ah, isso mesmo!!\""
-
 1013303-93 = "Algo ainda está incomodando você?"
-
 1013303-94 = "Se você tiver alguma dúvida, por favor me avise."
-
 1013303-95 = "Tenho certeza de que posso responder a muitas perguntas neste campo."
-
 1013303-96 = "Ou... talvez ele esteja preocupado com o fato de ter atualizado sua nave sem permissão."
-
 1013303-97 = "Mesmo com isso, ainda estou tentando ser pelo menos sensato."
-
 1013303-98 = "Como esperado, também não vou muito longe."
-
-1013303-99 = "[s] \"Eu sei disso!""
-
-1013303-100 = "Aparentemente eu estava errado."
-
-1013303-101 = "Porém, quando se trata de outras possibilidades... não consigo pensar em nada."
-
-1013303-102 = "Professor, você está escondendo algo necessário?"
-
-1013303-103 = "Se esses elementos estiverem faltando, você não conseguirá tomar uma decisão racional."
-
-1013303-104 = "[s] \"Uh, uh... acho que deveria fazer um café para respirar.""
-
+1013303-99 = "[s] \"Eu sei disso!\""
+1013303-100 = "Aparentemente eu estava errado.\""
+1013303-101 = "Porém, quando se trata de outras possibilidades... não consigo pensar em nada.\""
+1013303-102 = "Sensei, você está escondendo algo necessário?\""
+1013303-103 = "Se esses elementos estiverem faltando, você não conseguirá tomar uma decisão racional.\""
+1013303-104 = "[s] \"Uh, uh... acho que deveria fazer um café para respirar.\""
 1013303-105 = "Se fosse tão óbvio, até eu perceberia que fui enganado, certo?"
-
 1013303-106 = "...Bem, eu não faria nada de errado com o café da professora."
-
 1013303-107 = "Mas deixe-me adicionar um pedido."
-
 1013303-108 = "Gostaria que você ficasse ao meu lado e me apoiasse no meu trabalho."
-
-1013303-109 = "[ruby=Head Mounted Display]Quando você está trabalhando com um HMD ligado, você não consegue ver o que está ao seu redor, o que é inconveniente."
-
+1013303-109 = "Quando você está trabalhando com um HMD ligado, você não consegue ver o que está ao seu redor, o que é inconveniente."
 1013303-110 = "Claro, se você tiver outras coisas para fazer, poderá priorizá-las."
-
-1013303-111 = "[s] \"Está tudo bem, eu vou te ajudar.""
-
+1013303-111 = "[s] \"Está tudo bem, eu vou te ajudar.\""
 1013303-112 = "Bem... eu apreciaria sua ajuda."
-
-1013303-113 = "Se você é professor, pode se sentir à vontade e receber apoio."
-
+1013303-113 = "Se você é sensei, pode se sentir à vontade e receber apoio."
 1013303-115 = "(Depois de fazer o café, sentei ao lado do Rio e ajudei-o no trabalho)"
-
 1013303-116 = "(Estou feliz que você tenha conseguido me enganar...)"
-

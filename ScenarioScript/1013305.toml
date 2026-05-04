@@ -17,9 +17,9 @@
 
 1013305-17 = "Você precisa verificar se os dados adicionados foram reconhecidos corretamente."
 
-1013305-18 = "Este é o limite de [ruby=weak artificial intelligence]WeakAI[/ruby], que executa apenas comandos pré-determinados."
+1013305-18 = "Há um limite para apenas seguir as ordens definidas."
 
-1013305-19 = "[s] \"[ruby=IA Fraca]AI Fraca[/ruby]?\""
+1013305-19 = "[s] \"?\""
 
 1013305-20 = "É uma IA que só pode realizar determinadas tarefas de acordo com determinadas regras."
 
@@ -29,7 +29,7 @@
 
 1013305-23 = "Por outro lado, também existem IAs que podem pensar livremente como os humanos."
 
-1013305-24 = "Nós chamamos isso de [ruby=Inteligência Artificial Forte]IAForte[/ruby]. #nUm exemplo representativo é ――"
+1013305-24 = "Isso é o que eu digo. #nUm exemplo representativo é ――"
 
 1013305-25 = "--Alice."
 
@@ -41,11 +41,11 @@
 
 1013305-31 = "Por exemplo... digamos que você tenha uma sala com perguntas e respostas em um idioma que você não conhece."
 
-1013305-32 = "Quando você entra naquela sala, é como se estivesse olhando para uma ``pintura''. Você pode ver o padrão de ``esta [ruby=pergunta]imagem[/ruby] retorna este tipo de [ruby=resposta]imagem[/ruby].''"
+1013305-32 = "Quando você entra naquela sala, é como olhar para uma “pintura” e você pode ver o padrão de “retornar isto a isto”."
 
 1013305-33 = "Então, o que aconteceria se você desse à pessoa nesta sala um pedaço de papel com uma pergunta escrita?"
 
-1013305-34 = "Olhe para a [ruby=question]imagem[/ruby] escrita no papel, encontre a [ruby=answer]imagem[/ruby] correspondente na sala e responda."
+1013305-34 = "Veja o que está escrito no papel, encontre a resposta na sala que corresponde e responda..."
 
 1013305-35 = "Uma “conversa” pode ser estabelecida mesmo que as pessoas na sala não entendam o idioma."
 
@@ -57,7 +57,7 @@
 
 1013305-39 = "Expanda esta história..."
 
-1013305-40 = "E se [ruby=strong inteligência artificial]StrongAI[/ruby] também operar com base neste princípio?"
+1013305-40 = "E se funcionar apenas com base neste princípio?"
 
 1013305-41 = "É possível dizer que há um sentido de identidade nisso?"
 
@@ -85,7 +85,7 @@
 
 1013305-56 = "A realidade não é um experimento mental."
 
-1013305-57 = "[s] \"Rio, você cresceu!""
+1013305-57 = "[s] \"Rio, você cresceu!\""
 
 1013305-58 = "...Acabei de chegar à linha de partida."
 
@@ -157,7 +157,7 @@
 
 1013305-114 = "...Desculpe, vamos continuar."
 
-1013305-116 = "(Os "experimentos" continuaram depois disso)"
+1013305-116 = "(Os \"experimentos\" continuaram depois disso)"
 
 1013305-123 = "Hehe, isso mesmo. Eu também acho."
 

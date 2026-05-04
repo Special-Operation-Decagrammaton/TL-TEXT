@@ -1,325 +1,170 @@
 [translation]
 102030-1 = "Episódio 3; Preparação da operação (1)"
-
 102030-2 = "1º Santuário"
-
-102030-3 = "Área desértica de Abidos"
-
+102030-3 = "Área desértica de Abydos"
 102030-5 = "Meu nome é Ayane Okusora e sou responsável pelas operações do 1º Santuário."
-
-102030-6 = "皆さん、指定地点に到着しましたか？#n第1部隊、応答願います。"
+102030-6 = "Todos vocês chegaram ao local designado?#n1ª Unidade, por favor responda."
 
 102030-10 = "Está tudo bem, Ayane-chan. Os preparativos estão completos."
-
 102030-11 = "Yeah, yeah! Estou esperando☆"
-
 102030-13 = "Obrigado pela sua resposta! #nE Hoshino-senpai?"
-
 102030-15 = "Sim, o tio também está bem."
+102030-16 = "Isso é... \"Sanctum of Illusion\", certo?"
 
-102030-16 = "Isso é... "Sanctum of Illusion", certo?"
-
-102030-17 = "sim. #n...E se não atrairmos "Bina" para nós, não seremos capazes de destruí-la."
+102030-17 = "sim. #n...E se não atrairmos \"Bina\" para nós, não seremos capazes de destruí-la."
 
 102030-19 = "Nossos faz-tudo farão o papel de “isca”. OK?"
-
 102030-20 = "Ah, sim! ! Tudo o que você precisa fazer é fazer o trem quebrado ficar fora de controle e perder a vida! ? Ah, eu entendo! Eu vou morrer muito! !"
-
 102030-21 = "Ahaha! ! Haruka-chan, como sempre~"
-
 102030-22 = "Não, não funcionará se ele morrer... #nUma vez que a segunda unidade atraia Binah, ela se juntará à primeira unidade para pinçar o alvo."
-
 102030-23 = "Como você viajará em cima de um trem, é importante evitar ferimentos."
-
 102030-24 = "Sim. Deixe as posições mais perigosas para nós, Faz-tudo 68. #nIsso é o cozido duro."
-
 102030-25 = "Fufufu, parece muito divertido! Eu vi uma montanha-russa!"
-
 102030-26 = "oh sim. Pretendo destruir o trem no final..."
-
 102030-27 = "Você tem alguma reclamação?"
-
 102030-31 = "Por favor, não se preocupe com isso. #nDe qualquer forma, não é mais usado..."
-
-102030-33 = "Além disso, foi aquele trem que impulsionou o declínio de Abidos..."
-
+102030-33 = "Além disso, foi aquele trem que impulsionou o declínio de Abydos..."
 102030-34 = "Se isso pode ajudar a salvar o mundo..."
-
 102030-35 = "Eu não poderia estar mais feliz."
-
 102030-36 = "Nonomi-senpai..."
-
 102030-37 = "Sem chance,"
-
 102030-38 = "Este trem pertence ao Grupo Neftys..."
-
 102030-42 = "Ok, vamos falar sobre os velhos tempos...#nNão há problema em se preparar aqui~"
-
-102030-44 = "sim! "Petri Dish Control" No. 0, por favor responda! #nO 1º Santuário está de prontidão!"
+102030-44 = "sim! \"Petri Dish Control\" No. 0, por favor responda! #nO 1º Santuário está de prontidão!"
 
 102030-46 = "Sim, eu verifiquei. #nMaki-san, o que você acha?"
-
 102030-49 = "Sem problemas! Ah, mas tome cuidado com uma coisa."
-
 102030-50 = "Nunca toque no laser binário!"
-
 102030-51 = "É um laser superaquecido que pode apagar pedras em um instante."
-
 102030-56 = "Que tal o segundo Santuário?"
-
 102030-58 = "Santuário da Segunda Ilusão"
-
 102030-59 = "Área fechada nos arredores do Millennium"
-
-102030-61 = "Sim. Este é [ruby=Izumimoto]Izumimoto[/ruby]Aimi, responsável pelas operações no Segundo Santuário."
-
+102030-61 = "Sim. Este é IzumimotoAimi, responsável pelas operações no Segundo Santuário."
 102030-62 = "De agora em diante, planeamos envolver Chesed na fábrica de munições."
-
 102030-63 = "Em frente à fábrica, as tropas lutando contra os soldados criados por Chesed..."
-
 102030-64 = "Uma equipe de pára-quedas espera para entrar na fábrica por cima. Depois--"
-
 102030-65 = "Eu entendo a situação. obrigado. #nQuem serão os integrantes do esquadrão de pára-quedas?"
-
 102030-66 = "Foi então que... ocorreu um pequeno problema."
-
 102030-67 = "O que você quer dizer...?"
-
 102030-69 = "um? Ei, você está me ouvindo?"
-
 102030-70 = "Kihihi..."
-
 102030-71 = "Kihihihi..."
-
 102030-72 = "você sabe……"
-
 102030-73 = "Isso... estou com problemas..."
-
 102030-74 = "O Double O da C&C e o presidente do Comitê de Realização da Justiça recusam-se a ceder um ao outro."
-
 102030-75 = "……."
-
 102030-77 = "Líder, está quase na hora...#nSe você está fazendo algo assim agora..."
-
 102030-78 = "Eu sei! #nNo entanto, esse cara começou a luta primeiro."
-
 102030-82 = "Suspiro... #nUm...me desculpe, mas eu agradeceria se você pudesse me acalmar..."
-
 102030-83 = "Desculpe, isso é difícil. #nNinguém pode parar Tsurugi-senpai nesse estado..."
-
-102030-84 = "Então, por que você está lutando? #n[ruby=・ ・ ・]Não seria melhor se a pessoa mais forte[/ruby] estivesse no comando da frente?"
-
+102030-84 = "Então, por que você está lutando? #nNão seria melhor se a pessoa mais forte estivesse no comando da frente?"
 102030-85 = "Ah, Asuna-senpai, isso é...! !"
-
 102030-86 = "Ah... está terminado."
-
 102030-92 = "...Ei, mostre-se. #nVamos usar preto e branco."
-
 102030-96 = "...Keke, kihyahyahyahyahyah!"
-
 102030-100 = "Uau! É uma luta! ! #nTão interessante! Vamos ver!"
-
 102030-104 = "Suspiro... Acho que é isso que vai acontecer no final..."
-
 102030-105 = "Vamos também?"
-
 102030-110 = "ah......"
-
 102030-111 = "...Eu não posso evitar."
-
 102030-118 = "Amém? #nO que diabos está acontecendo aí――"
-
 102030-119 = "...eu fui lutar."
-
 102030-120 = "……."
-
 102030-129 = "O presidente do Comitê de Realização da Justiça é incrível!"
-
 102030-130 = "Esta é a primeira vez que vejo alguém que está no mesmo nível do líder em combate corpo a corpo."
-
-102030-131 = "Tsurugi – ela é tão conhecida que é chamada de “arma estratégica da Trindade”."
-
+102030-131 = "Tsurugi – ela é tão conhecida que é chamada de “arma estratégica da Trinity”."
 102030-133 = "Ah, isso é incrível~ #nJá faz um tempo que não vejo alguém que não se sinta intimidado por Tsurugi-senpai."
-
 102030-141 = "Kuhihi..."
-
 102030-142 = "KEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEeon! ! !"
-
 102030-147 = "Hahaha! #nOk, esse é o próximo!"
-
 102030-160 = "Ahahaha! Líder, parece divertido!"
-
 102030-161 = "Muita coisa aconteceu recentemente, então acho que estou estressado."
-
 102030-162 = "Tsurugi-senpai também está muito animado hoje."
-
 102030-164 = "Haha! Nada mal. Mas este não é o fim, certo? #nOu a ferida dói?"
-
 102030-166 = "Kihihi... que cicatriz..."
-
 102030-167 = "-Tudo está curado."
-
 102030-168 = "...Haha! Como esperado. #nEu tenho que ir! !"
-
 102030-169 = "Kieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee! !"
-
 102030-170 = "Ei, o que vocês dois estão fazendo?! !"
-
 102030-173 = "Ah... Yuka..."
-
 102030-174 = "Fomos divididos em times, brigamos...#nEm que série vocês estão agora?"
-
 102030-175 = "Desculpe, pessoal. #nEu pensei que Yuka-chan iria me impedir..."
-
 102030-176 = "None"
-
 102030-177 = "Tch, isso está começando a ficar interessante..."
-
 102030-179 = "Huh? Mas não dá para dividir os times a menos que você decida quem é o mais forte, certo?"
-
 102030-180 = "Do que diabos você está falando...?"
-
 102030-181 = "Já... aqueles dois!"
-
 102030-182 = "Ah?"
-
 102030-183 = "?"
-
 102030-184 = "Jogue pedra, papel e tesoura! Agora!"
-
 102030-188 = "Ha! ? Você pode decidir assim?"
-
 102030-189 = "Não temos tempo aqui. #nSe isso continuar, o plano irá falhar."
-
 102030-190 = "Tsk... eu entendo."
-
 102030-196 = "Bem...jan---"
-
 102030-197 = "--espada,"
-
 102030-198 = "--Pon! !"
-
 102030-200 = "……."
-
-102030-201 = "決まりだね。"
+102030-201 = "Está decidido."
 
 102030-203 = "Momoi! Midori! Yuzu! Esta é uma missão urgente! #n É captura de masmorra!"
-
 102030-204 = "Alice, cale-se! #nParece uma operação importante, então abaixe a voz...!"
-
 102030-205 = "Irmã... você está bem?"
-
-102030-206 = "H-Sim, provavelmente está tudo bem... #n sensei disse: "O time mais forte se reunirá aqui...""
+102030-206 = "H-Sim, provavelmente está tudo bem... #n sensei disse: \"O time mais forte se reunirá aqui...\""
 
 102030-207 = "sim! Alice também ouviu! Desta vez lutaremos juntos com amigos muito fortes! Então, está tudo bem!"
-
 102030-208 = "Um amigo muito forte..."
-
 102030-209 = "Bem, você disse que uma era das forças especiais, certo?"
-
 102030-216 = "Isto é Slumpia? #nA atmosfera é mais assustadora do que eu esperava."
-
 102030-217 = "O pelotão RABBIT chega ao local alvo. #nNos encontramos com a unidade principal."
-
 102030-219 = "Ei, está aqui! É SRT...!"
-
 102030-220 = "Olá... Muito obrigado."
-
 102030-222 = "Obrigado por seu apoio contínuo hoje, pessoal."
-
 102030-223 = "E RABBIT3 e RABBIT4 relatam sua localização."
-
 102030-224 = "RABBIT3 está atualmente em espera para apoio aéreo. Aguardando ordens. #n Miyu, que tal?"
-
 102030-225 = "COELHO4, pouca visibilidade...o vento sopra de sudeste a 35 nós...não creio que seja um ambiente muito bom..."
-
 102030-226 = "Mas... não tem um grande efeito no sniping..."
-
 102030-232 = "Esta é uma velocidade do vento da classe do tufão..."
-
-102030-234 = "Ei, está aqui! Amigo muito forte parte 2...! #n Presidente do Comitê Disciplinar da Gehenna, [ruby=Sorasaki]Sorasaki[/ruby]Hina...!"
-
+102030-234 = "Ei, está aqui! Amigo muito forte parte 2...! #n Presidente do Comitê Disciplinar da Gehenna, SorasakiHina...!"
 102030-235 = "Muito obrigado...!"
-
 102030-237 = "A que distância o atirador está do alvo?"
-
 102030-238 = "Ah, sim! ? Sou eu? #nAh...umm, fica a uns 950m daqui..."
-
 102030-239 = "Que arma?"
-
 102030-240 = "COELHO tipo 39, rifle de precisão...! #nAs balas são 7,62mmx53mmR...o número de balas é 5, e o número da arma é--"
-
 102030-242 = "que……"
-
 102030-244 = "... Me desculpe, eu não queria questionar você."
-
 102030-245 = "Ser capaz de atirar a uma distância duas vezes maior que o alcance efetivo de tiro e em condições tão ruins é incrível."
-
 102030-246 = "Ah, sim...? Hum, é isso mesmo?"
-
 102030-247 = "Ahhh... ah, obrigado...! ?"
-
 102030-248 = "Certa vez, Miyu atirou com sucesso em um alvo a uma distância de 1.980 metros."
-
 102030-249 = "……sim. Você pode imaginar isso apenas olhando para ele. #nVai continuar a crescer."
-
-102030-250 = "O fato do professor ter confiado no pelotão COELHO quando estava em apuros...#nE o fato de eles terem trabalhado juntos para recapturar a placa de Petri...não parece mentira."
-
+102030-250 = "O fato do sensei ter confiado no pelotão COELHO quando estava em apuros...#nE o fato de eles terem trabalhado juntos para recapturar a placa de Petri...não parece mentira."
 102030-252 = "Bem, não é realmente grande coisa."
-
 102030-253 = "E..."
-
-102030-257 = "Você é a suposta [ruby=tendo]Tendou[/ruby] Alice..."
-
+102030-257 = "Você é a suposta Tendou Alice..."
 102030-258 = "(Do incidente que aconteceu no milênio...)"
-
 102030-263 = "Pampakapaan! Um grupo de jogadores de nível sério se juntou a nós! !"
-
 102030-264 = "……."
-
 102030-265 = "Uau! Ah, Alice! ?"
-
 102030-266 = "Eu sinto muito! #nAlice-chan às vezes diz coisas estranhas..."
-
-102030-267 = "Alice, ouvi falar do Presidente do Comitê Disciplinar da Gehenna pelo meu professor!"
-
+102030-267 = "Alice, ouvi falar do Presidente do Comitê Disciplinar da Gehenna pelo meu sensei!"
 102030-269 = "...A professora está falando de mim?"
-
 102030-270 = "(Seu sussurro) O chefe do comitê de moral pública da Gehenna é uma pessoa realmente assustadora... Ouvi rumores de que ele exclui impiedosamente pessoas de quem não gosta..."
-
 102030-271 = "(Seu sussurro) E-estou com medo... M-Talvez eu fique com raiva..."
-
 102030-272 = "A professora disse que o presidente da comissão disciplinar era uma pessoa muito boa! #nEntão..."
-
 102030-273 = "E-É mesmo...?"
-
-102030-274 = "O professor?"
-
+102030-274 = "O sensei?"
 102030-278 = "……depois disso?"
-
 102030-279 = "Então... ele disse que era a única pessoa em quem confiava! #nTão confiável!"
-
 102030-280 = "Então, Alice está honrada em poder formar um grupo com o Presidente do Comitê Disciplinar! Estou muito feliz!"
-
 102030-281 = "...Hum."
-
 102030-285 = "...Não, não é nada."
-
 102030-286 = "Terceiro Santuário, espera concluída. O pelotão RABBIT e o departamento de desenvolvimento de jogos estão de prontidão. #nEquipe de operações, por favor confirme."
-
 102030-287 = "Pensando bem, a pessoa responsável por esta estratégia é――"
-
-102030-292 = "Bem, meu nome é [ruby=Hanaoka]Hanaoka[/ruby]Yuzu e sou responsável pelas operações no 3º Santuário..."
-
+102030-292 = "Bem, meu nome é HanaokaYuzu e sou responsável pelas operações no 3º Santuário..."
 102030-293 = "Por que eu deveria... ugh."
-
 102030-294 = "Boa sorte, Yuzu-chan!"
-
 102030-295 = "Isso mesmo! Esta é uma estratégia que só Yuzu pode fazer!"
-
 102030-297 = "Nós confirmamos isso. #nMuito obrigado, Yuzu-san."
-
 102030-299 = "Ha, sim... uh..."
-
-102030-301 = "次回;作戦準備（２）"
+102030-301 = "Próxima vez; Preparação da operação (2)"
 

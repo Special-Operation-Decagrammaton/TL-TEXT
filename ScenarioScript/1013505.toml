@@ -1,185 +1,40 @@
 [translation]
 1013505-1 = "busca"
-
 1013505-2 = "(correu para o Millennium)"
-
 1013505-7 = "Eu peguei!"
-
 1013505-8 = "Ha, deixe ir...!"
-
 1013505-9 = "Kei-chan, você nos odeia?"
-
 1013505-10 = "E isso é diferente...!"
-
 1013505-11 = "Ah, você está com vergonha, não é? Afinal, é um pouco diferente da Alice!"
-
-1013505-12 = "(Estou realmente curioso para saber por que Alice é Alice e eu sou Kei [ruby=・ ・ ・]chan[/ruby])"
-
+1013505-12 = "(Estou realmente curioso para saber por que Alice é Alice e eu sou Kei chan)"
 1013505-16 = "[ns1] \"O quê? Achei que fosse uma emergência...\"\n[ns2] \"É maravilhoso que todos se dêem tão bem!\""
-
-1013505-19 = "professor! Apenas no lugar certo! #nComo professor, ajude os alunos que pedem ajuda――"
-
+1013505-19 = "sensei! Apenas no lugar certo! #nComo sensei, ajude os alunos que pedem ajuda――"
 1013505-20 = "Ah, professora! Olá!"
-
-1013505-21 = "O professor será incluído?"
-
-1013505-22 = "[s] \"Vou assistir de lado.""
-
-1013505-23 = "Sim! ?"
-
-1013505-24 = "……."
-
-1013505-26 = "Eu fui um idiota por confiar em um adulto assim! !"
-
-1013505-29 = "Pensando bem, Kei-chan é irmã gêmea de Alice, certo?"
-
-1013505-30 = "Huh? Ah, sim... é isso..."
-
-1013505-31 = "Mas a cor do cabelo é completamente diferente, certo? As cores são o oposto."
-
-1013505-32 = "Ah, agora que você mencionou!"
-
-1013505-33 = "Ah... haha... acho que esse tipo de coisa acontece às vezes..."
-
-1013505-34 = "Isso mesmo. #nBem, então... eu gostaria de te perguntar sobre a missão de hoje!"
-
-1013505-35 = "Também...?"
-
-1013505-36 = "Ah, eu não gostei...?"
-
-1013505-37 = "Bem, não é que eu não goste...!"
-
-1013505-41 = "……."
-
-1013505-42 = "...Se eu não gostar, não vou."
-
-1013505-43 = "De alguma forma, não estou acostumada... ou melhor, é um pouco constrangedor..."
-
-1013505-45 = "Kyaaaaaaaaaaaa!"
-
-1013505-47 = "Estou com um mau pressentimento!"
-
-1013505-49 = "Kei-chan, é tão fofo! ! !"
-
-1013505-54 = "[ns] \"Tão fofo!!!\""
-
-1013505-55 = "Por que até você! ! !"
-
-1013505-56 = "Entããão, hein, hein... mas é isso. #nQuero que você leve isso para a sala de aula no prédio ao lado."
-
-1013505-57 = "Ah, sim... é uma chamada missão de entrega..."
-
-1013505-58 = "Sim. Além disso, desta vez serei pago antecipadamente. #nSim, este é um colar."
-
-1013505-59 = "...!"
-
-1013505-60 = "É lindo... não é?"
-
-1013505-61 = "O cromado azulado e as joias amarelas...a decoração não é muito chamativa."
-
-1013505-62 = "Mas algo que parece tão luxuoso... está tudo bem?"
-
-1013505-64 = "Está bom, está bom. [ruby=Nosso]Departamento de Desenvolvimento de Novos Materiais[/ruby] fez isso com uma combinação de recursos."
-
-1013505-65 = "A pedra preciosa também é um diamante artificial e sua composição é apenas carbono."
-
-1013505-67 = "Entendo... é verdade que hoje em dia as coisas artificiais são melhores."
-
-1013505-69 = "Obrigado pela sua entrega!"
-
-1013505-70 = "Sempre que você quiser uma missão, é só me avisar!"
-
-1013505-72 = "Não... acho que é o suficiente por hoje."
-
-1013505-73 = "... Haa."
-
-1013505-74 = "Por quanto tempo você planeja fazer isso, professor?"
-
-1013505-75 = "[s] \"Hehehe~\""
-
-1013505-76 = "O que é?"
-
-1013505-77 = "[s] \"Eu vi algo bom.\""
-
-1013505-78 = "Por que é sempre em momentos assim? !"
-
-1013505-81 = "Sério... por que todo mundo só está falando de mim..."
-
-1013505-82 = "--Por favor, aguarde. Eu sei tudo o que o professor está tentando dizer agora. #nVocê acha que se importa comigo ou simplesmente me ama, certo?"
-
-1013505-83 = "...Por favor, não desanime só porque será lido adiante. #nSou adulto..."
-
-1013505-84 = "[s] \"...Como vai a escola?\""
-
-1013505-85 = "……."
-
-1013505-86 = "Bem, não é ruim."
-
-1013505-87 = "[s] \"Entendo, você gostou.\""
-
-1013505-88 = "Você me ouviu? ? Por favor, não faça traduções arbitrárias!"
-
-1013505-89 = "Suspirar..."
-
-1013505-90 = "de qualquer forma. Estou em uma missão, então não se preocupe muito com isso agora."
-
-1013505-91 = "sim……? É por isso que [ruby=・]ku[/ruby][ruby=・]d[/ruby][ruby=・]su[/ruby][ruby=・]to[/ruby]..."
-
-1013505-92 = "...! ! !"
-
-1013505-93 = "Ei, estou fazendo uma tarefa! Apenas uma missão!"
-
-1013505-94 = "ah! Sorria assim de novo! O que há com você?"
-
-1013505-95 = "[s] \"Ainda não fiz nada!""
+1013505-21 = "O sensei será incluído?"
+1013505-22 = "[s] \"Vou assistir de lado.\"\"\n1013505-23 = \"Sim! ?\"\n1013505-24 = \"…….\"\n1013505-26 = \"Eu fui um idiota por confiar em um adulto assim! !\"\n1013505-29 = \"Pensando bem, Kei-chan é irmã gêmea de Alice, certo?\"\n1013505-30 = \"Huh? Ah, sim... é isso...\"\n1013505-31 = \"Mas a cor do cabelo é completamente diferente, certo? As cores são o oposto.\"\n1013505-32 = \"Ah, agora que você mencionou!\"\n1013505-33 = \"Ah... haha... acho que esse tipo de coisa acontece às vezes...\"\n1013505-34 = \"Isso mesmo. #nBem, então... eu gostaria de te perguntar sobre a missão de hoje!\"\n1013505-35 = \"Também...?\"\n1013505-36 = \"Ah, eu não gostei...?\"\n1013505-37 = \"Bem, não é que eu não goste...!\"\n1013505-41 = \"…….\"\n1013505-42 = \"...Se eu não gostar, não vou.\"\n1013505-43 = \"De alguma forma, não estou acostumada... ou melhor, é um pouco constrangedor...\"\n1013505-45 = \"Kyaaaaaaaaaaaa!\"\n1013505-47 = \"Estou com um mau pressentimento!\"\n1013505-49 = \"Kei-chan, é tão fofo! ! !\"\n1013505-54 = \"[ns] \"Tão fofo!!!\"\"\n1013505-55 = \"Por que até você! ! !\"\n1013505-56 = \"Entããão, hein, hein... mas é isso. #nQuero que você leve isso para a sala de aula no prédio ao lado.\"\n1013505-57 = \"Ah, sim... é uma chamada missão de entrega...\"\n1013505-58 = \"Sim. Além disso, desta vez serei pago antecipadamente. #nSim, este é um colar.\"\n1013505-59 = \"...!\"\n1013505-60 = \"É lindo... não é?\"\n1013505-61 = \"O cromado azulado e as joias amarelas...a decoração não é muito chamativa.\"\n1013505-62 = \"Mas algo que parece tão luxuoso... está tudo bem?\"\n1013505-64 = \"Está bom, está bom. Departamento de Desenvolvimento de Novos Materiais fez isso com uma combinação de recursos.\"\n1013505-65 = \"A pedra preciosa também é um diamante artificial e sua composição é apenas carbono.\"\n1013505-67 = \"Entendo... é verdade que hoje em dia as coisas artificiais são melhores.\"\n1013505-69 = \"Obrigado pela sua entrega!\"\n1013505-70 = \"Sempre que você quiser uma missão, é só me avisar!\"\n1013505-72 = \"Não... acho que é o suficiente por hoje.\"\n1013505-73 = \"... Haa.\"\n1013505-74 = \"Por quanto tempo você planeja fazer isso, sensei?\"\n1013505-75 = \"[s] \"Hehehe~\"\"\n1013505-76 = \"O que é?\"\n1013505-77 = \"[s] \"Eu vi algo bom.\"\"\n1013505-78 = \"Por que é sempre em momentos assim? !\"\n1013505-81 = \"Sério... por que todo mundo só está falando de mim...\"\n1013505-82 = \"--Por favor, aguarde. Eu sei tudo o que o sensei está tentando dizer agora. #nVocê acha que se importa comigo ou simplesmente me ama, certo?\"\n1013505-83 = \"...Por favor, não desanime só porque será lido adiante. #nSou adulto...\"\n1013505-84 = \"[s] \"...Como vai a escola?\"\"\n1013505-85 = \"…….\"\n1013505-86 = \"Bem, não é ruim.\"\n1013505-87 = \"[s] \"Entendo, você gostou.\"\"\n1013505-88 = \"Você me ouviu? ? Por favor, não faça traduções arbitrárias!\"\n1013505-89 = \"Suspirar...\"\n1013505-90 = \"de qualquer forma. Estou em uma missão, então não se preocupe muito com isso agora.\"\n1013505-91 = \"sim……? É por isso que kudsuto...\"\n1013505-92 = \"...! ! !\"\n1013505-93 = \"Ei, estou fazendo uma tarefa! Apenas uma missão!\"\n1013505-94 = \"ah! Sorria assim de novo! O que há com você?\"\n1013505-95 = \"[s] \"Ainda não fiz nada!\""
 
 1013505-96 = "Então está proibido a partir de agora!"
-
 1013505-97 = "[s] \"Exigimos liberdade de expressão!!\""
-
 1013505-98 = "Os professores são uma exceção!"
-
 1013505-99 = "Ah, é Kei. Parece divertido, certo?"
-
 1013505-106 = "Não é divertido! #nMais do que isso, estava certo. A Quest me pediu para entregar isso."
-
 1013505-107 = "Qual deles... Ah, os resultados do experimento finalmente foram divulgados."
-
 1013505-108 = "Não seria mais eficiente enviar e receber essas coisas pela Internet?"
-
 1013505-109 = "Acho que este é o único que é difícil."
-
 1013505-110 = "Por que?"
-
 1013505-111 = "É um pouco uma questão de segurança. Esta também é uma informação confidencial."
-
 1013505-112 = "As desvantagens fatais da Internet são vulnerabilidades de segurança e prazos de armazenamento!"
-
 1013505-113 = "certamente. Esta é também a razão pela qual a fita magnética não se tornou obsoleta."
-
 1013505-114 = "Bem, seria melhor se surgisse um método mais confiável. #nTemos que usar o que pudermos."
-
 1013505-115 = "...Ok, então que tal irmos juntos ao fliperama para comemorar a conclusão da missão?"
-
 1013505-116 = "Ah, hum...?"
-
 1013505-117 = "Huh? Você parecia estar se divertindo antes, certo?"
-
 1013505-118 = "Bem, como antes...! Não, isso..."
-
 1013505-119 = "[s] \"Oh, Kei-chan também gosta de jogos?\""
-
-1013505-120 = "Isso mesmo! O professor ficaria surpreso se visse também, certo?"
-
+1013505-120 = "Isso mesmo! O sensei ficaria surpreso se visse também, certo?"
 1013505-121 = "Não...! Não, é por isso...!"
-
 1013505-122 = "Huh... então parecia que você não tinha escolha a não ser sair comigo naquela hora...?"
-
 1013505-123 = "Bem, isso também não é verdade!"
-
 1013505-127 = "[ns] \"Hehe, você não está sendo honesto.\""
-
 1013505-128 = "Uh… isso…."
-
 1013505-130 = "Este adulto inocente! ! ! !"
-

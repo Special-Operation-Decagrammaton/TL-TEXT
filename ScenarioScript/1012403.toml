@@ -1,149 +1,76 @@
 [translation]
 1012403-1 = "dia de batalha decisiva"
-
 1012403-2 = "DU Shopping suburbano"
-
 1012403-3 = "(O local de encontro designado era um shopping bem longe de Trinity Borough.)"
-
 1012403-4 = "(Parece que Hasumi está esperando há muito tempo.)"
-
 1012403-5 = "Estávamos esperando por você, senhor."
-
 1012403-6 = "[s1] \"É meio revigorante nos encontrarmos em um lugar diferente do normal.\"\n[s2] \"Mas por que você escolheu um restaurante longe?\""
-
 1012403-7 = "Hehe. Concordo."
-
 1012403-8 = "Existem muito poucas oportunidades de sair do Trinity assim."
-
 1012403-9 = "Bem, isso é..."
-
 1012403-10 = "Quero evitar que o tamanho do meu maiô vaze..."
-
 1012403-11 = "Mesmo que o local seja diferente do habitual, não há problema."
-
 1012403-12 = "Confirmamos que a “Verônica” abriu uma loja neste shopping."
-
 1012403-13 = "[s3] \"Veronica...\"\n[s4] \"Ah, é a marca que todos os alunos costumam usar?\""
-
 1012403-16 = "Sim. É uma das poucas marcas de luxo que herdou o artesanato até aos dias de hoje..."
-
 1012403-17 = "Fazemos negócios com Trinity Sogo Gakuen há muito tempo e sua qualidade é garantida."
-
 1012403-18 = "Ah, você é o aluno do Trinity que ligou, certo?"
-
-1012403-24 = "Estávamos esperando por você. Hoje, [ruby=I] será quem irá guiá-lo[/ruby]."
-
+1012403-24 = "Estávamos esperando por você. Hoje,  será quem irá guiá-lo."
 1012403-25 = "Hehe. Obrigado pelo seu apoio."
-
-1012403-27 = "[ns5] (...me sinto uma "boa pessoa")\n[ns6] (Hasumi é um membro de elite do Comitê de Realização da Justiça...)"
+1012403-27 = "[ns5] (...me sinto uma \"boa pessoa\")\n[ns6] (Hasumi é um membro de elite do Comitê de Realização da Justiça...)"
 
 1012403-30 = "Sensei, vamos."
-
 1012403-32 = "Loja Verônica"
-
 1012403-33 = "Se você está procurando roupas de banho, venha aqui. #nAcabamos de preparar as últimas novidades para este verão."
-
 1012403-34 = "Tudo bem se eu experimentar?"
-
 1012403-35 = "Claro. Experimente quantos quiser até encontrar algo que lhe agrade."
-
 1012403-36 = "Hehe, muito obrigado."
-
 1012403-37 = "Pois bem, senhor, até logo."
-
 1012403-41 = "[ns] (...É uma loja tão legal, não fique nervoso)"
-
 1012403-44 = "Estúpido...! Foi isso que aconteceu...!"
-
 1012403-45 = "[s] \"Hasumi?\""
-
 1012403-46 = "Ah, professora. Desculpe, mas... o funcionário está aí?"
-
 1012403-47 = "Sim, aqui."
-
 1012403-48 = "Erm..."
-
 1012403-49 = "Você tem um maior que esse?"
-
 1012403-50 = "Sim claro. Vou trazer para você imediatamente!"
-
 1012403-53 = "Estará aqui!"
-
 1012403-54 = "obrigado. ...Desta vez!"
-
 1012403-59 = "Ah, não deveria ser assim...!"
-
 1012403-60 = "...O balconista."
-
 1012403-61 = "Hum... era um pouco pequeno, não era?"
-
 1012403-62 = "tudo bem! Também temos tamanhos maiores em nossa loja!"
-
 1012403-63 = "Droga... isso, por favor!"
-
 1012403-65 = "Hmm... eu me pergunto onde foi..."
-
 1012403-72 = "Obrigado por esperar!"
-
 1012403-73 = "……obrigado."
-
 1012403-78 = "……."
-
 1012403-79 = "...?"
-
 1012403-84 = "...O balconista."
-
 1012403-85 = "Hum, hum... é muito difícil dizer, mas..."
-
 1012403-87 = "O item que você acabou de experimentar é o maior item disponível em nossa loja."
-
 1012403-88 = "……."
-
 1012403-89 = "……."
-
 1012403-90 = "[ns] \"…….\""
-
 1012403-92 = "[ns] \"Hasumi...\""
-
 1012403-95 = "[wa:1300]― [log=하스미 수영복]Kuu...[wa:2010]Hmph! [wa:1390]Nu[wa:403]NuNu... [/log]"
-
 1012403-97 = "― [log=하스미 수영복]Ah, [wa:883] estou aqui! [/registro]"
-
 1012403-100 = "― [log=하스미 수영복]Por pouco, [wa:760], mas... [/log]"
-
 1012403-103 = "[wa:1950]― [log=하스미 수영복]Como você pode ver! [wa:2330]Sem problemas! [/registro]"
-
 1012403-105 = "― [log=하스미 수영복]Não! [/registro]"
-
 1012403-108 = "[wa:400]― [log=하스미 수영복]Se você apertar seu corpo um pouco mais, [/log]"
-
 1012403-110 = "― [log=하스미 수영복]Será do tamanho perfeito! [/registro]"
-
 1012403-113 = "[ns] \"Vamos nos acalmar por enquanto, Hasumi!\""
-
 1012403-114 = "[wa:1550]― [log=하스미 수영복]Está tudo bem! [/registro]"
-
 1012403-116 = "― [log=하스미 수영복]Este é o meu maiô [wa:430]! [/registro]"
-
 1012403-119 = "[wa:400]― [log=하스미 수영복]Na verdade, [wa:1000] isso é melhor...! [/registro]"
-
 1012403-127 = "Vou fazer isso aqui...!"
-
 1012403-128 = "[s7] \"H-Hasumi!?\"\n[s8] \"Você não precisa se forçar...!\""
-
 1012403-131 = "não! Eu estava determinado!"
-
 1012403-132 = "Se você encontrar o tamanho certo, missão cumprida! Por pouco..."
-
 1012403-133 = "Se eu tivesse um pouco mais de tempo...conseguiria um acabamento ainda mais perfeito...!"
-
 1012403-134 = "[s9] \"(Mesmo que você não force tanto...)\"\n[s10] \"(Mesmo que você não termine...)\""
-
 1012403-137 = "Vamos, balconista! Confira rapidamente!"
-
 1012403-138 = "Ah, eu cuido da conta!"
-
 1012403-140 = "(No final, Hasumi comprou o maiô que experimentou.)"
-
 1012403-141 = "(Mesmo quando pagava a conta, Hasumi estava ardendo com um espírito de luta feroz...!)"
-

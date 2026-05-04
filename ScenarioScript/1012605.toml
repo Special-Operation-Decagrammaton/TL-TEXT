@@ -17,7 +17,7 @@
 
 1012605-12 = "OK...? #nEstou preparado desde o momento em que liguei para a professora..."
 
-1012605-13 = "Tenho certeza que a professora vai aquecer esse corpo gelado, né? #nComo "daquela vez"."
+1012605-13 = "Tenho certeza que a professora vai aquecer esse corpo gelado, né? #nComo \"daquela vez\"."
 
 1012605-14 = "[ns1] (Bem, isso é ruim...!)\n[ns2] (É melhor fugir de alguma forma...)"
 
@@ -41,8 +41,7 @@
 
 1012605-38 = "Como agradecimento por me ajudar...#nVou te mostrar meu verdadeiro eu."
 
-1012605-43 = "[wa:540]― [log=카노에]Ei, [wa:930]Sensei...[wa:1470]Bem, [wa:1500]Antes de gravar...[/log]"
-
+1012605-43 = "[wa:540]― [log=카노에]せ、[wa:930]先生……[wa:1470]その、[wa:1500]収録の前に……[/log]"
 1012605-45 = "― [log=카노에]Quero que você me pergunte uma coisa. [/registro]"
 
 1012605-48 = "― [log=카노에]Ji, [wa:750]Na verdade...[/log]"
@@ -53,30 +52,25 @@
 
 1012605-55 = "― [log=카노에]Não consigo falar bem. [/registro]"
 
-1012605-58 = "[wa:510]― [log=카노에]Para ocultá-lo,[/log]"
-
+1012605-58 = "[wa:510]― [log=카노에]それを隠すために、[/log]"
 1012605-60 = "― [log=카노에]Eu estava interpretando um personagem sombrio... [/log]"
 
 1012605-63 = "― [log=카노에]A razão pela qual me envolvi com o ocultismo foi [/log]"
 
 1012605-65 = "― [log=카노에]Porque eu queria mudar a mim mesmo. [/registro]"
 
-1012605-68 = "[wa:1200]― [log=카노에]A única pessoa que sabe disso é... [wa:2000] o professor. [/registro]"
-
+1012605-68 = "[wa:1200]― [log=카노에]これを知っているのは……[wa:2000]先生だけ。[/log]"
 1012605-70 = "― [log=카노에]Então...[wa:1500]Por favor, mantenha isso em segredo? [/registro]"
 
-1012605-73 = "[wa:370]― [log=카노에]Eu, [wa:770], [wa:1900] acredito em você, [wa:1290]... [/log]"
-
+1012605-73 = "[wa:370]― [log=카노에]せ、[wa:770]先生のこと、[wa:1900]信じてる、[wa:1290]よ……。[/log]"
 1012605-76 = "[ns] \"Esta é a verdadeira forma de Kanoe...?\""
 
-1012605-77 = "[wa:150]― [log=카노에]...Ihi, [wa:1020]Ihihi. [/registro]"
-
+1012605-77 = "[wa:150]― [log=카노에]……イヒッ、[wa:1020]イヒヒ。[/log]"
 1012605-79 = "― [log=카노에]Ei, [wa:1390]Você acredita? [/registro]"
 
 1012605-82 = "― [log=카노에]Você gosta de [wa:1680] coisas fofas? [/registro]"
 
-1012605-85 = "[wa:550]― [log=카노에]Então, [wa:1340] você também gosta de mim... [wa:2400] você gosta de [wa:1240], certo? [/registro]"
-
+1012605-85 = "[wa:550]― [log=카노에]じゃあ、[wa:1340]私のことも……[wa:2400]好き、[wa:1240]だよねぇ？[/log]"
 1012605-87 = "― [log=카노에]Ei...! [/registro]"
 
 1012605-90 = "[ns] \"Bem, fui enganado de novo...!\""
@@ -97,7 +91,7 @@
 
 1012605-100 = "Só porque sou um grande vendedor... não posso baixar a guarda."
 
-1012605-101 = "[s] \"Você está perseguindo seus sonhos.""
+1012605-101 = "[s] \"Você está perseguindo seus sonhos.\""
 
 1012605-105 = "Sim... eu também tenho um sonho..."
 
@@ -117,7 +111,7 @@
 
 1012605-132 = "Uma mulher que gosta de ocultismo e é adorada por gatos pretos e corvos."
 
-1012605-138 = "Sim, [ruby=Itagaki]Itagaki[/ruby]Kanoe...!"
+1012605-138 = "Sim, Kanoé...!"
 
 1012605-139 = "[s] \"E-eu sei disso muito bem...!\""
 

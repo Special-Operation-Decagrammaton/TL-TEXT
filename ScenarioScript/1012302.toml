@@ -51,45 +51,33 @@
 
 1012302-58 = "Aparentemente, o mar está nos acolhendo."
 
-1012302-67 = "[wa:1530]― [log=세이아 수영복]Está um vento agradável. [/registro]"
-
-1012302-69 = "[wa:1150]― [log=세이아 수영복]Como esperado, parece [wa:1220]sem coração [wa:820]legal. [/registro]"
-
+1012302-67 = "[wa:1530]― [log=세이아 수영복]良い風だ。[/log]"
+1012302-69 = "[wa:1150]― [log=세이아 수영복]やはり、[wa:1220]心なしか[wa:820]涼やかに感じられる。[/log]"
 1012302-72 = "― [log=세이아 수영복]Nada atrapalha...[/log]"
 
-1012302-74 = "[wa:330]― [log=세이아 수영복]Este mundo [wa:670] pertence apenas a nós. [/registro]"
-
-1012302-77 = "[wa:1160]― [log=세이아 수영복]A vista do banco do passageiro [wa:1290] é linda? [/registro]"
-
+1012302-74 = "[wa:330]― [log=세이아 수영복]この世界は[wa:670]私たちだけのものだ。[/log]"
+1012302-77 = "[wa:1160]― [log=세이아 수영복]助手席からの眺めは[wa:1290]美しいかな？[/log]"
 1012302-80 = "― [log=세이아 수영복]Essa expressão é...[/log]"
 
-1012302-82 = "[wa:1030]― [log=세이아 수영복]Você está surpreso com a paisagem? [/registro]"
-
-1012302-85 = "[wa:1470]― [log=세이아 수영복]Ou...[/log]"
-
+1012302-82 = "[wa:1030]― [log=세이아 수영복]景色に驚いているのかい？[/log]"
+1012302-85 = "[wa:1470]― [log=세이아 수영복]それとも……[/log]"
 1012302-87 = "― [log=세이아 수영복]Meu convite [wa:880] foi inesperado? [/registro]"
 
-1012302-90 = "[wa:1380]― [log=세이아 수영복]De qualquer forma, [wa:1750]Estou satisfeito só de ver aquele rosto [wa:1400]. [/registro]"
-
-1012302-92 = "[wa:160]― [log=세이아 수영복]Acho que valeu a pena [wa:1130] convidá-la assim. [/registro]"
-
+1012302-90 = "[wa:1380]― [log=세이아 수영복]どちらにせよ、[wa:1750]その顔を拝めただけで[wa:1400]満足だ。[/log]"
+1012302-92 = "[wa:160]― [log=세이아 수영복]こうして誘った甲斐が[wa:1130]あったというものだね。[/log]"
 1012302-95 = "― [log=세이아 수영복]Mesmo que você pergunte por um motivo absurdo, [wa:1560] você não será incomodado. [/registro]"
 
 1012302-97 = "― [log=세이아 수영복]Faça o que você quiser...[wa:2170]Isso é tudo. [/registro]"
 
-1012302-100 = "[wa:670]― [log=세이아 수영복]O que você disse sobre isso [wa:1470]...[/log]"
-
+1012302-100 = "[wa:670]― [log=세이아 수영복]こういうのを、[wa:1470]何と言ったかね……[/log]"
 1012302-103 = "― [log=세이아 수영복]Hmm...[wa:2090]Escapar? [/registro]"
 
-1012302-106 = "[wa:250]― [log=세이아 수영복]Hehe... [wa:1500] Brincadeirinha. [/registro]"
-
+1012302-106 = "[wa:250]― [log=세이아 수영복]ふふ……[wa:1500]冗談さ。[/log]"
 1012302-109 = "― [log=세이아 수영복]No entanto, [wa:1530]Vai demorar um pouco ainda...[/log]"
 
-1012302-111 = "[wa:600]― [log=세이아 수영복]Isso mesmo. [/registro]"
-
-1012302-114 = "[wa:220]― [log=세이아 수영복]Até eu mandar você de volta,[/log]"
-
-1012302-116 = "― [log=세이아 수영복]Vamos pedir ao [wa:970] para se juntar a nós nesta "peça". [/registro]"
+1012302-111 = "[wa:600]― [log=세이아 수영복]そうだな。[/log]"
+1012302-114 = "[wa:220]― [log=세이아 수영복]君を送り返すまでは、[/log]"
+1012302-116 = "― [log=세이아 수영복]Vamos pedir ao [wa:970] para se juntar a nós nesta \"peça\". [/registro]"
 
 1012302-119 = "Bem, chegamos."
 
@@ -97,13 +85,13 @@
 
 1012302-127 = "Não é como se houvesse algum problema específico. #nIsso mesmo..."
 
-1012302-128 = "As estações mudam. #n[ruby=Agora]Agora[/ruby]Quero sentir esse momento, esse cenário... juntos."
+1012302-128 = "As estações mudam. #nQuero sentir esse momento, esse cenário... juntos."
 
 1012302-129 = "...Você sente que foi exposto?"
 
 1012302-130 = "Me desculpe se lhe causei muitos problemas."
 
-1012302-131 = "[s7] \"Bem, fiquei um pouco surpreso...\"\n[s8] \"Eu gostaria que você tivesse me contado isso desde o início.""
+1012302-131 = "[s7] \"Bem, fiquei um pouco surpreso...\"\n[s8] \"Eu gostaria que você tivesse me contado isso desde o início.\""
 
 1012302-134 = "n / D……."
 
@@ -121,7 +109,7 @@
 
 1012302-141 = "A sensação de distância entre os outros é variável. #nPodemos nos aproximar e nos aproximar e, claro, o oposto é verdadeiro."
 
-1012302-142 = "Você... não se deixa mais levar pelos meus flertes, mas agora pode "protestar" adequadamente."
+1012302-142 = "Você... não se deixa mais levar pelos meus flertes, mas agora pode \"protestar\" adequadamente."
 
 1012302-143 = "Ou... talvez eu estivesse esperando por esse tipo de reclamação."
 

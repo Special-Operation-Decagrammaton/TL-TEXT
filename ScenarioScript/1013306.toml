@@ -1,135 +1,53 @@
 [translation]
 1013306-1 = "Variáveis ​​inesperadas"
+1013306-2 = "(Depois de um tempo, recebi uma ligação do Rio.)"
 
-1013306-2 = "（しばらくして、リオから連絡が来た）"
-
-1013306-5 = "Professor, você está bem agora?"
-
+1013306-5 = "Sensei, você está bem agora?"
 1013306-6 = "Quanto ao que falei anteriormente, as modificações no traje foram concluídas."
-
 1013306-7 = "No entanto, uma pessoa não pode fazer o teste sozinha."
-
 1013306-8 = "Avant-garde-kun, o ajudante doméstico, também não é adequado para este teste..."
-
-1013306-9 = "Professor, você poderia me ajudar?"
-
-1013306-10 = "[s] \"Eu vou imediatamente!""
-
-1013306-11 = "obrigado."
-
-1013306-12 = "Estarei esperando no meu quarto."
-
-1013306-20 = "Está aqui."
-
-1013306-21 = "De cara, este é o traje modificado."
-
-1013306-22 = "……全然変わってないように見える？"
-
-1013306-23 = "Isso mesmo. Eu não acho que você possa dizer de fora."
-
-1013306-24 = "Não usei nenhuma peça nova, apenas apliquei a funcionalidade que já estava lá."
-
-1013306-25 = "O que modifiquei desta vez foi a parte relacionada à função de geração de calor."
-
-1013306-26 = "Este traje está equipado com um dispositivo que amplifica sinais elétricos dentro do corpo. #nPortanto, se você aplicar, também poderá transferir calor para todo o corpo."
-
-1013306-27 = "Tudo que tive que fazer foi reescrever algumas linhas de código."
-
-1013306-28 = "No entanto, se você mudar alguma coisa, precisará testá-la."
-
-1013306-29 = "Vou pedir ao professor para me ajudar na prova."
-
-1013306-30 = "[s] \"Em que posso ajudá-lo?\""
-
-1013306-31 = "Vou aumentar a temperatura do traje de agora em diante. #nPor favor, use uma câmera térmica para verificar se o calor está distribuído pela sala."
-
-1013306-32 = "[s] \"Isso é fácil!\""
-
-1013306-33 = "Se houver alguma parte que esteja vazando calor, você poderia tocá-la diretamente para verificar?"
-
-1013306-34 = "É como traçar a superfície do traje com a mão."
-
-1013306-35 = "[s] \"Isso não é fácil!""
+1013306-9 = "Sensei, você poderia me ajudar?"
+1013306-10 = "[s] \"Eu vou imediatamente!\"\"\n1013306-11 = \"obrigado.\"\n1013306-12 = \"Estarei esperando no meu quarto.\"\n1013306-20 = \"Está aqui.\"\n1013306-21 = \"De cara, este é o traje modificado.\"\n1013306-22 = \"...Parece que nada mudou?\"\n\n1013306-23 = \"Isso mesmo. Eu não acho que você possa dizer de fora.\"\n1013306-24 = \"Não usei nenhuma peça nova, apenas apliquei a funcionalidade que já estava lá.\"\n1013306-25 = \"O que modifiquei desta vez foi a parte relacionada à função de geração de calor.\"\n1013306-26 = \"Este traje está equipado com um dispositivo que amplifica sinais elétricos dentro do corpo. #nPortanto, se você aplicar, também poderá transferir calor para todo o corpo.\"\n1013306-27 = \"Tudo que tive que fazer foi reescrever algumas linhas de código.\"\n1013306-28 = \"No entanto, se você mudar alguma coisa, precisará testá-la.\"\n1013306-29 = \"Vou pedir ao sensei para me ajudar na prova.\"\n1013306-30 = \"[s] \"Em que posso ajudá-lo?\"\"\n1013306-31 = \"Vou aumentar a temperatura do traje de agora em diante. #nPor favor, use uma câmera térmica para verificar se o calor está distribuído pela sala.\"\n1013306-32 = \"[s] \"Isso é fácil!\"\"\n1013306-33 = \"Se houver alguma parte que esteja vazando calor, você poderia tocá-la diretamente para verificar?\"\n1013306-34 = \"É como traçar a superfície do traje com a mão.\"\n1013306-35 = \"[s] \"Isso não é fácil!\""
 
 1013306-36 = "Farei o que puder dentro das minhas possibilidades. #nEu me pergunto se posso pedir apenas o verso."
-
 1013306-37 = "Eu estava pensando em pedir ao meu ajudante doméstico, Avantgarde-kun, para fazer isso por mim, mas ele não tem a capacidade de medir a temperatura tocando nele."
-
 1013306-38 = "Gostaria de lhe pedir que confirme o estado do fato, mas..."
-
 1013306-39 = "[s] \"São só minhas costas...!\""
-
 1013306-40 = "Sim, tudo bem."
-
 1013306-42 = "(Eu medi a temperatura com uma câmera térmica e ocasionalmente coloquei minha mão nas costas de Rio para verificar.)"
-
 1013306-47 = "Hmm, kufu…."
-
 1013306-48 = "[ns] \"Sinto muito! Doeu?\""
-
 1013306-49 = "Por favor, não se preocupe com isso. É mais delicado do que eu esperava..."
-
 1013306-50 = "Está ficando mais quente do que eu esperava."
-
 1013306-51 = "Por favor, continue assim por enquanto."
-
 1013306-52 = "[s] \"U-Sim...!\""
-
 1013306-53 = "(Continuei verificando a temperatura do Rio por um tempo)"
-
 1013306-59 = "Ufa... Obrigado pelo seu trabalho duro. O teste acabou."
-
 1013306-60 = "Consegui confirmar que está funcionando corretamente."
-
 1013306-61 = "...No entanto, surgiu uma variável inesperada."
-
 1013306-62 = "[s] \"Que variável?\""
-
 1013306-63 = "...Está muito quente."
-
-1013306-64 = "Mantive a sala aquecida porque o professor estava chegando, mas o tiro saiu pela culatra."
-
+1013306-64 = "Mantive a sala aquecida porque o sensei estava chegando, mas o tiro saiu pela culatra."
 1013306-65 = "Isso se você não deixar o calor escapar..."
-
 1013306-68 = "Por favor, desculpe-me por um momento."
-
 1013306-71 = "[wa:500]― [log=리오 결전]Ufa...[wa:1570]Estou calmo. [/registro]"
-
 1013306-74 = "[wa:1610]― [log=리오 결전]Não levei em consideração a temperatura interna. [/registro]"
-
 1013306-77 = "― [log=리오 결전]O que eu fiz...[wa:1890]O resultado na minha frente,[/log]"
-
 1013306-79 = "― [log=리오 결전]Acho que me distraí... [/log]"
-
 1013306-82 = "[wa:930]― [log=리오 결전]...Por favor, deixe-me descansar um pouco [wa:1560]. [/registro]"
-
 1013306-84 = "― [log=리오 결전]Devido ao calor, [wa:1920] não consigo pensar muito... [/log]"
-
-1013306-87 = "[wa:1510]― [log=리오 결전]... Professor? [wa:2440]Por que você está assim...? [/registro]"
-
+1013306-87 = "[wa:1510]― [log=리오 결전]... Sensei? [wa:2440]Por que você está assim...? [/registro]"
 1013306-90 = "[wa:2200]― [log=리오 결전]...Ah! ! [/registro]"
-
 1013306-92 = "― [log=리오 결전] (Uau, [wa:320]Eu...[wa:1370]O que...!?)[/log]"
-
 1013306-95 = "[wa:490]― [log=리오 결전]Ei, [wa:660]Isso é [wa:520] intencional...! [wa:1320]Sinto muito...! [/registro]"
-
 1013306-97 = "― [log=리오 결전]Eu, [wa:810]Estou [wa:1180] bem agora...! [/registro]"
-
 1013306-101 = "Ei, consegui me livrar do calor!"
-
 1013306-102 = "O resto ficará a cargo da função de resfriamento do traje...!"
-
 1013306-103 = "Oh, está tudo bem agora――"
-
 1013306-111 = "[ns] \"Sua testa ainda está quente?\""
-
 1013306-112 = "...! !"
-
 1013306-117 = "[ns] \"Rio...!?\""
-
-1013306-119 = "（その後、リオの体をうちわで冷ましてあげた）"
+1013306-119 = "(Depois disso, usei um ventilador para resfriar o corpo do Rio.)"
 
 1013306-120 = "(Felizmente, nada aconteceu e o Rio se recuperou rapidamente.)"
-
 1013306-123 = "Sério... esse experimento teve muitas variáveis ​​inesperadas..."
-

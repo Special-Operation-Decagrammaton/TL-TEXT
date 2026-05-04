@@ -1,161 +1,50 @@
 [translation]
 1012903-1 = "Deslumbrantemente majestoso"
-
 1012903-3 = "(Hoje também está tranquilo...)"
-
 1012903-4 = "(Eu estava sentado em um banco do parque pensando nisso...)"
-
-1012903-10 = "professor!"
-
+1012903-10 = "sensei!"
 1012903-11 = "Deixe-me emprestar suas costas por um momento!"
-
 1012903-12 = "[s] \"Suzumi!? O que há de errado!?\""
-
 1012903-18 = "Por favor, olhe para frente e finja que não sabe de nada."
-
 1012903-19 = "Há um perseguidor."
-
 1012903-20 = "[s] Faça o que eu digo."
-
 1012903-25 = "Deveria ter vindo aqui!"
-
 1012903-26 = "Se eu pegá-lo, pagarei duas vezes! !"
-
 1012903-27 = "Não me deixe escapar!"
-
 1012903-28 = "Todos, cerquem o parque!"
-
 1012903-29 = "Ele tem cabelos brancos e usa um uniforme cinza do Trinity. #nSe encontrar, faça na hora!"
-
 1012903-34 = "[ns1] \"Um fã de Suzumi?\"\n[ns2] \"Um amigo de Suzumi?\""
-
 1012903-37 = "...Não é."
-
 1012903-41 = "Parece que eles foram para o lado de fora do parque..."
-
 1012903-42 = "Eu estava indo consertar minhas roupas quando fui emboscado."
-
 1012903-43 = "A munição acabou, tornando difícil avançar de frente..."
-
 1012903-44 = "Graças à professora a crise foi evitada, mas o que devo fazer a partir de agora?"
-
 1012903-45 = "[s] \"Quantos oponentes existem?\""
-
 1012903-46 = "não sei o número exato...."
-
 1012903-47 = "Suprimimos cerca de 90 pessoas ao longo do caminho, mas parece que ainda restam mais do que o dobro de pessoas."
-
 1012903-48 = "[s3] \"90 pessoas!?\"\n[s4] \"Isso significa que há mais 200!?\""
-
 1012903-51 = "Sim, provavelmente."
-
 1012903-52 = "Será difícil enfrentar esse número de frente."
-
 1012903-53 = "... Ufa."
-
-1012903-54 = "Porém, graças ao meu professor, consegui descansar um pouco. #nTentarei ver se consigo de alguma forma romper onde o cerco é fraco."
-
+1012903-54 = "Porém, graças ao meu sensei, consegui descansar um pouco. #nTentarei ver se consigo de alguma forma romper onde o cerco é fraco."
 1012903-55 = "Por favor, saia do parque rapidamente. Não posso deixar você se envolver."
-
 1012903-60 = "Eca..."
-
 1012903-61 = "[s] \"Suzumi! Você está machucada?\""
-
 1012903-62 = "Parece que ele torceu um pouco a perna."
-
 1012903-63 = "Não posso correr, mas... está tudo bem."
-
-1012903-64 = "[s5] \"Não se force!\"\n[s6] \"Vamos dar um jeito!""
-
-1012903-67 = "Eles sabem como eu sou. #nUma colisão ao escapar é... inevitável."
-
-1012903-68 = "Deixe isso comigo, senhor, por favor..."
-
-1012903-69 = "[s7] \"...tive uma boa ideia.\"\n[s8] \"Faça o que eu digo.\""
-
-1012903-72 = "Não, não acredito que estou colocando meu professor em perigo...!"
-
-1012903-73 = "[s] \"Sou professor da Suzumi, certo?\""
-
-1012903-77 = "……Entendido. Quais são exatamente as medidas?"
-
-1012903-80 = "Bem, professor――"
-
-1012903-83 = "É uma “boa ideia” usar essa roupa? ?"
-
-1012903-84 = "[s] \"Estou feliz que tenha sido antes de eu consertar isso!\""
-
-1012903-85 = "Contra um adversário que é superior em números, isso dificulta a movimentação e fica em desvantagem."
-
-1012903-86 = "Talvez você possa fazer uma piada nesta situação...! ?"
-
-1012903-87 = "[s9] \"Você ouviu a conversa mais cedo, certo?\"\n[s10] \"Chama-se ``Uniforme Grey Trinity'' \""
-
-1012903-90 = "! !"
-
-1012903-91 = "Sim, foi..."
-
-1012903-92 = "Todas as características que conhecem sobre mim são baseadas em boatos."
-
-1012903-93 = "Parece que nenhuma foto foi tirada dele, então não sabemos como realmente é."
-
-1012903-94 = "Se você se disfarçar... poderá sair sem conflito."
-
-1012903-95 = "Mas essa roupa... ainda é constrangedora...!"
-
-1012903-96 = "[s11] \"Garotas mágicas são aliadas da justiça...\"\n[s12] \"Elas são perfeitas para esta situação.\""
-
-1012903-99 = "Mesmo se você disser isso...#n, eu entendo."
-
-1012903-100 = "Por enquanto, fique longe do professor, pois é perigoso."
-
-1012903-101 = "[s] \"Bem, na verdade, há uma continuação da estratégia...\""
-
-1012903-109 = "Você ainda não viu? Um exemplo do uniforme da Trinity."
-
-1012903-110 = "Ah, mas estou deixando os não relacionados saírem. #nÉ uma questão de tempo."
-
-1012903-111 = "Eu definitivamente vou pegá-lo e bater nele...!"
-
-1012903-117 = "……Sim?"
-
-1012903-121 = "Ei, Thermite White está aqui!"
-
-1012903-126 = "? ? ? ? ?"
-
-1012903-127 = "Ah, não é o professor da placa de Petri ao seu lado?"
-
-1012903-128 = "Você está gravando vídeos com seu smartphone?"
-
-1012903-130 = "Como atirar com um atirador pronto! ☆"
-
-1012903-131 = "[s] \"Ok, finalmente! Essa timidez é ótima! Incrível!""
+1012903-64 = "[s5] \"Não se force!\"\n[s6] \"Vamos dar um jeito!\"\"\n1012903-67 = \"Eles sabem como eu sou. #nUma colisão ao escapar é... inevitável.\"\n1012903-68 = \"Deixe isso comigo, senhor, por favor...\"\n1012903-69 = \"[s7] \"...tive uma boa ideia.\"\n[s8] \"Faça o que eu digo.\"\"\n1012903-72 = \"Não, não acredito que estou colocando meu sensei em perigo...!\"\n1012903-73 = \"[s] \"Sou sensei da Suzumi, certo?\"\"\n1012903-77 = \"……Entendido. Quais são exatamente as medidas?\"\n1012903-80 = \"Bem, sensei――\"\n1012903-83 = \"É uma “boa ideia” usar essa roupa? ?\"\n1012903-84 = \"[s] \"Estou feliz que tenha sido antes de eu consertar isso!\"\"\n1012903-85 = \"Contra um adversário que é superior em números, isso dificulta a movimentação e fica em desvantagem.\"\n1012903-86 = \"Talvez você possa fazer uma piada nesta situação...! ?\"\n1012903-87 = \"[s9] \"Você ouviu a conversa mais cedo, certo?\"\n[s10] \"Chama-se ``Uniforme Grey Trinity'' \"\"\n1012903-90 = \"! !\"\n1012903-91 = \"Sim, foi...\"\n1012903-92 = \"Todas as características que conhecem sobre mim são baseadas em boatos.\"\n1012903-93 = \"Parece que nenhuma foto foi tirada dele, então não sabemos como realmente é.\"\n1012903-94 = \"Se você se disfarçar... poderá sair sem conflito.\"\n1012903-95 = \"Mas essa roupa... ainda é constrangedora...!\"\n1012903-96 = \"[s11] \"Garotas mágicas são aliadas da justiça...\"\n[s12] \"Elas são perfeitas para esta situação.\"\"\n1012903-99 = \"Mesmo se você disser isso...#n, eu entendo.\"\n1012903-100 = \"Por enquanto, fique longe do sensei, pois é perigoso.\"\n1012903-101 = \"[s] \"Bem, na verdade, há uma continuação da estratégia...\"\"\n1012903-109 = \"Você ainda não viu? Um exemplo do uniforme da Trinity.\"\n1012903-110 = \"Ah, mas estou deixando os não relacionados saírem. #nÉ uma questão de tempo.\"\n1012903-111 = \"Eu definitivamente vou pegá-lo e bater nele...!\"\n1012903-117 = \"……Sim?\"\n1012903-121 = \"Ei, Thermite White está aqui!\"\n1012903-126 = \"? ? ? ? ?\"\n1012903-127 = \"Ah, não é o sensei da placa de Petri ao seu lado?\"\n1012903-128 = \"Você está gravando vídeos com seu smartphone?\"\n1012903-130 = \"Como atirar com um atirador pronto! ☆\"\n1012903-131 = \"[s] \"Ok, finalmente! Essa timidez é ótima! Incrível!\""
 
 1012903-135 = "Ah, nos seus olhos...flashbang☆"
-
-1012903-137 = "Ser professor é um hobby..."
-
+1012903-137 = "Ser sensei é um hobby..."
 1012903-138 = "Ah, ei... estou vindo aqui. Dê um passo para trás."
-
 1012903-139 = "...Esse é o suposto... trabalho de estar de plantão na placa de Petri."
-
 1012903-140 = "Parece difícil...."
-
 1012903-141 = "Obrigado por abrir o caminho para mim! Fadas!"
-
 1012903-142 = "Ah, sim..."
-
-1012903-143 = "Vamos lá, não faça contato visual com o professor..."
-
+1012903-143 = "Vamos lá, não faça contato visual com o sensei..."
 1012903-149 = "... Realmente correu bem."
-
-1012903-150 = "Eu não conseguia acreditar que havia um plano para “transformar” o professor em fotógrafo também..."
-
+1012903-150 = "Eu não conseguia acreditar que havia um plano para “transformar” o sensei em fotógrafo também..."
 1012903-151 = "[s13] \"Ah, corte por enquanto.\"\n[s14] \"Continue suas falas! Thermite White!\""
-
 1012903-157 = "Uau, você estava realmente controlando a câmera? ?"
-
 1012903-159 = "(Mesmo depois disso, os sukebans continuaram a me evitar...)"
-
 1012903-160 = "(Consegui escapar do parque em segurança com Suzumi.)"
-

@@ -1,151 +1,45 @@
 [translation]
 1006006-1 = "A conexão entre as fontes termais e o ramen"
-
 1006006-2 = "(Cheguei ao ponto de encontro a tempo para o compromisso)."
-
 1006006-3 = "(Era um lugar tranquilo, longe do centro da cidade)."
-
-1006006-7 = "Yoo-hoo~! Professor~! Aqui, aqui!"
-
-1006006-8 = "[s1] \"Meg~ \"\n[s2] \"O que você está fazendo aqui? \"\"\n[s2]"\n[s2]"\n[s2]"\n[s2]"O que você está fazendo aqui?"
+1006006-7 = "Yoo-hoo~! Sensei~! Aqui, aqui!"
+1006006-8 = "[s1] \"Meg~ \"\n[s2] \"O que você está fazendo aqui? \"\"\n[s2]\"\n[s2]\"\n[s2]\"\n[s2]\"O que você está fazendo aqui?"
 
 1006006-11 = "O quê? O que eu estava fazendo?"
-
 1006006-12 = "Vejamos - preparando-se para fazer ramen!"
-
 1006006-13 = "Por que se preocupar em fazer isso aqui: ......?"
-
 1006006-14 = "Hmmm,"
-
 1006006-15 = "Por que não? ......."
-
 1006006-16 = "Quando você faz ramen, você vem para um lugar tranquilo como este."
-
 1006006-17 = "Ninguém o incomoda - ninguém é muito barulhento!"
-
 1006006-18 = "Ah, mas ......"
-
 1006006-19 = "Para obter mais informações, consulte ......."
-
 1006006-21 = "Eu me pergunto se é ...... porque você pode observar de perto onde o ramen está fervendo?"
-
 1006006-22 = "...... Estou apenas perguntando se você gosta de vê-los se engasgando?"
-
 1006006-26 = "Hmmm. ......."
-
 1006006-27 = "...... Como posso explicar ......?"
-
 1006006-28 = "[s3] \"Você gosta de ver o macarrão ferver? \"\n[s4] \"Quer dizer que você quer se concentrar em cozinhar? "
-
 1006006-31 = "Hmmm, talvez não seja esse o caso."
-
 1006006-32 = "Não sou um bom cozinheiro. ...... É por isso que se trata de macarrão ensacado."
-
 1006006-33 = "O que posso dizer, ...... Estou olhando para ele atordoado. ......"
-
 1006006-34 = "Eventualmente, ele começa a se parecer com um spa. ......"
-
 1006006-35 = "É assim que me sinto em relação a isso. ...... Os professores não acham o mesmo?"
+1006006-39 = "[ns5] \"\"\"\n[ns6]\n[ns7]\n[ns8]\n[ns9]}\"Como o vapor? \"\n[ns6]\"A parte em que a água está fervendo? \"\"\n1006006-42 = \"Hmm, não tenho certeza! #Não tenho certeza, mas acho que é mais ou menos assim.\"\n1006006-43 = \"Pense nisso, doutor.\"\n1006006-44 = \"Ah, é um pouco estranho eu dizer a um sensei para pensar sobre isso. ......\"\n1006006-45 = \"...... Bem, vamos deixar isso para lá!\"\n1006006-46 = \"Pense em como o macarrão ramen é cozido!\"\n1006006-47 = \"Quando você coloca os ingredientes na água fervente, eles ficam moles, não é?\"\n1006006-48 = \"Portanto, quando você vir o vapor cintilante subindo. ......\"\n1006006-49 = \"É como um spa para macarrão ramen - pensei!\"\n1006006-50 = \"Quando vejo isso, fico feliz~. #nÉ como quando você fica de molho em uma fonte termal e seu corpo relaxa, não é?\"\n1006006-51 = \"Acho que fico mais feliz quando estou de molho em um spa!\"\n1006006-52 = \"...... sim?\"\n1006006-53 = \"E quanto às sopas que não sejam ramen?\"\n1006006-54 = \"É claro que eu gosto! #n Mas a única coisa que eu mesmo posso fazer é ramen!\"\n1006006-55 = \"E com o ramen, posso prepará-lo assim que quiser ver essa cena!\"\n1006006-56 = \"...... então eu gosto de ramen. #não, é por isso que gosto de ramen!\"\n1006006-57 = \"[s7] \"É uma maneira interessante de pensar. \"\n[s8] \"Isso torna a alimentação divertida, não é? \"\n[s8] \"É uma ideia interessante.\""
 
-1006006-39 = "[ns5] \"\"\"\n[ns6]\n[ns7]\n[ns8]\n[ns9]}"Como o vapor? \"\n[ns6]\"A parte em que a água está fervendo? \""
-
-1006006-42 = "Hmm, não tenho certeza! #Não tenho certeza, mas acho que é mais ou menos assim."
-
-1006006-43 = "Pense nisso, doutor."
-
-1006006-44 = "Ah, é um pouco estranho eu dizer a um professor para pensar sobre isso. ......"
-
-1006006-45 = "...... Bem, vamos deixar isso para lá!"
-
-1006006-46 = "Pense em como o macarrão ramen é cozido!"
-
-1006006-47 = "Quando você coloca os ingredientes na água fervente, eles ficam moles, não é?"
-
-1006006-48 = "Portanto, quando você vir o vapor cintilante subindo. ......"
-
-1006006-49 = "É como um spa para macarrão ramen - pensei!"
-
-1006006-50 = "Quando vejo isso, fico feliz~. #nÉ como quando você fica de molho em uma fonte termal e seu corpo relaxa, não é?"
-
-1006006-51 = "Acho que fico mais feliz quando estou de molho em um spa!"
-
-1006006-52 = "...... sim?"
-
-1006006-53 = "E quanto às sopas que não sejam ramen?"
-
-1006006-54 = "É claro que eu gosto! #n Mas a única coisa que eu mesmo posso fazer é ramen!"
-
-1006006-55 = "E com o ramen, posso prepará-lo assim que quiser ver essa cena!"
-
-1006006-56 = "...... então eu gosto de ramen. #não, é por isso que gosto de ramen!"
-
-1006006-57 = "[s7] \"É uma maneira interessante de pensar. \"\n[s8] \"Isso torna a alimentação divertida, não é? \"\n[s8] \"É uma ideia interessante.""
-
-1006006-60 = "Ha ha. Achei que o professor entenderia~!"
-
+1006006-60 = "Ha ha. Achei que o sensei entenderia~!"
 1006006-61 = "Precisamos fazer ramen o mais rápido possível para professores como esse."
-
-1006006-62 = "Ei, professor! #nVeja-me ferver ramen juntos!"
-
+1006006-62 = "Ei, sensei! #nVeja-me ferver ramen juntos!"
 1006006-67 = "Sente-se aqui! Vou fazer isso para você!"
-
 1006006-73 = "(Depois disso, os dois comeram o ramen que Meg preparou para eles)."
-
 1006006-78 = "(Era macarrão comercial comum ensacado, mas o macarrão ramen que comemos juntos sob o céu era excepcionalmente saboroso)"
-
 1006006-81 = "Ufa! Festa!"
-
 1006006-82 = "Onde está o médico? Se ainda estiver comestível, devo ferver outro?"
-
 1006006-83 = "Oh, você está bem agora?"
-
 1006006-84 = "Haha."
-
 1006006-85 = "Eu também estou cheio disso!"
-
 1006006-89 = "...... O vento é bom. ......"
-
 1006006-93 = "...... Ah."
-
 1006006-96 = "O presunto ainda está flutuando. É #n fofo - fofo!"
-
-1006006-97 = "[ns9] \"Parece que você está de molho em uma fonte termal. \"\n[ns10] \"Você está flutuando sem pressa. \"\"\n[ns10] \"Você está flutuando sem pressa.""
-
-1006006-101 = "Ha-ha-ha-ha! Até o professor está falando como eu~!"
-
-1006006-102 = "Mas é verdade, ...... olhando assim me dá vontade de mergulhar em uma fonte termal."
-
-1006006-103 = "Se o professor for esse presunto. ......"
-
-1006006-104 = "Vou comer um pedaço saboroso disso!"
-
-1006006-108 = "Puxa, puxa! Ha ha!"
-
-1006006-109 = "Huh. ...... hihi."
-
-1006006-110 = "Estou rindo tanto que estou ficando com fome novamente."
-
-1006006-111 = "Depois, enquanto ainda estiver cheio, você pode visitar o site ......."
-
-1006006-116 = "Yo-yo!"
-
-1006006-117 = "...... Precisamos ir e construir um spa!"
-
-1006006-118 = "[ns11] \"O quê? A esta hora ......! \"\n[ns12] \"Estamos começando agora! "
-
-1006006-121 = "Haha. Claro que sim!"
-
-1006006-122 = "Saí porque queria comer ramen no jantar, mas na verdade estava no meio de uma tarefa. Já estou quase terminando."
-
-1006006-123 = "Depois do jantar, cave uma fonte termal! Deixe todos mergulharem na água quente! Deixe-os relaxar~!"
-
-1006006-124 = "É para isso que serve o Departamento de Desenvolvimento de Spa!"
-
-1006006-125 = "Então, professor, obrigado por ter vindo hoje! #nVamos comer juntos novamente!"
-
-1006006-126 = "Â "Comprar e vender"."
-
-1006006-135 = "[ns13] \"Até a sopa estava deliciosa. \"\n[ns14] \"Obrigado pela comida. \"\"\n[ns14] \"Obrigado pela comida.""
+1006006-97 = "[ns9] \"Parece que você está de molho em uma fonte termal. \"\n[ns10] \"Você está flutuando sem pressa. \"\"\n[ns10] \"Você está flutuando sem pressa.\"\"\n1006006-101 = \"Ha-ha-ha-ha! Até o sensei está falando como eu~!\"\n1006006-102 = \"Mas é verdade, ...... olhando assim me dá vontade de mergulhar em uma fonte termal.\"\n1006006-103 = \"Se o sensei for esse presunto. ......\"\n1006006-104 = \"Vou comer um pedaço saboroso disso!\"\n1006006-108 = \"Puxa, puxa! Ha ha!\"\n1006006-109 = \"Huh. ...... hihi.\"\n1006006-110 = \"Estou rindo tanto que estou ficando com fome novamente.\"\n1006006-111 = \"Depois, enquanto ainda estiver cheio, você pode visitar o site .......\"\n1006006-116 = \"Yo-yo!\"\n1006006-117 = \"...... Precisamos ir e construir um spa!\"\n1006006-118 = \"[ns11] \"O quê? A esta hora ......! \"\n[ns12] \"Estamos começando agora! \"\n1006006-121 = \"Haha. Claro que sim!\"\n1006006-122 = \"Saí porque queria comer ramen no jantar, mas na verdade estava no meio de uma tarefa. Já estou quase terminando.\"\n1006006-123 = \"Depois do jantar, cave uma fonte termal! Deixe todos mergulharem na água quente! Deixe-os relaxar~!\"\n1006006-124 = \"É para isso que serve o Departamento de Desenvolvimento de Spa!\"\n1006006-125 = \"Então, sensei, obrigado por ter vindo hoje! #nVamos comer juntos novamente!\"\n1006006-126 = \"Â \"Comprar e vender\".\"\n1006006-135 = \"[ns13] \"Até a sopa estava deliciosa. \"\n[ns14] \"Obrigado pela comida. \"\"\n[ns14] \"Obrigado pela comida.\""
 
 1006006-141 = "(Então, depois de me limpar, voltei para minha placa de Petri e me deitei, estava cheio e imediatamente adormeci agradavelmente)."
-

@@ -1,179 +1,178 @@
 [translation]
-1010102-1 = "trabalho de meio período em uma cafeteria"
+1010102-1 = "Trabalho de meio período em cafeteria"
 
-1010102-4 = "(Saori entrou em contato comigo e fomos a uma lanchonete à beira-mar)"
+1010102-4 = "(Recebi uma ligação de Saori e fui para um restaurante à beira-mar.)"
 
-1010102-10 = "É o okonomiyaki que você pediu. Por favor, fique à vontade."
+1010102-10 = "É o okonomiyaki que você pediu. Por favor, não tenha pressa."
 
-1010102-11 = "Parece delicioso!"
+1010102-11 = "parece delicioso!"
 
-1010102-12 = "...... Ei, onde está a maionese?"
+1010102-12 = "...E a maionese?"
 
-1010102-16 = "Ah! Era! #Desculpe-me por isso! Eu o trarei de volta!"
+1010102-16 = "Ah! era! #nDesculpe! Vou trazê-lo imediatamente!"
 
-1010102-21 = "Desculpe, desculpe! O menu #n ainda não chegou!"
+1010102-21 = "Desculpe! #nO cardápio ainda não chegou!"
 
-1010102-22 = "Desculpe-me! Espere um pouco mais!"
+1010102-22 = "Desculpe! Espere mais um pouco!"
 
-1010102-27 = "(Ele parece ocupado. Vamos esperar para ver)."
+1010102-27 = "[ns] (Parece que ele está ocupado, então não tenha pressa)"
 
-1010102-32 = "Ha, ha. ......."
+1010102-32 = "Ha, ha..."
 
-1010102-33 = "Bem-vindo. Este é o site ...... no cardápio."
+1010102-33 = "Bem-vindo. Isso está no cardápio..."
 
-1010102-37 = "Você é um professor, não é?"
+1010102-37 = "Não é seu professor?"
 
 1010102-38 = "Obrigado por ter vindo até aqui."
 
-1010102-39 = "[\"Você parece muito ocupado. \""
+1010102-39 = "[s] \"Parece que você está muito ocupado.\""
 
-1010102-40 = "Não é que haja muito trabalho, mas é que ainda estou me acostumando a ele. ......"
+1010102-40 = "Não é que eu tenha muito trabalho a fazer, mas ainda estou me acostumando..."
 
-1010102-41 = "Demonstrei minha imaturidade?"
+1010102-41 = "Mostrei minha imaturidade?"
 
-1010102-42 = "...... Ah, o cardápio pode ser encontrado aqui."
+1010102-42 = "...Ah, o cardápio está aqui."
 
-1010102-43 = "Faça sua escolha."
+1010102-43 = "Escolha o que você gosta."
 
-1010102-44 = "[s1] \"Você tem muitas coisas. \"\n[s2] \"O que a Saori recomenda? \"\n[s2]]"
+1010102-44 = "[s1] \"Há muitas coisas.\"\n[s2] \"O que você recomenda para Saori?\""
 
-1010102-47 = "Em seguida, acesse ......."
+1010102-47 = "Nesse caso..."
 
-1010102-51 = "Que tal tornar esse item o mais pedido do cardápio?"
+1010102-51 = "Que tal fazer deste o item mais pedido do cardápio?"
 
-1010102-52 = "Está listado aqui, "Omelete de arroz especial com serviço sincero"."
+1010102-52 = "É o “arroz de omelete especial com atendimento sincero” listado aqui."
 
-1010102-53 = "...... sim?"
+1010102-53 = "……Sim?"
 
-1010102-54 = "O Sincerity Service é um serviço que faz desenhos em omeletes com ketchup."
+1010102-54 = "O serviço Shinshin é um serviço que faz desenhos em omelete de arroz com ketchup."
 
-1010102-55 = "Se você fizesse um desenho, ele desapareceria depois que você o comesse, não é mesmo? Não entendo por que você tem que passar por todo esse trabalho quando é #n, mas ......."
+1010102-55 = "Mesmo se você fizer um desenho, ela desaparecerá se você comer, certo? Não entendo porque é preciso tanto esforço mesmo sendo #n..."
 
-1010102-59 = "[ns] \"Então vamos fazer isso! \""
+1010102-59 = "[ns] \"Ok, vamos fazer isso!\""
 
-1010102-60 = "Hm! O professor nº 1 também pede uma omelete?"
+1010102-60 = "sim! ? #nA professora também vai pedir arroz com omelete?"
 
-1010102-61 = "...... Ok, eu entendi. #nMas não há garantia de que eu possa fazer um desenho bonito. ......"
+1010102-61 = "... Entendo, eu entendo. #nNo entanto, não há garantia de que você conseguirá fazer desenhos fofos..."
 
-1010102-62 = "[s3] \"Pelo contrário, tudo bem! \"\n[s4] \"Se a Saori desenhar, já é o suficiente para mim! \"\"\n[s4]]"
+1010102-62 = "[s3] \"Na verdade, tudo bem!\"\n[s4] \"Se Saori desenha, é o suficiente!\""
 
-1010102-65 = "Isso é tão ......?"
+1010102-65 = "Eu-é isso mesmo...?"
 
-1010102-66 = "OK, vejo você mais tarde. Bem, então..."
+1010102-66 = "Entendi. Bem, então――"
 
-1010102-71 = "Ei! Que diabos é isso?"
+1010102-71 = "Ei! O que diabos isso significa? ?"
 
-1010102-75 = "Parece que algo aconteceu por lá."
+1010102-75 = "Parece que algo aconteceu ali."
 
-1010102-76 = "[\"Você não tem que ir? \""
+1010102-76 = "[s] \"Eu preciso ir?\""
 
-1010102-77 = "O site ...... estaria interessado, mas o pedido do professor teria que ser feito primeiro."
+1010102-77 = "...Estou curioso, mas acho que a ordem do professor vem primeiro."
 
-1010102-78 = "Aprendi a etiqueta de atendimento ao cliente para que eu possa lidar com todo e qualquer cliente que estiver diante de mim."
+1010102-78 = "Aprendi etiqueta de atendimento ao cliente para que pudesse lidar com cada cliente à minha frente."
 
-1010102-83 = "Continue com isso e ligue para a pessoa responsável!"
+1010102-83 = "Ligue imediatamente para o responsável!"
 
-1010102-84 = "......."
+1010102-84 = "……."
 
-1010102-85 = "[Vou ficar bem. \""
+1010102-85 = "[s] \"Eu ficarei bem.\""
 
-1010102-86 = "Desculpe, vou ver o que está acontecendo."
+1010102-86 = "Desculpe, vou verificar você."
 
-1010102-90 = "[Preocupado, ele segue Saori."
+1010102-90 = "[ns] Fico preocupado e sigo Saori."
 
-1010102-98 = "Ei! Que diabos é isso? Esse não é o menu #n!"
+1010102-98 = "Ei! O que é isso! #nÉ diferente do cardápio!"
 
-1010102-99 = "Você só pode estar brincando!"
+1010102-99 = "Você está brincando comigo? ?"
 
-1010102-104 = "Você ...... talvez tenha pedido a comida que acabou de pedir: ......"
+1010102-104 = "Você... acho que você pediu a comida agora há pouco..."
 
-1010102-105 = "Qual é o problema?"
+1010102-105 = "Houve algum problema?"
 
-1010102-106 = "Você ligou para o funcionário porque existe um!"
+1010102-106 = "Por isso liguei para o balconista!"
 
-1010102-110 = "Dê uma boa olhada nisso!"
+1010102-110 = "Dê uma olhada!"
 
-1010102-114 = "...... Desculpe, não estou entendendo. Não se trata de uma omelete normal?"
+1010102-114 = "... Me desculpe, mas eu realmente não entendo. #nNão é só um arroz de omelete normal?"
 
-1010102-115 = "[s] (...... que, também, está prestes a ser comido)"
+1010102-115 = "[s] (...isso também está meio comido)"
 
-1010102-116 = "Como assim, você mesmo o forneceu e não se deu conta disso?"
+1010102-116 = "O que você quer dizer com você mesmo fornece e não percebe?"
 
-1010102-117 = "Você estava falando sobre desenhar gatos com ketchup!"
+1010102-117 = "Você disse que poderia fazer um desenho de um gato com ketchup!"
 
-1010102-121 = "E, no entanto, não importa como você olhe para ele, você não está olhando para um gato, está olhando para um coelho!"
+1010102-121 = "No entanto, não importa como você olhe, é um coelho, não um gato!"
 
-1010102-122 = "[ns] \"É apenas uma acusação! \""
+1010102-122 = "[ns] \"É só uma piada!\""
 
-1010102-123 = "Foi servido algo diferente do que você pediu. ......"
+1010102-123 = "Porque me serviram algo diferente do que pedi..."
 
-1010102-124 = "Você não quer o dinheiro, quer?"
+1010102-124 = "Você não precisa pagar, certo?"
 
-1010102-128 = "Torne-se. ......!"
+1010102-128 = "O que...!"
 
-1010102-132 = "...... De fato, essa imagem pode não parecer um gato."
+1010102-132 = "...Certamente, esta imagem pode não parecer a de um gato."
 
-1010102-133 = "Cometi um erro em meu pedido. ......"
+1010102-133 = "A culpa foi minha por ter cometido um erro no pedido..."
 
-1010102-134 = "Então você está dizendo que paga pela sua comida aqui de graça?"
+1010102-134 = "Então a comida aqui é de graça, certo?"
 
-1010102-135 = "[s]\"Saori, é - Ј""
+1010102-135 = "[s] \"Saori, isso é――\""
 
-1010102-140 = "Em seguida, redesenharei seu gato até que você fique satisfeito!"
+1010102-140 = "Depois vou redesenhar a imagem do gato até você ficar satisfeito!"
 
-1010102-145 = "E quanto ao ......?"
+1010102-145 = "……dentes?"
 
-1010102-146 = "Não é por isso. ......!"
+1010102-146 = "Não é isso...!"
 
-1010102-147 = "Não se preocupe, você pode contar comigo!"
+1010102-147 = "Não se preocupe, fique atento!"
 
-1010102-148 = "Eu levaria ketchup comigo para o caso de uma situação dessas!"
+1010102-148 = "Sempre carrego ketchup comigo caso isso aconteça!"
 
-1010102-152 = "Huh!"
+1010102-152 = "Haaah!"
 
-1010102-153 = "Bem, espere um pouco. ......!"
+1010102-153 = "Bem, espere...!"
 
-1010102-155 = "(......1 horas depois)"
+1010102-155 = "(...1 hora depois)"
 
-1010102-159 = "O melhor de todos os tempos. ...... #nVocê está satisfeito com isso?"
+1010102-159 = "Este é o melhor desempenho de todos os tempos...! #nVocê está satisfeito com isso?"
 
-1010102-160 = "Não, não. Eu não quis dizer isso. ......"
+1010102-160 = "Não, não. Isto é o que eu quis dizer..."
 
-1010102-161 = "Isso ainda não é suficiente. ......"
+1010102-161 = "Mesmo isso não é bom...."
 
 1010102-162 = "Ok, vamos tentar novamente!"
 
-1010102-168 = "(......4 horas depois)"
+1010102-168 = "(...4 horas depois)"
 
-1010102-172 = "Que tal! #nEste parece um gato, não parece?"
+1010102-172 = "O que você acha? #nIsso parece um gato, certo?"
 
-1010102-173 = "Uau, ok, então ......!"
+1010102-173 = "Ah, eu entendo...!"
 
-1010102-174 = "Você não parece estar convencido. ......"
+1010102-174 = "Eu não acho que você esteja convencido..."
 
-1010102-178 = "Certo, mais uma vez!"
+1010102-178 = "よし、もう一度だ！"
+1010102-182 = "Além disso, pare já! #nA culpa foi minha!"
 
-1010102-182 = "Oh, por favor, não faça isso de novo! #nFoi minha culpa!"
+1010102-183 = "Ou, se for dinheiro, eu pago! #nPor favor, me perdoe!"
 
-1010102-183 = "Eu lhe pagarei por isso! #n Perdoe-me!"
+1010102-188 = "Ah, espere!"
 
-1010102-188 = "Bem, espere!"
+1010102-189 = "Acho que desenhei bem...!"
 
-1010102-189 = "Acho que o desenhei bem. ......"
+1010102-193 = "...eu fui embora."
 
-1010102-193 = "Acessei o site ......."
+1010102-194 = "Professor... meu desenho foi tão ruim assim?"
 
-1010102-194 = "Professor ...... Minha pintura estava tão ruim assim?"
+1010102-195 = "[s] \"...Não acho que seja um problema com a imagem.\""
 
-1010102-195 = "[s]\"......Não acho que se trate da imagem. \""
+1010102-196 = "...?"
 
-1010102-196 = "......?"
+1010102-197 = "Entendo...#nEntão o cliente não quis pagar, então adiantou?"
 
-1010102-197 = "Entendo. ......#n Então você está dizendo que o cliente fez a acusação porque não queria pagar?"
+1010102-198 = "Porém, as coisas não saíram como planejado, então ele pagou o dinheiro e foi embora."
 
-1010102-198 = "Mas você não conseguiu o que queria e pagou para sair."
+1010102-199 = "Obrigado, aprendi muito. #nVamos relembrar o que aconteceu hoje."
 
-1010102-199 = "Obrigado, aprendi muito. #Vou me lembrar bem do dia de hoje."
-
-1010102-200 = "...... E também preciso praticar o desenho com #n ketchup para evitar acusações da próxima vez."
+1010102-200 = "...Além disso, tenho que praticar desenho com #n ketchup para não ser criticado da próxima vez."
 

@@ -1,95 +1,35 @@
 [translation]
 1006802-1 = "Bom dia, Leisa."
-
 1006802-4 = "Ótimo, ótimo. ......"
-
 1006802-5 = "...... Huh?"
-
 1006802-6 = "Oh, ......!"
-
-1006802-7 = "Aaah! Professor! Olá!"
-
-1006802-8 = "[Olá, Leisa. \"\n[s2] \"Que coincidência nos encontrarmos aqui. \"\n[s2]""
-
-1006802-11 = "É verdade! Eu não esperava ver você também!"
-
-1006802-12 = "O que esse médico do ...... está fazendo aqui......?"
-
-1006802-13 = "Ah, o ônibus a caminho de casa. ...... É verdade, se você me perguntar, é a hora do dia! #nPerdão por fazer uma pergunta tão estranha!"
-
-1006802-14 = "mmm......"
-
-1006802-15 = "Haha! Bem, agora vou acessar ......!"
-
-1006802-19 = "[ns3] \"Desculpe-me por esta manhã. Está na hora agora, ok? \"\n[ns4] Chamando a Reisa para sair."
-
-1006802-22 = "......?"
-
-1006802-23 = "Posso ajudá-lo? Como posso ajudá-lo? ......?"
-
-1006802-24 = "...... Oh, esse é o Momotalk desta manhã?"
-
-1006802-25 = "Ah, haha ......! Isso foi ...... Desculpe, desculpe, eu não queria fazer você se sentir desconfortável. #nN De forma alguma, está tudo bem!"
-
-1006802-26 = "Não foi nada em particular! Apenas pensei em #n cumprimentá-lo e ......"
-
-1006802-27 = "Mas depois pensei sobre isso e reconsiderei que era um inconveniente, porque o médico é muito ocupado. ......"
-
-1006802-28 = "Terei o cuidado de não perder meu tempo entrando em contato com eles no futuro!"
-
-1006802-29 = "[s5] \"Sinta-se à vontade para entrar em contato comigo com mais frequência, tudo bem. \"\n[s6] \"Sinta-se à vontade para me enviar a qualquer momento. \"\n[s6]""
+1006802-7 = "Aaah! Sensei! Olá!"
+1006802-8 = "[Olá, Leisa. \"\n[s2] \"Que coincidência nos encontrarmos aqui. \"\n[s2]\"\"\n1006802-11 = \"É verdade! Eu não esperava ver você também!\"\n1006802-12 = \"O que esse médico do ...... está fazendo aqui......?\"\n1006802-13 = \"Ah, o ônibus a caminho de casa. ...... É verdade, se você me perguntar, é a hora do dia! #nPerdão por fazer uma pergunta tão estranha!\"\n1006802-14 = \"mmm......\"\n1006802-15 = \"Haha! Bem, agora vou acessar ......!\"\n1006802-19 = \"[ns3] \"Desculpe-me por esta manhã. Está na hora agora, ok? \"\n[ns4] Chamando a Reisa para sair.\"\n1006802-22 = \"......?\"\n1006802-23 = \"Posso ajudá-lo? Como posso ajudá-lo? ......?\"\n1006802-24 = \"...... Oh, esse é o Momotalk desta manhã?\"\n1006802-25 = \"Ah, haha ......! Isso foi ...... Desculpe, desculpe, eu não queria fazer você se sentir desconfortável. #nN De forma alguma, está tudo bem!\"\n1006802-26 = \"Não foi nada em particular! Apenas pensei em #n cumprimentá-lo e ......\"\n1006802-27 = \"Mas depois pensei sobre isso e reconsiderei que era um inconveniente, porque o médico é muito ocupado. ......\"\n1006802-28 = \"Terei o cuidado de não perder meu tempo entrando em contato com eles no futuro!\"\n1006802-29 = \"[s5] \"Sinta-se à vontade para entrar em contato comigo com mais frequência, tudo bem. \"\n[s6] \"Sinta-se à vontade para me enviar a qualquer momento. \"\n[s6]\""
 
 1006802-32 = "...... O quê?"
-
 1006802-33 = "N ......, sim? #n Oh, obrigado. ......"
-
 1006802-34 = "Talvez ...... para dizer isso?"
-
 1006802-35 = "...... O quê? Depois disso? #nNão há planos, na verdade não. ......"
-
 1006802-36 = "A menos que haja um incidente. ...... haha."
-
 1006802-37 = "...... Ah!"
-
 1006802-38 = "Vejamos, ...... Sou amigo das crianças da minha classe! #Não é nada disso! De verdade!"
-
 1006802-39 = "Em vez disso, fui convidado a participar de vários ......#n que ...... não consegui responder bem ......"
-
 1006802-40 = "Eu me preocupo demais com o que responder e acabo não conseguindo enviar, ou os irrito com uma resposta exagerada. ......#n Bem, é assim mesmo!"
-
 1006802-41 = "Então, eu gostaria de saber se eu poderia ...... pedir ao médico esse conselho ......#n. ......"
-
 1006802-42 = "[Você queria alguém para conversar. \"\n[s8] \"Eu sei exatamente como a Leisa se sente. \"\"\n[s8] \n[s9] \"Eu sei exatamente como a Reisa se sente."
-
 1006802-45 = "Desculpe-me por incomodá-lo. ...... apenas ......"
-
-1006802-46 = "Estranhamente, na frente do professor, que ...... o que é um ......"
-
+1006802-46 = "Estranhamente, na frente do sensei, que ...... o que é um ......"
 1006802-47 = "Mesmo que eu diga algo um pouco estranho, ele me perdoa, ou ......#nTenho certeza de que tudo ficará bem, e me sinto mimado. ......"
-
 1006802-51 = "Oh ...... Desculpe-me, estou sendo muito rude agora ......."
-
 1006802-52 = "Você está bem? Sim, está? ......"
-
 1006802-53 = "[s9] \"Sim, a Leisa honesta é a melhor. \"\n[s10] \"Pelo contrário, provavelmente será melhor se você não se preocupar com muitos detalhes. "
-
 1006802-56 = "......? #n O que isso significa?"
-
 1006802-57 = "Já cometi muitas gafes, mas não preciso me preocupar com isso. ......"
-
 1006802-58 = "Quando você se preocupa, isso afasta sua consciência. ......? #n umm ...... nn ......?"
-
 1006802-59 = "...... Desculpe, mas ainda não tenho certeza!"
-
-1006802-60 = "Mas! É o conselho que recebi de meu professor!"
-
+1006802-60 = "Mas! É o conselho que recebi de meu sensei!"
 1006802-61 = "Para ser sincero, eu não entendo e tenho medo de algumas coisas, mas vou tentar primeiro ......#n! Vou dar um golpe e vou quebrá-lo, certo?"
-
 1006802-67 = "Oh, o ônibus acabou de chegar. #nSorry, I've been talking to you all day."
-
 1006802-68 = "Vou deixá-lo à vontade! Tenha um bom dia, doutor!"
-
 1006802-73 = "Em ......, entraremos em contato!"
-
 1006802-77 = "[ns11] \"...... Não se machuque. \"\n[ns12] Entre no ônibus."
-

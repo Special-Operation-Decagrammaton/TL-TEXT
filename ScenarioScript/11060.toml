@@ -1,207 +1,48 @@
 [translation]
 11060-2 = "Episódio 6; Operação de resgate!"
-
 11060-3 = "quarto da Célica"
-
 11060-4 = "(Ping Dong)"
-
 11060-5 = "Celica-chan? Celica-chan, você está aí?"
-
 11060-7 = "(Ping Pong Ping Pong)"
-
-11060-8 = "セリカちゃーん？ Me pergunto o que está acontecendo, não consigo nem atender o telefone..."
+11060-8 = "Celica-chan? Me perguntei o que está acontecendo, não consigo nem atender o telefone..."
 
 11060-9 = "Onde está a chave reserva?"
-
 11060-11 = "(gacha)"
-
 11060-12 = "Celica-chan...? Você ainda não voltou?"
-
 11060-13 = "...Mesmo que algo assim nunca tenha acontecido antes."
-
 11060-14 = "Bem, de jeito nenhum...! !"
-
 11060-16 = "Você já tentou ligar?"
-
 11060-17 = "……sim. Mas parece que a energia não é ligada há algumas horas..."
-
 11060-18 = "Parece que saí da loja na hora certa no meu trabalho de meio período. Acho que ele não voltou para casa desde então."
-
 11060-19 = "Você nunca esteve em casa até tão tarde, certo?"
-
 11060-20 = "De jeito nenhum...eles são do Helmet Team?"
-
 11060-21 = "Huh! ? A equipe do capacete está levando Celica...! ?"
-
-11060-22 = "Vamos esperar por agora. Hoshino-senpai e o professor estão investigando."
-
+11060-22 = "Vamos esperar por agora. Hoshino-senpai e o sensei estão investigando."
 11060-23 = "……."
-
 11060-25 = "(gacha)"
-
 11060-26 = "Obrigado por esperar a todos."
-
-11060-27 = "Hoshino-senpai! professor!"
-
+11060-27 = "Hoshino-senpai! sensei!"
 11060-28 = "[s] \"Estou em casa.\""
-
 11060-29 = "Como foi, senpai?"
-
-11060-30 = "Usando os privilégios do professor, ele conseguiu acessar a rede central gerenciada pelo Conselho Estudantil da Federação."
-
+11060-30 = "Usando os privilégios do sensei, ele conseguiu acessar a rede central gerenciada pelo Conselho Estudantil da Federação."
 11060-31 = "Na rede central... #n-sensei, você até tem esse tipo de autoridade..."
-
 11060-32 = "Hehe ~ Claro que foi secretamente. Se for descoberto, será uma carta de rescisão, não é?"
-
 11060-33 = "Sim! ? Você está bem, Sensei?"
+11060-34 = "[s1] \"Sem problemas, desde que seja para a segurança de Celica.\"\n[s2] \"Tudo bem, desde que eles não descubram.\"\"\n11060-35 = \"sensei…….\"\n11060-36 = \"Bem, isso é verdade, mas....\"\n11060-37 = \"…….\"\n11060-38 = \"……sim.\"\n11060-39 = \"Obrigado, senhor.\"\n11060-40 = \"Era aqui que estava o terminal da Celica antes de perdermos contacto.\"\n11060-41 = \"Isto é...no limite da área urbana onde a desertificação está a progredir, certo?\"\n11060-42 = \"Não há moradores e a área está em ruínas...#nÉ um lugar onde só bandidos se reúnem porque a segurança não pode ser mantida.\"\n11060-43 = \"Nesta área, quando analisamos anteriormente os fatores de perigo, confirmamos que a força principal do Grupo de Capacetes #n Katakata estava se reunindo.\"\n11060-44 = \"Então... é definitivamente o trabalho da Gangue do Capacete Katakata...! !\"\n11060-45 = \"Eu vejo. Então eles sequestraram Celica-chan a caminho de casa e a levaram para o esconderijo?\"\n11060-46 = \"Talvez atacar uma escola não fosse suficiente, então decidiram fazer reféns e ameaçá-los.\"\n11060-47 = \"Não adianta pensar nisso! Apresse-se e vá salvar Celica!\"\n11060-48 = \"Sim, claro.\"\n11060-49 = \"Ok, vamos então!\"\n11060-50 = \"[s] \"Partida! \"\"\n11060-53 = \"(clunk, clunk)\"\n11060-54 = \"Uh, hum...\"\n11060-55 = \"...... peido?\"\n11060-56 = \"(Gabbat)! ?\"\n11060-57 = \"Ei, aqui! ? Eu fui sequestrado! ?\"\n11060-58 = \"Ah, uh... minha cabeça...\"\n11060-59 = \"(clunk, clunk)\"\n11060-60 = \"Aqui... a caçamba do caminhão...?\"\n11060-61 = \"Equipe Capacete... para onde você planeja me levar...?\"\n11060-62 = \"Está escuro... mas um pouco de luz está vazando pelas frestas.\"\n11060-63 = \"Lá fora... posso ver?\"\n11060-64 = \"...deserto...ferrovias! ?\"\n11060-65 = \"O local onde fica a ferrovia... bem, na verdade é aqui, no deserto, nos arredores de Abydos! ?\"\n11060-66 = \"...É isso. A partir daqui, não consigo entrar em contato com você em lugar nenhum! #nMesmo se conseguíssemos escapar, como avisaríamos a todos da força-tarefa...\"\n11060-67 = \"O que devo fazer, todos devem estar preocupados...\"\n11060-68 = \"…….\"\n11060-69 = \"...Eu me pergunto se será enterrado em algum lugar. #nPara que ninguém perceba...\"\n11060-70 = \"Perdemos contato um com o outro... Acho que eles vão pensar que saí da cidade como as outras crianças...\"\n11060-71 = \"Eu me pergunto se vou sentir que te traí...\"\n11060-72 = \"Morrer sem poder conhecer todo mundo e ser incompreendido...\"\n11060-73 = \"Isso é... de jeito nenhum...\"\n11060-74 = \"…….\"\n11060-75 = \"Uh... ah...\"\n11060-76 = \"Ugh, uh...\"\n11060-77 = \"(BUM!!!)\"\n11060-78 = \"Ah, uau! ?\"\n11060-80 = \"(Desapareceu!)\"\n11060-81 = \"Kaha, Keho... Keho...\"\n11060-83 = \"O que! ? explosão! ? O caminhão explodiu! ?\"\n11060-84 = \"Talvez tenha sido atingido por uma bala de canhão... de onde veio?\"\n11060-85 = \"Encontrei Celica! Confirmado estar vivo!\"\n11060-86 = \"...Ah, Ayane-chan? !\"\n11060-87 = \"Também confirmei isso: encontrei uma Celica meio chorando!\"\n11060-88 = \"! ?\"\n11060-89 = \"O que! ? Minha fofa Celica-chan estava chorando! #nVocê estava tão sozinho? #nA culpa foi minha mãe, me desculpe! !\"\n11060-90 = \"Uau! ? Ah, é tão barulhento! ! Ah, estou chorando! !\"\n11060-91 = \"mentira! Eu vi com meus próprios olhos!\"\n11060-92 = \"Por favor, não chore, Celica-chan! Nós enxugaremos suas lágrimas!\"\n11060-93 = \"Ah, é tão barulhento! ! Se for diferente, é diferente! ! Cale-se! !\"\n11060-94 = \"[s] Diga a eles que você se sente aliviado.\"\n11060-95 = \"Ei, por que você é sensei? ? Como chegamos aqui? ?\"\n11060-96 = \"[s3] \"Eu não sou um perseguidor.\"\n[s4] \"O trabalho do herói é salvar a princesa sequestrada!\""
 
-11060-34 = "[s1] \"Sem problemas, desde que seja para a segurança de Celica.\"\n[s2] \"Tudo bem, desde que eles não descubram.""
-
-11060-35 = "professor……."
-
-11060-36 = "Bem, isso é verdade, mas...."
-
-11060-37 = "……."
-
-11060-38 = "……sim."
-
-11060-39 = "Obrigado, senhor."
-
-11060-40 = "Era aqui que estava o terminal da Celica antes de perdermos contacto."
-
-11060-41 = "Isto é...no limite da área urbana onde a desertificação está a progredir, certo?"
-
-11060-42 = "Não há moradores e a área está em ruínas...#nÉ um lugar onde só bandidos se reúnem porque a segurança não pode ser mantida."
-
-11060-43 = "Nesta área, quando analisamos anteriormente os fatores de perigo, confirmamos que a força principal do Grupo de Capacetes #n Katakata estava se reunindo."
-
-11060-44 = "Então... é definitivamente o trabalho da Gangue do Capacete Katakata...! !"
-
-11060-45 = "Eu vejo. Então eles sequestraram Celica-chan a caminho de casa e a levaram para o esconderijo?"
-
-11060-46 = "Talvez atacar uma escola não fosse suficiente, então decidiram fazer reféns e ameaçá-los."
-
-11060-47 = "Não adianta pensar nisso! Apresse-se e vá salvar Celica!"
-
-11060-48 = "Sim, claro."
-
-11060-49 = "Ok, vamos então!"
-
-11060-50 = "[s] \"Partida! \""
-
-11060-53 = "(clunk, clunk)"
-
-11060-54 = "Uh, hum..."
-
-11060-55 = "...... peido?"
-
-11060-56 = "(Gabbat)! ?"
-
-11060-57 = "Ei, aqui! ? Eu fui sequestrado! ?"
-
-11060-58 = "Ah, uh... minha cabeça..."
-
-11060-59 = "(clunk, clunk)"
-
-11060-60 = "Aqui... a caçamba do caminhão...?"
-
-11060-61 = "Equipe Capacete... para onde você planeja me levar...?"
-
-11060-62 = "Está escuro... mas um pouco de luz está vazando pelas frestas."
-
-11060-63 = "Lá fora... posso ver?"
-
-11060-64 = "...deserto...ferrovias! ?"
-
-11060-65 = "O local onde fica a ferrovia... bem, na verdade é aqui, no deserto, nos arredores de Abidos! ?"
-
-11060-66 = "...É isso. A partir daqui, não consigo entrar em contato com você em lugar nenhum! #nMesmo se conseguíssemos escapar, como avisaríamos a todos da força-tarefa..."
-
-11060-67 = "O que devo fazer, todos devem estar preocupados..."
-
-11060-68 = "……."
-
-11060-69 = "...Eu me pergunto se será enterrado em algum lugar. #nPara que ninguém perceba..."
-
-11060-70 = "Perdemos contato um com o outro... Acho que eles vão pensar que saí da cidade como as outras crianças..."
-
-11060-71 = "Eu me pergunto se vou sentir que te traí..."
-
-11060-72 = "Morrer sem poder conhecer todo mundo e ser incompreendido..."
-
-11060-73 = "Isso é... de jeito nenhum..."
-
-11060-74 = "……."
-
-11060-75 = "Uh... ah..."
-
-11060-76 = "Ugh, uh..."
-
-11060-77 = "(BUM!!!)"
-
-11060-78 = "Ah, uau! ?"
-
-11060-80 = "(Desapareceu!)"
-
-11060-81 = "Kaha, Keho... Keho..."
-
-11060-83 = "O que! ? explosão! ? O caminhão explodiu! ?"
-
-11060-84 = "Talvez tenha sido atingido por uma bala de canhão... de onde veio?"
-
-11060-85 = "Encontrei Celica! Confirmado estar vivo!"
-
-11060-86 = "...Ah, Ayane-chan? !"
-
-11060-87 = "Também confirmei isso: encontrei uma Celica meio chorando!"
-
-11060-88 = "! ?"
-
-11060-89 = "O que! ? Minha fofa Celica-chan estava chorando! #nVocê estava tão sozinho? #nA culpa foi minha mãe, me desculpe! !"
-
-11060-90 = "Uau! ? Ah, é tão barulhento! ! Ah, estou chorando! !"
-
-11060-91 = "mentira! Eu vi com meus próprios olhos!"
-
-11060-92 = "Por favor, não chore, Celica-chan! Nós enxugaremos suas lágrimas!"
-
-11060-93 = "Ah, é tão barulhento! ! Se for diferente, é diferente! ! Cale-se! !"
-
-11060-94 = "[s] Diga a eles que você se sente aliviado."
-
-11060-95 = "Ei, por que você é professor? ? Como chegamos aqui? ?"
-
-11060-96 = "[s3] \"Eu não sou um perseguidor.\"\n[s4] \"O trabalho do herói é salvar a princesa sequestrada!""
-
-11060-97 = "Ei, não seja bobo! Esse professor pervertido! !"
-
+11060-97 = "Ei, não seja bobo! Esse sensei pervertido! !"
 11060-98 = "Bah… bah…!"
-
 11060-99 = "Você não é estúpido! ?"
-
 11060-100 = "Quem é a princesa? ! Pare de brincar! ! Eu-eu quero levar um soco! ?"
-
 11060-101 = "Ei, você parece bem, certo? Protegido com sucesso."
-
 11060-102 = "Bom... Celica-chan... pensei que algo poderia ter acontecido com Celica-chan..."
-
 11060-103 = "Ayane-chan...."
-
 11060-104 = "Não baixe a guarda ainda. Usamos o sistema de apoio tático para assumir o controle do caminhão, mas ainda estávamos no meio do território inimigo."
-
 11060-105 = "Certo. Se o inimigo descobrir que o veículo que transportava os reféns foi destruído, ele ficará furioso e atacará."
-
 11060-106 = "Um grande número de tropas da Brigada de Capacetes Kataka pode ser visto na frente! !"
-
 11060-107 = "Também confirmamos muitas armas pesadas enormes! #nEstamos gradualmente construindo um cerco!"
-
 11060-108 = "Mesmo sendo um inimigo...#nBem, então acho que vou aproveitar a oportunidade para romper o cerco e voltar para casa."
-
 11060-109 = "……tomar cuidado. Eles modificaram tanques pesados."
-
 11060-110 = "Eu sei, uma versão melhorada do Flak41."
-
 11060-113 = "Bem, então..."
-
 11060-117 = "Vamos?"
-

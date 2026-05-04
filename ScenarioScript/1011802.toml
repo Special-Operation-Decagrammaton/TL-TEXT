@@ -1,123 +1,63 @@
 [translation]
 1011802-1 = "companheiro inesperado"
-
 1011802-2 = "(Entrei no trem indo para minha viagem de negócios.)"
-
 1011802-4 = "Forneceremos informações aos passageiros."
-
 1011802-5 = "No momento estamos inspecionando o veículo. #nA partida é cerca de 20 minutos a partir do horário programado――"
-
 1011802-6 = "[ns] \"Isso pode ser tarde...\""
-
 1011802-8 = "(20 minutos depois)"
-
 1011802-12 = "Ah, finalmente mudou."
-
 1011802-13 = "Isso vai me atrasar!"
-
 1011802-17 = "Ah, ah. Caros passageiros, vocês podem me ouvir?"
-
 1011802-18 = "Vou deixar voar um pouco... Pahyaaaah."
-
 1011802-19 = "Huh?"
-
 1011802-20 = "[ns] \"Essa voz é...\""
-
 1011802-25 = "[ns] \"Uau!\""
-
 1011802-31 = "[ns] \"Cheguei na hora certa...\""
-
-1011802-34 = "Ah, você é professor."
-
+1011802-34 = "Ah, você é sensei."
 1011802-35 = "[s1] \"Olá, Nozomi.\"\n[s2] \"Talvez este trem...\""
-
 1011802-38 = "Pahiahah! Eu sou o motorista!"
-
 1011802-39 = "Que coincidência, a professora também estava a bordo!"
-
 1011802-40 = "Então, quais são seus pensamentos? ?"
-
 1011802-41 = "[s] \"Foi uma velocidade incrível...\""
-
 1011802-42 = "Meu trem não tem duas palavras para atraso!"
-
 1011802-43 = "Você chegará na hora certa para suas tarefas?"
-
 1011802-44 = "[s] \"Sim, obrigado!\""
-
 1011802-45 = "Bom, bom."
-
 1011802-46 = "Quando você volta?"
-
 1011802-47 = "[s] \"Talvez à noite...\""
-
 1011802-48 = "Bem, me avise quando terminar. Tomar cuidado!"
-
 1011802-54 = "(Nozomi foi embora como o vento...)"
-
 1011802-56 = "(Quando entrei na bilheteria e entrei em contato com Nozomi...)"
-
 1011802-60 = "Bom momento! Entrarei na plataforma 1, então, por favor, venha até o primeiro carro."
-
 1011802-64 = "[ns] \"Bem, está no começo...\""
-
 1011802-67 = "Ah, senhor."
-
 1011802-68 = "[ns] \"Você está bem aqui...?\""
-
 1011802-69 = "Eu andei rapidamente, eu montei!"
-
 1011802-70 = "(A pedido de Nozomi, ele entrou na cabine do motorista)"
-
 1011802-71 = "[ns] \"É minha primeira vez...\""
-
 1011802-72 = "Ok, vamos fazer um tour!"
-
 1011802-73 = "Pois bem, vamos prosseguir para a partida."
-
 1011802-80 = "[wa:4860]― [log=노조미]Como é a vista da cabine do motorista? [/registro]"
-
 1011802-83 = "― [log=노조미]É especialmente bonito a esta hora do dia. [/registro]"
-
 1011802-85 = "― [log=노조미]Eu gosto...[wa:2040]Crepúsculo. [/registro]"
-
 1011802-88 = "[ns3] \"Legal...!\"\n[ns4] \"Mas dirigir um trem parece difícil.\""
-
 1011802-91 = "[wa:1030]― [log=노조미]Também existe um sistema de direção automática, mas[/log]"
-
 1011802-92 = "[wa:2600]― [log=노조미]Eu não uso muito isso. [/registro]"
-
 1011802-95 = "- [log=노조미]Mas não é chato? [/registro]"
-
 1011802-96 = "[wa:1480]― [log=노조미]Você tem que dirigir [wa:1430] sozinho. [/registro]"
-
-1011802-99 = "[wa:520]― [log=노조미]Ah? [wa:1430]Você também gostaria de experimentar, professor? [/registro]"
-
+1011802-99 = "[wa:520]― [log=노조미]Ah? [wa:1430]Você também gostaria de experimentar, sensei? [/registro]"
 1011802-102 = "[ns] \"É realmente assustador, então vou parar!\""
-
 1011802-103 = "[wa:250]― [log=노조미]Ahahaha! [wa:980]Jo-dan-jo-dan! [/registro]"
-
-1011802-106 = "[wa:1080]― [log=노조미]O professor [wa:1440] não possui licença de engenheiro. [/registro]"
-
+1011802-106 = "[wa:1080]― [log=노조미]O sensei [wa:1440] não possui licença de engenheiro. [/registro]"
 1011802-108 = "― [log=노조미]Não importa o que aconteça, [wa:1640]Não deixarei um amador tocar nisso. [/registro]"
-
 1011802-111 = "[ns] \"Ei, bom...\""
-
 1011802-113 = "(Então eles voltaram no trem dirigido por Nozomi)"
-
-1011802-119 = "[ns] \"楽しかったよ。ありがとう\""
+1011802-119 = "[ns]\"Foi divertido. Obrigado\""
 
 1011802-120 = "É bom agradecer!"
-
 1011802-121 = "Eu também me diverti! Pahiahah!"
-
 1011802-122 = "[ns] \"Da próxima vez, viajarei como passageiro normal.\""
-
 1011802-124 = "[ns5] \"Eu não tenho licença...\"\n[ns6] \"Estou na plateia, então o que vocês acham?\""
-
 1011802-127 = "Hum? Bem, está tudo bem."
-
-1011802-128 = "O professor é um amador. Pahya!"
-
+1011802-128 = "O sensei é um amador. Pahya!"
 1011802-130 = "(Comprei sorvete Nozomi como agradecimento por enviá-lo para mim.)"
-

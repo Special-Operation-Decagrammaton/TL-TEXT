@@ -1,227 +1,54 @@
 [translation]
 1010705-1 = "Vida de hobby do secretário"
-
 1010705-2 = "(Como sempre, estou trabalhando em ......)"
-
 1010705-8 = "Bom dia, doutor~!"
-
 1010705-9 = "Oh, você estava trabalhando, não estava? Desculpe-me por tê-lo incomodado. ......?"
-
-1010705-10 = "["Está tudo bem. Eu estava prestes a sair para um intervalo. \""
-
-1010705-11 = "Estou vendo. Eu também tirei essa semana de folga!"
-
-1010705-12 = "Hmm? Não é que tenha havido algo em particular!"
-
-1010705-13 = "Suspensão regular da publicação!"
-
-1010705-14 = "[s] \"Periódicos, cessou a publicação? \""
-
-1010705-15 = "Sim!"
-
-1010705-16 = "Como a Manmaden Weekly é uma revista semanal, normalmente não temos tempo para descansar, então temos semanas regulares em que fazemos uma pausa!"
-
-1010705-17 = "Refrescar-se é essencial para uma corrida longa!"
-
-1010705-18 = "Quero que ele dure porque eu o amo! Acho que é essa a sensação!"
-
-1010705-19 = "Portanto, a publicação é fechada aproximadamente uma vez a cada dois meses!"
-
-1010705-20 = "Mas tenho outro trabalho a fazer, então hoje é o único dia em que posso descansar."
-
-1010705-24 = "Ah, isso? Há algo de muito invejoso em seus olhos. ......"
-
-1010705-25 = "Sim? Você tirou férias recentemente?"
-
-1010705-26 = "Ah, eu não sabia disso. ......"
-
-1010705-27 = "Então o professor deveria tirar o resto do dia de folga hoje!"
-
-1010705-28 = "[s]\"So, but I still have to work ......! \""
-
-1010705-29 = "Como eu disse anteriormente, é importante se refrescar!"
-
-1010705-30 = "Uma vez que você tenha tido uma boa noite de sono, será melhor para você em termos de desempenho no trabalho!"
-
-1010705-31 = "[s]\"De fato, ...... pode ter razão ......? \""
-
-1010705-32 = "Certo?"
-
-1010705-33 = "Então, comece suas férias~!"
-
-1010705-34 = "Primeiro, afaste-se de sua mesa e comece a se alongar~."
-
-1010705-35 = "Em seguida, tire um cochilo com toda a sua força, leia um livro, jogue um jogo - ou"
-
-1010705-36 = "Também é bom fazer algum exercício que você normalmente não conseguiria fazer! A todo vapor para os hobbies~!"
-
-1010705-37 = "...... O quê? Já faz muito tempo que não faço uma pausa e não sei o que fazer. ......?"
-
-1010705-38 = "[s]\"O que o Thiaki costuma fazer em seus dias de folga? \""
-
-1010705-39 = "Eu?"
-
-1010705-40 = "Hmmm... ...... Você está fazendo o que normalmente gosta de fazer."
-
-1010705-41 = "[s1] \"Bem, vou combiná-lo com a Chiaki hoje. \"\n[s2] \"Gostaria de saber quais são os interesses da Chiaki. "
-
-1010705-44 = "Oh, isso é bom, isso é bom!"
-
-1010705-45 = "Já estou animado para estar com meu professor!"
-
-1010705-46 = "Talvez isso possa ser uma história para a próxima edição da Manmaden Weekly!"
-
-1010705-47 = "Bem, vamos lá~!"
-
-1010705-48 = "[s]\"Where are you going? \""
-
-1010705-49 = "Agora vou lhe mostrar como eu gosto do meu hobby!"
-
-1010705-50 = "O que fazer está disponível em ......."
-
-1010705-51 = "Você saberá se for até lá!"
-
-1010705-54 = "Sala do clube de pesquisa histórica."
-
-1010705-57 = "Há muito tempo não entro no Departamento de Pesquisa Histórica!"
-
-1010705-58 = "Ah! Chiaki!"
-
-1010705-59 = "Faz tempo que não nos vemos! Como você tem passado?"
-
-1010705-60 = "Claro que sim! Eu estava com muita energia!"
-
-1010705-62 = "[ns] (O hobby de Chiaki é ...... pesquisa histórica?)"
-
-1010705-63 = "E quanto às atividades do clube?"
-
-1010705-64 = "Mais ou menos? Ah, sim! É um livro antigo que a Chiaki me ajudou a encontrar outro dia."
-
-1010705-65 = "Isso é falso, aparentemente?"
-
-1010705-66 = "Ah, é mesmo? Foi como encontrar um tesouro!"
-
-1010705-67 = "Haha! Está tudo bem, está tudo bem!"
-
-1010705-68 = "Entre, entre. Estou servindo chá agora."
-
-1010705-69 = "Muito obrigado! Posso ter um para meu professor?"
-
-1010705-70 = "OK~! Por favor, entre, professor!"
-
-1010705-77 = "[ns] \"A Chiaki também é membro do clube de pesquisa histórica? \""
-
-1010705-78 = "Hmmm. É um membro visitante, para ser mais preciso?"
-
-1010705-79 = "Eles não fazem parte oficialmente do clube, mas vêm aqui de vez em quando."
-
-1010705-80 = "Sou um membro da [ruby=Sociedade Pandemônio]da [ruby=Sociedade Pandemônio]! Eu [ruby=Pandemonium Society]pertenço[/ruby] à Manmaden[/ruby]!"
-
-1010705-81 = "Você sente que está com um pé na porta?"
-
-1010705-82 = "[\"Heh, sim. \""
-
-1010705-83 = "Ah, já é essa hora do dia!"
-
-1010705-84 = "Tenho que ir logo! Até lá!"
-
-1010705-85 = "Sim! Volte sempre!"
-
-1010705-86 = "Ha - ha!"
-
-1010705-89 = "[ns3] \"Você poderia ter levado mais tempo. \"\n[ns4] \"Estou de férias. \"\n[ns4]""
+1010705-10 = "[\"Está tudo bem. Eu estava prestes a sair para um intervalo. \"\"\n1010705-11 = \"Estou vendo. Eu também tirei essa semana de folga!\"\n1010705-12 = \"Hmm? Não é que tenha havido algo em particular!\"\n1010705-13 = \"Suspensão regular da publicação!\"\n1010705-14 = \"[s] \"Periódicos, cessou a publicação? \"\"\n1010705-15 = \"Sim!\"\n1010705-16 = \"Como a Manmaden Weekly é uma revista semanal, normalmente não temos tempo para descansar, então temos semanas regulares em que fazemos uma pausa!\"\n1010705-17 = \"Refrescar-se é essencial para uma corrida longa!\"\n1010705-18 = \"Quero que ele dure porque eu o amo! Acho que é essa a sensação!\"\n1010705-19 = \"Portanto, a publicação é fechada aproximadamente uma vez a cada dois meses!\"\n1010705-20 = \"Mas tenho outro trabalho a fazer, então hoje é o único dia em que posso descansar.\"\n1010705-24 = \"Ah, isso? Há algo de muito invejoso em seus olhos. ......\"\n1010705-25 = \"Sim? Você tirou férias recentemente?\"\n1010705-26 = \"Ah, eu não sabia disso. ......\"\n1010705-27 = \"Então o sensei deveria tirar o resto do dia de folga hoje!\"\n1010705-28 = \"[s]\"So, but I still have to work ......! \"\"\n1010705-29 = \"Como eu disse anteriormente, é importante se refrescar!\"\n1010705-30 = \"Uma vez que você tenha tido uma boa noite de sono, será melhor para você em termos de desempenho no trabalho!\"\n1010705-31 = \"[s]\"De fato, ...... pode ter razão ......? \"\"\n1010705-32 = \"Certo?\"\n1010705-33 = \"Então, comece suas férias~!\"\n1010705-34 = \"Primeiro, afaste-se de sua mesa e comece a se alongar~.\"\n1010705-35 = \"Em seguida, tire um cochilo com toda a sua força, leia um livro, jogue um jogo - ou\"\n1010705-36 = \"Também é bom fazer algum exercício que você normalmente não conseguiria fazer! A todo vapor para os hobbies~!\"\n1010705-37 = \"...... O quê? Já faz muito tempo que não faço uma pausa e não sei o que fazer. ......?\"\n1010705-38 = \"[s]\"O que o Thiaki costuma fazer em seus dias de folga? \"\"\n1010705-39 = \"Eu?\"\n1010705-40 = \"Hmmm... ...... Você está fazendo o que normalmente gosta de fazer.\"\n1010705-41 = \"[s1] \"Bem, vou combiná-lo com a Chiaki hoje. \"\n[s2] \"Gostaria de saber quais são os interesses da Chiaki. \"\n1010705-44 = \"Oh, isso é bom, isso é bom!\"\n1010705-45 = \"Já estou animado para estar com meu sensei!\"\n1010705-46 = \"Talvez isso possa ser uma história para a próxima edição da Manmaden Weekly!\"\n1010705-47 = \"Bem, vamos lá~!\"\n1010705-48 = \"[s]\"Where are you going? \"\"\n1010705-49 = \"Agora vou lhe mostrar como eu gosto do meu hobby!\"\n1010705-50 = \"O que fazer está disponível em .......\"\n1010705-51 = \"Você saberá se for até lá!\"\n1010705-54 = \"Sala do clube de pesquisa histórica.\"\n1010705-57 = \"Há muito tempo não entro no Departamento de Pesquisa Histórica!\"\n1010705-58 = \"Ah! Chiaki!\"\n1010705-59 = \"Faz tempo que não nos vemos! Como você tem passado?\"\n1010705-60 = \"Claro que sim! Eu estava com muita energia!\"\n1010705-62 = \"[ns] (O hobby de Chiaki é ...... pesquisa histórica?)\"\n1010705-63 = \"E quanto às atividades do clube?\"\n1010705-64 = \"Mais ou menos? Ah, sim! É um livro antigo que a Chiaki me ajudou a encontrar outro dia.\"\n1010705-65 = \"Isso é falso, aparentemente?\"\n1010705-66 = \"Ah, é mesmo? Foi como encontrar um tesouro!\"\n1010705-67 = \"Haha! Está tudo bem, está tudo bem!\"\n1010705-68 = \"Entre, entre. Estou servindo chá agora.\"\n1010705-69 = \"Muito obrigado! Posso ter um para meu sensei?\"\n1010705-70 = \"OK~! Por favor, entre, sensei!\"\n1010705-77 = \"[ns] \"A Chiaki também é membro do clube de pesquisa histórica? \"\"\n1010705-78 = \"Hmmm. É um membro visitante, para ser mais preciso?\"\n1010705-79 = \"Eles não fazem parte oficialmente do clube, mas vêm aqui de vez em quando.\"\n1010705-80 = \"Sou um membro da da ! Eu pertenço à Manmaden!\"\n1010705-81 = \"Você sente que está com um pé na porta?\"\n1010705-82 = \"[\"Heh, sim. \"\"\n1010705-83 = \"Ah, já é essa hora do dia!\"\n1010705-84 = \"Tenho que ir logo! Até lá!\"\n1010705-85 = \"Sim! Volte sempre!\"\n1010705-86 = \"Ha - ha!\"\n1010705-89 = \"[ns3] \"Você poderia ter levado mais tempo. \"\n[ns4] \"Estou de férias. \"\n[ns4]\""
 
 1010705-92 = "Hmmm, por mais que eu queira. ......"
-
 1010705-93 = "Mas a história não é meu hobby!"
-
 1010705-94 = "[s]\"diferente ......? \""
-
 1010705-95 = "Bem, vamos em frente!"
-
 1010705-98 = "Local de treinamento para clubes de futebol."
-
 1010705-99 = "Ah! Chiaki!"
-
 1010705-103 = "Bom dia - você está indo bem hoje!"
-
 1010705-104 = "Já faz um tempo! Estou me sentindo sozinha sem você, Chiaki."
-
 1010705-105 = "Por que não jogamos um pouco hoje?"
-
 1010705-106 = "Sim, fico feliz em fazer isso! Com prazer~!"
-
 1010705-107 = "[\"Você realmente gosta de se exercitar? \""
-
 1010705-108 = "Haha, bem, eu também sou um membro visitante aqui! Não sou bom o suficiente para ser um membro oficial do clube!"
-
 1010705-109 = "Mas o clube fica mais animado quando a Chiaki está por perto!"
-
 1010705-110 = "Sim, sim, sim! Se eu quisesse, poderia vir aqui todos os dias."
-
 1010705-111 = "Haha! Bom tratamento!"
-
 1010705-112 = "Então, tudo bem! Joguem bola!"
-
 1010705-115 = "Sala do clube de pesquisa de jogos de tabuleiro."
-
 1010705-116 = "Gunnu ......, onde esse cartão pode ser encontrado em ......."
-
 1010705-117 = "Hmmm, Chiaki, você é uma reacionária de primeira classe. Não sou muito bom em #n-games."
-
 1010705-118 = "Ah, não! Foi um problema único na vida!"
-
 1010705-121 = "Reuniões regulares do Gourmet Touring Club."
-
 1010705-127 = "Local experimental do Departamento de Pesquisa de Energia Térmica."
-
 1010705-135 = "Bem, agora fechamos o círculo!"
-
 1010705-136 = "Ufa, estou me sentindo renovado! Este é o melhor tipo de férias!"
-
 1010705-137 = "O que isso significa? Doutor, o senhor parece cansado. ...... Um pouco, muito?"
-
 1010705-138 = "[Não, está tudo bem. É mais ....... \""
-
 1010705-140 = "[ns] \"Afinal de contas, qual é exatamente o hobby da Chiaki ......? \""
-
 1010705-141 = "Exatamente como eu lhe mostrei, senhor?"
-
 1010705-142 = "Tenho participado de tantos clubes diferentes que perdi a noção de quais são meus verdadeiros hobbies. ......?"
-
 1010705-146 = "Haha! Então foi isso que você pensou!"
-
 1010705-147 = "Meu hobby - conhecer pessoas!"
-
 1010705-148 = "Eu conheço muitas pessoas, falo sobre muitas coisas..."
-
 1010705-149 = "É por isso que tenho frequentado várias boates - já faço isso há muito tempo."
-
 1010705-150 = " \"\n[s6] \"Não parecia que você estava seriamente ativo. ...... \""
-
 1010705-153 = "Sim, é terrível! Bem, é verdade."
-
-1010705-154 = "Agora vamos ouvir suas impressões sobre o dia de hoje aqui~! Hoje também foi o dia de folga do professor."
-
+1010705-154 = "Agora vamos ouvir suas impressões sobre o dia de hoje aqui~! Hoje também foi o dia de folga do sensei."
 1010705-155 = "Como foram suas férias comigo?"
-
 1010705-156 = "[\"Sim, estava muito fresco. \""
-
 1010705-157 = "Ehehe, como esperado! É divertido conhecer pessoas diferentes, não é?"
-
 1010705-158 = "Bem, é hora de dizer adeus."
-
 1010705-159 = "Tenho que voltar para o Salão Oval e editar a próxima edição do Manmaden Weekly!"
-
 1010705-160 = "[Vou trabalhar agora? \"\"\n[s8] \"Pensei que você estava de férias? \"\"\n[s8]]"
-
 1010705-163 = "Hmm? Já descansei o suficiente, não foi?"
-
 1010705-164 = "Conversando com amigos e movimentando meu corpo! #nPara mim, isso é revigorante!"
-
 1010705-165 = "[s]\"Soooo, amazing ....... \""
-
 1010705-166 = "É mesmo?"
-
 1010705-167 = "Até mais tarde! Vou deixar vocês à vontade~!"
-

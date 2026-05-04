@@ -1,48 +1,95 @@
 [translation]
-10052090-1 = "Cokmar: Reino que protege a antiga guardiã"
-10052090-3 = "[ns] \"E aí, Keiko.\"
-10052090-4 = "O quê?"
-10052090-5 = "[s] \"Ela pode participar da batalha, né? ...\"
-10052090-6 = "É agora mesmo?"
-10052090-7 = "Porque estou preocupado...".
-10052090-8 = "Se você estiver me fazendo isso, eu vou ficar brava.";
-10052090-9 = "Não se preocupe, professor. Deixe-me cuidar de tudo.";
-10052090-10 = "‘Aimi é o melhor agente que existe, não tem como negar.’";
-10052090-14 = "Você disse que é o melhor agente agora?";
-10052090-15 = "[s] \"Ah, então, claro, o Toki também é! Sim!\" ]"
-10052090-16 = "Estou satisfeito, então vou me despedir."
-10052090-22 = "O que estou sendo mostrado? ..."
-10052090-23 = "E aí, eu descobri o Koku-Mar, não é?"
-10052090-24 = "E… sim… é isso mesmo."
-10052090-25 = "Do chão, um navio de trabalho apareceu repentinamente. Foi assustador."
-10052090-26 = "É exatamente como 'Fenômeno peculiar'!"
-10052090-27 = "..."
-10052090-28 = "Rio. O responsável por criar a equipe de investigação de Fenómenos Peculiares, o que você acha da situação atual?"
-10052090-29 = "Ah? Kai sabe disso também, não é?"
-10052090-30 = "まあ…… até agora os dados e a história são, em geral, aprendidos."
-10052090-31 = "E aí... você não disse isso, né?"
-10052090-33 = "Sim, era assim mesmo..."
-10052090-34 = "Ah, eu estava pensando nisso. #n É uma expressão que me faz pensar em momentos como esses. Será que é apropriado usar essa expressão?"
-10052090-36 = "……!"
-10052090-37 = "……！"
-10052090-38 = "Por que essa expressão?"
+10052090-1 = "Kokumar: Antigo protetor do reino"
+
+10052090-3 = "[ns] \"Ei, Kei-chan.\""
+
+10052090-4 = "O que é?"
+
+10052090-5 = "[s] \"Eu me pergunto se não há problema em deixar Kei-chan participar da batalha...\""
+
+10052090-6 = "É agora?"
+
+10052090-7 = "[s] \"Porque estou preocupado...\""
+
+10052090-8 = "Se você estiver me provocando de novo, ficarei com raiva."
+
+10052090-9 = "Está tudo bem, professor. Quando chegar a hora, deixe comigo."
+
+10052090-10 = "[s] \"Aimi é a melhor agente.\""
+
+10052090-14 = "Acabei de dizer melhor agente?"
+
+10052090-15 = "[s] \"Oh, hum, claro, Toki também! Sim!\""
+
+10052090-16 = "Estou satisfeito, então, por favor, me desculpe."
+
+10052090-22 = "O que estou sendo mostrado?"
+
+10052090-23 = "Pensando bem, o Presidente Rio foi quem descobriu Kokuma."
+
+10052090-24 = "foto? Sim... isso mesmo."
+
+10052090-25 = "Um navio artesanal aparece de repente do solo. Isso me surpreendeu."
+
+10052090-26 = "Realmente parece um “fenômeno singular”."
+
+10052090-27 = "……."
+
+10052090-28 = "Rio. Como fundador do Departamento de Investigação de Fenômenos Peculiares, o que você acha da situação atual?"
+
+10052090-29 = "Huh? Kei também sabe disso?"
+
+10052090-30 = "Bem... aprendi a maior parte dos dados e do histórico até agora."
+
+10052090-31 = "Você não disse isso...?"
+
+10052090-33 = "Isso mesmo..."
+
+10052090-34 = "Bem, sobre a situação atual. #nEu me pergunto se a expressão ``profundamente emocional'' deveria ser usada em situações como essa?"
+
+10052090-36 = "...!"
+
+10052090-37 = "...!"
+
+10052090-38 = "Por que você está assim?"
+
 10052090-39 = "Ah... não, isso."
-10052090-42 = "Por que essa expressão?"
+
+10052090-42 = "Por que você está assim?"
+
 10052090-44 = "Ah... não, isso."
-10052090-45 = "O presidente também mudou bastante, não é mesmo?"
-10052090-46 = "Direto no ponto! É isso aí!"
-10052090-48 = "E aí... Boa ou ruim? Acho que a gente tem que ver se é boa ou ruim."
-10052090-50 = "Você está perdendo a capacidade de julgamento, não é mesmo?"
-10052090-51 = "Kae, calma. Se você ficar sempre brava, vai ter um erro no circuito emocional, né?"
-10052090-53 = "Não posso negar isso. Seu corpo ainda não foi completamente analisado."
-10052090-54 = "Poderia ter um problema crítico, e eu não sei como lidar com isso."
-10052090-61 = "Ahh... já... mais..."
-10052090-62 = "[s] \"… Kai, você está bem?\"
-10052090-63 = "Se eu cair por causa do estresse, será culpa de vocês... ..."
-10052090-67 = "Kê!? Não dá! Alice, isso não gosta!"
-10052090-68 = "Ei... Apenas falei isso... ..."
-10052090-69 = "[s] \"É difícil, né...?..."
-10052090-70 = "Entendi, obrigado, professor... ..."
-10052090-76 = "Vamos lá, hora de trabalhar, Kê. O professor está procurando um lugar seguro."
-10052090-77 = "Estava trabalhando, então consegui pensar menos em coisas que não eram necessárias...".
-10052090-78 = "Então vamos começar, tá?"
+
+10052090-45 = "Também penso que o presidente mudou em relação a antes."
+
+10052090-46 = "Vou falar francamente! ?"
+
+10052090-48 = "Posso considerar isso um bom significado? Ou..."
+
+10052090-50 = "Você está de repente perdendo seu julgamento? ?"
+
+10052090-51 = "Kay, acalme-se. Se você fica com raiva o tempo todo, pode acabar cometendo um erro no seu circuito emocional, certo?"
+
+10052090-53 = "Eu não posso negar. Seu corpo ainda não foi totalmente analisado."
+
+10052090-54 = "Se ocorrer um erro fatal, talvez eu não consiga lidar com isso."
+
+10052090-61 = "Ah... já...!"
+
+10052090-62 = "[s] \"...Kei-chan, você está bem?\""
+
+10052090-63 = "Se eu desmaiar de estresse, é tudo culpa sua..."
+
+10052090-67 = "Kay! ? Não! Alice, eu não quero isso!"
+
+10052090-68 = "Não... eu só estava tentando dizer isso..."
+
+10052090-69 = "[s] \"É um monte de problemas...\""
+
+10052090-70 = "Obrigado pela compreensão, professor..."
+
+10052090-76 = "Agora é hora de trabalhar, Kay. O professor está procurando um lugar seguro."
+
+10052090-77 = "É melhor trabalhar para não ter que pensar em coisas desnecessárias..."
+
+10052090-78 = "Bem, vamos começar."
+

@@ -1,123 +1,64 @@
 [translation]
 1012305-1 = "último momento"
-
 1012305-2 = "(Quando vou para o quarto de Seia――)"
-
 1012305-7 = "...Eu estava esperando por você, Sensei."
-
 1012305-8 = "Vou revelar rapidamente a história, mas..."
-
 1012305-10 = "Quarto de Seia"
-
 1012305-11 = "... Ufa."
-
 1012305-12 = "Como esperado, não estou nem um pouco surpreso. #nNa verdade, seu rosto parecia estar tentando dizer: ``Como esperado.''"
-
 1012305-13 = "[s1] \"Bem, isso é verdade.\"\n[s2] \"Isso não significa que é a última vez que você usa essas roupas? \""
-
 1012305-19 = "Hmm... eu não fiz nada de errado..."
-
 1012305-20 = "Não é uma reação um pouco sem emoção? #nVocê poderia dizer que é muito simples."
-
 1012305-21 = "Até eu me sinto envergonhado nesta partida solo de sumô."
-
 1012305-22 = "Coisas assim só compensam quando estão equilibradas."
-
 1012305-23 = "Agora, como você planeja compensar isso? #nVocê tem alguma boa ideia?"
-
 1012305-24 = "……sim?"
-
 1012305-25 = "É raro você ficar quieto. Isso é de novo..."
-
 1012305-26 = "[s3] \"...Mesmo que eu realmente saiba.\"\n[s4] \"Sinto que você está me dando muita permissão, não é?\""
-
 1012305-32 = "certamente. Você já estava namorando."
-
 1012305-33 = "Na verdade, deveria ser eu quem deveria pedir desculpas... ou deveria ser grato? #nÉ assustador se acostumar com o “normal”."
-
-1012305-34 = "De qualquer forma, por "último" quero dizer...#nEstou planejando guardar essas roupas por hoje."
+1012305-34 = "De qualquer forma, por \"último\" quero dizer...#nEstou planejando guardar essas roupas por hoje."
 
 1012305-35 = "Não é mais um visual particularmente novo. #nNão havia razão para usá-lo novamente, mas..."
-
 1012305-36 = "Ainda assim... ela tem uma personalidade pouco qualificada. #nEntão resolvi dar um motivo."
-
-1012305-37 = "Ao final, essa imagem ficará gravada na memória do professor."
-
+1012305-37 = "Ao final, essa imagem ficará gravada na memória do sensei."
 1012305-38 = "Para você, mais ninguém."
-
-1012305-39 = "De qualquer forma, é rebuscado. #nSe vocês querem rir juntos, o professor é o melhor...esse é o ponto."
-
+1012305-39 = "De qualquer forma, é rebuscado. #nSe vocês querem rir juntos, o sensei é o melhor...esse é o ponto."
 1012305-40 = "Devo usá-lo quando quiser?"
-
 1012305-41 = "... Entendo, essa é a sua opinião."
-
 1012305-42 = "Se é possível ou não, não é impossível. #nMas esse não é o caso."
-
 1012305-43 = "Isso realmente não me desanima. É tudo uma questão de emoções. #nPerde-se o entusiasmo e, sobretudo, falta-lhe o interesse."
-
 1012305-44 = "Eu te disse antes, certo? #nA oportunidade de usar algo diferente do uniforme é preciosa para mim."
-
 1012305-45 = "Quando se trata de roupas que devem permanecer iguais todos os dias, Trinity's..."
-
 1012305-46 = "Não, apenas o uniforme do Tea Party é suficiente."
-
 1012305-47 = "No entanto, não é mau ter um “normal”."
-
-1012305-48 = "Mude seu traje. #nたったそれだけのことが、心の縛りを解く鍵になるのだから。"
+1012305-48 = "Mude seu traje. #nSó isso é a chave para desbloquear os laços do seu coração."
 
 1012305-52 = "...Agora, o que devemos fazer?"
-
 1012305-53 = "Lamento ter economizado tanto do seu tempo, mas fiquei sem tópicos que chamariam sua atenção."
-
 1012305-54 = "Na verdade, estive pensando sobre isso e aquilo."
-
 1012305-55 = "Pensei em deixá-los resolver enigmas ou conversar sobre livros."
-
 1012305-56 = "No entanto, simplesmente não me sinto confortável com isso."
-
 1012305-57 = "Bem, é uma conclusão natural. #nAfinal, quem está pensando nisso sou eu."
-
 1012305-58 = "Mesmo a menor doença fingida que ele conseguiu inventar foi facilmente ignorada."
-
 1012305-59 = "Tenha uma conversa para manter a conversa. É difícil."
-
 1012305-60 = "...De jeito nenhum."
-
 1012305-61 = "O que você pensa de mim assim?"
-
 1012305-62 = "[s5] Cabeça de Pat Seia. \n[s6] Cabeça do Pop Seia."
-
-1012305-65 = "……professor?"
-
+1012305-65 = "……sensei?"
 1012305-66 = "Qual é o propósito disso...?"
-
 1012305-67 = "...Hum?"
-
 1012305-68 = "Mesmo se você disser: ``Essa é a reação que eu esperava...''"
-
-1012305-69 = "Fiz algo que deixaria o professor feliz?"
-
+1012305-69 = "Fiz algo que deixaria o sensei feliz?"
 1012305-74 = "[ns7] \"...Seia?\"\n[ns8] \"Talvez você esteja dormindo?\""
-
 1012305-77 = "...Hmph."
-
 1012305-78 = "Você é tão mau."
-
 1012305-79 = "Se essa é a sua atitude, tenho algumas ideias."
-
 1012305-86 = "[ns9] \"Seia!?\"\n[ns10] \"Você não trancou...!?\""
-
 1012305-90 = "Hehehe…."
-
 1012305-91 = "Finalmente consegui tirar minha agitação. #nEntendo, é necessária tanta provocação?"
-
 1012305-92 = "Não quero que você esqueça, mas o dono deste quarto sou... eu."
-
-1012305-93 = "Bem... você está pronto? professor."
-
+1012305-93 = "Bem... você está pronto? sensei."
 1012305-99 = "Se você quiser sair daqui, tente me agradar."
-
 1012305-101 = "(Depois disso, ele ficou sujeito aos caprichos de Seia até ficar satisfeito.)"
-
 1012305-102 = "(Era quase o pôr do sol quando fui solto.)"
-

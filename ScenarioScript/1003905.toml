@@ -1,54 +1,105 @@
 [translation]
-1003905-1 = "RABBIT4、狙撃します。"
-1003905-2 = "オ、オッホン。こんにちは、先生。"
-1003905-3 = "こんなへんぴな所まで呼び出してしまって、すみません……"
-1003905-4 = "[s] \"ううん、気にしないで。\""
-1003905-5 = "あ、ありがとうございます。今日はその、市街地戦を想定した狙撃訓練をしようかと……"
-1003905-6 = "最初はキヴォトス市内で訓練をしようと思ったのですが……"
-1003905-7 = "見知らぬ人に迷惑をかけるわけには……「ここで訓練しますので」なんて言うわけにもいきませんし……"
-1003905-8 = "[s1] \"まあ、それは確かにね……。\"\n[s2] \"市内だと住人も多くて、色々と危ないもんね。”"
-1003905-9 = "はい。そこで、代わりの場所を探していたのですが……"
-1003905-10 = "はい。そこで、代わりの場所を探していたのですが……"
-1003905-11 = "以前ここで、使われていない廃家を見つけたんです。"
-1003905-12 = "ここしばらく、持ち主の方が来ないか観察していたのですが……誰も来なかったので、多分もう捨てられているかと……"
-1003905-13 = "それで、ここを使わせていただき……訓練をしようかな、と。"
-1003905-14 = "[s] \"うん、了解。何を手伝ったら良いかな？\""
-1003905-15 = "あ、えっと……狙撃の準備は私がしますので……。"
-1003905-16 = "でしたら先生には、向こうの山の稜線のところに「ターゲット」を設置していただいても良いですか……？"
-1003905-17 = "[s] \"分かった、300m先くらいのところで良い？\""
-1003905-18 = "えっと、もっと……"
-1003905-19 = "[s] \"500mくらい？\""
-1003905-20 = "すみません、もう少し遠く……"
-1003905-21 = "1kmくらい離れたところで、お願いできればと……。"
-1003905-22 = "[s] \"……それ、見える？\""
-1003905-23 = "はい、大丈夫です……SRTのスナイパーですから。"
-1003905-24 = "RABBIT小隊のみんなの迷惑にならないためにも……これくらいは、できないと……。"
-1003905-25 = "では……すみません、お願いします。"
-1003905-28 = "[ns] ターゲットを設置しに移動する"
-1003905-30 = "（ターゲットを設置した後、再びミユがいる場所に戻ると……）"
-1003905-31 = "うぅ……"
-1003905-32 = "（何故かミユは、野生動物たちに囲まれていた……）"
-1003905-35 = "[wa:700]― 呼吸を整えて……"
-1003905-37 = "[wa:420]― 目標に、[wa:750]集中……。"
-1003905-40 = "― 距離1,150m、[wa:2800]風は東北東から[wa:1000]15ノット……"
-1003905-42 = "― 温湿度による[wa:1100]誤差を補正……"
-1003905-45 = "[wa:1400]― あ、[wa:1000]あの……[wa:950]先生、"
-1003905-47 = "― できればその、[wa:1900]そういった悪戯は[wa:1400]ご遠慮いただけますと……"
-1003905-50 = "[wa:100]― えっと、[wa:1150]照準が乱れてしまうので……"
-1003905-53 = "[ns] \"えっと、私じゃなくて……。\""
-1003905-54 = "[wa:500]― ……なるほど。"
-1003905-57 = "[wa:180]― これは[wa:400]邪魔ではなく、"
-1003905-59 = "― 実践に近い状況下での[wa:1400]狙撃訓練、[wa:2100]ということですよね……"
-1003905-62 = "― SRTでも、"
-1003905-64 = "[wa:600]― 似たような訓練を[wa:800]したような気が……"
-1003905-67 = "[ns] \"あのー……。\""
-1003905-68 = "[wa:600]― ひゃぅっ……！？"
-1003905-71 = "― せ、[wa:800]先生……！[wa:2300]いくら何でも、"
-1003905-73 = "― 耳に息を[wa:900]吹きかけるのは……！？"
-1003905-76 = "[wa:500]― （うぅ……[wa:1500]せ、[wa:1300]先生の吐息が、[wa:1900]この距離で……）"
-1003905-78 = "[wa:240]― （しょ、[wa:1200]照準がぶれるっ……！）"
-1003905-81 = "[ns] ミユに動物たちのことを伝える。"
-1003905-82 = "わ、わっ……？この子たち、いつの間に……！？"
+1003905-1 = "COELHO4, vou atirar."
+
+1003905-2 = "Oh, OK. Olá, senhor."
+
+1003905-3 = "Me desculpe por ligar para você em um lugar tão remoto..."
+
+1003905-4 = "[s]“Não, não se preocupe com isso.”"
+
+1003905-5 = "Ah, muito obrigado. Hoje, estou pensando em fazer um treinamento de atirador assumindo uma batalha urbana..."
+
+1003905-6 = "A princípio pensei em treinar na cidade de Kivotos, mas..."
+
+1003905-7 = "Não quero causar problemas a estranhos... Não posso simplesmente dizer: ``Vou treinar aqui''..."
+
+1003905-8 = "[s1]\"Bem, isso é verdade...\"\n[s2]“Há muitos moradores na cidade, então pode ser perigoso de várias maneiras”."
+
+1003905-9 = "sim. Então eu estava procurando um local alternativo..."
+
+1003905-10 = "sim. Então eu estava procurando um local alternativo..."
+
+1003905-11 = "Certa vez encontrei uma casa abandonada aqui."
+
+1003905-12 = "Já faz algum tempo que estou observando para ver se o dono veio... mas como ninguém apareceu, pensei que poderia ter sido abandonado..."
+
+1003905-13 = "Então pensei, deixe-me usar este lugar... e vamos treinar."
+
+1003905-14 = "[s]\"Sim, entendo. Em que posso ajudá-lo?\""
+
+
+1003905-15 = "Ah, hum... vou me preparar para o tiroteio..."
+
+1003905-16 = "Nesse caso, você poderia, por favor, definir um “alvo” no cume da montanha ali...?"
+
+1003905-17 = "[s]\"Ok, talvez a 300 metros de distância?\""
+
+1003905-18 = "Bem, mais..."
+
+1003905-19 = "[s]\"Cerca de 500m?\""
+
+1003905-20 = "Desculpe, é um pouco longe..."
+
+1003905-21 = "Eu gostaria de poder perguntar a alguém a cerca de 1 km de distância..."
+
+1003905-22 = "[s]\"...Você consegue ver isso?\""
+
+1003905-23 = "Sim, está tudo bem...sou um atirador SRT."
+
+1003905-24 = "Para não causar problemas a todos no pelotão COELHO... eu tenho que fazer algo assim..."
+
+1003905-25 = "Bem... me desculpe, por favor."
+
+1003905-28 = "[ns]Mova para definir a meta"
+
+1003905-30 = "(Depois de definir o alvo, volte para onde Miyu está novamente...)"
+
+1003905-31 = "Eca..."
+
+1003905-32 = "(Por alguma razão, Miyu estava cercada por animais selvagens...)"
+
+1003905-35 = "[wa:700]- Respire..."
+
+1003905-37 = "[wa:420]- para o gol,[wa:750]concentração……."
+
+1003905-40 = "- Distância 1.150m,[wa:2800]O vento é de leste-nordeste[wa:1000]15 nós..."
+
+1003905-42 = "- Depende da temperatura e umidade[wa:1100]Corrija o erro..."
+
+1003905-45 = "[wa:1400]- uma,[wa:1000]que……[wa:950]professor,"
+
+1003905-47 = "- Se possível,[wa:1900]Esse tipo de pegadinha[wa:1400]Se você quiser se abster..."
+
+1003905-50 = "[wa:100]-Bem,[wa:1150]Porque o objetivo será interrompido..."
+
+1003905-53 = "[ns]\"Bem, não sou eu...\""
+
+1003905-54 = "[wa:500]- ……Eu vejo."
+
+1003905-57 = "[wa:180]- isso é[wa:400]Não é um obstáculo,"
+
+1003905-59 = "- Em condições próximas da prática[wa:1400]treinamento de atirador,[wa:2100]Isso é o que você quer dizer..."
+
+1003905-62 = "- Mesmo em SRT,"
+
+1003905-64 = "[wa:600]- treinamento semelhante[wa:800]Eu sinto que sim..."
+
+1003905-67 = "[ns]\"Hum......\""
+
+1003905-68 = "[wa:600]― Olá...! ?"
+
+1003905-71 = "- altura,[wa:800]professor……![wa:2300]Não importa o que aconteça,"
+
+1003905-73 = "-Respire em seu ouvido[wa:900]Pulverize...! ?"
+
+1003905-76 = "[wa:500]- (Uh...[wa:1500]altura,[wa:1300]A respiração do professor[wa:1900]A esta distância...)"
+
+1003905-78 = "[wa:240]- (Xô,[wa:1200]Minha mira está embaçada...! )"
+
+1003905-81 = "[ns]Conte a Miyu sobre os animais."
+
+1003905-82 = "Uau...? Essas crianças, antes que você perceba...! ?"
+
 1003905-85 = "Ugh..."
 1003905-86 = "Eu achava que o fato de os animais não ficarem alertas perto de mim era uma das minhas poucas qualidades, mas..."
 1003905-87 = "Quem diria que eles acabariam atrapalhando meu disparo..."

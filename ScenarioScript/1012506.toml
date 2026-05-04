@@ -1,137 +1,71 @@
 [translation]
 1012506-1 = "pintor mágico"
-
 1012506-2 = "(Como prometido a Eli, ele veio às ruas de Wild Hunt)"
-
 1012506-8 = "Ah, Mestre! Aqui está!"
-
 1012506-9 = "Está tudo pronto! Agora vamos!"
-
 1012506-10 = "[s] \"Você vai desenhar hoje, certo?\""
-
 1012506-11 = "Isso mesmo."
-
 1012506-12 = "Se não se importa...Gostaria de fazer um retrato usando o mestre como modelo!"
-
 1012506-13 = "[s] \"Sério!? Estou ansioso por isso!\""
-
 1012506-14 = "Nyufufu, por favor, aguarde ansiosamente. #nHoje é um ambiente especial e diferente do habitual."
-
 1012506-15 = "Na medida do possível, tentarei desenhar apenas com a mana que dorme dentro de mim."
-
 1012506-16 = "[s1] \"Você está se preparando para o exame prático?\"\n[s2] \"De jeito nenhum... você vai tirar o chapéu também?\""
-
 1012506-22 = "Bem, Mestre... você realmente quer que eu tire sua roupa...! ?"
-
 1012506-23 = "……lar. #nSe o Mestre solicitar, eu tiro... #nMas lugares com muito trânsito de pedestres são um pouco..."
-
 1012506-24 = "[s] \"...É sobre o chapéu!\""
-
 1012506-28 = "Nyufufufu…."
-
 1012506-29 = "[s] \"Por favor, diga sim!\""
-
 1012506-30 = "Nyufu, claro que estou falando do chapéu!"
-
 1012506-31 = "Agora que finalizamos a cerimônia de boas-vindas ao mestre, vamos ao ateliê?"
-
 1012506-36 = "[ns] \"Huh? Não é na direção oposta?\""
-
 1012506-37 = "Não, está certo?"
-
 1012506-38 = "O ateliê de hoje é – é isso!"
-
 1012506-39 = "Vamos sortear um retrato do mestre #n no lugar mais movimentado de Wild Hunt!"
-
 1012506-40 = "Se você concluir seu trabalho aqui, com certeza ganhará confiança!"
-
 1012506-41 = "[s3] \"Certamente com este método...\"\n[s4] \"Desenhar enquanto está sendo observado pode ser um bom treinamento.\""
-
 1012506-44 = "Agora, por favor, tomem seus lugares. Vou preparar a tela imediatamente."
-
 1012506-51 = "sim? Treinamento ao ar livre?"
-
 1012506-52 = "Eu só tinha um tempo livre, então pensei em dar uma olhada."
-
 1012506-57 = "[ns] \"As galerias já estão começando a se reunir...\""
-
 1012506-59 = "Não, está tudo bem! Tudo isso faz parte do cálculo!"
-
 1012506-63 = "...Agora, deixe-me mostrar a você."
-
-1012506-64 = "Minha "mágica de criação de mundo"!"
+1012506-64 = "Minha \"mágica de criação de mundo\"!"
 
 1012506-67 = "[wa:5510]― [log=에리]...Lembro-me [wa:1570] do dia em que fiz um desenho pela primeira vez. [/registro]"
-
 1012506-70 = "― [log=에리]Naquela época...[wa:1160]direto, [wa:700]puramente,[/log]"
-
 1012506-72 = "― [log=에리]Eu estava de frente para a tela. [/registro]"
-
 1012506-75 = "[wa:650]― [log=에리]Do jeito que sou agora...[wa:1790]Sou diferente. [/registro]"
-
 1012506-78 = "― [log=에리]Não sei o que desenhar [wa:1280], então [/log]"
-
 1012506-80 = "― [log=에리]Perdi [wa:760]confiança e [wa:480]... [/log]"
-
 1012506-83 = "[wa:660]― [log=에리]Naquela época,[/log]"
-
 1012506-85 = "― [log=에리]Mestre [wa:560] me ensinou isso. [/registro]"
-
-1012506-88 = "― [log=에리]A magia chamada "sonho" é[/log]"
+1012506-88 = "― [log=에리]A magia chamada \"sonho\" é[/log]"
 
 1012506-90 = "― [log=에리]Já está [wa:570]morando [wa:870]dentro [wa:290] do meu coração. [/registro]"
-
 1012506-93 = "[wa:920]― [log=에리]Se você tem um sonho... [wa:2170]De agora em diante, [/log]"
-
 1012506-95 = "― [log=에리]Parece que você pode passar por [wa:970] sem se perder. [/registro]"
-
 1012506-98 = "― [log=에리]Mestre...[wa:1570]Se não se importa,[/log]"
-
 1012506-100 = "― [log=에리]Você gostaria de trilhar o mesmo caminho que eu [wa:1260]? [/registro]"
-
 1012506-103 = "[wa:610]― [log=에리]Colorido [wa:1450]Cheio de sonhos,[/log]"
-
 1012506-105 = "― [log=에리]Um caminho mágico! [/registro]"
-
 1012506-109 = "...Como foi? #nMeus sentimentos...eles chegaram?"
-
 1012506-110 = "[s5] \"Sim. Eu entendi claramente.\"\n[s6] \"Eri foi quem usou palavras mágicas.\""
-
 1012506-113 = "Ehehe…."
-
 1012506-114 = "[s] \"Posso dar uma olhada?\""
-
 1012506-115 = "Bem, ainda é um trabalho em andamento, então não! Vou mostrar para você quando terminar!"
-
 1012506-120 = "Ah, é a Eri!"
-
 1012506-121 = "Huh? O que é essa foto...?"
-
 1012506-122 = "Oh sim! ? Ei, pessoal! ? Ei, desde quando isso estava aí...! ?"
-
 1012506-123 = "Uau, que retrato realmente lindo! Parece o uso de cores pela Eri-chan!"
-
 1012506-124 = "Hehe, fiquei com vergonha, mas não é uma foto muito bonita."
-
 1012506-125 = "E-É mesmo...?"
-
 1012506-126 = "Ah, desculpe! #nNão me perturbe, é hora de ir!"
-
 1012506-127 = "Que legal, Eli! Porque estou torcendo por você!"
-
 1012506-131 = "Eh, ehehehe…."
-
 1012506-132 = "[s] \"Você é um bom amigo.\""
-
 1012506-133 = "Sim. Todo mundo é muito gentil...."
-
 1012506-134 = "...Como esperado, minhas preocupações eram infundadas."
-
 1012506-139 = "Agora vamos continuar desenhando!"
-
-1012506-144 = "[ruby=Shirao]Shirao[/ruby]Vou criar um mundo só para Eri...!"
-
+1012506-144 = "ShiraoVou criar um mundo só para Eri...!"
 1012506-146 = "(O trabalho de Eri foi concluído enquanto era observado por muitos alunos)"
-
 1012506-147 = "(Foi um trabalho maravilhoso que qualquer um que o visse poderia sentir o “Eri-ness” dele.)"
-

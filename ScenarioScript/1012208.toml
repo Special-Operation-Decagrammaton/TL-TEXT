@@ -35,7 +35,7 @@
 
 1012208-26 = "Eu adormeci, certo? #nEntão... eu fiz ela me carregar nas costas para o meu quarto..."
 
-1012208-27 = "[s1] \"Não se preocupe. Foi um pouco difícil.\"\n[s2] \"Foi leve como uma pena. Está tudo bem.""
+1012208-27 = "[s1] \"Não se preocupe. Foi um pouco difícil.\"\n[s2] \"Foi leve como uma pena. Está tudo bem.\""
 
 1012208-28 = "Ah, isso é mentira!"
 
@@ -111,32 +111,27 @@
 
 1012208-86 = "……."
 
-1012208-89 = "[wa:860]― [log=미카 수영복]Ei, [wa:570]Sensei. [/registro]"
-
+1012208-89 = "[wa:860]― [log=미카 수영복]ねぇ、[wa:570]先生。[/log]"
 1012208-91 = "― [log=미카 수영복]Eu...[wa:2620]Fiquei [wa:1980] feliz em ver esse cenário com o [wa:1030] professor [wa:680]. [/registro]"
 
-1012208-94 = "[wa:2060]― [log=미카 수영복]Preocupações―[/log]"
-
+1012208-94 = "[wa:2060]― [log=미카 수영복]心配事も――[/log]"
 1012208-96 = "― [log=미카 수영복]Preocupações futuras também――[wa:80] [/log]"
 
 1012208-99 = "― [log=미카 수영복] Ansiedade também - [wa:2250] Ainda resta [wa:1630]. [/registro]"
 
-1012208-102 = "[wa:550]― [log=미카 수영복]Mas... [/log]"
-
+1012208-102 = "[wa:550]― [log=미카 수영복]でも……。[/log]"
 1012208-104 = "― [log=미카 수영복]Eu gostaria de poder ver um céu estrelado como este [wa:1090]. [/registro]"
 
 1012208-107 = "― [log=미카 수영복]...Acho que é tudo [wa:1630]pequeno[wa:720][wa:1610]. [/registro]"
 
 1012208-109 = "― [log=미카 수영복]É assim que me sinto. [/registro]"
 
-1012208-112 = "[wa:920]― [log=미카 수영복]Sensei, [wa:1400] você me contou. [/registro]"
-
+1012208-112 = "[wa:920]― [log=미카 수영복]先生、[wa:1400]言ってくれたよね。[/log]"
 1012208-115 = "― [log=미카 수영복]Agora, [wa:1850]neste momento, [wa:3560]de agora em diante, [wa:1000]para sempre [wa:1030]... [/log]"
 
 1012208-117 = "― [log=미카 수영복]Você me apoia, [wa:2230]. [/registro]"
 
-1012208-120 = "[wa:530]― [log=미카 수영복]Então... [/log]"
-
+1012208-120 = "[wa:530]― [log=미카 수영복]だから……。[/log]"
 1012208-122 = "― [log=미카 수영복]Eu também ficarei [wa:2930] feliz. [/registro]"
 
 1012208-126 = "……."
@@ -145,7 +140,7 @@
 
 1012208-128 = "[ns] \"Mika ficará feliz.\""
 
-1012208-132 = "[ns] \"Acredito que sim.""
+1012208-132 = "[ns] \"Acredito que sim.\""
 
 1012208-133 = "Ah, é isso..."
 
@@ -157,7 +152,7 @@
 
 1012208-141 = "Então, eu ficaria feliz se você pudesse me ajudar?"
 
-1012208-142 = "[s5] \"Sim, claro.\"\n[s6] \"Estarei sempre cuidando de você.""
+1012208-142 = "[s5] \"Sim, claro.\"\n[s6] \"Estarei sempre cuidando de você.\""
 
 1012208-145 = "Haha, diga isso de novo com uma cara séria☆"
 

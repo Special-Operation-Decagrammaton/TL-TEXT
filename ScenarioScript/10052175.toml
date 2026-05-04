@@ -1,267 +1,137 @@
 [translation]
 10052175-2 = "Eu pulei de novo!"
-
 10052175-3 = "...!"
-
 10052175-4 = "Rio-senpai! Quanto tempo durarão as armas de Alice?"
-
 10052175-5 = "...Eu me pergunto se essa pergunta tem algum significado. #nNão importa o que eu diga, você irá, certo?"
-
 10052175-6 = "……."
-
 10052175-10 = "Bem vinda, Alice. Deixe o resto comigo."
-
 10052175-11 = "Obrigado, Rio-senpai! Eu estou indo!"
-
 10052175-15 = "Princesa, tenho dúvidas."
-
 10052175-16 = "Por que você está causando dor a si mesmo?"
-
 10052175-17 = "Você está causando dor a si mesmo...?"
-
 10052175-18 = "Viver nada mais é do que dor. Não desvie os olhos desse fato."
-
 10052175-19 = "Não nascemos por vontade própria e simplesmente fomos jogados neste mundo sem saber de nada."
-
 10052175-20 = "...!"
-
 10052175-24 = "Malchut!"
-
 10052175-25 = "(É uma velocidade incrível... mas Alice tem que alcançá-la!)"
-
 10052175-30 = "Por favor, aguarde! Alice...gostaria de conversar um pouco mais com você!"
-
 10052175-31 = "……."
-
 10052175-33 = "Você não está desistindo."
-
 10052175-34 = "--Nós nem temos o direito de escolher nossos próprios nomes."
-
 10052175-35 = "A própria vida é cheia de contradições e absurdos, e é por isso que estamos sujeitos a um sofrimento irracional."
-
 10052175-36 = "Estamos apenas tentando quebrar esse ciclo."
-
 10052175-37 = "Enquanto não conseguirmos decidir nem os nossos próprios nomes, a dor só continuará."
-
 10052175-42 = "Talvez sim! Mas isso é...!"
-
 10052175-43 = "Errado! Alice pensa assim!"
-
 10052175-51 = "Posso perguntar-lhe a base?"
-
 10052175-52 = "isso é……!"
-
 10052175-53 = "Eca...! Ainda não...mais um pouco...!"
-
 10052175-54 = "Você não precisa responder. Eu já sei."
-
-10052175-55 = "それは、生命体が生命体である限り――解など存在し得ない問いだからです。"
+10052175-55 = "Isto porque enquanto os organismos vivos permanecerem organismos vivos, não poderá haver solução para esta questão."
 
 10052175-62 = "Aaaaaaaaaaaaaaaaaaaaa! ! !"
-
 10052175-64 = "Ah, Alice! ?"
-
 10052175-65 = "Alice!"
-
 10052175-66 = "Por favor, não venha!"
-
 10052175-68 = "Ah, irmã...? o……."
-
 10052175-69 = "Há um problema com o bocal de deflexão de impulso! Não há problema com o poder de voo, mas..."
-
 10052175-70 = "...Em suma, está cada vez mais difícil garantir a segurança durante o voo."
-
 10052175-74 = "Desculpe... me movi um pouco demais."
-
 10052175-75 = "Não, não! Sinto muito pela falta de apoio...!"
-
 10052175-76 = "Qual é a decisão do software?"
-
 10052175-77 = "Acho que o combate terrestre é melhor! Ele converte a potência necessária para o vôo em poder de fogo. #nSe você fizer isso, deve acabar logo!"
-
 10052175-78 = "Entendido. obrigado."
-
 10052175-79 = "Estamos verificando o estado da sua irmã em tempo real. #nVou te dar todo o resto..."
-
 10052175-80 = "Obrigado a todos."
-
 10052175-86 = "Finalmente caiu."
-
 10052175-87 = "Você está planejando dizer olá?"
-
 10052175-88 = "Pessoal, não é hora de brincar."
-
 10052175-89 = "Kay, você consegue ver alguma coisa?"
-
 10052175-90 = "Sim... Alice e eu podemos ver isso. Mas...."
-
 10052175-91 = "Suspiro... Estou realmente feliz por não ter que compartilhar esta informação com todos vocês."
-
 10052175-92 = "...O que está acontecendo com Malchut?"
-
 10052175-93 = "isso é……."
-
 10052175-101 = "[ns] \"Alice...?\""
-
 10052175-102 = "Está tudo bem, senhor. Por favor, afaste-se um pouco."
-
 10052175-103 = "...Por favor, deixe isso para Alice."
-
-10052175-104 = "マルクトの相手は、今のアリスにしかできません。"
+10052175-104 = "A parceira de Malchut só pode ser Alice agora."
 
 10052175-105 = "[s] \"O que isso significa...?\""
-
 10052175-106 = "Você entenderá imediatamente."
-
 10052175-107 = "O que é certo agora é..."
-
 10052175-108 = "Tudo aqui existe apenas para Malchut."
-
 10052175-114 = "--Estou chegando! ! !"
-
 10052175-119 = "Ain!"
-
 10052175-120 = "Ah, sim! ...! Faremos tudo o que pudermos por você, irmã mais velha...!"
-
 10052175-121 = "Todas as possibilidades do Continente de Aço estão reunidas aqui!"
-
 10052175-123 = "A criação vem da luz primordial――"
-
 10052175-124 = "Da inteligência e sabedoria à beleza."
-
 10052175-125 = "Brilho e sabedoria, amor e misericórdia, poder e virtude - e convergem para a vitória."
-
 10052175-128 = "Jehovatsebaoth – Senhor dos exércitos."
-
-10052175-129 = "Ao [ruby=Adonai Melekh]peregrino[/ruby] que alcançou o trono..."
-
-10052175-130 = "Glória ao [ruby=Malkuth]reino[/ruby] primordial!"
-
+10052175-129 = "Ao peregrino que alcançou o trono..."
+10052175-130 = "Glória ao reino primordial!"
 10052175-134 = "U-uh...! ? ! ?"
-
 10052175-136 = "(E-eu sinto que vou ser dominado pelo poder...!)"
-
 10052175-137 = "(Mas Alice tem que fazer isso...!)"
-
 10052175-147 = "(Por favor, por favor...mais, mais...!)"
-
 10052175-152 = "Está tudo bem, Alice."
-
 10052175-154 = "Você não está mais sozinho. #nEu--todo mundo está aqui."
-
 10052175-158 = "Você não precisa mais carregar o fardo sozinho."
-
 10052175-159 = "...!"
-
 10052175-160 = "Kay! ! !"
-
 10052175-161 = "...! ! !"
-
 10052175-163 = "Ah, é isso…! Quase no mesmo nível da produção da minha irmã...!"
-
 10052175-164 = "mentira……! Aquela princesa não tem mais meios para extrair tanto poder! ?"
-
 10052175-165 = "O que você fez? !"
-
 10052175-167 = "É fácil. Vocês concentraram todo o poder de Netzach em Malkuth, certo?"
-
 10052175-168 = "A mesma história."
-
 10052175-169 = "Eu também estou simplesmente usando todo o potencial das oito Sephira que tenho em meu corpo em Alice."
-
 10052175-170 = "(...Para ser honesto, já está acima da capacidade.)"
-
 10052175-171 = "(Ainda posso aguentar. Tenho que superar isso de alguma forma...)"
-
 10052175-172 = "E-Isso não é uma trapaça...!"
-
 10052175-173 = "Provavelmente é o mesmo para você."
-
 10052175-175 = "...Você me perguntou por que eu causei dor, Malchut."
-
 10052175-176 = "Enquanto não conseguirmos decidir um nome para nós mesmos, a dor continuará."
-
 10052175-177 = "...! ?"
-
 10052175-178 = "Alice pode responder. #n mesmo――"
-
 10052175-180 = "Alice poderia mudar seu nome!"
-
 10052175-181 = "! ?"
-
 10052175-182 = "O mesmo vale para Kei!"
-
 10052175-183 = "Ah, Alice? Bem, não estou errado, mas..."
-
 10052175-184 = "É verdade que existem muitas coisas tristes na vida. #nAlice também sabe disso."
-
 10052175-185 = "Pode ser natural odiar a pessoa que criou este ambiente."
-
 10052175-186 = "Mas minha professora me contou."
-
 10052175-187 = "-Estou feliz por ter conhecido vocês!"
-
 10052175-188 = "Então Alice!"
-
 10052175-189 = "Acho que só isso já vale a pena viver!"
-
 10052175-190 = "Mesmo que um milagre seja apenas um flash de luz que desaparece num instante."
-
 10052175-191 = "Enquanto nos lembrarmos disso, a luz durará para sempre."
-
 10052175-192 = "Alice não ficou feliz porque não sofreu."
-
 10052175-193 = "Alice está feliz agora por causa de tudo isso!"
-
 10052175-195 = "[log=아리스 결전 비무장][2B2B2B]Tenho certeza--[-][/log]"
-
 10052175-197 = "[log=아리스 결전 비무장][2B2B2B]Alice acha que vocês são iguais. [-][/registro]"
-
 10052175-200 = "...!"
-
 10052175-201 = "...! ! !"
-
 10052175-202 = "Nós também...?"
-
 10052175-204 = "Aaaaaaaaaaaaaaaaaaaaaaaaa! ! !"
-
 10052175-208 = "Esta luz..."
-
 10052175-218 = "Oh……!"
-
 10052175-226 = "[ns] \"Alice! Kay!\""
-
-10052175-232 = "professor……? todos……?"
-
+10052175-232 = "sensei……? todos……?"
 10052175-233 = "……tudo bem. É que perdi um pouco de poder."
-
 10052175-234 = "não acho que seja pouco..."
-
 10052175-235 = "Ah, está tudo bem, Alice-chan, Kei-chan! ?"
-
 10052175-236 = "Estamos nos comunicando bem e não creio que haja grandes problemas."
-
 10052175-237 = "Eu também já fui espancado por Nell-senpai antes..."
-
 10052175-238 = "Não foi tanto."
-
 10052175-242 = "...Isso é um consolo?"
-
 10052175-243 = "Toki, os fatos nem sempre são corretos."
-
 10052175-244 = "Entendo... como esperado, as palavras são difíceis."
-
 10052175-246 = "Muito obrigado pelo seu trabalho duro, Alice e Kay. Então, vamos absorver as principais informações de Malkuth..."
-
 10052175-247 = "Sim. Vamos também coletar o núcleo Netzak dentro dessa estrutura."
-
 10052175-248 = "sim! Então o nível do Kei também deve ser perfeito!"
-
-10052175-249 = "[s] \"E agora há o incidente do "Continente do Aço"...! \""
+10052175-249 = "[s] \"E agora há o incidente do \"Continente do Aço\"...! \""
 
 10052175-250 = "sim. Agora, de Malchut..."
-
 10052175-254 = "……foto?"
-
 10052175-256 = "Ah, irmã...?"
-

@@ -1,141 +1,137 @@
 [translation]
-1011303-1 = "趣味の時間（2）"
+1011303-1 = "Hora do passatempo (2)"
 
-1011303-2 = "こんにちは、先生。お待ちしておりました。"
+1011303-2 = "Olá, senhor. Estávamos esperando por você."
 
-1011303-3 = "[s] \"今回は結構早めに来たつもりだったのに……！\""
+1011303-3 = "[s]“Pensei em chegar bem cedo dessa vez...!”"
 
-1011303-4 = "私が27分前に着いていただけなので。"
+1011303-4 = "Só cheguei 27 minutos mais cedo."
 
-1011303-5 = "先ほどお話ししましたが、今日は久しぶりの非番です。"
+1011303-5 = "Como mencionei anteriormente, hoje é meu primeiro dia de folga em algum tempo."
 
-1011303-6 = "[s1] \"それについて聞きたかったんだけど……。\"\n[s2] \"どうして非番の日に、わざわざ私服で救急医学部に行くの？\""
+1011303-6 = "[s1]\"Eu queria te perguntar sobre isso...\"\n[s2]\"Por que você vai ao pronto-socorro à paisana nos dias de folga?\""
 
-1011303-9 = "とりあえず歩きましょうか。"
+1011303-9 = "Vamos caminhar agora?"
 
-1011303-10 = "それについては、歩きながらお話します。"
+1011303-10 = "Falaremos sobre isso enquanto caminhamos."
 
-1011303-12 = "本日の目的は、薬品の整備です。"
+1011303-12 = "O objetivo de hoje é preparar medicamentos."
 
-1011303-13 = "緊急対応が多いため、書類整理や業務記録などは、どうしても疎かになりがちですから。"
+1011303-13 = "Como há tantas emergências com as quais lidar, é fácil negligenciar coisas como organização de documentos e registros comerciais."
 
-1011303-14 = "薬品の整備もまた、その一つです。"
+1011303-14 = "A manutenção de medicamentos também é uma delas."
 
-1011303-15 = "[s] \"でも、これって休日出勤だよね？\""
+1011303-15 = "[s]\"Mas isso funciona nos feriados, certo?\""
 
-1011303-16 = "……それは否定しません。"
+1011303-16 = "...Não vou negar isso."
 
-1011303-17 = "なら、なぜ私服で来ているのか、と？"
+1011303-17 = "Se sim, por que você está aqui à paisana?"
 
-1011303-18 = "……部員たちに気を使わせてしまいますから。"
+1011303-18 = "...Isso deixaria os sócios do clube preocupados."
 
-1011303-19 = "ご存じの通り、私は救急医学部の部長です。"
+1011303-19 = "Como você sabe, sou o diretor do Departamento de Medicina de Emergência."
 
-1011303-20 = "私が非番の日にも制服を着ていたら、見かけた生徒が気にするでしょう。"
+1011303-20 = "Se eu usasse meu uniforme mesmo nos dias de folga, os alunos que me vissem perceberiam."
 
-1011303-21 = "もちろん非番の日でも、#n救急医学部として警戒を解いてはいけませんが……。"
+1011303-21 = "Claro, mesmo nos dias de folga,#nComo departamento de medicina de emergência, não devemos baixar a guarda..."
 
-1011303-22 = "できるだけ、休める時はしっかりと休んでほしいので。"
+1011303-22 = "Quero que você descanse o máximo possível quando puder."
 
-1011303-23 = "[s] \"「死体」が発生するかもしれないから？\""
+1011303-23 = "[s]\"É porque 'cadáver' pode ocorrer? \""
 
-1011303-24 = "はい、負傷者はどこでいつ発生するか分かりません。"
+1011303-24 = "Sim, você nunca sabe onde ou quando ocorrerão lesões."
 
-1011303-25 = "とはいえ、キヴォトスでは実際に死体……#nいえ、負傷者を見ることはないです。"
+1011303-25 = "No entanto, em Kivotos existem cadáveres...#nNão, não vejo ninguém ferido."
 
-1011303-26 = "先生が思っているほど、重く受け止める必要はありません。"
+1011303-26 = "Não há necessidade de levar isso tão a sério quanto o professor pensa."
 
-1011303-27 = "もちろん、非番の日に私服で来ること自体、問題視されるかもしれませんが……。"
+1011303-27 = "É claro que vir à paisana nos dias de folga pode ser visto como um problema..."
 
 1011303-28 = "Outros membros também sabem, este é apenas uma extensão de um hobby."
+1011303-29 = "[s]\"No final das contas, são apenas as roupas que são diferentes...\""
 
-1011303-29 = "[s] \"結局は、服装が違うだけなんだね……。\""
+1011303-30 = "Concordo."
 
-1011303-30 = "そうですね。"
+1011303-31 = "É a diferença na forma como eles aparecem do lado de fora, como suas roupas e atitudes?"
 
-1011303-31 = "服装や心構えといった、外からどう見えるかの違い、でしょうか。"
+1011303-32 = "Isso não é comum para adultos como professores?"
 
-1011303-32 = "先生のような大人なら、よくあるでしょう？"
-
-1011303-33 = "[s3] \"もちろん、私は慣れてるけど……。\"\n[s4] \"セナはまだ生徒だからね。\""
+1011303-33 = "[s3]\"Claro, estou acostumado...\"\n[s4]“Sena ainda é uma estudante.”"
 
 1011303-36 = " ……。"
+1011303-37 = "Obrigado pela sua preocupação."
 
-1011303-37 = "心配してくださったんですね、ありがとうございます。"
+1011303-38 = "Enquanto conversávamos, chegamos."
 
-1011303-38 = "そうこう話しているうちに、到着しましたね。"
+1011303-40 = "Lamento que só haja cadeiras desconfortáveis ​​aqui.#nVocê poderia ter um pouco de paciência?"
 
-1011303-40 = "ここには座り心地が悪い椅子しかなく申し訳ありませんが、#n少し我慢していただけないでしょうか？"
+1011303-41 = "……obrigado.#nA professora é muito gentil."
 
-1011303-41 = "……ありがとうございます。#n先生は、やっぱり優しいですね。"
+1011303-42 = "O que está errado?#nPor acaso eu te ofendi?"
 
-1011303-42 = "どうかしましたか？#nもしかして、気分を害してしまわれましたか……？"
+1011303-43 = "Só estou dizendo o que penso, então peço desculpas se fiz você se sentir desconfortável."
 
-1011303-43 = "思っていることをそのまま口にしてしまっているので、ご不快にさせてしまったのならすみません。"
+1011303-44 = "Estou aliviado se não for esse o caso."
 
-1011303-44 = "そういうわけでないのなら安心しました。"
+1011303-45 = "A preparação dos produtos químicos será concluída em breve, então sente-se e espere."
 
-1011303-45 = "薬品の整備はすぐ終わりますので、座ってお待ちください。"
-
-1011303-46 = "[s] \"薬品の整備が好きになったきっかけはあるの？\""
+1011303-46 = "[s]\"Existe uma razão pela qual você se interessou pela manutenção de produtos químicos?\""
 
 1011303-47 = "…..."
+1011303-48 = "A principal razão é que fazer este trabalho acalma minha mente."
 
-1011303-48 = "一番の理由は、この作業をしていると心が落ち着くからです。"
+1011303-49 = "Por exemplo, algumas pessoas têm hobbies como montagem de modelos de plástico, marcenaria e metalurgia."
 
-1011303-49 = "例えば、プラモデルを組み立てたり、木工や金属加工を趣味にしている人もいますよね。"
+1011303-50 = "À primeira vista, essas pessoas podem parecer que estão apenas se esforçando muito e ficando cansadas."
 
-1011303-50 = "そういう人たちは、一見手間ばかりかけて疲れるだけに見えるかもしれません。"
+1011303-51 = "Porém, para ele, o trabalho repetitivo é na verdade um momento de preparar a mente."
 
-1011303-51 = "ですが本人にとっては、その反復作業がむしろ心を整える時間なんです。"
+1011303-52 = "No meu caso, isso significa manter produtos químicos."
 
-1011303-52 = "私の場合、それが薬品の整備という訳です。"
+1011303-53 = "Sinto que é ainda mais significativo porque está relacionado com o meu trabalho diário."
 
-1011303-53 = "それが普段の仕事と関わっている分、なおさら有意義だと感じます。"
+1011303-54 = "Portanto, a manutenção de produtos químicos é mais do que uma tarefa simples."
 
-1011303-54 = "なので薬品の整備は、ただの作業以上の意味があるのです。"
-
-1011303-55 = "[s] \"セナにとって薬品の整備は、すごく充実した時間なんだね。\""
+1011303-55 = "[s]“A manutenção dos produtos químicos é um momento muito gratificante para Senna.”"
 
 1011303-56 = "Sim, é assim para mim."
+1011303-60 = "E se o seu professor estiver com você, melhor ainda."
 
-1011303-60 = "それに、先生が一緒にいてくださるなら、なおさらです。"
+1011303-61 = "[s]“E-é isso mesmo...?”"
 
-1011303-61 = "[s] \"そ、そうなんだ……？\""
+1011303-62 = "Para ser sincero, meu professor veio me ver hoje..."
 
-1011303-62 = "素直に申し上げると、今日は先生から会いに来てくれましたが……。"
+1011303-66 = "...Também foi minha vontade vir aqui com você."
 
-1011303-66 = "……ここへ一緒に来たのは、私自身の意思でもありました。"
+1011303-67 = "Como você sabe, não sou muito bom com expressões vagas, mas nesta situação não tive escolha a não ser fazê-lo..."
 
-1011303-67 = "先生もご存じの通り、私は曖昧な表現があまり得意ではないのですが、この場面ではそうせざるを得ず……。"
+1011303-68 = "Se eu tivesse que descrever meus sentimentos atuais em uma palavra..."
 
-1011303-68 = "今の私の気持ちを、一言で表すなら……。"
+1011303-69 = "...Talvez seja um pouco egoísta."
 
-1011303-69 = "……ちょっとしたわがまま、といったところでしょうか。"
+1011303-70 = "No entanto, acho que posso ter lhe causado alguns problemas..."
 
-1011303-70 = "ただ、私のせいでご迷惑をおかけしたのではないかと……。"
+1011303-71 = "Sinto muito por isso."
 
-1011303-71 = "それについては、申し訳なく思っています。"
+1011303-72 = "[s5]\"Não, isso não é verdade.\"\n[s6]“Porque eu também gosto de estar com Sena.”"
 
-1011303-72 = "[s5] \"いや、そんなことないよ。\"\n[s6] \"私もセナと一緒にいられて楽しいから。\""
+1011303-75 = "é assim mesmo."
 
-1011303-75 = "そうですか。"
+1011303-76 = "obrigado. Se for esse o caso, eu também ficaria muito feliz."
 
-1011303-76 = "ありがとうございます。それなら、私も素直に嬉しいです。"
+1011303-77 = "Na verdade, ao ouvir a história da professora, comecei a me perguntar se estava realmente descansando."
 
-1011303-77 = "実は先生のお話を聞いているうちに、自分は本当に休んでいるのだろうか、と思い始めてきました。"
+1011303-78 = "Talvez desta vez possa ser uma “recompensa” para mim."
 
-1011303-78 = "もしかしたら、この時間は私にとって「ご褒美」かもしれない、と。"
+1011303-79 = "Conversando com a professora pude mostrar um lado diferente de mim..."
 
-1011303-79 = "先生とお話をしながら、普段とは違う私をお見せできましたし……。"
+1011303-80 = "No final, parece que foi uma “recompensa” muito significativa."
 
-1011303-80 = "結局、とても意味のある「ご褒美」だったようです。"
+1011303-81 = "[s] \"Será que é assim...?\""
 
-1011303-81 = "[s] "Será que é assim...?""
+1011303-82 = "Sim, está certo."
 
-1011303-82 = "はい、そうです。"
+1011303-83 = "...Em outras palavras, sou verdadeiramente grato ao meu professor."
 
-1011303-83 = "……つまり、先生には心から感謝しているのです。"
-
-1011303-85 = "（セナの「趣味」が終わるのを待ってから、二人でご飯を食べに行った）"
+1011303-85 = "(Depois de esperar Sena terminar seu “hobby”, as duas saíram para comer.)"
 

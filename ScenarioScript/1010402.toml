@@ -1,125 +1,47 @@
 [translation]
 1010402-1 = "rotina diária"
-
 1010402-3 = "(De manhã, ele foi para o lugar que Rayjo lhe disse para ir)."
-
 1010402-4 = "(Depois, há o site ......)"
-
 1010402-9 = "[wa:1030]- [log=레이죠]Oh, [wa:1380]você veio. [/log]"
-
 1010402-10 = "[wa:3200]- [log=레이죠]O treino matinal terminará em alguns minutos, [wa:1980]você pode esperar um pouco? [/log]"
-
 1010402-13 = "[wa:1330]- [log=레이죠]Na verdade, isso faz parte de uma [wa:1350]operação contínua. [/log]"
-
 1010402-14 = "[wa:2910]- [log=레이죠]também interrompa o fluxo e [wa:1270]mantenha a postura. [/log]"
-
 1010402-17 = "[wa:40]- [log=레이죠]Pensei que [wa:2580]seria útil treinar meu espírito. ......[/log]"
-
 1010402-20 = "[wa:2050]- [log=레이죠]...... é um [wa:870]professor [wa:830]Por que ...... em tal lugar? [/log]"
-
 1010402-23 = "[wa:370]- [log=레이죠]O quê? [wa:970]Se você está em treinamento--[/log]"
-
 1010402-24 = "[wa:1880]- [log=레이죠]Você não deve se deixar influenciar pelos olhares das pessoas ao seu redor e [wa:1830]manter a cabeça erguida. ......? [/log]"
-
 1010402-27 = "[wa:160]- [log=레이죠]É [wa:1410]então ......[wa:1290] mas ......[/log]"
-
 1010402-30 = "[wa:450]- [log=레이죠]...... Ugh, [wa:700]ou, [wa:520]isso ainda é [wa:1260]impossível. ...... [/log]"
-
 1010402-33 = "(Reijo não fez contato visual comigo por um tempo depois do treino matinal. ......)"
-
 1010402-35 = "...... É embaraçoso para as pessoas verem você em treinamento."
-
 1010402-36 = "Especialmente hoje, mas também de uma maneira diferente!"
-
 1010402-37 = "[s1] \"Re, Reijo é realmente muito trabalhador! \"\n[s2] \"Eu nem sou bom em acordar cedo! \"\"}"
-
 1010402-40 = "É uma espécie de digressão. ......"
-
 1010402-41 = "...... Ki, será que é minha imaginação?"
-
 1010402-42 = "Entendido, se é isso que o médico diz."
-
 1010402-43 = "E fui eu quem o chamou para sair a essa hora, em primeiro lugar."
-
 1010402-44 = "Entretanto, não pratico meu treinamento todos os dias sem falta."
-
 1010402-45 = "Nos fins de semana e nos dias em que o tempo está ruim, eles descansam tranquilamente."
-
 1010402-46 = "[\"Ainda assim, é bom ter algo que você gosta de fazer. \""
-
 1010402-47 = "O que você gosta, ou ......."
-
 1010402-48 = "Oh, não, ...... Eu estava um pouco preocupado."
-
 1010402-49 = "Não tenho certeza do motivo, já que o Sensei #n não parece achar muito estranho o fato de eu praticar artes marciais."
-
-1010402-50 = "...... Se você pensar bem, o professor era de fora da Kivotos."
-
+1010402-50 = "...... Se você pensar bem, o sensei era de fora da Kivotos."
 1010402-54 = "Como você deve imaginar, o kung fu não é comum em #n Kivotos."
-
 1010402-55 = "Na maioria das vezes, uma arma é a resposta."
-
 1010402-56 = "Você pode pensar que meu treinamento é apenas ginástica."
-
 1010402-57 = "[\"Mas Reijo vai continuar seu treinamento, certo? \""
-
 1010402-58 = "...... Sim, é isso mesmo."
-
 1010402-59 = "O motivo de eu ter continuado meu treinamento de kung fu até agora é ......."
-
 1010402-60 = "Isso se deve ao fato de ser também uma disciplina espiritual."
-
 1010402-61 = "Se você conseguir acalmar sua mente ao mesmo tempo em que sobrecarrega seu corpo. ......"
-
 1010402-62 = "É útil não apenas para o trabalho em associações comerciais, mas também para exames escolares."
-
 1010402-63 = "Meus resultados ou ......?"
-
 1010402-67 = "Então, tenho que lhe contar sobre isso agora ......?"
-
 1010402-68 = "De qualquer forma, o kung fu é ótimo!"
-
 1010402-69 = "Entre outras coisas, o ditado!"
-
-1010402-70 = "Por exemplo, há um ditado que diz que "a perseverança é algo que surge da positividade"!"
+1010402-70 = "Por exemplo, há um ditado que diz que \"a perseverança é algo que surge da positividade\"!"
 
 1010402-71 = "Muitas pessoas concordarão com isso. #nEmbora existam alguns gênios que sempre fazem acusações falsas o tempo todo. ......"
-
 1010402-72 = "[s]\"Oh, acalme-se. ....... \""
-
-1010402-73 = "'O fracasso não é nada demais. Desde que você tenha a coragem de admiti-lo" #n, o ditado também não deve ser esquecido!"
-
-1010402-75 = "(Depois disso, Rayjo continuou a falar sobre kung fu com uma expressão feliz no rosto)."
-
-1010402-77 = "Eu também sinto muito, senhor. #nEu sou o único que falou. ......"
-
-1010402-78 = "[s3] \"Agora que você mencionou isso, se gosta tanto de kung fu, pode entrar para o ....... \"\n[s4] \"Você nunca pensou em entrar em um clube como esse? \""
-
-1010402-81 = "Existem clubes de pesquisa de artes marciais e clubes de artes marciais modernas. ......"
-
-1010402-82 = "Seu professor se esqueceu de alguma coisa importante?"
-
-1010402-83 = "O kung fu deve ser feito pelos funcionários do restaurante!"
-
-1010402-84 = "[s5] \"......! \"\n[s6] \"De fato, você está certo! \""
-
-1010402-89 = "[ns] \"O palco é um edifício com um átrio central! \""
-
-1010402-90 = "Sim, dois andares!"
-
-1010402-91 = "[\"Pode haver brigas lá! \""
-
-1010402-92 = "Os professores sabem muito sobre isso! #nA loja está um caos depois que as pessoas caíram do segundo andar. ......"
-
-1010402-93 = "[\"Mas o protagonista continua comendo em silêncio! \""
-
-1010402-94 = "Sim! #No final, o protagonista também se junta a nós e acaba com a luta!"
-
-1010402-95 = "E a pessoa também tem a configuração de um chef lendário. ......"
-
-1010402-97 = "(Reijo continuou falando, com um brilho nos olhos o tempo todo)."
-
-1010402-98 = "(Quando ambos perdemos a noção do tempo e ficamos absortos em uma conversa ......)"
-
-1010402-99 = "(Percebi que) muito tempo havia se passado."
-
+1010402-73 = "'O fracasso não é nada demais. Desde que você tenha a coragem de admiti-lo" #n, o ditado também não deve ser esquecido!"\n1010402-75 = "(Depois disso, Rayjo continuou a falar sobre kung fu com uma expressão feliz no rosto)."\n1010402-77 = "Eu também sinto muito, senhor. #nEu sou o único que falou. ......"\n1010402-78 = "[s3] \"Agora que você mencionou isso, se gosta tanto de kung fu, pode entrar para o ....... \"\n[s4] \"Você nunca pensou em entrar em um clube como esse? \""\n1010402-81 = "Existem clubes de pesquisa de artes marciais e clubes de artes marciais modernas. ......"\n1010402-82 = "Seu sensei se esqueceu de alguma coisa importante?"\n1010402-83 = "O kung fu deve ser feito pelos funcionários do restaurante!"\n1010402-84 = "[s5] \"......! \"\n[s6] \"De fato, você está certo! \""\n1010402-89 = "[ns] \"O palco é um edifício com um átrio central! \""\n1010402-90 = "Sim, dois andares!"\n1010402-91 = "[\"Pode haver brigas lá! \""\n1010402-92 = "Os professores sabem muito sobre isso! #nA loja está um caos depois que as pessoas caíram do segundo andar. ......"\n1010402-93 = "[\"Mas o protagonista continua comendo em silêncio! \""\n1010402-94 = "Sim! #No final, o protagonista também se junta a nós e acaba com a luta!"\n1010402-95 = "E a pessoa também tem a configuração de um chef lendário. ......"\n1010402-97 = "(Reijo continuou falando, com um brilho nos olhos o tempo todo)."\n1010402-98 = "(Quando ambos perdemos a noção do tempo e ficamos absortos em uma conversa ......)"\n1010402-99 = "(Percebi que) muito tempo havia se passado."\n

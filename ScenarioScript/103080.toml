@@ -25,13 +25,13 @@
 
 103080-35 = "Nosso objetivo é “destruir a Arca de Atla Hasith” acima de Kivotos."
 
-103080-36 = "Se você conseguir destruí-lo com sucesso, poderá evitar o aparecimento do "Sanctum of Illusion"."
+103080-36 = "Se você conseguir destruí-lo com sucesso, poderá evitar o aparecimento do \"Sanctum of Illusion\"."
 
 103080-39 = "No entanto, a Arca está protegida por uma barreira de “coexistência de estados” que nega a intervenção física."
 
 103080-40 = "Enquanto esta barreira existiu, era considerado impossível aproximar-se fisicamente da Arca."
 
-103080-42 = "Se a "nave principal Utnapishtim" for colocada em estado semelhante, é teoricamente possível passar pela barreira."
+103080-42 = "Se a \"nave principal Utnapishtim\" for colocada em estado semelhante, é teoricamente possível passar pela barreira."
 
 103080-44 = "A questão é que, se você se tornar igual à outra pessoa, você poderá interferir."
 
@@ -61,7 +61,7 @@
 
 103080-72 = "Claro, você encontrará resistência de seus inimigos dentro da Arca."
 
-103080-73 = "O objetivo final desta operação é [ruby=hacking]ocupar[/ruby] cada área da Arca aos poucos, evitando ataques e, por fim, assumir o controle da Arca."
+103080-73 = "O objetivo final desta operação é assumir gradualmente o controle de cada área da Arca, evitando ataques."
 
 103080-75 = "...Depois de ganhar o controle, você será capaz de autodestruir a Arca ou fazer com que ela caia no chão."
 
@@ -123,13 +123,13 @@
 
 103080-134 = "Uma situação sem precedentes chegou a Kivotos... Enfrentámos um problema incompreensível - e foi assim que chegámos aqui."
 
-103080-136 = "O primeiro sinal foi a ``profecia'' de [ruby=Yurizono]Yurien[/ruby] Seia."
+103080-136 = "A “profecia” de Seia foi o primeiro sinal."
 
 103080-137 = "Foram detectadas seis concentrações ultra-elevadas de energia, mas no início era apenas um fenômeno invisível e misterioso."
 
 103080-139 = "Em seguida, apareceu o “Sanctum of Delusion”, reunindo todos os “mistérios” que ocorreram em Kivotos para atacar."
 
-103080-140 = "IA incontrolável "Dekagramaton", "[ruby=mimesis]duplicação[/ruby]" que reproduz memórias, tecnologia super antiga chamada "Deus Sem Nome"..."
+103080-140 = "IA incontrolável \"Deka Grammaton\", \"\" que pode reproduzir memórias \", tecnologia antiga chamada\" Deus sem nome \"..."
 
 103080-141 = "--E as “cores” que distorcem a existência dos alunos."
 
@@ -139,11 +139,11 @@
 
 103080-145 = "--Nada do que aconteceu até agora foi explicado."
 
-103080-146 = "Profecia, Decagrammaton, [ruby=mimesis]duplicado[/ruby], cor, deus sem nome, Divi:Sion, Sanctum of Delusion, guardião - e Plenapates, o guia da cor..."
+103080-146 = "Profecia, Decagrammaton, Cor, Deus Sem Nome, Divi:Sion, Santuário da Ilusão, Guardião - e Prenapates, o guia da cor..."
 
 103080-147 = "Não importa se a taxa de sucesso é de 3%. #nNão temos escolha a não ser executar nossa estratégia normalmente."
 
-103080-148 = "[s] \"Isso mesmo. Vamos todos trabalhar juntos e tentar.""
+103080-148 = "[s] \"Isso mesmo. Vamos todos trabalhar juntos e tentar.\""
 
 103080-150 = "……Concordo. #nComo não há outro caminho, não há opções desde o início."
 
@@ -163,7 +163,7 @@
 
 103080-160 = "Não, não, não, não é razoável memorizar um manual tão grosso em apenas algumas horas! ?"
 
-103080-161 = "Não é uma questão do que você pode ou não fazer, mas do que você tem que fazer[/ruby]. #nGostaria que alguém que entendesse o manual fosse o operador."
+103080-161 = "Não é uma questão do que você pode fazer, mas do que você não pode fazer. #nGostaria que alguém que entendesse o manual fosse o operador."
 
 103080-162 = "Suspiro... quero dizer, precisamos de pelo menos 10 operadores..."
 
@@ -207,7 +207,7 @@
 
 103080-194 = "Momoka-chan...mesmo que você tenha chegado até aqui, você está agindo separadamente de nós...?"
 
-103080-201 = "Uma vez você me disse: "Eu te seguirei até o fim do universo"..."
+103080-201 = "Uma vez você me disse: \"Eu te seguirei até o fim do universo\"..."
 
 103080-203 = "Uau! Não faça essa cara, Ayumu-senpai! ?"
 
@@ -265,9 +265,9 @@
 
 103080-250 = "Ufa, está tudo resolvido."
 
-103080-251 = "それじゃ、今から発進準備を始めて、#n8時間後には「箱舟」に向かって出発って事で。"
+103080-251 = "Bem, começaremos os preparativos para a partida agora e partiremos para a Arca em 8 horas."
 
-103080-252 = "オペレーター、航空管制担当、ハッキング担当……#n調理担当に治療担当……"
+103080-252 = "Operador, controle de tráfego aéreo, hacker...#n Cozinhador, médico..."
 
 103080-253 = "Sim. Também precisamos de recrutar estudantes que irão realmente lutar na guerra de ocupação. #nSuspiro, há muito o que fazer~"
 

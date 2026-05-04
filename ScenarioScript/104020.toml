@@ -1,259 +1,144 @@
 [translation]
 104020-1 = "Episódio 2; Resistência (1)"
-
 104020-4 = "Ah, Al-sama...o céu de novo..."
-
 104020-5 = "Isso não é um pouco perigoso?"
-
 104020-6 = "...Vou me apressar."
-
 104020-7 = "Al-chan...?"
-
-104020-8 = "Professor e Kayoko estão trabalhando duro agora! !"
-
+104020-8 = "Sensei e Kayoko estão trabalhando duro agora! !"
 104020-9 = "O que fazemos quando paramos? #nSe for esse o caso, não posso enfrentar vocês dois! !"
-
 104020-10 = "Ah, Sr. Al...!"
-
 104020-11 = "...Ei."
-
 104020-12 = "Bem, vamos lá! Temos que fazer o que pudermos agora!"
-
 104020-17 = "Ah, sim! ! Eu te seguirei onde quer que você vá, Al! !"
-
 104020-23 = "...Como esperado, Al-chan é muito legal aqui♪"
-
 104020-31 = "...Eu vi uma luz não natural à distância."
-
 104020-32 = "Uma posição que não pode ser medida com base nos dados..."
-
 104020-33 = "...Vou fazer algumas pesquisas por precaução."
-
 104020-38 = "--Qual é a situação?"
-
 104020-39 = "...Parece que o Sanctum apareceu novamente."
-
 104020-40 = "Hum..."
-
 104020-41 = "Bem, sensei... você está bem?"
-
 104020-42 = "...Entendido, vamos nos apressar. Esteja preparado para o aparecimento de inimigos."
-
 104020-48 = "O atirador espera na próxima posição. Líder do pelotão COELHO, por favor dê o comando. #nNa ausência de Alice, ficarei encarregado do apoio de fogo."
-
 104020-49 = "entendido. Vamos tentar."
-
 104020-50 = "Eu entendi."
-
-104020-53 = "Repita. Os passageiros devem evacuar imediatamente. #n17 segundos depois, a "sequência de autodestruição"..."
+104020-53 = "Repita. Os passageiros devem evacuar imediatamente. #n17 segundos depois, a \"sequência de autodestruição\"..."
 
 104020-54 = "H-Himari-senpai... você realmente pode parar com isso, certo?"
-
 104020-55 = "Por favor, espere um momento...."
-
-104020-61 = "Os passageiros devem evacuar imediatamente. #nApós 9 segundos, a "sequência de autodestruição" -"
+104020-61 = "Os passageiros devem evacuar imediatamente. #nApós 9 segundos, a \"sequência de autodestruição\" -"
 
 104020-62 = "Droga... não posso ir além disso..."
-
 104020-63 = "-Ainda é muito cedo para desistir."
-
 104020-67 = "R-Rio! ?"
+104020-68 = "\"Não mais?\" - Essa é uma frase muito pouco feminina de \"Genius\", Himari."
 
-104020-68 = ""Não mais?" - Essa é uma frase muito pouco feminina de "Genius", Himari."
-
-104020-72 = "Após 9 segundos, a "sequência de autodestruição" será ativada - Após 9 segundos, a "sequência de autodestruição" será ativada - Após 9 segundos, a "sequência de autodestruição" será ativada --"
+104020-72 = "Após 9 segundos, a \"sequência de autodestruição\" será ativada - Após 9 segundos, a \"sequência de autodestruição\" será ativada - Após 9 segundos, a \"sequência de autodestruição\" será ativada --"
 
 104020-73 = "E... parou?"
-
 104020-74 = "Usei a função de supressão de “Interpretação Multidimensional” para parar Utnapishtim à força."
-
 104020-75 = "--Mas é só uma parada."
-
 104020-76 = "……Concordo. Se contido, o navio seria seriamente danificado em qualquer caso."
-
 104020-77 = "-Mas isso lhe dará algum tempo. Obrigado, Rio."
-
 104020-78 = "De nada... Agora, precisamos resolver isso enquanto estamos presos. #nMesmo sendo um sistema complicado, definitivamente há uma maneira de vencê-lo."
-
 104020-79 = "--Mas é impossível para mim conquistá-lo sozinho. #nEntão, por favor, me dê sua ajuda, mesmo que seja relutante."
-
-104020-80 = "...Essa é uma linha [ruby= ・ ・ ・ ・ ・ ・ ・ ・ ]diferente da sua[/ruby], Rio."
-
+104020-80 = "...Essa é uma linha diferente da sua, Rio."
 104020-84 = "Bem, como é uma nave deste tamanho, deve haver um “terminal” em algum lugar que transmita os comandos."
-
 104020-85 = "Nesse caso, acho que esse estado pode ser liberado destruindo o terminal do relé."
-
 104020-86 = "É um método de cortar a comunicação física. Claro, isso resolveria o problema, mas..."
-
-104020-87 = "Sim, é apenas um paliativo temporário. #nProvavelmente também há um "dispositivo" sobressalente..."
+104020-87 = "Sim, é apenas um paliativo temporário. #nProvavelmente também há um \"dispositivo\" sobressalente..."
 
 104020-88 = "No entanto, se conseguirmos restaurar o sistema de Utnapishtim e recuperar o controlo da Arca entretanto..."
+104020-90 = "Você pode ativar a \"sequência de autodestruição\" da \"Arca\"."
 
-104020-90 = "Você pode ativar a "sequência de autodestruição" da "Arca"."
-
-104020-91 = "É isso mesmo... então você poderá usar a "Sequência de Escape" que preparei para garantir."
+104020-91 = "É isso mesmo... então você poderá usar a \"Sequência de Escape\" que preparei para garantir."
 
 104020-93 = "...Você realmente é a pessoa que você é."
-
 104020-94 = "...Se foi desnecessário, peço desculpas."
-
-104020-95 = "não. Eu ainda te odeio, mas você me ajudou dessa vez, Rio. #n Chi-chan! Você sabe a localização do "terminal"?"
+104020-95 = "não. Eu ainda te odeio, mas você me ajudou dessa vez, Rio. #n Chi-chan! Você sabe a localização do \"terminal\"?"
 
 104020-97 = "...Entendido, estou verificando. #nSe conseguirmos descobrir onde estão concentradas as comunicações dentro da Arca..."
-
 104020-98 = "Hacking tem seus limites quando se trata de detectar hardware! #nNão é nossa área de atuação! ?"
-
 104020-99 = "Bem, para realizar uma detecção precisa, precisamos de um projeto da própria arca."
-
 104020-103 = "...Talvez precisemos da ajuda do departamento de engenharia."
-
 104020-106 = "-Se for esse o caso, deixe comigo. #nEstou verificando agora."
-
 104020-107 = "Analisando as plantas da “Arca” e analisando os desenhos estruturais e dados de digitalização espacial 3D da “Arca”..."
-
 104020-108 = "sim. Em ordem do local com maior tráfego! #n――Por favor, espere um pouco!"
-
 104020-111 = "líder……."
-
 104020-112 = "A ansiedade é a mesma. #nMas――"
-
 104020-113 = "Sim... confie em mim e espere."
-
 104020-114 = "……."
-
 104020-118 = "Hum..."
-
 104020-123 = "Kiki Kiki… Não fique tão nervoso."
-
 104020-124 = "Ei, quem está nervoso? ?"
-
 104020-138 = "Suspiro…suspiro…."
-
 104020-139 = "[ns] \"Ainda não acabou.\""
-
 104020-140 = "……Sim. Eu ainda posso ir."
-
 104020-141 = "……."
-
 104020-143 = "……te peguei! O sinal está vindo daqui!"
-
 104020-144 = "Chi-chan, enviei-lhe as informações de localização! #n “Corredor Shar-Kari-Shalli”!"
-
 104020-145 = "Esta é a seção mais baixa da Arca! !"
-
 104020-147 = "Confirmei a localização, obrigado. #n Mude para dados de navegação e transferência."
-
 104020-148 = "Himari, se você destruir isso, poderá quebrar a conexão com a Arca."
-
-104020-150 = "O "Corredor Shar-Kari-Shari" foi confirmado na seção mais baixa da "Arca". #nIsso...você tem que descer uns 1.200m daqui..."
+104020-150 = "O \"Corredor Shar-Kari-Shari\" foi confirmado na seção mais baixa da \"Arca\". #nIsso...você tem que descer uns 1.200m daqui..."
 
 104020-151 = "Além disso, o sistema de segurança lá é difícil de entender...! #nVou explicar como liberá-lo agora――"
-
 104020-152 = "Deixe comigo............"
-
 104020-157 = "…………Eu entendo todo o sistema!"
-
 104020-158 = "Antes que eu percebesse...! ?"
-
-104020-159 = "Deixe-me resolver a situação uma vez... Para destruir o "terminal" localizado no nível mais baixo da "Arca", "Corredor Shar-Kari-Shari", devemos romper o sistema de segurança."
+104020-159 = "Deixe-me resolver a situação uma vez... Para destruir o \"terminal\" localizado no nível mais baixo da \"Arca\", \"Corredor Shar-Kari-Shari\", devemos romper o sistema de segurança."
 
 104020-160 = "Atualmente, Utnapishtim está hackeado... é impossível quebrar o sistema de segurança daqui."
-
-104020-161 = "Se ainda houver uma possibilidade... destruir os dispositivos de liberação nas seções mais oriental e mais ocidental da "Arca" ao mesmo tempo."
+104020-161 = "Se ainda houver uma possibilidade... destruir os dispositivos de liberação nas seções mais oriental e mais ocidental da \"Arca\" ao mesmo tempo."
 
 104020-162 = "Se for bem-sucedido, você poderá parar o sistema de segurança por cerca de 5 segundos. #nSe você destruir o terminal nesse meio tempo, ou..."
-
 104020-163 = "5 segundos...?"
-
 104020-164 = "Ah, já! Se essa for a única opção, divida as equipes imediatamente. #nOs membros responsáveis ​​pelos andares leste, oeste e mais baixo da arca――"
-
 104020-165 = "O problema está no nível mais baixo. #nQuem consegue correr 1.200m em tão pouco tempo?"
-
 104020-167 = "...Hehehe."
-
 104020-174 = "Sr. Finalmente, consegui."
-
 104020-175 = "foto? O que? ...De jeito nenhum, não é isso, é?"
-
 104020-176 = "Sim, está certo. É isso aí...#nFinalmente, é hora do talento de Fuuka florescer."
-
 104020-180 = "Eu sei...#nQuanto Fuuka-san aperfeiçoou seu talento e trabalhou duro..."
-
 104020-181 = "A atitude de nunca descurar o treino e a dedicação diários."
-
 104020-182 = "sim! ! Finalmente chegou a hora de você demonstrar seu talento! #nSe você não chama isso de destino, como pode chamá-lo? !"
-
 104020-183 = "Sim, é hora de dirigir~★"
-
 104020-184 = "um! O chefe da merenda escolar é o melhor nisso! !"
-
 104020-185 = "Fuuka é a pessoa perfeita para esse tipo de situação."
-
 104020-190 = "Haruna...? Isso é intencional, certo? Não é verdade?"
-
 104020-191 = "Hehe, se foi intencional ou não, não é tão importante. #nFuuka-san não está a bordo do navio para esse propósito?"
-
 104020-192 = "...Bem, e a comida espacial?"
-
 104020-194 = "de qualquer forma! #nDeixe a destruição conosco! !"
-
 104020-195 = "Yeah, yeah! Obrigado pelo seu sistema de segurança! !"
-
 104020-197 = "Sim, eu entendo."
-
 104020-198 = "Estaremos encarregados do dispositivo de lançamento oriental!"
-
 104020-199 = "sim! É o caminho mais rápido para sair daqui☆"
-
 104020-200 = "Vamos limpar isso rapidamente. #nEu tenho que ir até o Sensei e Shiroko-chan."
-
 104020-201 = "sim! Bem, eu vou te apoiar. #nVamos!"
-
 104020-204 = "Pois bem, deixe o oeste para Alice e os outros!"
-
 104020-205 = "Ei...Departamento de Desenvolvimento de Jogos! ?"
-
 104020-206 = "Ah, sim...! E-eu acho que somos provavelmente os mais próximos..."
-
 104020-207 = "Se sim... então eu vou te guiar!"
-
 104020-209 = "Ok, vamos!"
-
 104020-213 = "Oh, irmã, espere...!"
-
 104020-218 = "Alice, você está realmente bem?"
-
 104020-219 = "sim! Sem problemas!"
-
 104020-220 = "Além disso, “Sword of Light: Supernova of Atla Hasith” ainda está intacto."
-
 104020-221 = "... Foi assim que ganhou esse nome."
-
 104020-222 = "sim. Se você quiser, gostaria que Himari-senpai desse uma olhada mais tarde. #nTalvez alguma coisa――"
-
 104020-223 = "Concordo. Talvez eu possa ajudá-la de alguma forma...#nPor favor, tenha cuidado, Alice."
-
 104020-224 = "sim! Estou indo, Himari-senpai!"
-
 104020-228 = "Fuuka-san, você está pronto?"
-
 104020-230 = "Huh... por que isso está acontecendo..."
-
 104020-231 = "Estamos prontos também!"
-
 104020-232 = "Não acredito que posso enlouquecer com “Ark”! Estou tão animado★"
-
 104020-233 = "Se todos embarcarem, sairemos mais cedo! Eu não tenho tempo! !"
-
 104020-234 = "Suspiro... você vai descer 1.200m abaixo...? #nBem, se você acha que é a entrega normal――"
+104020-235 = "Agora vamos embora, Fuuka-san! #nQuando terminar tudo, dê um joinha e diga \"Bom!\""
 
-104020-235 = "Agora vamos embora, Fuuka-san! #nQuando terminar tudo, dê um joinha e diga "Bom!""
+104020-236 = "Eu não gosto disso. Eu nunca farei isso."
 
-104020-236 = "イヤ。 Eu nunca farei isso."
-
-104020-238 = "それじゃ……行くわよ！ !"
+104020-238 = "Pois bem... vamos lá! !"
 
 104020-251 = "Uryaaaaaa---! ! !"
-
 104020-253 = "Próxima vez; Resistência (2)"
-

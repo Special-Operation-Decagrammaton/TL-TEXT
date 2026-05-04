@@ -1,147 +1,46 @@
 [translation]
 1006805-1 = "Obrigado, Leisa."
-
 1006805-2 = "(Eu estava a caminho de Trinity para me encontrar com Leisa)."
-
 1006805-4 = "Rua Trinity."
-
 1006805-13 = "Professores~!"
-
 1006805-14 = "(voz familiar) ˉn[ns2] Vire-se."
-
-1006805-21 = "...... Professor!"
-
+1006805-21 = "...... Sensei!"
 1006805-27 = "Ugh ...... não conseguia parar, desculpe!"
+1006805-28 = "[s3] \"Estou bem, fico feliz em ver que você está bem. \"\n[s4] \"Vou aceitar melhor da próxima vez! \"\"\n[s4] \"Eu vou aguentar da próxima vez!\"\"\n1006805-31 = \"Ehehe ......\"\n1006805-32 = \"...... Oh, eu estava prestes a mimá-lo novamente. ...... Oh, não, não, não!\"\n1006805-33 = \"Hoje é o dia de retribuir! #Gostaríamos de agradecer a todos os professores que sempre nos dão os melhores conselhos!\"\n1006805-34 = \"Eu disse a você, não disse? Vou tornar seu dia #n muito especial!\"\n1006805-35 = \"Guardei meu dinheiro para hoje! #n Hmmm, eu cuidarei de todos os pagamentos!\"\n1006805-36 = \"...... O quê?\"\n1006805-37 = \"...... não há necessidade disso, não é mesmo? #nSim, não. ...... mas obrigado por isso. ......\"\n1006805-38 = \"Isso ...... não precisa se preocupar com isso, mesmo que lhe digam ......\"\n1006805-42 = \"E, de qualquer forma, vamos lá! Nós nos certificamos de que temos um plano #n! Não podemos perder tempo!\"\n1006805-47 = \"Hmm, eu lhe mostrarei os lugares! Todos esses são meus lugares favoritos!\"\n1006805-51 = \"[Siga Reisa.\"\n1006805-53 = \"Galeria de compras Trinity\"\n1006805-54 = \"Então! Antes de mais nada, aqui está!\"\n1006805-55 = \"É realmente - é incrível! #nEsta rua comercial tem a melhor variedade de doces em Trinity!\"\n1006805-56 = \"Este é o melhor lugar para encontrar novos doces! Logo após a esquina nº 1 está o famoso Café Millefeuille!\"\n1006805-57 = \"Ah, só fiquei sabendo disso quando um amigo me levou lá, haha. ......\"\n1006805-58 = \"\"Café Millefeuille\", você já esteve lá, sensei?\"\n1006805-59 = \"[s5] \"Eu sei mais ou menos como é o lugar. \"\n[s6] \"Sim, já comi lá algumas vezes. \"\n[s6] \"Sim, já comi lá algumas vezes.\""
 
-1006805-28 = "[s3] \"Estou bem, fico feliz em ver que você está bem. \"\n[s4] \"Vou aceitar melhor da próxima vez! \"\"\n[s4] \"Eu vou aguentar da próxima vez!""
-
-1006805-31 = "Ehehe ......"
-
-1006805-32 = "...... Oh, eu estava prestes a mimá-lo novamente. ...... Oh, não, não, não!"
-
-1006805-33 = "Hoje é o dia de retribuir! #Gostaríamos de agradecer a todos os professores que sempre nos dão os melhores conselhos!"
-
-1006805-34 = "Eu disse a você, não disse? Vou tornar seu dia #n muito especial!"
-
-1006805-35 = "Guardei meu dinheiro para hoje! #n Hmmm, eu cuidarei de todos os pagamentos!"
-
-1006805-36 = "...... O quê?"
-
-1006805-37 = "...... não há necessidade disso, não é mesmo? #nSim, não. ...... mas obrigado por isso. ......"
-
-1006805-38 = "Isso ...... não precisa se preocupar com isso, mesmo que lhe digam ......"
-
-1006805-42 = "E, de qualquer forma, vamos lá! Nós nos certificamos de que temos um plano #n! Não podemos perder tempo!"
-
-1006805-47 = "Hmm, eu lhe mostrarei os lugares! Todos esses são meus lugares favoritos!"
-
-1006805-51 = "[Siga Reisa."
-
-1006805-53 = "Galeria de compras Trinity"
-
-1006805-54 = "Então! Antes de mais nada, aqui está!"
-
-1006805-55 = "É realmente - é incrível! #nEsta rua comercial tem a melhor variedade de doces em Trinity!"
-
-1006805-56 = "Este é o melhor lugar para encontrar novos doces! Logo após a esquina nº 1 está o famoso Café Millefeuille!"
-
-1006805-57 = "Ah, só fiquei sabendo disso quando um amigo me levou lá, haha. ......"
-
-1006805-58 = ""Café Millefeuille", você já esteve lá, professor?"
-
-1006805-59 = "[s5] \"Eu sei mais ou menos como é o lugar. \"\n[s6] \"Sim, já comi lá algumas vezes. \"\n[s6] \"Sim, já comi lá algumas vezes.""
-
-1006805-62 = "Oh, oh ......! Esse é o meu professor!"
-
+1006805-62 = "Oh, oh ......! Esse é o meu sensei!"
 1006805-63 = "Então vamos lá!"
-
 1006805-70 = "jogo de fliperama"
-
 1006805-71 = "Então...! Próxima parada! Este é um centro de jogos!"
-
 1006805-72 = "Esse é um lugar muito divertido para passar o dia inteiro!"
-
 1006805-76 = "Há também um apanhador de Peloro e um fliperama no site ...... hitgirls!"
-
 1006805-77 = "Pode parecer assim, mas sou surpreendentemente talentosa em HitGirls! Ainda sou iniciante, mas estou vencendo!"
-
-1006805-78 = "Vamos lá, professor! Por onde você quer começar?"
-
+1006805-78 = "Vamos lá, sensei! Por onde você quer começar?"
 1006805-79 = "[s7] \"Estou interessado no jogo de gruas do Mestre Peroro! \"\n[s8] \"Se for Hit Girls, não perderei também! "
-
 1006805-82 = "......!"
-
 1006805-83 = "Vamos embora imediatamente!"
-
 1006805-88 = "parque de diversões"
-
 1006805-89 = "Agora o parque de diversões! #n...... um pouco menos lotado, mas isso significa que você pode circular pelas atrações o quanto quiser!"
-
 1006805-90 = "Já fui com amigos a um parque de diversões maior, um pouco mais distante. ......"
-
 1006805-91 = "Na verdade, esta é a primeira vez que venho aqui! Fui apresentado a esse lugar pela Suzumi durante a patrulha #n!"
-
 1006805-92 = "Hmmm~! Por onde começo a andar? #nEstou feliz por não ter que ficar na fila, mas há tantos ...... que estou preocupado!"
-
 1006805-93 = "[s9] \"A vista da roda-gigante era linda! \"\n[s10] \"O carrossel era lindo! "
-
 1006805-96 = "......! #n Estou vendo! Agora vamos para ......!"
-
 1006805-100 = "...... hmm?"
-
 1006805-101 = "Hmmm... mmmm... ......"
-
 1006805-102 = "[s11] \"......Reisa? \"\n[s12] \"What's wrong? \""
-
 1006805-105 = "Ah, sim! Porque não é nada! #n ha ha ......!"
-
 1006805-109 = "Vamos lá! "
-
 1006805-116 = "playground"
-
 1006805-121 = "Oh, foi divertido!"
-
 1006805-122 = "Muito obrigado por liberar a agenda do médico pela manhã. ......"
-
 1006805-123 = "Para ser sincero, achei que não teria mais o que fazer no meio do dia, mas foi muito mais do que eu esperava!"
-
-1006805-124 = "Não consigo acreditar como o tempo voa rápido! Como foi seu professor #n......?"
-
-1006805-125 = "[\"Foi muito divertido. \"\"\n[s14] \"Realmente, já é tão tarde. Passou tão rápido. \"\n[s14] \"É verdade, já faz tanto tempo.""
-
-1006805-128 = "Ehehe ......"
-
-1006805-132 = "Na verdade, ...... que ......"
-
-1006805-133 = "Tive um ótimo dia, mas há algo que está me incomodando ......#n há muito tempo ......"
-
-1006805-134 = "Tanto a cafeteria quanto o fliperama ......#n Eu ia ensinar o professor, mas você já sabe ......"
-
-1006805-135 = "Quando cheguei ao parque de diversões, fui conduzido de um lado para o outro e ......"
-
-1006805-136 = "Não, é fácil quando você pensa sobre isso. Como #n professora interage com muito mais alunos do que apenas eu, é natural que ela conheça lugares diferentes ......"
-
-1006805-137 = "O site ...... realmente ...... durante todo o dia de hoje."
-
-1006805-138 = "Eu estava ficando ansioso para ver se o professor tinha gostado. ......"
-
-1006805-139 = "Acho que desperdicei o tempo precioso de outro professor. ......"
-
-1006805-140 = "...... frequentemente. #"Se eu fizer isso, eles ficarão felizes!" e depois sair do controle. ......"
-
-1006805-141 = "Portanto, ......, desculpe-me se também impus meus sentimentos ao professor de ......."
-
-1006805-145 = "[ns15] \"Você tornou meu dia muito divertido hoje. \"\n[ns16] \"Obrigado por tornar meu dia tão maravilhoso. \"\n[ns16] \"Obrigado.""
+1006805-124 = "Não consigo acreditar como o tempo voa rápido! Como foi seu sensei #n......?"
+1006805-125 = "[\"Foi muito divertido. \"\"\n[s14] \"Realmente, já é tão tarde. Passou tão rápido. \"\n[s14] \"É verdade, já faz tanto tempo.\"\"\n1006805-128 = \"Ehehe ......\"\n1006805-132 = \"Na verdade, ...... que ......\"\n1006805-133 = \"Tive um ótimo dia, mas há algo que está me incomodando ......#n há muito tempo ......\"\n1006805-134 = \"Tanto a cafeteria quanto o fliperama ......#n Eu ia ensinar o sensei, mas você já sabe ......\"\n1006805-135 = \"Quando cheguei ao parque de diversões, fui conduzido de um lado para o outro e ......\"\n1006805-136 = \"Não, é fácil quando você pensa sobre isso. Como #n professora interage com muito mais alunos do que apenas eu, é natural que ela conheça lugares diferentes ......\"\n1006805-137 = \"O site ...... realmente ...... durante todo o dia de hoje.\"\n1006805-138 = \"Eu estava ficando ansioso para ver se o sensei tinha gostado. ......\"\n1006805-139 = \"Acho que desperdicei o tempo precioso de outro sensei. ......\"\n1006805-140 = \"...... frequentemente. #\"Se eu fizer isso, eles ficarão felizes!\" e depois sair do controle. ......\"\n1006805-141 = \"Portanto, ......, desculpe-me se também impus meus sentimentos ao sensei de .......\"\n1006805-145 = \"[ns15] \"Você tornou meu dia muito divertido hoje. \"\n[ns16] \"Obrigado por tornar meu dia tão maravilhoso. \"\n[ns16] \"Obrigado.\""
 
 1006805-148 = "...... eh? #n mas, senhor: ......"
-
 1006805-149 = "[ns17] \"É a primeira vez que estamos aqui juntos. \"\n[ns18] \"Foi um momento importante para mim porque pude saber do que a Leisa gosta. "
-
 1006805-152 = "[Vamos voltar e jogar novamente, Leisa. \""
-
-1006805-156 = "Professor: ......"
-
+1006805-156 = "Sensei: ......"
 1006805-157 = "............"
-
 1006805-158 = "...... Sim!"
-

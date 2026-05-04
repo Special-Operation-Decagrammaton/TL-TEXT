@@ -1,129 +1,58 @@
 [translation]
 1012705-1 = "...Não, certo?"
-
 1012705-2 = "(Fui para o lugar que havia prometido a Miyo.)"
-
 1012705-4 = "rua comercial de loja de antiguidades"
-
-1012705-6 = "[ns] \"Estávamos esperando por você.""
-
-1012705-7 = "O que é aquilo?"
-
-1012705-8 = "O professor de hoje não é um pouco estranho...?"
-
-1012705-9 = "[s] \"Porque Miyo é a rainha dos romances policiais...\""
-
-1012705-10 = "Ou não vou escrever isso...!"
-
-1012705-11 = "Acho que não vou conseguir escrever um pincel sobre isso... mas é!"
-
-1012705-12 = "[s] \"A propósito, o que aconteceu hoje?\""
-
-1012705-13 = "Ah, há algo que preciso comprar nesta área de antiquários."
-
-1012705-14 = "Acho que seria mais fácil encontrar se nós dois estivéssemos procurando..."
-
-1012705-15 = "[s1] \"O diretor do departamento comercial especial...\"\n[s2] \"Ele mesmo irá ao local.""
+1012705-6 = "[ns] \"Estávamos esperando por você.\"\"\n1012705-7 = \"O que é aquilo?\"\n1012705-8 = \"O sensei de hoje não é um pouco estranho...?\"\n1012705-9 = \"[s] \"Porque Miyo é a rainha dos romances policiais...\"\"\n1012705-10 = \"Ou não vou escrever isso...!\"\n1012705-11 = \"Acho que não vou conseguir escrever um pincel sobre isso... mas é!\"\n1012705-12 = \"[s] \"A propósito, o que aconteceu hoje?\"\"\n1012705-13 = \"Ah, há algo que preciso comprar nesta área de antiquários.\"\n1012705-14 = \"Acho que seria mais fácil encontrar se nós dois estivéssemos procurando...\"\n1012705-15 = \"[s1] \"O diretor do departamento comercial especial...\"\n[s2] \"Ele mesmo irá ao local.\""
 
 1012705-18 = "...É só desta vez! #nVou lavar meus pés com isso."
-
 1012705-19 = "[s] \"Como esperado!\""
-
 1012705-20 = "Uuuuu...!"
-
 1012705-21 = "Ou não zombe de mim!"
-
 1012705-22 = "[s3] \"Agora que penso nisso...\"\n[s4] \"Você também recebeu permissão para sair hoje, certo?\""
-
 1012705-25 = "um……."
-
 1012705-26 = "Desta vez..."
-
 1012705-27 = "...Eu não consegui permissão."
-
 1012705-28 = "[s] \"...Hein?\""
-
 1012705-29 = "Bem, na verdade, Wild Hunt tem um clube chamado “Free Outing Club”."
-
 1012705-30 = "Hoje pedi a um membro dessa equipe que me ajudasse."
-
-1012705-31 = "[s] \"ワイルドハント……奥が深い。\""
+1012705-31 = "[s]“Wild Hunt... é profundo.”"
 
 1012705-32 = "Bem...é um lugar onde se reúnem pessoas que querem ganhar a vida através da arte..."
-
 1012705-33 = "Dito isto, há muitos estudantes com hábitos fortes..."
-
 1012705-34 = "[s] \"Mi-Miyo também é estudante lá――\""
-
 1012705-35 = "Bem, vamos lá."
-
 1012705-36 = "[s] \"Ignorado!?\""
-
 1012705-40 = "Por favor, dê uma olhada! Esta máquina de escrever! #n Doce Leitoso modelo 42!"
-
 1012705-41 = "[s] \"É um design fofo.\""
-
 1012705-42 = "Sim. Porém, esse modelo não vendeu bem no mercado e foi descontinuado."
-
 1012705-43 = "[s] \"Por que não vendeu?\""
-
 1012705-44 = "Nós o projetamos com base na ergonomia e introduzimos um layout principal que desenvolvemos internamente."
-
 1012705-45 = "Por ser completamente diferente do arranjo existente, não havia ninguém para pegá-lo."
-
 1012705-46 = "A produção terminou após o embarque inicial de 1 milhão de unidades."
-
 1012705-47 = "[s5] \"Um milhão de unidades...\"\n[s6] \"Quão confiante você estava...?\""
-
 1012705-50 = "Mas graças a isso, consegui um também."
-
 1012705-51 = "Ah, isso é...! #nSr., é uma máquina de escrever Demington e uma caneta-tinteiro!"
-
 1012705-53 = "(Enquanto visitávamos lojas de antiguidades juntos...)"
-
 1012705-54 = "(Miyo parou na frente de uma loja)"
-
 1012705-57 = "Por favor, espere um momento, senhor!"
-
 1012705-62 = "(Miyo sai da loja segurando um pacote de alguma coisa.)"
-
 1012705-64 = "Vamos!"
-
 1012705-65 = "[s] \"Miyo, o que é esse pacote?\""
-
 1012705-66 = "Este valor será entregue ao clube de passeio gratuito."
-
 1012705-67 = "[s] \"Clube de passeio grátis?\""
-
 1012705-68 = "Sim. Com a condição de que eu garantisse isso, me pediram para me ajudar a sair..."
-
 1012705-69 = "……um."
-
 1012705-70 = "[s7] \"Então você não saiu para contrabandear nada...\"\n[s8] \"Você só queria sair.\""
-
 1012705-73 = "Ei, ah, uh..."
-
 1012705-77 = "...Não teria sido possível?"
-
 1012705-78 = "[s9] \"Não.\"\n[s10] \"Há dias em que eu só quero sair.\""
-
-1012705-81 = "Eu queria conhecer o professor... então, tudo bem?"
-
+1012705-81 = "Eu queria conhecer o sensei... então, tudo bem?"
 1012705-85 = "[ns] \"Eh.\""
-
 1012705-87 = "[ns] \"Eu!?\""
-
 1012705-88 = "Bem, você disse que queria me conhecer também, certo?"
-
 1012705-89 = "Não esqueci do Momotalk!"
-
 1012705-90 = "[s] \"Eu-eu mandei dessa forma...!\""
-
-1012705-91 = "E-está tudo bem? #nIsso é culpa do professor!"
-
+1012705-91 = "E-está tudo bem? #nIsso é culpa do sensei!"
 1012705-92 = "Então, por favor, fique quieto e venha comigo hoje!"
-
 1012705-93 = "São tantas máquinas de escrever que ainda quero ver..."
-
 1012705-95 = "(Depois disso, dei uma volta pelo distrito comercial com Miyo.)"
-

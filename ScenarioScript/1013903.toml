@@ -1,15 +1,15 @@
 [translation]
 1013903-1 = "Compras do Nico"
 
-1013903-2 = "（その日の夕方。作戦を手伝うために、約束の場所へ向かった）\r\n"
+1013903-2 = "(Naquela noite. Fui ao local combinado para ajudar na operação)\r\n"
 
 1013903-3 = "(Ouvi dizer que era uma operação especial do SRT, então estava preparado para que fosse um lugar perigoso...)\r\n"
 
-1013903-8 = "(...o local designado era apenas um grande supermercado)"
+1013903-8 = "(...O local designado era apenas um grande supermercado)"
 
 1013903-9 = "[ns1] \"Hum, Nico...\"\n[ns2] \"...Que lugar é esse?\""
 
-1013903-13 = "sim. Este é o local onde serão realizadas as operações especiais de abastecimento do Pelotão FOX - [ruby=Market]Mike Point[/ruby]."
+1013903-13 = "sim. É aqui que o pelotão FOX conduz operações especiais de abastecimento."
 
 1013903-14 = "Parece um dia normal, mas..."
 
@@ -31,15 +31,15 @@
 
 1013903-32 = "Iniciaremos uma promoção por tempo antes de fechar!"
 
-1013903-33 = "うわぁぁああぁぁあ！ \r\n\r\n"
+1013903-33 = "Uau! \r\n\r\n"
 
 1013903-38 = "[ns] \"Uau, que grande alegria...\""
 
 1013903-39 = "Professor, não é hora de ficar surpreso. \r\n"
 
-1013903-40 = "Agora vá para a Seção Delta 3 - "Cantinho dos Vegetais". #nPrimeiro, precisamos garantir as cenouras! \r\n\r\n"
+1013903-40 = "Agora vá para a Seção Delta 3 - \"Cantinho dos Vegetais\". #nPrimeiro, precisamos garantir as cenouras! \r\n\r\n"
 
-1013903-41 = "[s] \"Ah, entendi!""
+1013903-41 = "[s] \"Ah, entendi!\""
 
 1013903-44 = "Os vegetais já estão à venda por 99 ienes!"
 
@@ -67,7 +67,7 @@
 
 1013903-67 = "Professor... por favor acompanhe o carrinho de compras!"
 
-1013903-68 = "[ns] \"Deixe comigo!""
+1013903-68 = "[ns] \"Deixe comigo!\""
 
 1013903-72 = "A batata grande que eu estava olhando desapareceu em um instante...?"
 
@@ -77,13 +77,13 @@
 
 1013903-77 = "Ufa... agora você tem todos os vegetais necessários para cozinhar. \r\n\r\n"
 
-1013903-78 = "A seguir vem a seção Charlie 1 - o "canto da carne"..."
+1013903-78 = "A seguir vem a seção Charlie 1 - o \"canto da carne\"..."
 
 1013903-79 = "[s] \"Devo levar um carrinho de compras na próxima vez?\""
 
 1013903-80 = "Não, a seção de carnes vende carne suína e bovina em incrementos de 10 minutos a partir das 18h10, então se você pegar uma e depois for para a outra prateleira, não conseguirá chegar a tempo. \r\n"
 
-1013903-81 = "Vou capturar o ponto [ruby=Beef]Bravo[/ruby], então professor, por favor responda ao ponto [ruby=Pork]Papapo[/ruby]! Prossigamos simultaneamente."
+1013903-81 = "Vou capturar os pontos, então professor, por favor responda aos pontos! Prossigamos simultaneamente."
 
 1013903-82 = "O objetivo é... 200g de barriga de porco cortada embalada num pacote..."
 
@@ -109,9 +109,9 @@
 
 1013903-112 = "[ns] (Agora...!)"
 
-1013903-117 = "[ns7] \"Huh? Um adesivo de 30% de desconto...?\"\n[ns8] \"Tenho certeza que vi um adesivo pela metade do preço agora mesmo!""
+1013903-117 = "[ns7] \"Huh? Um adesivo de 30% de desconto...?\"\n[ns8] \"Tenho certeza que vi um adesivo pela metade do preço agora mesmo!\""
 
-1013903-122 = "ふふ……若いの、ここは初めてかい？"
+1013903-122 = "Hehe... você é jovem, é sua primeira vez aqui?"
 
 1013903-123 = "O selo de 30% de desconto aqui é muito semelhante ao selo de 50% de desconto. Se você não olhar de perto, é fácil entender mal!"
 
@@ -153,7 +153,7 @@
 
 1013903-151 = "[ns15] \"Isso não é verdade!\"\n[ns16] \"É realmente incrível que você tenha chegado tão longe por todos no pelotão!\""
 
-1013903-155 = "[ns] \"Agora eu entendo porque Nico é chamado de ``Mãe do Pelotão''.""
+1013903-155 = "[ns] \"Agora eu entendo porque Nico é chamado de ``Mãe do Pelotão''.\""
 
 1013903-156 = "Hehe... “Mãe do Pelotão”, né?"
 
@@ -171,7 +171,7 @@
 
 1013903-163 = "Os únicos ingredientes que restam são... cebola e curry em pó."
 
-1013903-164 = "[s] \"O canto dos temperos parece vazio, então vou buscá-lo imediatamente.""
+1013903-164 = "[s] \"O canto dos temperos parece vazio, então vou buscá-lo imediatamente.\""
 
 1013903-165 = "Ah, professora. Por favor, espere um momento."
 

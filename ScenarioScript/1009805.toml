@@ -1,199 +1,102 @@
 [translation]
 1009805-1 = "Heróis, batalha decisiva"
-
 1009805-3 = "Ah, doutor."
-
 1009805-4 = "Obrigado por ter vindo."
-
 1009805-5 = "[Hoshino, tem certeza de que pode lidar com isso sozinha? \"\n[s2] \"Se é um esconderijo, não deveria haver muitas pessoas lá? \"\"\n[s2]]"
-
 1009805-8 = "Ugh - você não está sozinha, está?"
-
 1009805-9 = "Você tem um parceiro confiável bem aqui."
-
 1009805-10 = "[\"Oh, você não é mais tímido. \""
-
 1009805-11 = "Bem, se eles me chamaram de herói por tanto tempo."
-
 1009805-12 = "Você ficaria mais chateado se não fosse tão ruim ......?"
-
 1009805-13 = "...... uhehe. #nApesar de tudo, talvez eu ainda esteja um pouco envergonhado."
-
 1009805-14 = "Bem, vamos dar uma olhada na rua comercial de qualquer maneira."
-
 1009805-15 = "...... têm tempo para gastar tanto tempo, você pergunta?"
-
 1009805-16 = "Para ser sincero, ainda não sei se o local do esconderijo está correto."
-
 1009805-17 = "Então, bem, não adianta ficar impaciente."
-
 1009805-18 = "[s]\"Isso é o que um herói pode pagar ....... \""
-
 1009805-20 = "[ns]\"É importante que os heróis escondam sua verdadeira identidade e se misturem ao ambiente! \""
-
 1009805-21 = "Uheh, é meio que uma interpretação própria. ......"
-
 1009805-22 = "Bem, não me importo de qualquer forma."
-
 1009805-26 = "Bem, vamos lá~."
-
 1009805-34 = "Seja bem-vindo!"
-
 1009805-35 = "Hehehe - tantas coisas bonitas."
-
-1009805-39 = "Olhe e veja, senhor. Há uma bolsa de #n[ruby=whale]baleia[/ruby]!"
-
+1009805-39 = "Olhe e veja, senhor. Há uma bolsa de #nbaleia!"
 1009805-40 = "Ficaria bom em um colete? ......."
-
 1009805-41 = "[\"Eu comprarei para você. \""
-
 1009805-45 = "Ugh? #n Oh, não, não foi isso que eu quis dizer. ......"
-
 1009805-46 = "Os heróis precisam de mascotes, diz ......?"
-
 1009805-47 = "...... É assim que as coisas são."
-
 1009805-52 = "Bem, então aceitarei com gratidão, não é mesmo?"
-
 1009805-56 = "Sim, ainda é bonito. Obrigado pelo #n, Sensei~."
-
 1009805-60 = "Uau - esse cheiro é delicioso!"
-
 1009805-61 = "Não há muitas pessoas comendo por aqui?"
-
 1009805-62 = "Não há muitas lojas, mas todas são gostosas, então acho que é por isso que as pessoas estão aqui."
-
-1009805-63 = "Podemos usar o termo "poucos de elite" nessas situações?"
+1009805-63 = "Podemos usar o termo \"poucos de elite\" nessas situações?"
 
 1009805-64 = "[s]\"Provavelmente bom ......? \""
-
 1009805-65 = "Olá, senhor. Está quase na hora do almoço. ......"
-
 1009805-66 = "Por que não vamos comer alguma coisa também?"
-
 1009805-70 = "Comece com o takoyaki ali!"
-
 1009805-73 = "Uhe~, afinal, as ruas comerciais são boas. Podemos fazer compras e comer juntos."
-
-1009805-74 = "Você está gostando do seu professor?"
-
+1009805-74 = "Você está gostando do seu sensei?"
 1009805-75 = "[\"É claro. \""
-
 1009805-77 = "[ns] \"Hoje é a parte cotidiana da vida de um herói. \""
-
 1009805-78 = "Parte diária ou ......."
-
-1009805-79 = "...... uhehe. Passar tempo com um professor é divertido..."
-
-1009805-86 = "...... Professor, dê uma olhada nisso."
-
+1009805-79 = "...... uhehe. Passar tempo com um sensei é divertido..."
+1009805-86 = "...... Sensei, dê uma olhada nisso."
 1009805-92 = "Sanduíches e ......."
-
 1009805-93 = "Ah, e bebidas, por favor."
-
 1009805-98 = "...... Grupos com capacete."
-
 1009805-99 = "Vamos monitorá-lo um pouco."
-
 1009805-101 = "Sua mudança será boa."
-
 1009805-102 = "...... eh? #n Oh, muito obrigado!"
-
 1009805-107 = "Não acredito que você esteja disposto a dar o troco. ......"
-
 1009805-108 = "Ainda não é suspeito? #Parece diferente do normal."
-
 1009805-109 = "[\"Devo segui-lo? \""
-
 1009805-110 = "...... Sim."
-
 1009805-111 = "Mantenha distância para evitar ser detectado."
-
 1009805-126 = "Você é tão lento! Eu lhe disse para #n se apressar. ......"
-
 1009805-127 = "Por favor!"
-
 1009805-128 = "É o suficiente. #nOla, vamos comer rápido e terminar o resto do trabalho."
-
 1009805-129 = "Precisamos ganhar muito dinheiro enquanto podemos."
-
 1009805-132 = "Sim, senhor!"
-
 1009805-137 = "...... Prédio antigo da escola?"
-
 1009805-138 = "Você deveria ter sido enterrado na areia. ......"
-
 1009805-139 = "[\"Foi a tempestade de poeira do outro dia? \""
-
 1009805-140 = "...... pode ser assim."
-
 1009805-141 = "Por acaso, um grupo de capacetes encontrou esse lugar, onde estavam coletando e vendendo #n itens que geravam dinheiro. ......"
-
 1009805-142 = "Isso explica por que os equipamentos são mais novos e por que eles não foram vistos em outros bairros."
-
 1009805-143 = "Como as pessoas que tentaram roubar o fórum ......."
-
 1009805-147 = "Isso não pode ser ignorado, doutor."
-
 1009805-148 = "[\"É a parte dos heróis em ação! \""
-
 1009805-156 = "O quê?"
-
 1009805-157 = "Que barulho é esse?"
-
 1009805-158 = "Intrusos!"
-
 1009805-159 = "Ah. Você não tem medo de nos desafiar, não é?"
-
 1009805-160 = "Rapazes, vocês têm que ficar de olho..."
-
 1009805-182 = "Uhe~."
-
 1009805-184 = "Ta, o capitão foi morto. ......"
-
 1009805-185 = "Fuja, fuja!"
-
 1009805-189 = "Oh, ei! Não fuja primeiro!"
-
 1009805-196 = "...... de fato, para perseguir esse número de pessoas."
-
 1009805-197 = "Mas agora esses caras vão se afastar."
-
 1009805-198 = "[s]\"Como esperado, o herói de Abydos! \""
-
 1009805-199 = "Uhe~, isso é constrangedor."
-
 1009805-200 = "Bem, acho que o caso está resolvido por enquanto. Bom trabalho, Dr. #n!"
-
-1009805-201 = "...... Yeah? #nO que você quer dizer com "isso vai ficar quieto por um tempo"?"
+1009805-201 = "...... Yeah? #nO que você quer dizer com \"isso vai ficar quieto por um tempo\"?"
 
 1009805-202 = "Eu duvido."
-
 1009805-203 = "Enquanto Abydos continuar a ser o que é, acho que em breve haverá outro problema."
-
 1009805-204 = "[\"Então o heroísmo continua! \""
-
 1009805-205 = "......."
-
 1009805-206 = "Uheh, eu não esperava por isso."
-
 1009805-207 = "Bem, é verdade, talvez tenhamos que continuar."
-
 1009805-208 = "Mas o fato de os atos heroicos do Uncle continuarem significa que ......"
-
 1009805-209 = "Em outras palavras..."
-
 1009805-210 = "[Quero dizer? \""
-
 1009805-211 = "O médico precisa continuar sendo o parceiro do meu tio."
-
 1009805-212 = "Uhehe~. #nAgora que chegamos a esse ponto, vou deixar você ir comigo."
-
 1009805-217 = "[ns] \"Claro! \""
-
 1009805-218 = "Uhehe, você é confiável, não é?"
-
 1009805-219 = "Então, vamos dar uma olhada nas outras ruas comerciais."
-
 1009805-224 = "E, a propósito, eu adoraria comer o Tio Algodão Doce!"
-

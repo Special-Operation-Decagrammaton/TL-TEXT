@@ -1,197 +1,99 @@
 [translation]
 1014002-1 = "raposa cautelosa"
-
 1014002-2 = "Placa de Petri/escritório"
-
 1014002-3 = "(Kurumi visitou a placa de Petri porque estava de plantão)"
-
 1014002-4 = "[ns1] \"Bem-vinda, Kurumi!\"\n[ns2] \"Eu estive esperando!\""
-
-1014002-7 = "Bom dia, professor."
-
+1014002-7 = "Bom dia, sensei."
 1014002-8 = "Então... o que devo fazer hoje?"
-
 1014002-9 = "[s] \"Novo jogo de tiro!\""
-
 1014002-10 = "... Huh?"
-
 1014002-11 = "O que você está falando? Mesmo que eu estivesse fazendo horas extras ontem e estivesse chorando alto."
-
 1014002-12 = "Faça seu trabalho corretamente!"
-
 1014002-13 = "Também ajudarei com o relatório."
-
-1014002-14 = "[s] \"Isso é terrível!""
-
-1014002-15 = "O pior é a motivação do professor!"
-
+1014002-14 = "[s] \"Isso é terrível!\""
+1014002-15 = "O pior é a motivação do sensei!"
 1014002-17 = "(Eu estava me divertindo trabalhando com Kurumi na placa de Petri...)"
-
-1014002-23 = "Por favor, me desculpe. [USERNAME]Seu professor está aqui?"
-
+1014002-23 = "Por favor, me desculpe. [USERNAME]Seu sensei está aqui?"
 1014002-24 = "[s] \"Qual deles é você...?\""
-
 1014002-25 = "Ah, essa é a pessoa que conheci outro dia na loja de conveniência em frente à estação."
-
-1014002-26 = "Um garoto do meu emprego de meio período de repente enlouqueceu, assumiu o controle da loja de conveniência e comeu todo o pão... Fiquei me perguntando o que fazer, mas meu professor me ajudou."
-
+1014002-26 = "Um garoto do meu emprego de meio período de repente enlouqueceu, assumiu o controle da loja de conveniência e comeu todo o pão... Fiquei me perguntando o que fazer, mas meu sensei me ajudou."
 1014002-27 = "Gostaria de agradecer por esse tempo..."
-
 1014002-28 = "[s] \"Eu? Desculpe, não me lembro...\""
-
 1014002-29 = "Sim. A professora convenceu pessoalmente a criança a ajudar a organizar a loja."
-
-1014002-30 = "Costumo resolver muitos casos, então posso entender porque você não se lembra deles..."
-
-1014002-34 = "……."
-
-1014002-36 = "É chato, mas é um presente de agradecimento. Por favor, aceite."
-
-1014002-37 = "[s3] \"Obrigado. Eu atendo.\"\n[s4] \"Não. Seus sentimentos são suficientes.""
-
+1014002-30 = "\"Costumo resolver muitos casos, então posso entender porque você não se lembra deles...\""
+1014002-34 = "\"…….\""
+1014002-36 = "\"É chato, mas é um presente de agradecimento. Por favor, aceite.\""
+1014002-37 = "[s3] \"Obrigado. Eu atendo.\"\n[s4] \"Não. Seus sentimentos são suficientes.\""
 1014002-39 = "Sim, permita-me agradecer."
-
 1014002-40 = "[s5] \"Mas...\""
-
 1014002-41 = "Por favor me perdoe...!"
-
 1014002-42 = "[s6] \"Muito obrigado.\""
-
 1014002-43 = "Hehe, estou feliz por ter conseguido retribuir de alguma forma."
-
 1014002-44 = "Da próxima vez, trarei outro presente."
-
 1014002-45 = "Pois bem!"
-
 1014002-49 = "…………."
-
 1014002-50 = "Alguém sabe?"
-
-1014002-51 = "[s7] \"Bem, o que você acha?\"\n[s8] \"Não me lembro, mas posso ter ajudado você antes.""
-
-1014002-54 = "Huh? Você colocou alguém que não conhecia bem em uma placa de Petri?"
-
-1014002-55 = "O que você faria se fosse uma pessoa má?"
-
+1014002-51 = "[s7] \"Bem, o que você acha?\"\n[s8] \"Não me lembro, mas posso ter ajudado você antes.\""
+1014002-54 = "Huh? Você colocou alguém que não conhecia bem em uma placa de Petri?\""
+1014002-55 = "O que você faria se fosse uma pessoa má?\""
 1014002-56 = "[s] \"Masaka~\""
-
 1014002-60 = "[ns] \"E tem uma noz ao seu lado.\""
-
-1014002-61 = "Claro, posso controlá-los sem lhes dar uma chance, mas..."
-
-1014002-62 = "Não, não está muito solto?"
-
-1014002-63 = "O que você teria feito sem mim...?"
-
+1014002-61 = "Claro, posso controlá-los sem lhes dar uma chance, mas...\""
+1014002-62 = "Não, não está muito solto?\""
+1014002-63 = "O que você teria feito sem mim...?\""
 1014002-64 = "[s9] \"Olha, Kurumi. Eu não percebi isso antes, mas-\"\n[s10] \"A embalagem também é de alta qualidade e parece realmente deliciosa.\""
-
-1014002-67 = "Certamente parece um doce caro."
-
-1014002-68 = "Mas se for feito à mão em vez de um produto disponível comercialmente..."
-
-1014002-69 = "[s] \"Eu atendo.""
-
+1014002-67 = "Certamente parece um doce caro.\""
+1014002-68 = "Mas se for feito à mão em vez de um produto disponível comercialmente...\""
+1014002-69 = "[s] \"Eu atendo.\""
 1014002-70 = "espere!"
-
-1014002-71 = "professor! É normal colocar na boca algo que alguém que você não conhece lhe dá?"
-
+1014002-71 = "sensei! É normal colocar na boca algo que alguém que você não conhece lhe dá?"
 1014002-72 = "[s] \"...O que, não funcionou?\""
-
 1014002-73 = "Claro! Você é um Kivotos VIP, certo?"
-
 1014002-74 = "O que você faria se a outra parte tivesse intenções maliciosas?"
-
 1014002-75 = "No submundo, as pessoas podem usar soro da verdade ou veneno para negociar."
-
-1014002-76 = "[NOME DE USUÁRIO] Não há garantia de que isso não acontecerá com você."
-
+1014002-76 = "[USERNAME] Não há garantia de que isso não acontecerá com você."
 1014002-77 = "Tenha uma maior sensação de crise e tenha cuidado com o que está ao seu redor."
-
 1014002-78 = "Você deve perceber o quão importante você é."
-
 1014002-79 = "[s11] \"Isso é uma coisa...\"\n[s12] \"Mas então, será difícil ganhar a confiança dos alunos.\""
-
-1014002-82 = "Não. Recebi ordens do Presidente do Conselho Estudantil da Federação para proteger a segurança do meu professor."
-
+1014002-82 = "Não. Recebi ordens do Presidente do Conselho Estudantil da Federação para proteger a segurança do meu sensei."
 1014002-83 = "Não há exceções. A maioria dos acidentes ocorre por causa de exceções."
-
 1014002-88 = "[ns] \"...Então, Kurumi, você pode me ajudar?\""
-
 1014002-89 = "Meu? como?"
-
-1014002-90 = "[s13] \"Noz deveria experimentar este doce primeiro."\n[s14] \"Se Noz estiver bom, isso não significa que é seguro para mim comer?""
-
+1014002-90 = "[s13] \"Noz deveria experimentar este doce primeiro.\"\n[s14] \"Se Noz estiver bom, isso não significa que é seguro para mim comer?\""
 1014002-93 = "É uma má ideia... bem, tudo bem."
-
 1014002-94 = "Mas nesse caso, até mesmo outros membros――"
-
 1014002-95 = "[s15] \"Por favor, Kurumi!\"\n[s16] \"Minha segurança só pode ser confiada a Kurumi!\""
-
 1014002-98 = "Uh, hein. Eu não posso evitar. Se você diz isso, eu farei isso."
-
 1014002-99 = "Devo comer isso primeiro?"
-
 1014002-103 = "[ns] \"...O que você acha?\""
-
 1014002-104 = "……delicioso."
-
 1014002-105 = "Derrete na boca, provavelmente porque usam muita manteiga de alta qualidade."
-
 1014002-106 = "Ah, não é venenoso. Não há problema em comer este biscoito."
-
 1014002-107 = "[s] \"Bom...sem problemas.\""
-
 1014002-111 = "[ns17] \"Existem muitos outros presentes, mas-\"\n[ns18] \"Se não se importa, poderia conferir os outros?\""
-
 1014002-114 = "Eu-há tantos...?"
-
-1014002-115 = "Claro que não me importo! Eu sou o guarda-costas do seu professor!"
-
+1014002-115 = "Claro que não me importo! Eu sou o guarda-costas do seu sensei!"
 1014002-117 = "(Depois, Kurumi e eu fomos conferir os vários presentes na placa de Petri.)"
-
 1014002-119 = "Estas folhas de chá são...?"
-
 1014002-120 = "Bem, envenenar o chá é um método clássico."
-
 1014002-121 = "vamos ver……."
-
 1014002-125 = "Sim, não há problema. É seguro beber."
-
 1014002-128 = "Este é um bolo “Miracle 5000” raro até no Trinity! ? Como você conseguiu isso?"
-
 1014002-129 = "Ah, vou tentar."
-
 1014002-134 = "Uau... é tão delicioso. Esta é a minha primeira vez."
-
 1014002-138 = "Ei, isso também não é problema!"
-
 1014002-140 = "Huh? Você gostaria que eu cheirasse seu perfume para ver se é venenoso?"
-
 1014002-141 = "Bem, há uma possibilidade... eu entendo."
-
 1014002-145 = "Cheira bem...o cheiro de madeira relaxa meus nervos..."
-
-1014002-146 = "Não há problema aqui também. \nMas, professor, isso é realmente uma má ideia――"
-
-1014002-147 = "[s] \"É desta vez!""
-
+1014002-146 = "Não há problema aqui também. \nMas, sensei, isso é realmente uma má ideia――"
+1014002-147 = "[s] \"É desta vez!\""
 1014002-152 = "Placa de Petri/sala de observação noturna"
-
 1014002-155 = "Ei, este é o seu quarto, certo?"
-
 1014002-156 = "O que você está planejando fazer? ?"
-
 1014002-157 = "[s19] \"Por favor, compre um travesseiro novo da próxima vez.\"\n[s20] \"Você pode deitar e dar uma olhada?\""
-
 1014002-163 = "...Eu fui enganado."
-
 1014002-164 = "Provei tudo e nem percebi..."
-
 1014002-165 = "Você está usando o teste de veneno como desculpa para faltar ao trabalho!"
-
 1014002-166 = "[s] \"Opa, você descobriu.\""
-
 1014002-167 = "Volte ao trabalho rapidamente!"
-
 1014002-169 = "(Depois disso, ele terminou o trabalho da placa de Petri com Kurumi, que ficou um pouco irritado.)"
-

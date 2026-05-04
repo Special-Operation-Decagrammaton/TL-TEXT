@@ -19,36 +19,29 @@
 
 1014005-25 = "― [log=쿠루미]Eh, [wa:630]Ei! [/registro]"
 
-1014005-29 = "[wa:2510]― [log=쿠루미]O quê! [wa:460]Ei, [wa:480]Ei, sensei, [wa:1120]Há ​​quanto tempo você está aqui? [/registro]"
-
+1014005-29 = "[wa:2510]― [log=쿠루미]なっ！[wa:460]な、[wa:480]なによ先生、[wa:1120]いつからいたの？[/log] "
 1014005-32 = "[ns] \"Você está nervoso...?\""
 
-1014005-33 = "[wa:830]― [log=쿠루미]B, [wa:460][wa:750]Não estou nervoso! [/registro]"
-
+1014005-33 = "[wa:830]― [log=쿠루미]べ、[wa:460]別に[wa:750]緊張なんてしてないわ！[/log] "
 1014005-35 = "― [log=쿠루미]Mas...[wa:1130]O momento foi um pouco difícil... [/log]"
 
-1014005-38 = "[wa:210]― [log=안내 음성]<Vamos tirar fotos―[wa:1980]3, [wa:1370]2, [wa:1090]1. >[/log]"
-
+1014005-38 = "[wa:210]― [log=안내 음성]<撮影を行います――[wa:1980]3、[wa:1370]2、[wa:1090]1。>[/log]"
 1014005-40 = "- [log=쿠루미], [wa:840]! [/registro]"
 
-1014005-43 = "[wa:860]― [log=쿠루미]Ugh...[wa:1020]Fechei os olhos de novo... [/log]"
-
+1014005-43 = "[wa:860]― [log=쿠루미]うっ……[wa:1020]また目瞑っちゃった……。[/log] "
 1014005-45 = "― [log=쿠루미]Quando tenho que contar números, [wa:1650] fico nervoso... [/log]"
 
-1014005-48 = "[wa:1550]― [log=쿠루미]Ah, [wa:280]Não! [wa:660] Não é que eu esteja nervoso! [/registro]"
-
+1014005-48 = "[wa:1550]― [log=쿠루미]あ、[wa:280]いや！[wa:660]緊張してるわけじゃないのよ！[/log]"
 1014005-50 = "― [log=쿠루미]Apenas [wa:620] apenas feche os olhos――[/log]"
 
-1014005-53 = "[wa:570]― [log=안내 음성]<Vamos tirar uma foto――>[/log]"
-
+1014005-53 = "[wa:570]― [log=안내 음성]<撮影を行います――>[/log] "
 1014005-55 = "― [log=쿠루미]Aqui está! [/registro]"
 
 1014005-58 = "― [log=안내 음성]<3, [wa:1220]2, [wa:1040]1. >[/log]"
 
 1014005-60 = "- [log=쿠루미], [wa:610]! [/registro]"
 
-1014005-63 = "[wa:550]― [log=쿠루미]Já! [wa:920]Fechei de novo...[/log]"
-
+1014005-63 = "[wa:550]― [log=쿠루미]もう！[wa:920]また閉じちゃった……[/log]"
 1014005-65 = "― [log=쿠루미]Por quê? [/registro]"
 
 1014005-68 = "Ugh, falhei de novo..."
@@ -69,7 +62,7 @@
 
 1014005-76 = "Eca. Tudo bem, desde que não haja flash..."
 
-1014005-77 = "でも、こういう証明写真ボックスだと絶対フラッシュがついてるでしょう？"
+1014005-77 = "Mas caixas de fotos de identificação como essa definitivamente vêm com flash, certo?"
 
 1014005-78 = "É por isso que me sinto tão nervoso..."
 
@@ -89,7 +82,7 @@
 
 1014005-95 = "O que você está fazendo de repente? Não acredito que tirei uma foto com meu smartphone!"
 
-1014005-96 = "[s] \"急にごめんね。\""
+1014005-96 = "[s] \"Desculpe pela mudança repentina.\""
 
 1014005-100 = "[ns] \"Mas as fotos ficaram lindas.\""
 
@@ -97,7 +90,7 @@
 
 1014005-105 = "...Huh? É verdade. Parece lindo."
 
-1014005-106 = "[s1] \"O momento em que a tensão é aliviada varia de pessoa para pessoa.\"\n[s2] \"A expressão natural de Kurumi é a mais bonita.""
+1014005-106 = "[s1] \"O momento em que a tensão é aliviada varia de pessoa para pessoa.\"\n[s2] \"A expressão natural de Kurumi é a mais bonita.\""
 
 1014005-108 = "É tão lindo...!"
 

@@ -1,119 +1,61 @@
 [translation]
 1006402-1 = "Conceitos errôneos crescentes"
-
 1006402-2 = "Ruas comerciais e lojas de cortinas próximas à D.U."
-
 1006402-6 = "Esse ......."
-
 1006402-7 = "...... Ah, desculpe."
-
 1006402-8 = "Desculpe interrompê-lo durante o intervalo, mas eu queria ...... comprar um quimono novo."
-
 1006402-9 = "Uau, eu entendo. Nós o orientaremos imediatamente!"
-
 1006402-10 = "Acesse aqui: ......."
-
 1006402-12 = "(Já se passaram quase dez anos desde que abri minha loja de quimonos)."
-
 1006402-13 = "(Com a experiência de lidar com um grande número de clientes, agora você pode saber intuitivamente a posição da pessoa com quem está lidando só de olhar para o rosto dela. ......)"
-
 1006402-14 = "(Pensei que elas estavam correndo para comprar um vestido ensolarado para a cerimônia de maioridade por causa da época do ano. ......)"
-
 1006402-15 = "(O olhar em seus olhos enquanto ele verifica cuidadosamente até mesmo o material do forro, o espírito assassino que emana de todo o seu corpo ...... Esse cliente deve ser uma pessoa bem conhecida no submundo!)"
-
 1006402-16 = "(Se por acaso você cometer um erro e irritar um cliente, terá um grande prejuízo. ......!)"
-
 1006402-18 = "Temos uma ampla variedade de produtos para atender pessoas com classe e elegância como você!"
-
 1006402-19 = "Com certeza vou lhe oferecer a melhor opção de que você vai gostar. #nDeixe isso comigo!"
-
 1006402-20 = "Não, não precisa ser um quimono tão grande. ......"
-
 1006402-25 = "Primeiro, que tal este quimono?"
-
 1006402-26 = "Esse quimono encantador é tecido com a mais fina seda. #Se você o usar, atrairá a atenção de todos na rua!"
-
 1006402-30 = "Isso parece um pouco exagerado ...... exposto."
-
 1006402-31 = "O que eu fiz foi um desrespeito ultrajante ao nobre Lord. ......"
-
 1006402-32 = "Aguarde um momento!"
-
 1006402-37 = "Então, que tal este quimono?"
-
 1006402-38 = "Um lindo bordado de tigres e dragões em fio de ouro certamente aumentará sua dignidade!"
-
 1006402-42 = "...... Muito chamativo dessa vez?"
-
 1006402-43 = "Ah, entendo. ...... Certamente o cliente tem aura suficiente sem um traje tão sofisticado. ......"
-
 1006402-44 = "Desculpas! Por favor, envie o próximo item imediatamente para ......."
-
 1006402-49 = "Essa é a melhor armadura que oferecemos. ......"
-
 1006402-53 = "Não é mais um quimono, mas ......."
-
 1006402-55 = "Olá, olá. ......!"
-
 1006402-56 = "Sinto muito pelo incômodo!"
-
 1006402-57 = "Por favor, permita que eu viva. ......"
-
 1006402-58 = "Não é minha intenção fazer isso, mas ......."
-
 1006402-59 = "[s] \"...... Kayoko? \""
-
 1006402-60 = "Oh, doutor. ......?"
-
 1006402-61 = "[s1] \"Quando passei por aqui, ouvi a voz de Kayoko. \"\n[s2] \"O que aconteceu? "
-
 1006402-62 = "Isso pode ser encontrado em ......."
-
 1006402-63 = "Isso pode ser encontrado em ......."
-
 1006402-65 = "(O funcionário então explicou a situação e esclareceu o mal-entendido)"
-
 1006402-67 = "Ah, eu não sabia disso. ...... #n Desculpe, tomei a liberdade de pensar que você era membro do grupo Black Turtle ou algum outro figurão. ......"
-
 1006402-68 = "Desculpe-me por ter me adiantado ......."
-
 1006402-69 = "Não se preocupe com isso. Estou acostumado com pessoas que pensam que sou suspeito."
-
 1006402-70 = "Se você me entende, pode me mostrar outro quimono? #n...... agora com um normal."
-
 1006402-71 = "Em caso afirmativo, o que você acha do site ......?"
-
 1006402-72 = "O design tem um fundo preto elegante e ficará ótimo com a cor de seu cabelo. Ele é para estudantes que participam da cerimônia #n para adultos, portanto, é acessível!"
-
 1006402-73 = "Hmm, eu gosto do design, mas ......."
-
 1006402-74 = "Gostaria de saber se um quimono preto me faria parecer mais escura. #Muitas vezes me dizem que tenho um rosto assustador de graça. ......"
-
-1006402-75 = "O que seu professor acha?"
-
-1006402-76 = "[s3] \"Acho que fica bem em você. \"\n[s4] \"Ele duplica a fofura da Kayoko! \"\"\n[s4]"Acho que fica bem em você.""
+1006402-75 = "O que seu sensei acha?"
+1006402-76 = "[s3] \"Acho que fica bem em você. \"\n[s4] \"Ele duplica a fofura da Kayoko! \"\"\n[s4]\"Acho que fica bem em você.\""
 
 1006402-78 = "Que fofura! ......."
-
 1006402-79 = "...... Não me provoque, doutor."
-
 1006402-83 = "Então farei isso."
-
 1006402-84 = "Você já tomou sua decisão? #nOutros produtos que ainda não apresentamos estão disponíveis em ......."
-
 1006402-85 = "Está tudo bem. Tem um clima parecido com o que eu usava antes, e não me importo de usar preto."
-
 1006402-86 = "...... E o médico disse que achava que ficaria bem em mim. ......"
-
 1006402-87 = "Sim, senhor, vamos buscá-lo para você!"
-
 1006402-93 = "Graças a ....... Sinto que o Dr. #n está sempre me ajudando."
-
 1006402-94 = "Não sei como agradecer, mas, da próxima vez, mostrarei onde estou usando isso."
-
 1006402-95 = "Não sei se posso ir para ...... agora. Há muita preparação a ser feita."
-
 1006402-96 = "[s]\"Ok. Vou aguardar ansiosamente! \""
-
-1006402-97 = "Vejo você mais tarde, então. Professor."
-
+1006402-97 = "Vejo você mais tarde, então. Sensei."

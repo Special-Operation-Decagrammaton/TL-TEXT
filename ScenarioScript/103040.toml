@@ -1,85 +1,50 @@
 [translation]
-103040-1 = "Episódio 4; O que há em Abidos (1)"
-
+103040-1 = "Episódio 4; O que há em Abydos (1)"
 103040-2 = "O nome da fortaleza que fica longe nos céus é “Arca de Atla Hasith”."
-
 103040-6 = "[ns1] \"A Arca de Atlas Hasith?\"\n[ns2] \"...Esse nome parece familiar.\""
-
 103040-9 = "Sim. Eu me pergunto se uma arca com o mesmo nome apareceu no milênio anterior. #nAcho que você já sabe, mas--"
-
 103040-10 = "Sua verdadeira identidade é: ele está enterrado nesta terra e é o legado do #n antigo povo de Kivotos, o “Deus Sem Nome”."
-
 103040-11 = "Bem... espero que você possa pensar nisso como algo criado por uma civilização antiga."
-
 103040-12 = "O AL-1S que você descobriu e o Profeta antes de ser hackeado pelo Decagrammaton estavam entre esses seres."
-
 103040-13 = "Para nós, eles não são mais uma ameaça, pois foram eliminados, mas..."
-
 103040-14 = "Nunca pensei que as “cores” que chegavam de fora do Kivotos conseguiriam garantir isso..."
+103040-15 = "Parece que o ``Colorful 嚮对'' leva qualquer ``mistério'' que aparece em Kivotos como seu."
 
-103040-15 = "Parece que o ``Colorful [ruby=Kyodosha]嚮对[/ruby]'' leva qualquer ``mistério'' que aparece em Kivotos como seu."
-
-103040-16 = "A ``Arca de Atla Hasith'' provavelmente foi protegida pelo mesmo motivo. Como o ``Decagrammaton'', ``[ruby=mimesis]replicação[/ruby]'' e os ``anjos artificiais'' que apareceram através do Sanctum."
-
+103040-16 = "A ``Arca de Atla Hasith'' provavelmente foi protegida pelo mesmo motivo. Como o ``Decagrammaton'', ``replicação'' e os ``anjos artificiais'' que apareceram através do Sanctum."
 103040-21 = "Se a Arca é o legado de um “deus sem nome”, então atualmente não existe tecnologia em Kivotos que possa lidar com ela."
-
-103040-25 = "--Exceto pela [ruby=・ ・ ・ ・ ・ ・]relíquia de uma civilização antiga[/ruby], que é comparável à Arca."
-
-103040-26 = "[ns3] \"Isso significa\"\n[ns4] \"Está em Abidos...\""
-
+103040-25 = "--Exceto pela relíquia de uma civilização antiga, que é comparável à Arca."
+103040-26 = "[ns3] \"Isso significa\"\n[ns4] \"Está em Abydos...\""
 103040-29 = "...Sim, você adivinhou."
-
 103040-30 = "Existe uma arma antiga que pode lutar contra a ``Arca de Atlas Hasith''."
-
 103040-33 = "O que eu procurava no #nAbydos Desert através da Kaiser Corporation――"
-
-103040-34 = "Uma "arma superantiga" localizada no subsolo de Kivotos. #n――Um “medo” antigo que não pode ser analisado com a tecnologia existente."
+103040-34 = "Uma \"arma superantiga\" localizada no subsolo de Kivotos. #n――Um “medo” antigo que não pode ser analisado com a tecnologia existente."
 
 103040-35 = "Mas... não era nisso que eu estava interessado na época."
-
 103040-38 = "O objetivo naquela época era fazer um contrato com o “mistério” mais poderoso de Kivotos e possuí-lo."
-
-103040-41 = "Para mim, o tesouro abaixo de Abidos nada mais é do que informação incerta..."
-
+103040-41 = "Para mim, o tesouro abaixo de Abydos nada mais é do que informação incerta..."
 103040-42 = "Se você conseguir escavá-lo usando o Kaiser, poderá encontrá-lo."
-
 103040-45 = "No entanto, do ponto de vista do presidente do Kaiser, a proposta #nmy era provavelmente atraente."
-
-103040-46 = "A "arma superantiga" que existe em Kivotos e é superior a qualquer força militar - se você conseguir colocar as mãos em tal coisa,"
+103040-46 = "A \"arma superantiga\" que existe em Kivotos e é superior a qualquer força militar - se você conseguir colocar as mãos em tal coisa,"
 
 103040-47 = "Ele pensou que poderia assumir o controle de Kivotos."
-
 103040-50 = "No final, eles conseguiram escavar uma “arma superantiga”."
-
 103040-53 = "Não havia dúvidas sobre quem seria o próximo presidente. Agora que têm #n armas, provavelmente pensaram que não perderiam, mesmo que toda a região autônoma de #n Kivotos fosse seu inimigo."
-
-103040-54 = "Então, eles atacaram o Conselho Estudantil da Federação e sequestraram o professor do Chalet ――#nCuckook, se as coisas tivessem corrido bem, Kivotos poderia ter caído nas mãos do Presidente."
-
+103040-54 = "Então, eles atacaram o Conselho Estudantil da Federação e sequestraram o sensei do Chalet ――#nCuckook, se as coisas tivessem corrido bem, Kivotos poderia ter caído nas mãos do Presidente."
 103040-56 = "É isso mesmo – se “Sanctum of Illusion” não tivesse aparecido naquela época."
-
 103040-59 = "No momento em que a Torre do Santuário foi destruída, o Presidente #n julgou que a situação estava fora de seu controle e retirou-se imediatamente."
-
-103040-60 = "Como empresário, esta é uma decisão sábia. #nVocê não pode usar "Super Ancient Weapon" sem "Sanctum Tower"."
+103040-60 = "Como empresário, esta é uma decisão sábia. #nVocê não pode usar \"Super Ancient Weapon\" sem \"Sanctum Tower\"."
 
 103040-62 = "Sim, agora que a Torre do Santuário foi destruída, não há ninguém que possa usar a #n “arma superantiga”."
-
-103040-63 = "Além do proprietário[/ruby] de Oparts comparável à Torre Sanctum ――#n "[ruby=・ ・ ・ ・ ・]Caixa de Shittim[/ruby]" [ruby=・ ・ ・ ・]."
+103040-63 = "Além do proprietário de Oparts comparável à Torre Sanctum ――#n \"Caixa de Shittim\" ."
 
 103040-67 = "[ns] \"…………………….\""
+103040-69 = "[ns] \"Qual é a verdadeira identidade da \"arma superantiga\"? \""
 
-103040-69 = "[ns] \"Qual é a verdadeira identidade da "arma superantiga"? \""
-
-103040-70 = "Kukku... por favor, não tenha tanta pressa. #nPrimeiro, pensei que a ``Arca'' poderia estar enterrada em Abidos."
-
+103040-70 = "Kukku... por favor, não tenha tanta pressa. #nPrimeiro, pensei que a ``Arca'' poderia estar enterrada em Abydos."
 103040-71 = "Porém, aquela coisa não é uma arca nem nada parecido... é uma existência diferente que está extremamente próxima dela."
-
 103040-77 = "Sim, essa coisa é um “navio”."
-
 103040-78 = "Assim como a ``Arca de Atla Hasith'', o nome reflete a origem de Kivotos - a forma final da ``arma''."
+103040-81 = "--\"Naviode Utnapishtim\"."
 
-103040-81 = "--"Navio[ruby=motobune]de Utnapishtim[/ruby]"."
-
-103040-85 = "Isso mesmo ――[ruby=・ ・ ・ ・]Navio de guerra espacial[/ruby]."
-
-103040-87 = "Próxima vez; Coisas em Abidos (2)"
-
+103040-85 = "Isso mesmo ――Navio de guerra espacial."
+103040-87 = "Próxima vez; Coisas em Abydos (2)"

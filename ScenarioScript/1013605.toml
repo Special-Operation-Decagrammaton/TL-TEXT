@@ -1,157 +1,41 @@
 [translation]
 1013605-1 = "obstrução"
-
 1013605-2 = "(Vai para as coordenadas com base na mensagem recebida de Amy)"
-
 1013605-3 = "(Bem quando eu estava rezando para que o pior não estivesse acontecendo...)"
-
 1013605-6 = "Yaho~#nEu estive esperando."
-
 1013605-7 = "[ns] \"...!\""
-
 1013605-9 = "[ns] \"Aimi!!\""
-
 1013605-10 = "! ?"
-
-1013605-11 = "O que há de errado, professor?"
-
+1013605-11 = "O que há de errado, sensei?"
 1013605-12 = "Você está com raiva?"
-
-1013605-13 = "[s] \"Eu estava preocupado.""
-
-1013605-14 = "……."
-
-1013605-15 = "Sim, foi..."
-
-1013605-16 = "Desculpe, professora..."
-
-1013605-17 = "EU……."
-
-1013605-18 = "[s] \"...Vamos para casa.\""
-
-1013605-19 = "……."
-
-1013605-20 = "Sim……."
-
-1013605-21 = "[s] \"...Estou feliz que você esteja bem.\""
-
-1013605-22 = "Sim……."
-
-1013605-25 = "No caminho de volta do reconhecimento, acabei tendo uma pequena batalha..."
-
-1013605-26 = "Acho que usei demais naquela época. #nA bateria da minha mochila acabou."
-
-1013605-27 = "Meu equipamento está ligado à bateria da minha mochila."
-
-1013605-28 = "Consegui derrotar o inimigo, mas... foi o que aconteceu como resultado."
-
-1013605-29 = "[s1] \"...Isso mesmo.\"\n[s2] \"Eu estava preocupado que algo pudesse ter acontecido...\""
-
-1013605-32 = "Isso é... desculpe."
-
-1013605-33 = "Mas pensei em muitas coisas..."
-
-1013605-34 = "Acho que foi uma decisão eficiente derrotar o inimigo naquele momento."
-
-1013605-35 = "...Mesmo que seja eficiente, não significa nada se eu não estiver seguro."
-
-1013605-36 = "……."
-
-1013605-37 = "...Eu vejo."
-
-1013605-38 = "Existe tal pensamento..."
-
-1013605-39 = "Desculpe, senhor. #nA culpa foi minha."
-
-1013605-40 = "Então não fique muito bravo. #nA cara do professor agora é realmente assustadora."
-
-1013605-41 = "Definitivamente não farei isso de novo."
-
-1013605-42 = "Eu prometo."
-
-1013605-45 = "...Mas, sensei."
-
-1013605-46 = "Eu pensei que estava bem."
-
-1013605-47 = "Estava perto da base. #nTambém consegui enviar um sinal de resgate."
-
-1013605-48 = "Fiquei esperando, acreditando que a professora iria aceitar bem..."
-
-1013605-49 = "……."
-
-1013605-50 = "...Desculpe, é tudo apenas uma desculpa."
-
-1013605-51 = "……."
-
-1013605-52 = "Isso é estranho."
-
-1013605-53 = "Até agora, pensei que dar desculpas era ineficiente."
-
-1013605-54 = "Se você vai dizer algo assim, seria mais rápido esclarecer a situação rapidamente... foi o que pensei."
-
-1013605-55 = "……."
-
-1013605-56 = "Talvez eu esteja agora..."
-
-1013605-57 = "Talvez ele não queira que seu professor o odeie."
-
-1013605-58 = "[s3] \"Eu não odeio Amy.\"\n[s4] \"Eu só... estava preocupado. Muito.""
+1013605-13 = "[s] \"Eu estava preocupado.\"\"\n1013605-14 = \"…….\"\n1013605-15 = \"Sim, foi...\"\n1013605-16 = \"Desculpe, professora...\"\n1013605-17 = \"EU…….\"\n1013605-18 = \"[s] \"...Vamos para casa.\"\"\n1013605-19 = \"…….\"\n1013605-20 = \"Sim…….\"\n1013605-21 = \"[s] \"...Estou feliz que você esteja bem.\"\"\n1013605-22 = \"Sim…….\"\n1013605-25 = \"No caminho de volta do reconhecimento, acabei tendo uma pequena batalha...\"\n1013605-26 = \"Acho que usei demais naquela época. #nA bateria da minha mochila acabou.\"\n1013605-27 = \"Meu equipamento está ligado à bateria da minha mochila.\"\n1013605-28 = \"Consegui derrotar o inimigo, mas... foi o que aconteceu como resultado.\"\n1013605-29 = \"[s1] \"...Isso mesmo.\"\n[s2] \"Eu estava preocupado que algo pudesse ter acontecido...\"\"\n1013605-32 = \"Isso é... desculpe.\"\n1013605-33 = \"Mas pensei em muitas coisas...\"\n1013605-34 = \"Acho que foi uma decisão eficiente derrotar o inimigo naquele momento.\"\n1013605-35 = \"...Mesmo que seja eficiente, não significa nada se eu não estiver seguro.\"\n1013605-36 = \"…….\"\n1013605-37 = \"...Eu vejo.\"\n1013605-38 = \"Existe tal pensamento...\"\n1013605-39 = \"Desculpe, senhor. #nA culpa foi minha.\"\n1013605-40 = \"Então não fique muito bravo. #nA cara do sensei agora é realmente assustadora.\"\n1013605-41 = \"Definitivamente não farei isso de novo.\"\n1013605-42 = \"Eu prometo.\"\n1013605-45 = \"...Mas, sensei.\"\n1013605-46 = \"Eu pensei que estava bem.\"\n1013605-47 = \"Estava perto da base. #nTambém consegui enviar um sinal de resgate.\"\n1013605-48 = \"Fiquei esperando, acreditando que a professora iria aceitar bem...\"\n1013605-49 = \"…….\"\n1013605-50 = \"...Desculpe, é tudo apenas uma desculpa.\"\n1013605-51 = \"…….\"\n1013605-52 = \"Isso é estranho.\"\n1013605-53 = \"Até agora, pensei que dar desculpas era ineficiente.\"\n1013605-54 = \"Se você vai dizer algo assim, seria mais rápido esclarecer a situação rapidamente... foi o que pensei.\"\n1013605-55 = \"…….\"\n1013605-56 = \"Talvez eu esteja agora...\"\n1013605-57 = \"Talvez ele não queira que seu sensei o odeie.\"\n1013605-58 = \"[s3] \"Eu não odeio Amy.\"\n[s4] \"Eu só... estava preocupado. Muito.\""
 
 1013605-61 = "……."
-
 1013605-62 = "Obrigado, senhor."
-
-1013605-63 = "...Acho que já é tarde demais para o professor."
-
+1013605-63 = "...Acho que já é tarde demais para o sensei."
 1013605-64 = "Porque acho que há algo um pouco estranho."
-
-1013605-65 = "Então, tenho um pedido para você, professor."
-
+1013605-65 = "Então, tenho um pedido para você, sensei."
 1013605-66 = "[s] \"Por favor?\""
-
 1013605-68 = "(Aimi para onde está e fecha os olhos suavemente)"
-
 1013605-69 = "(Então respirei lenta e profundamente)"
-
 1013605-75 = "proteja-me"
-
 1013605-76 = "Olhando para mim."
-
 1013605-77 = "Só assim, quero que você fique ao meu lado e cuide de mim para sempre, para que eu não dê um passo errado."
-
 1013605-78 = "Estou ciente de que sou egoísta em alguns aspectos."
-
 1013605-79 = "Eu sei que as pessoas pensam que há algo perigoso nisso."
-
 1013605-80 = "no entanto……."
-
-1013605-81 = "Se o professor estiver ao meu lado, eu..."
-
+1013605-81 = "Se o sensei estiver ao meu lado, eu..."
 1013605-82 = "Tenho certeza que tudo ficará bem."
-
 1013605-88 = "...Eu sei. Só que um dia os filhotes terão que sair do ninho."
-
 1013605-89 = "Mas ainda sou um estudante do primeiro ano do ensino médio, certo?"
-
 1013605-90 = "Então acho que não há problema em deixar as coisas como estão."
-
 1013605-91 = "[s] \"...Isso mesmo.\""
-
 1013605-92 = "Hehe."
-
 1013605-93 = "Além disso, mesmo que eu pudesse voar daqui..."
-
 1013605-94 = "...Esta é apenas uma possibilidade."
-
 1013605-95 = "Não seria bom encontrar um parceiro com quem passar o resto do tempo?"
-
 1013605-96 = "[s] \"O que isso significa?\""
-
 1013605-99 = "Hehe, nada. Eu só estava tentando dizer isso."
-
 1013605-100 = "Não há realmente nenhum significado profundo nisso."
-
 1013605-101 = "...A propósito, professora, você sabe?"
-
-1013605-107 = "Meu professor atual se tornou meu professor habitual."
-
+1013605-107 = "Meu sensei atual se tornou meu sensei habitual."

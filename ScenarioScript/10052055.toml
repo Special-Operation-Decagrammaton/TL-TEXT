@@ -1,17 +1,33 @@
 [translation]
-10052055-2 = "Foi bem... ... "
-10052055-3 = ""
-10052055-4 = "[s] \"Há algo que me preocupa?\""
-10052055-5 = "Não é muito preocupante, realmente."
-10052055-6 = "... E eu não tenho o menor interesse em se importar com isso. "
-10052055-7 = "Mas... "
-10052055-8 = "sensei."
-10052055-9 = "[s] \"ん?\""
-10052055-10 = "Por que... o conflito surge?"
-10052055-11 = "[ns] \"Eu acho que porque têm coisas que não podem ser compartilhadas.\""
-10052055-12 = "Claro, eu acredito que todos têm algo que não podem ser perdidos."
-10052055-13 = "Mas……o que é isso mesmo? Nós dois nem sabemos!"
-10052055-17 = "……Será que algum dia os seres vivos poderão se reconciliar?"
-10052055-18 = "[s] 'Eu acredito que posso fazer isso.'"
-10052055-19 = "Até agora, ainda não consegui convencer-me disso."
-"10052055-20": "[s1] 'Também posso dizer isso. '\n[s2] 'Mas, mesmo assim.'"
+10052055-2 = "Acabou muito bem..."
+
+10052055-3 = "……."
+
+10052055-4 = "[s] \"Há algo que te incomoda?\""
+
+10052055-5 = "Não é tão incômodo..."
+
+10052055-6 = "...Em primeiro lugar, não posso me dar ao luxo de me preocupar com ninguém."
+
+10052055-7 = "mas……."
+
+10052055-8 = "professor."
+
+10052055-9 = "[s] \"Sim?\""
+
+10052055-10 = "Por que... surge um conflito?"
+
+10052055-11 = "[ns] \"Talvez seja porque há coisas que não podemos comprometer.\""
+
+10052055-12 = "Claro, acho que todo mundo tem coisas que não pode comprometer."
+
+10052055-13 = "No entanto... mesmo que nenhum de nós saiba o que é..."
+
+10052055-17 = "...Será que algum dia as formas de vida conseguirão se reconciliar?"
+
+10052055-18 = "[s] \"Quero acreditar que posso fazer isso.\""
+
+10052055-19 = "Ainda não consigo acreditar agora."
+
+10052055-20 = "[s1] \"Você poderia dizer isso.\"\n[s2] \"Ainda assim.\""
+

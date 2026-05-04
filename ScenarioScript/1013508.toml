@@ -1,141 +1,20 @@
 [translation]
 1013508-1 = "Sobre o ambiente de vida"
-
 1013508-3 = "Ah, você precisava disso."
-
 1013508-4 = "Este é realmente um lugar onde as pessoas vivem?"
-
-1013508-5 = "[s] \"Eu vou te ajudar.""
-
-1013508-6 = "foto?"
-
-1013508-7 = "Ah... sim, obrigado. Bem, duas pessoas são mais rápidas."
-
-1013508-12 = "Suspiro... Momoi continua fazendo bagunça e não tem como ela limpar."
-
-1013508-13 = "Nesse ponto, Midori é boa em arrumar e tem um certo nível de habilidades para a vida, mas..."
-
-1013508-14 = "Em primeiro lugar, a frequência de limpeza é baixa."
-
-1013508-15 = "ユズは……隠れる癖は減りつつあっても、ゲームかコーディングばかり……。"
-
-1013508-19 = "Alice...estou preocupada com Alice."
-
-1013508-20 = "Dos quatro, ela tem a segunda maior capacidade de sobreviver, mas no final, os humanos tendem a se parecer com aqueles ao seu redor...#nE falando das pessoas ao seu redor..."
-
-1013508-21 = "Não, não quero dizer que seja ruim. #nNa verdade, acho que eles são boas pessoas. Porém, eu costumo..."
-
-1013508-30 = "Ufa... finalmente melhorou."
-
-1013508-31 = "...Se durar 3 dias, você ficará bem. Você pode apostar."
-
-1013508-32 = "[s] \"Já se passaram três dias... entendo...\""
-
-1013508-33 = "sim."
-
-1013508-34 = "……."
-
-1013508-35 = "...?"
-
-1013508-36 = "Por favor, espere, senhor."
-
-1013508-37 = "[s] \"O quê?\""
-
-1013508-38 = "Você desviou o olhar agora há pouco?"
-
-1013508-39 = "[s] \"É um mal-entendido, Sr. Kei.\""
-
-1013508-40 = "Sr. Kei...?"
-
-1013508-41 = "……."
-
-1013508-42 = "professor."
-
-1013508-43 = "Olhe nos meus olhos."
-
-1013508-44 = "[s] \"E-eu não gosto disso! Não vou desistir!!\""
-
-1013508-45 = "Por favor, dê uma olhada!"
-
-1013508-46 = "[s] \"Kuuu...!\""
-
-1013508-47 = "OK. Agora, coloque a mão no peito e responda."
-
-1013508-48 = "Você costuma limpar sua casa corretamente?"
-
-1013508-49 = "[s] \"...!\""
-
-1013508-54 = "O que! ? Espere! Eu entendo tudo agora! Aqui está! Não fuja! !"
-
-1013508-58 = "……."
-
-1013508-59 = "[s] \"…….\""
-
-1013508-60 = "professor."
-
-1013508-61 = "[s] \"Ah, é?\""
-
-1013508-62 = "Isto é... uma residência? É uma casa de lixo?"
-
-1013508-63 = "Se você responder à primeira, você não tem moral, e se responder à segunda, você não é mais um ser humano."
-
-1013508-64 = "Vou te dar 10 segundos. Comece a dar desculpas."
-
-1013508-65 = "[s1] \"Escute, Kei-chan! Vou explicar tudo!\"\n[s2] \"Normalmente, a limpeza e o trabalho doméstico nunca deveriam acabar!?\""
-
-1013508-68 = "Então?"
-
-1013508-69 = "[s] \"Se você terminar a porção de hoje, a porção de amanhã ocorrerá novamente amanhã!\""
-
-1013508-70 = "Sim, continue."
-
-1013508-71 = "[s3] \"Então é melhor fazer tudo de uma vez quando tiver vontade!\"\n[s4] \"Você não acha que é bom e razoável!?\""
-
-1013508-77 = "Você dá desculpas como um racionalista vestido de preto! ?"
-
-1013508-78 = "Suspiro... você terminou com suas desculpas? #nBem então..."
-
-1013508-84 = "Sério... por que eu...?"
-
-1013508-90 = "É melhor que o quarto do Rio, mas... não, não dá nem para comparar..."
-
-1013508-94 = "Essa quantidade de poeira... morar num lugar como esse vai te deixar doente...?"
-
-1013508-101 = "Ufa..."
-
-1013508-102 = "Então, professor?"
-
-1013508-103 = "[s] \"Sim....\""
-
-1013508-104 = "Tem algo a dizer?"
-
-1013508-105 = "[s5] \"Lamentamos. Muito obrigado.\"\n[s6] \"Lamentamos. Obrigado.""
+1013508-5 = "[s] \"Eu vou te ajudar.\"\"\n1013508-6 = \"foto?\"\n1013508-7 = \"Ah... sim, obrigado. Bem, duas pessoas são mais rápidas.\"\n1013508-12 = \"Suspiro... Momoi continua fazendo bagunça e não tem como ela limpar.\"\n1013508-13 = \"Nesse ponto, Midori é boa em arrumar e tem um certo nível de habilidades para a vida, mas...\"\n1013508-14 = \"Em primeiro lugar, a frequência de limpeza é baixa.\"\n1013508-15 = \"Yuzu... embora seu hábito de se esconder esteja diminuindo, ela está sempre jogando ou programando...\"\n\n1013508-19 = \"Alice...estou preocupada com Alice.\"\n1013508-20 = \"Dos quatro, ela tem a segunda maior capacidade de sobreviver, mas no final, os humanos tendem a se parecer com aqueles ao seu redor...#nE falando das pessoas ao seu redor...\"\n1013508-21 = \"Não, não quero dizer que seja ruim. #nNa verdade, acho que eles são boas pessoas. Porém, eu costumo...\"\n1013508-30 = \"Ufa... finalmente melhorou.\"\n1013508-31 = \"...Se durar 3 dias, você ficará bem. Você pode apostar.\"\n1013508-32 = \"[s] \"Já se passaram três dias... entendo...\"\"\n1013508-33 = \"sim.\"\n1013508-34 = \"…….\"\n1013508-35 = \"...?\"\n1013508-36 = \"Por favor, espere, senhor.\"\n1013508-37 = \"[s] \"O quê?\"\"\n1013508-38 = \"Você desviou o olhar agora há pouco?\"\n1013508-39 = \"[s] \"É um mal-entendido, Sr. Kei.\"\"\n1013508-40 = \"Sr. Kei...?\"\n1013508-41 = \"…….\"\n1013508-42 = \"sensei.\"\n1013508-43 = \"Olhe nos meus olhos.\"\n1013508-44 = \"[s] \"E-eu não gosto disso! Não vou desistir!!\"\"\n1013508-45 = \"Por favor, dê uma olhada!\"\n1013508-46 = \"[s] \"Kuuu...!\"\"\n1013508-47 = \"OK. Agora, coloque a mão no peito e responda.\"\n1013508-48 = \"Você costuma limpar sua casa corretamente?\"\n1013508-49 = \"[s] \"...!\"\"\n1013508-54 = \"O que! ? Espere! Eu entendo tudo agora! Aqui está! Não fuja! !\"\n1013508-58 = \"…….\"\n1013508-59 = \"[s] \"…….\"\"\n1013508-60 = \"sensei.\"\n1013508-61 = \"[s] \"Ah, é?\"\"\n1013508-62 = \"Isto é... uma residência? É uma casa de lixo?\"\n1013508-63 = \"Se você responder à primeira, você não tem moral, e se responder à segunda, você não é mais um ser humano.\"\n1013508-64 = \"Vou te dar 10 segundos. Comece a dar desculpas.\"\n1013508-65 = \"[s1] \"Escute, Kei-chan! Vou explicar tudo!\"\n[s2] \"Normalmente, a limpeza e o trabalho doméstico nunca deveriam acabar!?\"\"\n1013508-68 = \"Então?\"\n1013508-69 = \"[s] \"Se você terminar a porção de hoje, a porção de amanhã ocorrerá novamente amanhã!\"\"\n1013508-70 = \"Sim, continue.\"\n1013508-71 = \"[s3] \"Então é melhor fazer tudo de uma vez quando tiver vontade!\"\n[s4] \"Você não acha que é bom e razoável!?\"\"\n1013508-77 = \"Você dá desculpas como um racionalista vestido de preto! ?\"\n1013508-78 = \"Suspiro... você terminou com suas desculpas? #nBem então...\"\n1013508-84 = \"Sério... por que eu...?\"\n1013508-90 = \"É melhor que o quarto do Rio, mas... não, não dá nem para comparar...\"\n1013508-94 = \"Essa quantidade de poeira... morar num lugar como esse vai te deixar doente...?\"\n1013508-101 = \"Ufa...\"\n1013508-102 = \"Então, sensei?\"\n1013508-103 = \"[s] \"Sim....\"\"\n1013508-104 = \"Tem algo a dizer?\"\n1013508-105 = \"[s5] \"Lamentamos. Muito obrigado.\"\n[s6] \"Lamentamos. Obrigado.\""
 
 1013508-108 = "...Tudo bem, desde que você entenda."
-
 1013508-109 = "Se estiver uma bagunça de novo..."
-
 1013508-113 = "……."
-
 1013508-114 = "No final você acaba fazendo bagunça de novo, né?"
-
 1013508-115 = "Suspiro... não se esforce sozinho, por favor me ligue."
-
 1013508-116 = "[s7] \"...!?\"\n[s8] \"Você pode me ajudar...?\""
-
 1013508-119 = "De qualquer forma, os professores não farão isso sozinhos, certo?"
-
 1013508-120 = "Além disso, duas pessoas seriam mais rápidas, certo?"
-
 1013508-124 = "[ns] \"Como esperado... Como esperado...!!\""
-
 1013508-125 = "O que você quer dizer com é uma pena..."
-
 1013508-126 = "Oh, espere, aquele rosto sorridente..."
-
 1013508-127 = "Se eu disser algo estranho de novo, é verdade!"
-
 1013508-128 = "[ns9] \"Kei-chan é fofo!\"\n[ns10] \"Kei-chan é fofo!!\"\n[ns11] \"Kei-chan é fofo!!!\""
-
 1013508-132 = "A\"A\"~~~~! ! ! ! ! ! !"
-

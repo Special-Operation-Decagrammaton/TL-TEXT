@@ -99,21 +99,37 @@
 10047070-210 = "Isto é! A verdadeira forma do círculo mágico gigante escondido na academia...!"
 10047070-217 = "É, é real...? Não é só algo que desenharam num mapa antigo para parecer real?"
 10047070-218 = "Nyu-fufu, é real."
-10047070-219 = "今の学院基準で考えていたのが間違いだったんです。"
-10047070-220 = "設立初期にあった建物を繋いでみると……#n完璧な対称の魔法陣になりました。"
+10047070-219 = "Foi um erro pensar com base nos padrões escolares atuais."
+
+10047070-220 = "Quando conectamos os edifícios que existiam nos primeiros dias do estabelecimento...#nTornou-se um círculo mágico simétrico perfeito."
+
 10047070-221 = "それも、数字を利用した……いわば「魔方陣」です！"
-10047070-222 = "こちらの、線で結んだ各施設。#nその住所に着目して、末尾の数字を足すと……。"
-10047070-223 = "見てください！合計が26になる線が6本できました！"
-10047070-224 = "これは100％意図された構造！#n学院の創立に、オカルトの影響があったのは本当でした！"
-10047070-225 = "うそでしょ……。"
-10047070-226 = "まるで、誰かに見つけてもらうのを待っていたかのような……。"
-10047070-227 = "疑う余地のない、本物の魔法陣ですね……#n完成したら、一体なにが起きるのでしょう。"
-10047070-231 = "……でも、一つ、問題があるよぉ。"
-10047070-236 = "これは現在の学院の地図……昔とは全然違う。"
-10047070-237 = "取り壊された建物はもちろん……新しく建てられた建物も……。"
-10047070-238 = "問題はここ……魔法陣の線の上にできた建物。"
-10047070-242 = "はっ！まさかこれは……！？"
-10047070-243 = "あら。"
-10047070-244 = "そう……この地図通りに、魔法陣を完成させるには……。"
-10047070-246 = "[log=카노에]寮監隊の宿舎を通らないといけないんだぁ。[/log]"
+
+10047070-222 = "Aqui, cada instalação é conectada por uma linha.#nSe você olhar aquele endereço e somar os números no final..."
+
+10047070-223 = "Por favor, dê uma olhada! Agora temos 6 linhas com um total de 26!"
+
+10047070-224 = "Esta é uma estrutura 100% intencional!#nÉ verdade que a fundação da academia foi influenciada pelo ocultismo!"
+
+10047070-225 = "Isso é mentira..."
+
+10047070-226 = "É como se eu estivesse esperando alguém me encontrar..."
+
+10047070-227 = "Não há dúvida, é um verdadeiro círculo mágico...#nO que acontecerá quando estiver concluído?"
+
+10047070-231 = "...Mas há um problema."
+
+10047070-236 = "Este é um mapa da academia atual... completamente diferente do passado."
+
+10047070-237 = "Não apenas os edifícios demolidos, mas também os edifícios recém-construídos..."
+
+10047070-238 = "O problema está aqui...um edifício construído na linha do círculo mágico."
+
+10047070-242 = "Ha! De jeito nenhum isso é...! ?"
+
+10047070-243 = "falta."
+
+10047070-244 = "Sim...para completar o círculo mágico de acordo com este mapa..."
+
+10047070-246 = "[log=카노에]Tenho que passar pelos aposentos do supervisor do dormitório.[/log]"
 

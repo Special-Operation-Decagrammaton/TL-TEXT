@@ -31,7 +31,7 @@
 
 1013908-32 = "A desvantagem é que é tão gostoso que você acaba comendo na hora. n / D. \r\n"
 
-1013908-33 = "[ns] \"Se você me perguntar... talvez sim.""
+1013908-33 = "[ns] \"Se você me perguntar... talvez sim.\""
 
 1013908-35 = "[ns3] \"O que você quer dizer com reservar um tempo para prepará-lo?\"\r\n[ns4] \"É diferente do sushi inari usual?\""
 
@@ -45,32 +45,27 @@
 
 1013908-45 = "Por favor, desculpe-me por um momento.... \r\n"
 
-1013908-50 = "[wa:390]― [log=니코]Hehe, [wa:1470]Está bem frito. [/registro]"
-
+1013908-50 = "[wa:390]― [log=니코]ふふ、[wa:1470]よく揚がっていますね。[/log]"
 1013908-52 = "― [log=니코]Hehe [wa:310]Estou vivendo... [wa:1890]Estou ansioso pelo produto final. [/registro]"
 
 1013908-55 = "[ns] \"Isso... parece delicioso.\""
 
-1013908-56 = "[wa:860]― [log=니코]Ah, [wa:880]Ainda não. [/registro]"
-
-1013908-59 = "[wa:480]― [log=니코]Depois disso, [wa:530]Vou fritar mais uma vez. [/registro]"
-
+1013908-56 = "[wa:860]― [log=니코]あ、[wa:880]まだダメですよ。[/log]"
+1013908-59 = "[wa:480]― [log=니코]この後、[wa:530]もう1回揚げるんですから。[/log]"
 1013908-62 = "- [log=니코]No início, em temperatura baixa. [/registro]"
 
 1013908-64 = "― [log=니코]Em seguida, se você fritar em alta temperatura, [wa:2080] a umidade sairá e ele se tornará um delicioso tofu frito. [/registro]"
 
 1013908-67 = "[ns] \"Tofu frito leva tanto tempo...\""
 
-1013908-68 = "[wa:1220]― [log=니코]Tofu frito é na verdade[/log]"
-
+1013908-68 = "[wa:1220]― [log=니코]油揚げって実は、[/log]"
 1013908-70 = "- [log=니코]É um prato que exige muito tempo e esforço. [/registro]"
 
 1013908-73 = "― [log=니코]Isso foi o que aconteceu no passado[/log]"
 
 1013908-75 = "- [log=니코]Foi dito que era uma oferenda [wa:2620] para orar por uma boa colheita e paz no próximo ano. [/registro]"
 
-1013908-78 = "[wa:2050]― [log=니코]Meu desejo é[/log]"
-
+1013908-78 = "[wa:2050]― [log=니코]私の願いは、[/log]"
 1013908-80 = "― [log=니코]Todos ao meu redor estão felizes e [wa:2420]podem viver em paz. [/registro]"
 
 1013908-83 = "― [log=니코]Se você puder transmitir meus sentimentos em tofu frito...[/log]"
@@ -83,11 +78,11 @@
 
 1013908-92 = "Professor, poderia provar, por favor?"
 
-1013908-93 = "[s5] \"Se estiver tudo bem para mim...\"\r\n[s6] \"Posso comer seu primeiro tofu frito caseiro?""
+1013908-93 = "[s5] \"Se estiver tudo bem para mim...\"\r\n[s6] \"Posso comer seu primeiro tofu frito caseiro?\""
 
 1013908-96 = "Claro. #nEu ficaria muito feliz se a professora pudesse comê-lo."
 
-1013908-97 = "[s] \"Bem, então...eu aceito.""
+1013908-97 = "[s] \"Bem, então...eu aceito.\""
 
 1013908-101 = "[ns7] \"É quente e fofo!\"\n[ns8] \"Essa textura fofa é muito legal!\""
 
@@ -113,5 +108,5 @@
 
 1013908-119 = "(Depois disso, tivemos um jantar tranquilo e satisfatório comendo sushi inari caseiro que Nico havia feito.)"
 
-1013908-120 = "（ニコの油揚げは、どこか柔らかくて、温かい味がした）"
+1013908-120 = "(O tofu frito de Nico era macio e tinha um sabor quente.)"
 

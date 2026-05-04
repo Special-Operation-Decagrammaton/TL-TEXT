@@ -1,207 +1,205 @@
 [translation]
-1006203-1 = "Vida escolar normal"
+1006203-1 = "vida escolar normal"
 
-1006203-2 = "Campus da Millennium School"
+1006203-2 = "campus da escola do milênio"
 
-1006203-3 = "(Visitei o milênio para ver os íbis)"
+1006203-3 = "(Visitei o Millennium para conhecer Toki)"
 
-1006203-7 = "Estávamos esperando por você, doutor."
+1006203-7 = "Estávamos esperando por você, senhor."
 
-1006203-8 = "Obrigado por nos visitar."
+1006203-8 = "Obrigado por reservar um tempo de sua agenda lotada."
 
-1006203-9 = "[\"Então, qual é o problema? \""
+1006203-9 = "[s] \"Então, qual é o problema?\""
 
-1006203-10 = "Ou seja. ......."
+1006203-10 = "É isso..."
 
-1006203-11 = "Primeiro, veja esta carta."
+1006203-11 = "Em primeiro lugar, por favor, dê uma olhada nesta carta."
 
-1006203-12 = "Recebi isso da escola, mas não tenho certeza se meu entendimento está correto. ......"
+1006203-12 = "Recebi da minha escola, mas não tenho certeza se meu entendimento está correto..."
 
-1006203-13 = "Achei que um professor saberia mais sobre o assunto e gostaria de receber algumas orientações: ......"
+1006203-13 = "Tenho certeza que o professor sabe muito, então gostaria de receber alguns conselhos..."
 
-1006203-14 = "(Carta recebida da Toki)."
+1006203-14 = "(Recebi uma carta de Toki)"
 
-1006203-16 = "[ns1] \"Não tenho dias suficientes de frequência, então terei que voltar para Ј"\n[ns2] \"Se eu não fizer isso, vou ficar, diz o documento. ....... \""
+1006203-16 = "[ns1] \"Porque não frequentei dias suficientes\"\n[ns2] \"Diz que se eu continuar assim, vou repetir o ano...\""
 
-1006203-19 = "Entendo, isso está de acordo com minha percepção. Ou seja, ......."
+1006203-19 = "Entendo, isso corresponde ao meu entendimento. Em outras palavras……."
 
-1006203-20 = "Não me importo se você deixar isso de lado."
+1006203-20 = "Você pode deixar isso em paz."
 
-1006203-21 = "Então parece que não há problema e eu ajudarei o professor hoje."
+1006203-21 = "Bem, não parece haver nenhum problema, então estarei ajudando o professor hoje também."
 
-1006203-26 = "[ns3] \"Não, não, você está com um grande problema! \"\n[ns4] \"Nós não concordamos nem mesmo com a percepção! "
+1006203-26 = "[ns3] \"Não, não, estamos em apuros!?\"\n[ns4] \"Não concordamos com isso!?\""
 
-1006203-29 = "Se eu tiver que ficar, já fiquei uma vez e não me importo se ficar duas ou três vezes."
+1006203-29 = "Se você tiver que repetir uma nota uma vez, não importa se você repetir duas ou três vezes."
 
-1006203-30 = "Em vez disso, se eles permanecerem, poderão ajudar os professores não apenas no próximo ano e no ano seguinte, mas também depois."
+1006203-30 = "Na verdade, se você repetir de ano, poderá ajudar seu professor não apenas no próximo ano ou no ano seguinte, mas também depois dele."
 
-1006203-31 = "Isso também é bom, pois aumenta o período de tempo em que você pode trabalhar como C&C."
+1006203-31 = "O período de nossas atividades como C&C também será estendido, então espero que possamos fazer coisas boas."
 
-1006203-32 = "[É totalmente diferente! \"\n[s6] \"O que você fez antes! \"\n[s6]]"
+1006203-32 = "[s5] \"É completamente diferente, não é!?\"\n[s6] \"O que você estava fazendo até agora!?\""
 
-1006203-35 = "Até agora, isso tem sido tratado como um caso especial de atendimento."
+1006203-35 = "Até agora, o comparecimento era tratado como uma exceção especial."
 
-1006203-36 = "Mas agora que as coisas mudaram, espera-se que eles compareçam como de costume."
+1006203-36 = "Contudo, agora que as circunstâncias mudaram, parece que é necessária uma frequência regular."
 
-1006203-43 = "Espere, senhor. Tive uma ideia em um lampejo. ......"
+1006203-43 = "Por favor, espere, senhor. #nTive uma ideia..."
 
-1006203-44 = "Por que você não pede à sua escola que abra uma exceção especial para cuidar de seu professor? ......"
+1006203-44 = "Não seria melhor se a escola reconhecesse o cuidado do professor como uma exceção especial?"
 
-1006203-49 = "Uma boa ideia, você não acha? #Já que estamos falando disso, que tal o professor ser transferido para o Millennium?"
+1006203-49 = "Você não acha que é uma boa ideia? #nQue tal a transferência do professor para o Millennium?"
 
-1006203-50 = "[s7] \"Isso é muito trabalhoso? ....... \"\n[s8] \"Espere um pouco. Você pode ler o restante da carta em ....... \""
+1006203-50 = "[s7] \"Isso pode causar muitos problemas...\"\n[s8] \"Espere um minuto. O resto da carta é...\""
 
-1006203-53 = "Estou vendo. ......."
+1006203-53 = "é assim mesmo……."
 
-1006203-54 = "A carta diz que, a partir de agora, se você passar um tempo como um de nossos alunos, sem deixar de lado seu trabalho real como estudante, poderá visitar o site ......."
+1006203-54 = "A carta diz que de agora em diante, se você não negligenciar seus deveres de estudante e passar seu tempo como um dos estudantes..."
 
-1006203-55 = "Afirmou que, em vista da situação até o momento, as soluções poderiam ser consideradas."
+1006203-55 = "Foi escrito que, à luz da situação actual, medidas de alívio podem ser consideradas."
 
-1006203-56 = "[\"Então você quer dizer que precisa de uma 'vida escolar normal'. \""
+1006203-56 = "[s] \"Em outras palavras, você precisa de uma ``vida escolar normal''\"."
 
-1006203-57 = "Vida escolar normal. ......?"
+1006203-57 = "普通の学園生活……？"
+1006203-58 = "O que aconteceu com você ficando tão animado?"
 
-1006203-58 = "Com tanto entusiasmo, o que aconteceu?"
+1006203-59 = "[s9] \"Você se sente ansioso?\"\n[s10] \"Você se sente desconfortável?\""
 
-1006203-59 = "[s9] \"Você está preocupado ou algo assim? \"\n[s10] \"Não está muito interessado? \"\n[s10]]"
+1006203-62 = "……."
 
-1006203-62 = "......."
+1006203-63 = "Não posso dizer que não estou preocupado porque não sei muito sobre isso."
 
-1006203-63 = "Não posso dizer que não tenho preocupações porque não os conheço bem."
+1006203-64 = "O que devo fazer...?"
 
-1006203-64 = "O que posso fazer? ......."
+1006203-65 = "[s] \"Eu vou te ajudar.\""
 
-1006203-65 = "[\"Eu o ajudarei. \""
+1006203-66 = "O que, professor?"
 
-1006203-66 = "Sim, senhor?"
+1006203-67 = "Professor, por favor, não me afaste tão de repente...! ?"
 
-1006203-67 = "Doutor, não puxe tão rápido. ......!"
+1006203-72 = "(Assim, a “vida escolar normal” de Toki começou.)"
 
-1006203-72 = "(Assim começou a "vida escolar normal" de Toki)"
-
-1006203-73 = "(Decidimos que eles fizessem uma aula primeiro e os observássemos com cuidado)"
+1006203-73 = "(Decidi pedir a ela que fizesse uma aula primeiro e depois a observasse em silêncio.)"
 
 1006203-75 = "sala de aula"
 
-1006203-76 = "Isso conclui a aula on-line de hoje."
+1006203-76 = "Bem, isso é tudo para a aula online de hoje."
 
-1006203-77 = "Obrigado a todos por terem ouvido até o fim."
+1006203-77 = "Obrigado a todos por ouvirem até o final."
 
-1006203-78 = "[ruby=Asuma]Asuuma[/ruby] Toki, já que você não se junta a nós há algum tempo, poderia resolver esses problemas para verificar sua compreensão?"
+1006203-78 = "Toki-san, parece que já faz um tempo que você não participa, então gostaria de verificar sua compreensão, então você poderia me ajudar a resolver esse problema?"
 
-1006203-82 = "......."
+1006203-82 = "……."
 
-1006203-83 = "Você pode resolver o problema, o que significa que você só precisa resolvê-lo. ......"
+1006203-83 = "Resolver o problema, ou seja, basta resolvê-lo..."
 
-1006203-84 = "Se houver problemas complexos no caminho, entre em contato com ......."
+1006203-84 = "Ao se deparar com um problema complexo..."
 
-1006203-85 = "Espera-se também que os agentes usem a força para romper a barreira de frente!"
+1006203-85 = "Os agentes também são obrigados a avançar de frente com força!"
 
-1006203-87 = "O que é isso? A tela está em ......!"
+1006203-87 = "O-o que! ? A tela...!"
 
-1006203-88 = "Por favor, não o faça! Não use equipamentos da C&C em sala de aula!"
+1006203-88 = "Por favor, pare! Não use ferramentas C&C durante a aula!"
 
-1006203-89 = "E que ferramenta de hacking #n que pode desarmar o firewall do Milênio em um instante. ......"
+1006203-89 = "Além disso, existe uma ferramenta de hacking #n que pode remover o firewall do Millennium num instante...!"
 
-1006203-90 = "Se você não parar imediatamente, sua presença não será autorizada!"
+1006203-90 = "Se você não parar imediatamente, não poderá participar! !"
 
-1006203-91 = "!"
+1006203-91 = "! ?"
 
-1006203-92 = "'Doutor, o que devo fazer nessas situações?"
+1006203-92 = "Professor, o que devo fazer numa situação como esta?"
 
-1006203-93 = "[\"Apenas resolva o problema honestamente. ....... \""
+1006203-93 = "[s] \"Apenas resolva o problema honestamente...\""
 
-1006203-94 = "Se as pessoas fossem tão honestas, não haveria conflito no mundo. #nÉ muito lamentável. ......"
+1006203-94 = "Se as pessoas fossem tão honestas, não haveria conflito no mundo. #nÉ muito lamentável, mas..."
 
-1006203-95 = "[s]\"Há algo para fazer lá! Para participar! \""
+1006203-95 = "[s] \"Faça algo sobre isso! Para participação!\""
 
-1006203-96 = "...... Não tenho mais escolha. Vamos enfrentar o problema com maturidade, certo?"
+1006203-96 = "...Não pode mais ser ajudado. Vamos tentar lidar com o problema com calma."
 
-1006203-105 = "Você é Toki, certo? Eu queria falar com você há algum tempo. #Gostaria de ir à cafeteria, por favor?"
+1006203-105 = "É o Toki, certo? Eu queria falar com você há um tempo. #nVocê gostaria de ir a um café, se quiser?"
 
-1006203-106 = "!"
+1006203-106 = "! ?"
 
-1006203-107 = "Se, professor. ......."
+1006203-107 = "Bem, professora..."
 
-1006203-108 = "[Tenha um bom dia. Vá e divirta-se. \""
+1006203-108 = "[s] \"Vá. Aproveite seu tempo.\""
 
-1006203-109 = "Mas veja ......."
+1006203-109 = "Mas...."
 
-1006203-110 = "[\"Passar um tempo em uma cafeteria depois da escola com os amigos é uma das melhores partes da vida escolar! \""
+1006203-110 = "[s] \"Passar um tempo no café depois da escola com os amigos é a melhor parte da vida escolar!\""
 
-1006203-111 = "Isso é tão ......?"
+1006203-111 = "E-É mesmo...?"
 
-1006203-112 = "Se for o caso, envie seu professor com você para ......."
+1006203-112 = "Se sim, traga seu professor com você..."
 
-1006203-113 = "[\"É importante que os alunos tenham tempo para desfrutar da companhia uns dos outros. \""
+1006203-113 = "[s] \"É importante se divertir com seus alunos.\""
 
-1006203-114 = "Não podemos fazer isso juntos? ......"
+1006203-114 = "一緒ではダメなのですか……？"
+1006203-115 = "professor? professor! ?"
 
-1006203-115 = "Professor? Professor!"
+1006203-117 = "(Ele parecia um cachorrinho abandonado, mas engoliu as lágrimas e se despediu dele.)"
 
-1006203-117 = "(Ele tinha os olhos de um filhote de cachorro abandonado, mas eu o vi sair com lágrimas nos olhos)."
+1006203-118 = "(depois de um tempo......)"
 
-1006203-118 = "(Depois de um tempo, ......)"
+1006203-120 = "Bum! !"
 
-1006203-120 = "Bum!"
+1006203-121 = "[ns] \"Explosão B!?\""
 
-1006203-121 = "[ns] \"Ba, explosão! \""
+1006203-122 = "Kyaaaaaaaaaaaa! ?"
 
-1006203-122 = "Kyaaaah!"
+1006203-126 = "O que... o que é essa empregada...?"
 
-1006203-126 = "O que é essa faxineira ......?"
+1006203-127 = "Seria um desperdício jogar fora bolos que estão prestes a não serem vendidos. Só pensei em comê-lo se fosse #n..."
 
-1006203-127 = "Teria sido uma pena jogar fora um bolo que estava prestes a não ser vendido. Só pensei em comê-lo se fosse #n. ......"
+1006203-135 = "Esse tipo de comportamento é chamado de comer e beber sem pagar."
 
-1006203-135 = "Esses atos são chamados de comer e beber sem pagar."
+1006203-136 = "É isso! Você acha que os rumores sobre não se aproximar das empregadas do Millennium vão te assustar? ?"
 
-1006203-136 = "Ele disse! Você acha que eu vou me assustar com um boato de que não se deve chegar perto da empregada do milênio!"
+1006203-137 = "……."
 
-1006203-137 = "......."
+1006203-138 = "Entendo, isso é vida escolar normal?"
 
-1006203-138 = "Entendo, então essa é a vida escolar normal?"
+1006203-139 = "Eu vi isso em um livro na sala do clube C&C."
 
-1006203-139 = "Eu a vi em um livro na sala do clube da C&C."
+1006203-140 = "É dever dos alunos derrotar todas as crianças problemáticas que arranjam brigas e governam a #n escola!"
 
-1006203-140 = "A principal tarefa dos alunos é derrotar todos os arruaceiros que brigam com eles e dominar a escola #n!"
+1006203-141 = "Huh? Você acha que pode fazer isso, está brincando comigo?"
 
-1006203-141 = "O quê? Se você acha que pode fazer isso, só pode estar brincando comigo!"
+1006203-142 = "[ns] \"Você não entende mal o dever dos alunos!?\""
 
-1006203-142 = "[ns] \"Você não entendeu a verdadeira natureza de um aluno! \""
+1006203-143 = "Agora que está assim, vou fazer isso a sério."
 
-1006203-143 = "Agora que isso aconteceu, vamos levar a sério."
+1006203-144 = "Posso não conseguir dar o meu melhor, mas vou mostrar-lhe a minha força."
 
-1006203-144 = "Não vou me aprofundar muito, mas vou lhe mostrar uma coisa."
+1006203-145 = "Transição de traje motorizado [Abi Eshuf]"
 
-1006203-145 = "Fatos de força [Abi Eshuf] Transição."
+1006203-147 = "(Mesmo depois disso, consegui impedir que Toki perdesse o controle.)"
 
-1006203-147 = "(Depois disso, ele conseguiu impedir que o íbis tentasse se soltar)."
+1006203-150 = "Professor, você está bem?"
 
-1006203-150 = "Doutor, o senhor está bem?"
+1006203-151 = "[s] \"Minha expectativa de vida pode ter sido encurtada em alguns anos...\""
 
-1006203-151 = "[s]\"A expectativa de vida pode ter sido reduzida em alguns anos. ....... \""
+1006203-152 = "……."
 
-1006203-152 = "......."
+1006203-153 = "...Desculpe."
 
-1006203-153 = "Desculpe, ......."
+1006203-154 = "Eu te causei problemas de novo..."
 
-1006203-154 = "Desculpe-me por incomodá-lo novamente. ......"
+1006203-155 = "Mesmo que eu devesse ajudar o professor, só estou causando problemas..."
 
-1006203-155 = "Sou um professor assistente e estou sempre incomodando vocês. ......"
+1006203-156 = "Não tenho qualificação para ser assistente..."
 
-1006203-156 = "Não estou qualificado para ajudar. ......"
+1006203-157 = "[s11] \"Isso não é verdade. Se vocês estudarem juntos, vocês ficarão bem.\"\n[s12] \"Vamos nos recompor e tentar de novo!\""
 
-1006203-157 = "[s11]\"Não é assim. Ficaremos bem se estudarmos juntos. \"\n[s12] \"Vamos voltar aos trilhos e tentar novamente! "
+1006203-160 = "……sim."
 
-1006203-160 = "...... Sim."
+1006203-161 = "Se o professor disser isso..."
 
-1006203-161 = "Se o professor disser que sim, acesse ......."
+1006203-162 = "De qualquer forma, senhor."
 
-1006203-162 = "Mas ainda assim, senhor."
+1006203-167 = "A vida escolar normal é uma coisa muito difícil."
 
-1006203-167 = "Isso mostra como a vida escolar normal pode ser difícil."
+1006203-169 = "(Quando encontro os olhos de Toki, que expressa seus sentimentos sinceros com uma expressão fria...)"
 
-1006203-169 = "(Quando seus olhos encontram os de Toki, que revela seu desejo sincero com uma expressão fria: ......)"
-
-1006203-170 = "(só conseguiu fazer um pequeno aceno de cabeça)"
+1006203-170 = "(Eu só consegui acenar um pouco)"
 

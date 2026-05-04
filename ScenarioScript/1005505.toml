@@ -1,113 +1,59 @@
 [translation]
 1005505-1 = "sem pressa"
-
 1005505-2 = "(Eu estava esperando por Sigle perto de um restaurante na cidade no dia marcado)."
-
 1005505-6 = "(Vi Sigle caminhando lentamente à distância)"
-
-1005505-7 = "[ns1] Acenando para Sigle. \n[ns2] \n[ns2] \n[ns2]"Por aqui, por aqui. \n[ns2]""
+1005505-7 = "[ns1] Acenando para Sigle. \n[ns2] \n[ns2] \n[ns2]\"Por aqui, por aqui. \n[ns2]\""
 
 1005505-10 = "Tudo bem, tudo bem, tudo bem. ......"
-
 1005505-15 = "As outras pessoas olhavam muito para mim porque eu acenava muito."
-
 1005505-16 = "Talvez você quisesse exibi-lo de propósito?"
-
 1005505-20 = "Piada, piada, piada, não entre em pânico."
-
 1005505-21 = "Mas ainda assim: ......"
-
-1005505-22 = "Eu estava a uma distância razoável do Red Winter. ......#n Qual é o "obrigado" por ter me chamado até aqui?"
+1005505-22 = "Eu estava a uma distância razoável do Red Winter. ......#n Qual é o \"obrigado\" por ter me chamado até aqui?"
 
 1005505-23 = "Você me pagará um jantar?"
-
 1005505-24 = "[s3] \"Sim, se você quiser ir para outro lugar, por favor. \"\n[s4] \"É uma área movimentada. \"\n[s3] \n[s4] \"Sim, adoraríamos ir para outro lugar."
-
 1005505-27 = "Hmmm, acho que eu ficaria feliz apenas com o arroz primeiro."
-
 1005505-28 = "Nas proximidades do prédio da antiga escola em Red Winter, essa área do centro da cidade e os restaurantes de luxo são raros."
-
 1005505-29 = "E poderei comer coisas que normalmente não comeria?"
-
 1005505-30 = "Ah, talvez você tenha uma reserva ou algo assim?"
-
-1005505-31 = "...... Eu sabia. Então acho que vou seguir a orientação do professor hoje."
-
+1005505-31 = "...... Eu sabia. Então acho que vou seguir a orientação do sensei hoje."
 1005505-37 = "Prazer em conhecê-lo, senhor."
-
 1005505-46 = "(passou algum tempo relaxando e desfrutando de uma refeição em um restaurante com Sigle)."
-
 1005505-47 = "(......, embora eu tenha ficado irritado com o fato de Sigle tentar pedir bebidas durante a refeição)"
-
 1005505-54 = "Obrigado pela comida. Obrigado, doutor."
-
 1005505-55 = "Que surpresa: ......"
-
 1005505-56 = "Sim, foi uma experiência nova e divertida."
-
-1005505-57 = "Você pode sair assim com seu professor ou comer uma comida surpreendentemente fina em um restaurante no centro da cidade. ......"
-
+1005505-57 = "Você pode sair assim com seu sensei ou comer uma comida surpreendentemente fina em um restaurante no centro da cidade. ......"
 1005505-58 = "...... e, assim, visualizar a paisagem noturna da cidade."
-
 1005505-61 = "[wa:400]- É uma bela vista noturna. ......"
-
 1005505-64 = "- Que vista maravilhosa."
-
 1005505-66 = "- Obrigado por me mostrar, [wa:1500] doutor."
-
 1005505-69 = "[ns5] \"Se Sigle quiser, ele sempre pode voltar. \"\n[ns6] \"Se quiser vir, basta entrar em contato conosco e ficaremos felizes em ajudá-lo ....... \""
-
 1005505-70 = "[wa:400]- ...... Fico [wa:1500]feliz em ouvir você dizer isso."
-
 1005505-71 = "[wa:400]- ...... Fico [wa:1500]feliz em ouvir você dizer isso."
-
 1005505-73 = "- Eu, [wa:1200] eu ainda gosto de onde estou."
-
 1005505-76 = "[wa:750]- ...... nessas cidades,"
-
 1005505-78 = "- Você não vê muitas estrelas."
-
 1005505-81 = "[wa:400]- Em uma luz muito forte,"
-
 1005505-83 = "- Será difícil encontrar estrelas [wa:1300]bem. ......"
-
 1005505-86 = "- Portanto,"
-
 1005505-88 = "- Eu apenas observo do escuro [wa:1600]o suficiente."
-
 1005505-91 = "[wa:750]- com seus entes queridos,"
-
 1005505-93 = "- Tudo o que você precisa é de um bom drinque. ......"
-
 1005505-96 = "- Não importa onde [wa:300] você esteja."
-
 1005505-99 = "Estava delicioso e eu estava feliz, mas ...... lembrei-me do antigo prédio da escola."
-
-1005505-100 = "Não acredito que sou o único a receber a generosidade do professor. ......"
-
+1005505-100 = "Não acredito que sou o único a receber a generosidade do sensei. ......"
 1005505-101 = "...... A Nodoka vai me odiar? Que surpresa."
-
 1005505-102 = "[s7] \"Então, da próxima vez, talvez possamos vir todos juntos? \"\n[s8] \"Então, da próxima vez, vamos nos reunir com todos da 227. \""
-
 1005505-108 = "Hmmm. ............."
-
 1005505-109 = "Isso é uma dedução de ponto, senhor."
-
 1005505-110 = "Bem, acho que isso é típico dos professores."
-
 1005505-111 = "[s]\"Nah, sinto que cometi um erro. ...... \""
-
 1005505-112 = "Pfft Estou brincando. #n...... na metade do tempo."
-
-1005505-113 = "Se o professor for bom, não é uma proposta ruim."
-
+1005505-113 = "Se o sensei for bom, não é uma proposta ruim."
 1005505-114 = "O antigo prédio da escola é um ambiente tão agradável e ...... acho que eles ficariam felizes em vir para um lugar como esse."
-
 1005505-115 = "Um restaurante ou lugar que você queira ir?"
-
 1005505-119 = "Hmmm... ...... pode estar em qualquer lugar."
-
-1005505-125 = "Se ao menos o grupo 227 pudesse ficar junto e ter um professor lá."
-
+1005505-125 = "Se ao menos o grupo 227 pudesse ficar junto e ter um sensei lá."
 1005505-126 = "Seja qual for o lugar, é o lugar mais feliz do mundo para mim."
-

@@ -1,95 +1,86 @@
 [translation]
-1007403-1 = "como é"
+1007403-1 = "do jeito que é"
 
-1007403-2 = "(Pensei que estava explorando a base, mas me vi perdido nas profundezas da floresta)."
+1007403-2 = "(Pensei que estava dando uma volta pela base, mas antes que percebesse, já havia entrado na floresta.)"
 
-1007403-6 = "(O som da água pode ser ouvido à distância. Talvez haja uma cachoeira)."
+1007403-6 = "(O som da água pode ser ouvido à distância. Talvez haja uma cachoeira.)"
 
-1007403-7 = "Eu farei amor com você"
+1007403-7 = "♪～♬～♪～♬～"
 
-1007403-8 = "[ns1] \"Que música é essa ......? \"\n[ns2] \"Que voz é essa ......\?""
+1007403-8 = "[ns1] \"Que música é essa...?\"\n[ns2] \"Essa voz é...\""
 
-1007403-11 = ""
+1007403-11 = "♪～～～～♬♪～～♬～"
+1007403-15 = "[ns] Vá na direção da voz."
 
-1007403-15 = "[Dirija-se à voz."
+1007403-19 = "falta……"
 
-1007403-19 = "Oh, não. ......"
+1007403-20 = "……professor?"
 
-1007403-20 = "...... professor?"
+1007403-23 = "[wa:300]― [log=하나코 수영복]よく[wa:400]ここを[wa:500]見つけましたね。[/log]"
+1007403-25 = "― [log=하나코 수영복] Ou é [wa:1400] uma coincidência? [/registro]"
 
-1007403-23 = "[wa:300]- [log=하나코 수영복]Como [wa:400]você encontrou [wa:500]aqui? [/log]"
+1007403-28 = "[wa:200]― [log=하나코 수영복]先生のことですから……[/log]"
+1007403-30 = "― [log=하나코 수영복]Tenho certeza de que [wa:400] simplesmente era [wa:1400]. [/registro]"
 
-1007403-25 = "- [log=하나코 수영복]Ou é [wa:1400]coincidência? [/log]"
+1007403-33 = "[wa:200]― [log=하나코 수영복]ふふ……[wa:1700]そんなに[wa:500]慌てないで[wa:600]ください。[/log]"
+1007403-35 = "― [log=하나코 수영복]Estou usando roupas [wa:400] e [wa:1300]. [/registro]"
 
-1007403-28 = "[wa:200]- [log=하나코 수영복]Porque sou professor: ......[/log]"
+1007403-38 = "[wa:100]― [log=하나코 수영복]水の温度を、[wa:1600]感じたかったんです。[/log]"
+1007403-41 = "[wa:900]― [log=하나코 수영복]先生も……[wa:2700]こちらへ[wa:600]どう[wa:500]ぞ？[/log]"
+1007403-44 = "[wa:100]― [log=하나코 수영복]ここは……[/log]"
+1007403-46 = "― [log=하나코 수영복]Parece [wa:1200] exatamente o oposto [wa:2700] da Fonte da Trindade. [/registro]"
 
-1007403-30 = "- [log=하나코 수영복]Tenho certeza de que [wa:400]isso [wa:1400]simplesmente acontece. [/log]"
+1007403-49 = "[wa:1200]― [log=하나코 수영복]人影のない、[wa:2600]自然な姿……。[/log]"
+1007403-51 = "― [log=하나코 수영복]Sim. [wa:2700]Não estou usando nenhuma roupa, [wa:3400]Sou do jeito que sou. [/registro]"
 
-1007403-33 = "[wa:200]- [log=하나코 수영복]ff......[wa:1700]Não fique tão [wa:500]chateado[wa:600]. [/log]"
+1007403-54 = "[wa:500]― [log=하나코 수영복]だから、[wa:2100]それを一緒に[wa:1400]感じてほしくて。[/log]"
+1007403-56 = "― [log=하나코 수영복]... Até o professor [wa:2000] se você não se importa. [/registro]"
 
-1007403-35 = "- [log=하나코 수영복]Eu uso [wa:400]roupas apropriadas [wa:1300]portanto. [/log]"
+1007403-59 = "Hehe... Acho que você não pode vir aqui, afinal. #nBem, foi o que pensei..."
 
-1007403-38 = "[wa:100]- [log=하나코 수영복]Eu queria sentir a temperatura da água, [wa:1600]. [/log]"
+1007403-60 = "Acho que cada professor tem sua própria linha de demarcação."
 
-1007403-41 = "[wa:900]- [log=하나코 수영복]Os professores também podem visitar ......[wa:2700]aqui[wa:600]que tal[wa:500]? [/log]"
+1007403-61 = "No entanto, não há muitas oportunidades para nós dois passarmos um tempo juntos assim..."
 
-1007403-44 = "[wa:100]- [log=하나코 수영복]aqui: ......[/log]"
+1007403-62 = "Não é difícil? #n Mesmo tendo vindo para uma ilha deserta, você é muito cuidadoso."
 
-1007403-46 = "- [log=하나코 수영복]O [wa:2700]exato oposto [wa:1200] da fonte Trinity. [/log]"
+1007403-66 = "Em momentos como esse, eu queria ver as expressões no rosto dos professores que eles normalmente não mostram aos alunos..."
 
-1007403-49 = "[wa:1200]- [log=하나코 수영복]Sem pessoas, [wa:2600]natural. ...... [/log]"
+1007403-67 = "[s3] \"Não acho que seja difícil.\"\n[s4] \"Estou um pouco nervoso em me mostrar assim.\""
 
-1007403-51 = "- [log=하나코 수영복]Sim. [wa:2700]Eu não estou vestida com nada, [wa:3400]Eu sou do jeito que sou. [/log]"
+1007403-70 = "Hum... isso mesmo."
 
-1007403-54 = "[wa:500]- [log=하나코 수영복]Então [wa:2100]eu queria que você [wa:1400]sentisse isso comigo. [/log]"
+1007403-71 = "Às vezes sinto que meu professor está mantendo distância de mim..."
 
-1007403-56 = "- [log=하나코 수영복]...... até mesmo o professor, [wa:2000]se você quiser. [/log]"
+1007403-72 = "……foto?"
 
-1007403-59 = "Huh. ...... Eu sabia que você não poderia vir aqui. #nBem, eu tinha a sensação de que você viria. ......"
+1007403-73 = "Você está aliviado por eu parecer feliz...?"
 
-1007403-60 = "Os professores podem ter sua própria linha de demarcação."
+1007403-74 = "...Hehe."
 
-1007403-61 = "Mas não é todo dia que duas pessoas têm a chance de passar um tempo juntas dessa maneira. ......"
+1007403-75 = "…………."
 
-1007403-62 = "Não é difícil? #nTambém é difícil ficar tão tenso quando se chega a uma ilha deserta."
+1007403-76 = "Isso é o que há de errado comigo...#nPensei em dizer algo, mas esqueci♪"
 
-1007403-66 = "Eu gostaria de ter visto a expressão no rosto do professor, que normalmente não é mostrada aos alunos, pelo menos em momentos como esse. ......"
+1007403-77 = "……Concordo. O professor pode estar certo. #nDesde que cheguei a esta ilha tenho me divertido muito."
 
-1007403-67 = "[s3] \"Não acho que seja muito difícil. \"\n[s4] \"Acho que estou um pouco nervoso para mostrar esse tipo de aparência. \"\n[s3]""
+1007403-78 = "Ainda tenho coisas para fazer..."
 
-1007403-70 = "Hmmm. ...... Entendo."
+1007403-79 = "...O que é aquilo?"
 
-1007403-71 = "Às vezes me pergunto se meus professores estão se distanciando de mim. ......"
+1007403-80 = "Hehe... não consigo evitar. Você poderia me emprestar seu ouvido por um momento? #nSe outras crianças estivessem por perto, elas poderiam ouvir você..."
 
-1007403-72 = "...... O quê?"
+1007403-81 = "[s5] \"...?\"\n[s6] Vá em direção a Hanako."
 
-1007403-73 = "Está aliviado por eu parecer estar me divertindo ......?"
+1007403-87 = "...Hehe."
 
-1007403-74 = "...... phew."
+1007403-91 = "Ei♡"
 
-1007403-75 = "............."
+1007403-96 = "Hehehe, todos nós ficamos encharcados juntos."
 
-1007403-76 = "Esse é o tipo de coisa que é trapaça. ......#n Eu ia dizer algo, mas esqueci... ♪"
+1007403-97 = "...Professor, por favor fique quieto?"
 
-1007403-77 = "...... Sim, é isso mesmo. Talvez o médico esteja certo. #nAproveitei muito meu tempo aqui na ilha."
+1007403-98 = "Agora, finalmente..."
 
-1007403-78 = "Ainda há alguns assuntos pendentes. ......"
-
-1007403-79 = "...... Do que se trata?"
-
-1007403-80 = "...... Não tenho escolha. Poderia me emprestar seu ouvido por um momento? #nSe houver outras crianças por perto, elas poderão ouvi-lo. ......"
-
-1007403-81 = "[s5] \"......? \"\n[s6] Indo em direção a Hanako."
-
-1007403-87 = "...... phew."
-
-1007403-91 = "homem bonito"
-
-1007403-96 = "Hummm... nós nos demos bem e ficamos encharcados, não foi?"
-
-1007403-97 = "...... Doutor, por favor, fique parado?"
-
-1007403-98 = "Agora, finalmente, ......"
-
-1007403-99 = "Você chegou muito perto de mim."
+1007403-99 = "Você chegou perto de mim."
 

@@ -99,56 +99,106 @@
 10050005-122 = "Gosto de pessoas práticas. #nPor que não deixa a venda consignada conosco?"
 10050005-124 = "Hã...?"
 10050005-125 = "...Oi?"
-10050005-126 = "もちろん無料ではありませんよ。要は役割分担です。#nあなた方の同人誌の宣伝や通販の代行をうちがやって差し上げましょうということです。"
-10050005-127 = "その代わり収益の一部……手数料を頂戴します。いかがでしょう？"
-10050005-128 = "い、嫌っ！あんたと組んでまともだったことなんて一度たりともないんだけど！？"
-10050005-129 = "ま、待ってくださいメル先輩！これはヤクモ部長の話も一理あるかと……！"
-10050005-130 = "現状、自家通販だってほとんど動いていないですし……手を借りるのはアリだと思うんです。"
-10050005-131 = "在庫を抱えて共倒れになるよりはマシじゃないでしょうか？"
-10050005-132 = "それに、置き場所どうするんですか……本って重いですし、かさばるんですよ……？"
-10050005-134 = "おや、話が通じる人だ。いやぁ、こんな風に提案できる取引相手は貴重なんですよぉ？"
-10050005-135 = "ぐっ……悔しい……。でもたしかにモミジの言う通り、他に手はない……#nはぁ、分かった……やってやろうじゃないの！"
-10050005-136 = "よしよし、では契約書を作りましょうか。取り分は……9:1でいかがでしょう？"
-10050005-137 = "……念のため聞くけど、こっちが9だよね？"
-10050005-138 = "まさか？"
-10050005-139 = "だと思ったよ！このドロボー！！"
-10050005-141 = "部長！？いくらなんでもそれはやりすぎでは！？"
-10050005-143 = "レッドウィンターの通り"
-10050005-144 = "はぁ……なんとか契約できましたわね。"
-10050005-145 = "私たちは売上に応じて所定額を送る、と。"
-10050005-146 = "とはいえなかなかの量ですねぇ。まったく、どうするつもりだったんだか。"
-10050005-147 = "さて行きましょうかタカネ。我々出版部の底力を、見せつけてやりますよぉ！"
-10050005-152 = "そんな、まさか……！"
-10050005-157 = "1冊も売れませんでしたわね。"
-10050005-158 = "どうしてっ！？間違いなく、パーフェクトな戦略だったはずなのに！"
-10050005-159 = "私の所感ですが……メルリーさんの本は、それなりに面白いものの……。"
-10050005-160 = "レッドウィンターにおいては、目新しさに欠けるのでしょう。"
-10050005-161 = "特に今回はマニアックでもなければ大衆性にも欠けた、半端なものでしたから。"
-10050005-162 = "いくら面白い話でも3回聞けば飽きるものです。#nそれに多くの作家が扱えるテーマは1つと言われています。"
-10050005-163 = "優秀な人は二つのテーマを、天才は三つ以上のテーマをと。メルリーさんがこれまでいろんな味変を加えてきたのは間違いないでしょうが……。"
-10050005-164 = "少なくともレッドウィンターでは、それさえも慣れてしまった、といいますか……。"
-10050005-165 = "……ええ、いい指摘ですね。しかし、ここで根本的な問題が一つ。"
-10050005-166 = "？なんでしょうか？"
-10050005-168 = "レッドウィンターの生徒らの懐事情がキビシイということですっ！"
-10050005-169 = "そ、それを言っては元も子もないのでは？"
-10050005-170 = "ですが、人はお金がない時、まず文化生活から切り捨てていくものです。"
-10050005-171 = "部長……それでも出版部の人間ですか！？"
-10050005-172 = "理解しているからこそ！出版業をしているんじゃありませんか！"
-10050005-173 = "で、ですがそんな状況でも、なんとか活路を見い出すのが私たちの使命では……。"
-10050005-174 = "どうせ部費の半分以上は、チェリノ会長の宣伝と「レッドベア」の印刷費に回される運命ですよ！？"
-10050005-175 = "自分たちで言うことではありませんわね。#n「レッドベア」の編集長だって、粛清されてからまだ姿を見せておりませんし。"
-10050005-176 = "そうですね……「レッドベア」編集部の方々を出版部で拾ったりもしました。"
-10050005-177 = "はぁ……あの一件があるまでは、出版部もそこそこ回っていたはずなのですが……。"
-10050005-178 = "いえ、編集部を受け入れたことで、財政はぐんとよくなりましたよ？"
-10050005-179 = "その一方で、事務局の干渉を受けるようにはなってしまいましたが……。"
-10050005-180 = "ムフフ。タカネはそうかもしれませんね、評論家ですから。"
-10050005-181 = "ですが、出版部の経営を担っている私としては、現状もそんなに悪くありません。"
-10050005-182 = "まあそれはともあれ、問題の原因が判明したわけですし。"
-10050005-183 = "なんでしょうか？"
-10050005-184 = "それは――"
-10050005-185 = "余裕のない方々しかいない場所で稼ごうとしたことです！"
-10050005-186 = "レッドウィンターの財政状態が他学園より悪いのは、火を見るよりも明らか！"
-10050005-187 = "辛抱する木に金がなるとはいえ、我らに当てはまるとは限りません！"
+10050005-126 = "Claro que não é grátis. A chave é a divisão de papéis.#nGostaríamos de cuidar da publicidade do seu doujinshi e vendê-lo em seu nome."
+
+10050005-127 = "Em troca, cobraremos uma parte da receita... uma comissão. O que você acha?"
+
+10050005-128 = "Eu-eu odeio isso! Nunca me diverti trabalhando com você! ?"
+
+10050005-129 = "Ah, espere, Mel-senpai! Acho que o gerente Yakumo tem alguma verdade nisso...!"
+
+10050005-130 = "Atualmente, quase não existe nenhum negócio de vendas por correspondência em casa... Acho que seria uma boa ideia pedir ajuda."
+
+10050005-131 = "Não é melhor do que ter que manter estoque e ir à falência?"
+
+10050005-132 = "Além disso, onde devo colocá-lo... os livros são pesados ​​e volumosos...?"
+
+10050005-134 = "Ah, ele é alguém com quem posso conversar. Bom, ter um parceiro de negócios que possa fazer propostas como essa é valioso, não é mesmo?"
+
+10050005-135 = "Gah... isso é frustrante... Mas como diz Momiji, não há outra opção...#nAh, entendo... vamos lá!"
+
+10050005-136 = "Tudo bem, então vamos redigir um contrato. Que tal uma divisão de 9:1?"
+
+10050005-137 = "...Só para ter certeza, aqui é 9, certo?"
+
+10050005-138 = "Sem chance?"
+
+10050005-139 = "Eu pensei assim! Esse ladrão! !"
+
+10050005-141 = "Gerente! ? Não importa o que aconteça, é demais! ?"
+
+10050005-143 = "rua vermelha de inverno"
+
+10050005-144 = "Suspiro... consegui um contrato."
+
+10050005-145 = "Enviaremos um valor pré-determinado dependendo das vendas."
+
+10050005-146 = "No entanto, é uma quantia bastante grande. O que exatamente você estava planejando fazer?"
+
+10050005-147 = "Bem, vamos lá, Takane. Mostraremos o verdadeiro poder do nosso departamento editorial!"
+
+10050005-152 = "Eu nunca esperei isso...!"
+
+10050005-157 = "Não vendi um único livro."
+
+10050005-158 = "Por que! ? Foi definitivamente a estratégia perfeita!"
+
+10050005-159 = "Minha impressão é... O livro de Merly é interessante à sua maneira..."
+
+10050005-160 = "Red Winter provavelmente carece de novidades."
+
+10050005-161 = "Principalmente desta vez, foi estranho, nem maníaco nem popular."
+
+10050005-162 = "Não importa quão interessante seja uma história, você se cansará dela depois de ouvi-la três vezes.#nDiz-se que existe apenas um tema que a maioria dos escritores consegue abordar."
+
+10050005-163 = "Pessoas excelentes escolhem dois temas e os gênios escolhem três ou mais. Não há dúvida de que Merly adicionou muitos sabores diferentes ao longo dos anos..."
+
+10050005-164 = "Pelo menos em Red Winter, acho que você poderia dizer que me acostumei..."
+
+10050005-165 = "...Sim, esse é um bom ponto. No entanto, há um problema fundamental aqui."
+
+10050005-166 = "? O que é?"
+
+10050005-168 = "A situação financeira dos alunos do Red Winter é terrível!"
+
+10050005-169 = "Bem, não seria inútil dizer isso?"
+
+10050005-170 = "No entanto, quando as pessoas não têm dinheiro, a primeira coisa que fazem é cortar a sua vida cultural."
+
+10050005-171 = "Diretor... você ainda é do departamento editorial? ?"
+
+10050005-172 = "Porque você entende! Você não está no ramo editorial?"
+
+10050005-173 = "Mas mesmo em tal situação, nossa missão é de alguma forma encontrar uma saída..."
+
+10050005-174 = "Em qualquer caso, mais de metade das despesas do clube destinam-se aos custos de publicidade e impressão do Presidente Cellino do \"Urso Vermelho\"! ?"
+
+
+10050005-175 = "Não é isso que dizemos nós mesmos.#n「レッドベア」の編集長だって、粛清されてからまだ姿を見せておりませんし。"
+
+10050005-176 = "Bem... eu também peguei pessoas do departamento editorial do Red Bear no departamento de publicação."
+
+10050005-177 = "Suspiro... até aquele incidente, o departamento editorial devia estar funcionando muito bem..."
+
+10050005-178 = "Não, ao aceitar a redação minhas finanças melhoraram muito, não foi?"
+
+10050005-179 = "Por outro lado, comecei a receber interferência da secretaria..."
+
+10050005-180 = "Hummm. Isso pode ser verdade para Takane, já que ele é um crítico."
+
+10050005-181 = "Porém, como responsável pela gestão de um departamento editorial, a situação atual não é tão ruim."
+
+10050005-182 = "Bem, de qualquer forma, a causa do problema foi encontrada."
+
+10050005-183 = "O que é?"
+
+10050005-184 = "isso é--"
+
+10050005-185 = "Eu estava tentando ganhar dinheiro em um lugar onde só havia pessoas que não tinham dinheiro para isso!"
+
+10050005-186 = "É óbvio que a situação financeira da Red Winter é pior do que a de outras escolas!"
+
+10050005-187 = "Embora haja dinheiro na árvore da paciência, ele não se aplica necessariamente a nós!"
 
 10050005-188 = "I-isso é verdade, mas não haveria outras coisas que poderíamos fazer...?"
 10050005-189 = "Sim, com certeza há."

@@ -1,275 +1,148 @@
 [translation]
 103030-1 = "Episódio 3; Método"
-
 103030-2 = "Uma altitude de 75.000 metros... é uma questão bastante difícil."
-
 103030-3 = "Por outro lado, como isso existe aí..."
-
 103030-4 = "Além disso, é impossível atacarmos nessa altitude agora."
-
 103030-8 = "Diretor, você tem alguma boa ideia?"
-
 103030-9 = "Já estou dizendo que está fora da minha jurisdição...#nSomos hackers, não engenheiros."
-
 103030-10 = "Além disso, mesmo que você tente analisar sua estrutura, ela é coberta por uma membrana misteriosa, impossibilitando ver o que há dentro."
-
 103030-14 = "Bem... em momentos como este, vamos confiar no legado da Big Sister."
-
 103030-16 = "O legado do presidente?"
-
 103030-17 = "Sim. Entre as “contramedidas” que aquela pessoa preparou para evitar o fim do mundo... algumas delas assumiram ameaças do céu."
-
 103030-18 = "Chi-chan, quero usar a arma que encontrei em Eridu, então posso pedir para você hackeá-la? Eu mesmo farei os preparativos."
-
 103030-19 = "...É o mesmo míssil, certo? Eu realmente não gosto disso, mas"
-
 103030-20 = "entendido. #nTalvez eu consiga fazer isso."
-
 103030-21 = "Vou contar aos outros membros."
-
 103030-23 = "Além disso, acho que precisamos da cooperação do departamento de engenharia."
-
 103030-25 = "entendido. Vamos nos preparar para isso também."
-
 103030-26 = "obrigado. #nVamos tentar tudo o que pudermos."
-
 103030-28 = "Droga...entregue...! !"
-
 103030-31 = "Faltam 2.000m..."
-
 103030-34 = "1.000m……500m……"
-
 103030-38 = "Alvo, as coordenadas especificadas foram alcançadas! #nO que você acha? Você acertou a marca? ?"
-
 103030-40 = "Sala do departamento de engenharia"
-
 103030-42 = "...Não, eu passei."
-
 103030-43 = "Ah, de novo! ?"
-
 103030-44 = "Distância até o alvo, 1.000m...1.500m..."
-
 103030-45 = "Está ficando cada vez mais longe."
-
 103030-46 = "Suspiro...este foi meu último recurso...#nÉ como se eu estivesse lidando com uma ilusão."
-
 103030-48 = "……."
-
 103030-49 = "As medidas deixadas pelo presidente foram inúteis?"
-
 103030-50 = "Sim... parece que não podemos interferir fisicamente nessa coisa."
-
 103030-51 = "Aquele míssil de cruzeiro parecia ter um desempenho que ultrapassava as capacidades tecnológicas do Millennium...#nNão acredito que ainda não sirva..."
-
 103030-52 = "Quero dizer, onde o presidente conseguiu algo assim?"
-
 103030-54 = "Suspiro... acho que é inútil."
-
 103030-55 = "Se não for fisicamente afetado, não há nada que o departamento de engenharia possa fazer."
-
 103030-56 = "...Talvez este também. Esse foi o último trunfo que encontrei em Eridu..."
-
 103030-57 = "Himari, há mais alguma coisa que você possa fazer?"
-
 103030-59 = "Não... por enquanto."
-
 103030-60 = "Suspirar..."
-
 103030-61 = "...Você pode realmente dizer que ela era como uma irmã mais velha até o fim?"
-
 103030-62 = "Ela tinha pouca utilidade para ela até agora, até mesmo uma herança."
-
 103030-63 = "Hum... por que você não para de tratar o presidente como se ele tivesse partido! ?"
-
 103030-64 = "Ela fez exatamente isso. #nNa verdade, mesmo sendo esse o caso, eles nem aparecem."
-
 103030-65 = "Bem... é verdade que o presidente fez muitas coisas..."
-
 103030-66 = "De qualquer forma, tenho que pensar no meu próximo passo."
-
 103030-68 = "Existe alguma outra maneira...?"
-
 103030-69 = "Suspirar..."
-
 103030-70 = "É como se você estivesse preso por todos os lados."
-
 103030-77 = "Eu estava olhando os dados do Sanctum que a Millennium analisou..."
-
 103030-82 = "Você pode ter descoberto que fenômeno está ocorrendo nessa estrutura."
-
 103030-87 = "Hmm... posso te perguntar mais detalhes?"
-
 103030-100 = "O padre da Irmandade, o bibliotecário da antiga livraria -- e o Tea Party... #n Depois de reunir as informações de cada um e proceder à interpretação, levantamos uma hipótese."
-
 103030-101 = "No entanto, esta é apenas uma hipótese e não foi realmente verificada. #nAinda está tudo bem?"
-
 103030-102 = "Sem problemas. #nDe qualquer forma, enquanto a interferência física não for possível, a verificação não será possível."
-
 103030-103 = "Para finalizar, a Torre do Santuário que apareceu pela segunda vez e a estrutura acima de Kivotos..."
-
 103030-107 = "...Parece que está ocorrendo uma espécie de “coexistência de estados”."
-
 103030-112 = "Eu vejo……."
-
 103030-113 = "Huh? #nIsso é sobre mecânica quântica...?"
-
 103030-115 = "Não, apenas usei a teoria mais próxima como exemplo para facilitar a compreensão desse fenômeno."
-
 103030-116 = "Com isso em mente, por favor, ouça."
+103030-117 = "Essa é uma interpretação de muitos mundos - ou é correto dizer \"interpretação [ruby = ・ ・ ・] multidimensional [/ ruby]\"? Com base nessa teoria, é provável que seja uma existência probabilística."
 
-103030-117 = "Essa é uma interpretação de muitos mundos - ou é correto dizer "interpretação [ruby = ・ ・ ・] multidimensional [/ ruby]"? Com base nessa teoria, é provável que seja uma existência probabilística."
 
 103030-118 = "Interpretação multidimensional significa..."
-
 103030-119 = "Hmm... a interpretação de muitos mundos é a hipótese de que o universo divergirá tantas vezes quantas forem as possibilidades, certo?"
-
 103030-120 = "Ah, mas talvez seja diferente se for uma interpretação multidimensional..."
-
 103030-121 = "--Em outras palavras, a probabilidade de jogar uma moeda e obter cara é de 50%. #nE apenas um resultado aparece neste mundo."
-
-103030-122 = "Porém, existe a possibilidade de que exista um mundo em que o resultado oposto seja obtido, apenas porque não pode ser observado. Uma teoria que interpreta todos esses "mundos de possibilidades" como reais..."
+103030-122 = "Porém, existe a possibilidade de que exista um mundo em que o resultado oposto seja obtido, apenas porque não pode ser observado. Uma teoria que interpreta todos esses \"mundos de possibilidades\" como reais..."
 
 103030-124 = "Ahaha! Que tipo de mundo paralelo você costuma ver na ficção científica?"
-
 103030-125 = "O mundo se ramifica toda vez que você joga uma moeda? (crocante)"
-
 103030-126 = "No entanto, a teoria em si é baseada na ciência."
-
 103030-128 = "E nesse espaço todas essas possibilidades se misturam sem se ramificarem."
-
 103030-129 = "...Um espaço caótico onde a realidade e a inexistência num espaço multidimensional em expansão infinita se misturam."
-
 103030-130 = "É provavelmente por isso que a intervenção física de um mundo cuja existência foi confirmada não é possível."
-
 103030-131 = "Você pode observá-lo, mas não pode interferir nele..."
-
 103030-132 = "Eu me pergunto se existe alguma maneira..."
-
 103030-135 = "Prevejo que talvez apenas a membrana circundante esteja nesse estado."
-
 103030-136 = "Se o estado da própria estrutura interna for instável, não deverá ser possível transmitir energia para cada santuário."
-
 103030-137 = "...Em outras palavras, isso é uma barreira."
-
 103030-138 = "A invencível multidimensionalidade da “coexistência de estados” é implantada como uma barreira, protegendo-a de todas as leis da física."
-
 103030-140 = "Entendo... se for esse o caso, certamente faz sentido."
-
 103030-141 = "sim. E se conseguirmos destruir essa barreira..."
-
 103030-142 = "Talvez também seja possível atacar o corpo principal."
-
 103030-144 = "Eu entendo a lógica, mas como...?"
-
 103030-145 = "Se essa teoria estiver correta, existem soluções."
-
-103030-146 = "Isso também deve estar no mesmo estado daquela barreira [ruby=・ ・ ・ ・][/ruby]."
-
+103030-146 = "Isso também deve estar no mesmo estado daquela barreira ."
 103030-147 = "Mesma situação...?"
+103030-148 = "Entendo... se você considerar a \"coexistência de estados\" que ocorre naquele espaço multidimensional como uma espécie de valor vibracional..."
 
-103030-148 = "なるほど……あの多次元空間で繰り広げられている「状態の共存」を、一種の振動値と捉えるのなら――"
 
 103030-149 = "Se um objeto tiver o mesmo padrão de vibração do alvo, ele não será afetado por ele..."
-
 103030-150 = "sim. Se estiverem no mesmo estado, ambos existirão no “mesmo espaço”, independentemente das probabilidades internas multidimensionais ou da coexistência de estados."
-
 103030-151 = "Isso é... cancelamento de ruído?"
-
 103030-152 = "Bem... você poderia dizer que está muito próximo disso."
-
 103030-154 = "Se analisarmos esse estado multidimensional e alcançarmos um estado semelhante...#n, podemos neutralizar a barreira..."
-
 103030-155 = "Mas como..."
-
 103030-156 = "Se realmente quiséssemos fazer isso, teríamos que ser capazes de calcular uma “interpretação multidimensional”."
-
 103030-157 = "Você pode fazer isso?"
-
 103030-158 = "Hum..."
-
 103030-160 = "...Isso atualmente não é possível."
-
 103030-161 = "Cálculos de interpretação multidimensional não são possíveis a menos que sejam usados ​​computadores quânticos."
-
 103030-162 = "Isso significa que não podemos fazer nada agora?"
-
-103030-163 = "Ele está tentando fazer com que "Sanctum of Illusion" apareça novamente, mas tudo o que podemos fazer é assistir...?"
+103030-163 = "Ele está tentando fazer com que \"Sanctum of Illusion\" apareça novamente, mas tudo o que podemos fazer é assistir...?"
 
 103030-169 = "……."
-
 103030-170 = "Mesmo que o Santuário que reapareceu tenha sido destruído..."
-
 103030-171 = "A menos que façamos algo a respeito do culpado, Sanctum aparecerá da mesma forma."
-
 103030-173 = "Assim..."
-
 103030-174 = "Pois bem, não importa o quanto brigamos..."
-
 103030-176 = "Isso significa que você pode criar a Torre do Santuário repetidamente?"
-
 103030-177 = "Não... isso não pode acontecer!"
-
 103030-178 = "Para onde foi a primeira lei da termodinâmica? ?"
-
 103030-179 = "Suspiro... Se a outra pessoa for “multidimensional”, então tudo é possível."
-
 103030-181 = "……."
-
-103030-182 = "Bem, o que diabos eu deveria fazer? #n方法が分かったって、解決できないなら意味ないじゃん……"
+103030-182 = "Bem, o que diabos eu deveria fazer? #nMesmo que você conheça o método, não adianta se você não consegue resolver o problema..."
 
 103030-183 = "……."
-
 103030-184 = "...Quero dizer, o quê?"
-
-103030-185 = "E o professor?"
-
+103030-185 = "E o sensei?"
 103030-189 = "Ah, isso...? #nEu estive lá há um tempo..."
-
 103030-196 = "...Se existe uma maneira, existe."
-
 103030-197 = "[s] \"...Roupas pretas.\""
-
-103030-198 = "Se for esse o caso, você poderá entrar em contato com [ruby=Prenapates]The Color Leader[/ruby]."
-
+103030-198 = "Se for esse o caso, você poderá entrar em contato com The Color Leader."
 103030-199 = "[s] \"...O que devo fazer?\""
-
 103030-200 = "Fufufu..."
-
-103030-201 = "Bem... que tipo de "compensação" você vai me pagar? professor."
+103030-201 = "Bem... que tipo de \"compensação\" você vai me pagar? sensei."
 
 103030-202 = "Ah... entendo..."
-
 103030-203 = "O próprio ato de me perguntar agora significa que estou preparado para oferecê-lo, não importa o preço."
-
 103030-204 = "Sua atitude é que ele está disposto a cooperar com a “Gematria” se necessário..."
-
 103030-205 = "[s] \"………….\""
-
-103030-206 = "Kukkukkukkkkkkkkkkkkkkkkkkkkkkkkkk  ok, o que devo pedir...#nBem, que tal entrar na "Gematria"?"
+103030-206 = "Kukkukkukkkkkkkkkkkkkkkkkkkkkkkkkk  ok, o que devo pedir...#nBem, que tal entrar na \"Gematria\"?"
 
 103030-207 = "Kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk então estou só brincando."
-
 103030-208 = "Gematria já foi dissolvida. #nDesta vez vou te contar algo especial."
-
 103030-214 = "...Antes disso, gostaria de avisar."
-
 103030-215 = "[NOME DE USUÁRIO] Seu corpo sofrerá danos irreparáveis ​​no momento em que você usar isto."
-
 103030-216 = "Você nunca poderá voltar a ser como era antes. #n――Até a morte é possível."
-
 103030-217 = "--Isso ainda está bem?"
-
 103030-219 = "[ns] \"――Não importa.\""
-
 103030-221 = "Mesmo que o resultado seja mais claro do que observar o fogo?"
-
 103030-222 = "……."
-
 103030-223 = "...Ok, deixe-me dizer a você."
+103030-229 = "O \"método\" é..."
 
-103030-229 = "O "método" é..."
-
-103030-231 = "--Está localizado em [ruby=・ ・ ・ ・]Abidos[/ruby]."
-
-103030-233 = "Próxima vez; Coisas em Abidos (1)"
-
+103030-231 = "--Está localizado em Abydos."
+103030-233 = "Próxima vez; Coisas em Abydos (1)"

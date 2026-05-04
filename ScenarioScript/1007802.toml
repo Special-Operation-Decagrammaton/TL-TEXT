@@ -1,139 +1,131 @@
 [translation]
 1007802-1 = "Kinugawa Kasumi"
 
-1007802-2 = "(Quando visitei o local para onde Kasumi havia me enviado, encontrei um prédio que estava mostrando sua idade)."
+1007802-2 = "(Quando visitei o local que Kasumi me enviou, encontrei lá um prédio antigo.)"
 
-1007802-6 = "...... Oh, você é um visitante?"
+1007802-6 = "...Ei, você é um cliente?"
 
-1007802-7 = "...... Não, você é um professor! Bem na hora, não é? #nTalvez estejamos na mesma sintonia."
+1007802-7 = "...Não, é o professor! Não é o momento certo? #nTalvez estejamos na mesma sintonia."
 
-1007802-8 = "Professor! Por aqui, por aqui! Venham logo!"
+1007802-8 = "professor! Por aqui, por aqui! Por favor, venha rápido! !"
 
-1007802-9 = "[s1] \"Eu estava ali, estou indo. \"\n[s2] Estou indo em direção à voz."
+1007802-9 = "[s1] \"Eu estava lá, vou agora.\"\n[s2] Vá na direção da voz."
 
-1007802-17 = "Professor!"
+1007802-17 = "professor! !"
 
-1007802-18 = "Por aqui, por aqui!"
+1007802-18 = "É por aqui, por aqui!"
 
-1007802-19 = "Não, seus passos estão ficando mais distantes! #nNão é por aí, é por aqui!"
+1007802-19 = "Não, os passos estão ficando longe! #nNão é isso, é isso! !"
 
-1007802-22 = "[wa:500]- [log=카스미]Ha[wa:500] hahaha! [/log]"
+1007802-22 = "[wa:500]― [log=카스미]ハー[wa:500]ハッハッハッハ！[/log]"
+1007802-24 = "― [log=카스미]Você veio ao lugar certo [wa:400]! [/registro]"
 
-1007802-24 = "- [log=카스미]Você acabou de [wa:400]chegar ao lugar certo! [/log]"
+1007802-27 = "― [log=카스미]Bem-vindo, [wa:700]Sensei. [/registro]"
 
-1007802-27 = "- [log=카스미]Bem-vindo, [wa:700]senhor. [/log]"
+1007802-29 = "― [log=카스미]Este é meu [wa:800]86º [wa:900] esconderijo secreto. [/registro]"
 
-1007802-29 = "- [log=카스미]Este é o meu [wa:800]86º[wa:900] esconderijo secreto. [/log]"
+1007802-32 = "[wa:600]― [log=카스미]ここで[wa:300]何をしているのかって？[/log]"
+1007802-35 = "― [log=카스미]Essa é uma pergunta estúpida, professor. [/registro]"
 
-1007802-32 = "[wa:600]- [log=카스미]O que você [wa:300]está fazendo aqui? [/log]"
+1007802-37 = "― [log=카스미]A única coisa que faço é [wa:1100]. [/registro]"
 
-1007802-35 = "- [log=카스미]Essa é uma pergunta tola, senhor. [/log]"
+1007802-40 = "[wa:100]― [log=카스미]す[wa:200]な[wa:200]わ[wa:200]ち……[/log]"
+1007802-42 = "― [log=카스미]Procurando por novos [wa:400] pontos de fontes termais! [/registro]"
 
-1007802-37 = "- [log=카스미]A única coisa que faço [wa:1100] é. [/log]"
+1007802-45 = "[ns3] \"Ponto de fonte termal?\"\n[ns4] \"Isso significa...\""
 
-1007802-40 = "[wa:100]- [log=카스미]Su[wa:200]na[wa:200]wa[wa:200]chi ......[/log]"
+1007802-46 = "[wa:300]― [log=카스미]ハハッ、[wa:700]先生。[/log]"
+1007802-47 = "[wa:300]― [log=카스미]ハハッ、[wa:700]先生。[/log]"
+1007802-49 = "[wa:150]― [log=카스미]話が早くて[wa:700]助かるな。[/log]"
+1007802-52 = "― [log=카스미]Ah, [wa:500]Isso mesmo. [/registro]"
 
-1007802-42 = "- [log=카스미]Eles estão procurando por novos [wa:400]pontos de spa! [/log]"
+1007802-54 = "- [log=카스미]Eles marcaram o local real da explosão em [wa:1100]. [/registro]"
 
-1007802-45 = "[ns3] \"Onsen Point? \"\n[ns4] \"É isso que quero dizer: ......\""
+1007802-57 = "[wa:1100]― [log=카스미]ふむ……[wa:1100]ここが良いだろうか？[/log]"
+1007802-59 = "― [log=카스미]Não...[wa:800]Esse também é muito bom...[/log]"
 
-1007802-46 = "[wa:300]- [log=카스미]Hahaha, [wa:700]Professor. [/log]"
+1007802-62 = "[wa:1400]― [log=카스미]なんだ、[wa:400]先生？[wa:1200]何故そんな目で私を見る？[/log]"
+1007802-64 = "- [log=카스미]Aconteceu alguma coisa [wa:700]? [/registro]"
 
-1007802-47 = "[wa:300]- [log=카스미]Hahaha, [wa:700]Professor. [/log]"
+1007802-67 = "Gostaria de ouvir a opinião do professor também."
 
-1007802-49 = "[wa:150]- [log=카스미]Você está falando rápido e [wa:700]prestativo. [/log]"
+1007802-68 = "Escolher um local é sempre novo e emocionante, mas...#nÀs vezes quero uma perspectiva diferente!"
 
-1007802-52 = "- [log=카스미]Sim, [wa:500]é isso mesmo. [/log]"
+1007802-69 = "Claro que não é para todos, certo? #n Quero sua opinião!"
 
-1007802-54 = "- [log=카스미]Eles estavam [wa:1100]próximos ao local onde realmente iriam explodir. [/log]"
+1007802-70 = "...?"
 
-1007802-57 = "[wa:1100]- [log=카스미]Hmmm ......[/log][wa:1100] este seria um bom lugar? [/log]"
+1007802-71 = "Por que você está aqui em primeiro lugar? #nPor que “O 86º esconderijo secreto deste mês”?"
 
-1007802-59 = "- [log=카스미]Não. ......[wa:800] Este é bastante ......[/log]"
+1007802-72 = "Hahahahaha! É uma coisa estranha de se ouvir, professor! #nIsso é porque eu sou a pessoa procurada."
 
-1007802-62 = "[wa:1400]- [log=카스미]O que, [wa:400]senhor? [wa:1200]Por que está me olhando desse jeito? [/log]"
+1007802-73 = "Sou procurado na Geena."
 
-1007802-64 = "- [log=카스미]Algo [wa:700]deu errado? [/log]"
+1007802-74 = "Além disso, fazer planos exige concentração..."
 
-1007802-67 = "Pensei em pedir a opinião do professor, se você quiser."
+1007802-75 = "É assim que você se prepara em um lugar tranquilo."
 
-1007802-68 = "Escolher um lugar é sempre novo e empolgante, mas ......#n às vezes eu só quero outra perspectiva!"
+1007802-76 = "Bem, não se preocupe com os detalhes! #nO importante é o plano, o plano!"
 
-1007802-69 = "É claro que não pode ser qualquer um, não é mesmo? Quero a opinião do #n[ruby= ・・・・]professor[/ruby]!"
+1007802-77 = "Pois bem, vou listar os locais candidatos agora, então você poderia dar sua opinião?"
 
-1007802-70 = "......?"
+1007802-78 = "Agora... qual..."
 
-1007802-71 = "Em primeiro lugar, por que estamos aqui? #nPor que o '86º Esconderijo Secreto do Mês'?"
+1007802-79 = "Como é aqui? No subsolo de uma loja de departamentos!"
 
-1007802-72 = "Har-har-har! Você faz perguntas estranhas, doutor! #n Isso é porque sou um homem procurado."
+1007802-80 = "foto? É um pouco estranho? #nEntendo. Hmm... isso pode ser verdade."
 
-1007802-73 = "Sou procurado na Gehenna."
+1007802-81 = "Então e aqui? Estação de transferência de metrô! #nComo já está minerado, o valor do investimento pode ser reduzido!"
 
-1007802-74 = "Além disso, é preciso muita concentração para planejar. ......"
+1007802-82 = "Huh? Você está procurando um lugar mais fresco? #nUmmmm..."
 
-1007802-75 = "Portanto, é assim que eles estão se preparando em um lugar tranquilo."
+1007802-83 = "Isso mesmo... hummm..."
 
-1007802-76 = "Bem, não se preocupe com os detalhes! #nO que importa é o plano, o plano!"
+1007802-84 = "Mmmmmmmmm! !"
 
-1007802-77 = "Ok, agora vou citar alguns sites em potencial, e o professor pode me dar sua opinião."
+1007802-86 = "(Depois disso, Kasumi continua sugerindo áreas densamente povoadas e áreas com tráfego intenso...)"
 
-1007802-78 = "Vamos lá, ...... que ......"
+1007802-87 = "(Tentei levá-los para um local com menos trânsito, mas não saiu como planejado...)"
 
-1007802-79 = "E aqui? No porão de uma loja de departamentos!"
+1007802-89 = "Hum...!"
 
-1007802-80 = "Não? Um pouco sutil? #n Estou vendo. Hm. ...... Sim, pode ser."
+1007802-90 = "O professor é muito cuidadoso. Isso não é bom, isso também não é bom..."
 
-1007802-81 = "Então, que tal aqui? Estação de transferência de metrô! #nEles já estão escavados, então o investimento é baixo!"
+1007802-91 = "Mas nada mais é possível. #nNão consigo mais controlar esse desejo!"
 
-1007802-82 = "E? Você acha que devemos procurar lugares mais frescos? #n u~m ......"
+1007802-92 = "Este local é o último local candidato!"
 
-1007802-83 = "Sim. ...... Hmmm ......"
+1007802-93 = "OK! Vamos aqui. Mesmo que o professor se oponha, eu farei isso! #nTodos os locais candidatos foram rejeitados! Este é o único lugar que resta!"
 
-1007802-84 = "Mmmmmm~!"
+1007802-94 = "O lugar é..."
 
-1007802-86 = "(Depois disso, Kasumi continuará a sugerir áreas densamente povoadas e áreas de alto tráfego, portanto ......)"
+1007802-95 = "[s5] \"O-Onde é esse lugar...?\"\n[s6] Engoli em seco."
 
-1007802-87 = "(De alguma forma, eles tentam conduzi-la a um lugar menos movimentado, mas não funciona da maneira que eles querem. ......)"
+1007802-98 = "...Mesmo aqui! !"
 
-1007802-89 = "Mumu ......!"
+1007802-102 = "[ns7] \"Este é... o terreno baldio de Sorayama...?\"\n[ns8] \"Bom, isso é...\""
 
-1007802-90 = "Os professores são muito cuidadosos. Esse não, esse não. ......"
+1007802-105 = "Hahahahaha! ! ! O que aconteceu com aquele rosto? #nVocê parece meio aliviado!"
 
-1007802-91 = "Mas não posso ir mais longe. #Agora não posso mais controlar essa ganância!"
+1007802-106 = "No mínimo, a resposta foi melhor do que antes."
 
-1007802-92 = "Este local é o último candidato!"
+1007802-107 = "aqui vamos nós! O que você acha, senhor? Está tudo bem aqui? #nAcho que você também não vai dizer não dessa vez, certo?"
 
-1007802-93 = "Muito bem! Vamos para cá. Eu vou fazer isso mesmo que o professor não concorde! #nNós tivemos todos os locais em potencial rejeitados! Este é o único lugar que resta!"
+1007802-108 = "[s9] \"Acho que está tudo bem aqui.\"\n[s10] Ku."
 
-1007802-94 = "Está localizado em ......"
+1007802-111 = "OK! No final, finalmente chegamos a um consenso!"
 
-1007802-95 = "[s5] \"\"\"\"\"\"\"\"}O lugar é ......? \"\"\n[s6] Engula e cuspa."
+1007802-112 = "Agora vamos nos preparar! #nEntrarei em contato novamente com os resultados!"
 
-1007802-98 = "...... Aqui está!"
+1007802-113 = "É um ótimo site candidato, não importa quantas vezes eu olhe! #nHmm...satisfeito! satisfação!"
 
-1007802-102 = "[ns7] \"Esta é a ...... clareira vazia da montanha ......? \"\n[ns8] \"Bom, este é o lugar para ir ......\.""
+1007802-114 = "Como forma de agradecimento por se juntar a nós, vamos trazer-lhe um bom relatório! #nSe for esse o caso, por favor, com licença!"
 
-1007802-105 = "Ha-ha-ha-ha-ha! O que há de errado com seu rosto? Você parece um pouco aliviado!"
+1007802-125 = "Ops, quase esqueci meu mapa."
 
-1007802-106 = "Pelo menos a resposta está melhor do que tem sido, graças a Deus."
+1007802-126 = "Então..."
 
-1007802-107 = "Vamos lá! O que o senhor acha, doutor? Vamos ficar bem aqui, não vamos? #Não me diga que você também é contra desta vez?"
+1007802-127 = "Também! !"
 
-1007802-108 = "[s9] \"Acho que ficaremos bem aqui. \"\n[s10] [ruby=nod] Nod [/ruby]nod."
-
-1007802-111 = "OK! No final das contas, finalmente concordamos em alguma coisa!"
-
-1007802-112 = "Então, vamos começar os preparativos! Entrarei em contato com vocês com os resultados do #n!"
-
-1007802-113 = "Ótimo site de candidatos, não importa quantas vezes eu o veja! #numm...... satisfeito! Satisfação!"
-
-1007802-114 = "Eu lhe trarei um bom relatório para agradecê-lo por me fazer companhia! #nCom licença, então!"
-
-1007802-125 = "Ops, quase esqueci o mapa por acidente."
-
-1007802-126 = "Agora vá para ......"
-
-1007802-127 = "Também!"
-
-1007802-133 = "(...... suspirando de alívio ao olhar para o lugar onde Kasumi estava sentada antes)"
+1007802-133 = "(... dei um suspiro de alívio ao olhar para o lugar onde Kasumi estava sentada há pouco.)"
 

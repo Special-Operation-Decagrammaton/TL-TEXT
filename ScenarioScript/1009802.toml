@@ -1,335 +1,171 @@
 [translation]
 1009802-1 = "Herói, nascido"
-
 1009802-8 = "(Hoshino foi contatado e se dirigiu a Abydos)"
-
 1009802-13 = "Umm ...... aqui estão os valores previstos e aqui estão os valores-alvo?"
-
 1009802-14 = "Todos esses números fazem minha cabeça doer!"
-
 1009802-15 = "[s1] \"...... Talvez você esteja cuidando da papelada? \"\n[s2] \"É incomum estar cercado de papelada. "
-
 1009802-20 = "Ah, doutor!"
-
 1009802-21 = "Você já esteve aqui?"
-
 1009802-22 = "Obrigado por sua ajuda!"
-
 1009802-23 = "[\"Parecia que você estava com problemas. \""
-
 1009802-24 = "Uhe~, eu o deixei preocupado?"
-
 1009802-25 = "Desculpe, desculpe."
-
 1009802-26 = "[\"Posso ajudá-lo com a papelada, não posso? \""
-
 1009802-30 = "Oh, como você sabia disso?"
-
 1009802-31 = "Tio ......, ele procurou tanto assim?"
-
 1009802-32 = "Bem, você está certo."
-
-1009802-33 = "Como você sabe, professor, #n, muitas coisas aconteceram em Abydos recentemente, não é mesmo?"
-
+1009802-33 = "Como você sabe, sensei, #n, muitas coisas aconteceram em Abydos recentemente, não é mesmo?"
 1009802-34 = "É por isso que tenho toda essa papelada acumulada."
-
 1009802-35 = "......Beh, não é como se o tio o tivesse deixado em apuros."
-
 1009802-36 = "[s]\"......Por que Hoshino está sozinho? \""
-
 1009802-37 = "Ahhh."
-
 1009802-38 = "Na verdade, eu disse que faria isso sozinho."
-
 1009802-39 = "A culpa é do meu tio por eu ter acumulado tanta papelada."
-
 1009802-40 = "Porque vocês sempre foram muito bons para mim."
-
 1009802-42 = "Então eu disse: 'Se você quiser fazer a papelada, meu tio fará'."
-
 1009802-43 = "Achei que conseguiria lidar com isso, como costumava fazer. ......"
-
 1009802-44 = "Essa quantidade era de fato muito exigente."
-
 1009802-45 = "[\"É por isso que eles entraram em contato comigo. \""
-
 1009802-46 = "Uhe~."
-
 1009802-47 = "É difícil dizer #não me ajude agora depois que eu disse que faria isso sozinho, não é?"
-
 1009802-48 = "Mas se eu tivesse tudo para mim e não terminasse dentro do prazo, isso seria um problema para #n todo mundo."
-
-1009802-49 = "Gostaria de saber se um professor poderia me ajudar nisso."
-
+1009802-49 = "Gostaria de saber se um sensei poderia me ajudar nisso."
 1009802-50 = "Eu lhe agradecerei adequadamente mais tarde, então você pode me ajudar com meu tio ......?"
-
 1009802-51 = "[\"É claro, estou acostumado a fazer a papelada. \""
-
 1009802-52 = "De verdade!"
-
-1009802-53 = "Obrigado, professor!"
-
+1009802-53 = "Obrigado, sensei!"
 1009802-55 = "[ns] \"\" mas ....... \""
-
 1009802-59 = "[\"Vou me certificar de que receberei um agradecimento adequado, não é? \""
-
 1009802-60 = "Espere, seus olhos são um pouco assustadores, doutor."
-
 1009802-61 = "Que ordens você vai dar ao seu tio ......?"
-
 1009802-62 = "Hmmm."
-
-1009802-66 = "Bem, isso não pode ser evitado se você não tiver a ajuda de um professor para terminar em primeiro lugar."
-
+1009802-66 = "Bem, isso não pode ser evitado se você não tiver a ajuda de um sensei para terminar em primeiro lugar."
 1009802-67 = "[\"Então, o que devo fazer primeiro? \""
-
 1009802-71 = "Solicitação do relatório de receitas e despesas!"
-
 1009802-72 = "Não, eu nem cheguei a fazer o gráfico de controle de estoque. ......"
-
 1009802-79 = "(E assim começou a ajudar Hoshino com sua papelada)."
-
 1009802-85 = "[ns] \"Is this the end? \""
-
 1009802-86 = "......."
-
 1009802-87 = "Isso é ótimo, senhor!"
-
 1009802-88 = "Se fosse apenas meu tio, com certeza teria levado três dias!"
-
 1009802-89 = "Estou feliz por ter procurado o médico, afinal!"
-
 1009802-90 = "[\"Se for uma papelada, eu a faço o tempo todo. \""
-
 1009802-91 = "Vejo que você é realmente um adulto."
-
 1009802-92 = "Não - foi muito útil."
-
 1009802-93 = "Obrigado, doutor."
-
 1009802-94 = "[De nada. \""
-
 1009802-98 = "[ns] \"So, thanks for that. ....... \""
-
 1009802-102 = "U, uhe~. #n Eu sabia que isso aconteceria. ......"
-
-1009802-103 = "Bem, o professor me ajudou."
-
+1009802-103 = "Bem, o sensei me ajudou."
 1009802-104 = "Se puder fazer algo pelo seu tio, diga a ele."
-
 1009802-105 = "Acho que gostaria de pedir que você usasse o ......, mas gostaria de pedir que usasse algo não muito constrangedor."
-
 1009802-110 = "[ns3] \"Quero que você use suas roupas de ginástica! \"\n[ns4] \"Quero que você use seu traje de banho da escola! "
-
 1009802-113 = "Ugh!"
-
 1009802-114 = "Se, senhor. ......?"
-
 1009802-115 = "Você está ...... falando sério sobre querer ver seu tio vestido dessa maneira?"
-
 1009802-116 = "[Estou falando sério! Acho que é absolutamente adorável! \""
-
 1009802-117 = "Sou tão bonitinha. ......#nEla é tão rápida para dizer coisas como essas sem hesitar."
-
 1009802-118 = "Mas você não pode fazer o que não pode elogiar."
-
 1009802-119 = "Além de constrangimento. ......"
-
 1009802-120 = "Se todos puderem vê-lo assim, visite ......."
-
 1009802-121 = "'Hmm, as pessoas têm suas próprias preferências ......',"
-
-1009802-122 = "Eles certamente diriam coisas como: "Uau☆Hoshino-senpai, você é tão bonito☆"!"
+1009802-122 = "Eles certamente diriam coisas como: \"Uau☆Hoshino-senpai, você é tão bonito☆\"!"
 
 1009802-123 = "...... Não quero ser bombardeado com perguntas da equipe júnior."
-
 1009802-124 = "[s]\"But earlier you said you'd do anything for me. ...... \""
-
-1009802-128 = "Você disse "dizer" qualquer coisa, mas não disse "fazer" nada!"
+1009802-128 = "Você disse \"dizer\" qualquer coisa, mas não disse \"fazer\" nada!"
 
 1009802-129 = "Pelo menos um pouco menos embaraçoso, por favor. ......"
-
 1009802-130 = "[\"Então, e o uniforme de combate que você estava usando antes? \""
-
 1009802-131 = "Os uniformes de combate estão disponíveis no site ......."
-
 1009802-132 = "Talvez seja por causa disso."
-
 1009802-133 = "Caso esteja se perguntando, existe um, mas você pode encontrá-lo em ......."
-
 1009802-138 = "[\"Bem, então é isso, por favor! \""
-
 1009802-139 = "De repente, você está se sentindo melhor. ......"
-
 1009802-140 = "Isso também foi constrangedor. ......"
-
 1009802-141 = "[Por favor! Por aqui! \""
-
 1009802-146 = "...... Huh."
-
 1009802-147 = "Bem, é melhor do que roupas de ginástica ou trajes de banho da escola."
-
 1009802-161 = "Heh."
-
 1009802-162 = "Nunca pensei que me vestiria assim novamente."
-
 1009802-163 = "Os professores gostam desse tipo de coisa ......?"
-
 1009802-164 = "[ns] \"Yeah, it's cool! \""
-
 1009802-165 = "Ah, sim?"
-
 1009802-166 = "Uhehe, um pouco embaraçoso. ......"
-
-1009802-167 = "Se o professor estivesse feliz, tudo bem."
-
+1009802-167 = "Se o sensei estivesse feliz, tudo bem."
 1009802-168 = "[\"Fique com essa roupa por uma semana! \""
-
 1009802-172 = "Sim, por uma semana!"
-
 1009802-173 = "Como esperado, ele está disponível em ......."
-
 1009802-174 = "[\"Porque fica muito bem em você! \""
-
 1009802-175 = "ele disse que isso lhe convém. ......"
-
 1009802-176 = "[s]\"O melhor de Hoshino! \""
-
 1009802-177 = "Bem, não acho que seu tio seja tão mole a ponto de cair em tal lisonja."
-
 1009802-178 = "[Não estou lisonjeado, é muito legal! \""
-
 1009802-179 = "Ugh. ......."
-
 1009802-184 = "Ok, eu entendo."
-
 1009802-185 = "Bem, então, é só uma semana, certo?"
-
 1009802-186 = "Uau, você parece tão feliz. ...... #nEu fico envergonhado quando você está tão feliz, tio."
-
 1009802-187 = "Realmente, os professores podem ser encontrados em ......."
-
 1009802-194 = "[ns] \"Que som é esse? \""
-
 1009802-195 = "...... Alert."
-
 1009802-196 = "O sistema emite um alerta quando uma pessoa suspeita aparece ou quando há uma emergência."
-
 1009802-201 = "...... Helmet Squad."
-
 1009802-202 = "O que eles estão fazendo nos quadros de avisos das escolas. ......"
-
 1009802-203 = "De qualquer forma, não posso fazer isso, posso?"
-
 1009802-207 = "Vamos lá, doutor."
-
 1009802-216 = "Tem certeza de que quer fazer isso?"
-
 1009802-217 = "Está tudo bem! Você não precisa de um conselho escolar em ruínas."
-
 1009802-218 = "Então, vamos aproveitá-la ao máximo!"
-
 1009802-219 = "De fato, não há evidências de seu uso. ......"
-
 1009802-220 = "Ei, pessoal! Vamos #n realizar isso o mais rápido possível!"
-
 1009802-223 = "Sim, senhor!"
-
 1009802-234 = "O que vocês estão fazendo?"
-
 1009802-238 = "Bem, você poderia pegar isso e trocá-lo por..."
-
 1009802-246 = "O quê?"
-
 1009802-252 = "Acho que é melhor ser maduro e não resistir!"
-
 1009802-254 = "Você tem algo a reclamar?"
-
 1009802-255 = "Aguarde. #nO fato de ele estar armado assim significa que ele não é apenas um homem. ......"
-
 1009802-257 = "Bem, há circunstâncias para isso. ......"
-
 1009802-258 = "Bem, vamos deixar isso para lá. #Esse quadro de avisos é nosso equipamento e não quero que você o leve com você."
-
 1009802-259 = "Você está deixando-o enferrujar."
-
 1009802-260 = "Se não está sendo usado de qualquer forma, por que não o levamos?"
-
 1009802-264 = "......."
-
 1009802-265 = "Hmmm."
-
 1009802-266 = "Não quero tornar isso um problema muito grande."
-
 1009802-267 = "Por mais que eles não a usem, ela ainda é propriedade da escola. \n"
-
 1009802-268 = "Se esse lado não recuar, teremos que lutar. ......"
-
 1009802-272 = "Você quer fazer o ......?"
-
 1009802-273 = "Você acha que consegue superar esses números?"
-
 1009802-275 = "Pessoal, cerquem-nos!"
-
 1009802-283 = "Se não quiser se machucar, agora é a hora de..."
-
 1009802-296 = "Ei, você está bem!"
-
 1009802-297 = "Merda. Vamos lá, rapazes!"
-
 1009802-303 = "...... Heh."
-
 1009802-308 = "Surpreendentemente corajoso."
-
 1009802-320 = "Heh."
-
 1009802-321 = "......gu."
-
 1009802-329 = "Olá, uma pessoa, tantas pessoas. ......"
-
 1009802-330 = "Tsk, lembre-se disso!"
-
-1009802-336 = "Você não ouve esse tipo de frase descartável, "Remember me", hoje em dia, não é mesmo?"
+1009802-336 = "Você não ouve esse tipo de frase descartável, \"Remember me\", hoje em dia, não é mesmo?"
 
 1009802-337 = "Quero dizer, o médico estava bem? #nVocê está machucado?"
-
 1009802-338 = "[s] \"Hoshino....... \""
-
 1009802-339 = "O quê?"
-
 1009802-340 = "Qual é o problema, Sensei..."
-
 1009802-345 = "[ns] \"Foi legal! \""
-
 1009802-349 = "O senhor está exagerando, doutor."
-
 1009802-350 = "Você sempre foi o mesmo."
-
 1009802-351 = "...... Sim? #nVocê está com esse equipamento novo e está lutando?"
-
 1009802-352 = "[s] \"......\""
-
 1009802-354 = "[ns] \"Eu era como um herói! \""
-
 1009802-355 = "Uhe~."
-
 1009802-356 = "Aquela coisa dos desenhos animados e filmes, certo?"
-
 1009802-357 = "O tio e o herói parecem ser opostos um do outro. ......"
-
 1009802-358 = "[\"O modo como você luta para proteger sua preciosa escola é um verdadeiro herói! \""
-
 1009802-359 = "É constrangedor ser tão elogiado."
-
 1009802-360 = "...... eh."
-
 1009802-361 = "O que é a Noite Takanashi?"
-
-1009802-366 = "Se, a ideia do professor de um nome de herói!"
-
+1009802-366 = "Se, a ideia do sensei de um nome de herói!"
 1009802-367 = "[ns] \"Força, heróis de Abydos! \""
-
 1009802-368 = "...... ugh."
-
 1009802-369 = "Isso teria ficado melhor em um traje de banho da escola. ......"
-

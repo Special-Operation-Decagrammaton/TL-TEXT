@@ -1,119 +1,60 @@
 [translation]
 1008905-1 = "O que acontece duas vezes acontecerá três vezes"
-
 1008905-3 = "(Al não compareceu após o horário marcado)."
-
 1008905-7 = "[ns1]\"Acho que estou com problemas. ......\"\n[ns2]\"Acho que é hora de entrar em contato com você. ......\""
-
 1008905-11 = "Não, não! Hum, apenas ......"
-
 1008905-12 = "Só um pouquinho! Dê-me apenas alguns momentos! #nPor que você está em ......? De jeito nenhum, ...... de novo?"
-
 1008905-14 = "[ns3] \"A voz que você acabou de ouvir é ......\"\n[ns4] Dirija-se para a direção de onde veio a voz."
-
 1008905-18 = "Hummm, isso é uma pena. Sei que é difícil para os alunos também. ......"
-
 1008905-19 = "Não, não, não! O dinheiro está no lugar!"
-
 1008905-20 = "Não, não, não, não quero ser tão acusador, por favor, acalme-se."
-
 1008905-21 = "Sei que você tem suas próprias circunstâncias. ......"
-
 1008905-22 = "Mas, você sabe, ...... com roupas tão caras, foi preciso muito tempo e esforço para consertá-las. #nComo era de se esperar, é um pouco complicado. ......"
-
 1008905-23 = "Não suspeito que esteja tentando se safar de alguma coisa, mas é a política da loja, desculpe."
-
 1008905-24 = "[s5] \"\"}Al, o que há de errado? \"\n[s6] Pergunte o que aconteceu."
-
 1008905-27 = "...... Eh, senhor?"
-
 1008905-28 = "Hmm ......?"
-
 1008905-32 = "...... doctor! Faça, faça, faça, por que você está aqui ......!"
-
 1008905-33 = "Bem, ainda não é hora da consulta ......!"
-
 1008905-34 = "...... ha."
-
 1008905-35 = "Já estamos nessa época ......!"
-
 1008905-40 = "[ns7] \"Entendo, seu cartão não estava funcionando. \"\"\n[ns8] \"Então você não pôde pagar a conta. \"\"\n[ns8] \"Entendo."
-
 1008905-43 = "Aparentemente, a Comissão de Serviço Público encontrou minha conta novamente e me impediu. #nDesta vez, tenho certeza de que segui o caminho de nunca ser descoberto. ......"
-
 1008905-44 = "Huh ...... Estou com problemas. Vai demorar um pouco para que o congelamento do #n seja suspenso."
-
 1008905-48 = "Uu......"
-
 1008905-49 = "De jeito nenhum! #nEu não queria lhe mostrar isso hoje. ......!"
-
 1008905-50 = "...... hmm? Sim, também há um pouco de dinheiro lá. ......"
-
 1008905-51 = "No entanto, seu ...... conserto é um pouco caro desta vez ......"
-
 1008905-55 = "As roupas eram bastante caras, portanto, é claro que o custo de consertá-las era razoável. ......"
-
 1008905-56 = "Eles dizem que os alunos não têm o suficiente em mãos."
-
 1008905-57 = "...... hmm?"
-
 1008905-58 = "Quais roupas você consertou? #nOh, essa aqui."
-
 1008905-63 = "[ns9] \"Ei, esse vestido ......\"\n[ns10]\"Sim, faz sentido pelo preço. \"\"}"
-
 1008905-66 = "Mas é aí que está o problema. Não me importo se estiver na conta por uma pequena quantia, mas isso é um dilema. ......"
-
 1008905-67 = "...... O quê?"
-
 1008905-68 = "Você paga em nome deles ......?"
-
-1008905-69 = "...... Professor!"
-
+1008905-69 = "...... Sensei!"
 1008905-70 = "Claro que não me importo, mas ...... tem certeza de que está tudo bem? #nBem, os alunos pareciam querer receber essas roupas imediatamente. ......"
-
 1008905-71 = "Bom para você, cara! Ha ha ha!"
-
 1008905-76 = "(Em vez disso, ele pagou a taxa, pegou o vestido e saiu da rua comercial com Al)."
-
 1008905-82 = "...... Obrigado, doutor. O senhor me deve mais uma vez."
-
 1008905-83 = "Este é o ...... que ......"
-
 1008905-84 = "Então!"
-
 1008905-85 = "...... Investimento!"
-
 1008905-86 = "É um investimento! Vou considerar isso como um investimento em meu faz-tudo!"
-
 1008905-87 = "......."
-
 1008905-91 = "Obrigado. ...... E me desculpe. Só estou #n irritado o tempo todo. ......"
-
 1008905-92 = "...... sim?"
-
 1008905-93 = "Fico feliz em saber que você não se importa. ......"
-
 1008905-94 = "Não posso ficar em dívida com você dessa forma."
-
 1008905-95 = "[s11] \"A confiança é a chave para manter um negócio funcionando. \"\n[s12] \"E eu também confio muito em meu futuro eu! \""
-
 1008905-98 = ".........!"
-
-1008905-99 = "Hmm, hmmm... ...... Entendo, você é um ótimo professor. #nÓtimo conselho."
-
+1008905-99 = "Hmm, hmmm... ...... Entendo, você é um ótimo sensei. #nÓtimo conselho."
 1008905-100 = "Então, deixe-me esclarecer novamente o que eu disse anteriormente."
-
-1008905-104 = "Nunca me esquecerei do crédito do Dr. ......, este [ruby=Rikuchima]Rikuhachima[/ruby]al."
-
+1008905-104 = "Nunca me esquecerei do crédito do Dr. ......, este Rikuhachimaal."
 1008905-105 = "Se precisar de minha ajuda com qualquer coisa, pode sempre entrar em contato comigo!"
-
 1008905-106 = "Hmmm... Hmmm... ......!"
-
 1008905-111 = "...... Ah, sim."
-
 1008905-114 = "É o preço do dia. ......"
-
 1008905-115 = "Quando posso devolvê-lo?"
-
 1008905-119 = "(Recusei várias vezes, mas Al transferiu o dinheiro assim que a conta foi descongelada)."
-

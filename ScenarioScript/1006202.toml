@@ -1,209 +1,107 @@
 [translation]
 1006202-1 = "A rotina diária do íbis"
-
 1006202-2 = "Escritório de Shirley"
-
 1006202-8 = "(Hoje também, de alguma forma, ele conseguiu chegar à sua mesa)."
-
 1006202-9 = "(Foi bom até certo ponto. ......)"
-
 1006202-10 = "Bom dia, doutor."
-
-1006202-11 = "[s1] \"Quem! \"\n[s2] \"Bom dia, ibis ......? \"\"\n[s2]"\n[s2]"Who!"
+1006202-11 = "[s1] \"Quem! \"\n[s2] \"Bom dia, ibis ......? \"\"\n[s2]\"\n[s2]\"Who!"
 
 1006202-12 = "......."
-
-1006202-13 = "Estou vendo. O professor se esqueceu de mim, disse ele."
-
+1006202-13 = "Estou vendo. O sensei se esqueceu de mim, disse ele."
 1006202-14 = "Está tudo bem. #Mesmo que eles se esqueçam de você, isso não importa."
-
 1006202-15 = "......, mas meu traje de gata e uniforme de empregada não serão esquecidos."
-
 1006202-16 = "[ns3] \"Chi, não! Desculpe, foi tão repentino! \""
-
-1006202-18 = "[ns4] \"ibis! Toki, certo? [ruby=asuma]Asuuma[/ruby] Toki! \""
-
+1006202-18 = "[ns4] \"ibis! Toki, certo? Asuuma Toki! \""
 1006202-19 = "Obrigado por me lembrar disso, doutor."
-
 1006202-20 = "Obrigado por se lembrar de mim, doutor."
-
 1006202-21 = "O que há de errado? Você parece bastante chateado. ...... #Fiz algo errado?"
-
 1006202-22 = "[ns5] \"Sim, isso não é verdade! Eu até queria conhecê-lo! \""
-
 1006202-24 = "[ns6] \"Mas achei que seria útil se você pudesse entrar em contato comigo primeiro da próxima vez. \""
-
 1006202-25 = "Entre em contato conosco, nós entramos em contato com você, ......?"
-
 1006202-26 = "[s7] \"It is, but ....... \""
-
 1006202-27 = "Mas sim, ...... de fato não foi nomeado."
-
 1006202-28 = "[ns8] \"right! \""
-
 1006202-29 = "-Por que você visitou o condado? ......."
-
 1006202-30 = "-Por que você visitou o condado? ......."
-
 1006202-31 = "Lazer ...... Não, é porque não tenho mais o que fazer."
-
 1006202-32 = "[s]\"Isso não parece uma explicação. ...... \""
-
 1006202-33 = "Entendo. A explicação é algo difícil de fazer. ......"
-
 1006202-34 = "[s] (É realmente tão difícil assim ......)"
-
 1006202-35 = "Costumávamos ter pessoas que nos serviam."
-
 1006202-36 = "Como sua empregada e guarda-costas, eu estava lá para ela de manhã à noite. ......"
-
 1006202-37 = "...... Algumas circunstâncias."
-
 1006202-38 = "A pessoa me deixou algumas ordens e desapareceu."
-
 1006202-39 = "Perdi meu marido e tentei descobrir o que fazer."
-
 1006202-40 = "[\"É importante pensar por si mesmo. \""
-
-1006202-41 = "Portanto, concluímos que deveríamos passar nosso tempo como antes, #n, com o professor da placa de Petri como nosso mestre."
-
+1006202-41 = "Portanto, concluímos que deveríamos passar nosso tempo como antes, #n, com o sensei da placa de Petri como nosso mestre."
 1006202-42 = "[s]\"Que, por que ......? \""
-
-1006202-43 = "O professor é parcialmente culpado por eu ter chegado a essa situação. #Não é verdade?"
-
+1006202-43 = "O sensei é parcialmente culpado por eu ter chegado a essa situação. #Não é verdade?"
 1006202-48 = "Há algo errado com você? #Você entende ou já entendeu a gravidade de seus pecados?"
-
 1006202-49 = "[\"A lógica não está bagunçada? \""
-
 1006202-50 = "Não, essa é uma conclusão lógica e racional."
-
-1006202-55 = "Portanto, a partir deste momento, servirei ao meu professor."
-
+1006202-55 = "Portanto, a partir deste momento, servirei ao meu sensei."
 1006202-56 = "[ns] \"Espere um minuto, Toki-sama? Toki-sama! \""
-
-1006202-58 = "(Os protestos sinceros não foram aceitos, e assim começou o "cuidado" com o íbis-de-crista. ......)"
+1006202-58 = "(Os protestos sinceros não foram aceitos, e assim começou o \"cuidado\" com o íbis-de-crista. ......)"
 
 1006202-60 = "áreas urbanas"
-
 1006202-69 = "Ei, vejam! A professora da #nShere não está andando por aí com seus alunos vestidos de empregadas domésticas?"
-
 1006202-70 = "O boato de que a professora na placa de Petri é basicamente uma boa pessoa, mas ...... às vezes faz com que seus alunos façam coisas ruins, era verdadeiro. ......"
-
 1006202-72 = "Ufa, estou ouvindo a admiração por mim."
-
 1006202-73 = "Essa é a própria definição de empregada doméstica. #O senhor não acha, doutor?"
-
 1006202-74 = "[s]\"Um pouco incompreendido ......? \""
-
 1006202-79 = "Esta é outra boa oportunidade. Vamos provar que podemos proteger os professores de qualquer ameaça, certo?"
-
 1006202-80 = "Nível de alerta aumentado, passe para o modo de combate."
-
 1006202-89 = "Ehh! Como você pode tirar a roupa de uma aluna na rua de repente? ......"
-
 1006202-90 = "Não acredito que ...... em um lugar tão público."
-
 1006202-91 = "[ns9] \"Toki-san! Fique, fique! \"\n[ns10] \"\"} ou desarme-o! Por favor! \""
-
 1006202-104 = "Entendo. ...... Desculpe-me por isso. Colocarei o nível de alerta novamente."
-
 1006202-106 = "Ah, senhor. Gostaria de conversar com o senhor. ......"
-
 1006202-111 = "Por favor, aguarde. Se quiser falar com um médico, passe primeiro por mim."
-
 1006202-112 = "O quê? ......?"
-
 1006202-113 = "Posso saber por que você gostaria de falar comigo? #nQual é a natureza do conteúdo e qual é o tempo esperado necessário?"
-
 1006202-114 = "Ou é algo sobre o qual você não pode falar comigo?"
-
 1006202-115 = "Sim. ......."
-
 1006202-116 = "[ns] \"Wait a minute! \""
-
 1006202-118 = "(Assim, o íbis estava em constante cuidado (?) de mim o dia todo. (Assim, o íbis cuidou de mim o dia todo.)"
-
 1006202-119 = "(Foi um dia incomum ...... muito ...... novo ......)"
-
 1006202-124 = "[ns] \"ibis...... bom trabalho hoje ....... \""
-
 1006202-125 = "Você parece muito cansado. Está tudo bem com você?"
-
 1006202-126 = "Não precisa se preocupar, não é? #n, mas--"
-
 1006202-127 = "......."
-
 1006202-128 = "Estou incomodando?"
-
 1006202-129 = "[s]\"Não é irritante, mas talvez um pouco demais. ...... \""
-
 1006202-130 = "Entendo. ...... Também adicionamos e subtraímos."
-
 1006202-131 = "...... Não estou brincando."
-
 1006202-136 = "Olhe em meus olhos. Parece que estou brincando desnecessariamente?"
-
 1006202-137 = "[\"Eu disse isso porque você não parece fazer piadas! \""
-
 1006202-138 = "Se sim, é um alívio. Descobrimos que o Dr. #n tem um processo de pensamento normal."
-
 1006202-139 = "[s]\"Fico feliz em ajudar, mas somente com moderação. ......? \""
-
 1006202-140 = "Sim, não é? ......"
-
-1006202-141 = "O professor deveria estar um pouco mais ciente de sua posição e situação."
-
+1006202-141 = "O sensei deveria estar um pouco mais ciente de sua posição e situação."
 1006202-142 = "Mas, se você disser isso, visite ....... Eu entendo."
-
 1006202-143 = "[s11] \"Foi divertido passar um tempo com a Toki hoje. \"\n[s12] \"Mas espero que você seja um pouco mais franco comigo amanhã. \"\n[s12] \n[s13] \n[s14] \"Estou feliz por você estar aqui."
-
 1006202-146 = "Frank, não é? ......."
-
 1006202-147 = "Tudo bem, senhor. Se for esse o caso..."
-
 1006202-148 = "Ei, senhor. Cuide de mim de agora em diante."
-
 1006202-153 = "Piada. Eu estava apenas tentando imitar uma excelente empregada. #nNão fique tão surpreso."
-
 1006202-154 = "[\"Ele disse que não faria brincadeiras desnecessárias! \""
-
 1006202-155 = "Pensei em tentar deixar o local mais descontraído."
-
 1006202-156 = "[s]\"Você me traiu! Você traiu meus sentimentos, não foi? \""
-
 1006202-157 = "......."
-
-1006202-158 = "É isso mesmo. Agora eu traí os sentimentos do meu professor. Eu ganhei, [ruby=victory]buuuuut[/ruby]."
-
-1006202-159 = "[s]\"Desde que eu tenha sido derrotado por meus alunos, tenho confiança para me considerar um professor. ...... \""
-
-1006202-160 = "Isso não é permitido. O professor tem que ser auxiliado por mim, portanto."
-
+1006202-158 = "É isso mesmo. Agora eu traí os sentimentos do meu sensei. Eu ganhei, buuuuut."
+1006202-159 = "[s]\"Desde que eu tenha sido derrotado por meus alunos, tenho confiança para me considerar um sensei. ...... \""
+1006202-160 = "Isso não é permitido. O sensei tem que ser auxiliado por mim, portanto."
 1006202-161 = "Caso contrário, você ficaria entediado novamente, não é mesmo?"
-
 1006202-162 = "[s]\"Essa é sua aparência normal ou ......? \""
-
 1006202-163 = "...... pff."
-
 1006202-164 = "Se sim, o que você faria?"
-
 1006202-165 = "[\"Haha, se esse for o íbis, ficarei feliz. \""
-
 1006202-166 = "Obrigado por dizer isso, doutor."
-
 1006202-168 = "(Toki saiu com uma expressão de satisfação no rosto)"
-
 1006202-169 = "(E no dia seguinte ......)"
-
 1006202-178 = "Bom dia, doutor."
-
 1006202-179 = "[\"Eu sabia que seria assim! \""
-
 1006202-180 = "Obrigado por se lembrar de mim, doutor."
-
-1006202-181 = "Ajudarei seu professor durante o resto do dia."
-
+1006202-181 = "Ajudarei seu sensei durante o resto do dia."
 1006202-187 = "Vamos, doutor?"
-
 1006202-189 = "(Vai ser outro dia barulhento: ......)"
-

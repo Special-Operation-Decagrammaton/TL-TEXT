@@ -1,221 +1,22 @@
 [translation]
 1011405-1 = "serviço de garçonete"
-
 1011405-2 = "(Enquanto esperava por Juri, ouvi uma batida apressada!)"
-
 1011405-9 = "Sensei!"
-
-1011405-10 = "[s] \"Juri, acalme-se por enquanto!""
-
-1011405-11 = "Ha, sim... Gusun."
-
-1011405-12 = "...?"
-
-1011405-13 = "Não... eu não sou um perseguidor nem nada."
-
-1011405-14 = "Você deveria ter falado comigo antes de vir."
-
-1011405-15 = "Talvez seja porque fui escolhida como “Garçonete do Mês”..."
-
-1011405-18 = "[ns1] \"O número de clientes que visitam o café...\"\n[ns2] \"O número de clientes que visitam o café aumentou 10 vezes!?\""
-
-1011405-21 = "No começo, consegui lidar."
-
-1011405-22 = "Nossas vendas aumentaram, nosso gerente ficou feliz e também conquistamos novos clientes regulares..."
-
-1011405-23 = "Bem, comecei a receber pedidos de fotos em duas fotos..."
-
-1011405-26 = "Você é tão fofa, Júlia! #nPosso pedir para você posar assim?"
-
-1011405-27 = "Hum... sim."
-
-1011405-28 = "Ah, isso é ótimo! #n Por favor, me dê uma expressão um pouco mais tímida!"
-
-1011405-29 = "Eca..."
-
-1011405-31 = "Olá a todos que acompanham o canal! #nEste é o Departamento de Notícias da Chronos!"
-
-1011405-32 = "Hoje entrevistaremos Juri, que tem sido um tema quente ultimamente! #nEm primeiro lugar, apresente-se!"
-
-1011405-33 = "Prazer em conhecê-lo, meu nome é Juri..."
-
-1011405-34 = "Segundo rumores, Juri está participando de um famoso concurso de seleção de garçonetes..."
-
-1011405-35 = "Ouvi dizer que ele brandiu um copo grande e derrotou o rival com um golpe, é verdade? ?"
-
-1011405-36 = "sim! ? E-eu não fiz isso! #nCertamente houve um evento onde você teve que carregar um copo pesado..."
-
-1011405-37 = "Oh meu Deus! Para todos que assistem ao canal #n, aparentemente os rumores eram verdadeiros!"
-
-1011405-38 = "Como esperado, ele é o vencedor do torneio."
-
-1011405-39 = "Não, não! #n, então eu...!"
-
-1011405-40 = "Agora vamos para a próxima pergunta! #nSegundo os rumores, Juri enfrentou um robô fabricado pela Millennium..."
-
-1011405-41 = ""Um dia chegará o fim e garçonetes como eu desaparecerão.""
-
-1011405-42 = "“Mas ainda não é hora. Ainda é muito cedo para a humanidade ser derrotada'', ele deixou para trás uma linha dura..."
-
-1011405-43 = "É verdade que ele derrotou um arrogante robô Millennium e ordenou que ele se autodestruísse? ?"
-
-1011405-44 = "sim! ? Bem, isso também não é verdade! #nEu só...!"
-
-1011405-45 = "Aquele robô de repente tentou se autodestruir, então tentei impedi-lo..."
-
-1011405-46 = "Bem, parece que os rumores são verdadeiros, afinal! !"
-
-1011405-47 = "Como todos sabem, nós da Escola Kronos somos os mais rápidos em Kivotos e reportamos apenas a verdade!"
-
-1011405-48 = "Estou muito feliz por ter conseguido cobrir essa história com segurança e de acordo com meu espírito jornalístico!"
-
-1011405-49 = "Obrigado por concordar com a entrevista!"
-
-1011405-50 = "Então, por favor, me escute!"
-
-1011405-52 = "Gusun…."
-
-1011405-53 = "[ns3] \"…….\"\n[ns4] \"Foi difícil...\""
-
-1011405-56 = "Antes que eu percebesse, rumores se espalharam pela internet..."
-
-1011405-57 = "Parece que a pessoa da Kronos escreveu um artigo positivo e seu gerente o parabenizou, mas..."
-
-1011405-58 = "Mas como meu nome se espalhou de repente, as pessoas começaram a me pedir autógrafos quando eu andava pela cidade..."
-
-1011405-59 = "[s] \"Não gostei da atenção de todos...?\""
-
-1011405-60 = "……."
-
-1011405-61 = "Não, esse não é o caso."
-
-1011405-62 = "Eles são todos gentis e todos são muito positivos..."
-
-1011405-63 = "Eu definitivamente não gosto disso..."
-
-1011405-64 = "No entanto, sinto que estou presa ao meu trabalho como garçonete..."
-
-1011405-65 = "Como estava ocupado, não pude trabalhar na merenda escolar..."
-
-1011405-66 = "Também sinto pena dos meus idosos..."
-
-1011405-67 = "Achei que era hora de largar meu emprego como garçonete e voltar para a merenda escolar."
-
-1011405-68 = "Por minha causa, tenho certeza de que o café está causando muitos problemas..."
-
-1011405-69 = "[s] \"Juri, se não se importa, gostaria de trocar de lugar?\""
-
-1011405-70 = "...O lugar?"
-
-1011405-72 = "Esta é a sala de descanso do professor?"
-
-1011405-73 = "[s5] \"Isso mesmo.\"\n[s6] \"Achei que me sentiria confortável aqui.""
+1011405-10 = "[s] \"Juri, acalme-se por enquanto!\"\"\n1011405-11 = \"Ha, sim... Gusun.\"\n1011405-12 = \"...?\"\n1011405-13 = \"Não... eu não sou um perseguidor nem nada.\"\n1011405-14 = \"Você deveria ter falado comigo antes de vir.\"\n1011405-15 = \"Talvez seja porque fui escolhida como “Garçonete do Mês”...\"\n1011405-18 = \"[ns1] \"O número de clientes que visitam o café...\"\n[ns2] \"O número de clientes que visitam o café aumentou 10 vezes!?\"\"\n1011405-21 = \"No começo, consegui lidar.\"\n1011405-22 = \"Nossas vendas aumentaram, nosso gerente ficou feliz e também conquistamos novos clientes regulares...\"\n1011405-23 = \"Bem, comecei a receber pedidos de fotos em duas fotos...\"\n1011405-26 = \"Você é tão fofa, Júlia! #nPosso pedir para você posar assim?\"\n1011405-27 = \"Hum... sim.\"\n1011405-28 = \"Ah, isso é ótimo! #n Por favor, me dê uma expressão um pouco mais tímida!\"\n1011405-29 = \"Eca...\"\n1011405-31 = \"Olá a todos que acompanham o canal! #nEste é o Departamento de Notícias da Chronos!\"\n1011405-32 = \"Hoje entrevistaremos Juri, que tem sido um tema quente ultimamente! #nEm primeiro lugar, apresente-se!\"\n1011405-33 = \"Prazer em conhecê-lo, meu nome é Juri...\"\n1011405-34 = \"Segundo rumores, Juri está participando de um famoso concurso de seleção de garçonetes...\"\n1011405-35 = \"Ouvi dizer que ele brandiu um copo grande e derrotou o rival com um golpe, é verdade? ?\"\n1011405-36 = \"sim! ? E-eu não fiz isso! #nCertamente houve um evento onde você teve que carregar um copo pesado...\"\n1011405-37 = \"Oh meu Deus! Para todos que assistem ao canal #n, aparentemente os rumores eram verdadeiros!\"\n1011405-38 = \"Como esperado, ele é o vencedor do torneio.\"\n1011405-39 = \"Não, não! #n, então eu...!\"\n1011405-40 = \"Agora vamos para a próxima pergunta! #nSegundo os rumores, Juri enfrentou um robô fabricado pela Millennium...\"\n1011405-41 = \"\"Um dia chegará o fim e garçonetes como eu desaparecerão.\"\"\n1011405-42 = \"“Mas ainda não é hora. Ainda é muito cedo para a humanidade ser derrotada'', ele deixou para trás uma linha dura...\"\n1011405-43 = \"É verdade que ele derrotou um arrogante robô Millennium e ordenou que ele se autodestruísse? ?\"\n1011405-44 = \"sim! ? Bem, isso também não é verdade! #nEu só...!\"\n1011405-45 = \"Aquele robô de repente tentou se autodestruir, então tentei impedi-lo...\"\n1011405-46 = \"Bem, parece que os rumores são verdadeiros, afinal! !\"\n1011405-47 = \"Como todos sabem, nós da Escola Kronos somos os mais rápidos em Kivotos e reportamos apenas a verdade!\"\n1011405-48 = \"Estou muito feliz por ter conseguido cobrir essa história com segurança e de acordo com meu espírito jornalístico!\"\n1011405-49 = \"Obrigado por concordar com a entrevista!\"\n1011405-50 = \"Então, por favor, me escute!\"\n1011405-52 = \"Gusun….\"\n1011405-53 = \"[ns3] \"…….\"\n[ns4] \"Foi difícil...\"\"\n1011405-56 = \"Antes que eu percebesse, rumores se espalharam pela internet...\"\n1011405-57 = \"Parece que a pessoa da Kronos escreveu um artigo positivo e seu gerente o parabenizou, mas...\"\n1011405-58 = \"Mas como meu nome se espalhou de repente, as pessoas começaram a me pedir autógrafos quando eu andava pela cidade...\"\n1011405-59 = \"[s] \"Não gostei da atenção de todos...?\"\"\n1011405-60 = \"…….\"\n1011405-61 = \"Não, esse não é o caso.\"\n1011405-62 = \"Eles são todos gentis e todos são muito positivos...\"\n1011405-63 = \"Eu definitivamente não gosto disso...\"\n1011405-64 = \"No entanto, sinto que estou presa ao meu trabalho como garçonete...\"\n1011405-65 = \"Como estava ocupado, não pude trabalhar na merenda escolar...\"\n1011405-66 = \"Também sinto pena dos meus idosos...\"\n1011405-67 = \"Achei que era hora de largar meu emprego como garçonete e voltar para a merenda escolar.\"\n1011405-68 = \"Por minha causa, tenho certeza de que o café está causando muitos problemas...\"\n1011405-69 = \"[s] \"Juri, se não se importa, gostaria de trocar de lugar?\"\"\n1011405-70 = \"...O lugar?\"\n1011405-72 = \"Esta é a sala de descanso do sensei?\"\n1011405-73 = \"[s5] \"Isso mesmo.\"\n[s6] \"Achei que me sentiria confortável aqui.\""
 
 1011405-76 = "sim……?"
-
 1011405-77 = "[s] \"E se for uma comoção, acabará eventualmente.\""
-
 1011405-78 = "Se eu quiser, posso voltar à merenda escolar a qualquer momento...?"
-
 1011405-79 = "...Certamente, isso é verdade."
-
 1011405-80 = "Tenho certeza de que o interesse por mim acabará diminuindo."
-
 1011405-81 = "Fiquei surpreso quando o departamento de notícias da Kronos veio me visitar..."
-
 1011405-82 = "Essas pessoas estão sempre procurando por algo interessante...hehe."
-
-1011405-83 = "Então, professor? #nPor que você me trouxe aqui?"
-
-1011405-84 = "[s] \"Acho que o que Juri precisa agora é de um tempo sozinho.""
-
-1011405-85 = "Tempo sozinho...."
-
-1011405-86 = "Pensando bem, tenho estado tão ocupado ultimamente que não tive tempo para descansar."
-
-1011405-87 = "É claro que, quando eu estava no clube de merenda escolar, estava ocupado antes e depois do intervalo para o almoço."
-
-1011405-88 = "Certamente comparado a agora..."
-
-1011405-89 = "Obrigado, senhor. #nEu me sinto um pouco melhor."
-
-1011405-91 = "(Depois disso, a conversa fiada continuou por um tempo.)"
-
-1011405-98 = "(Você não precisa necessariamente encontrar significado em tudo.)"
-
-1011405-106 = "Huh... já é assim dessa vez! ?"
-
-1011405-107 = "[s7] \"Passa tão rápido.\"\n[s8] \"Eu queria que fosse assim quando eu trabalho...\""
-
-1011405-110 = "...Pensando bem, acabei roubando o tempo da professora."
-
-1011405-111 = "A professora diz que não há problema em não se preocupar com isso, mas..."
-
-1011405-112 = "……."
-
-1011405-113 = "Hum, professor?"
-
-1011405-114 = "Se você não se importa, que tal um parfait?"
-
-1011405-115 = "Aprendi muitas coisas no café..."
-
-1011405-116 = "[s] \"...parfait de Juri?\""
-
-1011405-117 = "sim! #nAh, não precisa se forçar a comê-lo, certo?"
-
-1011405-118 = "[s9] \"Este lugar é chamado de ``café/placa de Petri''... \"\n[s10] \"Pessoal, por favor, me dê um dos parfaits especiais de Juri. \""
-
-1011405-121 = "! ! !"
-
-1011405-122 = "Ah, sim!"
-
-1011405-123 = "por favor espere um momento!"
-
-1011405-124 = "Quanto aos ingredientes... ah, vou comprá-los agora mesmo!"
-
-1011405-128 = "(Enquanto espera pelo parfait especial de Juri na sala de descanso...)"
-
-1011405-131 = "[wa:950]― [log=주리 아르바이트]Por favor, visite “Café Chalet”[/log]"
-
-1011405-132 = "[wa:1690]― [log=주리 아르바이트]Obrigado! [/registro]"
-
-1011405-135 = "― [log=주리 아르바이트]Sim, [wa:720]Este é o parfait especial que você pediu! [/registro]"
-
-1011405-138 = "[wa:800]― [log=주리 아르바이트]Hehe...[wa:1550]Eu me sinto estranho. [/registro]"
-
-1011405-141 = "[wa:1610]―― [log=주리 아르바이트]Este é um café para professores――[/log]"
-
-1011405-143 = "― [log=주리 아르바이트]Sou a única garçonete daquele café...[wa:1930]. [/registro]"
-
-1011405-146 = "[wa:960]― [log=주리 아르바이트]Sensei, [wa:1210]Você sabe? [/registro]"
-
-1011405-148 = "― [log=주리 아르바이트]Parfait... [wa:1640] Aparentemente significa "perfeição". [/registro]"
-
-1011405-151 = "[wa:1430]― [log=주리 아르바이트]Minhas habilidades culinárias ainda estão [wa:930] longe de serem perfeitas...[/log]"
-
-1011405-152 = "[wa:2150]― [log=주리 아르바이트]Ainda não...[/log]"
-
-1011405-155 = "― [log=주리 아르바이트]Algum dia...[wa:1570]Eu gostaria de poder fazer um também. [/registro]"
-
-1011405-157 = "― [log=주리 아르바이트]"Parfait"...[wa:1970]Prato perfeito. [/registro]"
-
-1011405-161 = "[ns] \"Bem, então eu aceito!\""
-
-1011405-162 = "Por favor...!"
-
-1011405-163 = "(Por um momento hesitei em comê-lo, mas quando reuni coragem...)"
-
-1011405-164 = "[ns11] \"Huh...talvez fique melhor do que o esperado?\"\n[ns12] \"É doce, mas também salgado...delicioso!""
+1011405-83 = "Então, sensei? #nPor que você me trouxe aqui?"
+1011405-84 = "[s] \"Acho que o que Juri precisa agora é de um tempo sozinho.\"\"\n1011405-85 = \"Tempo sozinho....\"\n1011405-86 = \"Pensando bem, tenho estado tão ocupado ultimamente que não tive tempo para descansar.\"\n1011405-87 = \"É claro que, quando eu estava no clube de merenda escolar, estava ocupado antes e depois do intervalo para o almoço.\"\n1011405-88 = \"Certamente comparado a agora...\"\n1011405-89 = \"Obrigado, senhor. #nEu me sinto um pouco melhor.\"\n1011405-91 = \"(Depois disso, a conversa fiada continuou por um tempo.)\"\n1011405-98 = \"(Você não precisa necessariamente encontrar significado em tudo.)\"\n1011405-106 = \"Huh... já é assim dessa vez! ?\"\n1011405-107 = \"[s7] \"Passa tão rápido.\"\n[s8] \"Eu queria que fosse assim quando eu trabalho...\"\"\n1011405-110 = \"...Pensando bem, acabei roubando o tempo da professora.\"\n1011405-111 = \"A professora diz que não há problema em não se preocupar com isso, mas...\"\n1011405-112 = \"…….\"\n1011405-113 = \"Hum, sensei?\"\n1011405-114 = \"Se você não se importa, que tal um parfait?\"\n1011405-115 = \"Aprendi muitas coisas no café...\"\n1011405-116 = \"[s] \"...parfait de Juri?\"\"\n1011405-117 = \"sim! #nAh, não precisa se forçar a comê-lo, certo?\"\n1011405-118 = \"[s9] \"Este lugar é chamado de ``café/placa de Petri''... \"\n[s10] \"Pessoal, por favor, me dê um dos parfaits especiais de Juri. \"\"\n1011405-121 = \"! ! !\"\n1011405-122 = \"Ah, sim!\"\n1011405-123 = \"por favor espere um momento!\"\n1011405-124 = \"Quanto aos ingredientes... ah, vou comprá-los agora mesmo!\"\n1011405-128 = \"(Enquanto espera pelo parfait especial de Juri na sala de descanso...)\"\n1011405-131 = \"[wa:950]― [log=주리 아르바이트]Por favor, visite “Café Chalet”[/log]\"\n1011405-132 = \"[wa:1690]― [log=주리 아르바이트]Obrigado! [/registro]\"\n1011405-135 = \"― [log=주리 아르바이트]Sim, [wa:720]Este é o parfait especial que você pediu! [/registro]\"\n1011405-138 = \"[wa:800]― [log=주리 아르바이트]Hehe...[wa:1550]Eu me sinto estranho. [/registro]\"\n1011405-141 = \"[wa:1610]―― [log=주리 아르바이트]Este é um café para professores――[/log]\"\n1011405-143 = \"― [log=주리 아르바이트]Sou a única garçonete daquele café...[wa:1930]. [/registro]\"\n1011405-146 = \"[wa:960]― [log=주리 아르바이트]Sensei, [wa:1210]Você sabe? [/registro]\"\n1011405-148 = \"― [log=주리 아르바이트]Parfait... [wa:1640] Aparentemente significa \"perfeição\". [/registro]\"\n1011405-151 = \"[wa:1430]― [log=주리 아르바이트]Minhas habilidades culinárias ainda estão [wa:930] longe de serem perfeitas...[/log]\"\n1011405-152 = \"[wa:2150]― [log=주리 아르바이트]Ainda não...[/log]\"\n1011405-155 = \"― [log=주리 아르바이트]Algum dia...[wa:1570]Eu gostaria de poder fazer um também. [/registro]\"\n1011405-157 = \"― [log=주리 아르바이트]\"Parfait\"...[wa:1970]Prato perfeito. [/registro]\"\n1011405-161 = \"[ns] \"Bem, então eu aceito!\"\"\n1011405-162 = \"Por favor...!\"\n1011405-163 = \"(Por um momento hesitei em comê-lo, mas quando reuni coragem...)\"\n1011405-164 = \"[ns11] \"Huh...talvez fique melhor do que o esperado?\"\n[ns12] \"É doce, mas também salgado...delicioso!\""
 
 1011405-167 = "É verdade! ?"
-
 1011405-168 = "Eu realmente não entendo porque parece salgado..."
-
 1011405-169 = "Mas a professora deixou a comida deliciosa...estou feliz!"
-
 1011405-174 = "[ns] \"Uau, Juri!?\""
-
 1011405-176 = "(Consegui acalmar Juri que estava me abraçando...)"
-
 1011405-177 = "(Depois, nos divertimos muito comendo parfait.)"
-

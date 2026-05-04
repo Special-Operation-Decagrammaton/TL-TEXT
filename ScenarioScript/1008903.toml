@@ -1,161 +1,153 @@
 [translation]
-1008903-1 = "Espero estar me aproximando um pouco mais."
+1008903-1 = "Eu me pergunto se está um pouco mais perto"
 
-1008903-2 = "(Al foi chamado para uma reunião de negócios para empresários ambiciosos e foras da lei)."
+1008903-2 = "(Al me chamou para uma sessão de briefing de negócios onde se reuniram empresários ambiciosos e bandidos.)"
 
-1008903-6 = "Bem-vindo, doutor. Estávamos esperando por você."
+1008903-6 = "Bem-vindo, professor. Eu estive esperando."
 
-1008903-7 = "[s1] \"\"al......? \"\"\n[s2] \"Este é um briefing de negócios, certo ......? \""
+1008903-7 = "[s1] \"Al...?\"\n[s2] \"Esta é uma sessão de briefing de negócios, certo...?\""
 
-1008903-10 = "Huh, foi justamente no dia da apresentação do projeto que eu estava de olho. Lembrei-me do que o Dr. #n disse."
+1008903-10 = "Hehe, era a data de anúncio do projeto que eu estava de olho. #nLembrei-me das palavras do meu professor."
 
-1008903-11 = "A hora de usá-lo chegará mais cedo ou mais tarde, disse ela."
+1008903-11 = "Chegará o momento em que você deverá usá-lo."
 
-1008903-12 = "Se você for a esses eventos de uniforme, poderá ser tratado como um estudante, certo?"
+1008903-12 = "Se você vier uniformizado para um lugar como esse, poderá ser tratado como um estudante, certo?"
 
-1008903-13 = "Então pensei em me vestir com um vestido e ligar para o professor de cooperação mais confiável para nós, trabalhadores manuais."
+1008903-13 = "Então decidi me vestir bem e chamar meu parceiro mais confiável para nós, faz-tudo."
 
-1008903-14 = "Phew. ...... O que você acha? Não é #n legal?"
+1008903-14 = "Hehe... o que você acha? #nPerfeito, certo?"
 
-1008903-18 = "É demais, não é? ......"
+1008903-18 = "É perfeito, certo...?"
 
-1008903-19 = "[Exatamente, Al. \"\n[s4] \"Esse é exatamente o tipo de oportunidade que pensei que teria. \"\"\n[s4] \"}"
+1008903-19 = "[s3] \"Você está certo, Al.\"\n[s4] \"Foi exatamente assim que pensei que seria uma oportunidade.\""
 
-1008903-22 = "...... Gostei."
+1008903-22 = "Hehe, hehe... Isso é bom."
 
-1008903-23 = "Então, professor? #Vou fazer uma sugestão hoje, não como "aluno" de um professor, mas como seu "presidente"."
+1008903-23 = "Sensei então? #nHoje farei uma proposta não como “aluno” de professor, mas como “presidente”."
 
-1008903-24 = "Você estaria disposto a participar de uma reunião de negócios comigo? #nClaro que não digo de graça."
+1008903-24 = "Seria possível você participar de uma sessão de briefing de negócios comigo? #nClaro, não direi que é grátis."
 
-1008903-25 = "Se tudo correr bem, providenciarei uma recompensa razoável."
+1008903-25 = "Se tudo correr bem, prepararei uma recompensa adequada."
 
-1008903-26 = "...... Sim, prazer em conhecê-lo."
+1008903-26 = "...Sim, por favor me ajude."
 
-1008903-30 = "Vamos lá então."
+1008903-30 = "Pois bem, vamos lá."
 
-1008903-34 = "(Em seguida, ele e Al foram a vários estandes para falar sobre seus negócios)."
+1008903-34 = "(Depois disso, Al e eu fomos a vários estandes para ouvir sobre o negócio.)"
 
-1008903-37 = "(......, mas nenhuma delas era incoerente)"
+1008903-37 = "(...No entanto, todos eles eram incoerentes)"
 
-1008903-41 = "Por que não? ！！！！"
+1008903-41 = "Por que! ! ! !"
 
-1008903-43 = "Realmente, por quê? Você não teve um único projeto decente!"
+1008903-43 = "Realmente, por quê! #nNão houve sequer um projeto decente!"
 
-1008903-45 = "Pulseira de germânio em um chaveiro da sorte! #n E água que pode ler emoções!"
+1008903-45 = "Pulseira de germânio como chaveiro de boa sorte! #nAlém disso, a água pode ler emoções! !"
 
-1008903-46 = "Você acha que as pessoas ainda acreditam nesse tipo de ocultismo e investem nele! #nTalvez eles estejam lambendo os beiços!"
+1008903-46 = "Ainda tem gente que acredita no ocultismo e investe nisso! ? #nTalvez ele esteja sendo lambido! ?"
 
-1008903-47 = "[s5]\"Oh, acalme-se ......\"\n[s6]\"Bem, essas coisas acontecem. \"\"\n[s6] \"}""
+1008903-47 = "[s5] \"Ah, acalme-se...\"\n[s6] \"Bem, às vezes coisas assim acontecem.\""
 
-1008903-50 = "...... Estou cansado."
+1008903-50 = "Suspiro...estou cansado."
 
-1008903-51 = "Achei que hoje era a minha chance de mostrar a vocês como sou presidenciável."
+1008903-51 = "Achei que hoje era uma chance para mostrar meu verdadeiro eu como presidente."
 
-1008903-52 = "Em vez de criar confiança, você nos decepcionou. ......"
+1008903-52 = "Em vez de construir confiança, acabei me decepcionando..."
 
-1008903-55 = "...... Você diz que não está desapontado?"
+1008903-55 = "...Então você não está desapontado?"
 
-1008903-58 = "Professores. ......."
+1008903-58 = "professor……."
 
-1008903-63 = "É muito gentil de sua parte me confortar, mas agora está tudo bem. Posso pelo menos #n aceitar meus erros."
+1008903-63 = "Estou feliz que você esteja me confortando, mas agora está tudo bem. #nPosso aceitar meus próprios fracassos."
 
-1008903-64 = "...... Participar do briefing de hoje foi um erro completo. Não sei como isso pode ter acontecido quando me esforcei muito para conseguir o tempo do professor."
+1008903-64 = "...Participar da sessão de briefing de hoje foi um fracasso total. #nEu me esforcei para pedir o tempo do seu professor, e então as coisas ficaram assim."
 
-1008903-65 = "...... que não preciso me preocupar com isso?"
+1008903-65 = "...Você quer dizer que não preciso me preocupar com isso?"
 
-1008903-66 = "Fico muito feliz em ouvi-lo dizer isso. ......"
+1008903-66 = "Estou muito feliz em ouvir isso, mas..."
 
-1008903-67 = "[s7] \"Você tem que se acostumar com essas coisas. \"\n[s8] \"Se você falhar, sempre poderá seguir em frente. \""
+1008903-67 = "[s7] \"Depois que você se acostumar com coisas assim, é hora de trabalhar de verdade.\"\n[s8] \"Mesmo se você falhar, você pode tentar novamente.\""
 
-1008903-70 = "Em seguida, você pode se conectar ao site ......."
+1008903-70 = "A seguir, vamos nos conectar..."
 
-1008903-71 = "Entendo o que quer dizer, mas ......#n pela minha vida, não consigo deixar de pensar que o médico está apenas tentando me confortar agora."
+1008903-71 = "Eu sei o que você está tentando dizer, mas...#nSinto que o professor está tentando me confortar agora."
 
-1008903-72 = "...... sim?"
+1008903-72 = "……Sim?"
 
-1008903-73 = "...... Aonde está indo, doutor? #Já está quase escurecendo, não é?"
+1008903-73 = "...Onde você vai, professor? #nJá é hora do sol se pôr?"
 
-1008903-74 = "Bem visto. ......?"
+1008903-74 = "A parte boa...?"
 
-1008903-78 = "Sim, sim...... bem...... se o professor diz isso......"
+1008903-78 = "Eh, sim... bem... se o professor fala isso..."
 
-1008903-79 = "[s9] \"Acho que o Al ficaria feliz em vê-lo. \"\n[s10] \"Você pode me deixar decidir quais são seus planos finais? "
+1008903-79 = "[s9] \"Acho que Al ficaria feliz.\"\n[s10] \"Talvez você possa me deixar decidir sobre os planos finais.\""
 
-1008903-82 = "...... Já que estamos aqui, você pode nos mostrar o local?"
+1008903-82 = "...Você poderia, por favor, me mostrar o local?"
 
-1008903-86 = "Então, para onde estamos indo?"
+1008903-86 = "Então, para onde vamos?"
 
-1008903-92 = "......?"
+1008903-92 = "...? ? ?"
 
-1008903-93 = "Ramen shop, certo: ......?"
+1008903-93 = "Uma loja de ramen, certo...?"
 
-1008903-94 = "Este é realmente o lugar certo para o médico ter lhe trazido ......?"
+1008903-94 = "Era isso que a professora queria mesmo trazer aqui?"
 
-1008903-95 = "[s11] \"Sim, vamos nos sentar. \"\n[s12] Sente-se e peça comida."
+1008903-95 = "[s11] \"Sim, vamos sentar agora.\"\n[s12] Eu sento e peço comida."
 
-1008903-98 = "Se, senhor!"
+1008903-98 = "Ei, professor! ?"
 
-1008903-106 = "Você disse que é um lugar onde eu ficaria feliz, então fiquei imaginando que tipo de lugar seria, e não sabia que era uma loja de macarrão. ......"
+1008903-106 = "Eu disse que é um lugar que me faz feliz, então quando pensei que tipo de lugar era, descobri que era uma loja de ramen..."
 
-1008903-107 = "Mas é claro que eu não odeio ramen. ......#nNão, eu gosto bastante. ......"
+1008903-107 = "Bem, é claro que não odeio ramen...#nNão, na verdade gosto dele..."
 
-1008903-108 = "Estou surpreso com o fato de ser um pouco diferente do que eu imaginava. #Deve haver uma razão para isso, certo?"
+1008903-108 = "Fiquei surpreso ao ver que era um pouco diferente do que eu esperava. #nHá uma razão, certo?"
 
-1008903-109 = "Isso não é como sempre comprar uma tigela de ramen para o faz-tudo?"
+1008903-109 = "Não é a mesma coisa quando você sempre presenteia seu faz-tudo com ramen?"
 
-1008903-110 = "Hmmm, me disseram que hoje é um dia diferente. ......"
+1008903-110 = "Hmm, mesmo que você diga que hoje é diferente do normal..."
 
-1008903-111 = "...... Qual é a diferença?"
+1008903-111 = "...Qual é a diferença?"
 
-1008903-112 = "[s13] \"Hoje é uma reunião para reclamar do trabalho. \"\n[s14] \"Nos dias em que o trabalho não vai bem, venho a lugares como este. \""
+1008903-112 = "[s13] \"Hoje é uma reunião para reclamar do trabalho.\"\n[s14] \"Quando as coisas não vão bem no trabalho, este é o lugar que eu venho.\""
 
-1008903-115 = "...... hmm?"
+1008903-115 = "……sim?"
 
-1008903-116 = "Que diabos é isso ......"
+1008903-116 = "O que diabos é isso..."
 
-1008903-120 = "Oh, ......."
+1008903-120 = "...Ah."
 
-1008903-121 = "Portanto, este é o site ......"
+1008903-121 = "Em outras palavras, isso é..."
 
-1008903-122 = "Como professores, para adultos: ......"
+1008903-122 = "Para adultos como professores..."
 
-1008903-126 = "[ns15] \"Sim, sim. \"\n[ns16] \"Surpreendentemente, os adultos também não são grande coisa, certo? \"\"\n[ns16] \n[ns17] \"Sim."
+1008903-126 = "[ns15] \"Sim, isso mesmo.\"\n[ns16] \"Surpreendentemente, também não é grande coisa para os adultos, certo?\""
 
-1008903-129 = "...... phew."
+1008903-129 = "...Huh."
 
-1008903-130 = "Hmmm... ......"
+1008903-130 = "n / D……"
 
-1008903-131 = "Hmmm... ...... O Dr. Huffington está sempre me ajudando."
+1008903-131 = "Hehe...meu professor sempre me ajuda."
 
-1008903-132 = "Certo. ......"
+1008903-132 = "Isso mesmo..."
 
-1008903-133 = "...... Sim."
+1008903-133 = "……Sim."
 
-1008903-135 = "É mais normal do que eu pensava. ...... ufa."
+1008903-135 = "É mais normal do que eu pensava...hehe."
 
-1008903-138 = "[wa:550]- [log=아루 드레스]haha ......[wa:1900] Eu nunca [wa:1440]pensei que isso fosse acontecer. [/log]"
+1008903-138 = "[wa:550]― [log=아루 드레스]はぁ……[wa:1900]こんなことになるなんて、[wa:1440]思いもしなかったわ。[/log]"
+1008903-139 = "[wa:2430]― [log=아루 드레스]でも……[wa:800]先生の言った通り、[wa:1750]こういうのも悪くはないわね。[/log]"
+1008903-142 = "[wa:700]― [log=아루 드레스]正直、[wa:1200]不思議だったのよ……[/log]"
+1008903-145 = "― [log=아루 드레스]Um adulto vestido adequadamente [/log]"
 
-1008903-139 = "[wa:2430]- [log=아루 드레스]Mas, como ......[wa:800] disse o professor, [wa:1750]esse tipo de coisa não é tão ruim. [/log]"
+1008903-146 = "[wa:1800]― [log=아루 드레스]どうしてこんな所で[wa:1000]わざわざご飯を食べるのか……。[/log]"
+1008903-149 = "[wa:650]― [log=아루 드레스]でも……[wa:1550]今なら、[wa:700]少しわかる気がするわ。[/log]"
+1008903-152 = "― [log=아루 드레스]Mesmo que os motivos sejam diferentes...[/log]"
 
-1008903-142 = "[wa:700]- [log=아루 드레스]Honestamente, [wa:1200]eu estava me perguntando ......[/log]"
+1008903-153 = "[wa:3000]― [log=아루 드레스]きっと、[wa:1150]みんなこういう気持ちだったのかな、[wa:1550]って。[/log]"
+1008903-156 = "[wa:450]― [log=아루 드레스]……先生も、[wa:1120]きっとそうなのよね。[/log]"
+1008903-159 = "[wa:400]― [log=아루 드레스]ふふ……[wa:2400]私も少しは……[wa:2250]先生に近づけたのかしら？[/log]"
+1008903-162 = "(Depois, enquanto comiam ramen juntos, ouvi as reclamações de Al.)"
 
-1008903-145 = "- [log=아루 드레스]Adultos vestidos adequadamente,[/log]."
+1008903-163 = "(A maior parte do conteúdo eram palavras de agradecimento a todos os trabalhadores manuais, e o resto era sobre a dificuldade de continuar o negócio.)"
 
-1008903-146 = "[wa:1800]- [log=아루 드레스]Por que você se dá ao trabalho de [wa:1000]comer em um lugar como este? ....... [/log]"
-
-1008903-149 = "[wa:650]- [log=아루 드레스]Mas ......[wa:1550]Agora, [wa:700]acho que estou entendendo um pouco. [/log]"
-
-1008903-152 = "- [log=아루 드레스]Cada um por motivos diferentes: ......[/log]"
-
-1008903-153 = "[wa:3000]- [log=아루 드레스]Tenho certeza de que [wa:1150]todos se sentiram assim, [wa:1550]. [/log]"
-
-1008903-156 = "[wa:450]- [log=아루 드레스]...... professores, [wa:1120]tenho certeza de que sim. [/log]"
-
-1008903-159 = "[wa:400]- [log=아루 드레스]Hmm ......[wa:2400]Será que estou um pouco ......[wa:2250]mais perto do meu professor? [/log]"
-
-1008903-162 = "(Depois disso, eles comeram ramen juntos e ouviram as reclamações de Al que haviam se acumulado)"
-
-1008903-163 = "(A maior parte do conteúdo era sobre gratidão a todos os trabalhadores manuais, o restante era sobre os rigores de manter o negócio funcionando)."
-
-1008903-164 = "(A reclamação de Al não parou depois da meia-noite e continuou até ele ser mandado de volta para seu quarto. ......)"
+1008903-164 = "(As reclamações de Al não pararam até tarde da noite e continuaram até que eu o mandei para o quarto...)"
 

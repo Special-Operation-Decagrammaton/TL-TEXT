@@ -1,113 +1,102 @@
 [translation]
 1011002-1 = "Convite da Bela Adormecida"
 
-1011002-2 = "(Atendendo ao pedido de Seia, ela visitou Trinity em segredo)."
+1011002-2 = "(A pedido de Seia, visitei Trinity em segredo)"
 
-1011002-8 = "[ns1] (...... Huh? Não tem ninguém aí?")  \n[ns2] (Será que fui ao lugar errado?)"
+1011002-8 = "[ns1] (...huh? Não tem ninguém?) \n[ns2] (Talvez eu esteja no lugar errado?)"
 
-1011002-12 = "(A porta do depósito está ligeiramente entreaberta em ......?)"
+1011002-12 = "(A porta do armazém está ligeiramente aberta...?)"
 
-1011002-17 = "[ns3] \"Sorry to disturb you ......\"\n[ns4] \"Is anyone here ......? \""
+1011002-17 = "[ns3] \"Desculpe incomodar...\"\n[ns4] \"Tem alguém aqui...?\""
 
-1011002-20 = "...... hmm?"
+1011002-20 = "……sim?"
 
-1011002-21 = "Nun. ......."
+1011002-21 = "Eca..."
 
-1011002-25 = "...... Ah."
+1011002-25 = "……um."
 
-1011002-26 = "Hmmm. ......."
+1011002-26 = "Hum..."
 
-1011002-29 = "[wa:430]- [log=세이아]......[wa:200] Oh, [wa:930]você. [/log]"
+1011002-29 = "[wa:430]― [log=세이아]……[wa:200]ああ、[wa:930]君か。[/log]"
+1011002-30 = "[wa:3340]― [log=세이아]これでも一応、[wa:1380]驚嘆を感じているよ。[/log]"
+1011002-33 = "[ns5] \"Desculpe, entrei sem permissão.\"\n[ns6] \"Desculpe, não queria assustar você.\""
 
-1011002-30 = "[wa:3340]- [log=세이아]Ainda estou [wa:1380]maravilhado com isso, por um lado. [/log]"
+1011002-36 = "[wa:570]― [log=세이아]謝ることではないさ、[wa:2390]驚きとは[wa:1300]好意的な世界の拡大だ。[/log]"
+1011002-37 = "[wa:4170]― [log=세이아]私もまた、[wa:1980]それに焦がれていたとも[wa:1350]言える。[/log]"
+1011002-40 = "[wa:1230]― [log=세이아]しかし、[wa:500]ゆくりなきは……[/log]"
+1011002-41 = "[wa:3000]― [log=세이아]この様に君と、[wa:2380]目を交わしていることだとも。[/log]"
+1011002-44 = "[wa:1620]― [log=세이아]しかし[wa:670]何故……[/log]"
+1011002-45 = "[wa:3980]― [log=세이아]いや、[wa:1180]成程。[wa:960] [/log]"
+1011002-48 = "― [log=세이아] Você me mandou notícias [wa:740]? [wa:2600] Com licença. [/registro]"
 
-1011002-33 = "[ns5] \"Desculpe, eu entrei sem permissão. \"\n[ns6] \"Desculpe, não queria assustá-la. \"\"\n[ns6]"Desculpe, não queria assustá-lo.""
+1011002-51 = "[wa:720]― [log=세이아]いや何、[wa:1700]用事があって[wa:640]呼んだわけではないのだ。[/log]"
+1011002-54 = "[wa:800]― [log=세이아]唯……[/log]"
+1011002-55 = "[wa:3560]― [log=세이아]君と交わす言葉に、[wa:2890]私はどこか[wa:1000]惹かれているようで。[/log]"
+1011002-58 = "Não foi um incômodo você me ligar de repente?"
 
-1011002-36 = "[wa:570]- [log=세이아]Não é algo para se desculpar, [wa:2390]surpresa é [wa:1300]a expansão de um mundo favorável. [/log]"
+1011002-59 = "É uma coisa estranha de se dizer agora, no entanto."
 
-1011002-37 = "[wa:4170]- [log=세이아]Posso também [wa:1980]dizer [wa:1350]que eu também estava [wa:1350]impaciente[/log] com ele. [/log]"
+1011002-60 = "...Sem problemas?"
 
-1011002-40 = "[wa:1230]- [log=세이아]Mas [wa:500]Yurikina wa ......[/log]"
+1011002-61 = "Eu vejo. Ele realmente parece um professor."
 
-1011002-41 = "[wa:3000]- [log=세이아]Mesmo que eu esteja trocando [wa:2380]olhares com você dessa maneira. [/log]"
+1011002-62 = "[s7] \"Achei que você tivesse sido chamado por causa da festa do chá.\" \n[s8] \"Achei que fosse algum tipo de assunto oficial.\""
 
-1011002-44 = "[wa:1620]- [log=세이아]Mas [wa:670]por que ......[/log]"
+1011002-65 = "Não admira que você pense assim. É por isso que eu disse dessa maneira."
 
-1011002-45 = "[wa:3980]- [log=세이아]Não, [wa:1180]成程. [wa:960] [/log]"
+1011002-66 = "Porém, como eu disse anteriormente."
 
-1011002-48 = "- [log=세이아]Você enviou [wa:740]uma carta minha, [wa:2600]desculpe-me. [/log]"
+1011002-67 = "Não liguei para você por nenhum motivo específico."
 
-1011002-51 = "[wa:720]- [log=세이아]Não, o quê, [wa:1700]eu não o chamei [wa:640]para nada. [/log]"
+1011002-68 = "...Eu posso ser uma \"criança problemática\" agora."
 
-1011002-54 = "[wa:800]- [log=세이아]only......[/log]"
+1011002-69 = "Queria chamar a atenção da professora... foi o que pensei."
 
-1011002-55 = "[wa:3560]- [log=세이아]A cada palavra que troco com você, [wa:2890]pareço estar um pouco [wa:1000]atraído. [/log]"
+1011002-70 = "Tenho certeza de que se ele tivesse ligado para você, dizer \"Quero ver você\" teria sido suficiente."
 
-1011002-58 = "Não foi um incômodo ligar para você do nada?"
+1011002-71 = "Mesmo assim, fiz de tudo para contatá-los de uma forma que me permitisse ler mais sobre eles. #nAmatsusae, a pessoa que me chamou estava dormindo. Certo."
 
-1011002-59 = "No entanto, é algo estranho de se dizer agora."
+1011002-72 = "Não sei o quanto você está ciente disso, mas..."
 
-1011002-60 = "...... sem problemas, e?"
+1011002-73 = "Agora não tenho reservas."
 
-1011002-61 = "Certo. Isso é muito parecido com um professor."
+1011002-74 = "Claro, desde que não manche o nome do Trinity ou do Tea Party...com a ressalva #n."
 
-1011002-62 = "[S7] \"Pensei que tivesse me ligado por causa da festa do chá. \"\n[s8] \"Pensei que fosse algo oficial. \""
+1011002-75 = "Todo mundo está fazendo o que quer. #nHá momentos em que sinto vontade de fazer algo sozinho."
 
-1011002-65 = "Não é de surpreender que você pense assim. É porque eu me atrevi a colocar as coisas dessa forma."
+1011002-76 = "Acontece que desta vez tomou forma assim...#nÉ assim que esta história termina."
 
-1011002-66 = "No entanto, conforme observado anteriormente."
+1011002-77 = "Mas. Foi assim que usei aquele \"uma vez\" ..."
 
-1011002-67 = "Não o chamei aqui por nenhum motivo específico."
+1011002-78 = "Vamos parar de fazer ligações desnecessárias de agora em diante."
 
-1011002-68 = "...... Talvez eu seja um pouco "difícil" agora."
+1011002-79 = "Se as coisas continuarem assim, serei classificado como um “aluno problemático”, certo? #nEu queria envergonhar o professor, mas se ele me odiasse, isso seria colocar a carroça na frente dos bois."
 
-1011002-69 = "Eu queria chamar a atenção do professor ...... e foi isso que pensei."
+1011002-80 = "[s9] \"Não me importa o que você me contate.\"\n[s10] \"Na verdade, estou feliz por ter essa conversa.\""
 
-1011002-70 = "Tenho certeza de que se eu tivesse apenas ligado para você dizendo "sinto sua falta", isso teria sido suficiente."
+1011002-85 = "Você é realmente um bom professor."
 
-1011002-71 = "Mas ele se esforçou para entrar em contato comigo, para me dar uma visão mais profunda da situação. #E ainda por cima, a pessoa que ligou para você estava dormindo. [ruby=laughs]É de dar risada[/ruby], não é?"
+1011002-86 = "Por isso seria difícil para o professor se envolver com um aluno como eu..."
 
-1011002-72 = "Não sei o quanto você percebeu, mas ......"
+1011002-90 = "Vamos mudar um pouco de assunto?"
 
-1011002-73 = "Não estou sendo tímido."
+1011002-91 = "A professora não pergunta sobre minha condição física, né? #nA maioria das pessoas inicia a conversa com palavras sobre como cuidar do corpo."
 
-1011002-74 = "Com a ressalva, é claro, de que o ......#n esteja dentro do escopo de não manchar o nome do Trinity ou do Tea Party."
+1011002-92 = "Fiquei me perguntando como estava me sentindo, se estava bem agora, se não estava doendo..."
 
-1011002-75 = "Todos são livres para fazer suas próprias coisas. Até eu, às vezes, quero ser egoísta pelo menos de vez em quando."
+1011002-93 = "Não... essa foi uma pergunta estúpida."
 
-1011002-76 = "Acontece que, dessa vez, foi assim que aconteceu. ......#nFoi assim que essa história terminou."
+1011002-94 = "A solução já foi dada."
 
-1011002-77 = "Mas. Usei esse "uma vez" da seguinte maneira: ......"
+1011002-95 = "[s11] \"Sua aparência energética atual é a resposta.\"\n[s12] \"É óbvio, mesmo que você não pergunte.\""
 
-1011002-78 = "Vamos parar de fazer chamadas aleatórias no futuro."
+1011002-98 = "...Foi um pouco imprudente, mas recebi mais compensação do que esperava."
 
-1011002-79 = "Se eu não fizer isso, serei incluído entre os "alunos problemáticos", não é mesmo? Eu gostaria de irritar o Sr. #n, mas se ele não gostar de mim, não é o fim do mundo."
+1011002-99 = "Mesmo que seja assim, aceitarei as palavras do professor."
 
-1011002-80 = "[s9] \"Não me importo que entre em contato comigo da maneira que quiser. \"\n[s10] \"Estou muito feliz em falar sobre isso. "
+1011002-100 = "Como “antigo anfitrião” da festa do chá, ele solicita a cooperação de Petri."
 
-1011002-85 = "De forma alguma. ...... Você é, de fato, um bom professor."
+1011002-111 = "...Eu gostaria de pedir que você me proteja enquanto eu tiro uma soneca."
 
-1011002-86 = "Dito isso, também sei que os professores do ...... terão dificuldades quando se envolverem com alunos como eu."
-
-1011002-90 = "Vamos mudar um pouco de assunto."
-
-1011002-91 = "O médico não pergunta sobre minha condição física, não é mesmo? #nMuitos iniciam a conversa com palavras de preocupação com o corpo."
-
-1011002-92 = "Como está se sentindo, se está bem agora, se não está muito difícil? ...... e."
-
-1011002-93 = "Não. ...... Essa foi uma pergunta tola."
-
-1011002-94 = "Você já recebeu uma solução."
-
-1011002-95 = "[s11] \"A maneira como você está se sentindo agora é a resposta, não é? \"\n[s12] \"Você não precisa perguntar. \"\"\n[s12] \"Você não precisa perguntar."
-
-1011002-98 = "...... Um pouco imprudente, mas o preço foi mais do que o esperado."
-
-1011002-99 = "Vamos acreditar na palavra do professor, embora dessa forma."
-
-1011002-100 = "Como "ex-anfitriã" de uma festa do chá, peça ajuda à Shirley."
-
-1011002-111 = "...... Gostaria de pedir-lhe que me proteja quando eu for tirar uma soneca."
-
-1011002-113 = "(Depois, com Seia, tirei um breve cochilo em meu quarto e voltei para a placa de Petri)."
+1011002-113 = "(Depois disso, tirei uma soneca no quarto com Seia e voltei para a placa de Petri.)"
 

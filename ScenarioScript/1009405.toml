@@ -1,113 +1,57 @@
 [translation]
 1009405-1 = "Descanso da empregada!"
-
 1009405-2 = "[ns] \"Huh? O destino não é o salão de festas do Departamento de Desenvolvimento de Jogos? \""
-
 1009405-3 = "Essa era minha intenção inicial. ......"
-
 1009405-4 = "Vários clubes me disseram que gostariam muito de apoiar o descanso dos professores."
-
 1009405-5 = "Diet Club, Life and Health Club, Training Club ......#n e até mesmo o Engineering Club!"
-
 1009405-6 = "Está ficando ansioso só de ouvir falar nisso? #nNão tem problema! Ele diz que você se preocupa demais!"
-
 1009405-7 = "Vocês já estão acostumados com o clube de treinamento e o clube de engenharia, não é mesmo, professores? #nOs outros clubes talvez nunca tenham ouvido falar deles antes!"
-
 1009405-8 = "O Diet Club é um clube saudável com o objetivo de construir um corpo #n de forma científica, sem dieta ou exercícios!"
-
 1009405-9 = "O Life and Health Club é um experimento humano legítimo, um clube simples e direto que visa melhorar a constituição do corpo!"
-
 1009405-10 = "[\"Fiquei mais preocupado quando ouvi a explicação! \""
-
-1009405-11 = "Está tudo bem, está tudo bem! Não é todo dia que um aluno machuca um professor no milênio #n!"
-
+1009405-11 = "Está tudo bem, está tudo bem! Não é todo dia que um aluno machuca um sensei no milênio #n!"
 1009405-12 = "O quê? Você disse que sabe que eu não quero fazer mal? Se for #n, então você não tem nada com que se preocupar!"
-
 1009405-13 = "Eu acredito em todos vocês! #nTenho certeza de que se sentirão melhor de corpo e alma!"
-
 1009405-14 = "Já prometi escrever uma avaliação após o uso. Agora não vou conseguir escapar!"
-
 1009405-15 = "Portanto, ...... a primeira coisa que tentamos é..."
-
 1009405-16 = "Essa máquina de massagem de frequência ultra-alta!"
-
 1009405-17 = "Descrição! O que é uma máquina de massagem de frequência ultra-alta? #nPara maximizar a eficácia do relaxamento muscular. ......"
-
 1009405-18 = "Trata-se de um aprimoramento em uma frequência que supera em muito a das máquinas de massagem comuns!"
-
 1009405-19 = "...... é o que diz o manual."
-
 1009405-20 = "É fácil de usar! Basta conectar a máquina desta forma à área que precisa de #n-massagem e acessar ......."
-
 1009405-21 = "Ligue o interruptor e ele estará ligado!"
-
 1009405-23 = "(Tremendo de ansiedade, ela ligou a máquina de massagem: ......)"
-
 1009405-29 = "[ns] \"Uau! \""
-
 1009405-30 = "Oh, as vibrações são tão grandes! Oh, até minha cabeça está tremendo!"
-
 1009405-31 = "Uau. ......Me, estou tonto!"
-
 1009405-32 = "Desligue rapidamente oooh switch oooh. ...... #n dedos presos... ......"
-
-1009405-33 = "Se-se-se-se professor! Me ajude!"
-
+1009405-33 = "Se-se-se-se sensei! Me ajude!"
 1009405-35 = "(De alguma forma, consegui desligar a máquina de massagem: ......)"
-
 1009405-40 = "Ha, ha. ...... Oh, essa foi por pouco. ......"
-
 1009405-41 = "Uh-uh! Ts, próxima! #Na próxima vez você estará absolutamente bem! Agora é hora de usar o traje especial do EMS!"
-
 1009405-42 = "[\"Fato especial de EMS? \""
-
 1009405-43 = "A questão é a seguinte: ...... Não quero me exercitar! Mas quero o efeito de treinamento! #nEste traje especial foi desenvolvido para essas pessoas!"
-
 1009405-44 = "[s1]\"Os benefícios do treinamento sem exercícios! \"\n[s2] \"É revolucionário! Vamos experimentar agora mesmo! \""
-
 1009405-47 = "Phew! ......! Achei que fosse dizer isso!"
-
 1009405-48 = "Também não gosto de exercícios pesados. ......"
-
 1009405-49 = "Esse traje estimula os músculos eletricamente. ......"
-
 1009405-50 = "Eles também fortalecem as fibras musculares e aumentam a resistência!"
-
 1009405-52 = "(Experimentei o traje EMS enquanto lia o manual com a Momoy)"
-
 1009405-59 = "Uau!"
-
 1009405-60 = "Shhhh, é tão estimulante!"
-
 1009405-61 = "Ki, meus músculos estão se contraindo. ......!"
-
 1009405-62 = "Doutor! Me ajude!"
-
 1009405-65 = "(de alguma forma, consegui desativar o traje EMS: ......)"
-
 1009405-68 = "[ns] \"Este ...... é realmente ...... seguro? \""
-
 1009405-69 = "Um, próximo! Você não pode errar com este! #nQue surpresa, ele foi desenvolvido em conjunto pelo Departamento de Treinamento e pelo Departamento de Engenharia!"
-
 1009405-70 = "Eh, minha ansiedade dobrou! #n Heeki! Heeki! Às vezes, você só precisa confiar neles!"
-
 1009405-71 = "Veja! Este é apenas um rolo elástico!"
-
 1009405-72 = "De acordo com o manual ....... #nA pesquisa mostra que a fadiga crônica é causada por uma postura não natural. ......"
-
 1009405-73 = "É por isso que esse rolo de alongamento com inteligência artificial foi desenvolvido para fortalecer o tronco, o que mantém a postura!"
-
 1009405-74 = "Eles dizem que esse rolo verifica automaticamente a condição do usuário e muda para a forma #n-optimal!"
-
 1009405-75 = "Que é ....... #Primeiro você se senta nos rolos e move seu corpo para frente e para trás, e..."
-
 1009405-80 = "Ugh, uau!"
-
 1009405-81 = "Esse rolo! É muito rápido! E ele se move sozinho! #Sabe para onde estão me levando? Doutor, ei...!"
-
 1009405-82 = "[s3] \"\"\"\"\"\"}Eu gostaria de poder ajudá-lo, mas também sou ......! \"\"\"\n[s4] \"Uau! Vou bater na parede - vou bater na parede! "
-
 1009405-86 = "(Depois disso, eles também experimentaram várias máquinas preparadas para descanso ......)"
-
 1009405-87 = "(Com Momoy, ele acabou desmaiando com os músculos doloridos)"
-

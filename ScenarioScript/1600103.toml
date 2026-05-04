@@ -1,85 +1,168 @@
 [translation]
-1600103-1 = "Um encontro de perseguição por acaso"
-1600103-2 = "Ah, Mestre! Aqui, aqui! Eu estava te esperando!"
-1600103-3 = "Obrigada por vir mesmo estando ocupado! Como esperado, ter um Mestre é a melhor coisa que existe!"
-1600103-4 = "[s1] \"Aconteceu alguma coisa?\"\n[s2] \"Isso é óbvio, se é um chamado da Asuna.\""
-1600103-5 = "Eu preciso da ajuda do Mestre!!"
-1600103-6 = "Sério!? Uau! O Mestre é demais!!"
-1600103-7 = "Então, quer saber com o que eu preciso de ajuda? Bem, é que..."
-1600103-8 = "……O que será, hein?"
-1600103-9 = "Ahaha, desculpa, eu ainda não tinha pensado em nada específico!"
-1600103-10 = "[s] \"……？？？\""
-1600103-11 = "……Hm? Por que essa cara, Mestre?"
-1600103-12 = "Se eu realmente precisava de ajuda...? Claro que sim! Só não tinha pensado em algo concreto!"
-1600103-13 = "Já que hoje é um dia sem missões nem aulas, né."
-1600103-14 = "Em dias assim, a gente precisa de alguém para ficar junto, não precisa? E, sendo assim, a única pessoa que pode ser essa companhia para mim é o Mestre, né?"
+1600103-1 = "A data da utilização não autorizada aconteceu por acaso."
+
+1600103-2 = "Ah, mestre! Aqui, aqui! Eu estive esperando!"
+
+1600103-3 = "Obrigado por ter vindo, mesmo estando ocupado! Afinal, o que você deveria ter é seu marido!"
+
+1600103-4 = "[s1] \"Aconteceu alguma coisa?\"\n[s2] \"Claro, se Asuna ligou.\""
+
+1600103-5 = "Eu preciso de sua ajuda! !"
+
+1600103-6 = "real! ? Uau! Seu marido é o melhor! !"
+
+1600103-7 = "Então, em que você quer que eu te ajude? Bem, isso é..."
+
+1600103-8 = "...Eu me pergunto o que é isso?"
+
+1600103-9 = "Haha, desculpe, ainda não pensei nisso!"
+
+1600103-10 = "[s] \"...????\""
+
+1600103-11 = "……sim? O que há de errado em fazer uma cara dessas, Mestre?"
+
+1600103-12 = "Você realmente precisava de ajuda? claro! Só não pensei nisso especificamente!"
+
+1600103-13 = "Hoje é o dia em que não tenho tarefas ou aulas."
+
+1600103-14 = "Você precisa de alguém para estar com você em dias como este, certo? Claro, a única pessoa assim para mim é meu marido, certo?"
+
 1600103-15 = "Um convite para um encontro...?"
-1600103-16 = "Hmm, não sei, eu realmente queria que o Mestre estivesse ao meu lado, mas..."
-1600103-17 = "……Sim! Pensando bem, é isso mesmo! Então está decidido, se o Mestre estiver de acordo, vamos ter um encontro com a Asuna!"
-1600103-18 = "Vamos, vamos! Não podemos desperdiçar tempo, vamos logo! Mestre!"
-1600103-21 = "Beleza, vamos nessa!!"
-1600103-23 = "(Antes que pudesse dizer qualquer coisa, Asuna agarrou seu braço e o arrastou)"
-1600103-25 = "Por isso, vamos ficar de tocaia por aqui e, quando um estudante passar..."
-1600103-26 = "Entendo, não é ruim. Esse é um plano perfeito..."
-1600103-27 = "……E-espere! Aquela ali não é a empregada da C&C?"
+
+1600103-16 = "Hmm, não sei, eu certamente queria que meu marido estivesse ao meu lado..."
+
+1600103-17 = "...... Sim!り、ご主人様さえよければアスナとデートしよっ！"
+
+1600103-18 = "Olha, olha! Vamos rápido porque não temos muito tempo! Mestre!"
+
+1600103-21 = "Tudo bem, Shuppatsu! !"
+
+1600103-23 = "(Antes que ele pudesse dizer qualquer coisa, Asuna agarrou seu braço e o arrastou para longe.)"
+
+1600103-25 = "Então montei uma emboscada por aqui e embosquei os estudantes que estavam passando..."
+
+1600103-26 = "Entendo, não é ruim. Perfeito..."
+
+1600103-27 = "...Espere! Não é a empregada do C&C ali?"
+
 1600103-29 = "～♪～♬"
-1600103-32 = "É verdade...! Droga, se eles descobrirem a gente, vai dar ruim. Vamos mudar de lugar por enquanto."
-1600103-38 = "……Hm? Alguém chamou a gente agora há pouco? Pareceu que ouvi alguma coisa..."
-1600103-39 = "……Será que foi impressão minha?"
-1600103-40 = "……Bom, agora não importa! Deixa pra lá, deixa pra lá!"
-1600103-41 = "Vamos logo, Mestre! Hoje temos que ir a tantos lugares quanto possível!"
-1600103-43 = "(Asuna entrelaçou seu braço no seu e começou a andar novamente)"
-1600103-45 = "Por aqui deve dar..."
-1600103-48 = "……O quê!? Aquela é a empregada de antes! Será que viemos na mesma direção? Droga, vamos recuar!"
-1600103-51 = "Mestre, olha aquilo! É aquele jogo que eu queria jogar com você há muito tempo!"
-1600103-52 = "Ah, o Mestre já jogou esse jogo? Que sorte, então vamos jogar comigo também!"
-1600103-53 = "Hm? Como joga? Hmm, não faço a menor ideia!"
-1600103-54 = "Bom, esse tipo de coisa a gente resolve na intuição! Além disso, quem vai ganhar não é tão importante desta vez!"
-1600103-55 = "……O que importa é que eu e o Mestre estamos jogando juntos assim, né?"
-1600103-56 = "Beleza! Então, começar!!"
-1600103-57 = "(Embora tivesse confiança por ser um jogo que eu praticava bastante)"
-1600103-59 = "(……Fui derrotado completamente)"
-1600103-63 = "Estranho, por que ela está em todos os lugares que vamos... Será que estamos sendo seguidos por eles...!?"
-1600103-64 = "D-de novo!? Droga... fujam!"
-1600103-67 = "Um parque de diversões! É a primeira vez que venho a um parque de diversões só para me divertir assim!"
-1600103-68 = "Ah, não, quando vim em missão eu até cheguei a andar nos brinquedos e me divertir, sabe?"
-1600103-69 = "Quando digo 'assim', quero dizer vindo aqui só nós dois."
-1600103-70 = "Por isso, como eu disse antes, não importa o que a gente faça!"
-1600103-71 = "Como estou com o Mestre, fico feliz e me divirto. Seja no fliperama ou no parque de diversões!"
-1600103-72 = "Se estou com o Mestre, até só caminhar por aí já é divertido."
-1600103-73 = "……Não que seja uma prova, mas que tal a gente caminhar um pouco por aqui? Mestre, seus pés não estão doendo?"
-1600103-74 = "[s] \"Não, estou bem.\""
-1600103-75 = "Beleza! Então vamos caminhar juntos até onde der, até o sol se pôr!! Não fica para trás, hein!"
-1600103-76 = "Ah, mas se seus pés doerem, me avisa, viu? Eu te carrego nas costas!"
-1600103-78 = "(Asuna diz isso e volta a caminhar alegremente)"
-1600103-80 = "(...No fim, minhas energias acabaram no meio do caminho e acabei sendo carregado nas costas pela Asuna)"
-1600103-82 = "Ah! Foi sério, muito divertido! Obrigada!"
-1600103-83 = "Hm? Mestre, disse alguma coisa?"
-1600103-84 = "...Quer que eu te coloque no chão? Está preocupado com os olhares das pessoas?"
-1600103-85 = É mesmo? Já que estamos aqui, vamos mostrar para todo mundo!"
-1600103-86 = "Hmm, se você insiste tanto... pronto."
-1600103-89 = "Como está? Seus pés estão bem?"
-1600103-90 = "[s] (Assente com a cabeça enquanto entrega a bebida que estava segurando)"
-1600103-91 = "Ah, energético! É para mim? Obrigada, Mestre!"
-1600103-92 = "(Gole, gole...)"
-1600103-93 = "Ahhh! Que gelado!!"
-1600103-94 = "Eu adoro isso, é muito bom, né?"
-1600103-95 = "...Eu gosto de verdade. É estranho..."
-1600103-96 = "Mesmo sendo uma paisagem que eu já vi, quando estou com o Mestre, parece algo totalmente diferente."
-1600103-97 = "O Mestre realmente não é alguém comum para mim."
-1600103-98 = "Ahaha... é, sinto que é por aí."
-1600103-99 = "...Bom, já está tarde, o Mestre precisa voltar logo, né?"
-1600103-100 = "Já que estamos aqui, quer que eu te carregue na volta também? Hm? Não quer?"
-1600103-101 = "Ahahahaha! É brincadeira, brincadeira!"
-1600103-102 = "Muito bem, agora vou arremessar a lata vazia na lixeira, chute certeiro!"
-1600103-104 = "Fiuuu"
-1600103-105 = "Ih, foi bem longe..."
-1600103-106 = "CLANG!!"
-1600103-107 = "...Hm? Ouvi um barulho estranho, será que acertou alguma coisa?"
+1600103-32 = "É verdade…! Droga, seria ruim se eles descobrissem, então vamos trocar de lugar por enquanto."
+
+1600103-38 = "...Hum? Alguém acabou de nos chamar assim? Acho que ouvi alguma coisa..."
+
+1600103-39 = "...Talvez seja apenas minha imaginação?"
+
+1600103-40 = "...Bem, isso não importa agora! Eu não me importo, eu não me importo!"
+
+1600103-41 = "Apresse-se, mestre! Temos que ir a tantos lugares quanto possível juntos hoje!"
+
+1600103-43 = "(Asuna cruzou os braços e começou a andar novamente.)"
+
+1600103-45 = "Algo pode ser feito aqui..."
+
+1600103-48 = "...O que! ? Essa é a empregada de antes! Se você estiver vindo na mesma direção, eu recuarei!"
+
+1600103-51 = "Mestre, é isso! Isso é algo que eu queria trabalhar há muito tempo!"
+
+1600103-52 = "Huh, seu marido já jogou esse jogo? Isso foi certo, então vamos fazer isso comigo também!"
+
+1600103-53 = "sim? maneiras? Hmm, eu não sei de jeito nenhum?"
+
+1600103-54 = "Bem, é bom ter um palpite quando se trata de coisas assim! Além disso, realmente não importa quem ganha desta vez!"
+
+1600103-55 = "...É importante eu e meu marido fazermos coisas assim juntos, certo?"
+
+1600103-56 = "OK! Vamos começar! !"
+
+1600103-57 = "(Embora eu estivesse confiante porque já havia jogado bastante.)"
+
+1600103-59 = "(...eu fui completamente derrotado)"
+
+1600103-63 = "É estranho, por que aquele cara está em todo lugar que vamos...talvez estejamos sendo seguidos...! ?"
+
+1600103-64 = "Bem, de novo! Merda... fuja!"
+
+1600103-67 = "É um parque de diversões! Esta é a primeira vez que visito um parque de diversões como este!"
+
+1600103-68 = "Eh, não, quando você veio em missão, você não andou em nenhum veículo nem brincou, certo?"
+
+1600103-69 = "Quando digo normal assim, quero dizer que somos só nós dois assim."
+
+1600103-70 = "Então, como eu disse, não me importo com o que você faz!"
+
+1600103-71 = "Estou feliz e me divertindo porque estou com meu marido. Centros de jogos e parques de diversões também!"
+
+1600103-72 = "Se você estiver com seu marido, apenas passear será divertido."
+
+1600103-73 = "...Não é prova, mas por que você não anda por aqui um pouco? Mestre, seus pés não doem?"
+
+1600103-74 = "[s] \"Não, está tudo bem.\""
+
+1600103-75 = "OK! Então, vamos caminhar o mais longe que pudermos até o sol se pôr! ! Não se atrase!"
+
+1600103-76 = "Ah, mas se seus pés doerem, por favor me diga. Vou te dar uma carona nas costas!"
+
+1600103-78 = "(Asuna disse isso e começou a andar feliz novamente)"
+
+1600103-80 = "(...No final, fiquei sem energia e Asuna me deu carona nas costas.)"
+
+1600103-82 = "Ah! Foi muito divertido! Obrigado!"
+
+1600103-83 = "sim? Mestre, você acabou de dizer alguma coisa?"
+
+1600103-84 = "... Já retirou? Você está preocupado com a forma como os outros olham para você?"
+
+1600103-85 = "sim? Vamos aproveitar para mostrar para você!"
+
+1600103-86 = "Hmm, se você diz isso... tudo bem."
+
+1600103-89 = "cobre? Suas pernas estão bem?"
+
+1600103-90 = "[s] (acena com a cabeça e entrega a bebida que ele estava segurando)"
+
+1600103-91 = "Ah, bebida energética! Você pode dar para mim? Obrigado, mestre!"
+
+1600103-92 = "(Kukku, kukku…)"
+
+1600103-93 = "Uau! Está frio! !"
+
+1600103-94 = "Eu gosto disso, é delicioso."
+
+1600103-95 = "...Eu realmente gosto disso. Isso é estranho..."
+
+1600103-96 = "Mesmo que você já tenha visto a paisagem antes, é completamente diferente quando você está com seu marido."
+
+1600103-97 = "Seu marido definitivamente não é normal para mim."
+
+1600103-98 = "Ahhh... é assim que parece."
+
+1600103-99 = "... Bom, então já é tarde e o mestre tem que voltar logo, certo?"
+
+1600103-100 = "Por que você não me dá carona no caminho para casa? sim? Você não gosta disso?"
+
+1600103-101 = "Ahahahaha! Brincadeirinha, brincadeira!"
+
+1600103-102 = "Agora, jogue a lata vazia na lata de lixo!"
+
+1600103-104 = "Huynh"
+
+1600103-105 = "Bem, é bem longe..."
+
+1600103-106 = "Kahn! !"
+
+1600103-107 = "……sim? Ouvi um barulho estranho, algo me atingiu?"
+
 1600103-109 = "...?"
-1600103-110 = "Ai...! Droga! Então quer dizer que eles já sabiam de tudo?!"
-1600103-111 = "Não dá, vou ter que desistir dessa vez...!"
-1600103-112 = "Grr! Me aguardem, C&C...!!"
-1600103-115 = "..."
+
+1600103-110 = "Eu fui...! ? Porra! Isso significa que você tem tudo planejado, afinal?"
+
+1600103-111 = "Não adianta, vamos desistir dessa vez...!"
+
+1600103-112 = "Caramba! Lembre-se de C&C...! !"
+
+1600103-115 = "……."
+
 1600103-116 = "...?"
-1600103-118 = "...Quem são aquelas pessoas?"
+
+1600103-118 = "...Quem são essas pessoas?"
+

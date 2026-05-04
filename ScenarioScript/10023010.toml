@@ -49,11 +49,13 @@
 10023010-99 = "Limpeza...?"
 10023010-100 = "Sim, uma \"limpeza\".#nPor acaso, não é um bom momento para você?"
 10023010-101 = "Bem, se for só uma limpeza... mas, nesse caso, qualquer um não serviria?"
-10023010-102 = "Não, eu gostaria muito que a "Pequena Tirana" cuidasse disso."
+10023010-102 = "Não, eu gostaria muito que a \"Pequena Tirana\" cuidasse disso."
+
 10023010-103 = "Quanto à data, hora e local,"
 10023010-104 = "por favor, verifique este envelope."
 10023010-105 = "Ei, espere um pouco!"
-10023010-106 = "Psiu, mantenha isso em segredo absoluto. Conto com você. #n"Pequena Tirana"..."
+10023010-106 = "Psiu, mantenha isso em segredo absoluto. Conto com você. #n\"Pequena Tirana\"..."
+
 10023010-108 = "Não, a Neru Mikamo da C&C."
 10023010-114 = "……Hã!?"
 10023010-116 = "……Foi isso que aconteceu."
@@ -68,9 +70,12 @@
 10023010-135 = "E-então... a gente vai ter que... sair...?"
 10023010-137 = "Uuu... o que eu faço!? #nDesculpa, gente...!"
 10023010-138 = "Se eu tivesse recusado na hora... buááá!"
-10023010-139 = "Ai... enfim, irmã. #nÉ verdade que o conteúdo do pedido é "limpeza"?"
-10023010-140 = "Sim, a pessoa que pediu falou "limpeza" várias vezes."
-10023010-141 = "Mas se for só "limpeza"... como você disse, qualquer um deveria conseguir fazer, né?"
+10023010-139 = "Ai... enfim, irmã. #nÉ verdade que o conteúdo do pedido é \"limpeza\"?"
+
+10023010-140 = "Sim, a pessoa que pediu falou \"limpeza\" várias vezes."
+
+10023010-141 = "Mas se for só \"limpeza\"... como você disse, qualquer um deveria conseguir fazer, né?"
+
 10023010-142 = "Mesmo assim, pedir especificamente para a C&C... será que é uma casa muito grande ou algo assim..."
 10023010-143 = "V-você vai me ajudar, Midori!?"
 10023010-144 = "……Fico preocupada se você for sozinha. #nJá que aceitamos, é melhor terminar logo do que recusar e criar confusão."
@@ -80,7 +85,8 @@
 10023010-151 = "Limpeza... lá fora... muita gente... conversar com estranhos... #nUuu, uuuu..."
 10023010-152 = "T-tá tudo bem, Yuzu! #nNós estamos com você!"
 10023010-153 = "Ira, ruína, corrosão, desespero, colapso... o mundo está caminhando para a destruição..."
-10023010-154 = "É a "Missão de Limpeza em Grupo"!"
+10023010-154 = "É a \"Missão de Limpeza em Grupo\"!"
+
 10023010-155 = "É por isso, Sensei! Ajude a gente!"
 10023010-156 = "[s] \"Ué, eu também!?\""
 10023010-158 = "Sim! Se o Sensei vier com a gente, não precisaremos nos preocupar com os lugares que não alcançamos!"
@@ -89,7 +95,7 @@
 10023010-161 = "[s] \"Essa é a imagem que a Momoi tem dos adultos...\""
 10023010-162 = "O Sensei também vai? Então a Alice não tem medo de nada! #nUma heroína com o moral elevado é invencível!"
 10023010-163 = "Bem... desculpe... se o Sensei estiver por perto... #neu também consigo criar um pouco de coragem..."
-10023010-164 = "[s1] \"Então, vamos dar o nosso melhor juntos.\"\n[s2] \"Cuidar dos alunos é o papel do professor, afinal.\""
+10023010-164 = "[s1] \"Então, vamos dar o nosso melhor juntos.\"\n[s2] \"Cuidar dos alunos é o papel do sensei, afinal.\""
 10023010-165 = "Eba! Obrigada, Sensei!"
 10023010-166 = "Eba! Obrigada, Sensei!"
 10023010-167 = "Então, já tenho um pedido para o nosso consultor temporário!"

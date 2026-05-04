@@ -1,105 +1,105 @@
 [translation]
-1009602-1 = "Escolhendo um traje de banho"
+1009602-1 = "Seleção de maiô"
 
-1009602-2 = "(A pedido de Canna, ele foi para a Academia de Polícia de Valquíria)."
+1009602-2 = "(A pedido de Kanna, foi para a Academia de Polícia Valquíria)"
 
-1009602-4 = "Obrigado por se dar ao trabalho, senhor [USERNAME]."
+1009602-4 = "Muito obrigado, Sr. [NOME DE USUÁRIO]."
 
-1009602-5 = "[\"O pedido de Kanna é sempre bem-vindo. \""
+1009602-5 = "[s] \"O pedido de Kanna é sempre bem vindo.\""
 
-1009602-6 = "Ah, estou entendendo."
+1009602-6 = "É assim mesmo?"
 
-1009602-7 = "...... Gostaria de passar rapidamente para a questão principal."
+1009602-7 = "...Gostaria de ir direto ao assunto principal."
 
-1009602-8 = "[s1] \"Você foi designado como salva-vidas, não foi? \"\n[s2] \"Você está tendo problemas para escolher um traje de banho, não está? \"\"\n[s2]]"
+1009602-8 = "[s1] \"Você foi designado para ser um salva-vidas, certo?\"\n[s2] \"Você está tendo problemas para escolher um maiô, certo?\""
 
-1009602-11 = "Sim, isso está correto."
+1009602-11 = "Sim, está certo."
 
-1009602-12 = "Mais detalhes podem ser encontrados quando você se mudar para um local diferente."
+1009602-12 = "Discutiremos os detalhes depois de nos mudarmos para outro local."
 
-1009602-16 = "Vá em frente, doutor."
+1009602-16 = "Por favor, senhor."
 
-1009602-17 = "[s3] \"Este é um vestiário, não é? \"\"\n[s4] \"Não é bom para nós ficarmos sozinhos em um lugar como esse! \"\"\n[s3]]"
+1009602-17 = "[s3] \"Este é o vestiário!\"\n[s4] \"Não é bom ficar sozinho em um lugar como esse!?\""
 
-1009602-20 = "Entendemos as preocupações do professor."
+1009602-20 = "Eu entendo suas preocupações."
 
-1009602-21 = "Mas temos permissão especial para usar esse horário, portanto, ninguém mais pode entrar."
+1009602-21 = "No entanto, temos permissão especial para usá-lo durante esse período, então ninguém entrará."
 
-1009602-22 = "[s]\"Esse não é o ponto. ....... \""
+1009602-22 = "[s] \"Esse é o problema...\""
 
-1009602-23 = "Portanto, dê uma olhada aqui primeiro e acesse ......."
+1009602-23 = "Bem, antes de mais nada, por favor, dê uma olhada nisso..."
 
-1009602-27 = "Durante as tarefas de salva-vidas, os salva-vidas foram obrigados a usar roupas de banho."
+1009602-27 = "Durante as tarefas de salva-vidas, recebi ordens de usar maiô."
 
-1009602-28 = "Eles serão fornecidos pela Valkyrie."
+1009602-28 = "Estes são itens fornecidos pela Valkyrie."
 
-1009602-29 = "Mas essa missão não foi estritamente acordada e causou problemas extras."
+1009602-29 = "No entanto, não havia regras rígidas para esta missão, então tive ainda mais problemas."
 
-1009602-30 = "Com vergonha, pedi ajuda ao professor."
+1009602-30 = "Fiquei envergonhado e pedi ajuda ao meu professor."
 
-1009602-31 = "[s5] \"\"}Eu quero dizer ....... \"\n[s6] \"Eu só preciso escolher um traje de banho para a Kanna usar, certo? \""
+1009602-31 = "[s5] \"Então...\"\n[s6] \"É só escolher o maiô que a Kanna vai usar, certo?\""
 
-1009602-34 = "Sim, eles são."
+1009602-34 = "Sim, está certo."
 
-1009602-35 = "Na verdade, raramente usei um traje de banho em particular, então não sei em que me basear para escolher."
+1009602-35 = "Na verdade, raramente uso maiô mesmo na minha vida privada, então não sei que critérios usar na hora de escolher um."
 
-1009602-36 = "Todos esses designs são comumente vistos em ......."
+1009602-36 = "Todos eles são designs que são frequentemente vistos..."
 
-1009602-37 = "Itens com uma área de tecido muito pequena devem ser evitados, se possível."
+1009602-37 = "Se possível, gostaria de evitar itens com área de tecido muito pequena."
 
-1009602-38 = "[\"De fato, é um design arrojado. \""
+1009602-38 = "[s] \"É certamente um design arrojado.\""
 
-1009602-42 = "[ns] \"Que tal isso então? \""
+1009602-42 = "[ns] \"Então, que tal isso?\""
 
-1009602-46 = "Sinto-me bastante constrangido. ......"
+1009602-46 = "Na verdade, sinto-me envergonhado...!"
 
-1009602-47 = "Sim. ......."
+1009602-47 = "Concordo……."
 
-1009602-48 = "Use roupas de banho que transmitam aos outros que você é um salva-vidas."
+1009602-48 = "Por favor, use um maiô que permita aos outros saber que você é um salva-vidas."
 
-1009602-49 = "[Não seria perfeito? \""
+1009602-49 = "[s] \"Nesse caso, isso não seria perfeito?\""
 
-1009602-55 = "Sim, você pode ver isso em uma olhada rápida em ......."
+1009602-55 = "Certamente, isso seria óbvio à primeira vista, mas..."
 
-1009602-56 = "Como esperado, o design é muito bizarro. ......"
+1009602-56 = "Como esperado, o design é tão único..."
 
-1009602-57 = "[s]\"Sim, é isso mesmo. ....... \""
+1009602-57 = "[s] \"Isso mesmo...\""
 
-1009602-58 = "Por exemplo, este e ......."
+1009602-58 = "Por exemplo, assim..."
 
-1009602-62 = "O design é seguro e a área de tecido é suficiente. Ao usar a braçadeira #n, os clientes saberão que você é um salva-vidas."
+1009602-62 = "O design é seguro e a área do tecido é suficiente. #nUsar uma braçadeira permite que os clientes saibam que você salva vidas."
 
-1009602-63 = "O que seus professores acham?"
+1009602-63 = "O que você acha, professor?"
 
-1009602-64 = "[\"Eu também acho que é bom. \""
+1009602-64 = "[s] \"Eu também acho que é bom.\""
 
-1009602-65 = "Então, vou experimentá-lo uma vez."
+1009602-65 = "Bem, vamos tentar uma vez."
 
-1009602-66 = "......."
+1009602-66 = "……."
 
-1009602-67 = "Desculpe-me. ......."
+1009602-67 = "Hum, me desculpe, mas..."
 
-1009602-68 = "[s7] \"Oh, desculpe! \"\n[s8] \"Você está se trocando aqui, certo? \"\"\n[s8]]"
+1009602-68 = "[s7] \"Oh, desculpe!\"\n[s8] \"Preciso me trocar aqui!\""
 
-1009602-74 = "Já experimentei, o que você acha?"
+1009602-74 = "Eu experimentei, o que você acha?"
 
-1009602-75 = "[s9] \"Acho que fica bem em você. \"\n[s10] \"Muito bonito. \"\n[s10]""
+1009602-75 = "[s9] \"Acho que combina bem com você.\"\n[s10] \"É muito fofo.\""
 
-1009602-77 = "Por favor, não me elogie dizendo que sou bonita."
+1009602-77 = "Por favor, pare de me lisonjear dizendo que sou fofo."
 
-1009602-78 = "Porque essas palavras não combinam comigo."
+1009602-78 = "Esse tipo de palavra não combina comigo."
 
-1009602-79 = "Então farei isso."
+1009602-79 = "Então acho que vou fazer isso."
 
-1009602-80 = "...... Afinal, fui eu mesmo que escolhi, não foi? #nApesar do fato de eu ter me dado ao trabalho de ligar para você. ......"
+1009602-80 = "...No final, eu mesmo fiz a escolha. #nMesmo que eu tenha me esforçado para ligar para você..."
 
-1009602-81 = "Pedimos desculpas pelo desperdício de passos."
+1009602-81 = "Sinto muito por desperdiçar seu tempo."
 
-1009602-82 = "[s]\"Nah. \""
+1009602-82 = "[s] \"Não.\""
 
-1009602-86 = "[\"Estou feliz por ter ajudado da maneira que pude. \""
+1009602-86 = "[ns] \"Se eu pudesse ajudar um pouco, seria ótimo.\""
 
-1009602-90 = "...... Sim."
+1009602-90 = "……sim."
 
-1009602-91 = "Obrigado por sua ajuda."
+1009602-91 = "Obrigado pela ajuda."
 

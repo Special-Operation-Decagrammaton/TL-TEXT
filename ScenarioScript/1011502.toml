@@ -1,207 +1,82 @@
 [translation]
 1011502-1 = "treinamento de cronometragem"
-
 1011502-2 = "(dirigido ao campo de treino do Millennium Baseball Club)"
-
 1011502-9 = "Ah! Você veio. obrigado."
-
 1011502-10 = "[s1] \"Toque!\"\n[s2] \"Não!\""
-
 1011502-11 = "Não, não! #n...Toca aqui faz você se sentir um pouco animado!"
-
 1011502-12 = "Sim!"
-
 1011502-13 = "...Tudo bem. Bem, então, por favor, dê uma olhada."
-
 1011502-15 = "Vou manter meu ânimo no treino de hoje!"
-
 1011502-20 = "(Dito isso, Ray dirigiu-se para a área do batedor animado...)"
-
 1011502-27 = "<Três rebatidas...fora! >"
-
 1011502-28 = "Como esperado, é fabricado pela Millennium... é difícil..."
-
 1011502-29 = "Mas da próxima vez...!"
-
 1011502-35 = "... eu peguei!"
-
 1011502-39 = "<Viagem central...para fora>"
-
 1011502-40 = "<Boa batida, mas o ângulo da bola é muito alto>"
-
 1011502-41 = "Suspirar..."
-
 1011502-45 = "<É aterrador>"
-
 1011502-46 = "Eca...!"
-
 1011502-49 = "<Mosca interna>"
-
 1011502-50 = "Espere, ainda tem mais...!"
-
 1011502-54 = "<Golpe... Três golpes, fora! >"
-
 1011502-55 = "Eca...!"
-
 1011502-64 = "obrigado pelo seu trabalho árduo……."
-
 1011502-65 = "Suspiro, hoje não foi nada bom..."
-
 1011502-66 = "Mesmo quando pensei que tinha acertado a bola, era apenas uma bola voadora ou uma bola rasteira."
-
 1011502-67 = "No entanto, como não foi um no-hitter, acho que devemos considerar isso uma coisa boa..."
-
 1011502-68 = "[ns] \"Qual poderia ser a causa?\""
-
 1011502-69 = "……."
-
 1011502-70 = "Se essa for a resposta, então eu sei."
-
 1011502-71 = "[s] \"Ah, é mesmo?\""
-
 1011502-72 = "No final das contas, é tudo uma questão de tempo."
-
 1011502-73 = "Dizem que o tempo é a chave para rebater, e o trabalho do arremessador é atrapalhar esse tempo."
-
 1011502-77 = "...Huh? Talvez tenha sido o contrário?"
-
 1011502-78 = "Independentemente do campo, sempre há um momento certo para acertar o centro da bola."
-
 1011502-79 = "Eu tive que olhar para isso e balançar o bastão..."
-
 1011502-80 = "Mas isso é difícil! Também tenho que descobrir que tipo de arremesso é, se é uma bola rápida ou uma bola quebrada."
-
 1011502-81 = "Mesmo que você consiga segui-lo com os olhos, seu corpo pode não ser capaz de segui-lo..."
-
-1011502-82 = "[ns3] \"Talvez seja o momento certo...\"\n[ns4] \"Então talvez eu possa ajudar.""
-
-1011502-85 = "É verdade! ? Por favor, faça isso!"
-
-1011502-86 = "Até agora, ninguém conhecia um bom método de treinamento..."
-
-1011502-87 = "foto? É importante mudar sua maneira de pensar? Acredite em mim e me siga?"
-
-1011502-88 = "Sim, claro... mas não pressione tanto!"
-
-1011502-89 = "Por favor, pelo menos me diga onde você está indo...!"
-
-1011502-95 = "Isto é... um centro de jogos! ?"
-
-1011502-96 = "Não importa o que eu pense sobre isso, não acho que você possa ter treinamento especial de beisebol aqui..."
-
-1011502-97 = "[s] \"Jogos de ritmo são o treinamento perfeito para o tempo!""
+1011502-82 = "[ns3] \"Talvez seja o momento certo...\"\n[ns4] \"Então talvez eu possa ajudar.\"\"\n1011502-85 = \"É verdade! ? Por favor, faça isso!\"\n1011502-86 = \"Até agora, ninguém conhecia um bom método de treinamento...\"\n1011502-87 = \"foto? É importante mudar sua maneira de pensar? Acredite em mim e me siga?\"\n1011502-88 = \"Sim, claro... mas não pressione tanto!\"\n1011502-89 = \"Por favor, pelo menos me diga onde você está indo...!\"\n1011502-95 = \"Isto é... um centro de jogos! ?\"\n1011502-96 = \"Não importa o que eu pense sobre isso, não acho que você possa ter treinamento especial de beisebol aqui...\"\n1011502-97 = \"[s] \"Jogos de ritmo são o treinamento perfeito para o tempo!\""
 
 1011502-98 = "Jogos de ritmo... desculpe, mas não jogo muitos jogos..."
-
 1011502-99 = "Você entenderá se tentar...?"
-
 1011502-100 = "É um teste, certo? Vou tentar!"
-
 1011502-102 = "(Ele levou Rei, que parecia curioso, para o canto do jogo de ritmo.)"
-
 1011502-103 = "(No entanto, naquela época eu não tinha como saber... que iria conhecer uma nova lenda...)"
-
 1011502-104 = "Entendo, este é um jogo de ritmo..."
-
 1011502-105 = "Pressione o botão no momento certo de acordo com a barra caindo..."
-
 1011502-106 = "Certamente parece que seria uma boa sessão de treinamento."
-
 1011502-107 = "Huh? Existem jogos em que você toca bateria, guitarra ou bateria?"
-
 1011502-108 = "Mesmo que você chame isso apenas de jogo de ritmo, é uma grande variedade de jogos..."
-
-1011502-112 = "Fico confuso quando há tantos jogos...#nVou ser honesto e experimentar primeiro os jogos recomendados pelo professor!"
-
+1011502-112 = "Fico confuso quando há tantos jogos...#nVou ser honesto e experimentar primeiro os jogos recomendados pelo sensei!"
 1011502-114 = "(Quando Rei ficou de frente para o gabinete, o tutorial começou a tocar)"
-
 1011502-115 = "(E depois de um momento...)"
-
 1011502-123 = "Pressione e segure... é fácil sair daqui... arranhe, não esqueça..."
-
 1011502-134 = "Ei, olhe aquele garoto!"
-
 1011502-135 = "Essa é uma nova música do nível 12, certo? A precisão é terrível..."
-
 1011502-145 = "Ele ainda deve estar pesquisando sobre dedilhado... Será que ele está apenas reagindo com reflexos...! ?"
-
 1011502-146 = "O ritmo vai ser interrompido aqui... mas está tudo bem! Também consegui ler os padrões de acertos consecutivos!"
-
-1011502-169 = "...Eu consegui! professor! É um combo completo! ...Huh?"
-
+1011502-169 = "...Eu consegui! sensei! É um combo completo! ...Huh?"
 1011502-173 = "E essa situação...?"
-
-1011502-174 = "[s5] \"Hum... Parabéns, Ray!\"\n[s6] \"Você é o número um no ranking de todos os tempos!""
-
-1011502-177 = "1º lugar...?"
-
-1011502-178 = "Eu estava pressionando na hora certa...?"
-
-1011502-179 = "Eu apenas apertei na hora certa...! ?"
-
-1011502-180 = "Dizem que jogos de ritmo exigem bom senso... mas acho que não tenho esse nível de talento..."
-
-1011502-181 = "Acho que seria uma boa partida contra a lendária “UZQueen”! ?"
-
-1011502-182 = "Você me chamou de "Rei" antes, certo? Se eu tivesse que dar um nome... seria o nascimento de “Ray Queen”."
-
-1011502-186 = "Ah, sim...?"
-
-1011502-187 = "Ah, uh... se não se importa, posso tirar uma foto com você...?"
-
-1011502-188 = "Huh! ? E-eu não sou tão bom assim, e meu trabalho principal é beisebol, não jogos...!"
-
-1011502-189 = "Bem, sinto muito por todos os jogadores..."
-
-1011502-193 = "Peço desculpas por isso...! !"
-
-1011502-200 = "Ha, ha, ha…."
-
-1011502-207 = "[ns7] \"Haa, haa, haa...\"\n[ns8] \"Como esperado do time de beisebol, eles são rápidos...!\""
-
-1011502-210 = "Ah, professora! ? desculpe! Eu fugi sozinho...!"
-
-1011502-211 = "Além disso, não sou tão rápido entre os jogadores..."
-
-1011502-212 = "Mas fiquei surpreso ao receber tanta atenção."
-
-1011502-213 = "Quando me virei, de repente havia mais pessoas... Fui completamente pego de surpresa."
-
-1011502-214 = "[s] \"Desculpe, Ray. A culpa é minha.""
+1011502-174 = "[s5] \"Hum... Parabéns, Ray!\"\n[s6] \"Você é o número um no ranking de todos os tempos!\"\"\n1011502-177 = \"1º lugar...?\"\n1011502-178 = \"Eu estava pressionando na hora certa...?\"\n1011502-179 = \"Eu apenas apertei na hora certa...! ?\"\n1011502-180 = \"Dizem que jogos de ritmo exigem bom senso... mas acho que não tenho esse nível de talento...\"\n1011502-181 = \"Acho que seria uma boa partida contra a lendária “UZQueen”! ?\"\n1011502-182 = \"Você me chamou de \"Rei\" antes, certo? Se eu tivesse que dar um nome... seria o nascimento de “Ray Queen”.\"\n1011502-186 = \"Ah, sim...?\"\n1011502-187 = \"Ah, uh... se não se importa, posso tirar uma foto com você...?\"\n1011502-188 = \"Huh! ? E-eu não sou tão bom assim, e meu trabalho principal é beisebol, não jogos...!\"\n1011502-189 = \"Bem, sinto muito por todos os jogadores...\"\n1011502-193 = \"Peço desculpas por isso...! !\"\n1011502-200 = \"Ha, ha, ha….\"\n1011502-207 = \"[ns7] \"Haa, haa, haa...\"\n[ns8] \"Como esperado do time de beisebol, eles são rápidos...!\"\"\n1011502-210 = \"Ah, professora! ? desculpe! Eu fugi sozinho...!\"\n1011502-211 = \"Além disso, não sou tão rápido entre os jogadores...\"\n1011502-212 = \"Mas fiquei surpreso ao receber tanta atenção.\"\n1011502-213 = \"Quando me virei, de repente havia mais pessoas... Fui completamente pego de surpresa.\"\n1011502-214 = \"[s] \"Desculpe, Ray. A culpa é minha.\""
 
 1011502-215 = "Não, não! A professora pede desculpas."
-
-1011502-216 = "Meu professor me ensinou um jogo de ritmo."
-
+1011502-216 = "Meu sensei me ensinou um jogo de ritmo."
 1011502-217 = "A razão pela qual pulei foi porque estava com muita pressa."
-
 1011502-218 = "E..."
-
 1011502-219 = "...Saí daquele lugar não só porque estava confuso, mas porque o ``campo de batalha'' era diferente."
-
 1011502-220 = "Talvez eu esteja exagerando... mas..."
-
 1011502-221 = "O beisebol é uma batalha para mim!"
-
 1011502-222 = "Para aqueles que desafiam com todas as suas forças, esse lugar é o “campo de batalha”."
-
 1011502-223 = "Então, achei um pouco rude da minha parte me misturar com as pessoas que lutam no “campo de batalha” dos jogos de ritmo..."
-
 1011502-224 = "Ugh, estou dizendo algo estranho..."
-
-1011502-225 = "[s9] \"Não, está tudo bem.\"\n[s10] \"O "campo de batalha" de Ray é o beisebol. \""
+1011502-225 = "[s9] \"Não, está tudo bem.\"\n[s10] \"O \"campo de batalha\" de Ray é o beisebol. \""
 
 1011502-228 = "Eu ficaria feliz se você pudesse dizer isso..."
+1011502-229 = "Muito obrigado por hoje. Graças ao meu sensei, sinto que consegui captar o sentido do ritmo!"
+1011502-230 = "Se for esse o caso, tenho certeza de que o \"momento\" será bom... sinto que acabou de clicar."
 
-1011502-229 = "Muito obrigado por hoje. Graças ao meu professor, sinto que consegui captar o sentido do ritmo!"
-
-1011502-230 = "Se for esse o caso, tenho certeza de que o "momento" será bom... sinto que acabou de clicar."
-
-1011502-231 = "Com certeza farei disso um sucesso na próxima partida prática! Por favor, observe, professor!"
-
+1011502-231 = "Com certeza farei disso um sucesso na próxima partida prática! Por favor, observe, sensei!"
 1011502-233 = "(Ray ficou entusiasmado na área do batedor. O resultado foi espetacular...)"
-
 1011502-234 = "(Sofreu uma derrota esmagadora)"
-
 1011502-235 = "Isso é tão...! ? ! ? ! ? ! ?"
-

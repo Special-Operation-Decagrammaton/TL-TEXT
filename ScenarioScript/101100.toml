@@ -1,183 +1,86 @@
 [translation]
 101100-1 = "Episódio 10; Collision (2)."
-
 101100-4 = "A moção de censura de Lynn Senior foi aprovada: ......? #n Oh, meu Deus, isso não é leve. ......"
-
 101100-5 = "Oh, não. ...... Lynn Sênior não é apenas uma oficial administrativa, ela também é a presidente estudantil em exercício. ...... #n Se os poderes de Lynn Sênior forem suspensos--"
-
 101100-6 = "O Conselho Federal de Estudantes ficará paralisado, como aconteceu imediatamente após o desaparecimento do presidente do conselho."
-
 101100-7 = "...... Você não tem escolha a não ser parar com sua explosão."
-
-101100-8 = "Pelo menos temos que fazer isso até encontrarmos um professor ou o chefe do escritório de defesa."
-
+101100-8 = "Pelo menos temos que fazer isso até encontrarmos um sensei ou o chefe do escritório de defesa."
 101100-9 = "......."
-
 101100-10 = "...... Falaremos mais sobre os detalhes amanhã. Vou convocar todos os chefes de sala do #n."
-
 101100-11 = "Você precisa tirar o resto do dia de folga, Lynn Sênior. #Porque amanhã será um longo dia."
-
 101100-12 = "......."
-
 101100-13 = "E vocês, administradores, não fiquem parados, mexam-se!"
-
 101100-14 = "...... Ha, sim!"
-
 101100-15 = "Sim, estou indo. ......"
-
 101100-21 = "Momoka, Ayumu. #nVocês também devem ir para casa. Esta é uma ordem administrativa."
-
 101100-22 = "...... Oh, não."
-
 101100-23 = "Woo ...... eh ......."
-
 101100-24 = "...... Se for eu, estou bem. #Desculpe-me por ter colocado vocês dois nessa situação."
-
 101100-25 = "Isso ......, então ...... Eu chegarei cedo amanhã, sênior ......!"
-
 101100-26 = "Huh ...... realmente, essa atmosfera é tão difícil ......"
-
 101100-32 = "...... Vamos conversar novamente amanhã. Aoi."
-
 101100-33 = "......."
-
 101100-51 = "......! #n, quem é você? ......!"
-
 101100-57 = "Bem, bem, bem. Foi muito mais rápido do que eu imaginava. #Não sabia que era um conselho estudantil federal tão agitado."
-
-101100-58 = "Na pior das hipóteses, estávamos esperando encontrar essa "raposa". ......#n Bem, isso ainda não teria afetado o resultado."
+101100-58 = "Na pior das hipóteses, estávamos esperando encontrar essa \"raposa\". ......#n Bem, isso ainda não teria afetado o resultado."
 
 101100-59 = "Há um único funcionário administrativo aqui?"
-
 101100-60 = "......! #nVocês são ...... Kaiser Corporation ......!"
-
 101100-61 = "...... mais do que o diretor administrativo."
-
 101100-62 = "Sim, não perca seu tempo resistindo. Todas as redes de comunicação e sistemas de alarme #n foram eliminados."
-
 101100-63 = "......!"
-
 101100-64 = "De agora em diante, nós, a Corporação Kaiser, assumiremos todos os poderes do Conselho Federal de Estudantes."
-
 101100-65 = "E a Torre Sanctum?"
-
 101100-66 = "Controles protegidos!"
-
 101100-67 = "Tudo bem, conecte-os ao presidente."
-
 101100-71 = "Cohon. Tudo correu bem. Também terminamos de verificar nossas comunicações. É o #n, mas vai levar algum tempo para controlarmos a autoridade."
-
 101100-72 = "Vamos começar promulgando a lei marcial em toda a U.D.."
-
 101100-73 = "A partir de agora, todas as comunicações, o tráfego e a logística de e para o D.U. serão encerrados. #Ao mesmo tempo, todas as agências administrativas também serão fechadas."
-
 101100-74 = "Para que o mundo exterior não saiba o que aconteceu nessa U.D. ...... e..."
-
 101100-75 = "Corporação Kaiser, o que está fazendo?"
-
 101100-76 = "Você assumirá o controle da Sanctum Tower."
-
 101100-77 = "......!"
-
 101100-78 = "...... Eles colocaram as mãos em uma arma super antiga. Precisávamos do poder da Sanctum Tower."
-
 101100-79 = "Kivotos agora estará sob o controle da Corporação Kaiser. Nem a #nGematria nem a Associação de Cadetes da Federação ...... serão os donos da cidade-escola."
-
 101100-80 = "......!"
-
-101100-82 = "Acho que vocês poderiam ter se saído melhor com isso. #Em "Corporate City" teria soado melhor do que em "School City". Kookk--."
+101100-82 = "Acho que vocês poderiam ter se saído melhor com isso. #Em \"Corporate City\" teria soado melhor do que em \"School City\". Kookk--."
 
 101100-86 = "[ns] \"A Kaiser Corporation é ......\""
-
 101100-87 = "Os camareiros se dispersaram, o Conselho Federal de Estudantes foi efetivamente dissolvido e a comunicação foi interrompida. ......#n Ninguém sabe o que está acontecendo na Sanctum Tower agora."
-
 101100-88 = "Ugh. ...... Não é demais não ser capaz de se mobilizar em uma situação como essa. ......"
-
 101100-89 = "Uau. ...... Está ficando confuso. ......"
-
 101100-90 = "Ei, a porta está aberta!"
-
 101100-91 = "Confira!"
-
 101100-92 = "Puxa... os caras da PMC estão vindo para cá. Temos que nos apressar."
-
 101100-93 = "Sim, vamos lá!"
-
 101100-94 = "Disponível em: ......."
-
 101100-95 = "[ns] \"Kanna, o ferimento é ......\""
-
 101100-98 = "...... Já terminei aqui, senhor."
-
 101100-99 = "[ns] \"......! \""
-
 101100-100 = "Por que você fez isso? ......!"
-
 101100-101 = "Ei, do que você está falando?"
-
 101100-103 = "Phew...... este lugar não mudou...... é exatamente o mesmo que era no acampamento de calouros......"
-
 101100-104 = "Naquela época, eu sonhava em estar do lado da justiça. ......#nParece que eu sou o único que mudou."
-
 101100-105 = "Você está sob os cuidados do Departamento de Segurança da Vida em ......."
-
 101100-106 = "Diretora Geral Kanna. ......."
-
 101100-107 = "Espere, eu não gosto de ...... esse tipo de atmosfera."
+101100-108 = "Uma pequena caminhada saindo desse prédio leva à estação de trem de alta velocidade para o exterior da D.U.. Como ela fica nas proximidades do #n \"Baby Rabbit Park\", seu sensei provavelmente a conhecerá. ...... Depois disso..."
 
-101100-108 = "Uma pequena caminhada saindo desse prédio leva à estação de trem de alta velocidade para o exterior da D.U.. Como ela fica nas proximidades do #n "Baby Rabbit Park", seu professor provavelmente a conhecerá. ...... Depois disso..."
-
-101100-109 = "- ops, quase me esqueci. Aqui estão os pertences do professor apreendido: ......"
-
+101100-109 = "- ops, quase me esqueci. Aqui estão os pertences do sensei apreendido: ......"
 101100-110 = "Tablet PCs e smartphones, mais."
-
 101100-115 = "[ns] \"Sittem's Box ...... Como você faz isso? \""
-
 101100-116 = "......Coletou informações ultrassecretas dentro da Valkyrie e descobriu onde o ......Dr. ......#n está e onde o ......#n equipamento está localizado. ......"
-
 101100-117 = "O Kaiser Group me considera um policial corrupto em conluio com as corporações, portanto, não sou ...... suspeito. Por favor, pegue-o. ......"
-
 101100-118 = "[Receba uma caixa de Sittem."
-
 101100-121 = "Agora, a ...... Kaiser Corporation invadiu o Corpo de Cadetes Federais e assumiu o controle administrativo da #nSanctum Tower ......"
-
 101100-122 = "Se isso continuar, a cidade cairá em um caos sem precedentes. ......"
-
-101100-123 = "Essa foi a melhor resistência que consegui reunir, como policial comprometido e corrupto, de que essa era a realidade. ......#nSe não fosse pelos ensinamentos de meu professor, ......, eu não teria conseguido sair novamente."
-
-101100-124 = "Professor. Nem todas as Valquírias são como eu."
-
+101100-123 = "Essa foi a melhor resistência que consegui reunir, como policial comprometido e corrupto, de que essa era a realidade. ......#nSe não fosse pelos ensinamentos de meu sensei, ......, eu não teria conseguido sair novamente."
+101100-124 = "Sensei. Nem todas as Valquírias são como eu."
 101100-125 = "Ainda deve haver mais pessoas ...... que ainda estão lutando por justiça. #nComo estas duas pessoas: ......"
-
 101100-126 = "......."
-
 101100-127 = "......."
-
-101100-132 = "[ns1] \"Isso não é verdade. Até a Kanna é uma ótima policial. \"\n[ns2] \"Ela segue suas convicções e nunca desiste. \"\n[ns2]""
-
-101100-135 = "......."
-
-101100-136 = "[s3] \"E com isso, ficarei bem agora. \"\n[s4] \"Acho que posso me virar. \""
-
-101100-139 = "......?"
-
-101100-140 = "Professor ......?"
-
-101100-141 = "Hmm? Isso é importante?"
-
-101100-146 = "[ns5]\"...... Desejamos os sete [rubi=nage]lamentos[/rubi]. \"\n[ns6]\"...... Lembramo-nos das [rubi=sarcasmo]velhas regras[/rubi] de Jericó. \""
-
-101100-154 = "Professor! Oooohhhhh!"
-
-101100-155 = "Você está seguro! Estávamos preocupados! #nA fonte de alimentação também acabou de repente, e eu fiquei realmente surpreso. ......"
-
-101100-156 = "E agora é uma grande coisa. ......!"
-
-101100-157 = "[s7] \"Sim, eu sei. \"\n[s8] \"Estou feliz que a Alona esteja a salvo. \"\"\n[s8] \"Estou feliz que a Alona esteja a salvo.""
+101100-132 = "[ns1] \"Isso não é verdade. Até a Kanna é uma ótima policial. \"\n[ns2] \"Ela segue suas convicções e nunca desiste. \"\n[ns2]\"\"\n101100-135 = \".......\"\n101100-136 = \"[s3] \"E com isso, ficarei bem agora. \"\n[s4] \"Acho que posso me virar. \"\"\n101100-139 = \"......?\"\n101100-140 = \"Sensei ......?\"\n101100-141 = \"Hmm? Isso é importante?\"\n101100-146 = \"[ns5]\"...... Desejamos os sete [rubi=nage]lamentos[/rubi]. \"\n[ns6]\"...... Lembramo-nos das [rubi=sarcasmo]velhas regras[/rubi] de Jericó. \"\"\n101100-154 = \"Sensei! Oooohhhhh!\"\n101100-155 = \"Você está seguro! Estávamos preocupados! #nA fonte de alimentação também acabou de repente, e eu fiquei realmente surpreso. ......\"\n101100-156 = \"E agora é uma grande coisa. ......!\"\n101100-157 = \"[s7] \"Sim, eu sei. \"\n[s8] \"Estou feliz que a Alona esteja a salvo. \"\"\n[s8] \"Estou feliz que a Alona esteja a salvo.\""
 
 101100-160 = "Gusu ...... Sim. #n Estou bem, senhor. ......"
-
 101100-163 = "[ns] \"Então, vamos começar a conduzir novamente, certo? \""
-
 101100-165 = "Da próxima vez; Escape (1)"
-
