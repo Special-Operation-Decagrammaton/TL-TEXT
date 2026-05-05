@@ -1,6 +1,6 @@
 [translation]
 10139-CVGroup_UITitle_Idle1-1 = "Blue Archive."
-10139-CVGroup_CharacterGet_Idle1-1 = "Da Academia SRT, do Esquadrão FOX, eu sou Yoshino Niko. \nEmbora eu ainda seja inexperiente, conto com o seu apoio."
+10139-CVGroup_CharacterGet_Idle1-1 = "Da Academia SRT, do FOX Squad, eu sou Yoshino Niko. \nEmbora eu ainda seja inexperiente, conto com o seu apoio."
 10139-CVGroup_Cafe_Idle1-1 = "(Que cheiro bom... de tofu frito...)"
 10139-CVGroup_Cafe_Idle2-1 = "Se quiser, gostaria de comer um inari-zushi\nacabado de fazer?"
 10139-CVGroup_Cafe_Idle3-1 = "Hoje é um ótimo dia para lavar roupa. Os cobertores vão secar rapidinho."
@@ -10,7 +10,7 @@
 10139-CVGroup_UIEventLobby_Enter1-1 = "A partir de agora, iniciaremos a operação de rastreamento de Roa."
 10139-CVGroup_UIEventLobby_Enter2-1 = "Eu estava esperando por você, Sensei."
 10139-CVGroup_UIEventLobby_Enter2-2 = "Vamos começar o briefing imediatamente. Por aqui."
-10139-CVGroup_UIEventLobby_Enter3-1 = "Bem-vindo ao quartel-general do Esquadrão FOX."
+10139-CVGroup_UIEventLobby_Enter3-1 = "Bem-vindo ao quartel-general do FOX Squad."
 10139-CVGroup_UIEventLobby_Idle1-1 = "Para onde será que as pessoas que desapareceram foram...?"
 10139-CVGroup_UIEventLobby_Idle2-1 = "Faz tempo que não recebemos uma missão como SRT, não é?"
 10139-CVGroup_UIEventLobby_Idle3-1 = "Vou dar o meu melhor.\nSe isso for o suficiente para..."
