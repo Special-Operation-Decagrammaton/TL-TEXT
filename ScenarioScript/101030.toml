@@ -1,290 +1,146 @@
 [translation]
-101030-1 = "Episódio 3; Rachaduras na vida cotidiana (1)"
-
-101030-2 = "Área de escavação no deserto de Abidos"
-
-101030-5 = "Ei, eu encontrei!"
-
-101030-6 = "Você encontrou?"
-
-101030-7 = "Ah, sim! A partir das coordenadas do exemplo, descobrimos uma estrutura de aproximadamente 135m x 23m x 13m...! !"
-
-101030-8 = "sem dúvida……! Reporte-se ao General imediatamente! É urgente!"
-
-101030-9 = "Ah, sim! !"
-
-101030-10 = "Além disso, entre em contato com o escritório de defesa do Conselho Estudantil da Federação. #nEssa é uma rede de comunicação dedicada."
-
-101030-11 = "sim!"
-
-101030-16 = "Área urbana de Abidos"
-
-101030-17 = "……."
-
-101030-23 = "Apresse-se, vamos embora!"
-
-101030-24 = "Ha!"
-
-101030-29 = "Kaiser PMC...."
-
-101030-35 = "As tropas do PMC estavam se movendo em direção ao deserto?"
-
-101030-36 = "sim. A escala era completamente diferente de antes."
-
-101030-37 = "Hmm, talvez algo tenha acontecido? #nEsses caras têm estado quietos ultimamente."
-
-101030-38 = "Nos últimos dias, vi PMCs Kaiser se movendo aqui e ali..."
-
-101030-39 = "Eles fazem o que querem nas áreas autônomas de outras pessoas! Eu realmente não posso perdoar isso."
-
-101030-40 = "Aconteceu alguma coisa no deserto de Abidos?"
-
-101030-41 = "Você quer dar uma olhada?"
-
-101030-42 = "Shiroko-chan, isso é um pouco..."
-
-101030-43 = "Essa é a terra do Kaiser, então se você for lá sem permissão, será repreendido. #nNão tivemos problemas por causa disso antes?"
-
-101030-44 = "sim……."
-
-101030-45 = "Sim, vamos conversar com seu professor!"
-
-101030-49 = "Eu realmente quero fazer isso, mas você parece estar ocupado ultimamente...#nSe eu entrar em contato com você, isso não causará problemas?"
-
-101030-50 = "Não cabe ao professor decidir se isso é um incômodo ou não?"
-
-101030-51 = "Isso mesmo, Ayane-chan. Se você decidir antes de entrar em contato comigo, o professor não poderá fazer nada...e tenho certeza que o professor irá te ajudar☆"
-
-101030-52 = "sim. Além disso, acabei de receber uma ligação da professora outro dia."
-
-101030-53 = "É do seu professor? Para o seu sênior?"
-
-101030-54 = "Não é porque Shiroko-senpai fez alguns bombardeios de selos?"
-
-101030-55 = "Não, desta vez é diferente. #nDo professor."
-
-101030-56 = "Bem, Shiroko-chan não é apenas uma estrela, certo?"
-
-101030-60 = "Meu veterano sempre me mima assim!"
-
-101030-61 = "Hmm...acho que sim?"
-
+101030-1 = "Episódio 3; Rachaduras no Cotidiano (1)"
+101030-2 = "Deserto de Abydos, Área de Escavação"
+101030-5 = "E-Encontramos!"
+101030-6 = "Encontraram?"
+101030-7 = "S-Sim! Daquela coordenada, descobrimos uma estrutura de aproximadamente 135m x 23m x 13m...!!"
+101030-8 = "Com certeza...! Relate isso para o General imediatamente! Agora mesmo!"
+101030-9 = "S-Sim!!"
+101030-10 = "E, não se esqueça de contatar a Secretaria de Defesa do Conselho Estudantil Geral.#nUse a rede de comunicações dedicada pra isso."
+101030-11 = "Entendido!"
+101030-16 = "Área Urbana de Abydos"
+101030-17 = "......"
+101030-23 = "Se apressem, vamos nos mover!"
+101030-24 = "Certo!"
+101030-29 = "A Kaiser PMC..."
+101030-35 = "As forças da PMC se deslocaram pro deserto?"
+101030-36 = "Sim. Numa escala completamente diferente da de antes."
+101030-37 = "Hum, será que aconteceu alguma coisa?#nEles tavam tão quietinhos ultimamente."
+101030-38 = "Eu também tenho visto o pessoal da Kaiser PMC se movendo pra todo lado nesses últimos dias..."
+101030-39 = "Eles agem como se fossem os donos do nosso distrito autônomo! Eu não suporto mais isso."
+101030-40 = "Será que aconteceu algo no Deserto de Abydos?"
+101030-41 = "A gente deveria ir lá dar uma espiada?"
+101030-42 = "Shiroko-chan, acho que isso não é uma boa ideia..."
+101030-43 = "Aquele terreno é da Kaiser, a gente vai se encrencar se for lá sem permissão~.#nJá não tivemos problemas o suficiente com eles antes?"
+101030-44 = "Hum..."
+101030-45 = "Ah, já sei, vamos falar com o Sensei!"
+101030-49 = "Eu também acho que devíamos fazer isso, mas... O Sensei parece estar tão ocupado ultimamente...#nSerá que não estaríamos sendo um incômodo?"
+101030-50 = "Acho que isso é ele quem decide, não é não?"
+101030-51 = "Isso mesmo, Ayane-chan. O Sensei não poderá fazer nada se desistirmos antes mesmo de entrar em contato... Além disso, o Sensei com certeza vai nos ajudar☆"
+101030-52 = "É. Além disso, ele nos contatou há pouco tempo."
+101030-53 = "Ele mandou uma mensagem? Para você?"
+101030-54 = "Não seria por que você mandou um monte de figurinhas pra ele de novo?"
+101030-55 = "Não, dessa vez foi diferente.#nO Sensei quem mandou primeiro."
+101030-56 = "Eu duvido muito que a Shiroko-chan mande *apenas* chuva de figurinhas pra ele~."
+101030-60 = "Nossa, você sempre a mimando, Hoshino-senpai!"
+101030-61 = "Hmm... Será que é isso mesmo~?"
 101030-62 = "Hum..."
-
-101030-63 = "Bem, é isso que torna a Shiroko-chan tão fofa☆"
-
-101030-64 = "Haha... Então, o que a professora disse?"
-
-101030-65 = "Nada em particular... #nNo entanto, como você está ultimamente? Ou está tudo bem? Ou algo assim."
-
-101030-66 = "Huh... é isso, é meio contundente."
-
-101030-67 = "Vou tentar entrar em contato com o professor primeiro. #nEu queria saber se você poderia vir a Abydos uma vez."
-
-101030-68 = "Isso mesmo ☆ Ayane-chan, por favor!"
-
-101030-73 = "Sala do Departamento de Desenvolvimento de Jogos do Milênio"
-
-101030-75 = "お姉ちゃん、これはダメだよ。"
-101030-76 = "Ei, por que! ?"
-
-101030-77 = "Estamos fazendo um “RPG de espada e feitiçaria”, certo?"
-
-101030-78 = "Sim, mas... o que aconteceu com isso?"
-
-101030-79 = "o que aconteceu? Não...por que o personagem principal está em um navio de guerra espacial?"
-
-101030-80 = "Porque o inimigo é um pirata espacial! Nesse caso, o personagem principal terá que pilotar um navio de guerra espacial!"
-
-101030-81 = "O que o herói fará quando entrar no navio de guerra espacial..."
-
-101030-83 = "por que! Ele é um herói espacial! ? Isso é bom!"
-
-101030-87 = "O que você acha de Yuzu?"
-
-101030-88 = "E-eu não acho que seja ruim...#nÉ como o dadaísmo que está popular ultimamente..."
-
-101030-89 = "Olhar! Yuzu diz que isso também é legal!"
-
-101030-90 = "Sim……."
-
-101030-95 = "Eu acho “Space Hero” maravilhoso!"
-
-101030-96 = "Alice?"
-
-101030-97 = "Alice! Bem vindo de volta! Estava tudo bem! ?"
-
-101030-98 = "E o departamento de engenharia...?"
-
-101030-99 = "Um exame físico simples e um exame médico foram realizados, mas nenhuma anormalidade foi encontrada."
-
-101030-100 = "Além disso, todos na Veritas me disseram para fazer inspeções regulares, então decidi fazer isso."
-
-101030-101 = "Entendo… Então Alice-chan está bem agora, certo?"
-
-101030-102 = "Aquele cara estranho naquela época... O que foi, Kei...? #nE ele?"
-
-101030-103 = "Eu acho que é ``'' em vez de Kei, mana..."
-
-101030-104 = "Qualquer coisa está bem, desde que você saiba o nome!"
-
-101030-105 = "sim. \"Kei\" não foi encontrado."
-
-101030-106 = "Afinal, irei com “Kei”? #n...Bem, eu acho."
-
-101030-107 = "Parece que com a tecnologia atual do departamento de engenharia não é possível confirmar se “Kei” desapareceu ou não. #n, então eles tentarão cooperar com a Veritas!"
-
-101030-109 = "Eu vejo..."
-
-101030-110 = "Ele estava tentando fazer de Alice uma princesa ou algo assim! Também! #nDa próxima vez que nos encontrarmos, não será de graça!"
-
-101030-111 = "Alice está bem...?"
-
-101030-112 = "Sim, Alice está bem. #nNa próxima vez que eu encontrar \"Kei\", dispararei um canhão de 300%... não, 100.000% de canhão de raio!"
-
-101030-116 = "Além disso, acho Alice e o herói espacial maravilhosos. #n Festa do herói a bordo do navio de guerra espacial! É maravilhoso!"
-
-101030-117 = "Certo? Há algo aqui que toca meu coração. #nAfinal, os navios de guerra espaciais são românticos!"
-
-101030-118 = "Alice poderá embarcar em um navio de guerra espacial algum dia?"
-
-101030-119 = "Bem, acho que isso é um pouco impossível..."
-
-101030-120 = "Huh? Mas o departamento de engenharia não fez algo assim? A arma elétrica de #nAlice era uma delas, certo?"
-
-101030-121 = "Com a tecnologia de hoje é difícil... É romântico, então todo mundo está tentando..."
-
-101030-122 = "Isso mesmo! ?"
-
-101030-123 = "É ótimo tentar o impossível! #nÉ disso que se trata o romance! Alice entendeu."
-
-101030-124 = "OK! Por isso o próximo trabalho será uma ópera espacial sobre a Space Hero Party!"
-
-101030-125 = "sim! Incrível!"
-
-101030-126 = "Pois bem, acho que vou mudar o gênero para bullet hell shooting... #n Dificuldade muito difícil, sem continuações ou bombas especiais."
-
-101030-132 = "Suspiro... foi isso que aconteceu afinal."
-
-101030-135 = "……."
-
-101030-136 = "\"Kei\"..."
-
-101030-137 = "Princesa...você nega a ``princesa'' que é a razão da sua existência...#nVocê também está negando a ``chave'' que é a razão da minha existência?"
-
-101030-138 = "Uma chave que perdeu a razão de existir não é mais uma chave... não há necessidade de chamá-la assim."
-
-101030-142 = "……Entendido."
-
-101030-143 = "Nesse caso, ficarei de olho em você. #nPrincesa...não, \"Alice\"."
-
-101030-144 = "Mas ninguém pode escapar da razão da existência. #nAlice, esse é o nosso destino."
-
-101030-148 = "E quando chegar a hora certa... eu..."
-
-101030-151 = "Seminário/Escritório"
-
-101030-153 = "Hum..."
-
-101030-154 = "-Você está colocando todos os problemas em mim, Rio."
-
-101030-155 = "Depois de tentar o legado de um “deus sem nome”, no momento em que seu plano desmorona, ele diz: “Eu cuidarei do resto”."
-
-101030-156 = "Não importa que tipo de incidente ela tenha causado, acho que ela merece o nome de “Irmã mais velha”, desde que tenha orgulho…"
-
-101030-157 = "Bem...sou tão nobre quanto a neve fresca e tão claro quanto a água doce, então entenderei seu egoísmo."
-
-101030-158 = "Agora... o que você queria me dizer?"
-
-101030-159 = "……."
-
-101030-160 = "…………."
-
-101030-161 = "isso é--"
-
-101030-162 = "Entendo... esta é uma interpretação que acrescenta especulação à hipótese..."
-
-101030-163 = "Se tivermos protegido tantos dados... #nAcho que posso entender um pouco seus delírios paranóicos."
-
-101030-164 = "Como esperado de uma irmã mais velha..."
-
-101030-165 = "...Bem, mesmo que seja esse o caso, eu, uma garota supergênio e linda doentia que é conhecida como “onisciência”, sou melhor do que eu."
-
-101030-166 = "Isso é exatamente o que o gerente está dizendo."
-
-101030-170 = "Ei...! ? #nE, Amy, desde quando..."
-
-101030-171 = "Pelo que você disse sobre neve fresca?"
-
-101030-172 = "……."
-
-101030-173 = "O Departamento de Investigação de Fenômenos Peculiares era originalmente uma organização sob o controle direto do Presidente Rio. #nEu também conheço esse lugar."
-
-101030-174 = "Então e o presidente?"
-
-101030-175 = "Bem... informações importantes estão sob estrita segurança, então acho que levará algum tempo para serem confirmadas..."
-
-101030-176 = "Em suma, ``Esteja preparado para outro ``fenómeno singular''''."
-
-101030-177 = "O que você quer dizer?"
-
-101030-178 = "--Este é um aviso da Big Sister."
-
-101030-179 = "Num futuro próximo, uma crise sem precedentes chegará a Kivotos."
-
-101030-180 = "……."
-
-101030-182 = "--O que devo fazer?"
-
-101030-186 = "Eiaaaa...! ? Desde quando...! ?"
-
-101030-187 = "A empregada pessoal do presidente... Toki...?"
-
-101030-188 = "Já faz um tempo que vocês dois não estiveram aqui. #nHá muitos lugares para se esconder aqui."
-
-101030-189 = "Ei, como esperado de um agente. Eu não percebi nada."
-
-101030-190 = "Achei que ele estava claramente seguindo o presidente."
-
-101030-191 = "lar. O presidente saiu e me deixou a mensagem: “De agora em diante, você pode viver livremente”."
-
-101030-192 = "Porém, não sei o que fazer e como libertá-lo..."
-
-101030-193 = "Aí, enquanto eu estava neste lugar onde passava um tempo com o presidente, apareceram os dois."
-
-101030-194 = "Hum..."
-
-101030-196 = "Eu era originalmente afiliado à C&C, então ouvi dizer que você decidiu se juntar a eles... Será que você foi rejeitado?"
-
-101030-197 = "Não, fui bem tratado pelos meus superiores."
-
-101030-198 = "...?"
-
-101030-199 = "Mas... isso..."
-
-101030-200 = "……."
-
-101030-201 = "……Eu vejo. Eu entendo a situação geral."
-
-101030-203 = "……."
-
-101030-204 = "Toki tem um lado surpreendentemente fofo."
-
-101030-205 = "Se... houver uma crise se aproximando, eu também gostaria de ajudar. #nNão importa qual seja a situação."
-
-101030-206 = "...O que devemos fazer, chefe?"
-
-101030-207 = "A resposta é óbvia, não é, Amy? #nQuanto mais colaboradores você tiver, melhor."
-
-101030-208 = "……obrigado."
-
-101030-209 = "Bom, de agora em diante..."
-
-101030-210 = "--Primeiro, vamos pedir a cooperação da Placa de Petri."
-
-101030-211 = "Claro, isso mesmo."
-
-101030-212 = "……."
-
-101030-214 = "Da próxima vez: Rachaduras na vida cotidiana (2)"
-
+101030-63 = "Calma, calma. A Shiroko-chan é tão fofa quando age assim☆"
+101030-64 = "Ahaha... E então, o que o Sensei disse?"
+101030-65 = "Nada de especial...#nSó um \"Como vocês estão ultimamente?\", ou \"Tudo bem?\"... Esse tipo de coisa."
+101030-66 = "Ué... E-Isso é tão sem graça, não acha?"
+101030-67 = "Vou entrar em contato com o Sensei e pedir que venha a Abydos se puder."
+101030-68 = "Isso mesmo☆ Contamos com você, Ayane-chan!"
+101030-73 = "Millennium, Sala do Clube de Desenvolvimento de Jogos"
+101030-75 = "Onee-chan, não dá pra ser assim."
+101030-76 = "Eh, por que não!?"
+101030-77 = "O jogo que a gente tá fazendo é um 'RPG de Espada e Magia', esqueceu?"
+101030-78 = "Eu sei, mas... O que que tem?"
+101030-79 = "O que que tem? não... Por que o protagonista tá numa nave espacial?"
+101030-80 = "Porque o inimigo é um pirata espacial! Então o protagonista precisa estar numa nave espacial!"
+101030-81 = "O que um herói iria querer com uma nave espacial..."
+101030-83 = "Por quê!? Ele é um Herói Espacial! Eu acho ótimo!"
+101030-87 = "O que você acha disso, Yuzu?"
+101030-88 = "E-Eu acho... que não é tão ruim assim...#nTem aquela vibe do Dadaísmo que tá na moda ultimamente e..."
+101030-89 = "Viu! A Yuzu também disse que tem potencial!"
+101030-90 = "Poxa vida..."
+101030-95 = "Eu acho que a ideia do 'Herói Espacial' é maravilhosa!"
+101030-96 = "Aris-chan?"
+101030-97 = "Aris! Bem-vinda de volta! Você tá bem!?"
+101030-98 = "O que o pessoal do Clube de Engenharia disse...?"
+101030-99 = "Eles me deram exames físicos e médicos básicos, mas parece que estava tudo normal comigo."
+101030-100 = "Além disso, as garotas da Veritas me falaram para fazer um exame de rotina, então decidi aceitar."
+101030-101 = "A-Aham... então a Aris-chan já está melhor?"
+101030-102 = "E o que aconteceu com aquela esquisitona... Qual era o nome dela mesmo, Kei...?"
+101030-103 = "Talvez não seja Kei, mas sim '<Key>', Onee-chan..."
+101030-104 = "Qualquer um dos dois tá bom pra mim!"
+101030-105 = "Sim. A 'Kei' não pôde ser encontrada."
+101030-106 = "No fim vamos de 'Kei' mesmo?#n...Bom, tanto faz."
+101030-107 = "Parece que com a tecnologia atual do Clube de Engenharia não dá para saber se a 'Kei' desapareceu ou não.#nPor isso que vão colaborar com o pessoal da Veritas!"
+101030-109 = "Entendo..."
+101030-110 = "Ela que não invente de querer transformar a Aris numa princesa de novo! Nossa!#nEu não vou deixar barato da próxima vez que eu vir ela!"
+101030-111 = "Aris-chan, tudo bem por você...?"
+101030-112 = "Sim, para a Aris, não há problemas.#nSe a Aris se deparar com a 'Kei' de novo, a Aris usará 300%... não, 100.000% da arma de raio!"
+101030-116 = "Aliás, a Aris também acha que o Herói Espacial é incrível.#nUm grupo de heróis voando em uma nave espacial! Que demais!"
+101030-117 = "Né não? Isso meio que faz seu coração palpitar!#nAfinal, a nave espacial é um romance puro!"
+101030-118 = "A Aris poderá pilotar uma nave espacial algum dia?"
+101030-119 = "A-Acho que isso é meio impossível, não é..."
+101030-120 = "Hein? Mas o Clube de Engenharia não tava fazendo algo do tipo?#nA arma de trilho da Aris é um deles, não é?"
+101030-121 = "Com a tecnologia atual... acho que é bem complicado... O romance é que todos estão tentando alcançar isso..."
+101030-122 = "Sério!?"
+101030-123 = "Tentar algo impossível é maravilhoso!#nÉ isso que é romance! A Aris compreendeu agora."
+101030-124 = "Beleza! O nosso próximo jogo será uma ópera espacial com um grupo de Heróis Espaciais!"
+101030-125 = "Sim! É esplêndido!"
+101030-126 = "B-Bom, por que não mudamos o gênero pra um Shoot 'em up então...#nDaqueles beeem hardcore, sem continues ou bombas especiais..."
+101030-132 = "Haaa... No fim das contas, a gente sempre volta pra isso."
+101030-135 = "......"
+101030-136 = "'Kei'..."
+101030-137 = "Princesa... você nega ser a 'princesa', o seu motivo de existir...#ne também nega a mim, a 'Chave', o meu motivo de existir."
+101030-138 = "A chave que perde a sua razão de ser, já não é uma chave... e nem mais precisa ser chamada assim."
+101030-142 = "......Entendido."
+101030-143 = "Nesse caso, eu continuarei a observar.#nPrincesa... não, 'Aris'."
+101030-144 = "No entanto, ninguém pode fugir do seu motivo de existir.#nAris, esse é o destino que a aguarda."
+101030-148 = "E quando o momento certo chegar... Eu――"
+101030-151 = "Seminário, Escritório"
+101030-153 = "Humm..."
+101030-154 = "――Você sempre joga as coisas difíceis para mim, não é mesmo, Rio."
+101030-155 = "Mexer no legado do 'Deus Sem Nome' e, no instante em que o seu plano dá errado, sair dizendo: 'O resto fica com você'――Sério, o que eu devo achar disso."
+101030-156 = "O nome de 'Big Sister' exige que você se comporte com orgulho, independente do tipo de problema que você crie..."
+101030-157 = "Bem... Eu, sendo pura como a neve recém-caída e límpida como água pura,#tentarei ao menos entender a sua arrogância."
+101030-158 = "Agora... o que você queria me dizer."
+101030-159 = "...... "
+101030-160 = "............"
+101030-161 = "Isso é――"
+101030-162 = "Entendo... Embora seja uma teoria baseada em especulações..."
+101030-163 = "Se for para adquirir uma quantidade de dados como essa...#nAcho que até eu consigo compreender as suas paranoias extremas e absurdas."
+101030-164 = "Como o esperado da Big Sister..."
+101030-165 = "......Apesar de que eu, a genial jovem doente de quem chamam de 'A Onisciente', sou muito melhor do que você."
+101030-166 = "Você que tá chamando de si mesma de doente, Ministra."
+101030-170 = "Hyaaa...!?#nE-Eimi, desde quando você tá aí..."
+101030-171 = "Foi quando você tava falando alguma coisa de neve ou algo assim?"
+101030-172 = "......"
+101030-173 = "A Divisão de Investigação de Fenômenos Singulares operava sob as ordens da própria Presidente Rio.#nEu também conheço esse lugar."
+101030-174 = "Então, o que a Presidente disse?"
+101030-175 = "Pois bem... Eu vou demorar um pouco para verificar porque a maioria das informações importantes estão muito bem protegidas, mas..."
+101030-176 = "Em resumo: 'Preparem-se para um outro 'Fenômeno Singular''――Foi isso que ela disse."
+101030-177 = "O que quer dizer com isso?"
+101030-178 = "――Este é um aviso da Big Sister."
+101030-179 = "No futuro próximo――Uma catástrofe sem precedentes abaterá Kivotos."
+101030-180 = "......"
+101030-182 = "――O que eu deveria fazer?"
+101030-186 = "Hyaah...!? E-E desde quando você... !?"
+101030-187 = "A serva exclusiva da Presidente... Toki...?"
+101030-188 = "Um pouco antes de vocês duas aparecerem.#nTem muitos lugares bons para se esconder aqui."
+101030-189 = "Uau, que espiã de classe mundial. Eu nem me toquei."
+101030-190 = "Achei que ela tivesse fugido com a Presidente."
+101030-191 = "Não. A Presidente saiu dizendo: 'A partir de agora, viva como quiser'."
+101030-192 = "Mas eu não sei o que isso significa... o que eu deveria fazer..."
+101030-193 = "Então, eu fiquei aqui de bobeira neste lugar que passei com a Presidente, e vocês duas chegaram."
+101030-194 = "Humm..."
+101030-196 = "Ouvi dizer que você faria parte da C&C de volta por conta do seu antigo posto com elas... Elas te rejeitaram?"
+101030-197 = "Não, muito pelo contrário. As veteranas estão me tratando muito bem."
+101030-198 = "......?"
+101030-199 = "Mas... hum... "
+101030-200 = "......"
+101030-201 = "......Entendo. Compreendo mais ou menos o que tá acontecendo. "
+101030-203 = "......"
+101030-204 = "Você até que tem um lado fofo e carinhoso, né, Toki."
+101030-205 = "Se houver... qualquer tipo de perigo que se aproxima, eu também quero ajudar.#nIndependentemente da situação."
+101030-206 = "......E então, Ministra, o que faremos?"
+101030-207 = "A resposta é óbvia, não acha, Eimi?#nQuanto mais aliados tivermos, melhor."
+101030-208 = "......Agradeço."
+101030-209 = "Agora, em relação ao que devemos fazer em seguida――"
+101030-210 = "――Para começar, procuraremos pela ajuda da 'Schale'."
+101030-211 = "Sim, bem que imaginei."
+101030-212 = "......"
+101030-214 = "Próximo Episódio; Rachaduras no Cotidiano (2)"

@@ -1,73 +1,37 @@
 [translation]
-101135-7 = "Retire-se, retire-se!"
-
-101135-8 = "Retire-se para o interior do edifício e reconstrua!"
-
-101135-17 = "Garantimos a loja de conveniência no 1º andar!"
-
-101135-18 = "Ah, essas são as pessoas que trouxeram os “resíduos” para mim antes, certo? #nVocê veio me ajudar!"
-
-101135-19 = "...Hum."
-
-101135-20 = "Sempre há muitos incidentes perturbadores aqui...#nSinto que estou melhorando em esconder coisas. Já estou acostumada, mas..."
-
-101135-21 = "...Isso foi um desastre."
-
-101135-22 = "um! Isso mesmo. Você precisa de uma lancheira descartada? #nEu ainda tinha muito sobrando dessa vez."
-
-101135-23 = "...Obrigado, por favor volte mais tarde."
-
-101135-25 = "Ok, a entrada está livre!"
-
-101135-26 = "Obrigado pela ajuda. Todos na Secretaria de Segurança Pública."
-
-101135-27 = "Quero dizer, é realmente certo quebrar as regras e nos ajudar?"
-
-101135-28 = "Os criminosos não zombariam da polícia por não seguir as regras?"
-
-101135-29 = "Ahaha...não gosto quando o \"pelotão COELHO\" fala algo assim..."
-
-101135-30 = "Sem problemas. Se eu puder ajudar a Diretora Kanna."
-
-101135-31 = "Além disso, é comum que estudantes Valquírias sejam ridicularizados por criminosos..."
-
-101135-32 = "Lidaremos com as seguintes tropas, então, por favor, ajude-nos a recuperar o prédio!"
-
-101135-33 = "Obrigado a todos."
-
-101135-35 = "Então, vamos entrar correndo na construção da placa de Petri agora. #nA partir de agora, você terá que completar duas missões ao mesmo tempo."
-
-101135-36 = "Primeiro, a “Câmara de Artesanato” no subsolo do prédio foi recapturada do PMC."
-
-101135-37 = "Em segundo lugar, resgate o Executivo Lin, que está preso em algum lugar do prédio."
-
-101135-38 = "Mas... não tenho ideia de onde estão os funcionários administrativos?"
-
-101135-39 = "É um pouco difícil começar sem saber a localização dos reféns...#nAcho que é difícil garantir a segurança deles."
-
-101135-40 = "Deixe isso comigo."
-
-101135-41 = "Quem...?"
-
-101135-42 = "Somos o Conselho Estudantil da Federação."
-
-101135-43 = "[s] \"Momoka, Ayumu! Você está seguro!\""
-
-101135-45 = "Sim. Este é o centro de comunicações subterrâneas da Torre Sanctum. #nFoi muito difícil chegar aqui sem ser vigiado."
-
-101135-46 = "Nunca pensei que os orifícios de ventilação que usei quando relaxei seriam úteis aqui! Ahaha!"
-
-101135-47 = "Momoka-chan...."
-
-101135-48 = "Consegui recuperar o registro de comunicação e localizar Rin-senpai."
-
-101135-49 = "O terceiro cômodo, atualmente sem uso, está localizado na parte norte da área residencial de Petri. #nHá idosos lá."
-
-101135-50 = "Professor... por favor, Rin-senpai..."
-
-101135-52 = "[ns] \"Sim, deixe comigo.\""
-
-101135-53 = "……sim!"
-
-101135-55 = "Próxima vez; Operação de recaptura (2)"
-
+101135-7 = "Recuem, recuem!"
+101135-8 = "Recuem para o interior do prédio e se reagrupem!"
+101135-17 = "Asseguramos a loja de conveniência no 1º andar!"
+101135-18 = "Ah, vocês são as pessoas que levaram os 'produtos descartados' daquela vez, não é?#nVocês vieram me salvar!"
+101135-19 = "……Err."
+101135-20 = "Sempre acontecem incidentes perigosos por aqui...#nSinto que estou ficando cada vez melhor em me esconder. Já estou até acostumada com isso..."
+101135-21 = "……Sinto muito por isso."
+101135-22 = "Ah! É mesmo. Vão querer umas marmitas descartadas?#nAcabou sobrando um monte de novo desta vez."
+101135-23 = "……Muito obrigada, aceitaremos depois com certeza."
+101135-25 = "Certo, a entrada também está limpa!"
+101135-26 = "Muito obrigada por nos ajudar, pessoal do Departamento de Segurança Pública."
+101135-27 = "Quer dizer, tem certeza de que não tem problema vocês quebrarem as regras pra nos ajudar?"
+101135-28 = "Os criminosos não vão rir da cara de vocês e dizer 'Até a polícia não consegue seguir as regras'?"
+101135-29 = "Ahaha... Ouvir isso logo do 'Esquadrão RABBIT' é meio irônico, mas..."
+101135-30 = "Não tem problema. Se for para ajudar a Diretora Kanna."
+101135-31 = "Além disso, as alunas da Valkyrie virarem motivo de piada para os criminosos já é algo do dia a dia..."
+101135-32 = "Nós cuidaremos das tropas que vêm logo atrás, então, por favor, cuidem de retomar o prédio!"
+101135-33 = "Muito obrigada a todas."
+101135-35 = "Sendo assim, nós vamos invadir o prédio da Schale agora.#nA partir daqui, teremos que cumprir 2 missões simultaneamente."
+101135-36 = "A primeira: retomar a 'Câmara de Criação' no subsolo do prédio das mãos da PMC."
+101135-37 = "A segunda: resgatar a Administradora Rin, que está presa em algum lugar do prédio."
+101135-38 = "Mas... nós não fazemos ideia de onde a Administradora está, né?"
+101135-39 = "Começar sem saber a localização da refém é meio...#nAcho que seria difícil garantir a segurança dela."
+101135-40 = "Podem deixar isso com a gente."
+101135-41 = "Q-Quem...?"
+101135-42 = "N-Nós somos do Conselho Estudantil Geral."
+101135-43 = "[s] \"Momoka, Ayumu! Que bom que estão a salvo!\""
+101135-45 = "Sim. Aqui é o centro de comunicações no subsolo da Torre Sanctum.#nFoi um sufoco chegar até aqui desviando da vigilância deles."
+101135-46 = "Quem diria que o duto de ventilação que eu usava pra matar serviço ia ser útil agora! Ahaha!"
+101135-47 = "Momoka-chan..."
+101135-48 = "Conseguimos recuperar os registros de comunicação e localizamos a Rin-senpai."
+101135-49 = "Na área residencial da Schale, ao norte, no 3º quarto que não está sendo usado no momento.#nA senpai está lá."
+101135-50 = "Sensei... por favor, a Rin-senpai..."
+101135-52 = "[ns] \"Sim, pode deixar comigo.\""
+101135-53 = "……Sim!"
+101135-55 = "Próximo episódio; Operação de Retomada da Schale (2)"

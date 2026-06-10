@@ -1,385 +1,193 @@
 [translation]
-101020-1 = "Episódio 2; Romper"
-
-101020-3 = "em um sonho"
-
-101020-5 = "……."
-
-101020-6 = "……."
-
-101020-7 = "Você... não, esse lugar...?"
-
-101020-8 = "Espere, seu corpo..."
-
-101020-12 = "--Você já encontrou \"cor\"?"
-
-101020-16 = "Mas é estranho... que alguém que encontra cores consiga manter a consciência tanto assim."
-
-101020-17 = "cor……?"
-
-101020-18 = "É uma entidade que vem de fora do Kivotos e causa desastre."
-
-101020-19 = "Não sei se eles próprios têm personalidade ou vontade."
-
-101020-20 = "O importante é que para o povo de Kivotos isto pode ser um veneno mortal."
-
-101020-21 = "Os corpos daqueles expostos à cor ficam distorcidos – e suas mentes também ficam corroídas."
-
-101020-22 = "Se fosse o povo de Kivotos, não levaria à morte... mas o indivíduo seria distorcido e se tornaria um objeto estranho - se eles poderiam ser chamados do mesmo ser é outra história."
-
-101020-23 = "Porém, é quase impossível encontrar Kivotos coloridos."
-
-101020-24 = "É o mesmo que encontrar um grão de areia no deserto... se você entrar em contato com ele, pode dizer que foi uma coincidência verdadeiramente bizarra."
-
-101020-25 = "Porém... não parece que ele entrou em contato direto com o corpo ou cor daquela pessoa...#nEntão, o que aconteceu? Por favor, diga."
-
-101020-26 = "isso é……."
-
-101020-27 = "Hmm... acho que minha concubina deveria dar uma olhada."
-
-101020-36 = "rude."
-
-101020-37 = "……."
-
-101020-42 = "Você estava envolvido em um “ritual”. #nÉ como se você colocasse a cabeça para fora da janela que dá para o lado de fora do Kivotos."
-
-101020-43 = "Sim... sua presença deve ter se destacado como uma luz na escuridão."
-
-101020-46 = "...Por \"isso\", você sabe."
-
-101020-47 = "Seu corpo que foi exposto a “isso” foi revertido e o princípio por trás disso começou a controlar você."
-
-101020-49 = "Entendo... houve alguém que tentou usar cores para mudar seus corpos? #nEstúpido...."
-
-101020-50 = "Embora eles tenham realizado um ritual para invocar cores...#nFelizmente, o ritual em si foi descontinuado."
-
-101020-51 = "...Eu vejo. Acho que ele não teve um encontro direto com a cor."
-
-101020-52 = "Através de um “sonhar acordado”, vislumbrei isso pela janela do “ritual”..."
-
-101020-53 = "É por isso que consegui ficar seguro."
-
-101020-54 = "……."
-
-101020-55 = "Mas isso não durará muito. #nO espírito deles ainda está aqui, mas o corpo está em processo de desintegração."
-
-101020-56 = "Não tem como eu desmaiar agora..."
-
-101020-57 = "...Existe alguma maneira de mantê-lo no lugar?"
-
-101020-58 = "Nenhum."
-
-101020-62 = "... Na verdade, sim."
-
-101020-63 = "No entanto, ele teve um golpe de sorte. #nEsta concubina conseguiu chamar Kuzunoha, o profeta de Hyakki Yagyo."
-
-101020-64 = "...Kuzunoha."
-
-101020-65 = "Deixe a concubina guiá-lo. Mas isso tem um preço."
-
-101020-66 = "Compensação...?"
-
-101020-67 = "Você tem que abandonar a essência que constitui o outro lado. #n――Neste caso, seria “visão de futuro”."
-
-101020-68 = "As cores distorcem nossa verdadeira natureza. Para ser mais preciso, eu diria que é uma inversão das raízes. De qualquer forma, isso não muda o fato de que não serei mais quem sou agora."
-
-101020-69 = "Porém, se você pagar o preço, poderá escapar da erosão da cor."
-
-101020-70 = "Agora, o que você faz? #n――Profeta da Trindade."
-
-101020-76 = "Não há outra escolha?"
-
-101020-77 = "Hmm, você decidiu sem hesitação... pelo bem do seu amigo...? #n――Ótimo trabalho."
-
-101020-79 = "...Bem, então, adeus, Seia. #nMesmo que você volte a esse mundo, não tente encontrar uma concubina, ok? Porque a concubina não está mais lá."
-
-101020-83 = "...! ?"
-
-101020-84 = "Ah, isso mesmo. Finalmente, no processo de perda da essência, a precognição final pode ser ativada. #nÉ uma dor necessária – apenas aguente."
-
-101020-87 = "Aaaaaaaaa...! !"
-
-101020-97 = "Gematria/sala de conferências"
-
-101020-100 = "Desculpe, estou um pouco atrasado."
-
-101020-104 = "……."
-
-101020-105 = "……."
-
-101020-106 = "……."
-
-101020-107 = "...Todo mundo parece estar reunido aqui."
-
-101020-109 = "Pois bem, vamos começar a reunião?"
-
-101020-110 = "Não faz muito tempo, foi observado o legado do “Sacerdote Desconhecido”."
-
-101020-111 = "……."
-
-101020-112 = "Peço desculpas por não ter instrução, mas o que exatamente significa “um padre anônimo”?"
-
-101020-113 = "A tecnologia de Beatrice para proteger Royal Blood. E o míssil de cruzeiro que destruiu a antiga catedral – interpreto que seja a tecnologia de um padre desconhecido."
-
-101020-114 = "É correto pensar que se trata de uma superciência que supera a tecnologia existente?"
-
-101020-115 = "Bem... para simplificar, eles existiam antes do Kivotos."
-
-101020-116 = "Hum...?"
-
-101020-118 = "O “Deus Sem Nome” e o “Sacerdote Sem Nome” que o adora -- #n Eles são a existência que deveria estar depositada sob o mistério de Kivotos, deixando apenas vestígios..."
-
-101020-119 = "O “deus sem nome” – a terra, o oceano, os desastres naturais, etc. – você poderia chamá-lo de “mistério” e “medo” que existem desde tempos imemoriais. #nDiz-se que eles se manifestam de uma forma que está além da natureza."
-
-101020-120 = "E um “padre sem nome” que os adora. Não está claro por que eles criaram Oparts como mísseis de cruzeiro, mas talvez os Antigos abatidos não fossem amigáveis ​​com os Kivotos modernos."
-
-101020-121 = "Embora tenham desaparecido em algum lugar, sua tecnologia ainda permanece aqui. #nSim...e eu estou muito interessado no legado deles."
-
-101020-122 = "Afinal, está sendo negociado a um preço elevado. kkkkkkkkkkkkkkk."
-
-101020-123 = "……."
-
-101020-124 = "Porém, o que foi observado não foi tão comum."
-
-101020-125 = "A ``Arca'' foi observada. Embora tenha sido apenas por um momento."
-
-101020-126 = "……\"observação\"? É um conceito percebido? #nNão é um objeto, mas um fenômeno?"
-
-101020-127 = "isso é……"
-
-101020-128 = "Essa é uma pergunta interessante. Eu também pensei que a “Arca” fosse uma substância real, mas...#nAparentemente, esse não é o caso."
-
-101020-129 = "Mandei o Grupo Kaiser investigar o Deserto de Abydos, mas... foi tudo em vão #n... me enganei."
-
-101020-130 = "Se a “Arca” é um conceito abstrato que reúne todos os mistérios..."
-
-101020-131 = "--Não, isso está faltando ao ponto. #nVamos voltar ao assunto principal."
-
-101020-132 = "As tropas do “Sacerdote Sem Nome” que deveriam desaparecer, e o legado foram observados novamente...#nEssas certamente superaram nossas expectativas."
-
-101020-133 = "Aparecimento da placa de Petri, falha em garantir o maior mistério de Kivotos. #nPrivação do único território ariano remanescente, morte do Decagrammaton――"
-
-101020-134 = "E observação da “Arca”, legado do “Sacerdote Desconhecido”."
-
-101020-135 = "Uma situação que nunca teria acontecido se tivesse acontecido conforme o planejado. #nMesmo num futuro distante, pode ter sido um fenómeno que nunca seria alcançado."
-
-101020-136 = "Devido a variáveis ​​incontroláveis, agora... nos afastamos muito do plano original."
-
-101020-137 = "Isso não é tudo..."
-
-101020-139 = "``Color'' descobriu este lugar. #nBeatrice, é por causa do ritual que você realizou."
-
-101020-140 = "……."
-
-101020-142 = "O ritual tinha como objetivo colocar as pessoas em contato com a “cor”. #nVocê deveria saber o frenesi que isso causaria, certo?"
-
-101020-143 = "Para ser mais preciso, não se tratava de contato, mas sim de uso da força. #n Madame não queria chamá-lo."
-
-101020-144 = "Ah, acho que sim! Ele tentou usar o poder das \"cores\" para se tornar grande...#nPara um propósito tão vulgar, ele fez isso...!"
-
-101020-146 = "Cuidado com o que você fala, estatueta de madeira."
-
-101020-147 = "……."
-
-101020-148 = "Os artistas querem que seu próprio trabalho seja excelente, mas desprezam as aspirações dos outros. Ah, esse tipo de arrogância é a verdadeira essência?"
-
-101020-149 = "Senhora, por favor, acalme-se."
-
-101020-150 = "Decalcomania, o mesmo vale para você."
-
-101020-151 = "……."
-
-101020-152 = "Você está dizendo que sua metáfora para imagens virtuais e inexistência é expressa fazendo uma pintura falar? Do meu ponto de vista, não é diferente de um palhaço de circo."
-
-101020-153 = "Foi isso que aconteceu! !"
-
-101020-154 = "...Os decalques também não são muito nítidos. #nDevemos entender o insulto que ela sofreu."
-
-101020-156 = "Pessoal, vamos crescer. Beatrice estava apenas tentando usar cores e provavelmente não planejava chamá-lo para Kivotos."
-
-101020-157 = "Ainda não podemos concluir que a cor nos descobriu. #nAté onde eu sei, isso aconteceu em um sonho."
-
-101020-158 = "Sim. Tudo aconteceu depois que o professor da placa de Petri [NOME DE USUÁRIO] apareceu. #nTodo mundo sabe que esse ser é a causa de tudo, certo?"
-
-101020-159 = "……."
-
-101020-160 = "……."
-
-101020-161 = "...Senhora."
-
-101020-162 = "Como já disse muitas vezes, essa pessoa deveria ter sido eliminada o mais rápido possível."
-
-101020-163 = "...Enquanto este lugar existir sob o conceito de Cidade Academia, é natural que a existência do [NOME DE USUÁRIO]-sensei supere a nossa."
-
-101020-164 = "Esse é o gênero desta história... em outras palavras, deste mundo. #nEnquanto permanecermos neste mundo, não poderemos ir contra as regras..."
-
-101020-165 = "Eu não me importo com a etiqueta da história! !"
-
-101020-166 = "……."
-
-101020-168 = "Entendido. Eu vou te mostrar a solução. #n \"Sacerdote Anônimo\", \"Placa de Petri\" e \"Ark\" - a solução definitiva que pode resolvê-los todos de uma vez."
-
-101020-169 = "Hum...?"
-
-101020-170 = "``Cor'' já foi descoberta aqui."
-
-101020-171 = "...! ?"
-
-101020-172 = "! ?"
-
-101020-173 = "! !"
-
-101020-177 = "Bem, para ser mais preciso, eu te disse. #n “Color” agora segue em direção a Kivotos."
-
-101020-178 = "……."
-
-101020-194 = "Não há mais como proteger o professor."
-
-101020-196 = "[NOME DE USUÁRIO] Professor."
-
-101020-197 = "Agora..."
-
-101020-198 = "Este deveria ser o fim de tudo..."
-
+101020-1 = "Episódio 2; Catástrofe"
+101020-3 = "Dentro de um devaneio"
+101020-5 = "......"
+101020-6 = "......"
+101020-7 = "Você é... espere, onde é aqui...?"
+101020-8 = "Espere, esse o seu corpo..."
+101020-12 = "――Então você encontrou as 'Cores'."
+101020-16 = "Mas que curioso... como alguém que se encontrou com as Cores ainda consegue manter sua consciência."
+101020-17 = "Cores...?"
+101020-18 = "A entidade que vem de fora de Kivotos, trazendo uma catástrofe sem precedentes."
+101020-19 = "Não sei se aquilo possui uma personalidade ou vontade própria."
+101020-20 = "O importante é que, para os habitantes de Kivotos, aquilo pode ser um veneno mortal."
+101020-21 = "O corpo daqueles expostos às Cores se distorce――e suas mentes também são corroídas."
+101020-22 = "Os habitantes de Kivotos não morrerão apenas por causa disso... mas suas individualidades serão distorcidas e se transformarão em algo completamente diferente――A questão de se essas coisas continuarão sendo a mesma pessoa, já é uma outra história."
+101020-23 = "No entanto, é quase impossível para as Cores encontrarem Kivotos."
+101020-24 = "É o mesmo que encontrar um grão de areia num deserto... se você tocou nisso, pode-se dizer que foi uma infelicidade do destino."
+101020-25 = "Mas... o seu corpo não parece ter entrado em contato direto com as Cores...#nEntão, o que foi que aconteceu? Me diga."
+101020-26 = "Isso é..."
+101020-27 = "Hum... deixe-me dar uma olhada."
+101020-36 = "Com licença."
+101020-37 = "......"
+101020-42 = "Afinal, você se envolveu no 'Ritual'.#nÉ o mesmo que botar a cabeça para fora da janela que liga Kivotos ao que há lá fora."
+101020-43 = "Sim... a sua existência deve ter se destacado como uma lamparina no meio da escuridão para 'aquilo'."
+101020-46 = "......Tudo culpa 'daquilo', não é?"
+101020-47 = "A exposição 'daquilo' inverteu o seu sublime em terror――e os princípios subjacentes começaram a controlá-la."
+101020-49 = "Entendo... então havia alguém tentando usar as Cores para alterar o próprio corpo.#nQue tolice..."
+101020-50 = "Realizou um ritual para atrair as Cores...#nMas felizmente, o ritual em si foi interrompido."
+101020-51 = "......Entendi. Então você não encontrou as Cores diretamente."
+101020-52 = "Através de um 'devaneio', você as viu através da janela do 'Ritual'――"
+101020-53 = "Por isso você ainda está sã e salva."
+101020-54 = "......"
+101020-55 = "Mas isso também não vai durar muito tempo.#nA sua mente pode estar aqui, mas o seu corpo está a caminho de desmoronar."
+101020-56 = "Não pode ser... Eu não posso... cair agora..."
+101020-57 = "......Não tem nenhuma maneira de impedir isso?"
+101020-58 = "Não."
+101020-62 = "......Isso é o que eu diria."
+101020-63 = "Porém, você teve uma certa sorte.#nVocê conseguiu encontrar a mim――A profeta da Hyakkiyako, Kuzunoha."
+101020-64 = "......Kuzunoha."
+101020-65 = "Eu vou te ajudar. Mas haverá um preço a pagar."
+101020-66 = "Preço...?"
+101020-67 = "Você deve abrir mão de uma das essências que te formam.#n――Neste caso, a sua 'visão do futuro'."
+101020-68 = "As Cores distorcem as nossas essências. Ou, para ser mais exata――elas invertem a nossa origem. De qualquer maneira, você deixará de ser quem você é agora."
+101020-69 = "Mas se você pagar o preço, conseguirá escapar da corrosão das Cores."
+101020-70 = "Então, o que vai fazer?#n――Profeta de Trinity."
+101020-76 = "Eu não tenho outra escolha, não é?"
+101020-77 = "Humm, tomar uma decisão sem hesitar... Será por um amigo...?#n――Impressionante."
+101020-79 = "......Então, me despeço aqui, Seia.#nNão tente me procurar quando voltar ao mundo real, ouviu? Eu não estarei mais lá."
+101020-83 = "......!?"
+101020-84 = "Ah, sim. Por último, você pode ter uma última premonição durante o processo de perda da sua essência.#nÉ uma dor necessária――Aguente firme."
+101020-87 = "Aaaaaaahhh...!!"
+101020-97 = "Gematria, Sala de Conferências"
+101020-100 = "Desculpem a demora."
+101020-104 = "......"
+101020-105 = "......"
+101020-106 = "......"
+101020-107 = "......Parece que todos já estão aqui."
+101020-109 = "Pois bem, vamos dar início à reunião."
+101020-110 = "Não faz muito tempo, os vestígios dos 'Sacerdotes Sem Nome' foram observados."
+101020-111 = "......"
+101020-112 = "Perdoem a minha ignorância, mas o que exatamente quer dizer com os 'Sacerdotes Sem Nome'?"
+101020-113 = "A tecnologia que a Beatrice usava para proteger o Sangue Real. E também o míssil de cruzeiro que destruiu o Antigo Tabernáculo――Eu interpreto que essas são as tecnologias dos Sacerdotes Sem Nome."
+101020-114 = "Uma superciência que supera a tecnologia existente――Seria essa a interpretação correta?"
+101020-115 = "Sim... Em resumo, eles são os mestres deste mundo que existiam antes de Kivotos."
+101020-116 = "Humm...?"
+101020-118 = "Os 'Deuses Sem Nome' e os 'Sacerdotes Sem Nome' que os adoravam――#nEles deveriam ter ficado soterrados sob os mistérios de Kivotos, restando apenas os seus vestígios..."
+101020-119 = "Os 'Deuses Sem Nome'――Eles poderiam ser chamados de 'Mistérios' ou 'Terrores' que existem desde os tempos antigos... como a terra, o mar e os desastres naturais.#nDizem que eles se manifestam através de formas que imitam a natureza."
+101020-120 = "E os 'Sacerdotes Sem Nome' são os que os adoravam. Não está claro o motivo pelo qual eles criaram out-of-place artifacts como mísseis de cruzeiro, mas――é bem provável que essas pessoas antigas e seletivas não fossem muito amigáveis com a atual Kivotos."
+101020-121 = "Eles desapareceram sem deixar rastros, mas a tecnologia deles ainda permanece nesta terra.#nSim... e eu――estou extremamente interessado nos vestígios que eles deixaram para trás."
+101020-122 = "Afinal, o valor deles no mercado negro é altíssimo. Kukuku..."
+101020-123 = "......"
+101020-124 = "Mas, o que foi observado não foi algo tão trivial."
+101020-125 = "A 'Arca' foi observada. Mesmo que por um instante."
+101020-126 = "......'Observada'? Então é um conceito perceptível?#nNão um objeto, mas um fenômeno?"
+101020-127 = "Isso é..."
+101020-128 = "Uma pergunta interessante. Eu também pensava que a 'Arca' fosse uma matéria existente, mas...#nParece que esse não é o caso."
+101020-129 = "Eu até fiz o Grupo Kaiser investigar o Deserto de Abydos... e tudo não passou de um esforço inútil#n......Eu cometi um erro."
+101020-130 = "Se a 'Arca' é um conceito abstrato que reúne todos os mistérios――"
+101020-131 = "――Não, isso está fugindo do assunto.#nVamos voltar ao que interessa."
+101020-132 = "As forças dos 'Sacerdotes Sem Nome' que deveriam ter sumido e as suas heranças sendo observadas de novo...#nIsso definitivamente superou as nossas expectativas."
+101020-133 = "A aparição da Schale, o fracasso em garantir o maior mistério de Kivotos.#nA perda do distrito de Arius, o nosso único refúgio, a morte de Decagrammaton――"
+101020-134 = "E a observação da 'Arca', o vestígio dos 'Sacerdotes Sem Nome'."
+101020-135 = "Se tudo tivesse saído como planejado, coisas que não deveriam ter acontecido.#nFenômenos que talvez nem alcançassem――ou melhor, sequer chegariam até nós num futuro distante."
+101020-136 = "Devido a variáveis incontroláveis, o presente em que nos encontramos... se desviou completamente do plano original."
+101020-137 = "E não é só isso――"
+101020-139 = "As 'Cores' encontraram este lugar.#nBeatrice, tudo por conta daquele ritual que você executou."
+101020-140 = "......"
+101020-142 = "O ritual era para entrar em contato com as 'Cores'.#nVocê sabia da loucura que aquilo traria, não sabia?"
+101020-143 = "Para ser mais exato, não foi um contato, e sim uma forma de usar esse poder.#nA Madame não tinha a intenção de atraí-las para cá."
+101020-144 = "Ah, sim, claro! Ela estava querendo usar o poder das 'Cores' para se elevar a uma entidade superior...#nUsou 'aquilo' por um propósito tão mesquinho――!"
+101020-146 = "Olhe como fala, seu boneco de madeira."
+101020-147 = "......"
+101020-148 = "Para um artista que anseia que as suas obras sejam grandes, o seu desprezo pelos desejos dos outros é impressionante. Ah――Seria essa arrogância a sua verdadeira essência?"
+101020-149 = "Madame, por favor se acalme."
+101020-150 = "Decalcomanie, isso também serve para você."
+101020-151 = "......"
+101020-152 = "Acha que pode expressar essas suas ilusões e metáforas não existentes... através de um simples quadro falante? Aos meus olhos, você não é diferente de um palhaço de circo."
+101020-153 = "É isso aí!!"
+101020-154 = "......Decalcomanie, não precisa se irritar tanto.#nNós precisamos compreender os insultos que ela recebeu."
+101020-156 = "Por favor, sejam adultos. A Beatrice só queria usar as Cores, não as atrair para Kivotos."
+101020-157 = "Ainda não podemos afirmar com certeza que as Cores descobriram este lugar.#nAté onde sei, isso foi um incidente que ocorreu dentro de um sonho."
+101020-158 = "Sim. Tudo isso começou a acontecer depois da aparição do Sensei [USERNAME] da Schale.#nVocês estão bem cientes de que aquela existência é a raiz de todos esses problemas, não estão?"
+101020-159 = "......"
+101020-160 = "......"
+101020-161 = "......Madame."
+101020-162 = "Como eu disse várias vezes, aquela pessoa devia ter sido eliminada o mais rápido possível."
+101020-163 = "......Enquanto este lugar existir como o conceito de uma cidade acadêmica, é natural que a existência do Sensei [USERNAME] supere a nossa."
+101020-164 = "Esse é o gênero dessa história... ou melhor, a regra deste mundo.#nEnquanto nós continuarmos neste mundo, ir contra as regras――"
+101020-165 = "Eu não dou a mínima para essas regras da história!!"
+101020-166 = "......"
+101020-168 = "Muito bem. Eu mesma darei a solução a vocês.#nA solução definitiva para resolver os 'Sacerdotes Sem Nome', a 'Schale' e a 'Arca'――tudo de uma vez."
+101020-169 = "Humm...?"
+101020-170 = "As 'Cores' já descobriram este lugar."
+101020-171 = "......!?"
+101020-172 = "!?"
+101020-173 = "!!"
+101020-177 = "Sim, e para ser mais exata, fui eu quem lhes contou.#nAs 'Cores' estão vindo para Kivotos neste exato momento."
+101020-178 = "......"
+101020-194 = "Não há mais como proteger o Sensei."
+101020-196 = "Sensei [USERNAME]."
+101020-197 = "Com isso..."
+101020-198 = "Tudo deve... acabar."
 101020-199 = "[ns] \"Shiroko...?\""
-
-101020-203 = "--professor?"
-
-101020-205 = "Aula de Alona"
-
-101020-206 = "professor? OK?"
-
-101020-207 = "O que aconteceu?"
-
-101020-208 = "[ns1] Observe Alona. \n[ns2] アロナが怪我をしていないか、確認する。"
-
-101020-211 = "Ah, isso...?"
-
-101020-212 = "O que? O que é? É um exame físico? #nAwa, awawawa...?"
-
-101020-213 = "Huh? Levar um tiro com uma arma...? Meu?"
-
-101020-214 = "Ah, Alona está bem! Nada está acontecendo! #nEstá tudo bem, professor!"
-
-101020-215 = "Estou bem! #n Entãããããããããããããããããããããããããããããããããããããããágua! Estou bem!"
-
-101020-216 = "[ns] \"...Sim, isso mesmo.\""
-
-101020-218 = "[ns] \"Estou feliz que Alona não se machucou.\""
-
-101020-219 = "……."
-
-101020-220 = "Professor, não se preocupe. Estou bem."
-
-101020-221 = "...É apenas um sonho ruim. #n, então está tudo bem."
-
-101020-224 = "Um mundo onde todas as cores desapareceram."
-
-101020-225 = "Em um mundo tão monocromático... uma garota distorcida com uma auréola apontava uma arma para a professora."
-
-101020-226 = "Minha visão não estava clara, mas uma coisa era certa: #n"
-
-101020-227 = "[s3] \"………….\"\n[s4] \"Essa é uma história assustadora.\""
-
-101020-230 = "……."
-
-101020-231 = "Não sei por que a professora teve o mesmo sonho precognitivo que eu, mas..."
-
-101020-232 = "Sensei teve muitos encontros comigo em meus sonhos...#nTalvez essa seja a influência."
-
-101020-233 = "[s] \"Você sabe quando esse futuro vai acontecer?\""
-
-101020-234 = "não. Minha visão do futuro já se foi. #nSó consigo ver visões fragmentárias agora..."
-
-101020-235 = "No entanto, é certo que está relacionado com o “fim dos Kivotos” que anunciei anteriormente."
-
+101020-203 = "――Sensei?"
+101020-205 = "Sala de aula da Arona"
+101020-206 = "Sensei? Está tudo bem com você?"
+101020-207 = "O que houve? Não me diga que――teve aquele sonho de novo?"
+101020-208 = "[ns1] Observa a Arona.\n[ns2] Verifica se a Arona está machucada."
+101020-211 = "H-Hã...? "
+101020-212 = "O-O que foi isso? Uma revista corporal?#nAwa, awawawa...?"
+101020-213 = "Eh? Baleada...? Eu?"
+101020-214 = "A-Arona tá ótima! Não aconteceu nada!#nTá tudo bem, Sensei!"
+101020-215 = "Eu tô super bem!#nMuito, muiiiito! Bem!"
+101020-216 = "[ns] \"...Sim, claro.\""
+101020-218 = "[ns] \"Que bom que você não está machucada, Arona.\""
+101020-219 = "......"
+101020-220 = "Sensei, não precisa se preocupar. Eu tô bem."
+101020-221 = "......Foi só um pesadelo ruim.#nEntão, tá tudo bem."
+101020-224 = "Um mundo que perdeu todas as cores."
+101020-225 = "Nesse mundo monocromático... uma garota com um halo distorcido apontava uma arma para mim."
+101020-226 = "Minha visão estava meio embaçada, mas... a única coisa que tenho certeza é que,#n[ruby=  •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •   •  ]aquela foi a última coisa que vi antes de morrer.[/ruby]"
+101020-227 = "[s3] \"............\"\n[s4] \"Que sonho terrível.\""
+101020-230 = "......"
+101020-231 = "Ainda não está claro para mim o porquê de você ter o mesmo sonho premonitório que eu, mas――"
+101020-232 = "Como já nos encontramos tantas vezes no mundo dos sonhos...#nPode ser que tenha sido por causa disso."
+101020-233 = "[s] \"Você sabe quando aquele futuro vai acontecer?\""
+101020-234 = "Não. Eu já não tenho mais a minha visão do futuro.#nAgora tudo o que vejo são ilusões fragmentadas..."
+101020-235 = "Mas tenho certeza que isso tem a ver com 'o fim de Kivotos' do qual eu te avisei antes."
 101020-236 = "[s] \"O fim...\""
-
-101020-240 = "Uma enorme torre veio voando do céu, e o céu estava tingido de escarlate――"
-
-101020-241 = "A sinistra torre ruge como se estivesse gritando... ela está destruindo este mundo pouco a pouco... e então, uma luz negra desce do céu... e o mundo está se aproximando do seu fim..."
-
-101020-243 = "[ns] \".......\""
-
-101020-244 = "Não se preocupe, senhor. #nNão importa o que aconteça, Arona irá proteger você!"
-
-101020-245 = "[s5] \"Isso mesmo...\"\n[s6] \"Obrigado como sempre, Alona.\""
-
-101020-248 = "Hehe... você poderia me agradecer ainda mais!"
-
-101020-249 = "Ah, professora. Que tipo de trabalho você planeja fazer hoje?"
-
-101020-250 = "[s] Conte-me seus planos para hoje."
-
-101020-251 = "...Para o Sr. Rin do Conselho Estudantil da Federação?"
-
-101020-252 = "Mas... Rin-san acreditará nessa história?"
-
-101020-253 = "[s7] \"Sim, Rin vai acreditar em você.\"\n[s8] \"Rin-chan está falando sério.\""
-
-101020-256 = "……Entendido. Se o professor assim o disser."
-
-101020-257 = "Rin-san é um pouco assustador, mas... estou torcendo por você, Sensei!"
-
-101020-262 = "Ufa..."
-
-101020-268 = "……."
-
+101020-240 = "Uma torre colossal desceu dos céus, e o vazio foi tingido de vermelho escarlate――"
+101020-241 = "A torre agourenta retumbava como se estivesse gritando... e começou a arrancar pedaços deste mundo, aos poucos... e então, uma luz negra desceu dos céus... e o mundo começou a declinar rumo ao seu fim..."
+101020-243 = "[ns] \".........\""
+101020-244 = "Não se preocupe, Sensei.#nNão importa o que aconteça, eu vou te proteger!"
+101020-245 = "[s5] \"Certo...\"\n[s6] \"Obrigado como sempre, Arona.\""
+101020-248 = "Hehe... Pode me agradecer mais, muiiiiito mais!"
+101020-249 = "Ah, Sensei. Quais são os planos para o trabalho de hoje?"
+101020-250 = "[s] Conta a ela sobre os planos de hoje."
+101020-251 = "......Com a Rin-san do Conselho Estudantil Geral, então?"
+101020-252 = "M-Mas... será que a Rin-san vai acreditar nessa história?"
+101020-253 = "[s7] \"Sim, a Rin com certeza vai acreditar.\"\n[s8] \"A Rin-chan é bem séria em relação a isso.\""
+101020-256 = "......Entendi. Se o Sensei diz, eu acredito."
+101020-257 = "A Rin-san pode ser um pouco assustadora, mas... tô torcendo por você, Sensei!"
+101020-262 = "Phew..."
+101020-268 = "......"
 101020-269 = "Hehe..."
-
-101020-274 = "Conselho Estudantil da Federação/Sala de Recepção"
-
-101020-277 = "……."
-
-101020-278 = "\"O fim\"…?"
-
-101020-279 = "[s] \"Você não acredita nisso, não é?\""
-
-101020-280 = "Então... é um sonho profético, certo?"
-
-101020-281 = "[s] \"Ah, isso mesmo...\""
-
-101020-282 = "Esta é a história de um sonho que a professora teve. #nEntendo... Kivotos está chegando ao fim..."
-
-101020-283 = "Não há nenhuma evidência particular disso, e não é certo quando isso acontecerá...?"
-
-101020-284 = "...\"Fim\"...Hmm."
-
-101020-285 = "[s] \"Achei que seria uma boa ideia avisar Rin-chan...\""
-
-101020-286 = "...Quem é \"Rin-chan\"?"
-
-101020-287 = "[s] \"Sinto muito.\""
-
-101020-290 = "……."
-
-101020-291 = "Entendido, senhor."
-
-101020-292 = "Vamos verificar os registros e dados do Conselho Estudantil da Federação. #nVamos verificar se há algum caso semelhante."
-
-101020-293 = "[s] \"...Eh?\""
-
-101020-294 = "Também darei uma olhada na lista da Área Autônoma Hyakki Yagyo. O banco de dados deles não é muito preciso, mas se você conseguir a menor pista, está com sorte."
-
-101020-295 = "[s] \"Você vai acreditar nessa história?\""
-
-101020-296 = "...Não é que eu acredite ou não, mas acho que o próprio professor não entende bem."
-
-101020-297 = "Porém, já que você veio me visitar só para me contar essa história... Não é verdade que você mesmo acredita nesse sonho profético?"
-
-101020-298 = "...Você é a pessoa indicada pelo Presidente do Conselho Estudantil da Federação. Se for #n, prepararei e responderei."
-
-101020-299 = "Esta também é minha obrigação para com o Presidente do Conselho Estudantil da Federação."
-
+101020-274 = "Conselho Estudantil Geral, Sala de Recepção"
+101020-277 = "......"
+101020-278 = "O 'Fim'...? "
+101020-279 = "[s] \"Você não acreditou numa só palavra, né!?\""
+101020-280 = "E é de um sonho premonitório que estamos falando?"
+101020-281 = "[s] \"S-Sim...\""
+101020-282 = "Uma história de um sonho que o Sensei teve.#nEntendo... O fim de Kivotos..."
+101020-283 = "Sem nenhuma evidência e com o momento exato sendo incerto...?"
+101020-284 = "......O 'Fim'... hum."
+101020-285 = "[s] \"Eu achei que seria bom avisar a Rin-chan sobre isso...\""
+101020-286 = "......Quem é 'Rin-chan'?"
+101020-287 = "[s] \"M-Me desculpe.\""
+101020-290 = "...... "
+101020-291 = "Eu entendi, Sensei."
+101020-292 = "Vou verificar os registros e os dados do Conselho Estudantil Geral.#nE procurar se não há casos semelhantes."
+101020-293 = "[s] \"...Hã?\" "
+101020-294 = "Também vou revisar os registros do distrito autônomo de Hyakkiyako. Os dados deles não são dos mais precisos, mas se puder encontrar alguma pista, será de grande ajuda."
+101020-295 = "[s] \"Você vai acreditar na minha história?\""
+101020-296 = "......Mais do que acreditar ou não, eu acredito que o próprio Sensei não entenda muito bem a situação também."
+101020-297 = "Mas considerando que você veio até aqui apenas para me contar isso...#nNão há dúvidas de que você acredita com certeza nesse seu sonho premonitório, não é?"
+101020-298 = "......Você é alguém escolhido pela Presidente do Conselho Estudantil Geral.#nSendo assim, o meu dever é me preparar e resolver o problema."
+101020-299 = "Esse também é o meu compromisso com a Presidente do Conselho Estudantil Geral."
 101020-300 = "[s] \"Obrigado, Rin-chan!\""
-
-101020-301 = "...Mas precisamos de evidências para convencer os outros membros do conselho estudantil. #nSe pudermos garantir isso, acho que as coisas poderão prosseguir sem problemas."
-
-101020-302 = "Não tenho muito tempo para gastar com isso, mas...#nVamos fazer o que pudermos."
-
-101020-303 = "Entraremos em contato com você novamente em breve."
-
-101020-304 = "Bem, eu tenho algo para fazer, então vou deixar por isso mesmo."
-
-101020-306 = "Próxima vez; rachaduras na vida cotidiana (1)"
-
+101020-301 = "......Porém, se vamos tentar convencer os outros conselhos estudantis, precisaremos de provas.#nAcho que garantir isso facilitaria bastante o andamento das coisas."
+101020-302 = "Eu não tenho tanto tempo a perder com isso, mas...#nVou tentar fazer o que for possível."
+101020-303 = "Voltarei a falar com você em breve. "
+101020-304 = "Bem, eu tenho uns assuntos a tratar agora, então com licença."
+101020-306 = "Próximo Episódio; Rachaduras no Cotidiano (1)"

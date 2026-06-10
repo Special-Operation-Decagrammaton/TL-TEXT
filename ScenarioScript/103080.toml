@@ -1,291 +1,146 @@
 [translation]
-103080-1 = "Episódio 8; Resumo"
-
-103080-14 = "Sim, isso. Plano estratégico."
-
-103080-15 = "Foi criado com a ajuda de todos."
-
-103080-16 = "O nome da operação é “Batalha de Ocupação da Arca de Atla Hasith”."
-
-103080-17 = "...Esta será provavelmente a última estratégia."
-
-103080-19 = "Bem, a última coisa..."
-
-103080-21 = "Se tiver sucesso, o Sanctum não será criado, e se falhar, o Kivotos acabará..."
-
-103080-22 = "Bem, em qualquer caso, esta será a última estratégia."
-
-103080-24 = "É só uma questão de torná-lo um sucesso! ? #nPor favor, não diga coisas que causem ansiedade, Kayoko-san!"
-
-103080-29 = "Além disso, especialistas se reuniram para verificar, certo?"
-
-103080-30 = "Deve ser a estratégia perfeita."
-
-103080-32 = "...Agora, vamos explicar a estratégia."
-
-103080-35 = "Nosso objetivo é “destruir a Arca de Atla Hasith” acima de Kivotos."
-
-103080-36 = "Se você conseguir destruí-lo com sucesso, poderá evitar o aparecimento do \"Sanctum of Illusion\"."
-
-103080-39 = "No entanto, a Arca está protegida por uma barreira de “coexistência de estados” que nega a intervenção física."
-
-103080-40 = "Enquanto esta barreira existiu, era considerado impossível aproximar-se fisicamente da Arca."
-
-103080-42 = "Se a \"nave principal Utnapishtim\" for colocada em estado semelhante, é teoricamente possível passar pela barreira."
-
-103080-44 = "A questão é que, se você se tornar igual à outra pessoa, você poderá interferir."
-
-103080-46 = "Pretendo realizar os cálculos usando o dispositivo de computação desta nave."
-
-103080-48 = "...E se o cálculo falhar?"
-
-103080-54 = "Bem... no caso improvável de o cálculo falhar e você entrar em um espaço onde uma barreira está implantada..."
-
-103080-55 = "Se não tiver sorte, você será quebrado em pedaços por átomos e, se tiver sorte, será ejetado da nave e cairá 75.000 metros acima do solo."
-
-103080-57 = "Bem, uma queda livre daquela altura... o Halo provavelmente quebraria..."
-
-103080-58 = "Não, não acho que meu corpo possa aguentar antes que isso aconteça."
-
-103080-62 = "A uma altitude de 75.000 m, as temperaturas podem facilmente ultrapassar os -60 graus. #nSe você respirar, seus pulmões congelarão."
-
-103080-63 = "Os fluidos corporais evaporariam em um instante...#nDe qualquer forma, o Halo seria destruído em menos de dois minutos naquele ambiente."
-
-103080-64 = "Ah, obrigado, Kayoko-san. Mesmo que seja #n, será útil..."
-
-103080-69 = "--Continuar. Mesmo se você assumir o fracasso, será infrutífero."
-
-103080-70 = "Após passar pela barreira, impacta fisicamente a arca e invade seu interior."
-
-103080-71 = "Assim que nos infiltrarmos com sucesso, invadiremos as instalações principais e as destruiremos completamente para evitar que continuem a operar."
-
-103080-72 = "Claro, você encontrará resistência de seus inimigos dentro da Arca."
-
-103080-73 = "O objetivo final desta operação é assumir gradualmente o controle de cada área da Arca, evitando ataques."
-
-103080-75 = "...Depois de ganhar o controle, você será capaz de autodestruir a Arca ou fazer com que ela caia no chão."
-
-103080-76 = "Sim... hackear e roubar a Arca - essa é a nossa condição de vitória."
-
-103080-78 = "Obrigado pela sua explicação. O objetivo é extremamente simples."
-
-103080-79 = "por falar nisso--"
-
-103080-85 = "...Bem, eu sou um tipo de suporte AMAS――"
-
-103080-90 = "Presidente Rio! ?"
-
-103080-95 = "...Eu descobri em um instante."
-
-103080-96 = "De repente, percebi para onde ele estava indo e me perguntei para onde ele tinha ido...#nAqui é onde ele estava! ? Ou melhor, onde está e o que está fazendo agora? ?"
-
-103080-97 = "Isso é..."
-
-103080-98 = "...Alice-chan e o departamento de desenvolvimento de jogos estão aqui. #nO que diabos você está planejando fazer?"
-
-103080-99 = "...O Rio está apenas me ajudando."
-
-103080-103 = "Não se preocupe, estarei observando. #nSe houver o menor movimento suspeito, iremos destruí-lo imediatamente."
-
-103080-104 = "Suspirar..."
-
-103080-105 = "Não sei o que eles estão planejando, mas por favor, definitivamente fique longe do departamento de desenvolvimento de jogos!"
-
-103080-106 = "Há tantas coisas que quero dizer ao presidente... #nBem... pedirei que você me conte em detalhes sobre o incidente de peculato mais tarde!"
-
-103080-111 = "...Eu entendo."
-
-103080-112 = "Tentarei encontrar uma maneira de voltar à superfície, só para garantir. #n...Claro, se você permitir."
-
-103080-113 = "Sim, por favor. #nSe o navio quebrar, ficaremos presos na arca."
-
-103080-114 = "--Então vamos começar imediatamente."
-
+103080-1 = "Episódio 8; A Reunião Geral"
+103080-14 = "Aqui está. O plano da operação. "
+103080-15 = "Nós o criamos com a colaboração de todas vocês."
+103080-16 = "O nome da operação é――\"Batalha pela Ocupação da Arca de Atrahasis\"."
+103080-17 = "……Esta provavelmente será a nossa última operação."
+103080-19 = "Ú-Última..."
+103080-21 = "Se a gente conseguir, não vai ter mais Sanctum,#ne se a gente falhar, é o fim de Kivotos..."
+103080-22 = "Tem razão, de um jeito ou de outro, será a nossa última operação."
+103080-24 = "É só a gente não falhar, né!?#nNão fale coisas que nos deixam ansiosas, Kayoko-san!"
+103080-29 = "Além disso, as especialistas se juntaram e analisaram tudo, não foi?"
+103080-30 = "Deve ser um plano mais do que perfeito."
+103080-32 = "……Sendo assim, vou começar a explicação do plano. "
+103080-35 = "O nosso objetivo é \"destruir a Arca de Atrahasis\" que está no céu de Kivotos."
+103080-36 = "Se a gente conseguir destruir ela, vamos conseguir impedir que os \"Sanctums Falsos\" apareçam~"
+103080-39 = "Porém, a Arca está protegida por uma barreira de \"coexistência de estados\" que anula qualquer intervenção física."
+103080-40 = "Enquanto essa barreira existir, qualquer abordagem física à Arca é considerada impossível――mas,"
+103080-42 = "Se deixarmos a \"Nave Principal de Utnapishtim\" no mesmo estado, teoricamente seria possível atravessar a barreira."
+103080-44 = "Basicamente, se a gente se tornar a mesma existência que eles, a gente consegue intervir~"
+103080-46 = "Para isso, eu vou usar a unidade de processamento desta nave para fazer os cálculos necessários."
+103080-48 = "……E se você errar os cálculos?"
+103080-54 = "Bem... Na remota possibilidade de entrarmos no espaço onde a barreira está ativa com os cálculos errados――"
+103080-55 = "Se tivermos azar, seremos despedaçados a nível atômico. Se tivermos sorte, seremos ejetados da nave e cairemos de uma altitude de 75.000m."
+103080-57 = "Q-Queda livre dessa altura... Com certeza as nossas auréolas seriam destruídas..."
+103080-58 = "Não, acho que nossos corpos nem aguentariam antes de chegar nisso."
+103080-62 = "Numa altitude de 75.000m, as temperaturas com certeza passam dos 60 graus negativos.#nSe você respirar, seus pulmões vão congelar."
+103080-63 = "Os fluidos corporais iam evaporar num instante também...#nDe qualquer jeito, nesse ambiente, as nossas auréolas iam ser destruídas em menos de 2 minutos."
+103080-64 = "A-Ah, muito obrigada, Kayoko-san.#nIsso serviu... m-muito de referência..."
+103080-69 = "――Dando continuidade. Imaginar fracassos não nos levará a lugar algum. "
+103080-70 = "Após passarmos pela barreira, aplicaremos um impacto físico na Arca――e invadiremos seu interior."
+103080-71 = "Uma vez lá dentro, vamos hackear as instalações principais e destruí-las completamente para que não voltem a funcionar."
+103080-72 = "É claro, com certeza enfrentaremos resistência dos inimigos a bordo da Arca."
+103080-73 = "Enquanto nos defendemos dos ataques, vamos \"ocupar\" e hackear as áreas da Arca aos poucos, até finalmente tomarmos o controle total dela――esse é o objetivo final desta operação."
+103080-75 = "……Depois que assumirmos o controle, poderemos iniciar a sequência de autodestruição da Arca ou fazê-la cair na terra."
+103080-76 = "Sim... Hackear a Arca e roubá-la――essa é a nossa condição de vitória."
+103080-78 = "Agradeço pela explicação. Nosso objetivo é extremamente simples."
+103080-79 = "A propósito――"
+103080-85 = "……Err, eu sou a AMAS de suporte――"
+103080-90 = "Presidente Rio~~!?"
+103080-95 = "……Me descobriram num instante."
+103080-96 = "Eu fiquei me perguntando pra onde você tinha sumido...#nE você estava num lugar desses!? Digo, onde o seu corpo original tá e o que você tá fazendo!?"
+103080-97 = "B-Bom, isso é... "
+103080-98 = "……A Aris-chan e o Departamento de Desenvolvimento de Jogos estão aqui, sabia.#nO que diabos você tá planejando?"
+103080-99 = "……A Rio está apenas me ajudando. "
+103080-103 = "E eu estou vigiando ela de perto, não se preocupe.#nSe ela fizer qualquer movimento suspeito, eu a destruo na mesma hora."
+103080-104 = "Haa..."
+103080-105 = "Não faço ideia do que você tá aprontando, mas fique bem longe do Departamento de Desenvolvimento de Jogos, ouviu bem!"
+103080-106 = "Eu tenho um monte de coisas pra te falar, Presidente, mas...#nPois é... Depois você vai ter que me dar todos os detalhes sobre aquele seu caso de desvio de fundos!"
+103080-111 = "……Entendido."
+103080-112 = "Para caso de emergência, eu vou procurar um jeito de voltar pro chão.#n……Claro, se vocês me derem permissão."
+103080-113 = "Sim, por favor, faça isso.#nSe a nave quebrar, vamos acabar presas na Arca."
+103080-114 = "――Certo, vou começar agora mesmo."
 103080-117 = "Ayumu, quanto tempo nos resta?"
-
-103080-122 = "Bem, espera-se que demore cerca de 12 horas até que Sanctum reapareça."
-
-103080-124 = "Ugh... temos que capturar a Arca até lá, certo?"
-
-103080-125 = "Detesto dizer isso, mas...esta é realmente uma estratégia viável?"
-
-103080-127 = "sim. Como resultado de muitas simulações, a probabilidade de sucesso é..."
-
-103080-128 = "Chega a 3%."
-
-103080-129 = "Sr. Porcentagem...?"
-
-103080-130 = "...Não temos escolha senão confiar em probabilidades milagrosas."
-
-103080-131 = "[s] \"Mesmo assim, acho que vale a pena.\""
-
-103080-133 = "...Sim, é exatamente como a professora disse."
-
-103080-134 = "Uma situação sem precedentes chegou a Kivotos... Enfrentámos um problema incompreensível - e foi assim que chegámos aqui."
-
-103080-136 = "A “profecia” de Seia foi o primeiro sinal."
-
-103080-137 = "Foram detectadas seis concentrações ultra-elevadas de energia, mas no início era apenas um fenômeno invisível e misterioso."
-
-103080-139 = "Em seguida, apareceu o “Sanctum of Delusion”, reunindo todos os “mistérios” que ocorreram em Kivotos para atacar."
-
-103080-140 = "IA incontrolável \"Deka Grammaton\", \"\" que pode reproduzir memórias \", tecnologia antiga chamada\" Deus sem nome \"..."
-
-103080-141 = "--E as “cores” que distorcem a existência dos alunos."
-
-103080-143 = "Embora tenhamos conseguido capturar os Guardiões e destruir todos os Santuários em uma operação combinada..."
-
-103080-144 = "Agora, Sanctum está prestes a ocorrer novamente, assim como da primeira vez... mas desta vez, não estamos apenas observando com os dedos na boca. Chegamos à solução."
-
-103080-145 = "--Nada do que aconteceu até agora foi explicado."
-
-103080-146 = "Profecia, Decagrammaton, Cor, Deus Sem Nome, Divi:Sion, Santuário da Ilusão, Guardião - e Prenapates, o guia da cor..."
-
-103080-147 = "Não importa se a taxa de sucesso é de 3%. #nNão temos escolha a não ser executar nossa estratégia normalmente."
-
-103080-148 = "[s] \"Isso mesmo. Vamos todos trabalhar juntos e tentar.\""
-
-103080-150 = "……Concordo. #nComo não há outro caminho, não há opções desde o início."
-
-103080-151 = "Sim, isso mesmo..."
-
-103080-152 = "……sim. Também para trazer Shiroko-senpai de volta."
-
-103080-154 = "Suspiro... não tenho escolha a não ser fazer isso."
-
-103080-155 = "Bem... cheguei até aqui e não tem outro jeito."
-
-103080-157 = "Por favor, faça os preparativos para que o navio Utnapishtim possa ser lançado dentro de 8 horas."
-
-103080-158 = "Ei, espere um minuto! #nPartindo em 8 horas! ?"
-
-103080-159 = "Existe um manual. Por favor, lembre-se disso."
-
-103080-160 = "Não, não, não, não é razoável memorizar um manual tão grosso em apenas algumas horas! ?"
-
-103080-161 = "Não é uma questão do que você pode fazer, mas do que você não pode fazer. #nGostaria que alguém que entendesse o manual fosse o operador."
-
-103080-162 = "Suspiro... quero dizer, precisamos de pelo menos 10 operadores..."
-
-103080-163 = "[s] \"Então eu estarei no comando.\""
-
-103080-164 = "O que, o professor?"
-
-103080-165 = "[s] \"Eu tenho a caixa do Shittim, então tenho certeza que tudo vai dar certo.\""
-
-103080-166 = "...Eu também vou apoiar o professor."
-
+103080-122 = "Err, o tempo estimado até o reaparecimento dos Sanctums... é de cerca de 12 horas."
+103080-124 = "Uuuu~... Nós temos que tomar a Arca até lá, né?"
+103080-125 = "Não queria dizer isso, mas... Esse plano aí é mesmo possível de realizar?"
+103080-127 = "Sim. Após simularmos isso inúmeras vezes, a probabilidade de sucesso é de――"
+103080-128 = "Impressionantes 3%."
+103080-129 = "Três... porcento...? "
+103080-130 = "……Parece que nossa única opção é torcer por um milagre."
+103080-131 = "[s] \"Mesmo assim, eu acho que vale a pena tentar.\""
+103080-133 = "……Sim, o senhor tem razão, Sensei. "
+103080-134 = "Diante de um desastre sem precedentes que atingiu Kivotos... nós enfrentamos esses problemas incompreensíveis――e conseguimos chegar até aqui."
+103080-136 = "O primeiro sinal foi a \"profecia\" da Yurizono Seia."
+103080-137 = "Depois, 6 massas de energia de altíssima concentração foram detectadas, mas no começo não passavam de um fenômeno incompreensível e invisível a olho nu."
+103080-139 = "Em seguida, os \"Sanctums Falsos\" que apareceram juntaram todos os \"Mistérios\" que já ocorreram em Kivotos e nos atacaram."
+103080-140 = "A IA incontrolável \"Decagrammaton\", as \"Réplicas\" que reproduzem memórias e a tecnologia superantiga que carrega o nome de \"Deuses Sem Nome\"―― "
+103080-141 = "――E o \"Chroma\", capaz de distorcer a existência das alunas."
+103080-143 = "Embora tenhamos conseguido destruir todos os Sanctums numa operação conjunta para derrotar os guardiões..."
+103080-144 = "Agora, os Sanctums estão prestes a surgir novamente... mas dessa vez, não ficaremos apenas de braços cruzados. Nós descobrimos a solução para isso."
+103080-145 = "――Não conseguimos desvendar nenhum dos fenômenos que ocorreram até agora."
+103080-146 = "A profecia, o Decagrammaton, as réplicas, o Chroma, os Deuses Sem Nome, a Divi:Sion, os Sanctums Falsos, os guardiões――e Phrenapates, o Guia do Chroma..."
+103080-147 = "Não me importo se a probabilidade de sucesso for de 3%.#nA nossa única opção é prosseguir com a operação, como sempre fizemos."
+103080-148 = "[s] \"É isso aí. Vamos tentar isso juntas, com a força de todas nós.\" "
+103080-150 = "……Tem razão.#nJá que não há outro jeito, nós não tivemos opções desde o começo."
+103080-151 = "Sim, tem razão..."
+103080-152 = "……É. E pra trazer a Shiroko-senpai de volta também."
+103080-154 = "Haa... É a nossa única chance."
+103080-155 = "É... Agora que chegamos até aqui, não tem outra opção."
+103080-157 = "Sendo assim, peço que se preparem para que a \"Nave Principal de Utnapishtim\" possa decolar em até 8 horas."
+103080-158 = "Pera, como assim!?#nA decolagem é daqui a 8 horas!? "
+103080-159 = "Nós temos o manual. Memorizem-no."
+103080-160 = "Não, não, não, peraí! Memorizar um manual dessa grossura em poucas horas é pedir demais, né!?"
+103080-161 = "Não é questão de conseguir ou não, nós precisamos fazer isso.#nQuem terminar de memorizar o manual, por favor, me ajude a operar a nave."
+103080-162 = "Haa... mas pera, a gente não vai precisar de pelo menos 10 operadoras pra isso..."
+103080-163 = "[s] \"Então, eu assumo como o responsável geral.\""
+103080-164 = "Hã, você, Sensei?"
+103080-165 = "[s] \"Com a Caixa de Shittim, a gente com certeza vai dar um jeito.\""
+103080-166 = "……Eu também vou dar suporte ao Sensei."
 103080-168 = "R-Rin-senpai?"
-
-103080-170 = "Já que chegamos até aqui, estarei com você até o fim. #nNão suporto deixar a parte mais perigosa apenas para o professor."
-
-103080-171 = "[s] \"Obrigado, Rin. Conto muito com você.\""
-
-103080-177 = "Bem, se tudo que você precisa fazer é memorizar o manual, então até eu posso fazer isso..."
-
-103080-179 = "Até Ayumu-senpai! ?"
-
-103080-181 = "Bem, se o professor disser, não vou escapar de jeito nenhum. #nEu também farei isso."
-
-103080-182 = "Estarei com você também. #nSim, sou bom em memorizar coisas. Várias coisas...♡"
-
-103080-184 = "Suspiro... Como oficial administrativo do Comitê Disciplinar da Gehenna, não posso abandonar minhas responsabilidades."
-
-103080-185 = "Eu farei isso também."
-
-103080-186 = "Por favor, deixe-me acompanhá-lo também!"
-
-103080-187 = "Eu estaria mentindo se dissesse que não estou com medo..."
-
-103080-188 = "Eu quero ajudar Shiroko-senpai."
-
-103080-190 = "Não foi para isso que vim aqui, mas... #nAcho que não vou conseguir voltar para casa assim. Eu farei isso também."
-
-103080-192 = "Uau... todo mundo parece tão motivado."
-
-103080-193 = "Ah, a propósito, eu não posso fazer isso, certo?"
-
-103080-194 = "Momoka-chan...mesmo que você tenha chegado até aqui, você está agindo separadamente de nós...?"
-
-103080-201 = "Uma vez você me disse: \"Eu te seguirei até o fim do universo\"..."
-
-103080-203 = "Uau! Não faça essa cara, Ayumu-senpai! ?"
-
-103080-204 = "... Entendi, entendi!"
-
-103080-205 = "Eu farei isso! #nBem...vai dar certo de alguma forma...?"
-
-103080-207 = "Hehe, ser membro da tripulação de um navio de guerra espacial parece ótimo♡"
-
-103080-208 = "A propósito, você tem fantasias?"
-
-103080-210 = "Traje H...?"
-
-103080-211 = "falta. Afinal, você é membro da tripulação de um navio de guerra espacial, certo? Não existe uma fantasia específica para #n?"
-
-103080-213 = "Ah, espere. Traje especial...?"
-
-103080-214 = "Sim, acho que posso me preparar para isso."
-
-103080-215 = "Olá, Hibiki! ? #nVocê tem tempo para prepará-lo?"
-
-103080-216 = "Afinal, ele é membro da tripulação de um navio de guerra espacial."
-
-103080-217 = "Isso não pode ser feito..."
-
-103080-219 = "Não tenho escolha a não ser fazer isso."
-
-103080-223 = "Sim! Não posso trair o romance do Departamento de Engenharia! Mesmo que ele diga frases como “Decole!”, “Suba altitude!” e “Carregue sua energia!”, ele não parece legal em seu uniforme normal, não é?"
-
-103080-224 = "...Isso também é verdade."
-
-103080-225 = "Ok, vamos trabalhar."
-
-103080-226 = "sim! Também vou procurar os materiais! #nAparece muito em mangás e animes!"
-
-103080-228 = "Sim. Então vou começar a produzi-lo imediatamente. Primeiro de tudo, vamos medir o tamanho de todos――"
-
-103080-229 = "Oh meu Deus, bem ♡...Estou realmente ansioso por isso. #nA propósito, em relação ao design, se não se importa, gostaria de ter uma discussão acalorada comigo?"
-
-103080-231 = "Bem, digamos que eu adicione algumas funções a esse traje e o modifique para parecer um traje de piloto♪"
-
-103080-232 = "Você tem algum comentário do seu professor?"
-
-103080-233 = "[s] \"Sim, sim, existe!! Falando em navios de guerra espaciais, afinal...\""
-
-103080-235 = "De repente estou começando a me sentir ansioso..."
-
-103080-237 = "[ns1] \"É um chapéu obrigatório!!\"\n[ns2] \"É um clássico, mas não dá para tirar o lenço!!\"\n[ns3] \"Afinal, o capitão usa um casaco longo!!\""
-
-103080-243 = "Ah, isso é mais específico do que eu pensava..."
-
-103080-244 = "Eu vejo. Vou usá-lo como referência."
-
-103080-246 = "(Eu me pergunto por que isso aconteceu...)"
-
-103080-250 = "Ufa, está tudo resolvido."
-
-103080-251 = "Bem, começaremos os preparativos para a partida agora e partiremos para a Arca em 8 horas."
-
-103080-252 = "Operador, controle de tráfego aéreo, hacker...#n Cozinhador, médico..."
-
-103080-253 = "Sim. Também precisamos de recrutar estudantes que irão realmente lutar na guerra de ocupação. #nSuspiro, há muito o que fazer~"
-
-103080-259 = "...Rin-senpai,"
-
-103080-260 = "Nossos idosos, professores e todos os alunos da Petri trabalharam incansavelmente para chegar a este ponto."
-
-103080-261 = "No entanto, agora há tempo até o início da operação. #nPor que não aproveitar esta oportunidade para descansar um pouco? Principalmente Rin-senpai..."
-
-103080-262 = "……Concordo."
-
-103080-263 = "A falta de sono pode prejudicar seu julgamento...#nAcreditarei em sua palavra para que isso não afete minhas operações futuras."
-
-103080-264 = "Pois bem, pessoal. #nPartiremos de madrugada, daqui a 8 horas."
-
-103080-265 = "Até então, tente descansar o máximo possível."
-
-103080-266 = "Agora, vamos terminar."
-
-103080-268 = "Da próxima vez: Ontem à noite na terra"
-
+103080-170 = "Já que chegamos até aqui, eu vou acompanhar até o fim.#nNão seria justo deixar as partes mais perigosas só nas costas do Sensei."
+103080-171 = "[s] \"Obrigado, Rin. Tô contando muito com você.\""
+103080-177 = "B-Bom, se é só pra decorar o manual,#nacho que eu consigo dar um jeito..."
+103080-179 = "Até a Ayumu-senpai!?"
+103080-181 = "Bom, se o Sensei tá dizendo, eu não posso pular do barco agora, né.#nEu também vou."
+103080-182 = "Eu também vou acompanhar vocês.#nIsso mesmo, eu sou muito boa em memorizar coisas. Várias delas...♡"
+103080-184 = "Haa... como uma Oficial do Comitê Disciplinar da Gehenna, eu não posso fugir das minhas responsabilidades."
+103080-185 = "Eu também vou ajudar."
+103080-186 = "Por favor, me deixem ir junto também! "
+103080-187 = "Seria mentira se eu dissesse que não estou com medo, mas..."
+103080-188 = "Eu quero ir salvar a Shiroko-senpai."
+103080-190 = "Eu não vim aqui pensando nisso, mas, haa...#nCom esse clima todo, eu não vou conseguir ir embora mesmo. Eu também tô dentro."
+103080-192 = "Uau... Todo mundo tá super animado."
+103080-193 = "Ah, só avisando que eu tô fora, tá?"
+103080-194 = "Momoka-chan... depois de chegarmos até aqui, você vai mesmo ficar pra trás...?"
+103080-201 = "Você disse que iria \"nos seguir até os confins do universo\" e agora..."
+103080-203 = "W-Wawawa! Não faz essa cara pra mim, Ayumu-senpai!? "
+103080-204 = "……Tá bom, tá bom, eu já entendi!"
+103080-205 = "Eu faço!#nBom... a gente vai conseguir dar um jeito, né...?"
+103080-207 = "Hehe... \"Tripulação da Nave de Guerra Espacial\", o som disso é tão bom♡"
+103080-208 = "Aliás, nós teremos trajes especiais?"
+103080-210 = "T-Trajes especiais...?"
+103080-211 = "Ora. Nós seremos a tripulação da nave de guerra espacial, não seremos?#nEles não deveriam ter trajes só para isso? "
+103080-213 = "E-Espera aí. Trajes especiais...?"
+103080-214 = "Uhum, acho que dá pra preparar isso."
+103080-215 = "Q-Quê, Hibiki!?#nVocê acha mesmo que temos tempo pra preparar isso?"
+103080-216 = "É que a gente vai ser a tripulação de uma nave de guerra espacial, sabe."
+103080-217 = "Não é questão de conseguir ou não..."
+103080-219 = "A gente tem que fazer isso. "
+103080-223 = "É verdade! Nós não podemos trair os ideais do Departamento de Engenharia! Falar frases como \"Decolar!\", \"Aumentar a altitude!\" ou \"Carregar energia!\" usando o uniforme escolar do dia a dia não seria nada legal!"
+103080-224 = "……Faz sentido."
+103080-225 = "Certo, mãos à obra."
+103080-226 = "Sim! Eu também vou procurar umas referências!#nTem um monte delas em mangás e animes, sabia!"
+103080-228 = "Uhum. Então eu já vou começar a confeccionar as roupas. O primeiro passo é tirar as medidas de todo mundo――"
+103080-229 = "Poxa vida, meu deus♡... Estou super animada.#nA propósito, sobre o design, você não gostaria de debater de forma bem calorosa comigo?"
+103080-231 = "Então, eu vou adicionar umas funçõezinhas nesses trajes para transformá-los em algo parecido com um traje de piloto♪"
+103080-232 = "Você também tem alguma sugestão, Sensei?"
+103080-233 = "[s] \"Opa, eu tenho, sim!! Uma nave de guerra espacial que se preze tem que ter――\""
+103080-235 = "Tô começando a ficar ansiosa com isso..."
+103080-237 = "[ns1] \"Aquele clássico chapéu de capitão!!\"\n[ns2] \"E não pode faltar um lenço no pescoço, é lei!!\"\n[ns3] \"O capitão não é ninguém sem um casaco longo!!\""
+103080-243 = "N-Nossa, esses detalhes são bem específicos..."
+103080-244 = "Entendi. Vou usar isso como referência."
+103080-246 = "（Como é que fomos parar nisso...）"
+103080-250 = "Ufa, acho que já organizamos quase tudo. "
+103080-251 = "Sendo assim, vamos começar os preparativos para o lançamento agora mesmo,#ne em 8 horas a gente parte em direção à \"Arca\"."
+103080-252 = "Operadoras, controle de tráfego aéreo, hackers...#nCozinheiras e médicas..."
+103080-253 = "Uhum. E também precisamos reunir as alunas que vão lutar de verdade na Batalha pela Ocupação.#nHaa, tem tanta coisa pra fazer~"
+103080-259 = "……Rin-senpai,"
+103080-260 = "Você, o Sensei e todas as alunas da Schale lutaram até aqui sem descansar um só momento."
+103080-261 = "Mas ainda temos tempo até o início da operação.#nQue tal aproveitar essa oportunidade para descansar um pouco? Especialmente você, Rin-senpai..."
+103080-262 = "……Tem razão."
+103080-263 = "A falta de sono pode atrapalhar o meu julgamento...#nPara que isso não afete as operações futuras, aceitarei o seu conselho."
+103080-264 = "Muito bem, pessoal.#nPartiremos em 8 horas, logo ao amanhecer. "
+103080-265 = "Até lá... peço que todos tentem descansar o máximo possível."
+103080-266 = "Sendo assim, estão dispensados."
+103080-268 = "Próximo episódio; A Última Noite na Terra"

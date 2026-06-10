@@ -1,331 +1,166 @@
 [translation]
 103020-1 = "Episódio 2; Anomalia"
-
-103020-5 = "...! !"
-
-103020-7 = "Você percebeu? #nMaestro."
-
-103020-13 = "...O que diabos está acontecendo?"
-
-103020-14 = "Não... a explicação é boa. #nTalvez porque seu corpo tenha mudado, ele parece chateado."
-
-103020-15 = "Kkkkkkkkkkkkkkkkkkkkkkk então não tive muito tempo então instalei um substituto...#nComo você está se sentindo?"
-
-103020-16 = "Afinal, o corpo nada mais é do que um item consumível. Não importa a forma que assuma."
-
-103020-17 = "Isso mesmo... a invasão da “cor”."
-
-103020-18 = "Sim. Muito mais cedo do que esperávamos... Plenapathes de cor começaram seu ataque."
-
-103020-19 = "...Não podemos acreditar que eles possam ver através de tudo, incluindo a nossa localização e fraquezas... até mesmo o momento dos nossos ataques."
-
-103020-20 = "Significa que estávamos na palma da mão...#nO nome \"Gematria\" também caiu por terra."
-
-103020-21 = "Kkkkkkkkkkkkkkkkkkk então... acho que provavelmente eles nem nos veem."
-
-103020-22 = "A razão pela qual nos atacaram foi provavelmente para obter “ferramentas” para atingir os seus objectivos."
-
-103020-23 = "Uma \"ferramenta\" para destruir Kivotos...?"
-
-103020-24 = "Sim. Eles manipularam o \"medo\" invertido #n... e roubaram todos os \"mistérios\" que Gematria possuía."
-
-103020-39 = ", ``'', o Decagrammaton, o Deus Sem Nome, a Biblioteca do Conhecimento - e até mesmo a ``Arca de Atlas Hasith'' que nunca colocamos em nossas mãos."
-
-103020-40 = "Agora que as cores adquiriram o “medo” do #n, o Kivotos não é mais adequado para as nossas atividades."
-
-103020-41 = "A “loucura” engole tudo e reescreve a existência. #nAcho que essa é a essência da \"cor\"."
-
-103020-42 = "Mesmo se perseguirmos o nosso próprio “valor”, tudo o que adquirimos torna-se uma “ferramenta” de Prenapates."
-
-103020-43 = "--Então, o Kivotos vai acabar?"
-
-103020-44 = "……lar. Ainda há um professor [NOME DE USUÁRIO]. #nEssa pessoa está brigando com seus próprios alunos—Petri."
-
-103020-45 = "Entendo... bem, é sobre essa pessoa."
-
-103020-46 = "Mas isso em breve atingirá o seu limite. #nAs \"cores\" inexplicáveis ​​-- e a presença inexplicável do \"professor\"... Me pergunto quanto tempo elas aguentam... Kkkkkkkkkkkkkkkkk então"
-
-103020-50 = "Mesmo agora que tudo desabou, ainda restam coisas interessantes neste mundo... Você não acha que é interessante?"
-
-103020-54 = "...Neste ponto, a Gematoria será dissolvida."
-
-103020-59 = "Monitoraremos a situação e convocaremos uma nova reunião. #nAté lá você está livre, Maestro."
-
-103020-60 = "...Onde está a Golconda? #nO que diabos aconteceu com ele?"
-
-103020-61 = "Os decalques no corpo principal não podem morrer, então não acho que haverá problemas. #nNo entanto, a Golconda parece ter sido substituída por Francisco."
-
-103020-62 = "...Talvez Francisco?"
-
-103020-63 = "Em certo sentido, pode-se dizer que ele é mais perigoso do que Beatrice. #nVou sentir falta da Golconda."
-
-103020-67 = "...Roupas pretas, o que você planeja fazer agora?"
-
-103020-68 = "Kukkukku-"
-
+103020-5 = "……！！"
+103020-7 = "Já acordou?#nMaestro."
+103020-13 = "……Mas o que diabos está acontecendo?"
+103020-14 = "Não... Deixe para lá as explicações.#nDeve ser a mudança de corpo, estou me sentindo meio desnorteado."
+103020-15 = "Kukuku... Como não tínhamos muito tempo, acabei te colocando em um corpo substituto...#nComo está se sentindo?"
+103020-16 = "No fim das contas, a carne não passa de um bem de consumo. A forma não importa. "
+103020-17 = "Entendo... O ataque do \"Chroma\"."
+103020-18 = "Isso mesmo. Muito mais cedo do que prevíamos...#n――O Guia do Chroma, Phrenapates, deu início ao ataque."
+103020-19 = "……Nossa localização, nossas fraquezas...#nEles sabiam até o momento exato de atacar. É como se pudessem ver através de nós."
+103020-20 = "Isso significa que estivemos na palma da mão do Guia desde o começo...#nO nome \"Gematria\" realmente caiu em desgraça."
+103020-21 = "Kukuku... Provavelmente não somos nem dignos da atenção deles."
+103020-22 = "Eles provavelmente nos atacaram apenas para obter \"ferramentas\"――#nPara alcançar seus verdadeiros objetivos."
+103020-23 = "As \"ferramentas\" para aniquilar Kivotos... entendi. "
+103020-24 = "Sim. Eles manipularam o Deus da Morte invertido em \"Terror\"#ne... roubaram todos os \"Ritos\" que a Gematria possuía."
+103020-39 = "Mimesis, a \"Comunhão dos Santos\", Decagrammaton, os Deuses Sem Nome, a Library of Lore――e também a \"Arca de Atrahasis\", que nós mesmos nunca conseguimos pôr as mãos."
+103020-40 = "Já que o Guia do Chroma botou as mãos no \"Terror\" do Deus da Morte,#nKivotos não é mais um lugar adequado para operarmos."
+103020-41 = "A \"Loucura\" engole tudo e reescreve a própria existência.#nEssa deve ser a verdadeira essência do \"Chroma\"."
+103020-42 = "Mesmo que continuemos a buscar nosso \"Valor\" aqui, tudo o que conquistarmos acabará sendo reduzido a meras \"ferramentas\" nas mãos de Phrenapates."
+103020-43 = "――Então, Kivotos vai mesmo encontrar o seu fim?"
+103020-44 = "……Não. O Sensei [USERNAME] ainda está aqui.#nEle continua lutando ao lado de suas alunas――ao lado da Schale."
+103020-45 = "Entendo... Bem, não se podia esperar menos dele."
+103020-46 = "No entanto, logo chegarão ao limite.#nO incompreensível \"Chroma\"――contra a também incompreensível existência do \"Sensei\"... Quão longe será que ele consegue aguentar...? Kukuku."
+103020-50 = "Mesmo agora, com todos os fenômenos desmoronando, ainda existem coisas fascinantes neste mundo... Não acha interessante?"
+103020-54 = "……Sendo assim, declaro a Gematria temporariamente dissolvida."
+103020-59 = "Ficarei observando a situação e convocarei uma reunião para nos reunirmos novamente.#nAté lá, você está livre, Maestro."
+103020-60 = "……Onde está o Golconda?#nO que diabos aconteceu com ele? "
+103020-61 = "Como o corpo principal, Decalcomanie, não pode morrer, não deve haver problema.#nMas parece que Golconda foi substituído por Francis. "
+103020-62 = "……Logo o Francis."
+103020-63 = "De certa forma, ele é um ser ainda mais perigoso que a Beatrice.#nVou acabar sentindo saudade do Golconda."
+103020-67 = "……Black Suit, o que você pretende fazer a partir de agora?"
+103020-68 = "Kukuku――"
 103020-71 = "Como está a situação?"
-
-103020-72 = "Bem... isso é..."
-
-103020-78 = "Além disso, corpos de energia de concentração ultra-alta foram observados em Kivotos..."
-
-103020-80 = "Ah, é isso..."
-
-103020-81 = "...Droga."
-
-103020-83 = "Força Tarefa/Sala de Aula"
-
-103020-84 = "……."
-
-103020-85 = "...Eu vejo."
-
-103020-86 = "Isso significa..."
-
-103020-91 = "-Isso é tudo que sei até agora."
-
-103020-92 = "……."
-
-103020-94 = "Shiroko-chan entrou em contato com a “cor” e ficou assim, certo?"
-
-103020-95 = "O que é aquilo...! #nPor que Shiroko-senpai está envolvida nessa coisa incompreensível...?"
-
-103020-101 = "...Shiroko-senpai...por que diabos..."
-
-103020-102 = "O que está acontecendo com Shiroko-senpai...? #nPor que você iria querer destruir Kivotos... com tal expressão..."
-
-103020-103 = "Ayane-chan...."
-
-103020-104 = "Eu... eu realmente não entendo. #nTambém ouvi falar de \"cor\"...mas não consigo entender direito..."
-
-103020-105 = "Foi tão absurdo... eu não tinha ideia de por que isso estava acontecendo, ou o que meus superiores estavam pensando..."
-
-103020-106 = "……."
-
+103020-72 = "Err... Bem..."
+103020-78 = "Estamos detectando massas de energia de altíssima concentração por toda Kivotos de novo... "
+103020-80 = "C-Como assim..."
+103020-81 = "……Tsc."
+103020-83 = "Comitê de Medidas de Precaução - Sala de Aula"
+103020-84 = "……。"
+103020-85 = "……Entendi."
+103020-86 = "Isso quer dizer que..."
+103020-91 = "――Isso é tudo que eu sei."
+103020-92 = "……。"
+103020-94 = "A Shiroko-chan entrou em contato com o \"Chroma\"... e acabou ficando daquele jeito, é isso...?"
+103020-95 = "Que papo é esse...!#nPor que a Shiroko-senpai estaria envolvida numa loucura dessas...? "
+103020-101 = "……Tsc…… Shiroko-senpai... Por quê..."
+103020-102 = "O que será que aconteceu com a Shiroko-senpai...?#nPor que ela quer destruir Kivotos...? E com aquela cara..."
+103020-103 = "Ayane-chan..."
+103020-104 = "Eu... não consigo entender muito bem.#nOuvi falar desse \"Chroma\", mas... não consigo processar tudo isso..."
+103020-105 = "É tudo tão absurdo e surreal... Não faço ideia de como as coisas chegaram a esse ponto, nem no que a senpai está pensando..."
+103020-106 = "……。"
 103020-107 = "Ayane-chan..."
-
-103020-109 = "...Não posso explicar o que está acontecendo com ela agora, mas uma coisa que posso dizer é que definitivamente não é culpa dela."
-
-103020-110 = "--Isso foi perto de um desastre natural. Seria melhor pensar nela como tendo se envolvido em um acidente que não poderia ter sido evitado por sua própria vontade ou esforço."
-
-103020-112 = "Isso mesmo, Ayane-chan. O culpado por tudo é a “cor”, certo? Se for #n, então não é culpa da Shiroko-senpai."
-
-103020-113 = "……."
-
-103020-114 = "Existe uma maneira de fazer Shiroko-chan voltar ao normal?"
-
-103020-119 = "--Nada é conhecido neste momento."
-
-103020-120 = "...É isso."
-
-103020-122 = "No entanto, estou aqui agora depois de encontrar a “cor”. #nAnd――"
-
-103020-127 = "Sensei também está arranjando alguém para ir à Região Autônoma de Hyakki Yagyo para encontrar uma maneira de combater as cores."
-
-103020-128 = "A professora...! ?"
-
-103020-130 = "Ainda há uma maneira de eu, junto com a Irmandade, recuperar a análise da “cor”."
-
-103020-132 = "O que diz, chefe?"
-
-103020-133 = "Eu-eu me pergunto se podemos lê-lo...?"
-
-103020-138 = "vamos ver--"
-
-103020-144 = "\"...[NOME DE USUÁRIO] Professor.\""
-
-103020-145 = "“Não há como restaurar alguém que teve a cor invertida.”"
-
-103020-149 = "“É como se os mortos não pudessem voltar à vida. #n É uma regra absoluta deste mundo.”"
-
-103020-155 = "Isso significa que a torre de antes aparecerá novamente, certo?"
-
-103020-156 = "Tudo o que fizemos até agora foi uma perda de tempo..."
-
-103020-158 = "...Não, as coisas estão um pouco diferentes de antes."
-
-103020-159 = "Ah, sim... a localização da reação energética é diferente."
-
-103020-163 = "O mar gelado do Inverno Vermelho, o porão de um parque de diversões abandonado, o vulcão Hinom da Geena, as Catacumbas da Trindade..."
-
-103020-164 = "Ayumu. Você se lembra quantas horas depois da última vez que observou esse fenômeno, o Sanctum apareceu?"
-
-103020-165 = "Bem... cerca de 24 horas."
-
-103020-167 = "Isso significa que é quanto tempo nos resta..."
-
-103020-168 = "Sim, pode ser mais curto."
-
-103020-169 = "...O valor energético é cerca de 38% superior ao da última vez."
-
-103020-171 = "...Huh?"
-
-103020-177 = "É verdade, Rin-senpai, você se lembrou de todos os números da última vez? #nYaba..."
-
-103020-179 = "Mais um dia... ou até menos tempo..."
-
-103020-180 = "Cada região autônoma que terminou os combates está atualmente em construção. #n Sanctum desapareceu, mas ainda restam alguns inimigos."
-
-103020-181 = "Em tal situação, para lutar contra o recém-aparecido Sanctum...#nVocê nem teve a chance de recuperar o fôlego..."
-
-103020-182 = "É isso mesmo~...#nPrecisamos de alguma forma evitar que o Sanctum apareça pela segunda vez nesta fase."
-
-103020-183 = "...Então, como podemos parar isso?"
-
-103020-189 = "……."
-
-103020-190 = "Não consigo ver agora e nem existe. É só que a energia pode ser observada... e de repente, \"Boom!\" aparece, certo?"
-
-103020-191 = "Não sei o que fazer ~#nExiste alguma contramedida?"
-
-103020-192 = "[s] \"………….\""
-
-103020-193 = "professor……"
-
-103020-194 = "[s] \"É tudo culpa minha que isso aconteceu... pessoal, me desculpe.\""
-
-103020-199 = "Por que de repente é assim...?"
-
-103020-200 = "Bem, professora...! ? #nPor que o professor pede desculpas...!"
-
-103020-201 = "[s] \"Porque eu sabia que isso iria acontecer...\""
-
-103020-204 = "[ns] \"Também existe a possibilidade de que algo sinistro aconteça com Shiroko.\""
-
-103020-207 = "[ns] \"Também há profecias de que Kivotos pode chegar ao fim.\""
-
-103020-210 = "[ns] \"Eventualmente, o aviso do inimigo chegará--\""
-
-103020-213 = "[ns] \"Mesmo sabendo de tudo...\""
-
-103020-216 = "[ns] \"Porque eu subestimei a situação...\""
-
-103020-218 = "--Isso não é verdade. O Sr. #n fez o melhor que pôde."
-
+103020-109 = "……Embora eu não consiga decifrar \"o que\" está acontecendo com ela agora――Uma coisa posso afirmar: a culpa definitivamente não é dela."
+103020-110 = "――Isso é quase um desastre natural. É melhor encararmos que ela foi envolvida em um acidente que não poderia ser evitado, não importa a vontade ou esforço dela."
+103020-112 = "É isso aí, Ayane-chan. A culpa de tudo isso é do tal \"Chroma\", não é?#nEntão não é culpa da Shiroko-senpai."
+103020-113 = "……。"
+103020-114 = "Será que existe um jeito de... trazer a Shiroko-chan de volta ao normal?"
+103020-119 = "――Até o momento, não temos nenhuma informação sobre isso."
+103020-120 = "……N-Não pode ser."
+103020-122 = "No entanto, eu, que me deparei com o \"Chroma\", estou aqui de pé agora.#nE além disso――"
+103020-127 = "O Sensei também enviou pessoas ao distrito de Hyakkaryouran para procurar um meio de combater o Chroma."
+103020-128 = "O Sensei...!?"
+103020-130 = "Eu e a Sisterhood também estamos analisando o \"Chroma\". Ainda há um caminho para trazer Sunaookami Shiroko de volta."
+103020-132 = "O que está escrito aí, Presidente?"
+103020-133 = "S-Será que não tem problema a gente ler...?"
+103020-138 = "Vejamos――"
+103020-144 = "「...Sensei [USERNAME].」"
+103020-145 = "「Não existe método para reverter alguém que foi invertido pelo Chroma.」"
+103020-149 = "「Isso é――tal qual os mortos não podem voltar à vida.#n Uma regra absoluta deste mundo.」"
+103020-155 = "I-Isso quer dizer que... aquela torre vai aparecer de novo, não é...?"
+103020-156 = "Então tudo o que fizemos até agora foi todinho pro ralo..."
+103020-158 = "……Não, a situação está um pouco diferente de antes."
+103020-159 = "Ah... é... As localizações das reações de energia são diferentes, mas... "
+103020-163 = "O mar de gelo da Red Winter, o subsolo do parque de diversões abandonado, o Vulcão Hinna de Gehenna, as Catacumbas de Trinity... "
+103020-164 = "Ayumu. Lembra quantas horas se passaram da última vez entre a observação desse fenômeno e o surgimento do Sanctum?"
+103020-165 = "Err... Foram cerca de 24 horas."
+103020-167 = "O que significa que é mais ou menos esse o tempo que a gente tem... "
+103020-168 = "Não, talvez seja ainda menos."
+103020-169 = "……Porque os níveis de energia estão cerca de 38% mais altos que da última vez."
+103020-171 = "……Ué?"
+103020-177 = "Pior que é verdade――Peraí, você lembra de todos os números da última vez, Rin-senpai?#nCaraca..."
+103020-179 = "Falta um dia... ou até menos tempo que isso..."
+103020-180 = "Os distritos autônomos acabaram de terminar as batalhas e tão se reorganizando.#nOs Sanctums sumiram, mas ainda sobrou inimigos em alguns lugares."
+103020-181 = "Enfrentar novos Sanctums logo agora...#nO pessoal nem conseguiu recuperar o fôlego ainda..."
+103020-182 = "Pois é...#nA gente tem que dar um jeito de impedir o surgimento do 2º Sanctum agora mesmo."
+103020-183 = "……E aí, como é que a gente para isso?"
+103020-189 = "……。"
+103020-190 = "Eles nem dão as caras e nem existem ainda. A gente só consegue observar a energia... e aí, do nada, \"BUM!\" e eles aparecem, né?"
+103020-191 = "Que baita dor de cabeça, hein~#nTem alguma carta na manga?"
+103020-192 = "[s] \"............\""
+103020-193 = "Sensei..."
+103020-194 = "[s] \"Tudo isso é culpa minha... Me desculpem, pessoal.\""
+103020-199 = "Por que está dizendo isso de repente...?"
+103020-200 = "S-Sensei...!?#nPor que você está pedindo desculpas...!"
+103020-201 = "[s] \"Porque eu já sabia que as coisas acabariam desse jeito...\""
+103020-204 = "[ns] \"Que algo terrível poderia acontecer com a Shiroko...\""
+103020-207 = "[ns] \"As profecias sobre o fim de Kivotos...\" "
+103020-210 = "[ns] \"Os avisos do inimigo que acabaríamos enfrentando――\""
+103020-213 = "[ns] \"Eu sabia de tudo isso, e mesmo assim...\""
+103020-216 = "[ns] \"Eu acabei subestimando toda a situação...\""
+103020-218 = "――Não é verdade.#nO senhor fez o melhor que pôde, Sensei."
 103020-219 = "Rin-senpai...?"
-
-103020-220 = "Mesmo sendo uma profecia infundada, Ele veio até mim para me contar sobre isso. Estamos fazendo todo o possível aqui."
-
-103020-221 = "Não foi por isso que conseguimos conquistar o “Santuário das Ilusões”?"
-
-103020-222 = "Todo o resto... é problema nosso."
-
-103020-223 = "É que não sou forte o suficiente...#nPorque não sou o Presidente do Conselho Estudantil da Federação..."
-
-103020-225 = "……."
-
-103020-227 = "Lin-senpai..."
-
-103020-230 = "[ns1] \"Não, isso não é desculpa.\"\n[ns2] \"...Eu tive que proteger Shiroko.\"\n[ns3] \"Essa é minha responsabilidade como \"adulto\". \""
-
-103020-234 = "……."
-
-103020-236 = "Ok, acalme-se, professor."
-
+103020-220 = "Mesmo sendo uma profecia sem provas, o senhor veio até mim para avisar. Nós tomamos todas as medidas possíveis."
+103020-221 = "Não foi por isso que a destruição dos \"Sanctums Falsos\" foi um sucesso?"
+103020-222 = "O resto... é problema nosso. "
+103020-223 = "Tudo porque eu não sou capaz o suficiente...#nPorque eu não sou a Presidente do Conselho Estudantil Geral..."
+103020-225 = "……。"
+103020-227 = "Rin-senpai..."
+103020-230 = "[ns1] \"Não, isso não serve como desculpa.\"\n[ns2] \"...Eu precisava ter protegido a Shiroko.\"\n[ns3] \"Porque essa é a minha responsabilidade como 'Adulto'.\""
+103020-234 = "……。"
+103020-236 = "Calma lá, Sensei, pode relaxar. "
 103020-237 = "[s] \"Hoshino...?\""
-
-103020-240 = "Não é bom pensar muito."
-
-103020-241 = "Em outras palavras, deveríamos trazer Shiroko-chan de volta, certo?"
-
-103020-242 = "Ei, Hoshino-senpai...?"
-
-103020-243 = "Estou preocupado com você também ~ Shiroko-chan, sinto que as coisas irão em uma direção ruim se continuarem assim..."
-
-103020-244 = "Além disso, Shiroko-chan, que se foi, e esta situação... se me dissessem que havia uma conexão, o velho poderia ficar confuso."
-
-103020-245 = "-Eu estaria mentindo se dissesse que não tenho essas preocupações."
-
-103020-250 = "Mas essa é uma história diferente, certo?"
-
-103020-251 = "Isso é causado pelas “cores” e não é culpa de Shiroko-chan. #nA culpa não é do professor, nem de ninguém."
-
-103020-252 = "Há outro adversário contra o qual temos que lutar, não é?"
-
-103020-253 = "[s] \"………….\""
-
-103020-254 = "Além disso, pode haver outras vítimas como Shiroko-chan também."
-
-103020-255 = "Se assim for, devemos lutar para evitar que isso aconteça."
-
-103020-256 = "É isso."
-
-103020-257 = "Se esse fenômeno tem alguma coisa a ver com Shiroko-chan, então tenho certeza que ela virá incomodar você."
-
-103020-258 = "Vamos pegar Shiroko-chan nessa hora. #nNão sei como recuperá-lo, mas tenho certeza que o professor fará algo a respeito."
-
+103020-240 = "Pensar demais só piora as coisas~"
+103020-241 = "Em resumo, a gente só precisa trazer a Shiroko-chan de volta, não é?"
+103020-242 = "H-Hoshino-senpai...?"
+103020-243 = "O tio aqui também tá preocupado~#nSe a gente deixar a Shiroko-chan desse jeito, sinto que ela vai seguir por um caminho ruim..."
+103020-244 = "Além disso, a Shiroko-chan desaparecida e toda essa confusão... se dissessem que tem alguma relação, o tio aqui também ficaria perdido."
+103020-245 = "――Se eu dissesse que não tenho as minhas dúvidas, estaria mentindo."
+103020-250 = "Mas, uma coisa não tem nada a ver com a outra, não acha?"
+103020-251 = "Isso tudo é culpa do \"Chroma\", e não da Shiroko-chan.#nNão é culpa do Sensei, nem de mais ninguém."
+103020-252 = "Nós temos outro inimigo para enfrentar――não é mesmo?"
+103020-253 = "[s] \"............\""
+103020-254 = "Além do mais, podem aparecer outras vítimas além da Shiroko-chan."
+103020-255 = "Então só precisamos lutar para que isso não aconteça."
+103020-256 = "É só isso."
+103020-257 = "Se tiver alguma relação entre esse fenômeno e a Shiroko-chan――#nCom certeza ela vai vir nos atrapalhar."
+103020-258 = "Quando ela aparecer, a gente captura ela.#nNão sei como a gente vai reverter ela... mas acredito que você vai dar um jeito, Sensei."
 103020-259 = "Hoshino-senpai..."
-
-103020-261 = "Não, Shiroko-senpai não é um animal selvagem..."
-
-103020-262 = "Tio, você é bom em capturar Shiroko-chan?"
-
-103020-263 = "Olá, Nonomi-chan."
-
-103020-264 = "Hoshino-senpai tem experiência em capturar Shiroko-chan☆"
-
-103020-265 = "É isso que é. Então, como sempre, o professor estava preparado para dizer: “De alguma forma, vai dar certo”. Porque combina melhor com você."
-
-103020-269 = "[ns4] \"...Sim.\" \n[ns5] \"Obrigado, Hoshino.\""
-
-103020-272 = "[ns] \"Vamos trazer Shiroko de volta. Não importa o que façamos, com certeza.\""
-
-103020-273 = "Uau, eu tenho que ir lá."
-
-103020-275 = "Shiroko-senpai tem muito a dizer! #nSe você não voltar logo, terei problemas."
-
-103020-276 = "Vamos todos trabalhar juntos para trazer Shiroko-chan de volta☆"
-
-103020-281 = "……Concordo."
-
-103020-282 = "Vou tentar o meu melhor também."
-
-103020-287 = "[ns] \"Sim. Bem, então vamos todos fazer o nosso melhor.\""
-
-103020-289 = "……Eu vejo. #nSe for esse o caso..."
-
-103020-290 = "Momoka. Você pode confirmar o fluxo de energia detectado em Kivotos?"
-
-103020-291 = "O quê, fluxo de energia?"
-
-103020-292 = "sim. Quando conquistamos o último Santuário, testemunhamos a energia de todos os Santuários convergindo para um só lugar."
-
-103020-293 = "Ah, isso mesmo! #nSe a própria energia é fluida..."
-
-103020-295 = "...Hmm, é isso mesmo. #nVou tentar."
-
-103020-304 = "Hum..."
-
-103020-305 = "Como disse Rin-senpai, existe um fluxo de energia comum a cada coordenada, mas..."
-
-103020-306 = "Bem, se seguirmos esse fluxo...!"
-
-103020-308 = "Isso mesmo ~#nEspere um momento."
-
-103020-317 = "Eu poderia ter encontrado."
-
+103020-261 = "Pera, a Shiroko-senpai não é nenhum bicho selvagem, mas tudo bem..."
+103020-262 = "O tio aqui é muito bom em capturar a Shiroko-chan, sabia?"
+103020-263 = "Né, Nonomi-chan."
+103020-264 = "A Hoshino-senpai já tem bastante experiência em capturar a Shiroko-chan☆"
+103020-265 = "Isso aí. Então, Sensei, faz que nem sempre e entra no clima de \"vai dar tudo certo\". Combina mais com você."
+103020-269 = "[ns4] \"...Tem razão.\"\n[ns5] \"Obrigado, Hoshino.\""
+103020-272 = "[ns] \"Vamos trazer a Shiroko de volta. Custe o que custar.\""
+103020-273 = "Uhe~ Assim que se fala."
+103020-275 = "Eu tenho um monte de coisas pra falar pra Shiroko-senpai!#nSe ela não voltar logo, vou ficar muito brava."
+103020-276 = "Vamos todas nos ajudar e trazer a Shiroko-chan de volta☆"
+103020-281 = "……Tem razão. "
+103020-282 = "Eu também vou fazer o que estiver ao meu alcance."
+103020-287 = "[ns] \"Uhum. Vamos dar o nosso melhor, pessoal.\""
+103020-289 = "……Entendo.#nNesse caso..."
+103020-290 = "Momoka. Você consegue confirmar o fluxo da energia detectada por toda Kivotos?"
+103020-291 = "Hã? Fluxo de energia?"
+103020-292 = "Sim. Quando destruímos o último Sanctum, vimos a energia de todos os Sanctums se concentrando em um único lugar. "
+103020-293 = "Ah, é verdade!#nSe a energia em si for algo que flui..."
+103020-295 = "……Hmm, entendi a moral.#nVou dar uma olhada."
+103020-304 = "Hmm..."
+103020-305 = "Como a Rin-senpai disse, tem um fluxo de energia em comum em todas as coordenadas, mas..."
+103020-306 = "Então, se a gente seguir esse fluxo...!"
+103020-308 = "Acho que sim~#nEspera um pouquinho aí."
+103020-317 = "Acho que achei."
 103020-318 = "Momoka-chan! Isso é incrível!"
-
-103020-321 = "Toda a energia está conectada a um só lugar. #nTalvez seja aqui que a energia começa."
-
-103020-322 = "Em outras palavras, este é o centro que gera o Santuário da Ilusão."
-
-103020-323 = "Onde fica isso...?"
-
-103020-326 = "Longe no céu, 75.000 metros acima de Kivotos――"
-
-103020-327 = "Huh! ? Essa é a estratosfera – não, não é mais espaço! ?"
-
-103020-328 = "...Longe no céu, talvez?"
-
-103020-330 = "Sim. Parece haver uma estrutura com maior concentração de energia do que a Torre do Santuário até agora."
-
-103020-331 = "Isso significa que essa estrutura é a culpada por trás de tudo?"
-
-103020-332 = "...Eu não conseguia acreditar que estava escondido no ar."
-
-103020-334 = "Entendo... se essa é a causa de tudo, deve haver alguém por aí que vai acabar com o Kivotos."
-
-103020-341 = "[ns] \"--Cor, Plenapates.\""
-
-103020-344 = "Próxima vez; como"
-
+103020-321 = "Toda a energia tá conectada a um único ponto.#nEsse aqui deve ser o ponto de origem."
+103020-322 = "Ou seja, é daqui do centro que os Sanctums Falsos tão sendo gerados."
+103020-323 = "E onde fica esse lugar...?"
+103020-326 = "Bem lá no alto do céu, a 75.000 metros de altitude acima de Kivotos――"
+103020-327 = "Ehh!? Isso não é a estratosfera――espera, isso já não é o espaço sideral!?"
+103020-328 = "……Bem lá no alto do céu, hein."
+103020-330 = "Aham. Parece que tem uma estrutura lá com uma concentração de energia ainda maior do que a das Torres Sanctum de até agora. "
+103020-331 = "E essa estrutura é... a raiz de todo o problema...?"
+103020-332 = "……Quem diria que eles estariam escondidos no céu."
+103020-334 = "Entendo... Se isso é a causa de tudo, aquele que pretende levar Kivotos à ruína deve estar lá. "
+103020-341 = "[ns] \"――O Guia do Chroma, Phrenapates.\""
+103020-344 = "Próximo episódio; Método"

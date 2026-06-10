@@ -1,181 +1,91 @@
 [translation]
-101130-1 = "Episódio 13; Operação de recaptura (1)"
-
-101130-3 = "(Ele escapou com segurança da base da PMC e se escondeu em um parque de coelhos bebês)"
-
-101130-4 = "...Isso mesmo. O professor #n também esteve envolvido e foi sequestrado."
-
-101130-5 = "Se a Diretora Kanna não estivesse lá, as coisas teriam sido muito perigosas."
-
-101130-6 = "Não acredito que aquele cachorro louco se sacrificaria para salvar o professor...#n."
-
-101130-7 = "É uma lesão terrível..."
-
-101130-8 = "Por enquanto, estou deixando-o dormir em uma barraca, mas estou preocupado que ele acorde sozinho se eu descansar. #nEle é o chefe de segurança pública da Valquíria. Tenho certeza que vai ficar tudo bem."
-
-101130-9 = "Parece melhor agora compartilhar informações uns com os outros e compreender a situação."
-
-101130-10 = "O que está acontecendo e o que deveria ser feito... precisamos resolver a situação atual."
-
-101130-12 = "Atualmente, a lei marcial foi imposta no DU e todas as comunicações, logística e movimentos são proibidos. Assuntos relacionados ao governo também são encerrados."
-
-101130-13 = "Uma vez que todas as comunicações para o exterior da D.U. foram cortadas, é difícil receber apoio dos distritos autónomos de outras escolas e o paradeiro dos chefes de departamento é desconhecido..."
-
-101130-14 = "Para cancelar a lei marcial que o Kaiser promulgou, devemos retirar-lhes o controlo administrativo. No entanto, os administradores do Conselho Estudantil da Federação perderam agora a sua autoridade administrativa, uma vez que uma moção de censura foi aprovada!"
-
-101130-15 = "Para resolver isto, os seis chefes de gabinete que concordaram com a moção de censura devem retirar as suas opiniões ou votar #n para aprovar novamente a moção de censura..."
-
-101130-16 = "No entanto, isso também é impossível devido à lei marcial... o problema está dando voltas e mais voltas!"
-
-101130-18 = "Em outras palavras, o atual Conselho Estudantil da Federação não serve para nada."
-
-101130-19 = "Eles já foram úteis para você?"
-
-101130-20 = "Porém, ter a autoridade administrativa retirada de uma única empresa... #nSe a Academia Especial SRT tivesse sido mantida, a pior situação poderia ter sido evitada..."
-
-101130-21 = "Bem, então... A Torre do Santuário ainda está sob o controle do Kaiser... então o que devemos fazer..."
-
-101130-22 = "[s] \"O único caminho que resta é...\""
-
-101130-24 = "Tudo o que resta agora é atacar o local que detém o controle administrativo da Torre Sanctum e detê-lo fisicamente!"
-
-101130-25 = "[s] \"Onde você tem controle administrativo...?\""
-
-101130-26 = "-É uma placa de Petri!"
-
-101130-27 = "[s] \"Placa de Petri...?\""
-
-101130-28 = "sim. Para ser exato, é o porão da placa de Petri, a ``Câmara de Artesanato''!"
-
-101130-29 = "A \"Câmara de Artesanato\" é um gerador de substâncias deixado pelo Presidente do Conselho Estudantil da Federação. #nOriginalmente, apenas o administrador da caixa Shittemu pode se conectar..."
-
-101130-30 = "De alguma forma, a Kaiser Corporation contornou a autenticação e ativou a Câmara de Artesanato. Parece que ele assumiu o controle da Torre Sanctum...!"
-
-101130-31 = "Não sei se isso está relacionado, mas parece que Kaiser sequestrou o Administrador Lin e o está aprisionando em uma placa de Petri."
-
-101130-32 = "[s] \"Rin está em uma placa de Petri...\""
-
-101130-33 = "Sim, Rin-san agora está preso dentro da placa de Petri! #nFelizmente, parece não haver feridos..."
-
-101130-37 = "……entendido. Ou seja, estão tentando recuperar a placa de Petri que está nas mãos da PMC."
-
-101130-38 = "Vamos fazer isso sozinhos aqui...?"
-
-101130-39 = "Bem, como não podemos contactar outras regiões autónomas, não temos outra escolha senão fazê-lo nós próprios."
-
-101130-40 = "Certo. Eu estava pensando em explodir uma placa de Petri em algum momento."
-
-101130-41 = "Entendido! Farei o meu melhor também, chefe!"
-
-101130-42 = "Suspiro... quer dizer, não será tão fácil, certo? #nO adversário é a Kaiser, uma das maiores empresas de Kivotos, certo?"
-
-101130-43 = "Eles não são estúpidos, então provavelmente esperavam que viéssemos..."
-
-101130-45 = "...Ligue para Kaiser SOF."
-
-101130-46 = "É isso que você quer dizer?"
-
-101130-47 = "ah. A professora está indo nessa direção."
-
-101130-48 = "Essa pessoa saberia melhor do que ninguém onde atacar agora. #nEntão você tem que estar preparado."
-
-101130-49 = "Foi originalmente planejado para aquela \"raposa\", mas... não pode ser evitado. #nVamos usar nosso melhor trunfo, a força de batalha decisiva do Kaiser PMC, aqui e agora."
-
-101130-50 = "Pressa!"
-
-101130-51 = "Ah, sim!"
-
-101130-54 = "Não sou como os idiotas que baixam a guarda e falham."
-
-101130-56 = "Ugh...Eu resgatei o funcionário do governo preso e frustrei a conspiração do Kaiser...#nEu me pergunto se posso fazer isso..."
-
-101130-57 = "Miyu, não é uma questão de você conseguir ou não, você tem que fazer."
-
-101130-58 = "isso mesmo! A paz de Kivotos está em nossas mãos!"
-
-101130-59 = "Uh, sim... farei o meu melhor..."
-
-101130-63 = "Ugh... Quando isso acabar, vou te dar cerca de 29 noites e 30 dias de férias! #nEsteja preparado!"
-
-101130-64 = "...É como um PMC. Somos uma escola especial SRT onde se reúne a elite dos Kivotos."
-
-101130-65 = "Bem, somos novos estudantes sem nenhuma experiência real de combate..."
-
-101130-66 = "A escola também desapareceu..."
-
-101130-67 = "Estou acampando no campo..."
-
-101130-68 = "Eu também não tenho um livro, então peguei um emprestado da Valkyrie Academy."
-
-101130-69 = "Mas, mas! Eu gosto do BD da Valquíria! #nPosso aprender sem problemas!"
-
-101130-70 = "Não é o caso, eles têm em estoque e podem doar o quanto quiserem."
-
-101130-74 = "[ns] \"Ok. Pelotão RABBIT, todos do Departamento de Segurança Comunitária... vamos começar.\""
-
-101130-75 = "Miyako, decida um nome para a operação."
-
-101130-76 = "Bem, isso mesmo... De agora em diante, vamos falar sobre a \"Operação Salsa\" para recuperar a placa de Petri..."
-
-101130-77 = "Espere, por que salsa? O que você quer dizer? #nNão tem algo mais legal?"
-
-101130-78 = "Bem... é a comida favorita do coelho..."
-
-101130-79 = "Entendo, as cenouras não seriam mais fofas então? #n Operação Cenoura!"
-
-101130-80 = "Eu usei isso antes..."
-
-101130-81 = "E quanto à Operação Donut? Operação Donut Glaceado!"
-
-101130-82 = "Parece o nome de um filme que provavelmente iria ao ar no Natal."
-
-101130-83 = "Considerando a intenção original, que tal a Operação Clover?"
-
-101130-84 = "...Vou chamar isso de \"operação de recaptura\"."
-
-101130-85 = "O que, isso é chato?"
-
-101130-86 = "[ns] \"Ok, vamos!\""
-
-101130-89 = "Professor... por favor tenha cuidado... #nDesta vez, sinto algo diferente do normal..."
-
-101130-90 = "O meteoro ameaçador que testemunhei... O que foi isso?"
-
-101130-99 = "Verifique o tanque cruzador inimigo e o tamanho da empresa! #nEstamos fazendo preparativos minuciosos, desde helicópteros de ataque até barricadas..."
-
-101130-100 = "Tch, não posso deixar passar..."
-
-101130-101 = "Atravessar pela frente parece difícil... Miyako-chan, o que devemos fazer?"
-
-101130-102 = "...Se eu pudesse conseguir um pouco mais de apoio..."
-
-101130-109 = "sim? Este sinal é...?"
-
-101130-114 = "Eu encontrei! É por aqui!"
-
-101130-115 = "Fui contatado, senhor! Nós também podemos ajudar!"
-
-101130-117 = "Todos da Secretaria de Segurança Pública...!"
-
-101130-118 = "Huh? Um estudante do Departamento de Segurança Pública que normalmente nunca toma medidas..."
-
-101130-119 = "[s] \"Valquíria chegou!\""
-
-101130-121 = "Não importa quanto tempo eu esperei, nenhuma ordem foi dada, então esperei nervosamente, até que por acaso vi o diretor e a professora perto da Cidade do Bebê Coelho!"
-
-101130-122 = "Nós o ajudaremos no que pudermos, senhor!"
-
-101130-126 = "Miyako, se é isso..."
-
-101130-127 = "...Sim, acho que vai funcionar."
-
-101130-128 = "Agora, senhor, por favor, me dê algumas instruções."
-
-101130-129 = "[s] \"Miyako lhe dará instruções e eu irei ajudá-lo.\""
-
-101130-130 = "...Sim, muito obrigado."
-
-101130-131 = "Pois bem, pessoal. Começaremos agora a “operação de recaptura” para suspender a lei marcial do DU e impedir a conspiração do Grupo Kaiser!"
-
-101130-132 = "\"\"sim!\"\""
-
+101130-1 = "Episódio 13; Operação de Retomada da Schale (1)"
+101130-3 = "(Conseguimos escapar da base da PMC em segurança e nos escondemos no Parque dos Coelhinhos.)"
+101130-4 = "……Então foi isso que aconteceu.#nO Sensei também foi envolvido e sequestrado."
+101130-5 = "Se não fosse pela Diretora Kanna, a situação teria sido bem perigosa."
+101130-6 = "Aquele Cão Louco, se sacrificando pra salvar o Sensei...#nÉ até difícil de acreditar."
+101130-7 = "Os ferimentos dela são graves..."
+101130-8 = "Por enquanto, a gente deixou ela descansando na barraca. Assim que ela recuperar as energias, deve acordar sozinha, não?#nAfinal, ela é a Diretora de Segurança Pública da Valkyrie. Ela vai ficar bem."
+101130-9 = "Agora é melhor compartilharmos nossas informações e entendermos a situação."
+101130-10 = "O que está acontecendo e o que devemos fazer... Precisamos organizar os fatos."
+101130-12 = "Atualmente, devido à lei marcial em D.U., todas as comunicações, logística e movimentações foram proibidas. O sistema administrativo também está fora do ar."
+101130-13 = "Como todas as comunicações com o exterior de D.U. foram cortadas,#nvai ser difícil conseguir apoio dos distritos autônomos de outras academias. Também não sabemos o paradeiro das chefes..."
+101130-14 = "Para revogar a lei marcial imposta pela Kaiser, precisamos recuperar o controle administrativo das mãos deles. Porém, a Administradora do Conselho Estudantil Geral sofreu uma moção de desconfiança e perdeu sua autoridade administrativa!"
+101130-15 = "Para contornar isso, as 6 chefes que concordaram com a moção de desconfiança precisam retirar seus votos, ou...#numa nova votação precisa ser feita para aprovar uma nova moção de confiança..."
+101130-16 = "Mas isso também é impossível por causa da lei marcial... O problema virou uma bola de neve!"
+101130-18 = "Ou seja, o Conselho Estudantil Geral atual não serve pra nada."
+101130-19 = "E eles já serviram pra alguma coisa alguma vez?"
+101130-20 = "Mesmo assim, ter a autoridade administrativa roubada por uma única empresa...#nSe a Academia Especial SRT tivesse sido mantida, o pior poderia ter sido evitado..."
+101130-21 = "E-Então... a Torre Sanctum ainda tá sob o controle da Kaiser, né... O que a gente faz..."
+101130-22 = "[s] \"A única opção que nos resta é...\""
+101130-24 = "Temos que invadir o lugar que tem o controle administrativo da Torre Sanctum#ne impedi-los fisicamente!"
+101130-25 = "[s] \"O lugar que tem o controle administrativo...?\""
+101130-26 = "――É a Schale!"
+101130-27 = "[s] \"A Schale...?\""
+101130-28 = "Sim. Mais precisamente, no subsolo da Schale, a \"Câmara de Criação\"!"
+101130-29 = "A \"Câmara de Criação\" é o gerador de matéria deixado pela Presidente do Conselho Estudantil Geral.#nOriginalmente, apenas o administrador da Caixa de Shittim poderia acessá-la, mas..."
+101130-30 = "A Corporação Kaiser arranjou alguma forma de burlar a autenticação e ativou a Câmara de Criação. Pelo visto, foi assim que conseguiram assumir o controle da Torre Sanctum...!"
+101130-31 = "Não sei se tem relação com isso, mas parece que a Kaiser sequestrou a Administradora Rin e a prendeu na Schale."
+101130-32 = "[s] \"A Rin está na Schale...\""
+101130-33 = "Sim, a Rin-san está presa dentro da Schale agora!#nFelizmente, parece que ela não está ferida..."
+101130-37 = "……Entendido. Ou seja, vamos ter que retomar a Schale das mãos da PMC."
+101130-38 = "Só a gente que tá aqui... vai fazer isso?"
+101130-39 = "Bom, como não conseguimos falar com os outros distritos autônomos, somos as únicas que podem."
+101130-40 = "Perfeito. Já tava querendo meter a porrada na Schale há um tempão."
+101130-41 = "Entendido! Esta oficial também vai dar o seu melhor!"
+101130-42 = "Haa... Mas olha, não acha que as coisas não vão ser tão fáceis assim~?#nNossos inimigos são a Kaiser, uma das maiores empresas de Kivotos, sabe?"
+101130-43 = "Eles não são idiotas, com certeza já esperam que a gente vá aparecer..."
+101130-45 = "……Chamem as Forças de Operações Especiais da Kaiser."
+101130-46 = "A-As Forças de Operações Especiais?"
+101130-47 = "Sim. O Sensei está vindo pra cá."
+101130-48 = "Se for ele, com certeza sabe melhor do que ninguém onde atacar agora.#nPor isso precisamos estar preparados."
+101130-49 = "Eles eram destinados para aquela \"Raposa\", mas... não temos escolha.#nVamos usar o nosso maior trunfo, o esquadrão de elite da Kaiser PMC, aqui e agora."
+101130-50 = "Depressa!"
+101130-51 = "S-Sim, senhor!"
+101130-54 = "Não sou nenhum idiota de baixar a guarda e falhar."
+101130-56 = "Uu... Resgatar a Administradora presa e impedir a conspiração da Kaiser...#nS-Será que eu consigo fazer isso..."
+101130-57 = "Miyu, a questão não é se você consegue ou não. Nós temos que fazer isso."
+101130-58 = "Isso mesmo! A paz de Kivotos está nas nossas mãos!"
+101130-59 = "S-Sim... Vou dar o meu melhor..."
+101130-63 = "Uu... Quando isso acabar, eu vou exigir umas férias de uns 30 dias e 29 noites!#nPode ir se preparando!"
+101130-64 = "……Meros capangas da PMC. Nós somos da Academia Especial SRT, onde a elite de Kivotos se reúne."
+101130-65 = "Bom, não temos experiência em combate real e ainda somos calouras, mas..."
+101130-66 = "E a nossa academia já não existe mais..."
+101130-67 = "E estamos dormindo na rua..."
+101130-68 = "Nem livros didáticos nós temos. Estamos usando os emprestados da Academia Valkyrie."
+101130-69 = "M-Mas! Esta oficial adora os BDs da Valkyrie!#nConsigo estudar por eles sem nenhum problema!"
+101130-70 = "Não é isso. O que eu quis dizer é que temos bastante em estoque, então podemos te dar o quanto quiser."
+101130-74 = "[ns] \"Certo. Esquadrão RABBIT e pessoal do Departamento de Segurança Pública... Vamos começar.\""
+101130-75 = "Miyako, decida o nome da operação."
+101130-76 = "C-Certo... Sendo assim, a partir de agora, daremos início à Operação Salsa de Retomada da Schale――"
+101130-77 = "Espera aí, por que Salsa? Que isso?#nNão tem um nome mais legal, não?"
+101130-78 = "Err, bem... é que é uma das comidas favoritas dos coelhos..."
+101130-79 = "Entendi, mas Cenoura não seria mais fofo?#nOperação Cenoura!"
+101130-80 = "A gente já usou esse antes..."
+101130-81 = "Então que tal Operação Donut? Operação Donut Glaceado!"
+101130-82 = "Isso soa como um filme que passaria no Natal."
+101130-83 = "Considerando a intenção original, o que acham de Operação Trevo?"
+101130-84 = "……Vamos de \"Operação de Retomada da Schale\" mesmo."
+101130-85 = "Ah, sem graça."
+101130-86 = "[ns] \"Certo, vamos lá!\""
+101130-89 = "Sensei... Por favor, tome cuidado...#nDe alguma forma, sinto que as coisas estão diferentes dessa vez..."
+101130-90 = "Aquele meteoro sinistro que eu vi... o que diabos era aquilo..."
+101130-99 = "Tanques de cruzeiro inimigos detectados, tamanho de uma companhia!#nDesde helicópteros de ataque até barricadas, eles estão fortemente preparados..."
+101130-100 = "Tsc, não deixaram nenhuma brecha..."
+101130-101 = "Vai ser difícil avançar pela frente... O que vamos fazer, Miyako-chan?"
+101130-102 = "……Se a gente tivesse um pouco mais de suporte..."
+101130-109 = "Hm? Esse sinal é...?"
+101130-114 = "Achei eles! Por aqui!"
+101130-115 = "Recebemos a mensagem e viemos o mais rápido possível, Sensei! Nós também vamos ajudar!"
+101130-117 = "Pessoal do Departamento de Segurança Pública...!"
+101130-118 = "Uééé? Logo o pessoal da Segurança Pública, que nunca move um músculo por conta própria..."
+101130-119 = "[s] \"A Valkyrie veio nos ajudar!\""
+101130-121 = "Esperamos um tempão e não recebemos nenhuma ordem, então estávamos de prontidão bem inquietas,#nmas aí por acaso vimos a Diretora e você, Sensei, perto do Parque dos Coelhinhos!"
+101130-122 = "Nós também vamos ajudar com tudo o que pudermos, Sensei!"
+101130-126 = "Miyako, se for assim..."
+101130-127 = "……Sim, acho que conseguimos."
+101130-128 = "Então, Sensei, aguardamos suas instruções."
+101130-129 = "[s] \"Miyako, você dá os comandos. Eu vou te auxiliar.\""
+101130-130 = "……Certo, muito obrigada."
+101130-131 = "Atenção, pessoal. Para revogarmos a lei marcial de D.U. e impedirmos a conspiração do Grupo Kaiser... A partir de agora, damos início à \"Operação de Retomada da Schale\"!"
+101130-132 = """Sim!"""

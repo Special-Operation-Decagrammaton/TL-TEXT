@@ -1,123 +1,62 @@
 [translation]
 101120-1 = "Episódio 12; Fuga (2)"
-
 101120-3 = "É por aqui!"
-
-101120-5 = "[ns] \"Alona, ​​​​você pode entrar em contato com outros alunos?\""
-
-101120-6 = "É difícil...#nO desligamento da rede de comunicação foi uma ordem emitida pela Sanctum Tower..."
-
-101120-7 = "Porém, não há como esta Super Alona ser inferior à Torre Sanctum! #nVou tentar...!"
-
-101120-8 = "Eca..."
-
-101120-9 = "Gunnunu…."
-
-101120-10 = "Ha, ha... não. #nSe for um local fisicamente próximo ainda é bem possível..."
-
-101120-11 = "Nesta situação... uh..."
-
-101120-12 = "Ah! Conectado!"
-
-101120-13 = "Mesmo que seja só por um segundo, por favor...! ! Por favor...! !"
-
-101120-17 = "...Suspiro, acabou."
-
-101120-18 = "Se fosse para a pessoa mais próxima de mim, eu poderia ter conseguido alcançá-lo..."
-
-101120-19 = "Me desculpe, não posso te ajudar...."
-
-101120-20 = "[s1] \"Bem, já chega.\"\n[s2] \"Obrigado. Isso foi muito útil, Alona.\""
-
-101120-23 = "E-É mesmo...?"
-
-101120-31 = "É simplesmente difícil...! #nAqui também...! !"
-
-101120-32 = "Nossa, é um número incrível..."
-
-101120-33 = "Até aqui..."
-
-101120-38 = "Renda-se imediatamente. #nSe eles não se renderem, varra-os."
-
-101120-42 = "...O que é isso? #nDrone...?"
-
-101120-43 = "Drone em operação. Pelotão, tome cuidado com explosões."
-
-101120-45 = "Argh! ? O que...! ?"
-
-101120-46 = "Como você ousa! ! !"
-
-101120-56 = "Essa bomba de fumaça vai doer, certo? #nRABBIT2 chega ao local!"
-
-101120-57 = "RABBIT1 protege professores e pessoas importantes. #nRABBIT3, verifique a localização do alvo inimigo."
-
-101120-59 = "O que vocês estão fazendo? ?"
-
-101120-60 = "COELHO3, recepção concluída! Agora envie as coordenadas com o ponteiro. #nRABBIT4, comandante inimigo solicita processamento!"
-
-101120-61 = "Todas as tropas, de uma vez――"
-
-101120-66 = ", Baixo... M-Está todo mundo bem?"
-
-101120-67 = "[s] \"Pelotão COELHO!! Eles vieram! Obrigado!\""
-
-101120-68 = "Não me entenda mal. #nNão vim porque a professora pediu ajuda."
-
-101120-69 = "oh sim. Minha professora entrou em contato comigo, então parei para fazer exercícios depois do jantar."
-
-101120-70 = "Bem, todo mundo estava com muita pressa..."
-
-101120-74 = "Pelotão COELHO. Confirmamos o pedido de ajuda do professor e chegamos."
-
-101120-75 = "Ei, até o professor está aqui para dar reforços♪"
-
-101120-76 = "Se o pessoal da SRT estiver conosco, não há o que temer!"
-
-101120-81 = "Eu não acho que posso escapar daqui!"
-
-101120-82 = "Estão ao menos mobilizando helicópteros... e esta força militar...? #nSensei, o que diabos aconteceu?"
-
-101120-83 = "De qualquer forma, acho que me meti em alguns problemas estranhos, como sempre."
-
-101120-84 = "Hehe... eu fiz alguma coisa de novo? #nTem um cheiro perigoso... Kuhihi."
-
-101120-85 = "……Concordo. [NOME DE USUÁRIO] É sobre o Sr. Sensei e faz sentido para mim."
-
-101120-86 = "Uh, sim... estou falando do professor..."
-
-101120-87 = "[s] \"Dói um pouco quando você diz isso...\""
-
-101120-88 = "--Chefe Kanna."
-
-101120-89 = "Pelotão COELHO..."
-
-101120-90 = "Obrigado pela sua ajuda durante este período. #nFoi um prazer reencontrá-lo."
-
-101120-91 = "...Atualmente sob lei marcial, os soldados do governo não podem se mover..."
-
-101120-92 = "Bem... atualmente estamos acampando no parque..."
-
-101120-93 = "Não existe uma cadeia de comando formal..."
-
-101120-94 = "Lei marcial? Achei que não conseguiria me conectar a alguns sites e foi o que aconteceu."
-
-101120-95 = "Bem, não pode ser ajudado se você não souber. #nAfinal, não tive notícias de ninguém!"
-
-101120-96 = "Somente o professor entrará em contato comigo..."
-
-101120-97 = "Primeiro, vamos passar por aqui e acompanhar o professor e o diretor até um local seguro. Pelotão #nRABBIT, pronto para a batalha."
-
-101120-98 = "rajá."
-
-101120-99 = "Uh, sim... também estou pronto."
-
-101120-100 = "Suspiro... O suporte de fogo está pronto. #nCom isso... você pode disparar fogos de artifício ainda mais chamativos."
-
-101120-101 = "Pedimos desculpas pelo transtorno, mas pedimos que os membros Valquírias do Departamento de Segurança Pública sigam estas instruções."
-
-101120-102 = "Sim, eu entendo!"
-
-101120-103 = "Bem, eu cuidei de você outro dia. OK."
-
-101120-104 = "Agora vamos começar a batalha."
-
+101120-5 = "[ns] \"Arona, você não consegue entrar em contato com outras alunas?\""
+101120-6 = "É difícil...#nO desligamento da rede de comunicação foi uma ordem emitida pela Torre Sanctum..."
+101120-7 = "Mas a Super Arona aqui não vai perder para a Torre Sanctum de jeito nenhum!#nVou tentar...!"
+101120-8 = "Ugh..."
+101120-9 = "Nnnngh..."
+101120-10 = "Haa, haa... Não dá.#nSe for em um lugar fisicamente próximo, talvez eu ainda consiga dar um jeito..."
+101120-11 = "Mas nesta situação... uuu..."
+101120-12 = "Ah! Conectou!"
+101120-13 = "Nem que seja por 1 segundo, por favor...!! Por favor...!!"
+101120-17 = "......Haa, a ligação caiu."
+101120-18 = "Talvez a mensagem tenha chegado a quem estivesse mais perto..."
+101120-19 = "Sinto muito por não ser de muita ajuda..."
+101120-20 = "[s1] \"Não, isso já é o bastante.\"\n[s2] \"Obrigado. Você ajudou muito, Arona.\""
+101120-23 = "S-Sério...?"
+101120-31 = "É u-uma emergência...!#nT-Tem mais deles aqui também...!"
+101120-32 = "Q-Quantos deles..."
+101120-33 = "É o nosso fim..."
+101120-38 = "Rendam-se imediatamente.#nSe não se renderem, vamos abrir fogo."
+101120-42 = "……O que é isso?#nUm drone...?"
+101120-43 = "Drone ativado. Esquadrão, cuidado com a explosão."
+101120-45 = "G-Guh!? O-O que é isso...!?"
+101120-46 = "Toma essa――!!!"
+101120-56 = "Essa granada de fumaça deve ter doído, não é?#nRABBIT2, chegando no local!"
+101120-57 = "RABBIT1, Sensei e a VIP assegurados.#nRABBIT3, por favor confirme a posição dos alvos inimigos."
+101120-59 = "Q-Quem são vocês!?"
+101120-60 = "RABBIT3, mensagem recebida! Enviando as coordenadas pelo pointer agora.#nRABBIT4, elimine os comandantes inimigos primeiro, por favor!"
+101120-61 = "Todas as unidades, preparem-se e――"
+101120-66 = "Tango abatido... t-todo mundo bem?"
+101120-67 = "[s] \"Esquadrão RABBIT!! Vocês vieram! Muito obrigado!\""
+101120-68 = "Não vá entender mal.#nNão viemos porque o senhor pediu ajuda ou algo do tipo."
+101120-69 = "Isso aí. O Sensei mandou uma mensagem, então a gente só deu uma passada aqui pra fazer um exercício depois de comer."
+101120-70 = "M-Mas pra quem veio só pra isso, todo mundo parecia estar com muita pressa..."
+101120-74 = "Esquadrão RABBIT. Confirmamos o pedido de resgate do Sensei e nos apresentamos para o dever."
+101120-75 = "Heh~ Conseguir reforços numa hora dessas, o Sensei manda bem mesmo♪"
+101120-76 = "Se o pessoal da SRT está com a gente, não temos mais nada a temer!"
+101120-81 = "Não achem que vão conseguir fugir daqui!"
+101120-82 = "Até mobilizaram helicópteros...? E de onde veio toda essa tropa...?#nSensei, o que diabos aconteceu?"
+101120-83 = "Com certeza ele se meteu em algum problema estranho de novo, como sempre."
+101120-84 = "Hehe... O que você aprontou dessa vez, hein?#nIsso tem cheiro de perigo... Kuhihi."
+101120-85 = "……Tem razão. Vindo do Sensei [USERNAME], isso faz bastante sentido, estranhamente."
+101120-86 = "É-É... A cara do Sensei mesmo..."
+101120-87 = "[s] \"Ouvir isso de vocês me machuca um pouquinho...\""
+101120-88 = "――Diretora Kanna."
+101120-89 = "Esquadrão RABBIT..."
+101120-90 = "Agradecemos pela ajuda da última vez.#nÉ bom vê-la novamente."
+101120-91 = "……A lei marcial não deveria estar impedindo o movimento das tropas do governo agora?"
+101120-92 = "Err... Bem, nós estamos dormindo em um parque no momento, então..."
+101120-93 = "E a nossa cadeia de comando oficial nem existe mais, então..."
+101120-94 = "Lei marcial? Achei que alguns sites estivessem fora do ar, então era isso."
+101120-95 = "N-Não tem problema não sabermos.#nAfinal, ninguém nos avisou de nada!"
+101120-96 = "O único que entra em contato com a gente é o Sensei..."
+101120-97 = "Primeiro, vamos sair daqui e escoltar o Sensei e a Diretora até um local seguro.#nEsquadrão RABBIT, preparar para o combate."
+101120-98 = "Entendido."
+101120-99 = "S-Sim... Eu também tô pronta."
+101120-100 = "Haa, haa... Suporte de fogo, pronto.#nCom isso... vou poder soltar uns fogos de artifício ainda mais espalhafatosos."
+101120-101 = "Sinto muito pedir isso, mas o pessoal da Valkyrie do Departamento de Segurança Pública#ntambém poderia seguir as nossas ordens por enquanto?"
+101120-102 = "Sim, entendido!"
+101120-103 = "Bom, vocês nos ajudaram da última vez. Por mim, tudo bem."
+101120-104 = "Então, iniciando o combate."
