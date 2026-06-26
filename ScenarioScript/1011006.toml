@@ -1,124 +1,63 @@
-[translation]
-1011006-1 = "Um passarinho sonhador dedica uma canção para um dia deixar o ninho."
-
-1011006-2 = "(As reuniões com mais de dois dígitos de itens na agenda duraram muito tempo)"
-
-1011006-3 = "(Quando a reunião terminou, já estava escuro lá fora.)"
-
-1011006-8 = "[ns1] \"Sons de pássaros...?\"\n[ns2] Caminhe na direção do som."
-
-1011006-14 = "[ns3] \"Aqui é...\"\n[ns4] \"Estacionamento...?\""
-
-1011006-17 = "……Sensei?"
-
-1011006-22 = "Afinal, é um Sensei?"
-
-1011006-23 = "ようやく解放されたのかい？随分と長丁場だったようだね。"
-1011006-24 = "Se fosse esse o caso, me pergunto se deveria ter mostrado minha cara desta vez."
-
-1011006-25 = "Não, o quê? Se for uma reunião que faça sentido para mim participar, eu participo ativamente..."
-
-1011006-26 = "Pelo que ouvi anteriormente, não foi esse o caso."
-
-1011006-27 = "……sim? O que você estava fazendo?"
-
-1011006-28 = "É apenas uma caminhada. #nO som de tiros, granadas e até fofocas não chegam a este lugar."
-
-1011006-29 = "É perfeito para caminhar sozinho e tranquilo."
-
-1011006-33 = "...Bem, deixe-me confessar."
-
-1011006-34 = "Na verdade, eu estava esperando a Senseia passar."
-
-1011006-35 = "[s5] \"Fui atraído até aqui pela voz de um pássaro...\"\n[s6] \"Foi a voz da criança na mão de Seia?\""
-
-1011006-38 = "Sons de pássaros...?"
-
-1011006-43 = "...Eu vejo."
-
-1011006-44 = "Pelo menos, não foi isso que eu pretendia."
-
-1011006-45 = "Talvez o que a Senseia ouviu tenha sido o choro dessa criança."
-
-1011006-46 = "Mas não tenho certeza."
-
-1011006-47 = "Existem muitos outros pássaros aqui."
-
-1011006-48 = "Esta criança não estará em minhas mãos para sempre."
-
-1011006-49 = "[s7] \"Entendo.\"\n[s8] \"É meio estranho.\""
-
-1011006-52 = "Os pássaros estão por toda parte."
-
-1011006-53 = "Qual voz de criança a Senseia ouviu?"
-
-1011006-54 = "Ninguém sabe mais a resposta. #n Perguntas ruins também são boas para resolver enigmas."
-
-1011006-55 = "Porém, ela tinha uma voz fofa que dava vontade de segui-la, certo?"
-
-1011006-56 = "Uma curiosidade sutil na vida cotidiana."
-
-1011006-57 = "Se você se sente atraído pelo choro, acho que não é uma experiência ruim."
-
-1011006-58 = "[s9] \"Foi definitivamente uma boa experiência.\"\n[s10] \"Eles pareciam estar se divertindo cantando.\""
-
-1011006-61 = "Isso foi bom. Mesmo não tendo sido elogiado, estou feliz. #nEssas crianças cantam bem."
-
-1011006-62 = "E..."
-
-1011006-63 = "Na verdade, eu também não odeio cantar."
-
-1011006-64 = "...Eu vejo."
-
-1011006-65 = "...Ei. Os Senseies surpreendem coisas assim."
-
-1011006-66 = "Eu gostaria de cantar para o Sensei aqui, mas..."
-
-1011006-67 = "Acho que vou deixar isso para você hoje. #nDeve haver um momento mais desejável para ouvi-lo pela primeira vez."
-
-1011006-71 = "Por favor, não me olhe assim..."
-
-1011006-72 = "As músicas têm um significado importante para mim."
-
-1011006-73 = "Deixe-me contar um pouco sobre o passado... Quando eu era jovem, eu era muito ruim em conversar. #nNão importa o que eu disse, apenas deixei todos ao meu redor desconfortáveis..."
-
-1011006-74 = "Foi extremamente difícil quebrar hábitos antigos e, na época, nunca pensei em mudá-los."
-
-1011006-75 = "Contudo, quero transmitir meus “verdadeiros sentimentos” sem ser mal interpretado. #nO momento de pensar dessa forma já me ocorreu muitas vezes."
-
-1011006-76 = "...Naquela época o único método que eu tinha era cantar."
-
-1011006-77 = "O Tea Party, a Irmandade, a Ordem de Socorro e os estudantes da Trinity."
-
-1011006-78 = "Às vezes, mesmo interagindo com outras escolas, eu expressava meus sentimentos por meio de músicas quando necessário."
-
-1011006-79 = "Para alguém como eu, que é sempre hipócrita e nem consegue falar honestamente minhas próprias palavras."
-
-1011006-80 = "Uma música dedicada a alguém é a única maneira de expressar seus verdadeiros sentimentos..."
-
-1011006-81 = "Em outras palavras, só canto quando quero transmitir meus verdadeiros sentimentos."
-
-1011006-90 = "Ele claramente parece desapontado."
-
-1011006-91 = "Não quero ser mau."
-
-1011006-92 = "...Meu Sensei sempre entende meus “verdadeiros sentimentos”."
-
-1011006-93 = "Achei que nunca teria a chance de mostrar minha voz para cantar, porque eles entenderiam sem que eu tivesse que contar."
-
-1011006-94 = "Porém, também é verdade que acabei falando demais sem motivo. #nA culpa foi minha por atrair inadvertidamente o interesse do Sensei..."
-
-1011006-95 = "Não espere...Talvez agora seja o melhor momento."
-
-1011006-96 = "Sensei... você é um gênio que pode fazer os outros se sentirem como você antes que percebam."
-
-1011006-97 = "Eu não posso evitar. Vamos expressar nossos “verdadeiros sentimentos” através da música."
-
-1011006-98 = "Não posso fazer a cappella, mas deixo o acompanhamento para os pássaros."
-
-1011006-99 = "Sensei."
-
-1011006-106 = "Eu canto para este dia e minha Senseia..."
-
-1011006-107 = "Esta é a minha \"música de agradecimento\"."
-
+[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 22/06.]
+1011006-1 = "O Pintinho Sonhador Dedica Uma Canção à Futura Partida" 
+1011006-2 = "(A reunião, que tinha mais de dois dígitos na pauta, se estendeu por horas)" 
+1011006-3 = "(Quando acabou, já estava completamente escuro lá fora)" 
+1011006-8 = "[ns1] \"Canto de passarinho...?\"\n[ns2] Ando na direção do som." 
+1011006-14 = "[ns3] \"Aqui é...\"\n[ns4] \"O parque...?\"" 
+1011006-17 = "...Sensei?" 
+1011006-22 = "Como imaginei, é o Sensei." 
+1011006-23 = "Finalmente te soltaram?\nParece que te sugaram por bastante tempo nas reuniões." 
+1011006-24 = "Se eu soubesse que ia demorar tanto,\neu teria dado as caras para aliviar o seu estresse." 
+1011006-25 = "Digo, se a minha presença realmente significasse\nalguma coisa nessas reuniões, eu até participaria ativamente, mas..." 
+1011006-26 = "Pelo que ouvi, não foi o caso dessa vez." 
+1011006-27 = "...Hm? O que eu estava fazendo aqui no escuro?" 
+1011006-28 = "Só uma caminhada casual.#nO som de tiroteios, granadas e as vozes com\nfofocas não chegam aqui neste silêncio." 
+1011006-29 = "É o lugar perfeito para\numa garota passear e relaxar os nervos." 
+1011006-33 = "...Sabe, vou ser totalmente honesta com você." 
+1011006-34 = "Na verdade, eu estava escondidinha\naqui esperando o Sensei passar." 
+1011006-35 = "[s5] \"Eu fui seduzido pelo canto de um pássaro e cheguei aqui...\"\n[s6] \"Era o som desse amiguinho aí na sua mão?\"" 
+1011006-38 = "Canto de um pássaro...?" 
+1011006-43 = "...Ah, entendi." 
+1011006-44 = "Pelo menos não foi\num plano armado por mim." 
+1011006-45 = "Talvez o som que tenha te seduzido\nfoi o chamado desse carinha aqui." 
+1011006-46 = "Mas não posso te dar certeza absoluta disso." 
+1011006-47 = "Tem um monte de outros pássaros no nosso ambiente." 
+1011006-48 = "E esse pequeno aqui também não passa\no dia todo na palma da minha mão." 
+1011006-49 = "[s7] \"Faz sentido.\"\n[s8] \"Tem um ar bem misterioso.\"" 
+1011006-52 = "Afinal, passarinhos estão\nespalhados por todo canto." 
+1011006-53 = "De qual passarinho era a voz\nque cantou no ouvido do Sensei..." 
+1011006-54 = "A resposta já é um mistério impossível. #nÉ um quebra-cabeça com defeito, se parar pra pensar." 
+1011006-55 = "Mesmo assim... deve ter sido uma voz bem manhosa\ne bonitinha para fazer você ir atrás, não acha?" 
+1011006-56 = "Um desejo de curiosidade instigado no nosso cotidiano." 
+1011006-57 = "Se você foi arrastado pro escuro por causa desse cantar...#nnão dá pra dizer que não foi uma\nexperiência deliciosa e recompensadora, não acha?" 
+1011006-58 = "[s9] \"Com certeza foi uma experiência muito boa.\"\n[s10] \"Parecia que estava cantando com muita alegria.\"" 
+1011006-61 = "Que ótimo. Mesmo que o elogio não seja pra mim,\neu fico contente.#nAfinal, essas crianças têm muito fôlego pra cantar." 
+1011006-62 = "E tem mais uma coisinha..." 
+1011006-63 = "Na verdade, eu também\nnão desgosto de cantar." 
+1011006-64 = "...Poxa." 
+1011006-65 = "...Ara. Você consegue fazer essa\ncarinha de surpreso também?" 
+1011006-66 = "Eu adoraria mostrar a minha voz e cantar\nbem no ouvidinho do Sensei aqui e agora, mas..." 
+1011006-67 = "Vou te deixar na vontade por hoje.#nPara a sua primeira vez escutando a minha voz,\ntem que ser em um momento muito mais íntimo, fufu." 
+1011006-71 = "Não fique me olhando com esse rosto cheio de desejo..." 
+1011006-72 = "As canções têm um significado\nmuito profundo e especial para mim." 
+1011006-73 = "Eu vou te contar um segredinho do meu passado... Quando eu era criança, eu não sabia me comunicar muito bem.#nTudo que saía da minha boca acabava desconfortando todo mundo..." 
+1011006-74 = "Mudar um hábito de muitos anos é muito difícil, e na época eu nem tinha interesse em consertar isso." 
+1011006-75 = "No entanto, de vez em quando vinha o desejo de transmitir os meus 'verdadeiros sentimentos' sem ser mal-interpretada.#nEsses momentos também chegaram para mim, quer eu quisesse ou não." 
+1011006-76 = "...E o único jeito que eu encontrei\npara fazer isso foi através de 'canções'." 
+1011006-77 = "Com as meninas do Tea Party, Sisterhood, Cavaleiras do Socorro e outras garotas de Trinity." 
+1011006-78 = "Às vezes, durante trocas com outras escolas, eu usava a canção para transmitir os meus sentimentos quando era necessário." 
+1011006-79 = "Para alguém tão cínica como eu, que\nnão consegue sequer falar honestamente com as próprias palavras..." 
+1011006-80 = "Cantar para outra pessoa é o único\nmeio que me restou para expressar o meu 'eu' mais profundo..." 
+1011006-81 = "Em outras palavras, eu só solto a minha voz assim quando quero entregar os meus sentimentos mais verdadeiros e crus." 
+1011006-90 = "Ara, você acabou de suspirar de decepção bem na minha frente?" 
+1011006-91 = "Fufu, prometo que não estou\nte provocando de propósito dessa vez." 
+1011006-92 = "...Sensei, você sempre entende\no meu 'verdadeiro eu' no fundo de mim." 
+1011006-93 = "Você entende as coisas antes mesmo que eu precise abrir a boca... então eu achei que nunca chegaria a hora de usar o meu corpo para cantar para você." 
+1011006-94 = "De qualquer forma, é fato que falei mais do que devia hoje.#nE a culpa de ter ativado o seu tesão de curiosidade assim... é totalmente minha." 
+1011006-95 = "Não vou ficar fazendo charme e te testando...\nAgora é o momento ideal pra te deixar provar, né." 
+1011006-96 = "Sensei... você é um verdadeiro mestre em deixar as garotas quentes e inspiradas sem que elas nem percebam." 
+1011006-97 = "Não tenho o que fazer. Terei que cantar os meus 'verdadeiros sentimentos' pra que você engula tudo." 
+1011006-98 = "Me desculpe, será à capela...\nvamos deixar a melodia de fundo por conta dos passarinhos." 
+1011006-99 = "Sensei." 
+1011006-106 = "Uma canção que eu preparei\nespecialmente pra te dar hoje..." 
+1011006-107 = "A minha canção de agradecimentos íntima... só pra você." 

@@ -1,177 +1,89 @@
-[translation]
-1013905-1 = "Consulta de Nico"
-
-1013905-2 = "(Naquele dia, havia muitas coisas que eu não tinha feito desde manhã...)"
-
-1013905-4 = "Placa de Petri/sala de observação noturna"
-
-1013905-6 = "[ns] \"Uh... uh...\""
-
-1013905-7 = "Hahaha, corra, corra!"
-
-1013905-8 = "Brorororo, deixa voar!"
-
-1013905-9 = "Hehe... A refeição de hoje também estava deliciosa."
-
-1013905-10 = "[ns] \"Por que você é tão barulhento...\""
-
-1013905-11 = "Vocês vão correr por toda aquela estrada pública sem frear..."
-
-1013905-12 = "O “Burororo Dashousou Rengo” ali também foi muito bom. Parece que a partida de #nTonight será bastante interessante de assistir."
-
-1013905-13 = "Capitão, vamos correr até de manhã esta noite! \r\n"
-
-1013905-14 = "Eu disse para você me chamar de presidente!"
-
-1013905-15 = "[ns] \"Não consigo dormir assim...\""
-
-1013905-18 = "(Não consegui dormir direito por causa da gangue de motoqueiros correndo pela placa de Petri a noite toda...)"
-
-1013905-21 = "[ns] \"Ah, desculpe. Meu lenço caiu.\""
-
-1013905-23 = "[ns1] \"...Você não me ouviu?\"\n[ns2] Corro atrás dele para lhe entregar o lenço."
-
-1013905-30 = "Oficial, esta é a pessoa!"
-
-1013905-31 = "Recentemente, senti como se alguém estivesse me seguindo..."
-
-1013905-32 = "Essa pessoa é um perseguidor!"
-
-1013905-34 = "[ns] \"Não, acabei de perder algo--!\""
-
-1013905-35 = "...Item perdido? Você já pensou nos sentimentos daqueles que recebem?"
-
-1013905-39 = "Ou melhor, parece que eu já vi isso em algum lugar... como se estivesse em um pôster de procurado ou algo assim..."
-
-1013905-40 = "Por enquanto, venha para a estação. Se você tiver uma boa explicação, ouvirei quantas vezes quiser."
-
-1013905-41 = "[s] \"Espere um minuto! Há um mal-entendido!\""
-
-1013905-43 = "(Acabei ficando preso por um tempo...)\r\n"
-
-1013905-45 = "...Aquela garota acredita nos rumores e presume que eu disse algo ruim sobre ela."
-
-1013905-46 = "Achei que éramos amigos... mas não acredito que você engoliu os boatos."
-
-1013905-47 = "Nosso relacionamento acabou. Está tudo acabado!"
-
-1013905-48 = "[s] \"Acalme-se e vamos resolver a situação.\""
-
-1013905-52 = "[ns3] \"Tenho certeza de que havia algo errado com aquela garota também?\"\n[ns4] \"Depois que nos acalmamos e conversamos sobre isso...\""
-
-1013905-55 = "O Sensei também está do lado daquela criança? ?"
-
-1013905-56 = "Já expliquei isso muitas vezes, não foi? Não há absolutamente nenhum espaço para mal-entendidos!"
-
-1013905-57 = "[s] \"Não, não quis dizer isso...\""
-
-1013905-58 = "...Acho que a Senseia também pensa que estou agindo como uma vítima."
-
-1013905-59 = "Enquanto eu estava consultando você hoje, pensei que você não faria contato visual."
-
-1013905-60 = "...Com licença."
-
-1013905-64 = "[ns] \"Bem, espere...!\""
-
-1013905-67 = "(...Talvez por estar cansado, acabei falando coisas desnecessárias ao consultar os alunos.)"
-
-1013905-68 = "(Eu estava ficando cansado porque tive problemas o dia todo...)"
-
-1013905-69 = "(A maioria deles foram erros meus ou coisas que aconteceram por motivos alheios ao meu controle, então o dia passou sem que eu pudesse reclamar com ninguém.)"
-
-1013905-75 = "(... naquela noite)"
-
-1013905-79 = "Boa noite, Sensei. Estou aqui para ajudar."
-
-1013905-80 = "Durante a última missão, consegui algumas folhas de chá lindas, então as trouxe comigo para bebermos juntos."
-
-1013905-81 = "Ah, senhor. Há algo de errado com você?"
-
-1013905-82 = "Está escrito \"cansado\" no seu rosto?"
-
-1013905-83 = "[s5] \"Não é grande coisa.\"\r\n[s6] \"Estou bem, então vamos começar a trabalhar esta tarde.\""
-
-1013905-86 = "Mesmo que você diga isso com uma cara dessas, não vai ser convincente, certo?"
-
-1013905-87 = "...Aconteceu alguma coisa hoje?"
-
-1013905-88 = "[ns] \"Está tudo bem. Está tudo bem...\""
-
-1013905-90 = "[ns] \"Não tem nada a ver com Nico.\""
-
-1013905-92 = "[ns] \"Desculpe, não foi isso que eu quis dizer-\""
-
-1013905-95 = "lar. Se não tiver relação, por favor me avise."
-
-1013905-96 = "Agora sou mais Sensei do que trabalho. Por favor, siga-me!"
-
-1013905-100 = "(Ele foi puxado pela mão de Nico e levado à força para a sala do turno da noite.)"
-
-1013905-103 = "Sim, senhor. Por favor, deite-se."
-
-1013905-104 = "[s7] \"Nico, que bom que você está preocupado comigo, mas...\"\r\n[s8] \"Ainda não é essa hora e acho que não vou conseguir dormir.\""
-
-1013905-107 = "Não quero que você tire uma soneca."
-
-1013905-108 = "Deite-se e feche os olhos. #nPor favor, fale devagar sobre hoje."
-
-1013905-109 = "Não importa quão trivial seja. #nTudo o que fica na cabeça do Sensei."
-
-1013905-110 = "Se você não quer dizer, não precisa se preocupar com isso..."
-
-1013905-111 = "Relaxe e entregue tudo o que você está pensando para mim."
-
-1013905-112 = "[s] \"Mas você faz isso com seus alunos...\""
-
-1013905-113 = "Vai ficar assim até você falar comigo."
-
-1013905-114 = "...Você gostaria de experimentar a técnica de contenção do SRT?"
-
-1013905-115 = "[s9] \"Ah, entendi...!\"\r\n[s10] \"Ok, só um pouquinho...\""
-
-1013905-119 = "(Depois, como disse Nico, ele relembrou lentamente os acontecimentos do dia.)"
-
-1013905-120 = "(Nico não interferiu no que eu estava dizendo e ouviu em silêncio, ocasionalmente intervindo.)"
-
-1013905-123 = "... Foi isso que aconteceu."
-
-1013905-124 = "Há dias assim."
-
-1013905-125 = "Cada dia é um pequeno evento, mas por algum motivo todos se sobrepõem."
-
-1013905-126 = "Você diz que é porque é uma coisa tão trivial que você não fala com ninguém e acaba acumulando?"
-
-1013905-127 = "[s11] \"Isso mesmo... não é grande coisa.\"\r\n[s12] \"Desculpe por fazer você se preocupar.\""
-
-1013905-130 = "Por favor, não diga isso."
-
-1013905-131 = "Como eu disse antes, quanto mais triviais as coisas se tornam, mais facilmente elas apodrecem em meu coração."
-
-1013905-132 = "Então esta é a melhor maneira de conversar."
-
-1013905-133 = "O que você acha? Você sentiu algum alívio no peito?"
-
-1013905-134 = "[s13] \"Sim, me sinto mais revigorado do que antes.\"\r\n[s14] \"Obrigado, Nico.\""
-
-1013905-137 = "de nada."
-
-1013905-138 = "Além disso, o Sensei é adulto. Ainda mais, não consigo ser honesto com os outros."
-
-1013905-139 = "Às vezes não há problema em trabalhar com alunos. #nPor favor, conte com alguém por um tempo."
-
-1013905-140 = "[s] \"Sempre tento ser honesto com meus alunos.\""
-
-1013905-141 = "Não estou dizendo que você está mentindo, está?"
-
-1013905-142 = "Escolher as palavras certas para dizer algo também pode cair na categoria de esconder algo..."
-
-1013905-143 = "Da próxima vez... por favor me conte tudo sem esconder nada, ok?"
-
-1013905-144 = "[s] \"...Vou tentar.\""
-
-1013905-145 = "...Ele é realmente um adulto que precisa de muito trabalho."
-
-1013905-150 = "Bem, para aquelas pessoas um pouco problemáticas, existem estudantes como eu."
-
-1013905-152 = "(Depois disso, tive uma conversa casual com Nico na cama e voltei para o escritório sentindo-me incrivelmente aliviado.)"
-
+[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 21/06.]
+1013905-1 = "A Consulta da Niko" 
+1013905-2 = "（Aquele dia foi um desastre do começo ao fim……）" 
+1013905-4 = "Schale - Quarto de Descanso" 
+1013905-6 = "[ns] \"Ugh…… Uu……\"" 
+1013905-7 = "Hyaahaa! Acelera, acelera!!" 
+1013905-8 = "Vrooooom, vamos rasgar o vento!!" 
+1013905-9 = "Fufu…… A refeição de hoje também estava divina." 
+1013905-10 = "[ns] \"Por que esse barulho infernal……\"" 
+1013905-11 = "Para conseguir cruzar essa via pública sem pisar no freio uma única vez……\nVocês têm talento, pirralhos." 
+1013905-12 = "Vocês da 'Gangue da Corrida Vrum-Vrum' também não ficam atrás.\nA disputa de hoje vai valer a pena." 
+1013905-13 = "Capitão, vamos correr até o amanhecer!\r\n" 
+1013905-14 = "Eu já falei pra me chamar de Chefe!" 
+1013905-15 = "[ns] \"Assim eu nunca vou conseguir dormir……\"" 
+1013905-18 = "（Graças a uma gangue de motoqueiros que passou a noite toda correndo\nao redor da Schale, eu não consegui pregar o olho……）" 
+1013905-21 = "[ns] \"Ah, com licença.\nVocê deixou seu lenço cair.\"" 
+1013905-23 = "[ns1] \"……Será que ela não me ouviu?\"\n[ns2] Corri atrás dela para devolver o lenço." 
+1013905-30 = "Policial, é este homem aqui!" 
+1013905-31 = "Eu senti que estava sendo seguida ultimamente, e então――" 
+1013905-32 = "Este homem é um stalker!" 
+1013905-34 = "[ns] \"Não é nada disso! Eu só queria\ndevolver o que ela deixou cair――！\"" 
+1013905-35 = "……Devolver algo?\nPor acaso você não pensou nos sentimentos da pessoa que ia 'receber'?!" 
+1013905-39 = "Pensando bem, o seu rosto não me é estranho……\nAcho que vi em um cartaz de procurados……" 
+1013905-40 = "Por enquanto, venha comigo até a delegacia.\nLá você terá todo o tempo do mundo para as suas desculpas." 
+1013905-41 = "[s] \"E-Espere um momento!\nIsso é um enorme mal-entendido!\"" 
+1013905-43 = "（Acabei ficando retido por um bom tempo tentando explicar a situação……）\r\n" 
+1013905-45 = "……Ela acreditou cegamente nos boatos e cismou que eu\nestava falando mal dela pelas costas." 
+1013905-46 = "E eu aqui achando que éramos amigas……\nComo ela pôde engolir essas fofocas assim?" 
+1013905-47 = "A nossa amizade acabou de vez. Está tudo arruinado!" 
+1013905-48 = "[s] \"Acalme-se um pouco, vamos tentar organizar os fatos.\"" 
+1013905-52 = "[ns3] \"Talvez ela também tenha os seus próprios motivos para ter agido assim, não acha?\"\n[ns4] \"Tenho certeza de que se vocês conversarem de cabeça fria――\"" 
+1013905-55 = "Sensei, você vai ficar do lado dela também?!" 
+1013905-56 = "Eu já expliquei um milhão de vezes!\nNão tem a menor chance de ter sido um mal-entendido!" 
+1013905-57 = "[s] \"Não foi isso que eu quis dizer……\"" 
+1013905-58 = "……No fim, acho que até você, Sensei,\npensa que eu estou me fazendo de vítima." 
+1013905-59 = "Eu já tinha notado que você não olhou\nnos meus olhos a consulta inteira." 
+1013905-60 = "……Com licença, estou de saída." 
+1013905-64 = "[ns] \"E-Espera um pouco……!\"" 
+1013905-67 = "（……Acho que a minha exaustão falou mais alto e eu\nacabei dizendo coisas desnecessárias no aconselhamento da aluna.）" 
+1013905-68 = "（O dia foi uma sucessão interminável de problemas,\ne o meu cansaço apenas se acumulava cada vez mais……）" 
+1013905-69 = "（A pior parte é que quase tudo foi por culpa de erros meus\nou situações fora do meu controle, então o dia terminou sem\nque eu pudesse sequer desabafar sobre isso com alguém.）" 
+1013905-75 = "（……Mais tarde, no fim do dia.）" 
+1013905-79 = "Boa noite, Sensei.\nVim ajudar no que for preciso." 
+1013905-80 = "Eu consegui umas folhas de chá muito boas na última operação,\nentão as trouxe para tomarmos junt――" 
+1013905-81 = "Nossa, Sensei. Você não está se sentindo bem?" 
+1013905-82 = "Está praticamente escrito 'Estou Exausto' no seu rosto, sabia?" 
+1013905-83 = "[s5] \"Não é nada demais.\"\r\n[s6] \"Eu estou bem, então vamos iniciar as tarefas da tarde.\"" 
+1013905-86 = "Dizer isso com uma cara dessas\nnão passa muita credibilidade, Sensei." 
+1013905-87 = "……Algo aconteceu hoje, não é?" 
+1013905-88 = "[ns] \"Sério, não foi nada.\nEstá tudo bem……\"" 
+1013905-90 = "[ns] \"Isso não é algo que a Niko\nprecise se envolver.\"" 
+1013905-92 = "[ns] \"Desculpe, eu não disse isso\ncom essa intenção――\"" 
+1013905-95 = "Não se desculpe. Se não tem a ver comigo,\ncom mais razão ainda eu quero ouvir." 
+1013905-96 = "Neste exato momento, você é a minha prioridade.\nVenha comigo!" 
+1013905-100 = "（A Niko me puxou pela mão e acabei sendo levado à força\npara o quarto de descanso.）" 
+1013905-103 = "Aqui, Sensei.\nPode se deitar." 
+1013905-104 = "[s7] \"Niko, eu fico muito grato pela sua preocupação, mas……\"\r\n[s8] \"Ainda é muito cedo, e não acho que vou conseguir dormir.\"" 
+1013905-107 = "Eu não quero que você tire uma soneca." 
+1013905-108 = "Quero que você deite e feche os olhos.\nE fale lentamente sobre tudo o que aconteceu hoje." 
+1013905-109 = "Não importa o quão pequeno ou bobo seja.\nTire absolutamente tudo o que estiver pesando na sua mente." 
+1013905-110 = "Pode esconder ou mudar alguns detalhes se não quiser falar,\nmas não guarde isso para si……" 
+1013905-111 = "Relaxe o corpo……\ne entregue todos os seus pensamentos a mim." 
+1013905-112 = "[s] \"Mas não acho certo pedir a\numa aluna que carregue esse peso……\"" 
+1013905-113 = "Se você não falar, ficaremos os dois trancados aqui\no resto do dia." 
+1013905-114 = "……Ou será que você quer experimentar\numa técnica de imobilização da SRT?" 
+1013905-115 = "[s9] \"E-Eu entendi……!\"\r\n[s10] \"Sendo assim, me escute só um pouquinho……\"" 
+1013905-119 = "（Depois disso, eu fiz o que a Niko pediu e lentamente comecei a desabafar\nsobre tudo o que me ocorreu ao longo do dia.）" 
+1013905-120 = "（A Niko não me interrompeu ou julgou em momento algum, apenas me ouvia\nem silêncio, concordando e me confortando nas horas certas.）" 
+1013905-123 = "……Então foi tudo isso que aconteceu." 
+1013905-124 = "Tem dias que são assim mesmo, Sensei." 
+1013905-125 = "As coisas individualmente podem parecer pequenas,\nmas quando elas começam a se acumular uma em cima da outra……" 
+1013905-126 = "Exatamente por serem insignificantes, fica mais difícil falar com os outros,\nentão acabamos guardando e sufocando tudo isso dentro do peito." 
+1013905-127 = "[s11] \"Tem razão…… No fim, não eram problemas tão graves assim.\"\r\n[s12] \"Me desculpe por ter te preocupado.\"" 
+1013905-130 = "Por favor, não diga isso." 
+1013905-131 = "Como eu disse, coisas pequenas\nsão as que mais apodrecem e machucam o coração." 
+1013905-132 = "É por isso que colocar tudo para fora assim\né a melhor solução." 
+1013905-133 = "E então? O aperto no seu peito\ndiminuiu pelo menos um pouco?" 
+1013905-134 = "[s13] \"Sim, eu sinto que um peso imenso saiu de mim.\"\r\n[s14] \"Muito obrigado, Niko.\"" 
+1013905-137 = "Não precisa agradecer." 
+1013905-138 = "Aliás, adultos tendem a ter mais dificuldade em se abrir com os outros,\nnão é mesmo?" 
+1013905-139 = "De vez em quando não tem problema algum desabafar com as suas alunas.\nEntão por favor, tente depender mais de nós também." 
+1013905-140 = "[s] \"Mas eu já tento ser o mais sincero\npossível com vocês sempre que posso.\"" 
+1013905-141 = "Não estou falando de você mentir." 
+1013905-142 = "O simples fato de escolher e policiar o que vai dizer\ntambém é uma forma de esconder as coisas……" 
+1013905-143 = "Da próxima vez…… Quero que me conte\ntudo sem esconder nadinha, estamos entendidos?" 
+1013905-144 = "[s] \"……Vou dar o meu melhor.\"" 
+1013905-145 = "……Sinceramente, você é um adulto\nque dá bastante trabalho." 
+1013905-150 = "Mas bem, é exatamente para cuidar de pessoas\nmeio teimosas como você que alunas como eu existem." 
+1013905-152 = "（Depois disso, eu e a Niko jogamos conversa fora na cama por um tempo,\ne então retornei ao escritório sentindo meu coração notavelmente mais leve.）" 

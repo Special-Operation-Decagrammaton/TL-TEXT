@@ -1,4 +1,9 @@
-[translation]
+[translation]#LocalizeSkillExcel: Organizado Versão 0.0.0_00a
+
+#Amigos:
+1989089883 = "Nenhum usuário encontrado. Por favor, pesquise novamente."
+
+#Não classificado:
 3205063001 = "Não foi possível encontrar a aluna assistente selecionada."
 3080068811 = "Foi recebida uma solicitação que não pode ser processada."
 1451459100 = "Foi recebida uma solicitação que não pode ser processada."

@@ -1,9 +1,9 @@
-[translation]
-20014-CVGroup_UITitle_Idle1-1 = "Blue Archive!"
-20014-CVGroup_CharacterGet_Idle1-1 = "Sou Sorai Saki, do Esquadrão RABBIT da Academia Especial SRT.\nE então, onde é que ficam os manuais táticos da Schale?"
-20014-CVGroup_Cafe_Idle1-1 = "Todo mundo aqui tem a guarda completamente baixa... Que patético."
-20014-CVGroup_Cafe_Idle2-1 = "Até onde a vista alcança, só vejo gente com cara de bobo."
-20014-CVGroup_Cafe_Idle3-1 = "Por mais que estejamos em horário de descanso,\nainda existe um mínimo de disciplina militar a ser seguida..."
-20014-CVGroup_Cafe_Idle4-1 = "(Onde é que está o manual de instruções para usar isso...?)"
-20014-CVGroup_Cafe_Idle5-1 = "(O que diabos é aquilo? Eu nunca vi isso nem nos manuais táticos...)"
-20014-CVGroup_WeaponGet_Idle1-1 = "Metralhadora RABBIT-26, recebida com sucesso.\n...Sim. Como eu imaginava, esse peso me traz paz de espírito."
+[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 21/06.]
+20014-CVGroup_UITitle_Idle1-1 = "Blue Archive!" 
+20014-CVGroup_CharacterGet_Idle1-1 = "Sou Sorai Saki do Esquadrão RABBIT,\nda Academia Especial SRT.\nE então, onde fica o manual de operações da Schale?" 
+20014-CVGroup_Cafe_Idle1-1 = "Todo mundo com a guarda baixa...\nQue vergonhoso." 
+20014-CVGroup_Cafe_Idle2-1 = "Até onde a vista alcança,\nsó tem gente com cara de tacho." 
+20014-CVGroup_Cafe_Idle3-1 = "Mesmo que estejamos em pausa,\nexiste um mínimo de disciplina militar que..." 
+20014-CVGroup_Cafe_Idle4-1 = "（Onde será que está\no manual de instruções para usar isso...?）" 
+20014-CVGroup_Cafe_Idle5-1 = "（O que é aquilo,\nnunca vi nada parecido nem no manual...）" 
+20014-CVGroup_WeaponGet_Idle1-1 = "Metralhadora RABBIT Tipo-26, recebida.\n......É. Esse peso com certeza me traz segurança." 

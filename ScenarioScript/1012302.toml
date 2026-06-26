@@ -1,153 +1,83 @@
-[translation]
-1012302-1 = "coisas que mudam"
-
-1012302-2 = "À noite, em frente à placa de Petri/edifício"
-
-1012302-3 = "(Eu estava esperando por Seia, me sentindo um pouco ansioso)"
-
-1012302-8 = "É uma recepção calorosa."
-
-1012302-9 = "Eu realmente não pretendia que você fosse tão longe, mas...#nIsso só me poupou muitos problemas."
-
-1012302-10 = "[s1] \"Seia...!?\"\n[s2] \"Carro esportivo...!?\""
-
-1012302-19 = "[ns3] \"...Maiô!?\"\n[ns4] \"O quê!? O que é isso...?\""
-
-1012302-22 = "Falarei sobre os detalhes mais tarde."
-
-1012302-23 = "Se você estiver bem com isso, você poderia sentar ao meu lado?"
-
-1012302-27 = "...Você realmente fica bem no seu rosto."
-
-1012302-28 = "Não há nada com que se preocupar. É apenas uma viagem."
-
-1012302-29 = "Vamos começar indo para algum lugar fora do caminho. #nHá o risco de atrair atenção desnecessária aqui."
-
-1012302-30 = "……sim?"
-
-1012302-31 = "Ah, esse carro?"
-
-1012302-32 = "Entendo, não contei ao Sensei."
-
-1012302-33 = "Mesmo com isso, ainda tenho muitas oportunidades de dirigir."
-
-1012302-34 = "Além dos carros... há motos, iates e muitas outras coisas..."
-
-1012302-39 = "Bem, isso fica para outra hora. #nPor hoje... ei, sente-se. É um assento especial."
-
-1012302-40 = "[s5] \"U-Sim...\"\n[s6] Sente-se no banco do passageiro."
-
-1012302-49 = "n / D……."
-
-1012302-50 = "Bem, vamos lá."
-
-1012302-54 = "(O carro começou a andar e seguiu em direção ao subúrbio)"
-
-1012302-55 = "(Seia sorriu e não disse uma palavra por um tempo.)"
-
-1012302-56 = "Estamos quase no nosso destino. Surpreendentemente, a chegada correu bem."
-
-1012302-57 = "Hum..."
-
-1012302-58 = "Aparentemente, o mar está nos acolhendo."
-
-1012302-67 = "[wa:1530]― [log=세이아 수영복]良い風だ。[/log]"
-1012302-69 = "[wa:1150]― [log=세이아 수영복]やはり、[wa:1220]心なしか[wa:820]涼やかに感じられる。[/log]"
-1012302-72 = "― [log=세이아 수영복]Nada atrapalha...[/log]"
-
-1012302-74 = "[wa:330]― [log=세이아 수영복]この世界は[wa:670]私たちだけのものだ。[/log]"
-1012302-77 = "[wa:1160]― [log=세이아 수영복]助手席からの眺めは[wa:1290]美しいかな？[/log]"
-1012302-80 = "― [log=세이아 수영복]Essa expressão é...[/log]"
-
-1012302-82 = "[wa:1030]― [log=세이아 수영복]景色に驚いているのかい？[/log]"
-1012302-85 = "[wa:1470]― [log=세이아 수영복]それとも……[/log]"
-1012302-87 = "― [log=세이아 수영복]Meu convite [wa:880] foi inesperado? [/registro]"
-
-1012302-90 = "[wa:1380]― [log=세이아 수영복]どちらにせよ、[wa:1750]その顔を拝めただけで[wa:1400]満足だ。[/log]"
-1012302-92 = "[wa:160]― [log=세이아 수영복]こうして誘った甲斐が[wa:1130]あったというものだね。[/log]"
-1012302-95 = "― [log=세이아 수영복]Mesmo que você pergunte por um motivo absurdo, [wa:1560] você não será incomodado. [/registro]"
-
-1012302-97 = "― [log=세이아 수영복]Faça o que você quiser...[wa:2170]Isso é tudo. [/registro]"
-
-1012302-100 = "[wa:670]― [log=세이아 수영복]こういうのを、[wa:1470]何と言ったかね……[/log]"
-1012302-103 = "― [log=세이아 수영복]Hmm...[wa:2090]Escapar? [/registro]"
-
-1012302-106 = "[wa:250]― [log=세이아 수영복]ふふ……[wa:1500]冗談さ。[/log]"
-1012302-109 = "― [log=세이아 수영복]No entanto, [wa:1530]Vai demorar um pouco ainda...[/log]"
-
-1012302-111 = "[wa:600]― [log=세이아 수영복]そうだな。[/log]"
-1012302-114 = "[wa:220]― [log=세이아 수영복]君を送り返すまでは、[/log]"
-1012302-116 = "― [log=세이아 수영복]Vamos pedir ao [wa:970] para se juntar a nós nesta \"peça\". [/registro]"
-
-1012302-119 = "Bem, chegamos."
-
-1012302-126 = "Algo urgente. É por isso que pedi para você reservar um tempo para mim..."
-
-1012302-127 = "Não é como se houvesse algum problema específico. #nIsso mesmo..."
-
-1012302-128 = "As estações mudam. #nQuero sentir esse momento, esse cenário... juntos."
-
-1012302-129 = "...Você sente que foi exposto?"
-
-1012302-130 = "Me desculpe se lhe causei muitos problemas."
-
-1012302-131 = "[s7] \"Bem, fiquei um pouco surpreso...\"\n[s8] \"Eu gostaria que você tivesse me contado isso desde o início.\""
-
-1012302-134 = "n / D……."
-
-1012302-135 = "Hehehe…."
-
-1012302-136 = "...Oh, não consigo terminar. No entanto, tornou-se divertido."
-
-1012302-137 = "Meu Sensei anterior teria dito algo banal como: “Estou feliz que nada tenha acontecido”."
-
-1012302-138 = "Agora... não parece ser isso."
-
-1012302-139 = "Bem, é claro. #nEu estive mexendo com você sobre isso e aquilo até agora."
-
-1012302-140 = "Como você descreveria isso...?"
-
-1012302-141 = "A sensação de distância entre os outros é variável. #nPodemos nos aproximar e nos aproximar e, claro, o oposto é verdadeiro."
-
-1012302-142 = "Você... não se deixa mais levar pelos meus flertes, mas agora pode \"protestar\" adequadamente."
-
-1012302-143 = "Ou... talvez eu estivesse esperando por esse tipo de reclamação."
-
-1012302-144 = "Sou culpado por travessuras, e às vezes sou repreendido por fazer algo inocente e inocente... #n Assim como um aluno que precisa de muita atenção."
-
-1012302-145 = "...Como você diz algo assim?"
-
-1012302-146 = "[s9] \"...Haa.\"\n[s10] Respiro fundo deliberadamente."
-
-1012302-152 = "...! ! !"
-
-1012302-153 = "Hehe, hehehe…."
-
-1012302-154 = "Entendo... foi assim que me senti."
-
-1012302-155 = "Lamento ter esquecido isso até agora. #nNo entanto, não é tarde para perder isso de vista...Acho que isso está finalmente se tornando um hábito."
-
-1012302-160 = "……estou brincando."
-
-1012302-161 = "Não, a rigor, os sentimentos são reais. #nNo entanto, até eu tenho uma queda pela moderação."
-
-1012302-162 = "[s11] \"Se você for longe demais, o Sensei vai ficar bravo, certo?\"\n[s12] \"...Eu não me importo. Contanto que seja assim, eu não me importo nem um pouco.\""
-
-1012302-168 = "...Você não conhece o fundo."
-
-1012302-169 = "Se o Sensei quiser, reconsiderarei."
-
-1012302-170 = "Deixe isso para a independência do aluno. #nNão é exatamente esse o método habitual do Sensei?"
-
-1012302-171 = "[s13] \"Desde que Seia desse a resposta que ela queria.\"\n[s14] \"Você não gosta desse tipo de coisa?\""
-
-1012302-174 = "...Hehe."
-
-1012302-175 = "O vento está ficando mais frio. Vamos voltar logo? #nEste é o fim da minha fuga da realidade."
-
-1012302-180 = "Da próxima vez... embora ainda não possa garantir."
-
-1012302-183 = "(Depois Seia me levou até a placa de Petri.)"
-
-1012302-184 = "(Embora ela tenha permanecido em silêncio durante todo o trajeto... ela só sorriu uma vez quando estávamos prestes a nos separar.)"
-
+[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 22/06.]
+1012302-1 = "Coisas Efêmeras e Mutações"
+1012302-2 = "Fim de tarde, em frente ao Prédio da Schale."
+1012302-3 = "(Fiquei esperando pela Seia, sentindo um pouquinho de apreensão...)"
+1012302-8 = "Vir me receber do lado de fora...\nQue recepção mais calorosa e apaixonada, hein."
+1012302-9 = "Fazer você se dar a esse trabalho\nnão era a minha intenção, mas...\n#nBem, acabou nos poupando tempo."
+1012302-10 = "[s1] \"Seia...!?\"\n[s2] \"Um carro esportivo...!?\""
+1012302-19 = "[ns3] \"...De maiô!?\"\n[ns4] \"Eita!? O que... o que significa isso?\""
+1012302-22 = "Deixemos os detalhes gostosos para depois."
+1012302-23 = "Se não for te incomodar...\npoderia sentar aqui do meu ladinho?"
+1012302-27 = "...Você realmente deixa tudo\nestampado no rosto, sabia?"
+1012302-28 = "Não precisa se preocupar. \nÉ apenas um passeio de carro gostoso a dois."
+1012302-29 = "Primeiro, vamos para um lugarzinho\nonde ninguém possa nos ver.#nAqui, podemos acabar chamando a atenção\nde olhos indesejados."
+1012302-30 = "...Hmm?"
+1012302-31 = "Ah, esse carro."
+1012302-32 = "É verdade, acho que nunca\nhavia comentado com você."
+1012302-33 = "Mesmo sendo eu, costumo ter\nmuitas oportunidades para dirigir."
+1012302-34 = "Além de carros... também dirijo\nmotos, iates, e várias outras coisinhas..."
+1012302-39 = "Bom, vamos deixar isso para outra hora.\n#nMas por hoje... vem, senta aqui do meu lado.\nÉ o lugar VIP pra me olhar."
+1012302-40 = "[s5] \"U-Uhum...\"\n[s6] *Sento no banco do passageiro.*"
+1012302-49 = "Fufu..."
+1012302-50 = "Então, vamos nessa?"
+1012302-54 = "(O carro partiu, acelerando em direção aos subúrbios)"
+1012302-55 = "(Seia continuou dirigindo em silêncio\npor um tempo, com um sorriso leve nos lábios)"
+1012302-56 = "Já estamos quase chegando ao nosso destino.\nViemos muito mais suavemente do que eu esperava."
+1012302-57 = "Hmm..."
+1012302-58 = "Pelo visto, o mar está nos\ndando boas-vindas bem quentes."
+1012302-67 = "[wa:1530]― [log=세이아 수영복]É uma brisa deliciosa.[/log]"
+1012302-69 = "[wa:1150]― [log=세이아 수영복]Como imaginei,[wa:1220] sinto que lá no fundo[wa:820] dá até um frescor no peito.[/log]"
+1012302-72 = "― [log=세이아 수영복]Sem absolutamente ninguém para nos atrapalhar...[/log]"
+1012302-74 = "[wa:330]― [log=세이아 수영복]Este mundo agora[wa:670] pertence apenas a nós dois.[/log]"
+1012302-77 = "[wa:1160]― [log=세이아 수영복]A vista aí do banco do carona[wa:1290] está agradando aos seus olhos?[/log]"
+1012302-80 = "― [log=세이아 수영복]Essa sua carinha...[/log]"
+1012302-82 = "[wa:1030]― [log=세이아 수영복]Está surpreso com a paisagem?[/log]"
+1012302-85 = "[wa:1470]― [log=세이아 수영복]Ou será que...[/log]"
+1012302-87 = "― [log=세이아 수영복]O meu convite ousado que[wa:880] te pegou de surpresa?[/log]"
+1012302-90 = "[wa:1380]― [log=세이아 수영복]De qualquer forma,[wa:1750] só de ver essa sua carinha cheia de desejo,[wa:1400] eu já estou satisfeita.[/log]"
+1012302-92 = "[wa:160]― [log=세이아 수영복]Fazer esse convite atrevido[wa:1130] realmente valeu a pena no fim das contas.[/log]"
+1012302-95 = "― [log=세이아 수영복]Se você me pedir um motivo grandioso pra isso,[wa:1560] eu ficaria um pouco em apuros.[/log]"
+1012302-97 = "― [log=세이아 수영복]Eu apenas segui os meus impulsos mais primitivos...[wa:2170] Foi apenas isso.[/log]"
+1012302-100 = "[wa:670]― [log=세이아 수영복]Como é mesmo que as pessoas[wa:1470] costumam chamar isso...?[/log]"
+1012302-103 = "― [log=세이아 수영복]Uhn...[wa:2090] uma fuga romântica e apaixonada?[/log]"
+1012302-106 = "[wa:250]― [log=세이아 수영복]Fufu...[wa:1500] foi só uma brincadeirinha.[/log]"
+1012302-109 = "― [log=세이아 수영복]No entanto,[wa:1530] por mais um tempinho...[/log]"
+1012302-111 = "[wa:600]― [log=세이아 수영복]Deixe-me ver.[/log]"
+1012302-114 = "[wa:220]― [log=세이아 수영복]Até eu te devolver são e salvo...[/log]"
+1012302-116 = "― [log=세이아 수영복]Você vai ter que me acompanhar[wa:970] nessa 'brincadeirinha' suada e gostosa.[/log]"
+1012302-119 = "E aqui estamos. Chegamos."
+1012302-126 = "Falei que era uma 'situação urgente',\ne fiz você liberar tempo na sua agenda pra mim, mas――"
+1012302-127 = "A verdade é que... não tem nenhum\nproblema especial acontecendo.#nÉ só que..."
+1012302-128 = "As estações mudam.\n#nE eu queria sentir o calor deste momento...\ne esta paisagem... com você ao meu lado."
+1012302-129 = "...Você se sentiu enganado?"
+1012302-130 = "Se eu fiz você se preocupar e\nficar ansioso à toa, peço desculpas."
+1012302-131 = "[s7] \"Bom, eu tomei um sustinho ali, mas...\"\n[s8] \"Você devia ter me falado a verdade desde o começo.\""
+1012302-134 = "Fufu..."
+1012302-135 = "Fufufu..."
+1012302-136 = "...Ah, me perdoe. É que isso acabou\nme divertindo além da conta."
+1012302-137 = "Se fosse o Sensei de antigamente,\nvocê com certeza diria palavras banais como:\n'Que alívio que não aconteceu nada ruim'."
+1012302-138 = "Mas agora... parece que não é\nbem assim que a banda toca."
+1012302-139 = "Bom, é compreensível.#nAfinal, eu andei atiçando os seus desejos\ne te provocando de todas as formas até agora, não é?"
+1012302-140 = "Como eu poderia descrever isso...?"
+1012302-141 = "O senso de distância (e o atrito físico) entre duas pessoas pode mudar.#nSe tornarem íntimas, se aproximarem... ou, claro, acontecer o exato oposto."
+1012302-142 = "Você... deixou de apenas se deixar levar\npelas minhas provocações e safadezas,\ne agora começou a me 'repreender' devidamente."
+1012302-143 = "Ou talvez...\neu é que estivesse ansiando e sedenta por essas suas broncas."
+1012302-144 = "Perder o controle de forma pura e inocente, ser pega fazendo travessuras, e às vezes, levar uma bela de uma 'punição' sua...#nExatamente como uma aluna muito, muito carente."
+1012302-145 = "...Como é mesmo que\nse chamava essa sensação gostosa?"
+1012302-146 = "[s9] \"...Haaah.\"\n[s10] *Solto um longo suspiro de propósito.*"
+1012302-152 = "...!!!"
+1012302-153 = "Fufu, fufufu..."
+1012302-154 = "Entendo... então é essa a\nsensação de ser repreendida por você."
+1012302-155 = "É uma pena eu ter ignorado esse prazer até agora.#nMas não é tarde demais... Acho que vou\nficar viciada nisso, Sensei."
+1012302-160 = "...É só uma brincadeirinha."
+1012302-161 = "Bem, estritamente falando, os meus sentimentos são muito reais.#nMas eu também tenho meus limites e pudores, sabe."
+1012302-162 = "[s11] \"Se passar dos limites, o Sensei aqui vai ficar bravo de verdade, hein?\"\n[s12] \"...Tô brincando. Desse tanto aí, eu não me importo.\""
+1012302-168 = "...O seu apetite e a sua lábia não têm fundo mesmo."
+1012302-169 = "Se é essa a intenção do Sensei,\neu vou repensar as minhas estratégias."
+1012302-170 = "Deixar o fluxo das coisas nas mãos da aluna pra se esquivar.#nEsse é o seu método favorito, não é?"
+1012302-171 = "[s13] \"Eu só dei a resposta que a Seia queria ouvir.\"\n[s14] \"Você não curte esse tipo de joguinho?\""
+1012302-174 = "...Fufu."
+1012302-175 = "O vento começou a esfriar. Vamos voltar?#nA nossa 'fuga romântica' da realidade se encerra aqui."
+1012302-180 = "Quanto à próxima vez... ainda não\nposso te garantir (mas vou deixar na imaginação)."
+1012302-183 = "(Depois disso, Seia me deu uma carona até a Schale)"
+1012302-184 = "(Durante o percurso, ela ficou em silêncio o tempo todo... mas, na hora de se despedir, deu um sorrisinho sedutor)"

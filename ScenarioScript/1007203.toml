@@ -1,95 +1,48 @@
-[translation]
-1007203-1 = "Operação de abastecimento subaquático (2)"
-
-1007203-2 = "(Recebi uma ligação de Saki e fui para a doca anterior)"
-
-1007203-6 = "Hehe, hehehe…."
-
-1007203-10 = "Ah, Senseia. Bem-vindo."
-
-1007203-11 = "[s] \"Parece que vai ser divertido.\""
-
-1007203-12 = "Esta manhã eu estava ajudando a limpar um antigo armazém e encontrei algo incrível."
-
-1007203-13 = "É isso..."
-
-1007203-18 = "Esta carga de profundidade penetrante!"
-
-1007203-19 = "[s] \"...Shitotsu, Bakurai?\""
-
-1007203-20 = "O que, Sensei, você não sabe?"
-
-1007203-24 = "Esta é uma arma antitanque usada pela Hyakki Yako Union Academy no passado, com uma bala explosiva em forma de presa na ponta de um bastão longo. Esmague-o contra o tanque do seu oponente de perto e faça-o explodir."
-
-1007203-25 = "Parece que foi frequentemente usado em Hyakki Yako durante o caótico período Sengoku porque era fácil de operar e o custo era mantido baixo..."
-
-1007203-26 = "Em primeiro lugar, foi difícil chegar perto do tanque, então eles não conseguiram muito."
-
-1007203-27 = "Contudo, o design simples de “esfaquear e detonar” está ganhando popularidade entre um certo grupo de entusiastas."
-
-1007203-28 = "Não, mas pensar que uma arma tão valiosa estava adormecida num armazém numa aldeia piscatória..."
-
-1007203-29 = "Parece que eu estava planejando jogar fora, mas os moradores me deram de graça...Estou twittando sobre isso hoje!"
-
-1007203-30 = "[s] \"Então, como você usa essa arma?\""
-
-1007203-31 = "Você já ouviu falar em Bangstick?"
-
-1007203-32 = "Uma arma em forma de arpão usada por mergulhadores. #nSe disparados debaixo d'água, criaturas grandes, como tubarões e baleias, podem ser mortas com um único tiro."
-
-1007203-33 = "O princípio da carga de profundidade perfurante é o mesmo do bang stick."
-
-1007203-34 = "[s] \"De jeito nenhum...\""
-
-1007203-35 = "sim! Use esta carga perfurante de profundidade para atordoar os peixes com impacto!"
-
-1007203-36 = "A última vez que mergulhei, vi um peixe do tamanho de um tronco."
-
-1007203-37 = "É difícil derrubar um peixe tão grande com um arpão normal...#n, mas com o poder da pólvora, não importa o tamanho dele."
-
-1007203-38 = "[s1] \"Vai funcionar...?\"\n[s2] \"Parece perigoso...\""
-
-1007203-41 = "Tudo bem. Claro, a quantidade de explosivos será ajustada."
-
-1007203-42 = "Já fiz treinamento explosivo subaquático inúmeras vezes. Não tem como o pessoal especial do #nSRT não pegar alguns peixes!"
-
-1007203-47 = "...Bem, então vamos!"
-
-1007203-57 = "(depois de um tempo......)"
-
-1007203-62 = "Bum!"
-
-1007203-77 = "[ns] \"S-Saki... você está bem!?\""
-
-1007203-78 = "Estou bem, mas..."
-
-1007203-79 = "O peixe..."
-
-1007203-83 = "Apanhados na violência... despedaçados..."
-
-1007203-84 = "...Você não pode comer assim."
-
-1007203-85 = "Qual diabos era o problema? Mesmo que o cálculo dos explosivos tenha sido perfeito...!"
-
-1007203-86 = "[s] \"Talvez o poder original da arma...\""
-
-1007203-87 = "……Eu vejo. #nNão importa o quanto tenha sido ajustada, originalmente era uma arma fabricada para perfurar a blindagem de tanques..."
-
-1007203-88 = "Foi um erro usá-lo para peixes?"
-
-1007203-89 = "[s3] \"Se você quiser pescar...\"\n[s4] \"Não teria sido melhor usar um arpão normalmente...?\""
-
-1007203-94 = "Não...!"
-
-1007203-95 = "Isso é..."
-
-1007203-96 = "Na verdade... sim, é verdade..."
-
-1007203-97 = "Se eles tivessem emprestado um arpão desde o início, teriam pescado mais peixes do que os dois poderiam comer... #nEu estava tão distraído com o equipamento raro que esqueci o básico..."
-
-1007203-98 = "Meu idiota...! !"
-
-1007203-100 = "(...Mais tarde, levei uma Saki deprimida ao mercado de peixes e ofereci-lhe uma tigela de frutos do mar.)"
-
-1007203-101 = "(Saki parecia não ter apetite no início, mas comeu cada grão de arroz perfeitamente.)"
-
+[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 21/06.]
+1007203-1 = "Operação de Abastecimento Subaquático (2)" 
+1007203-2 = "（Após receber a mensagem da Saki, fui até o cais anterior.）" 
+1007203-6 = "Fufu, fufufu..." 
+1007203-10 = "Ah, Sensei. Bem-vindo." 
+1007203-11 = "[s] \"Você parece estar se divertindo bastante.\"" 
+1007203-12 = "Hoje de manhã, enquanto eu ajudava a organizar um armazém antigo da vila, encontrei algo maravilhoso." 
+1007203-13 = "Dá só uma olhada nisso..." 
+1007203-18 = "Essa 'Mina de Estocagem' (Lunge Mine)!" 
+1007203-19 = "[s] \"......Mina de, estocagem?\"" 
+1007203-20 = "Ué Sensei, você não conhece isso?" 
+1007203-24 = "Essa é uma arma antitanque que a Academia Combinada Hyakkiyako costumava usar antigamente. Trata-se de uma carga oca montada na ponta de uma haste longa. Você a aproxima do tanque inimigo, apunhala e ela explode." 
+1007203-25 = "Como a operação é absurdamente simples e o custo de produção era baixo, dizem que foi muito utilizada na Era dos Estados Combatentes (Sengoku) da Hyakkiyako, um período de muitas guerras civis..." 
+1007203-26 = "Mas, se aproximar de um tanque já era incrivelmente difícil por si só, então os resultados que ela alcançava não eram lá grandes coisas." 
+1007203-27 = "No entanto, seu design bruto e direto ao ponto de 'apunhalar e explodir' ganhou uma popularidade enorme entre um certo grupo de maníacos por armas." 
+1007203-28 = "Apesar de tudo, quem diria que uma arma tão preciosa como esta estaria mofando em um armazém de uma vila de pescadores..." 
+1007203-29 = "Parece que o pessoal pretendia jogar fora de qualquer jeito, então eu ganhei de graça dos moradores... A sorte tá do meu lado hoje!" 
+1007203-30 = "[s] \"Mas e aí, como você vai usar essa arma?\"" 
+1007203-31 = "Você já ouviu falar num negócio chamado 'Bang Stick' (Lança-Dardo Explosivo)?" 
+1007203-32 = "É uma arma no formato de um arpão que os mergulhadores usam.\nSe você a disparar debaixo d'água, é possível abater grandes animais marinhos como tubarões e baleias com um único golpe." 
+1007203-33 = "O princípio de funcionamento dessa mina de estocagem é o mesmo do Bang Stick." 
+1007203-34 = "[s] \"Não me diga que...\"" 
+1007203-35 = "Isso mesmo! Eu vou usar essa mina para atordoar os peixes com o impacto da explosão!" 
+1007203-36 = "Na última vez que mergulhei, vi um peixe gigante do tamanho de um tronco de árvore." 
+1007203-37 = "Abater um monstro daquele tamanho com um arpão comum é muito difícil...\nMas, contando com a força da pólvora, o tamanho da presa não será problema." 
+1007203-38 = "[s1] \"Será que isso vai dar certo...?\"\n[s2] \"Me parece ser muito perigoso...\"" 
+1007203-41 = "Fica tranquilo. Lógico que eu vou ajustar a quantidade de explosivos para não exagerar." 
+1007203-42 = "Eu já fiz incontáveis treinamentos de detonação subaquática.\nNão tem como uma operadora de elite da SRT não conseguir capturar um peixe!" 
+1007203-47 = "......Então, tô indo lá!" 
+1007203-57 = "（Um tempo se passou...）" 
+1007203-62 = "BOOOM!" 
+1007203-77 = "[ns] \"S-Saki... você está bem!?\"" 
+1007203-78 = "Eu tô inteira, mas..." 
+1007203-79 = "O peixe..." 
+1007203-83 = "Ele foi engolido pela pressão da explosão e... virou mingau..." 
+1007203-84 = "......Nesse estado, não sobrou nada pra comer, sobrou?" 
+1007203-85 = "Qual diabos foi o problema!? Eu calculei a carga do explosivo perfeitamente...!" 
+1007203-86 = "[s] \"Acho que a força bruta da arma ainda foi demais...\"" 
+1007203-87 = "......Entendi.\nMesmo ajustando, essa arma foi originalmente projetada pra rasgar a armadura de aço de tanques de guerra..." 
+1007203-88 = "Acho que foi um pequeno erro usá-la num peixe..." 
+1007203-89 = "[s3] \"Se a sua intenção era apunhalar e estocar o peixe...\"\n[s4] \"Você não deveria ter usado só um arpão comum e de boa...?\"" 
+1007203-94 = "Ngh...!" 
+1007203-95 = "I-Isso é..." 
+1007203-96 = "Com certeza... faz, muito sentido..." 
+1007203-97 = "Se eu tivesse emprestado um arpão comum desde o início, nós dois teríamos peixe sobrando pro mês inteiro...\nE pensar que eu deixei escapar um detalhe tão óbvio e básico só porque me distraí com um equipamento exótico..." 
+1007203-98 = "Como eu sou idiota...!!" 
+1007203-100 = "（......Depois disso, levei a Saki desolada ao mercado de peixes e paguei uma tigela de arroz com frutos do mar (Kaisendon) para ela.）" 
+1007203-101 = "（De início, a Saki parecia totalmente sem apetite, mas no fim ela não deixou sobrar nem um grão de arroz na tigela.）" 

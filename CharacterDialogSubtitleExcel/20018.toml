@@ -1,9 +1,9 @@
-[translation]
-20018-CVGroup_UITitle_Idle1-1 = "Blue Archive~"
-20018-CVGroup_CharacterGet_Idle1-1 = "Sou Kazekura Moe, do Esquadrão RABBIT da Academia Especial SRT.\nKuhihi... deixa o suporte tático de fogo comigo."
-20018-CVGroup_Cafe_Idle1-1 = "Posso transformar isso aqui na minha nova base de operações?"
-20018-CVGroup_Cafe_Idle2-1 = "……Até que aqui é um lugar bem relaxante, sabia."
-20018-CVGroup_Cafe_Idle3-1 = "Tô precisando de mais doces..."
-20018-CVGroup_Cafe_Idle4-1 = "Por acaso não tem nenhum botão de lançamento importante jogado pelo chão por aqui...?"
-20018-CVGroup_Cafe_Idle5-1 = "Kuhihi..."
-20018-CVGroup_WeaponGet_Idle1-1 = "Pistola RABBIT-224, recebida com sucesso.\n……Ei, isso aqui é bem pequeno. Tem certeza de que tem um poder de fogo decente?"
+[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 21/06.]
+20018-CVGroup_UITitle_Idle1-1 = "Blue Archive~" 
+20018-CVGroup_CharacterGet_Idle1-1 = "Kazekura Moe do Esquadrão RABBIT, Academia Especial SRT.\nKuhihi…… Se precisar de suporte tático, joga pra mim." 
+20018-CVGroup_Cafe_Idle1-1 = "Vou tomar a liberdade de fazer daqui a minha nova base de operações, bele?" 
+20018-CVGroup_Cafe_Idle2-1 = "……Bem, até que dá pra relaxar aqui." 
+20018-CVGroup_Cafe_Idle3-1 = "Tô ficando com falta de pirulitos……" 
+20018-CVGroup_Cafe_Idle4-1 = "Sabe me dizer se tem algum botão de lançamento super importante de bobeira por aí……?" 
+20018-CVGroup_Cafe_Idle5-1 = "Kuhihi……" 
+20018-CVGroup_WeaponGet_Idle1-1 = "Pistola RABBIT Tipo-224, recebida com sucesso.\n……Ei, isso aqui é miudinho demais, tem certeza que a potência dela aguenta o tranco?" 

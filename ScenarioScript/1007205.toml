@@ -1,113 +1,57 @@
-[translation]
-1007205-1 = "O que se esconde nas planícies de maré"
-
-1007205-2 = "(Recebi uma mensagem de Saki e fui para a planície de maré no lado oeste da vila.)"
-
-1007205-7 = "Ah, Sensei. Isso foi rápido..."
-
-1007205-12 = "...Então, por que você veio com roupas casuais?"
-
-1007205-13 = "[s] \"Há algum problema...?\""
-
-1007205-14 = "Eu disse para você ir para as planícies das marés. Mas não acredito que você veio vestido assim..."
-
-1007205-15 = "...Mesmo que a lama não caia depois você não vai saber, né?"
-
-1007205-16 = "[s1] \"De qualquer forma, calcei minhas botas.\"\n[s2] \"Estou observando Saki pegá-lo.\""
-
-1007205-19 = "Talvez você esteja subestimando as planícies de maré?"
-
-1007205-20 = "É tão perigoso que todos os anos ocorrem acidentes por ficar preso na lama."
-
-1007205-21 = "Depois que ambas as pernas estão presas, é quase impossível escapar sozinho."
-
-1007205-22 = "A maré sobe gradualmente e torna-se perigosa quando atinge a maré alta."
-
-1007205-23 = "Portanto, mesmo que suas roupas fiquem sujas, é seguro mover-se com um centro de gravidade mais baixo."
-
-1007205-24 = "Há moradores da vila por perto hoje, então tenho certeza que eles poderão ajudar em caso de emergência..."
-
-1007205-25 = "[s] \"Ok, terei cuidado.\""
-
-1007205-26 = "ah. Eu não me importo se ficar sujo, então deixe comigo para tirá-lo."
-
-1007205-30 = "...Então vamos começar."
-
-1007205-35 = "Sensei, olhe! É Mategai!"
-
-1007205-36 = "Quando coloquei a mão no buraco, peguei facilmente!"
-
-1007205-37 = "Foi tão fácil... qual foi o problema antes?"
-
-1007205-39 = "Huh? Tem um buraco aqui também..."
-
-1007205-40 = "vamos ver......"
-
-1007205-44 = "Não é um goby desta vez?"
-
-1007205-45 = "Parece interessante, mas fica delicioso quando comido na panela quente."
-
-1007205-46 = "Hehe. Cada vez que coloco a mão num buraco, consigo pegar mariscos e peixes. #nÉ como abrir um baú de tesouro."
-
-1007205-47 = "[s] \"Saki é habilidoso.\""
-
-1007205-48 = "Claro. Os membros da SRT devem se adaptar a qualquer ambiente."
-
-1007205-49 = "Como homem de ponta do pelotão COELHO, não há nada melhor do que um inimigo escondido na lama!"
-
-1007205-53 = "Ah, tem um buraco aqui também."
-
-1007205-54 = "Eu me pergunto o que vai sair desta vez..."
-
-1007205-61 = "Eu peguei!"
-
-1007205-67 = "sim……?"
-
-1007205-68 = "...O que é isso?"
-
-1007205-73 = "Peguei algo que parecia um pepino do mar vermelho, macio e nojento..."
-
-1007205-74 = "Ei, Sensei... você sabe o que é isso?"
-
-1007205-75 = "[s] \"Desculpe, eu também não sei...\""
-
-1007205-82 = "Ah, não é Yumushi?"
-
-1007205-83 = "Hum, Yumushi...?"
-
-1007205-84 = "As pessoas na cidade podem nunca ter visto isso."
-
-1007205-89 = "Muitas vezes, Yumushi pode ser capturado em planícies de maré. É frequentemente usado como isca de pesca para caça grossa, mas também pode ser consumido como sashimi ou em conserva em vinagre."
-
-1007205-90 = "Não é uma forma estranha? No entanto, a doçura e a riqueza sutis são viciantes. #nÉ um ingrediente popular entre os gourmets."
-
-1007205-91 = "Haha, vocês estão com sorte!"
-
-1007205-98 = "……Sensei."
-
-1007205-99 = "Você poderia me ajudar por um momento?"
-
-1007205-100 = "[s] \"P-por que...?\""
-
-1007205-101 = "Essa coisa chamada Yumushi... ela se move na minha mão e cospe água de peixe..."
-
-1007205-102 = "Quero me desapegar o mais rápido possível..."
-
-1007205-103 = "[s] \"E se eu deixar ir...?\""
-
-1007205-104 = "Seu Sensei também não ouviu o que eu disse antes? #nParece ser um ingrediente popular entre os gourmets!"
-
-1007205-105 = "É nojento, mas desistir dos ingredientes que você trabalhou tanto para conseguir..."
-
-1007205-106 = "É possível?"
-
-1007205-110 = "Então... eu gostaria que a Senseia cuidasse desse cara..."
-
-1007205-111 = "[s] Fuja."
-
-1007205-116 = "Ei, espere!"
-
-1007205-121 = "(...Depois disso, Saki correu em minha direção, jogando lama em mim, e fui pego e forçado a segurar Yumushi.)"
-
-1007205-122 = "(Yumushi comido como sashimi estava surpreendentemente delicioso)"
-
+[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 21/06.]
+1007205-1 = "Aquilo Que Espreita na Planície de Lama" 
+1007205-2 = "（Recebi a mensagem da Saki e fui até a área de maré baixa no lado oeste da vila.）" 
+1007205-7 = "Opa, Sensei. Chegou rápido..." 
+1007205-12 = "......Espera, por que você veio usando as suas roupas de passeio?" 
+1007205-13 = "[s] \"Tem algum problema nisso...?\"" 
+1007205-14 = "Eu avisei que iríamos entrar na planície de lama. E você aparece vestido assim..." 
+1007205-15 = "......Eu não vou me responsabilizar se você ficar atolado na lama depois." 
+1007205-16 = "[s1] \"De qualquer forma, eu coloquei um par de botas de borracha.\"\n[s2] \"Vou ficar aqui te observando coletar os mariscos.\"" 
+1007205-19 = "Por acaso, você tá subestimando as planícies de lama?" 
+1007205-20 = "Isso aqui é tão perigoso que todo ano rola acidentes de pessoas tendo os pés engolidos pela lama." 
+1007205-21 = "Se os seus dois pés afundarem e atolarem, é praticamente impossível escapar sozinho." 
+1007205-22 = "Se o nível da água subir com você atolado e a maré cheia chegar, você morre." 
+1007205-23 = "Por isso, a forma mais segura de se mover aqui é mantendo o centro de gravidade bem baixo, mesmo que isso signifique sujar a sua roupa de lama." 
+1007205-24 = "Como tem vários moradores por perto hoje, acho que nos ajudariam se acontecesse algo, mas..." 
+1007205-25 = "[s] \"Entendido, vou tomar bastante cuidado.\"" 
+1007205-26 = "Isso. Deixa a coleta comigo, já que eu não me importo de me sujar de lama." 
+1007205-30 = "......Beleza, vou começar." 
+1007205-35 = "Sensei, olha lá! É um lingueirão (navaja)!" 
+1007205-36 = "Eu enfiei a mão num buraco ali e ele saiu super fácil!" 
+1007205-37 = "Pra que todo aquele meu trabalho antes... Isso aqui é moleza." 
+1007205-39 = "Ué? Tem mais um buraco aqui..." 
+1007205-40 = "Deixa eu ver o que tem..." 
+1007205-44 = "Dessa vez foi um góbio (haze)!" 
+1007205-45 = "Ele tem uma cara meio esquisita, mas é uma delícia se você fizer num ensopado." 
+1007205-46 = "Fufu. A cada vez que eu enrabanho a mão num buraco eu pego um peixe ou um marisco diferente.\nParece que tô abrindo um baú do tesouro atrás do outro." 
+1007205-47 = "[s] \"Você é muito habilidosa, Saki.\"" 
+1007205-48 = "É o mínimo, ué. Os membros da SRT têm a obrigação de se adaptar a qualquer ambiente que seja." 
+1007205-49 = "Como a operadora de vanguarda do Esquadrão RABBIT, fazer uma varredura por alvos escondidos debaixo da lama não é problema nenhum!" 
+1007205-53 = "Ah, tem mais um buraco aqui." 
+1007205-54 = "Vamos ver o que vai sair dessa vez..." 
+1007205-61 = "Peguei!" 
+1007205-67 = "Hm...?" 
+1007205-68 = "......Que porra é essa?" 
+1007205-73 = "Eu tirei uma coisa lisa que se parece muito com um pepino do mar vermelho, com um formato meio enojante..." 
+1007205-74 = "S-Sensei... Você faz alguma ideia do que seja essa criatura?" 
+1007205-75 = "[s] \"Me desculpe, eu não sei te dizer...\"" 
+1007205-82 = "Opa, isso aí é um Urechis (Verme-gordo-do-mar)." 
+1007205-83 = "U-Urechis...?" 
+1007205-84 = "Provavelmente o pessoal da cidade nunca viu um bichinho desses na vida." 
+1007205-89 = "Você encontra bastantes Urechis aqui nessas áreas de maré baixa. A gente costuma usar eles como isca viva pra pescar peixes grandes, mas você também pode comer cru como sashimi ou em conserva de vinagre." 
+1007205-90 = "Eles têm uma aparência meio bizarra, eu admito. Mas depois daquela doçura sutil e o sabor umami explodindo na boca, você nunca mais esquece.\nÉ uma iguaria extremamente aclamada pelos gourmets e culinaristas." 
+1007205-91 = "Hahaha, vocês estão com a sorte grande hoje!" 
+1007205-98 = "......Sensei." 
+1007205-99 = "Por favor... estenda as suas mãos." 
+1007205-100 = "[s] \"P-Por quê...?\"" 
+1007205-101 = "Essa tal de criatura Urechis... ela não para de se contorcer na minha mão e fica cuspindo uma água fedorenta com cheiro de peixe, então..." 
+1007205-102 = "Eu quero soltar isso aqui o mais rápido possível..." 
+1007205-103 = "[s] \"E por que você não só joga ele fora...?\"" 
+1007205-104 = "Você não ouviu o que o morador acabou de dizer!?\nÉ uma iguaria valiosa que os culinaristas adoram!" 
+1007205-105 = "Mesmo sendo nojento, jogar fora algo tão difícil de conseguir assim..." 
+1007205-106 = "É inaceitável!" 
+1007205-110 = "Por isso, ahm... Eu queria pedir pra você guardar ele pra mim, Sensei..." 
+1007205-111 = "[s] Correr por sua vida." 
+1007205-116 = "Ei, volta aqui seu covarde!" 
+1007205-121 = "（......Depois disso, a Saki saiu correndo no meu encalço jogando lama para todos os lados, me pegou de jeito e esfregou o Urechis nas minhas mãos à força.）" 
+1007205-122 = "（E o tal sashimi de Urechis que fizemos mais tarde acabou sendo uma grata e deliciosa surpresa.）" 

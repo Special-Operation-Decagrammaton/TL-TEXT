@@ -1,4 +1,4 @@
-[translation]
+[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 21/06.]
 10139-StatusMessageJp = "Para pedidos no ＜FOX EATS＞, favor usar o aplicativo."
 10139-FullNameJp = "Yoshino Niko"
 10139-FamilyNameJp = "Yoshino"
@@ -8,6 +8,6 @@
 10139-BirthdayJp = "11 de Fevereiro"
 10139-HobbyJp = "Culinária (especialmente Inarizushi)"
 10139-WeaponNameJp = "Escopeta FOX-870"
-10139-WeaponDescJp = "Escopeta de serviço fornecida pela Academia Especial SRT.\n\nOperada por mecanismo de bombeamento (pump-action), exibe um excelente desempenho mesmo em operações de arrombamento tático (breaching)."
-10139-ProfileIntroductionJp = "Vice-líder do Esquadrão FOX, pertencente à Academia Especial SRT. Call sign: «FOX2».\n\nDona de uma personalidade gentil, calorosa e serena, ela consegue se dar bem com qualquer pessoa facilmente. Por conta disso, muitas calouras da Academia SRT recorrem a ela em busca de apoio, independentemente de seus respectivos esquadrões. É especialista em infiltração e operações de camuflagem, acumulando também a função de gerenciar e administrar a logística interna do esquadrão.\n\nSua maior habilidade é preparar Inarizushi. Ela costuma fazê-los com frequência como parte das marmitas para as membras de sua equipe, e seu sabor é tão extraordinário que se tornou extremamente popular e aclamado dentro de toda a SRT."
+10139-WeaponDescJp = "Escopeta de serviço fornecida pela Academia Especial SRT.\n\nOperada por mecanismo de bombeamento (pump-action),\nexibe um excelente desempenho mesmo em operações\nde arrombamento tático (breaching)."
+10139-ProfileIntroductionJp = "Vice-líder do Esquadrão FOX, pertencente à\nAcademia Especial SRT. Call sign: «FOX2».\n\nDona de uma personalidade gentil, calorosa e serena,\nela consegue se dar bem com qualquer pessoa facilmente.\nPor conta disso, muitas calouras da Academia SRT\nrecorrem a ela em busca de apoio, independentemente\nde seus respectivos esquadrões. É especialista em\ninfiltração e operações de camuflagem, acumulando\ntambém a função de gerenciar e administrar a\nlogística interna do esquadrão.\n\nSua maior habilidade é preparar Inarizushi. Ela costuma\nfazê-los com frequência como parte das marmitas\npara as membras de sua equipe, e seu sabor é tão\nextraordinário que se tornou extremamente popular\ne aclamado dentro de toda a SRT."
 10139-CharacterSSRNewJp = "FOX2, todos os preparativos de suprimento estão prontos."

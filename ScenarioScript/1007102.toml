@@ -1,113 +1,57 @@
-[translation]
-1007102-1 = "SRT, comprar"
-
-1007102-3 = "(As coordenadas enviadas por Miyako foram para um local inesperado)"
-
-1007102-5 = "Na frente de D.U. Loja de departamentos Chuo"
-
-1007102-7 = "[ns] \"...Está correto aqui?\""
-
-1007102-8 = "(A localização não parecia estar relacionada ao equipamento operacional, então pensei que poderia ter errado as coordenadas, mas...)"
-
-1007102-12 = "Ah, Senseia. Você já está aqui. Aqui está."
-
-1007102-13 = "Fiquei aliviado ao ver que eles haviam chegado em segurança."
-
-1007102-14 = "Bem, conseguimos nos encontrar, então vamos para o ponto alvo..."
-
-1007102-15 = "[s] \"Espere um minuto, Miyako.\""
-
-1007102-19 = "O que está errado...?"
-
-1007102-20 = "[s1] \"Se bem me lembro, era uma pergunta sobre equipamento SRT.\"\n[s2] \"Mas por que você foi a uma loja de departamentos...?\""
-
-1007102-23 = "Ah... isso certamente é verdade."
-
-1007102-24 = "Minha explicação foi insuficiente. desculpe."
-
-1007102-25 = "[s3] \"Não, você não precisa se desculpar.\"\n[s4] \"Só estou curioso para saber o motivo.\""
-
-1007102-28 = "Bem... outro dia, recebi um vale-presente de uma loja de departamentos de um cliente com quem fui designado para fazer um trabalho."
-
-1007102-29 = "A princípio recusei a oferta porque era muito grande, mas como não tenho planos de utilizá-la e o prazo está próximo, ficaria feliz se você pudesse me dar..."
-
-1007102-30 = "Já que estou aqui, estou pensando em adquirir o equipamento necessário para minhas operações de verão. #nNo entanto, a área de vendas da loja de departamentos é mais ampla do que eu esperava..."
-
-1007102-31 = "Na SRT Academy eu vivia dos materiais que recebia, então não estou acostumada a fazer compras assim."
-
-1007102-32 = "Gostaria de receber alguns conselhos do meu Sensei para não desperdiçar meu vale-presente."
-
-1007102-33 = "[s5] \"Também não sei muito sobre equipamentos de camping...\"\n[s6] \"Vou ajudá-lo com o melhor que puder.\""
-
-1007102-36 = "Obrigado, senhor."
-
-1007102-40 = "Então vamos começar pelas capas que protegem seus eletrodomésticos da chuva e da umidade."
-
-1007102-42 = "(Depois, Miyako e eu fomos até a loja de departamentos e compramos coisas necessárias para o acampamento de verão.)"
-
-1007102-45 = "……Eu vejo. Esses tablets podem ser adquiridos mais baratos se você os comprar a granel."
-
-1007102-46 = "Obrigado, senhor. #nObrigado por me poupar dinheiro."
-
-1007102-47 = "[s] \"Não é grande coisa.\""
-
-1007102-48 = "Pessoas ingênuas como nós tendem a perder porque há muitas coisas que não sabemos."
-
-1007102-49 = "Em momentos como este, seria muito útil receber conselhos de um adulto de confiança."
-
-1007102-50 = "Bem, o que mais você precisa..."
-
-1007102-54 = "O que é isso...?"
-
-1007102-55 = "[s] \"É o canto do maiô.\""
-
-1007102-56 = "Existem tantos tipos diferentes de trajes de banho por aí..."
-
-1007102-57 = "Era. Também preciso preparar novos trajes de banho para operações subaquáticas."
-
-1007102-58 = "Quando saí da SRT Academy, não tive tempo de levar meu maiô comigo..."
-
-1007102-59 = "Hum..."
-
-1007102-67 = "Ah, isso... é fofo..."
-
-1007102-68 = "[s] \"Você gosta desse maiô?\""
-
-1007102-72 = "Ah... não..."
-
-1007102-73 = "Ah, hum..."
-
-1007102-77 = "Certamente, chamou minha atenção..."
-
-1007102-78 = "Fatos de banho como estes não são adequados para operações..."
-
-1007102-79 = "Os babados dificultam a movimentação e não há bolsos, por isso pode ser difícil transportar o equipamento."
-
-1007102-80 = "Portanto, esse maiô ficaria melhor porque é feito de material durável e tem bolsos."
-
-1007102-81 = "[s7] \"Existem várias missões. Por exemplo...\"\n[s8] \"Se você quiser se misturar com os turistas, acho que um maiô fofo seria uma boa ideia.\""
-
-1007102-84 = "Bem, quando você diz isso, estou definitivamente preocupado..."
-
-1007102-85 = "Como líder de pelotão de um pelotão RABBIT, você deve carregar sempre a quantidade mínima de equipamento com você."
-
-1007102-86 = "Equipamento de rádio para compartilhamento de informações e munições sobressalentes... #nUm kit de primeiros socorros caso algo dê errado..."
-
-1007102-87 = "Não importa o quão leve você seja, você ainda precisa de espaço de armazenamento."
-
-1007102-88 = "...Então, como esperado. #nDevo priorizar a praticidade em vez da minha preferência pessoal."
-
-1007102-89 = "[ns] \"...Se você não tiver espaço, eu seguro para você.\""
-
-1007102-90 = "Agradeço seu conselho, mas não sei quando ou como precisarei do equipamento."
-
-1007102-91 = "Não posso procurar um Sensei sempre..."
-
-1007102-92 = "[ns] \"Então você não precisa se preocupar.\""
-
-1007102-96 = "[ns] \"Durante a operação, estarei sempre ao lado de Miyako.\""
-
-1007102-103 = "……sim!"
-
-1007102-105 = "(Mais tarde, depois de comprar um maiô fofo, voltei ao parque dos coelhos bebês com Miyako.)"
-
+[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 21/06.]
+1007102-1 = "SRT, Iniciando Compra" 
+1007102-3 = "（As coordenadas que Miyako enviou apontavam para um local inesperado.）" 
+1007102-5 = "Em frente à Loja de Departamentos Central de D.U." 
+1007102-7 = "[ns] \"……É aqui mesmo?\"" 
+1007102-8 = "（Achei que ela tivesse errado as coordenadas, já que o lugar não parecia ter relação com equipamentos táticos, mas……）" 
+1007102-12 = "Ah, Sensei. Você já chegou. É por aqui." 
+1007102-13 = "Que alívio ver que chegou em segurança." 
+1007102-14 = "Bom, já que nos encontramos, vamos direto para o local alvo……" 
+1007102-15 = "[s] \"Espera um pouco, Miyako.\"" 
+1007102-19 = "Ocorreu algum problema……?" 
+1007102-20 = "[s1] \"Você disse que queria conversar sobre equipamentos da SRT, certo?\"\n[s2] \"Então, por que estamos numa loja de departamentos……?\"" 
+1007102-23 = "Ah…… Tem razão." 
+1007102-24 = "Faltou explicação da minha parte. Peço desculpas." 
+1007102-25 = "[s3] \"Não, não precisa se desculpar.\"\n[s4] \"Eu só fiquei curioso sobre o motivo.\"" 
+1007102-28 = "É que…… Outro dia, recebemos vales-presente de uma loja de departamentos de um cliente." 
+1007102-29 = "O valor era tão alto que recusei de início, mas ele insistiu dizendo que ficaria feliz se aceitássemos, pois não tinha planos de usar e a validade estava próxima……" 
+1007102-30 = "Já que estamos com eles, pensei em comprar os equipamentos necessários para as nossas operações de verão.\nSó que…… o setor de vendas era muito maior do que eu imaginava……" 
+1007102-31 = "Como vivíamos apenas com os suprimentos fornecidos pela Academia SRT…… não estou muito acostumada com esse tipo de compra." 
+1007102-32 = "Para não desperdiçar os vales-presente, gostaria de pedir os seus conselhos, Sensei." 
+1007102-33 = "[s5] \"Eu também não entendo muito de equipamentos de acampamento, mas……\"\n[s6] \"Vou ajudar no que eu puder.\"" 
+1007102-36 = "Muito obrigada, Sensei." 
+1007102-40 = "Então, vamos primeiro olhar as capas protetoras para proteger os aparelhos eletrônicos da chuva e da umidade." 
+1007102-42 = "（Depois disso, andei pela loja com a Miyako e compramos os itens necessários para acampar no verão.）" 
+1007102-45 = "……Entendo. Então, comprar esse tipo de pastilha purificadora em grandes quantidades sai mais barato." 
+1007102-46 = "Muito obrigada, Sensei.\nGraças a você, conseguimos economizar." 
+1007102-47 = "[s] \"Não fiz nada demais.\"" 
+1007102-48 = "Pessoas com pouca experiência de vida como nós não conhecem muitas coisas e acabam saindo no prejuízo facilmente." 
+1007102-49 = "Receber conselhos de um adulto confiável em momentos assim é de grande ajuda." 
+1007102-50 = "Ahn, o que mais precisamos é……" 
+1007102-54 = "Ué, aqui é a……?" 
+1007102-55 = "[s] \"Seção de trajes de banho.\"" 
+1007102-56 = "Existem tantos tipos diferentes de trajes de banho…… nunca imaginei que fossem tantos assim." 
+1007102-57 = "É verdade. Precisamos preparar novos trajes de banho para as operações aquáticas." 
+1007102-58 = "Quando saímos da Academia SRT, não tínhamos espaço e acabamos não trazendo os nossos trajes de banho……" 
+1007102-59 = "Hmm……" 
+1007102-67 = "Ah, esse aqui…… é fofinho……" 
+1007102-68 = "[s] \"Gostou desse traje de banho?\"" 
+1007102-72 = "A-Ah…… n-não……" 
+1007102-73 = "Hã, b-bom……" 
+1007102-77 = "É verdade que chamou a minha atenção, mas……" 
+1007102-78 = "Um traje de banho como este não é adequado para operações……" 
+1007102-79 = "Os babados parecem dificultar a movimentação e não há bolsos, o que dificulta carregar equipamentos." 
+1007102-80 = "Por isso, este traje de banho aqui, feito de material resistente e com bolsos, parece ser a melhor escolha." 
+1007102-81 = "[s7] \"Existem vários tipos de missões, sabe. Por exemplo……\"\n[s8] \"Se for para se misturar com os turistas, acho que um traje de banho fofo é a melhor opção.\"" 
+1007102-84 = "S-Se você diz isso, eu realmente fico em dúvida, mas……" 
+1007102-85 = "Como comandante do Esquadrão RABBIT, preciso carregar o mínimo de equipamento necessário o tempo todo." 
+1007102-86 = "Rádios para comunicação, munição reserva……\nE um kit de primeiros socorros para qualquer emergência……" 
+1007102-87 = "Por mais que eu tente reduzir o peso, ainda preciso de espaço de armazenamento." 
+1007102-88 = "……Então, no fim das contas.\nEu devo priorizar a praticidade em vez dos meus gostos pessoais." 
+1007102-89 = "[ns] \"……Se não tem espaço, eu carrego para você.\"" 
+1007102-90 = "Agradeço a oferta, mas não sabemos quando ou em que situação o equipamento será necessário." 
+1007102-91 = "Não posso ficar procurando por você toda vez que precisi――" 
+1007102-92 = "[ns] \"Nesse caso, não precisa se preocupar.\"" 
+1007102-96 = "[ns] \"Durante as operações, eu estarei sempre ao seu lado, Miyako.\"" 
+1007102-103 = "……Certo!" 
+1007102-105 = "（Depois disso, comprei o traje de banho fofo e retornei ao Parque dos Coelhinhos com a Miyako.）" 

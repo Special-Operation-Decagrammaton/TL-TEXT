@@ -1,105 +1,53 @@
-[translation]
-1014008-1 = "raposa se despedindo"
-
-1014008-2 = "(Um dia, quando a reunião do Conselho Estudantil da Federação se arrastou)"
-
-1014008-3 = "(Quando saí da estação e voltei para a placa de Petri...)"
-
-1014008-8 = "[ns1] \"Luzes de rua...?\"\n[ns2] \"...A estrada está escura.\""
-
-1014008-12 = "[ns] \"Uau!?\""
-
-1014008-14 = "[ns3] (Está tão escuro que sinto que vou cair)\n[ns4] (Não sobrou ninguém...)"
-
-1014008-18 = "Um ladrão apareceu recentemente nesta cidade."
-
-1014008-19 = "Aparentemente, eles seguem as pessoas em lugares isolados e roubam coisas como carteiras."
-
-1014008-22 = "[ns] \"Temos que nos apressar...\""
-
-1014008-26 = "[ns] (Alguém está me seguindo...?)"
-
-1014008-30 = "[ns5] \"H-Por favor me ajude!\"\n[ns6] \"Ou não tenho nada de valor...!\""
-
-1014008-33 = "...O que você está falando?"
-
-1014008-37 = "Você achou que eu era um ladrão?"
-
-1014008-38 = "[s7] \"Kurumi...Bom.\"\n[s8] \"...Achei que você estava sendo seguido.\""
-
-1014008-41 = "Eu o vi voltando da loja de conveniência para casa, então o segui... mas descobri que ele era o Sensei."
-
-1014008-42 = "Se você estava tão assustado, por que estava andando sozinho à noite?"
-
-1014008-43 = "...Você disse que poderia entrar em contato comigo."
-
-1014008-44 = "[s] \"Acho que está tudo bem porque estarei aí em breve.\""
-
-1014008-45 = "É muito fofo."
-
-1014008-46 = "Se você fizer isso, algum dia você será atacado por uma garota má, certo?"
-
-1014008-47 = "[s9] \"A propósito, você tem uma lanterna?\"\n[s10] \"Está muito escuro para ver o caminho.\""
-
-1014008-50 = "Uma lanterna? Eu não tenho isso agora."
-
-1014008-51 = "Se o seu smartphone tiver função de luz..."
-
-1014008-55 = "Ei, só tenho 10% de bateria restante."
-
-1014008-56 = "[s] \"E o escudo de flash de Kurumi?\""
-
-1014008-57 = "Esta é uma luz temporária e não é adequada para iluminar o caminho."
-
-1014008-58 = "Além disso, se você fizer algo assim tão tarde da noite, vai incomodar os vizinhos, certo?"
-
-1014008-59 = "[s] \"Você está certo...\""
-
-1014008-65 = "Aqui, segure minha mão."
-
-1014008-66 = "Você pode ver assim e enxergar bem à noite, então se você me seguir não acho que vai cair."
-
-1014008-67 = "...Preciso segurar sua mão?"
-
-1014008-68 = "Ei, não quero dizer nada estranho! ? Na verdade, esta é uma tática comumente usada!"
-
-1014008-69 = "Por favor, não entenda mal! Ei, segure minha mão corretamente!"
-
-1014008-73 = "(Eu andei pelo beco escuro enquanto segurava a mão de Kurumi)"
-
-1014008-75 = "[ns] \"Kurumi... está acostumada com esse tipo de situação.\""
-
-1014008-76 = "Claro. O trabalho do apontador é liderar a equipe."
-
-1014008-77 = "Fique na frente mesmo em lugares escuros e ilumine o caminho. É sempre o mesmo."
-
-1014008-78 = "Mas não consigo relaxar."
-
-1014008-79 = "E se eu seguir o caminho errado no escuro..."
-
-1014008-80 = "Você estará colocando todos em risco."
-
-1014008-81 = "Cada vez que dou um passo, sinto uma onda de medo."
-
-1014008-83 = "...Eu me pergunto se posso levar todos na direção certa."
-
-1014008-84 = "[s11] \"A escuridão deixa você mais ansioso.\"\n[s12] \"Você não consegue ver nada a menos que dê um passo à frente.\""
-
-1014008-88 = "sim. Isso me deixa ansioso--"
-
-1014008-89 = "[s] \"Mas você está segurando minha mão agora, não está?\""
-
-1014008-90 = "…………."
-
-1014008-91 = "[s13] \"Se Kurumi estiver prestes a perder o equilíbrio, eu irei apoiá-la.\"\n[s14] \"É por isso que o pelotão tem apoio.\""
-
-1014008-94 = "Hehe, até o Sensei começou a dizer coisas que pareciam forças especiais."
-
-1014008-95 = "Sim. Dar as mãos não serve apenas para guiar a outra pessoa."
-
-1014008-96 = "Portanto, Sensei--"
-
-1014008-100 = "Nunca solte esta mão."
-
-1014008-102 = "(Depois, ele voltou para a placa de Petri segurando a mão de Kurumi.)"
-
+[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 21/06.]
+1014008-1 = "Uma Raposa Acompanhante" 
+1014008-2 = "（Um dia em que a reunião do Conselho Estudantil Geral\nse estendeu.）" 
+1014008-3 = "（A caminho de volta para a Schale\napós sair da estação……）" 
+1014008-8 = "[ns1] \"Os postes de luz estão……？\"\n[ns2] \"……A rua está tão escura.\"" 
+1014008-12 = "[ns] \"Uwah?!\"" 
+1014008-14 = "[ns3] （Quase tropecei por causa da escuridão.）\n[ns4] （E não tem uma alma viva por aqui……）" 
+1014008-18 = "Ouvi dizer que um assaltante\ntem rondado a cidade recentemente." 
+1014008-19 = "Dizem que ele segue as pessoas em lugares desertos\npara roubar suas carteiras." 
+1014008-22 = "[ns] \"Preciso\nme apressar……\"" 
+1014008-26 = "[ns] （Tem alguém me seguindo……？）" 
+1014008-30 = "[ns5] \"P-Por favor, me ajude!\"\n[ns6] \"E-Eu não tenho nada de valor……！\"" 
+1014008-33 = "……O que você está falando?" 
+1014008-37 = "Não me diga que você me confundiu\ncom o assaltante?" 
+1014008-38 = "[s7] \"Era você, Kurumi…… que alívio.\"\n[s8] \"……Pensei que estivesse sendo seguido.\"" 
+1014008-41 = "Eu te vi enquanto voltava da loja de conveniência e decidi te seguir……\nEra você mesmo." 
+1014008-42 = "Se estava com tanto medo, por que decidiu\nandar sozinho numa rua escura dessas?" 
+1014008-43 = "……Eu já te disse que\nvocê sempre pode me ligar nessas horas." 
+1014008-44 = "[s] \"Achei que estaria tudo bem\njá que estou perto.\"" 
+1014008-45 = "Você é muito ingênuo." 
+1014008-46 = "Desse jeito, algum dia\nvocê vai acabar sendo pego por um garoto mau, sabia?" 
+1014008-47 = "[s9] \"Deixando isso de lado, você tem uma lanterna?\"\n[s10] \"Está tão escuro que mal consigo enxergar o chão.\"" 
+1014008-50 = "Lanterna?\nNão tenho nenhuma aqui no momento." 
+1014008-51 = "Acho que a lanterna do celular deve servir……" 
+1014008-55 = "Aff,\nsó tenho 10% de bateria." 
+1014008-56 = "[s] \"E o seu\nescudo tático?\"" 
+1014008-57 = "Isso só emite um feixe de luz repentino para cegar,\nnão serve para iluminar o caminho." 
+1014008-58 = "Além disso, se eu disparasse aquilo no meio da noite,\nincomodaria a vizinhança inteira, não acha?" 
+1014008-59 = "[s] \"Faz sentido……\"" 
+1014008-65 = "Aqui,\nsegure a minha mão." 
+1014008-66 = "Pode não parecer, mas eu enxergo muito bem no escuro.\nSe me seguir, prometo que não vai tropeçar." 
+1014008-67 = "……Você pergunta se tem mesmo necessidade\nde darmos as mãos?" 
+1014008-68 = "N-Não vá pensar coisas estranhas, tá bom?!\nIsso é uma tática militar legítima e bem comum!" 
+1014008-69 = "N-Não entenda errado!\nSegura logo a minha mão!" 
+1014008-73 = "（Caminhei pela rua escura\nguiado pelas mãos da Kurumi.）" 
+1014008-75 = "[ns] \"Você parece……\nbem acostumada com esse tipo de situação, Kurumi.\"" 
+1014008-76 = "É claro.\nO trabalho de um Pointman é liderar o grupo." 
+1014008-77 = "Ficar na vanguarda para iluminar o caminho\nem locais com baixa visibilidade. É rotina." 
+1014008-78 = "Mas eu nunca posso baixar a guarda." 
+1014008-79 = "Se eu errar o passo na escuridão……" 
+1014008-80 = "Acabarei colocando\ntodas as minhas companheiras em perigo." 
+1014008-81 = "A cada passo que eu dou,\no medo tenta tomar conta." 
+1014008-83 = "……Fico me perguntando se realmente\nestou guiando todos na direção certa." 
+1014008-84 = "[s11] \"A escuridão tem o poder de ampliar as nossas ansiedades.\"\n[s12] \"Pois não conseguimos ver nada\naté darmos o próximo passo.\"" 
+1014008-88 = "Exato. É isso\nque me deixa tão instáv――" 
+1014008-89 = "[s] \"Porém, você está segurando\na minha mão agora, não é?\"" 
+1014008-90 = "…………" 
+1014008-91 = "[s13] \"Se você estiver prestes a dar um passo em falso,\neu estarei aqui para segurá-la.\"\n[s14] \"É exatamente para isso que o seu esquadrão\nserve de apoio na retaguarda.\"" 
+1014008-94 = "Fufu,\no Sensei até que sabe dizer coisas dignas das forças especiais." 
+1014008-95 = "É verdade. Mãos dadas não servem apenas\npara guiar alguém." 
+1014008-96 = "Portanto,\nSensei――" 
+1014008-100 = "Você está estritamente proibido\nde soltar a minha mão." 
+1014008-102 = "（Depois disso, caminhamos de mãos dadas\no percurso inteiro até a Schale.）" 
