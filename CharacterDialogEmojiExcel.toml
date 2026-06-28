@@ -1,8 +1,8 @@
 [translation]
-1-0-Talk-1 = "It's quite noisy around here..."
-1-1-Think-1 = "(A Gehenna party, huh...)"
-3-0-Think-1 = "Now I can enter through the ventilation shaft."
-3-0-Think-2 = "Oh dear, I need to hurry and move out."
+1-0-Talk-1 = "Что-то здесь довольно шумно..."
+1-1-Think-1 = "(А, вечеринка Геенны... Ну конечно...)"
+3-0-Think-1 = "Так, теперь я смогу пролезть через вентиляционную шахту."
+3-0-Think-2 = "Ох, надо поторапливаться и уходить отсюда."
 7-0-Talk-1 = "1"
 7-0-Talk-2 = "2"
 8-0-Talk-1 = "2"
