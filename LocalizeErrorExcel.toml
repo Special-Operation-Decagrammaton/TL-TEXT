@@ -1,7 +1,40 @@
-[translation]#LocalizeSkillExcel: Organizado Versão 0.0.0_00a
+[translation]#LocalizeSkillExcel Organizado. (Versão 0.0.0_0a).
 
-#Amigos:
+# === === === === === === === === === === === === === === === === === === ===
+
+# +++ +++ +++ Amigos: +++ +++ +++
 1989089883 = "Nenhum usuário encontrado. Por favor, pesquise novamente."
+
+# === === === === === === === === === === === === === === === === === === ===
+
+# +++ +++ +++ Recrutamento Seletivo: +++ +++ +++
+936218380 = "Ainda existem bilhetes que não foram usados.\nPor favor, os use até o tempo estipulado abaixo."
+2100477460 = "O Bilhete de Seleção de Aluna ★3 não se encontra.\nSomente após sua compra é que as alunas poderão ser escolhidas."
+1703914045 = "A compra deste produto está disponível só uma vez por conta."
+
+# === === === === === === === === === === === === === === === === === === ===
+
+# +++ +++ +++ Clubes: +++ +++ +++
+469714755 = "Este clube não existe."
+3604544587 = "Nenhum clube correspondente\naos critérios de pesquisa\nfoi encontrado."
+199871244 = "Por favor, insira um nome."
+967534405 = "Você já pertence a um clube."
+1998286387 = "Você já saiu do clube."
+2148321055 = "Você não pode criar um clube."
+1143382744 = "Este clube está cheio."
+3299212715 = "Você não possui\na permissão para modificar\nas informações do clube."
+2071833767 = "Você não tem\nautorização para aprovar\nas solicitações para\nentrar no clube."
+1350002648 = "O membro não pôde ser encontrado."
+250137538 = "Os membros do clube não podem ser expulsos."
+1199549907 = "Se houver membros restantes\no clube não poderá ser fechado."
+269254824 = "Você não pode sair do clube."
+278111411 = "24 horas após ter deixado um clube\nvocê poderá criar um novo ou entrar em outro."
+569861543 = "Falha ao alteraras permissões do membro.\nPor favor, tente novamente."
+2894419798 = "O clube já foi fechado."
+3629172404 = "Ainda há usuários no clube\ncom aprovação pendente para a associação.\nAs condições de associação só podem ser alteradas\nse não houver usuários aguardando aprovação."
+2640579740 = "O limite de membros\nque podem ter essa permissão\nfoi atingido."
+
+# === === === === === === === === === === === === === === === === === === ===
 
 #Não classificado:
 3205063001 = "Não foi possível encontrar a aluna assistente selecionada."
@@ -18,7 +51,6 @@
 2711028080 = "Não foi possível encontrar as informações da conta no banco de dados."
 950826558 = "Não existe uma conta com a ID correspondente no servidor."
 1838154309 = "Esse nome de conta já existe."
-296527733 = "O nome da ID de desenvolvimento está em branco."
 2525474471 = "Não existe nenhuma conta com o nome correspondente."
 503931658 = "A conta não possui permissão de conexão."
 3296768386 = "O apelido contém espaços em branco.\nNão é permitido inserir espaços em branco no apelido."
@@ -29,9 +61,7 @@
 787750543 = "Ocorreu um problema durante a comunicação com o servidor de autenticação."
 2136129359 = "Ocorreu um problema durante o processamento da solicitação do servidor de autenticação."
 1234200571 = "Não foi possível criar a conta."
-2238395843 = "O servidor falhou ao executar o comando de trapaça."
 928524933 = "Falha ao vincular a conta com o código de autenticação."
-1004710492 = "Não é possível registrar a conta de desenvolvedor."
 491727203 = "Falha na criação da conta.\nA ID de autenticação já está em uso."
 4020319994 = "Não foi possível atualizar o status da conta."
 230738428 = "A aluna selecionada não se encontra disponível."
@@ -230,24 +260,6 @@
 2129400885 = "Uma vez definido o tratamento que usarão com você,\nela não poderá ser alterada pelas próximas 24 horas."
 3045956905 = "O tratamento não foi definido."
 4069281913 = "O tratamento contém um caractere que não pode ser usado."
-469714755 = "Esse clube não existe."
-3604544587 = "Nenhum clube correspondente aos critérios de pesquisa foi encontrado."
-199871244 = "Por favor, insira um nome."
-967534405 = "Você já pertence a um clube."
-1998286387 = "Você já saiu do clube."
-2148321055 = "Você não pode criar um clube."
-1143382744 = "Este clube está cheio."
-3299212715 = "Você não possui a permissão para modificar as informações do clube."
-2071833767 = "Você não tem autorização para aprovar as solicitações para entrar no clube."
-1350002648 = "O membro não pôde ser encontrado."
-250137538 = "Os membros do clube não podem ser expulsos."
-1199549907 = "Se houver membros restantes, o clube não poderá ser fechado."
-269254824 = "Você não pode sair do clube."
-278111411 = "24 horas após ter deixado um clube, você poderá criar um novo ou entrar em outro."
-569861543 = "Falha ao alterar as permissões do membro. Por favor, tente novamente."
-2894419798 = "O clube já foi fechado."
-3629172404 = "Ainda há usuários no clube com aprovação pendente para associação.\nAs condições para associação só podem ser alteradas se não houver usuários aguardando aprovação."
-2640579740 = "O limite de número de membros que podem ter essa permissão foi atingido."
 2226866488 = "A solicitação falhou.\nPor favor, execute-a novamente."
 3994088247 = "A solicitação falhou.\nPor favor, execute-a novamente."
 4070949931 = "Não é possível utilizar no momento."
@@ -344,9 +356,6 @@
 3587383162 = "A solicitação falhou. Por favor, tente de novo."
 1186923194 = "Você não pode enviar um pedido de amizade para você mesmo."
 3964055362 = "Este é o seu próprio Código de Amigo."
-936218380 = "Ainda existem bilhetes que não foram usados.\nPor favor, os use até o tempo estipulado abaixo."
-2100477460 = "O Bilhete de Seleção de Aluna ★3 não se encontra.\nSomente após sua compra é que as alunas poderão ser escolhidas."
-1703914045 = "A compra deste produto está disponível só uma vez por conta."
 2193719013 = "O Chefe já foi derrotado."
 2070149033 = "Esta batalha está atualmente fora de desafio."
 1682605423 = "Esta batalha está atualmente fora de desafio."
@@ -411,3 +420,9 @@
 1552023844 = "Os Relatórios de Turnos já se encontram encerrados."
 3447961601 = "Não há nenhuma recompensa de relatórios para ser reclamada."
 3146430479 = "Detectou-se uma anormalidade por aqui. Em virtude disso, todas as formas de uso para essas finalidades estarão bloqueadas por volta de uns {0} dias. Prazo para isso ser efetuado: {1}～{2}"
+
+
+# *** *** *** Desenvolvedor: *** *** *** [cliente_dev.py]
+1004710492 = "Não foi possível registrar a conta de desenvolvedor.\n[Veja as Logs]"
+2238395843 = "O servidor falhou em executar o comando de trapaça.\n[Veja as Logs]"
+296527733 = "O nome do ID de desenvolvimento está em branco..."

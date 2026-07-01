@@ -1,4 +1,36 @@
-[translation]
+[translation]#LocalizeEtcExcel Organizado. (Versão 0.0.0_0a).
+
+
+
+# [] [] [] Texto [] [] []
+# +++ +++ +++ Texto +++ +++ +++
+# *** *** *** Texto *** *** ***
+# --- --- --- Texto *** *** ***
+
+
+
+# === === === === === === === === === === === === === === === === === === ===
+
+# [] [] [] Catalogados [] [] []
+
+
+
+1336178018-NameJp = "Pontos do Limited Dash"
+1336178018-DescriptionJp = "A cada recrutamento realizado, você obterá \"Pontos do Limited Dash\". Ao acumular \"Pontos do Limited Dash\", você pode recrutar diretamente as alunas disponíveis na seleção.\n* Após o fim do período de Destaque, os Pontos do Limited Dash serão convertidos em Fragmentos de Keystone.\n[c][ff2d2c]Diferente dos Pontos de Recrutamento e dos Pontos de Arquivo, os Pontos do Limited Dash não se acumulam com pontos obtidos em outros recrutamentos.[-][/c]"
+
+2224281602-NameJp = "Pontos LimitedDash"
+2224281602-DescriptionJp = "A cada recrutamento realizado, você obterá \"Pontos LimitedDash\". Ao acumular \"Pontos LimitedDash\", você pode recrutar diretamente as alunas disponíveis na seleção.\n* Após o fim do período de Destaque, os Pontos LimitedDash serão convertidos em Fragmentos de Keystone.\n[c][ff2d2c]Diferente dos Pontos de Recrutamento e dos Pontos de Arquivo, os Pontos LimitedDash não se acumulam com pontos obtidos em outros recrutamentos.[-][/c]"
+
+
+
+
+
+
+
+
+# === === === === === === === === === === === === === === === === === === ===
+
+# [] [] [] Não-Catalogados: [] [] []
 
 1056858392-DescriptionJp = "Utilize o botão de mover a câmera no canto superior direito para avançar na batalha.\n\nExperimente incluir alunas da função Especial que tenham habilidades de cura, ou posicione uma aluna com alta defesa na extremidade esquerda da formação de Atacantes."
 1056858392-NameJp = "Dica do Estágio de Desafio do Evento 3"
@@ -8,8 +40,6 @@
 1224763257-NameJp = "Livro de Bolso Comum"
 1245710497-DescriptionJp = "(X)"
 1245710497-NameJp = "Nagomi"
-1336178018-DescriptionJp = "A cada Recrutamento realizado, você ganha 'Pontos de Impulso Limitado'. Ao juntar Pontos de Impulso Limitado, você pode convidar e recrutar diretamente uma das alunas disponíveis na lista.\n※ Após o fim do período do banner, os Pontos de Impulso Limitado serão convertidos em Fragmentos de Pedra Angular.\n[c][ff2d2c]Diferente dos Pontos de Recrutamento normais e dos Pontos de Arquivo, os Pontos de Impulso Limitado não acumulam com pontos adquiridos em outros recrutamentos.[-][/c]"
-1336178018-NameJp = "Pontos de Impulso Limitado"
 1344573550-DescriptionJp = "Um pacote contendo itens úteis para o desenvolvimento das alunas de Shanhaijing, junto com Pyroxenes.\nAo comprar, você receberá 400 Pyroxenes (bônus gratuito).\n※ Para mais detalhes, verifique o conteúdo do pacote abaixo."
 1344573550-NameJp = "Pacote de Crescimento de Shanhaijing"
 1392040287-DescriptionJp = "Um pacote contendo itens úteis para o desenvolvimento das alunas da Trinity, junto com Pyroxenes.\nAo comprar, você receberá 400 Pyroxenes (bônus gratuito).\n※ Para mais detalhes, verifique o conteúdo do pacote abaixo."
@@ -34,8 +64,6 @@
 209329490-NameJp = "Dica do Estágio de Desafio do Evento 4"
 211216920-DescriptionJp = "Um Eleph carregado com o misticismo da Kisaki (Maiô)."
 211216920-NameJp = "Eleph da Kisaki (Maiô)"
-2224281602-DescriptionJp = "A cada Recrutamento realizado, você ganha 'Pontos LimitedDash'. Ao juntar Pontos LimitedDash, você pode convidar e recrutar diretamente uma das alunas disponíveis na lista.\n※ Após o fim do período do banner, os Pontos LimitedDash serão convertidos em Fragmentos de Pedra Angular.\n[c][ff2d2c]Diferente dos Pontos de Recrutamento normais e dos Pontos de Arquivo, os Pontos LimitedDash não acumulam com pontos adquiridos em outros recrutamentos.[-][/c]"
-2224281602-NameJp = "Pontos LimitedDash"
 228571382-DescriptionJp = "(X)"
 228571382-NameJp = "Kokona (Maiô)"
 2467277919-DescriptionJp = "(X)"
@@ -96,8 +124,6 @@
 793231571-NameJp = "Aumento da Eficiência Mística da Gehenna e Trinity"
 937989806-DescriptionJp = "Você pode decorar o saguão com a sua lembrança com a Shun (Maiô)."
 937989806-NameJp = "Lobby Memorial da Shun (Maiô)"
-
-
 3609368965-NameJp = "Texto para controle de tamanho da fonte"
 3609368965-DescriptionJp = "TestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTestTest"
 3194776850-NameJp = "Escritório"

@@ -1,25 +1,26 @@
 # ============================================================
 # ÍNDICE DE CATEGORIAS (linha onde cada uma começa):
 # ============================================================
-# Abydos: linha 31
-# Arius: linha 194
-# Conselho Estudantil Geral: linha 273
-# Gehenna: linha 352
-# Gematria: linha 629
-# Highlander: linha 662
-# Hyakkiyako: linha 739
-# Kaiser: linha 996
-# Kronos: linha 1069
-# Millennium: linha 1084
-# Nephthys: linha 1407
-# Red Winter: linha 1422
-# Shanhaijing: linha 1527
-# SRT: linha 1742
-# Submundo / Gangues: linha 1827
-# Trinity: linha 2112
-# Valkyrie: linha 2433
-# Wildhunt: linha 2506
-# Outros / Desconhecidos: linha 2581
+# Abydos: linha 27
+# Arius: linha 190
+# Conselho Estudantil Geral: linha 269
+# Decagrammaton: linha 347
+# Gehenna: linha 366
+# Gematria: linha 643
+# Highlander: linha 676
+# Hyakkiyako: linha 753
+# Kaiser: linha 1014
+# Kronos: linha 1087
+# Millennium: linha 1102
+# Nephthys: linha 1425
+# Red Winter: linha 1440
+# Shanhaijing: linha 1545
+# SRT: linha 1760
+# Submundo / Gangues: linha 1857
+# Trinity: linha 2149
+# Valkyrie: linha 2470
+# Wildhunt: linha 2543
+# Outros / Desconhecidos: linha 2618
 # ============================================================
 
 [translation]
@@ -343,6 +344,24 @@
 850128089-NameJP = "Vice-Ministra da Defesa"
 850128089-NicknameJP = "Conselho Estudantil Geral"
 
+# >>> INÍCIO DA CATEGORIA: Decagrammaton <<<
+# Clubes nesta categoria: ???
+# ==================================================
+2388109509-NameJP = "Autômato Decagrammaton"
+48056105-NameJP = "Decagrammaton"
+542354905-NameJP = "Decagrammaton"
+955958550-NameJP = "Decagrammaton"
+1319864298-NameJP = "Ein"
+1463485367-NameJP = "Ein"
+1806943221-NameJP = "Ein"
+1524566565-NameJP = "Ein & Soh & Ohr"
+2287631270-NameJP = "Malkuth"
+411416431-NameJP = "Malkuth"
+4138490498-NameJP = "Malkuth"
+1243424096-NameJP = "Soh"
+2879153603-NameJP = "Soh"
+854279058-NameJP = "Soh"
+1965217876-NameJP = "Soh & Ohr"
 
 # >>> INÍCIO DA CATEGORIA: Gehenna <<<
 # Clubes nesta categoria: Clube Cintilante, Clube de Alimentação Escolar, Clube de Desenvolvimento de Fontes Termais, Clube de Pesquisa Gastronômica, Clube de Volta para Casa, Clube Médico de Emergência, Comitê Disciplinar, Faz-Tudo 68, Sociedade Pandemônio
@@ -875,6 +894,11 @@
 2510930354-NameJP = "Yukari"
 2510930354-NicknameJP = "Comitê de Conciliação Hyakkaryouran"
 
+2897104593-NameJP = "Yukari"
+3627990826-NameJP = "Yukari"
+472541981-NameJP = "Yukari"
+1698659750-NameJP = "Yukari & Nagusa"
+
 # ---- Departamento Yin-Yang ----
 1516663282-NameJP = "Chise"
 1516663282-NicknameJP = "Departamento Yin-Yang"
@@ -986,7 +1010,6 @@
 # ---- Trupe Mouryou: Estilo Tumulto ----
 4027170501-NameJP = "Líder do Estilo Tumulto"
 4027170501-NicknameJP = "Trupe Mouryou: Estilo Tumulto"
-
 
 # >>> INÍCIO DA CATEGORIA: Kaiser <<<
 # Clubes nesta categoria: Corporação Kaiser, Empréstimos Kaiser, Indústrias Kaiser, Kaiser PMC, Segurança Kaiser
@@ -1766,6 +1789,12 @@
 936093108-NameJP = "Yukino"
 936093108-NicknameJP = "Esquadrão FOX"
 
+4154157379-NameJP = "Yukino"
+1606070092-NameJP = "Niko"
+1755694170-NameJP = "Niko & Kurumi & Otogi"
+1572727928-NameJP = "Otogi & Kurumi"
+1701027837-NameJP = "Otogi & Niko"
+
 # ---- Esquadrão RABBIT ----
 2801034362-NameJP = "Membro do Esquadrão RABBIT"
 2801034362-NicknameJP = "Esquadrão RABBIT"
@@ -1818,9 +1847,15 @@
 4231113239-NameJP = "Saki (No Barril)"
 4231113239-NicknameJP = "Esquadrão RABBIT"
 
+4260922782-NameJP = "Miyako"
+2122412815-NameJP = "Miyu"
+1331930213-NameJP = "Moe"
+1035160737-NameJP = "Saki"
+4258736269-NameJP = "Saki & Moe"
+
 
 # >>> INÍCIO DA CATEGORIA: Submundo / Gangues <<<
-# Clubes nesta categoria: Aliança de Motoqueiros Brororo, Banco do Polvo, Delinquente de Rua, Família Arancino, Família Carpaccio, Família Rigatoni, Foras-da-lei da Cidade, Fundo Privado, Gangue das Sete Quedas, Gangue do Capacete, Gangue do Capacete Batendo Asas, Gangue do Capacete Catracante, Gangue do Capacete Dadaísta, Gangue do Capacete Eletrizante, Gangue do Capacete Encharcada, Gangue do Capacete Explosivo, Gangue do Capacete Irregular, Gangue do Capacete Molenga, Grupo Kurokame, Grupo Sukeban Caos, Mercado Negro, Sukeban
+# Clubes nesta categoria: Aliança de Motoqueiros Brororo, Banco do Polvo, Delinquente de Rua, Família Arancino, Família Carpaccio, Família Rigatoni, Foras-da-lei da Cidade, Fundo Privado, Gangue das Sete Quedas, Gangue do Capacete, Gangue do Capacete Batendo Asas, Gangue do Capacete Catracante, Gangue do Capacete Dadaísta, Gangue do Capacete Eletrizante, Gangue do Capacete Encharcada, Gangue do Capacete Explosivo, Gangue do Capacete Irregular, Gangue do Capacete Molenga, Grupo Kurokame, Grupo Sukeban Caos, Mercado Negro, Sukeban, Sete Prisioneiras.
 # ==================================================
 
 # ---- Aliança de Motoqueiros Brororo ----
@@ -2102,6 +2137,13 @@
 1895701998-NicknameJP = "Sukeban"
 3235011633-NameJP = "Sukeban C"
 3235011633-NicknameJP = "Sukeban"
+
+# ---- Sete Prisioneiras ----
+1057599298-NameJP = "Wakamo"
+1956934784-NameJP = "Wakamo"
+2716904779-NameJP = "Wakamo"
+47060441-NameJP = "Wakamo"
+664677038-NameJP = "Wakamo"
 
 
 # >>> INÍCIO DA CATEGORIA: Trinity <<<
@@ -2743,7 +2785,7 @@
 1553838037-NameJP = "Aluna da Millennium B"
 1553838037-NicknameJP = "Sociedade Koh-Han"
 
-# ---- Sem Afiliação ----
+# ---- Sem Afiliação ou ainda Não Organizados. ---- (Ultima Atualização: 23:48 - 29/06/2026)
 1103915573-NameJP = "???"
 1118867376-NameJP = "???"
 1300618080-NameJP = "???"
@@ -2810,7 +2852,7 @@
 27560089-NameJP = "Agente B"
 1942516882-NameJP = "Agiota"
 3778554145-NameJP = "Agência de Previsão do Futuro Shin"
-3856944101-NameJP = "AI de Pontuação de Dardos"
+3856944101-NameJP = "IA de Pontuação de Dardos"
 1327796326-NameJP = "Akemi"
 3620267001-NameJP = "Akemi"
 3551164613-NameJP = "Akira"
@@ -2830,7 +2872,7 @@
 99095363-NameJP = "Aluna Cliente A"
 2561678379-NameJP = "Aluna Cliente B"
 246833297-NameJP = "Aluna com Voz Fofa"
-1259677449-NameJP = "Aluna Comum de Millennium"
+1259677449-NameJP = "Aluna Comum da Millennium"
 665724056-NameJP = "Aluna Cozinheira"
 1458736514-NameJP = "Aluna D"
 103105174-NameJP = "Aluna da Correcional A"
@@ -3078,7 +3120,6 @@
 618443500-NameJP = "Aur"
 3908545818-NameJP = "Autoproclamado Analista de Arremessos"
 477683746-NameJP = "Autoproclamado Analista de Defesa"
-2388109509-NameJP = "Autômato Decagrammaton"
 2940142168-NameJP = "Avaliador Especialista"
 3457817293-NameJP = "Azami"
 414417122-NameJP = "Azusa"
@@ -3310,9 +3351,6 @@
 2547402757-NameJP = "Crianças que se Juntaram do Nada"
 1322348917-NameJP = "Criminoso"
 4152693193-NameJP = "Criminoso"
-48056105-NameJP = "Decagrammaton"
-542354905-NameJP = "Decagrammaton"
-955958550-NameJP = "Decagrammaton"
 569727319-NameJP = "Delinquente 1 & 2"
 3298465086-NameJP = "Diretor de Fotografia"
 2631910848-NameJP = "Diário Antigo"
@@ -3355,10 +3393,6 @@
 1975410197-NameJP = "Dono do Refeitório"
 3795305544-NameJP = "Drone de Economia de Energia"
 3108301276-NameJP = "Drone de Segurança"
-1319864298-NameJP = "Ein"
-1463485367-NameJP = "Ein"
-1806943221-NameJP = "Ein"
-1524566565-NameJP = "Ein & Soph & Aur"
 1744180465-NameJP = "Ella"
 2152826826-NameJP = "Empregado"
 3906566787-NameJP = "Empregado A"
@@ -3670,9 +3704,6 @@
 516338308-NameJP = "Macro da Fubuki"
 2212579573-NameJP = "Maia"
 3964842391-NameJP = "Maki & Koyuki"
-2287631270-NameJP = "Malkuth"
-411416431-NameJP = "Malkuth"
-4138490498-NameJP = "Malkuth"
 1148047153-NameJP = "Manifestante A"
 1444188410-NameJP = "Manifestante B"
 3413831962-NameJP = "Marinheiro Fugindo"
@@ -3753,10 +3784,7 @@
 878815101-NameJP = "Misaka Mikoto"
 2395877542-NameJP = "Misaka Mikoto & Shokuhou Misaki"
 4232947035-NameJP = "Misaki"
-4260922782-NameJP = "Miyako"
-2122412815-NameJP = "Miyu"
 1026912369-NameJP = "Modelo Caído"
-1331930213-NameJP = "Moe"
 3273345052-NameJP = "Momoi & Gamer Tóxico"
 2443644544-NameJP = "Monitor"
 1632267819-NameJP = "Morador Bêbado"
@@ -3786,8 +3814,6 @@
 2547361487-NameJP = "Negociante Corrupto"
 4120171196-NameJP = "Nekota"
 3375420232-NameJP = "Nezusuke"
-1606070092-NameJP = "Niko"
-1755694170-NameJP = "Niko & Kurumi & Otogi"
 648807707-NameJP = "Niya & Kaho"
 2703397050-NameJP = "Nodoka (Fantasia de Peroro)"
 2859965120-NameJP = "Nonomi"
@@ -3801,8 +3827,6 @@
 8489425-NameJP = "Oponente A"
 4047789016-NameJP = "Oponente B"
 1100690660-NameJP = "Organizador do Show"
-1572727928-NameJP = "Otogi & Kurumi"
-1701027837-NameJP = "Otogi & Niko"
 3322480428-NameJP = "Paciente A"
 3797856727-NameJP = "Paciente B"
 1734140003-NameJP = "Paciente C"
@@ -3910,8 +3934,6 @@
 3664256896-NameJP = "Sacerdote Sem Nome F"
 3510357551-NameJP = "Sacerdote Sem Nome G"
 3374254957-NameJP = "Sacerdotes Sem Nome"
-1035160737-NameJP = "Saki"
-4258736269-NameJP = "Saki & Moe"
 2731437718-NameJP = "Sakurako & Mine"
 890422293-NameJP = "Salva-vidas do Parque Aquático"
 3409171836-NameJP = "Salva-vidas do Parque Aquático A"
@@ -3955,10 +3977,6 @@
 280192018-NameJP = "Sombra Misteriosa A"
 3715911710-NameJP = "Sombra Misteriosa B"
 3146208881-NameJP = "Sombra Misteriosa C"
-1243424096-NameJP = "Soph"
-2879153603-NameJP = "Soph"
-854279058-NameJP = "Soph"
-1965217876-NameJP = "Soph & Aur"
 1502579790-NameJP = "Staff"
 1833412855-NameJP = "Staff"
 3807697321-NameJP = "Staff"
@@ -4134,16 +4152,6 @@
 297454763-NameJP = "Voz Tensa"
 543508239-NameJP = "Voz Tímida"
 98400382-NameJP = "Vídeo de Celular"
-1057599298-NameJP = "Wakamo"
-1956934784-NameJP = "Wakamo"
-2716904779-NameJP = "Wakamo"
-47060441-NameJP = "Wakamo"
-664677038-NameJP = "Wakamo"
-2897104593-NameJP = "Yukari"
-3627990826-NameJP = "Yukari"
-472541981-NameJP = "Yukari"
-1698659750-NameJP = "Yukari & Nagusa"
-4154157379-NameJP = "Yukino"
 2633789596-NameJP = "Yuuka & Chihiro"
 940692689-NameJP = "Zelador"
 721618894-NameJP = "Zelador da Instalação"
