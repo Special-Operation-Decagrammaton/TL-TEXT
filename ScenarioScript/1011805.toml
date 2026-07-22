@@ -1,69 +1,35 @@
 [translation]
-1011805-1 = "lugar inesperado"
-
-1011805-3 = "(Como sempre, indo para o metrô)"
-
-1011805-6 = "[ns] \"Hmm?\""
-
-1011805-8 = "Huh? É um Sensei."
-
-1011805-9 = "Pahya! Que coincidência."
-
-1011805-10 = "[ns1] \"Olá, Nozomi.\"\n[ns2] \"O que você está fazendo?\""
-
-1011805-13 = "sim? Bem, vou pegar o metrô."
-
-1011805-14 = "Sensei também?"
-
-1011805-15 = "Então vamos juntos."
-
-1011805-17 = "sortudo! Consegui sentar."
-
-1011805-18 = "Ei, venha até a porta ao lado, Sensei."
-
-1011805-26 = "[ns3] \"Fiquei surpreso ao ver você no metrô.\"\n[ns4] \"Você anda nele com frequência?\""
-
-1011805-29 = "Eu gosto de metrô no metrô."
-
-1011805-30 = "Existem algumas semelhanças com os trens."
-
-1011805-31 = "[s] \"Isso é verdade.\""
-
-1011805-32 = "Pode transportar muita gente e funciona na hora certa..."
-
-1011805-33 = "É bom que não trema tanto."
-
-1011805-34 = "Parece um pequeno trem? Pahiahah!"
-
-1011805-35 = "A razão pela qual às vezes para é provavelmente devido a um arranhão na bola."
-
-1011805-36 = "Afinal, não é um trem poderoso?"
-
-1011805-37 = "[s5] \"Eu também usaria metrô ou ônibus em áreas onde não há trens.\"\n[s6] \"Eu provavelmente usaria metrô ou ônibus.\""
-
-1011805-40 = "Hum."
-
-1011805-41 = "Isso é verdade, não é?"
-
-1011805-42 = "Eu gostaria de dirigir o metrô algum dia."
-
-1011805-43 = "[s] \"Você não move navios ou algo assim?\""
-
-1011805-44 = "O navio parece ficar bêbado, certo?"
-
-1011805-45 = "Acho que não estou realmente interessado!"
-
-1011805-46 = "“Não vou ficar bêbado dependendo do tamanho”? ...O Sensei já montou um antes."
-
-1011805-47 = "Pahiahah! Será que algum dia estarei em um barco?"
-
-1011805-48 = "Ou... um trem marítimo?"
-
-1011805-49 = "[s7] \"Um trem atravessando o oceano!?\"\n[s8] \"Não seria legal se pudéssemos fazer isso?\""
-
-1011805-52 = "Depois da terra vem o mar. Pahiahah!"
-
-1011805-54 = "(Fiquei muito animado conversando com Nozomi...)"
-
-1011805-58 = "(eu perdi...!)"
-
+1011805-1 = "意外な場所"
+1011805-3 = "（いつも通り、地下鉄に向かっていると）"
+1011805-6 = "[ns] \"ん？\""
+1011805-8 = "あれ？先生じゃん。"
+1011805-9 = "パヒャッ！奇遇だね。"
+1011805-10 = "[ns1] \"こんにちは、ノゾミ。\"\n[ns2] \"何してるの？\""
+1011805-13 = "ん？そりゃ地下鉄に乗るんだよ。"
+1011805-14 = "先生も？"
+1011805-15 = "なら一緒にいこーよ。"
+1011805-17 = "ラッキー！座れた～。"
+1011805-18 = "ほら、隣どーぞ、先生。"
+1011805-26 = "[ns3] \"地下鉄で会うなんてビックリした。\"\n[ns4] \"よく乗るの？\""
+1011805-29 = "地下鉄は地下鉄で好きなんだよ。"
+1011805-30 = "列車と似てるとこもあるし。"
+1011805-31 = "[s] \"確かにそうだね。\""
+1011805-32 = "人がたくさん乗れて、ちゃんと時間通り動くし……。"
+1011805-33 = "そんなに揺れないのもいいよね。"
+1011805-34 = "小さくまとまった列車って感じ？パヒャヒャッ！"
+1011805-35 = "ときどき止まるのが、玉にキズかな。"
+1011805-36 = "やっぱ一番は、パワフルな列車じゃない？"
+1011805-37 = "[s5] \"私も列車が通ってない土地では、\"\n[s6] \"地下鉄やバスを使うかな。\""
+1011805-40 = "ふ～ん。"
+1011805-41 = "[ruby=まちなか]街中[/ruby]とかはそうだよね。"
+1011805-42 = "いつか地下鉄も運転してみたいなぁ。"
+1011805-43 = "[s] \"船とかは動かさないの？\""
+1011805-44 = "船、酔うらしいじゃん？"
+1011805-45 = "あんま興味ないかな！"
+1011805-46 = "「大きさによっては酔わないよ」？……先生は乗ったことあるんだ。"
+1011805-47 = "パヒャヒャッ！私もいつか船に乗る日がくるのかな？"
+1011805-48 = "それとも……海上列車とか？"
+1011805-49 = "[s7] \"海を列車が疾走するの！？\"\n[s8] \"そんなことができたらカッコイイだろうな～\""
+1011805-52 = "陸の次は海っしょ。パヒャヒャッ！"
+1011805-54 = "（ノゾミとの話で盛り上がりすぎて……）"
+1011805-58 = "（乗り過ごしてしまった……！）"

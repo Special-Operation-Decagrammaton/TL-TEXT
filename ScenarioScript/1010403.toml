@@ -1,228 +1,116 @@
 [translation]
-1010403-1 = "cuidando"
-
-1010403-2 = "Loja principal do Genbu Shokai"
-
-1010403-4 = "Está de acordo com seu gosto, senhor?"
-
-1010403-5 = "[s1] \"Foi incrível!\"\n[s2] \"Da próxima vez eu gostaria de experimentar a comida do Reijo.\""
-
-1010403-6 = "Eu gostaria de ter feito isso."
-
-1010403-7 = "Por favor, venha nos visitar novamente a qualquer momento."
-
-1010403-8 = "...Minha comida?"
-
-1010403-9 = "É verdade que costumo ajudar o presidente, mas..."
-
-1010403-10 = "Não seria uma má ideia cozinhar para seu Sensei algum dia."
-
-1010403-15 = "Sr. Reijo, parece que algumas lojas não receberam seus ingredientes!"
-
+1010403-1 = "面倒見"
+1010403-2 = "玄武商会本店"
+1010403-4 = "お口に合いましたか、先生。"
+1010403-5 = "[s1] \"最高だったよ！\"\n[s2] \"今度はレイジョの料理も食べてみたいな。\""
+1010403-6 = "でしたら良かったです。"
+1010403-7 = "ぜひ、またいつでもお越しください"
+1010403-8 = "……私の料理、ですか？"
+1010403-9 = "たしかに、普段は会長の補佐をしていますが……。"
+1010403-10 = "いつか、先生に料理を振る舞うのも悪くありませんね。"
+1010403-15 = "レイジョさん、食材が届いていない店舗があるようです！"
 1010403-16 = "む、どこのお店ですか？"
 1010403-17 = "京華坊です！"
-1010403-18 = "……Eu vejo."
-
-1010403-19 = "O que devo fazer? #nNesse ritmo estaremos abertos apenas para almoço...!"
-
-1010403-20 = "Por enquanto, vamos trazer alguns ingredientes do armazém da loja principal."
-
-1010403-21 = "Isso deve durar algumas horas."
-
-1010403-22 = "Além disso, gostaria que você me desse uma carona da Torre Tianxing, na 3ª Avenida, Hongzheng Road. #nPor favor, pilote dois caminhões."
-
-1010403-23 = "Entrarei em contato com você."
-
-1010403-24 = "Calcule e relate o custo dos ingredientes após o fechamento do negócio."
-
-1010403-25 = "Sim, eu entendo!"
-
-1010403-27 = "Ufa, parece que vai dar certo de alguma forma."
-
-1010403-31 = "Este é o suposto Genbu Shokai..."
-
-1010403-32 = "Ei, traga-me a comida mais deliciosa!"
-
-1010403-35 = "Bem, isso é..."
-
-1010403-40 = "Primeiro, vou mostrar-lhe o seu lugar, então, por favor, venha aqui."
-
-1010403-42 = "Obrigado por nos visitar."
-
-1010403-43 = "O chefe de cozinha tem um prato recomendado, o que você acha?"
-
-1010403-44 = "Ah, existe esse menu?"
-
-1010403-45 = "Não costumamos servir, mas é especial para nossos clientes."
-
-1010403-46 = "Nossa, é a primeira vez que ouço isso também..."
-
-1010403-47 = "...Está tudo bem, por favor combine."
-
-1010403-49 = "Existe algum problema?"
-
-1010403-50 = "Não, verifiquei o inventário de ingredientes e parece não haver problema. No #n servimos pratos de abalone como prato principal."
-
-1010403-51 = "Estou ansioso por isso!"
-
-1010403-53 = "Ei, você está realmente bem? ?"
-
-1010403-54 = "Disseram que era a comida mais deliciosa."
-
-1010403-55 = "Além disso, algumas pessoas ficam irritadas quando você serve comida barata."
-
-1010403-56 = "Pois bem, caro cliente... por favor, desculpe-me."
-
-1010403-57 = "Por favor, avise a cozinha imediatamente."
-
-1010403-59 = "Sim, eu entendo!"
-
-1010403-64 = "Exatamente... por que você está tão ocupado hoje?"
-
-1010403-68 = "Eu paguei!"
-
-1010403-74 = "Mas...."
-
-1010403-75 = "Você vai levar o dobro do dinheiro! ?"
-
-1010403-82 = "O que aconteceu, cliente?"
-
-1010403-83 = "Mesmo tendo pago pelo app, eles continuaram me acusando de não conseguir efetuar o pagamento!"
-
-1010403-84 = "É isso que Genbu Shokai faz?"
-
-1010403-85 = "Não, cliente..."
-
-1010403-87 = "Se cometemos um erro, pedimos sinceras desculpas."
-
-1010403-88 = "Mas antes disso, você se importaria de verificar o histórico de pagamentos e as câmeras de segurança do aplicativo?"
-
-1010403-89 = "Não deveria haver nenhum."
-
-1010403-90 = "O que..."
-
-1010403-91 = "Se for uma declaração detalhada, você poderia enviá-la para mim imediatamente?"
-
-1010403-92 = "Devemos ser capazes de confirmar as imagens da câmara de vigilância em cerca de 5 minutos."
-
-1010403-96 = "Bem, acho que é isso... sinto que não paguei direito."
-
-1010403-97 = "Então, não há necessidade de verificar as câmeras de vigilância..."
-
-1010403-98 = "Não, não deve haver erros."
-
-1010403-99 = "E... claro, essa conversa também foi gravada pelas câmeras."
-
-1010403-100 = "Ah, é uma gravação! ?"
-
-1010403-101 = "Cliente, seu rosto está pálido...há algo de errado com você?"
-
-1010403-102 = "Está tudo bem, não é nada!"
-
+1010403-18 = "……なるほど。"
+1010403-19 = "ど、どうすれば？#nこのままではお昼の営業が……！"
+1010403-20 = "ひとまず、本店の倉庫から一部の食材を搬入しましょう。"
+1010403-21 = "それで数時間は持ち堪えられるはずです。"
+1010403-22 = "あとは虹正路3番街の天興楼からも、回してもらいましょうか。#nトラックを二台、飛ばしてください。"
+1010403-23 = "連絡は私が入れておきます。"
+1010403-24 = "食材の費用は、営業終了後に計算して報告してください。"
+1010403-25 = "はい、分かりました！"
+1010403-27 = "ふぅ、何とかなりそうですね。"
+1010403-31 = "ここが噂の玄武商会……。"
+1010403-32 = "お～い、一番美味い料理を持ってきてくれ！"
+1010403-35 = "えっと、それは……。"
+1010403-40 = "まずは席にご案内します、こちらへどうぞ。"
+1010403-42 = "ご来店ありがとうございます。"
+1010403-43 = "料理長のオススメ料理があるのですが、いかがでしょうか？"
+1010403-44 = "おお、そんなメニューが？"
+1010403-45 = "通常はお出ししていませんが、お客様には特別です。"
+1010403-46 = "わ、私も初めて聞きましたが……。"
+1010403-47 = "……大丈夫です、合わせてください。"
+1010403-49 = "何か問題でも？"
+1010403-50 = "いえ、食材の在庫を確認したところ、問題なさそうです。#nでは、アワビ料理をコースでお出しします。"
+1010403-51 = "そいつは楽しみだ！"
+1010403-53 = "ほ、本当に大丈夫ですか！？"
+1010403-54 = "一番美味しい料理、と言っていましたから。"
+1010403-55 = "それに、安い料理を出すと逆に腹を立てる方もいますし。"
+1010403-56 = "それでは、お客様……失礼いたします。"
+1010403-57 = "至急、厨房に伝えてください。"
+1010403-59 = "はい、分かりました！"
+1010403-64 = "まったく……今日に限って、どうしてこう忙しいのか。"
+1010403-68 = "私は確かに支払いましたよ！"
+1010403-74 = "ですが……。"
+1010403-75 = "二重にお金を取るつもりだろう！？"
+1010403-82 = "どうされましたか、お客様？"
+1010403-83 = "アプリで支払ったのに、決済できてないと言いがかりをつけてきたんだ！"
+1010403-84 = "これが玄武商会のやり口か！"
+1010403-85 = "いえ、お客様……。"
+1010403-87 = "私たちにミスがあったのなら、きちんとお詫びします。"
+1010403-88 = "ですが、その前にアプリの支払履歴と防犯カメラを確認してもよろしいでしょうか？"
+1010403-89 = "[ruby=・   ・   ・]手違い[/ruby]があってはいけませんから。"
+1010403-90 = "なっ……。"
+1010403-91 = "明細なら、すぐお出ししていただけるかと。"
+1010403-92 = "監視カメラの映像も5分ほど時間を頂ければ、確認が終わるはずです。"
+1010403-96 = "え～っと、たしかアレだ……ちゃんと支払えてなかったような気もするな。"
+1010403-97 = "だ、だから監視カメラまで確認する必要は……。"
+1010403-98 = "いえ、誤りがあってはいけませんから。"
+1010403-99 = "それと……当然ですが、この会話もカメラで記録されています。"
+1010403-100 = "ろ、録音だと！？"
+1010403-101 = "お客様、顔色が……どこか具合でも悪いのでしょうか？"
+1010403-102 = "大丈夫だ、何でもないっ！"
 1010403-104 = "お騒がせして申し訳ありません、先生。"
-1010403-105 = "[s] \"Fiquei surpreso com o quão habilidoso foi.\""
-
-1010403-106 = "Kyu, o que você fez quando eu te elogiei de repente?"
-
-1010403-107 = "Claro, fico feliz em ouvir isso, mas..."
-
-1010403-108 = "Problemas como esse são comuns."
-
-1010403-109 = "...No entanto, sinto que houve muitos problemas hoje por algum motivo."
-
-1010403-110 = "Mesmo que o evento importante ainda não tenha começado..."
-
-1010403-111 = "[s] \"Tem mais alguma coisa?\""
-
-1010403-112 = "Na verdade..."
-
-1010403-113 = "...Depois disso, um grupo de alunos do jardim de infância de Baikaen está programado para vir."
-
-1010403-114 = "Tenho vergonha de dizer isso, mas..."
-
-1010403-115 = "Não sei interagir com crianças..."
-
-1010403-116 = "[s] \"É difícil encontrar a resposta correta.\""
-
-1010403-117 = "Foi o mesmo com seu Sensei?"
-
-1010403-118 = "Crianças pequenas são fofas e inocentes, mas nunca se sabe o que vai acontecer..."
-
-1010403-119 = "...O que? #nO Sensei também vai me ajudar?"
-
-1010403-120 = "Entendo...serei honesto com você aqui."
-
-1010403-121 = "Obrigado, senhor."
-
-1010403-123 = "Sensei, esta lula parece uma flor!"
-
-1010403-124 = "[s] \"É tão estranho.\""
-
-1010403-125 = "O que é Polvo Wiener?"
-
-1010403-126 = "Você é um polvo? É uma salsicha?"
-
-1010403-127 = "[s] \"É uma salsicha em forma de polvo.\""
-
-1010403-128 = "Eu quero experimentar!"
-
-1010403-129 = "Outro dia, no Baikaen, saiu arroz frito com brócolis e pimenta..."
-
-1010403-133 = "Os Senseies estão acostumados a lidar com crianças..."
-
-1010403-134 = "Se você não se importa, posso te dar algumas dicas?"
-
-1010403-135 = "[s3] \"Não é realmente um truque...\"\n[s4] \"Não acho que haja necessidade de resolver nenhum problema.\""
-
-1010403-138 = "Você não se atreve a resolver o problema...?"
-
-1010403-139 = "...Certamente, há momentos em que é bom apenas pedir conselhos."
-
-1010403-140 = "Isso foi útil, senhor."
-
-1010403-141 = "[s] \"Você gostaria de experimentar o Reijo também?\""
-
-1010403-145 = "...Sim, claro que é meu trabalho."
-
-1010403-151 = "Adoro gyoza de camarão!"
-
-1010403-152 = "Mas também gosto de pãezinhos de porco!"
-
-1010403-153 = "Além disso, adoro gyoza frito e frito! #n Gyoza com muitos recheios também!"
-
-1010403-154 = "Gosto de todos os tipos de gyoza."
-
-1010403-155 = "Ah. Mas eu não gosto de wakame gyoza..."
-
-1010403-156 = "Isso é gyoza?"
-
-1010403-160 = "...É de partir o coração ver a cultura de comer fora se espalhar. #nIsso é a prova de que não tenho mais tempo para cozinhar."
-
-1010403-161 = "Comemos fora para economizar tempo, mas acabamos aproveitando esse tempo livre para trabalhar..."
-
-1010403-162 = "Mesmo se você for proprietário de uma empresa, não poderá escapar desse problema...porque o sistema é tal que isso acontece inevitavelmente..."
-
-1010403-163 = "O que há de errado nisso...?"
-
-1010403-164 = "Não... é tão triste que não há nada de errado com isso."
-
-1010403-166 = "...Acabou com segurança."
-
-1010403-167 = "Fiquei confuso quando as crianças ficaram agarradas em mim e #n quando tentaram brincar de esconde-esconde na loja..."
-
-1010403-168 = "[s] \"Acho que isso significa apenas que nos tornamos amigos.\""
-
-1010403-169 = "...Sim, ele disse que gostaria de visitá-lo novamente."
-
-1010403-170 = "Não importa quantas vezes eu pergunte, fico feliz quando as pessoas dizem “de novo”."
-
-1010403-174 = "Foi uma experiência muito estranha."
-
-1010403-175 = "obrigado. Sensei."
-
-1010403-176 = "[s] \"Eu não fiz nada em particular.\""
-
-1010403-177 = "Isso pode ser verdade para o Sensei, mas foi muito útil."
-
-1010403-178 = "Aguardamos sua orientação contínua."
-
+1010403-105 = "[s] \"手際が良くて驚いたよ。\""
+1010403-106 = "きゅ、急に褒めてどうされました？"
+1010403-107 = "もちろん、そう言っていただけるのは嬉しいのですが……。"
+1010403-108 = "この程度の問題は、よくありますから。"
+1010403-109 = "……ただ今日は、なぜかトラブルが多かったような気もしますね。"
+1010403-110 = "まだ大事なイベントは始まっていないというのに……。"
+1010403-111 = "[s] \"まだ何かあるの？\""
+1010403-112 = "その、実は……。"
+1010403-113 = "……このあと、梅花園の園児が団体で来る予定なんです。"
+1010403-114 = "自分で言うのも恥ずかしい限りですが……。"
+1010403-115 = "どのように子どもと接して良いのか分からず……。"
+1010403-116 = "[s] \"なかなか正解は見つからないよね。\""
+1010403-117 = "先生でもそうでしたか。"
+1010403-118 = "小さい子は可愛くて純粋ですが、#nその分、何が起こるか分からないですし……。"
+1010403-119 = "……えっ。#n先生も手伝ってくださるんですか？"
+1010403-120 = "なるほど……ここは素直に甘えさせていただきます。"
+1010403-121 = "ありがとうございます、先生。"
+1010403-123 = "せんせー、このイカ、お花みたい！"
+1010403-124 = "[s] \"すごい不思議だね。\""
+1010403-125 = "タコさんウィンナーってなにー？"
+1010403-126 = "タコさんなの？ウィンナーなの？"
+1010403-127 = "[s] \"タコの形をしてるウィンナーだよ。\""
+1010403-128 = "なら食べてみたい！"
+1010403-129 = "この前ね、梅花園でね、ブロッコリーピーマンチャーハンが出てきて――"
+1010403-133 = "先生は子どもたちの対応に慣れているんですね……。"
+1010403-134 = "よろしければ、コツを聞いてもよろしいでしょうか？"
+1010403-135 = "[s3] \"コツってほどじゃないけど……。\"\n[s4] \"なにも問題を解決する必要はないんじゃないかな。\""
+1010403-138 = "あえて問題を解決しない、と……？"
+1010403-139 = "……たしかに、相談事でも聞くだけで良い場合はありますね。"
+1010403-140 = "参考になりました、先生。"
+1010403-141 = "[s] \"レイジョもやってみる？\""
+1010403-145 = "……はい、もとより、自分の仕事ですから。"
+1010403-151 = "エビ餃子好きー！"
+1010403-152 = "けど豚まんも好き！"
+1010403-153 = "あとはー、焼き餃子も揚餃子も好きー！#nなんかいっぱい具が入ってる餃子も！"
+1010403-154 = "いろんな餃子が好きなんですね。"
+1010403-155 = "あっ。でも、ワカメ餃子は嫌い……。"
+1010403-156 = "そ、それは餃子なんでしょうか……？"
+1010403-160 = "……外食文化が広がるのは胸が痛みます。#nそれほどまでに、料理をする時間がなくなってしまったという証左なのです。"
+1010403-161 = "時間の節約のために外食をしますが、そうして浮かせた時間を仕事のために使ってしまうのですから……。"
+1010403-162 = "経営者だとしてもこの問題からは逃れられません……システム上どうしてもそうなってしまっているから……。"
+1010403-163 = "その、どうかしましたか……？"
+1010403-164 = "いえ……何も問題がないことが、とても悲しいのです。"
+1010403-166 = "……無事、終わりましたね。"
+1010403-167 = "子どもたちにしがみつかれたり、#nお店でかくれんぼが始まろうとした時は戸惑いましたが……。"
+1010403-168 = "[s] \"それだけ仲良くなれたってことじゃないかな。\""
+1010403-169 = "……はい、また遊びにきたい、と言っていました。"
+1010403-170 = "何度聞いても、「また」と言ってもらえるのは嬉しいですね。"
+1010403-174 = "とても不思議な経験でした。"
+1010403-175 = "ありがとうございます。先生。"
+1010403-176 = "[s] \"私は特に何もしてないよ。\""
+1010403-177 = "先生にとっては、そうかもしれませんが……とても、助かりました。"
+1010403-178 = "これからも、ご指導をよろしくお願いいたします。"

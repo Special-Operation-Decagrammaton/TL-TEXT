@@ -1,89 +1,45 @@
 [translation]
-1012803-1 = "preço doce"
-
-1012803-2 = "(No dia seguinte, fui ao bairro comercial)"
-
-1012803-3 = "(Havia algo que eu realmente queria comprar...)"
-
-1012803-6 = "(Embora eu tenha olhado em volta por um tempo...)"
-
-1012803-9 = "(...não consegui encontrar o que procurava)"
-
-1012803-10 = "(Naquela hora...)"
-
-1012803-11 = "Ei, Sensei?"
-
-1012803-15 = "Que coincidência!"
-
-1012803-16 = "Existe uma mudança?"
-
-1012803-17 = "[s] \"Claro! Fuyu também vai fazer compras?\""
-
-1012803-18 = "Sim, na verdade..."
-
-1012803-19 = "O trabuco comercial havia quebrado, então eu estava lá para comprar peças."
-
-1012803-20 = "Também preciso de materiais para uma exposição que será realizada em breve."
-
-1012803-21 = "[s] \"Você compra muitas coisas além de bens comerciais.\""
-
-1012803-22 = "……Sim."
-
-1012803-23 = "Aliás, que tipo de negócio você tem comigo, Sensei?"
-
-1012803-24 = "Não parece que eles estão aqui para comprar necessidades diárias."
-
-1012803-25 = "Ops, você estava certo sobre as necessidades diárias?"
-
-1012803-26 = "Um robô transformador combinado de super liga de 7 estágios...?"
-
-1012803-27 = "Muito legal."
-
-1012803-28 = "No sentido de que é algo que você admira no dia a dia... certamente pode ser uma necessidade diária."
-
-1012803-29 = "[s] \"É que não consigo encontrar em lugar nenhum.\""
-
-1012803-30 = "Entendo... então, essa é a hora!"
-
-1012803-31 = "Chegou a nossa vez, clientes!"
-
-1012803-32 = "[s] \"Cliente...?\""
-
-1012803-33 = "Itens que não estão mais em produção ou esgotados..."
-
-1012803-34 = "Eu vou pegar qualquer coisa para você ♪"
-
-1012803-35 = "[s] \"Como esperado do gerente do escritório de vendas do departamento de comércio especial...!\""
-
-1012803-36 = "Claro, haverá alguma “compensação”...hehe."
-
-1012803-37 = "[s] \"Consideração...?\""
-
-1012803-38 = "Bem..."
-
-1012803-42 = "o……."
-
-1012803-43 = "Hum..."
-
-1012803-44 = "[s] \"...?\""
-
-1012803-45 = "Olha, é isso, é isso."
-
-1012803-46 = "Como me pagar uma refeição ou ir ver um filme juntos..."
-
-1012803-47 = "Seria bom ter um café de doces em vez de arroz, mas..."
-
-1012803-48 = "[s1] \"Ok, vamos assistir a um filme depois do jantar...\"\n[s2] \"Vamos terminar relaxando em uma cafeteria de doces.\""
-
-1012803-54 = "Ei, ei! ?"
-
-1012803-55 = "Ah, é verdade! ?"
-
-1012803-56 = "Não! Certamente..."
-
-1012803-57 = "Muito obrigado..."
-
-1012803-59 = "(Eu ofereci comida a Fuyu, assisti a um filme e passei momentos relaxantes em uma cafeteria de doces.)"
-
-1012803-60 = "(...Então, o robô transformado chegou na placa de Petri.)"
-
+1012803-1 = "甘い対価"
+1012803-2 = "（翌日、商店街に足を運んだ）"
+1012803-3 = "（どうしても買いたいものがあったのだが――）"
+1012803-6 = "（しばらく見て回ったものの……）"
+1012803-9 = "（……目当てのものは見つからなかった）"
+1012803-10 = "（そのとき……）"
+1012803-11 = "おや、先生？"
+1012803-15 = "奇遇ですね！"
+1012803-16 = "お変わりありませんか？"
+1012803-17 = "[s] \"もちろん！フユもお買い物？\""
+1012803-18 = "ええ、実は……。"
+1012803-19 = "交易用の投石機が壊れたので、部品を買いに来ていたんです。"
+1012803-20 = "もうすぐ開かれる展覧会用の資材も必要ですし。"
+1012803-21 = "[s] \"交易品以外も色々買うんだね。\""
+1012803-22 = "……ええ。"
+1012803-23 = "ところで、先生はどのようなご用件で？"
+1012803-24 = "日用品を買いに来ているようには見えませんが。"
+1012803-25 = "おっと、日用品で正解でしたか。"
+1012803-26 = "7段合体のスーパー合金変形ロボット……？"
+1012803-27 = "いいですね。"
+1012803-28 = "日常的に愛でるものという意味では……たしかに日用品かもしれません。"
+1012803-29 = "[s] \"ただ、どこにもなくてね。\""
+1012803-30 = "なるほど……では、そんな時こそ！"
+1012803-31 = "私どもの出番ですよ、お客様！"
+1012803-32 = "[s] \"お客様……？\""
+1012803-33 = "生産終了のものや、売り切れの商品……。"
+1012803-34 = "なんでも手に入れてきますよ♪"
+1012803-35 = "[s] \"さすがは特殊交易部の営業室長……！\""
+1012803-36 = "もちろん、多少の「対価」はいただきますが……ふふ。"
+1012803-37 = "[s] \"対価……？\""
+1012803-38 = "えっと……。"
+1012803-42 = "その……。"
+1012803-43 = "うーん……。"
+1012803-44 = "[s] \"……？\""
+1012803-45 = "ほら、あれですよ、あれ。"
+1012803-46 = "ご飯を奢ってもらうとか、一緒に映画を観にいくとか……。"
+1012803-47 = "ご飯じゃなくて、スイーツカフェでも、いい、ですけど……。"
+1012803-48 = "[s1] \"じゃあ、ご飯のあとに映画を観て……。\"\n[s2] \"最後はスイーツカフェでゆっくりしようか。\""
+1012803-54 = "え、えぇっ！？"
+1012803-55 = "ほ、本当ですか！？"
+1012803-56 = "じゃなくて！ぜ、ぜひっ――"
+1012803-57 = "よ、よろしく、お願いします……。"
+1012803-59 = "（フユにご飯をご馳走し、映画を観て、スイーツカフェでゆっくり過ごした）"
+1012803-60 = "（……その後、例の変形ロボットが本当にシャーレに届いた）"

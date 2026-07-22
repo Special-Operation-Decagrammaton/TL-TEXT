@@ -1,179 +1,94 @@
 [translation]
-1011403-1 = "Aventura da Garçonete"
-1011403-2 = "Grande local de rua comercial"
-
-1011403-3 = "Obrigado por esperar!#nA partir de agora realizaremos o concurso de seleção de garçonetes deste mês!"
-
-1011403-4 = "Muito obrigado por se juntar a nós hoje.#nEste torneio é-"
-
-1011403-7 = "O que devemos fazer, Sensei!"
-
-1011403-8 = "[s]\"Acalme-se e respire fundo primeiro...\""
-
-1011403-9 = "mas……!#nÉ a primeira vez que estou diante de uma multidão tão grande..."
-
-1011403-10 = "Além disso, ainda nem conheço o evento..."
-
-1011403-11 = "Se fosse um concurso de culinária eu não conseguiria...!"
-
-1011403-12 = "Bem, então todos!#nO que você acha que é a coisa mais importante no atendimento ao cliente em um café? ?"
-
-1011403-13 = "É a base de todas as coisas..."
-
-1011403-14 = "--Em outras palavras, força muscular!"
-
-1011403-15 = "Força muscular...?"
-
-1011403-16 = "[ns1]\"...Hein?\"\n[ns2]\"...Um desenvolvimento inesperado.\""
-
-1011403-19 = "Sim, os cafés são um excelente exemplo de trabalho manual."
-
-1011403-20 = "Carregando jarras e copos cheios de água e vários pratos!"
-
-1011403-21 = "Também é necessário suprimir à força os reclamantes como os monstros que vêm ocasionalmente!"
-1011403-22 = "Não importa como você faça isso, não adianta usar violência contra os clientes! ?"
-
-1011403-23 = "[s]\"Isso mesmo!?\""
-
-1011403-24 = "De qualquer forma, o mais importante na hora de administrar um café é a força muscular!"
-
-1011403-25 = "Portanto, o concurso de seleção de garçonetes deste mês começará com um “teste de força”!"
-
-1011403-26 = "O conteúdo da partida é simples!#nEste grande copo de café..."
-
-1011403-27 = "Segure 12 xícaras, 6 em cada mão..."
-
-1011403-28 = "Por favor, leve-o para a mesa designada!"
-
-1011403-29 = "[ns]\"Talvez eu tenha entrado no torneio errado!?\""
-
-1011403-30 = "Ah, 12 copos tão grandes...! ?"
-
-1011403-31 = "Absolutamente não é possível.#nMesmo 6 peças são questionáveis... quero dizer, por que um teste muscular?"
-
-1011403-32 = "Ouvi dizer que é um torneio famoso, mas o que está acontecendo..."
-
+1011403-1 = "ウェイトレスの冒険"
+1011403-2 = "商店街大会場"
+1011403-3 = "お待たせしました！#nこれより、今月のウェイトレス選抜大会を開催いたします！"
+1011403-4 = "本日は、お集まりいただき誠にありがとうございます。#nこの大会は――"
+1011403-7 = "ど、どどどど、どうしましょう、先生！"
+1011403-8 = "[s] \"落ち着いて、まず深呼吸を……。\""
+1011403-9 = "でも……！#nこんな大勢の前で立つのは初めてで……。"
+1011403-10 = "それに、まだ種目すら分かっていませんし……。"
+1011403-11 = "もし料理コンテストだったら、私の腕では……！"
+1011403-12 = "では皆さん！#nカフェの接客において、一番大事なものは何だと思いますか！？"
+1011403-13 = "それは、すべての物事において根本となるもの……。"
+1011403-14 = "――即ち、筋力です！"
+1011403-15 = "き、筋力……？"
+1011403-16 = "[ns1] \"……あれ？\"\n[ns2] \"……予想外の展開に。\""
+1011403-19 = "ええ、カフェは力仕事の代表例です。"
+1011403-20 = "水がいっぱい入ったピッチャーやグラスに、いくつものお皿を運んだり――！"
+1011403-21 = "たまにいらっしゃるモンスターのようなクレーマーを武力で制圧する必要もあります！"
+1011403-22 = "いくら何でも、お客様に暴力を振るうのはダメですよ！？"
+1011403-23 = "[s] \"そうだよね！？\""
+1011403-24 = "とにかく、カフェの運営で最も大事なのは筋力！"
+1011403-25 = "よって、今月のウェイトレス選抜大会は、「筋力テスト」から始めます！"
+1011403-26 = "試合の内容は簡単！#nこちらのコーヒー入り大型グラスを……。"
+1011403-27 = "片手で6杯ずつ、計12杯を持ち上げて……。"
+1011403-28 = "指定したテーブルまで運んでください！"
+1011403-29 = "[ns] \"参加する大会、間違えちゃったかな！？\""
+1011403-30 = "あ、あんな大きいグラスを12個も……！？"
+1011403-31 = "絶対に無理よ。#n6個ですら怪しいし……ていうか、なんで筋力テスト？"
+1011403-32 = "有名な大会って聞いたのに、どうなってるの……。"
 1011403-36 = "……。"
-1011403-37 = "Se for esse o caso, sinto que posso fazer isso."
-
-1011403-38 = "[s]\"Oh sério?\""
-
-1011403-39 = "Sim, parece pesado, mas..."
-
-1011403-40 = "Devem ser mais leves do que as batatas que você compra nas caixas da merenda escolar!"
-
-1011403-41 = "Bem, vamos lá, Sensei!"
-
-1011403-43 = "Parece que todos os participantes estão passando por momentos difíceis!#nExiste alguém que seria adequado para ser a garçonete deste mês?"
-
-1011403-44 = "Ops! Juri Ushimaki!#nLevantei o copo com facilidade!"
-
-1011403-48 = "Coloque isso naquela mesa..."
-1011403-55 = "Seja criativo na forma como você o posiciona...!"
-
-1011403-61 = "assim……!"
-
-1011403-62 = "Que maravilha!#nNão carregue apenas copos, tenha consciência de como servir comida que parece boa!"
-
-1011403-63 = "Estas são exatamente as habilidades necessárias para administrar um café!#nEspírito de serviço com muita atenção aos detalhes!"
-
-1011403-65 = "Agora vamos para o próximo evento!"
-
-1011403-66 = "Se você trabalha na indústria de alimentos e bebidas, certamente encontrará “horários de pico”."
-
-1011403-67 = "Você provavelmente já passou pela experiência de ser apressado para entregar algo a um cliente em meio a uma enxurrada de pedidos..."
-
-1011403-68 = "O que é necessário nesses momentos é a capacidade de tomar decisões rápidas e precisas!"
-
-1011403-69 = "Portanto, para o segundo evento, testaremos sua memória e agilidade com o ``jogo de hastear bandeira''!"
-
-1011403-70 = "[ns3]\"Não posso dizer que não haja relacionamento algum...\"\n[ns4]\"Tem certeza de que está tudo bem...?\""
-
-1011403-73 = "Jogo de hastear bandeira...."
-
-1011403-74 = "Sensei, vou tentar o meu melhor nisso também."
-
-1011403-75 = "Mas não estou tão confiante..."
-
-1011403-76 = "Estamos preparando 4.000 porções de merenda escolar por dia na cafeteria da Gehenna, então acho que podemos fazer algo a respeito!"
-
-1011403-79 = "Levanta (ou ergue) vermelho."
-1011403-80 = "sim!"
-
-1011403-81 = "Eu não vou te dar branco."
-
-1011403-82 = "Sim!"
-
-1011403-83 = "Não deixe vermelho, dê branco."
-
-1011403-84 = "Eu vou te dar os dois!"
-
-1011403-85 = "Não baixe o vermelho, baixe o branco, não aumente o branco, baixe o vermelho, aumente o branco, baixe o branco, aumente o vermelho sem aumentar o branco."
-
-1011403-86 = "Bem... vou aumentar o vermelho e diminuir o branco!"
-
-1011403-87 = "Uau, isso é incrível... não acredito que não cometi um único erro..."
-
-1011403-88 = "Eu me pergunto que tipo de inferno eles costumam ver..."
-
-1011403-89 = "maravilhoso! Juri Ushimaki, nota máxima! !"
-
-1011403-97 = "Por fim, o último evento é a “limpeza”!#nNum restaurante, um ambiente higiénico é vital!"
-
-1011403-98 = "Para esta ocasião preparámos um robô de limpeza Millennium especial!"
-
-1011403-99 = "É um robô de limpeza Millennium? Como funciona?"
-
-1011403-100 = "Um pouco, estou começando a me interessar."
-1011403-101 = "[ns](Espero que nada aconteça...)"
-
-1011403-102 = "Todos os participantes, por favor, dirijam-se ao armazém!"
-
-1011403-104 = "--Comece a limpar."
-
-1011403-105 = "Varrer, inalar, incinerar e destruir.#nRemova, mate e finalmente desinfete."
-
-1011403-106 = "Nem uma única mancha será tolerada."
-
-1011403-107 = "Parecia que ouvi algum tipo de frase aterrorizante..."
-
-1011403-108 = "Porém, esse nível de limpeza é feito todos os dias na merenda escolar."
-
-1011403-109 = "--Vamos começar!"
-
-1011403-112 = "Incompreensível."
-
-1011403-113 = "Não entendo por que ele pode se mover mais rápido que esta máquina."
-
-1011403-114 = "Perdeu o sentido da existência. A partir daqui, passaremos para a sequência de autodestruição.#n10、9、8……。"
-
-1011403-115 = "Não!"
-
-1011403-116 = "Por que parar?#nÉ isso que é a bondade humana?"
-
-1011403-117 = "Se se autodestruir, o armazém ficará sujo novamente!"
-
+1011403-37 = "あれでしたら、いけるような気がします。"
+1011403-38 = "[s] \"え、本当？\""
+1011403-39 = "はい、たしかに重そうではありますが……。"
+1011403-40 = "給食部で箱買いしているジャガイモより、軽いはずですから！"
+1011403-41 = "では、行ってきますね、先生！"
+1011403-43 = "参加者の皆さん、中々苦労してるようですね！#n今月のウェイトレスに相応しい人物はいないのでしょうか！"
+1011403-44 = "おーっと！[ruby=うしまき]牛牧[/ruby]ジュリ選手！#nグラスを軽々と持ち上げました！"
+1011403-48 = "これを、あちらのテーブルに……。"
+1011403-55 = "置き方にも工夫して……！"
+1011403-61 = "こう……！"
+1011403-62 = "なんと素晴らしい！#n単にグラスを運ぶだけでなく、見映えの良い配膳を意識！"
+1011403-63 = "これぞ、まさにカフェの運営に求められる能力！#n細かな部分まで丁寧に行き届いたサービス精神！"
+1011403-65 = "では、次の種目に移りましょう！"
+1011403-66 = "飲食業に従事する者なら、必ず遭遇するであろう「ピークタイム」。"
+1011403-67 = "注文が殺到するなか、お客様に提供を急かされる経験、一度はあるでしょう……。"
+1011403-68 = "そんな時に求められるのは、迅速で正確な判断能力！"
+1011403-69 = "よって、第二種目は「旗揚げゲーム」で記憶力と敏捷性をテストしてもらいます！"
+1011403-70 = "[ns3] \"まったく関係がないとは言い切れないけど……。\"\n[ns4] \"本当にこれで大丈夫なの……？\""
+1011403-73 = "旗揚げゲーム……。"
+1011403-74 = "先生、これも頑張ってみます。"
+1011403-75 = "そこまで自信があるわけではありませんが……。"
+1011403-76 = "ゲヘナの食堂で1日4000人前の給食を作ってますし、何とかなると思います！"
+1011403-79 = "赤あげて。"
+1011403-80 = "はい！"
+1011403-81 = "白あげない。"
+1011403-82 = "はいっ！"
+1011403-83 = "赤さげないで、白あげて。"
+1011403-84 = "両方あげます！"
+1011403-85 = "赤さげないで白さげて、白あげないで赤さげて、白あげて、白さげて、白あげないで赤あげて。"
+1011403-86 = "えっと……赤をあげて白さげます！"
+1011403-87 = "す、すごい……1個もミスがないだなんて……。"
+1011403-88 = "いったい、普段どんな地獄を見ているのかしら……。"
+1011403-89 = "素晴らしい！牛牧ジュリ選手、満点です！！"
+1011403-97 = "いよいよ最後の種目は「お掃除」です！#n飲食店において、衛生環境は命ですからね！"
+1011403-98 = "今回のために、特別なミレニアム製の掃除ロボットをご用意しました！"
+1011403-99 = "ミレニアム製の掃除ロボットですか、性能はどうなっているのでしょう。"
+1011403-100 = "ちょっと、気になってきました。"
+1011403-101 = "[ns] （何も起きないと良いけど……）"
+1011403-102 = "それでは参加者の皆さん、倉庫まで移動してください！"
+1011403-104 = "――掃除を開始します。"
+1011403-105 = "掃いて吸い込んだら、焼却して破壊します。#n除去し抹殺し、最後に消毒します。"
+1011403-106 = "汚れは一つたりとも許しません。"
+1011403-107 = "な、何だか恐ろしいセリフが聞こえたような……。"
+1011403-108 = "で、でもこの程度の掃除でしたら、給食部でも毎日やってますから。"
+1011403-109 = "――始めます！"
+1011403-112 = "理解不能。"
+1011403-113 = "どうして本機より素早く動けるのか、分かりません。"
+1011403-114 = "存在意義を喪失。これより、自爆シーケンスへ移行します。#n10、9、8……。"
+1011403-115 = "ダメです！"
+1011403-116 = "どうして止めるのですか？#nこれが人間の優しさ、というものですか？"
+1011403-117 = "自爆したら倉庫がまた汚れてしまいます！"
 1011403-118 = "……。"
-1011403-119 = "entendido.#nPare a sequência de autodestruição."
-
-1011403-121 = "Obrigado por esperar!#nFinalmente estamos anunciando os vencedores do concurso de seleção de garçonetes deste mês!"
-
-1011403-122 = "A melhor garçonete deste mês é...!"
-
-1011403-123 = "――é a jogadora Ushimaki Juri！！！"
-1011403-130 = "[ns]\"Parabéns, Julie! Você conseguiu!\""
-
-1011403-131 = "Eu consegui, senhor! Eu realmente não acredito que posso vencer...!#nTudo graças ao Sensei!"
-
-1011403-135 = "Porém, é só agora..."
-
-1011403-136 = "Sinto que houve alguns eventos que não tiveram nada a ver com o trabalho de garçonete..."
-
-1011403-137 = "...Isso foi realmente uma coisa boa?"
-
-1011403-139 = "(Depois recebemos o troféu e os prêmios vencedores e voltamos juntos para casa.)"
-
-1011403-140 = "(Parece ser um torneio famoso...)"
-
-1011403-141 = "(...eu realmente não entendi até o final)"
-
+1011403-119 = "理解しました。#n自爆シーケンスを停止します。"
+1011403-121 = "大変お待たせしました！#nいよいよ、今月のウェイトレス選抜大会の優勝者を発表いたします！"
+1011403-122 = "今月の最優秀ウェイトレスは……！"
+1011403-123 = "――牛牧ジュリ選手です！！！"
+1011403-130 = "[ns] \"おめでとう、ジュリ！やったね！\""
+1011403-131 = "やりました、先生！本当に優勝できるなんて……！#nすべて先生のおかげです！"
+1011403-135 = "ただ、今さらですが……。"
+1011403-136 = "ウェイトレスの仕事とは関係ない種目もあった気がしますが……。"
+1011403-137 = "……本当に、これで良かったのでしょうか？"
+1011403-139 = "（その後、優勝トロフィーと賞品を受け取り、一緒に帰った）"
+1011403-140 = "（有名な大会らしいが……）"
+1011403-141 = "（……最後まで、よく分からなかった）"

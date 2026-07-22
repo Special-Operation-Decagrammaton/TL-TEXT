@@ -1,153 +1,81 @@
 [translation]
-1008903-1 = "Eu me pergunto se está um pouco mais perto"
-
-1008903-2 = "(Al me chamou para uma sessão de briefing de negócios onde se reuniram empresários ambiciosos e bandidos.)"
-
-1008903-6 = "Bem-vindo, Sensei. Eu estive esperando."
-
-1008903-7 = "[s1] \"Al...?\"\n[s2] \"Esta é uma sessão de briefing de negócios, certo...?\""
-
-1008903-10 = "Hehe, era a data de anúncio do projeto que eu estava de olho. #nLembrei-me das palavras do meu Sensei."
-
-1008903-11 = "Chegará o momento em que você deverá usá-lo."
-
-1008903-12 = "Se você vier uniformizado para um lugar como esse, poderá ser tratado como um estudante, certo?"
-
-1008903-13 = "Então decidi me vestir bem e chamar meu parceiro mais confiável para nós, faz-tudo."
-
-1008903-14 = "Hehe... o que você acha? #nPerfeito, certo?"
-
-1008903-18 = "É perfeito, certo...?"
-
-1008903-19 = "[s3] \"Você está certo, Al.\"\n[s4] \"Foi exatamente assim que pensei que seria uma oportunidade.\""
-
-1008903-22 = "Hehe, hehe... Isso é bom."
-
-1008903-23 = "Sensei então? #nHoje farei uma proposta não como “aluno” de Sensei, mas como “presidente”."
-
-1008903-24 = "Seria possível você participar de uma sessão de briefing de negócios comigo? #nClaro, não direi que é grátis."
-
-1008903-25 = "Se tudo correr bem, prepararei uma recompensa adequada."
-
-1008903-26 = "...Sim, por favor me ajude."
-
-1008903-30 = "Pois bem, vamos lá."
-
-1008903-34 = "(Depois disso, Al e eu fomos a vários estandes para ouvir sobre o negócio.)"
-
-1008903-37 = "(...No entanto, todos eles eram incoerentes)"
-
-1008903-41 = "Por que! ! ! !"
-
-1008903-43 = "Realmente, por quê! #nNão houve sequer um projeto decente!"
-
-1008903-45 = "Pulseira de germânio como chaveiro de boa sorte! #nAlém disso, a água pode ler emoções! !"
-
-1008903-46 = "Ainda tem gente que acredita no ocultismo e investe nisso! ? #nTalvez ele esteja sendo lambido! ?"
-
-1008903-47 = "[s5] \"Ah, acalme-se...\"\n[s6] \"Bem, às vezes coisas assim acontecem.\""
-
-1008903-50 = "Suspiro...estou cansado."
-
-1008903-51 = "Achei que hoje era uma chance para mostrar meu verdadeiro eu como presidente."
-
-1008903-52 = "Em vez de construir confiança, acabei me decepcionando..."
-
-1008903-55 = "...Então você não está desapontado?"
-
-1008903-58 = "Sensei……."
-
-1008903-63 = "Estou feliz que você esteja me confortando, mas agora está tudo bem. #nPosso aceitar meus próprios fracassos."
-
-1008903-64 = "...Participar da sessão de briefing de hoje foi um fracasso total. #nEu me esforcei para pedir o tempo do seu Sensei, e então as coisas ficaram assim."
-
-1008903-65 = "...Você quer dizer que não preciso me preocupar com isso?"
-
-1008903-66 = "Estou muito feliz em ouvir isso, mas..."
-
-1008903-67 = "[s7] \"Depois que você se acostumar com coisas assim, é hora de trabalhar de verdade.\"\n[s8] \"Mesmo se você falhar, você pode tentar novamente.\""
-
-1008903-70 = "A seguir, vamos nos conectar..."
-
-1008903-71 = "Eu sei o que você está tentando dizer, mas...#nSinto que o Sensei está tentando me confortar agora."
-
-1008903-72 = "……Sim?"
-
-1008903-73 = "...Onde você vai, Sensei? #nJá é hora do sol se pôr?"
-
-1008903-74 = "A parte boa...?"
-
-1008903-78 = "Eh, sim... bem... se o Sensei fala isso..."
-
-1008903-79 = "[s9] \"Acho que Al ficaria feliz.\"\n[s10] \"Talvez você possa me deixar decidir sobre os planos finais.\""
-
-1008903-82 = "...Você poderia, por favor, me mostrar o local?"
-
-1008903-86 = "Então, para onde vamos?"
-
-1008903-92 = "...? ? ?"
-
-1008903-93 = "Uma loja de ramen, certo...?"
-
-1008903-94 = "Era isso que a Senseia queria mesmo trazer aqui?"
-
-1008903-95 = "[s11] \"Sim, vamos sentar agora.\"\n[s12] Eu sento e peço comida."
-
-1008903-98 = "Ei, Sensei! ?"
-
-1008903-106 = "Eu disse que é um lugar que me faz feliz, então quando pensei que tipo de lugar era, descobri que era uma loja de ramen..."
-
-1008903-107 = "Bem, é claro que não odeio ramen...#nNão, na verdade gosto dele..."
-
-1008903-108 = "Fiquei surpreso ao ver que era um pouco diferente do que eu esperava. #nHá uma razão, certo?"
-
-1008903-109 = "Não é a mesma coisa quando você sempre presenteia seu faz-tudo com ramen?"
-
-1008903-110 = "Hmm, mesmo que você diga que hoje é diferente do normal..."
-
-1008903-111 = "...Qual é a diferença?"
-
-1008903-112 = "[s13] \"Hoje é uma reunião para reclamar do trabalho.\"\n[s14] \"Quando as coisas não vão bem no trabalho, este é o lugar que eu venho.\""
-
-1008903-115 = "……sim?"
-
-1008903-116 = "O que diabos é isso..."
-
-1008903-120 = "...Ah."
-
-1008903-121 = "Em outras palavras, isso é..."
-
-1008903-122 = "Para adultos como Senseies..."
-
-1008903-126 = "[ns15] \"Sim, isso mesmo.\"\n[ns16] \"Surpreendentemente, também não é grande coisa para os adultos, certo?\""
-
-1008903-129 = "...Huh."
-
-1008903-130 = "n / D……"
-
-1008903-131 = "Hehe...meu Sensei sempre me ajuda."
-
-1008903-132 = "Isso mesmo..."
-
-1008903-133 = "……Sim."
-
-1008903-135 = "É mais normal do que eu pensava...hehe."
-
+1008903-1 = "ちょっとは近づいたかしら"
+1008903-2 = "（アルに呼び出されたのは、野心ある起業家やアウトローが集まる事業説明会だった）"
+1008903-6 = "いらっしゃい、先生。待っていたわ。"
+1008903-7 = "[s1] \"アル……？\"\n[s2] \"これって事業説明会だよね……？\""
+1008903-10 = "ふふ、ちょうど目を付けていたプロジェクトの発表日でね。#n先生の言葉を思い出したのよ。"
+1008903-11 = "着るべき時は、いずれ訪れるってね。"
+1008903-12 = "こういった場に制服で来ると、学生扱いされるかもしれないじゃない？"
+1008903-13 = "それならドレスで着飾って、私たち便利屋にとって最も信頼できる協力関係の先生を呼ぼうと思ったのよ。"
+1008903-14 = "ふふっ……どうかしら？#nキマってるでしょう？"
+1008903-18 = "キマってる、わよね……？"
+1008903-19 = "[s3] \"その通りだよ、アル。\"\n[s4] \"まさに、こういう機会があると思ったんだ。\""
+1008903-22 = "ふふ、ふふっ……いいわね。"
+1008903-23 = "なら先生？#n今日は先生の「生徒」としてではなく、一人の「社長」として提案させてもらうわ。"
+1008903-24 = "私と事業説明会に参加してもらえないかしら？#nもちろん、タダでとは言わない。"
+1008903-25 = "うまく行ったら、相応の報酬を用意するわ。"
+1008903-26 = "……ええ、よろしく頼むわね。"
+1008903-30 = "それじゃあ、行きましょう。"
+1008903-34 = "（その後、アルと一緒に様々なブースで事業の話を聞いて回った）"
+1008903-37 = "（……しかし、そのどれもが支離滅裂な内容だった）"
+1008903-41 = "なんでよ！！！！"
+1008903-43 = "本当に、どうして！#nまともなプロジェクトが一つも無かったじゃない！"
+1008903-45 = "開運キーホルダーにゲルマニウムのブレスレット！#nそれに、感情を読み取れる水って！！"
+1008903-46 = "未だにそんなオカルトを信じて投資する人が居るとでも！？#nもしかして、舐められてるのかしら！？"
+1008903-47 = "[s5] \"お、落ち着いて……\"\n[s6] \"まあ、こういうこともあるよ。\""
+1008903-50 = "はぁ……疲れたわ。"
+1008903-51 = "今日はせっかく社長らしい姿を見せられるチャンスだと思ったのに。"
+1008903-52 = "これじゃあ信頼を築くどころか、むしろガッカリされちゃったじゃない……"
+1008903-55 = "……ガッカリなんてしてないって？"
+1008903-58 = "先生……。"
+1008903-63 = "慰めてくれるのは嬉しいけど、今はいいの。#n自分の失敗くらい受け止められるわ。"
+1008903-64 = "……今日の説明会に参加したのは、完全に失敗だった。#nわざわざ先生の時間をもらったのに、こうなってしまうなんてね。"
+1008903-65 = "……気にしなくてもいいって？"
+1008903-66 = "そう言ってもらえるのは本当に嬉しいのだけど……"
+1008903-67 = "[s7] \"こういうのに慣れてからが本番だからね。\"\n[s8] \"失敗しても、次に繋げればいいんだよ。\""
+1008903-70 = "次に、繋げる……ね。"
+1008903-71 = "言いたいことは分かるけど……#nどうしても今は、先生が私を慰めるために言っているようにしか思えないのよね。"
+1008903-72 = "……うん？"
+1008903-73 = "……どこに行くの、先生？#nもう日が暮れる時間よ？"
+1008903-74 = "いいところ……？"
+1008903-78 = "え、ええ……まあ……先生がそこまで言うなら……"
+1008903-79 = "[s9] \"アルなら喜んでくれると思うんだ。\"\n[s10] \"最後の予定は私に決めさせてもらえるかな。\""
+1008903-82 = "……せっかくだし、案内してもらえるかしら？"
+1008903-86 = "それで、どこに向かうのよ？"
+1008903-92 = "……？？？"
+1008903-93 = "ラーメン屋、よね……？"
+1008903-94 = "本当に先生が連れてきたかったのは、ここで合ってるの……？"
+1008903-95 = "[s11] \"うん、とりあえず座ろうか。\"\n[s12] 席に座り料理を注文する。"
+1008903-98 = "せ、先生！？ "
+1008903-106 = "私が喜ぶところって言うから、どんな場所かと思えばラーメン屋だなんて……"
+1008903-107 = "も、もちろんラーメンは嫌いじゃないわよ……#nいや、むしろ好きではあるのだけど……"
+1008903-108 = "想像とは少し違って驚いちゃったわ。#n何か理由があるのよね？"
+1008903-109 = "これじゃ、いつも便利屋にラーメンを奢ってくれてるのと一緒じゃない？"
+1008903-110 = "うーん、今日はいつもと違うって言われても……"
+1008903-111 = "……何が違うのかしら？"
+1008903-112 = "[s13] \"今日は仕事の愚痴を言う会だからね。\"\n[s14] \"仕事がうまく行かない日は、こういう場所に来るんだ。\""
+1008903-115 = "……ん？"
+1008903-116 = "それは一体どういう……"
+1008903-120 = "……あっ。"
+1008903-121 = "つまり、これは……"
+1008903-122 = "先生みたいな、大人にとっての……"
+1008903-126 = "[ns15] \"うん、そうだよ。\"\n[ns16] \"意外と大人も大したこと無いでしょ？\""
+1008903-129 = "……ふっ。"
+1008903-130 = "ふふ……"
+1008903-131 = "ふふっ……先生にはいつも助けられてばかりだわ。"
+1008903-132 = "そうね……"
+1008903-133 = "……うん。"
+1008903-135 = "思っていたよりも、普通なのね……ふふっ。"
 1008903-138 = "[wa:550]― [log=아루 드레스]はぁ……[wa:1900]こんなことになるなんて、[wa:1440]思いもしなかったわ。[/log]"
 1008903-139 = "[wa:2430]― [log=아루 드레스]でも……[wa:800]先生の言った通り、[wa:1750]こういうのも悪くはないわね。[/log]"
 1008903-142 = "[wa:700]― [log=아루 드레스]正直、[wa:1200]不思議だったのよ……[/log]"
-1008903-145 = "― [log=아루 드레스]Um adulto vestido adequadamente [/log]"
-
+1008903-145 = "― [log=아루 드레스]ちゃんとした格好の大人が、[/log]"
 1008903-146 = "[wa:1800]― [log=아루 드레스]どうしてこんな所で[wa:1000]わざわざご飯を食べるのか……。[/log]"
 1008903-149 = "[wa:650]― [log=아루 드레스]でも……[wa:1550]今なら、[wa:700]少しわかる気がするわ。[/log]"
-1008903-152 = "― [log=아루 드레스]Mesmo que os motivos sejam diferentes...[/log]"
-
+1008903-152 = "― [log=아루 드레스]それぞれ理由は違っても……[/log]"
 1008903-153 = "[wa:3000]― [log=아루 드레스]きっと、[wa:1150]みんなこういう気持ちだったのかな、[wa:1550]って。[/log]"
 1008903-156 = "[wa:450]― [log=아루 드레스]……先生も、[wa:1120]きっとそうなのよね。[/log]"
 1008903-159 = "[wa:400]― [log=아루 드레스]ふふ……[wa:2400]私も少しは……[wa:2250]先生に近づけたのかしら？[/log]"
-1008903-162 = "(Depois, enquanto comiam ramen juntos, ouvi as reclamações de Al.)"
-
-1008903-163 = "(A maior parte do conteúdo eram palavras de agradecimento a todos os trabalhadores manuais, e o resto era sobre a dificuldade de continuar o negócio.)"
-
-1008903-164 = "(As reclamações de Al não pararam até tarde da noite e continuaram até que eu o mandei para o quarto...)"
-
+1008903-162 = "（その後、二人でラーメンを食べながら、溜まっていたアルの愚痴を聞いた）"
+1008903-163 = "（内容のほとんどは、便利屋のみんなに対する感謝の言葉で、残りは事業を継続する厳しさについてだった）"
+1008903-164 = "（アルの愚痴は深夜になっても止まず、部屋に送り届けるまで続いた……）"

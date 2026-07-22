@@ -1,119 +1,62 @@
 [translation]
-1006102-1 = "uma pessoa que é facilmente mal compreendida"
-
-1006102-5 = "(Eu estava curioso sobre o conteúdo do Momotalk, então visitei a catedral no meu tempo livre.)"
-
-1006102-9 = "(Talvez porque seja um horário relativamente vazio, não há muitas pessoas por perto e Sakurako orando pode ser vista à distância.)"
-
-1006102-10 = "……."
-
-1006102-11 = "[s1] Espere alguém terminar de orar por perto. \n[s2] Orem juntos ao meu lado."
-
+1006102-1 = "誤解されやすい人"
+1006102-5 = "（モモトークの内容が気になったので、空き時間に大聖堂を訪れた）"
+1006102-9 = "（比較的空いている時間帯だからか人影はなく、祈りを捧げるサクラコが遠くに見える）"
+1006102-10 = "……。"
+1006102-11 = "[s1] 近くで祈りを終えるのを待つ。\n[s2] 隣で一緒に祈りを捧げる。"
 1006102-19 = "……"
-1006102-24 = "...?"
-
-1006102-29 = "...! ? #n-sensei, desde quando você veio aqui...!"
-
-1006102-30 = "[s3] \"Desculpe por interromper você.\"\n[s4] \"Eu não queria te assustar...\""
-
+1006102-24 = "……？"
+1006102-29 = "……っ！？#n先生、いつからこちらに……！"
+1006102-30 = "[s3] \"邪魔しちゃってごめんね。\"\n[s4] \"驚かせるつもりはなかったんだけど……\""
 1006102-31 = "……い、いえ大丈夫です。ちょうど祈りを終えたところです。"
 1006102-32 = "……い、いえ大丈夫です。ちょうど祈りを終えたところです。"
-1006102-33 = "O que aconteceu em vez disso?"
-
-1006102-34 = "Durante este período, especialmente eventos..."
-
-1006102-35 = "--foto?"
-
-1006102-36 = "Porque eu liguei para você...?"
-
-1006102-37 = "Hum, isso... eu realmente não me lembro..."
-
-1006102-38 = "Momo conversa...?"
-
-1006102-42 = "[ns5] \"Você disse que queria uma chance de conversar...\"\n[ns6] Vou te mostrar o Momo Talk."
-
-1006102-46 = "Ah... entendo..."
-
-1006102-50 = "isso é……"
-
-1006102-51 = "O que você diz..."
-
-1006102-52 = "Realmente não tinha nenhum significado profundo... era apenas uma saudação."
-
-1006102-53 = "...É verdade."
-
-1006102-54 = "... Haa."
-
-1006102-55 = "Além disso, posso ter causado um mal-entendido... #nSinto muito, Sensei."
-
-1006102-56 = "[s7] \"Está tudo bem, não se preocupe.\"\n[s8] \"O que você quer dizer com \"de novo\"...? \""
-
-1006102-59 = "Na verdade, muitas vezes sou incompreendido por aqueles que me rodeiam..."
-
-1006102-60 = "Acho que você poderia dizer que há momentos em que acho que tenho uma personalidade difícil..."
-
-1006102-61 = "Afinal... estou em condições de administrar todas as Irmãs, então talvez me sinta um pouco distante dela."
-
-1006102-62 = "Tenho tentado melhorar e receber conselhos, mas não funciona..."
-
-1006102-63 = "Ah, claro, todo mundo tem bom coração, então eles tentam entender esse meu lado. #nEla estava disposta a me dar conselhos."
-
-1006102-64 = "O Momotalk que enviei para você desta vez também incorporou conselhos de outras irmãs..."
-
-1006102-65 = "Ouvi dizer que “colocar um sorriso antes e depois de uma mensagem torna mais fácil se sentir mais amigável”..."
-
-1006102-66 = "[s9] \"Entendo...\"\n[s10] \"E eu pensei, \"Ufufu\"... \""
-
-1006102-69 = "Estou um pouco...preocupado. #nNão me importo se for uma questão pessoal, mas sou Irmã da Catedral da Trindade."
-
-1006102-70 = "Como uma irmã que ouve as preocupações das pessoas, não é muito desejável deixar a outra pessoa preocupada."
-
+1006102-33 = "それより、どうかされましたか？"
+1006102-34 = "この時間は、特に催し物などは――"
+1006102-35 = "――え？"
+1006102-36 = "私に呼ばれたから……？"
+1006102-37 = "えっと、その……あまり心当たりが……"
+1006102-38 = "モモトーク……？"
+1006102-42 = "[ns5] \"お話する機会が欲しいと言ってたから……\"\n[ns6] モモトークを見せる。"
+1006102-46 = "あっ……なるほど……"
+1006102-50 = "これは……"
+1006102-51 = "その、何と言いますか……"
+1006102-52 = "本当に、深い意味はなくて……ただの挨拶のつもりだったのです。"
+1006102-53 = "……本当なんです。"
+1006102-54 = "……はぁ。"
+1006102-55 = "また、誤解を招いてしまったかもしれません……#n申し訳ありません、先生。"
+1006102-56 = "[s7] \"大丈夫、気にしないで。\"\n[s8] \"「また」って……？\""
+1006102-59 = "その……実は、周囲の方に誤解されてしまう事が多くて……。"
+1006102-60 = "その、私のことを気難しい性格だと思っている節があるといいますか……。"
+1006102-61 = "やはり……シスター全体を管理する立場ですから、#n距離を感じてしまうのでしょうか。"
+1006102-62 = "改善しようと、アドバイスも頂いたりもするのですが、うまくいかず……"
+1006102-63 = "あ、もちろん、皆様心優しい方ばかりですので、私のこういった一面も理解しようとしてくださります。#n進んでアドバイスも下さるくらいに。"
+1006102-64 = "今回先生にお送りしたモモトークも、他のシスターからいただいたアドバイスを取り入れてみたりもして……。"
+1006102-65 = "「メッセージの前後に笑いを入れると親しみを感じやすい」と聞いたので……。"
+1006102-66 = "[s9] \"なるほど……\"\n[s10] \"それで「うふふ」と……。\""
+1006102-69 = "少し……心配なのです。#n個人の問題ならいいのですが、私はトリニティ大聖堂のシスターですので。"
+1006102-70 = "人々の悩みを聞くシスターとして、#n相手に気を遣わせてしまうのはあまり望ましくありません。"
 1006102-71 = "先生とお話をしたいとお伝えしたのも、実はこのことをご相談したかったのです。"
-1006102-76 = "Desculpe, a história ficou longa. #nMais detalhes virão mais tarde..."
-
-1006102-77 = "Pedimos desculpas pelo inconveniente. #nSe você não se importa, por favor, deixe-me acompanhá-lo."
-
-1006102-81 = "Por favor, venha aqui."
-
-1006102-87 = "Estacione em frente à Catedral da Trindade"
-
-1006102-88 = "Então aqui estou eu..."
-
-1006102-89 = "Embora tenha sido pouco tempo hoje, fiquei feliz em poder falar com você."
-
-1006102-90 = "...Hehe."
-
-1006102-91 = "Então, por favor, tome cuidado onde você pisa."
-
-1006102-99 = "Ah, irmã Sakurako!"
-
-1006102-100 = "como vai. O tempo está bom hoje, não está?"
-
-1006102-102 = "Olá, irmãs."
-
-1006102-103 = "Está um tempo bom, hehe..."
-
-1006102-104 = "Espero que todos tenham um dia tranquilo hoje."
-
-1006102-109 = "Estarei sempre cuidando de todos vocês nos bastidores..."
-
-1006102-115 = "Tenha um bom dia. Hehehe."
-
-1006102-119 = "Ei, ei...! Ah, sim...!"
-
-1006102-120 = "Tenha um bom dia hoje também! #nUau, isso é tudo para nós!"
-
-1006102-125 = "Ah, se você entrar em pânico assim, você vai se machucar..."
-
-1006102-129 = "[ns11] \"Então eu ri...\"\n[ns12] \"Entendo...isso é...\""
-
-1006102-132 = "...? #nO que aconteceu?"
-
-1006102-133 = "Não é nada, certo?"
-
-1006102-134 = "Isso seria bom, mas...."
-
-1006102-135 = "Agora, por favor, me desculpe por isso."
-
-1006102-140 = "(Depois de ver Sakurako sair com o véu tremulando ao vento, ela voltou para a placa de Petri)"
-
+1006102-76 = "すみません、話が長くなってしまいましたね。#n詳しい内容はまた後日……"
+1006102-77 = "ご心配をおかけして申し訳ありません。#nもしよろしければ、お見送りさせてください。"
+1006102-81 = "どうぞこちらへ。"
+1006102-87 = "トリニティ大聖堂前の公園"
+1006102-88 = "では、私はこれにて……"
+1006102-89 = "本日は、短い時間でしたがお話ができて嬉しかったです。"
+1006102-90 = "……ふふっ。"
+1006102-91 = "ではお足元にお気をつけて――"
+1006102-99 = "あっ、シスターサクラコ様！"
+1006102-100 = "ごきげんよう。今日もいい天気ですね。"
+1006102-102 = "あら、シスターの皆様。"
+1006102-103 = "いいお天気ですね、ふふっ……"
+1006102-104 = "今日も皆様の一日が、平和でありますよう。"
+1006102-109 = "いつも、皆様を陰ながら見守っておりますよ……。"
+1006102-115 = "それでは、よい一日を。うふふっ。"
+1006102-119 = "ひ、ヒッ……！は、はい……！"
+1006102-120 = "今日も良い一日を……！#nわ、私たちはこれで――！"
+1006102-125 = "あら、そんなに慌てると怪我をしてしまいます……。"
+1006102-129 = "[ns11] \"そこで「笑う」と……\"\n[ns12] \"なるほど……これは……。\""
+1006102-132 = "……？#nどうされました？"
+1006102-133 = "なんでもない、ですか？"
+1006102-134 = "それなら良いのですが……。"
+1006102-135 = "では、これにて失礼致します。"
+1006102-140 = "（ベールを風になびかせて去っていくサクラコを見届けて、シャーレに帰った）"

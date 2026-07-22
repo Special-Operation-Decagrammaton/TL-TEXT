@@ -1,121 +1,61 @@
 [translation]
-1005506-1 = "Honestamente"
-
-1005506-2 = "(Enquanto eu esperava na área de cozimento da placa de Petri, Shigure chegou exatamente na hora marcada.)"
-
-1005506-8 = "Ei, há muito mais aqui do que eu esperava."
-
-1005506-13 = "Já estive em Petri várias vezes, mas esta pode ser a minha primeira vez aqui."
-
-1005506-14 = "[s1] \"Ah, seja bem-vindo.\"\n[s2] \"O que é esse pacote nas suas costas...?\""
-
-1005506-19 = "...Ah, isso?"
-
-1005506-20 = "Bem, estou curioso."
-
-1005506-21 = "Como eu disse outro dia, queria servir um pouco de comida para você."
-
-1005506-22 = "Então trouxe os ingredientes necessários para cozinhar."
-
-1005506-23 = "Não se preocupe, não é um ingrediente estranho."
-
-1005506-24 = "A Senseia sentou-se lá e esperou. Eu farei tudo."
-
-1005506-25 = "Agora, vamos comer um prato especial de caça da 227ª turma especial..."
-
-1005506-32 = "[ns3] \"!?\"\n[ns4] \"Carne crua!?\""
-
-1005506-35 = "É uma sensação fresca e boa, certo?"
-
-1005506-36 = "Parecia que você nunca tinha visto carne crua assim antes?"
-
-1005506-37 = "Ah, talvez fosse melhor começar falando de gibier?"
-
-1005506-38 = "Urso, veado, coelho, etc. Este é um prato que utiliza aves selvagens e animais capturados durante a caça."
-
-1005506-39 = "A frescura é a chave da caça selvagem, por isso costumo prepará-la imediatamente após a pescar."
-
-1005506-43 = "Hoje trouxe como está e limpei direto na placa de Petri..."
-
-1005506-44 = "...Hmm, o que aconteceu?"
-
-1005506-45 = "Sim. Se for o número 227, você come com frequência?"
-
-1005506-46 = "Eu gostaria de dizer isso, mas mais da metade é apenas uma piada. O pão e o arroz são distribuídos pela secretaria, por isso a caça selvagem é especial à sua maneira."
-
-1005506-47 = "Mas outro dia a Senseia me ofereceu uma comida incrível e eu também fiz um prato especial para o nº 227."
-
-1005506-48 = "...Bem, na verdade, não vou usar esta carne hoje. Se você acabou de pegá-lo, será muito difícil de comer."
-
-1005506-49 = "Mas vi a expressão de surpresa no rosto da Senseia, então valeu a pena todo o esforço para trazer esse pedaço de carne."
-
-1005506-50 = "[s5] \"Em outras palavras, você foi tão longe só para tirar sarro dele...\"\n[s6] \"Shigure é incrível em muitos aspectos...\""
-
-1005506-53 = "Bem, eu tenho que viver feliz todos os dias. Se você esquecer seu espírito travesso, a diversão da vida será reduzida pela metade."
-
-1005506-54 = "Agora é hora de começar a cozinhar para valer."
-
-1005506-57 = "Tempere a carne com sal e especiarias..."
-
-1005506-63 = "Numa frigideira bem aquecida, derreta a manteiga e leve ao forno até a superfície ficar crocante..."
-
-1005506-67 = "Finalmente, vodca――"
-
-1005506-72 = "[ns7] \"Álcool!?\"\n[ns8] \"Espere...!?\""
-
-1005506-75 = "...Talvez, senhor, seja a primeira vez que você vê álcool sendo usado na culinária?"
-
-1005506-76 = "Diz-se que usar álcool na culinária tira o cheiro da carne e cria um sabor único."
-
-1005506-77 = "No restaurante que fui da última vez, serviram álcool e acenderam o fogo no final. Aquela coisa de \"Flambé\"."
-
-1005506-78 = "[s9] \"Isso é diferente desta vez porque eles colocaram álcool nele e o aqueceram.\"\n[s10] \"Se você colocar álcool normal nele, não terá gosto de álcool...?\""
-
-1005506-81 = "Hmm, talvez seja esse o caso também."
-
-1005506-82 = "Nesse caso, me pergunto o que aconteceu..."
-
-1005506-83 = "Por enquanto, vamos supor que vou comer isso..."
-
-1005506-87 = "[ns] \"Posso pegar emprestado por um tempo?\""
-
-1005506-91 = "...?"
-
-1005506-92 = "Tá bom, mas vou pedir para a Senseia fazer hoje..."
-
-1005506-93 = "[s] \"Está tudo bem, deixe comigo.\""
-
-1005506-103 = "(Eu cozinhei os ingredientes que Shigure trouxe...)"
-
-1005506-109 = "...No final, acabou parecendo que a Senseia tinha feito isso para mim."
-
-1005506-110 = "Desculpe, demorei."
-
-1005506-111 = "[s11] \"Bem, eu não fiz muito.\"\n[s12] \"Estou muito feliz que Shigure veio e pudemos comer assim.\""
-
-1005506-116 = "……."
-
-1005506-117 = "Bem, agradeço que diga isso, mas..."
-
-1005506-118 = "Até eu estou um pouco hesitante em dizer dessa maneira..."
-
-1005506-119 = "É isso que os adultos podem pagar?"
-
-1005506-120 = "Mas acho melhor tomar cuidado, certo?"
-
-1005506-121 = "Se você fizer isso, eu também posso me deixar levar, certo?"
-
-1005506-122 = "Até a Senseia ficaria cansada se eu começasse a ir na placa de Petri, né?"
-
-1005506-123 = "Ei, não tem problema...?"
-
-1005506-124 = "Você aceitará minhas pegadinhas o quanto quiser...?"
-
-1005506-125 = "Hehe, é isso que você quer dizer?"
-
-1005506-126 = "Bem, então acho que vou deixar você continuar vindo."
-
-1005506-127 = "Sensei, venha nos visitar mais na aula especial nº 227."
-
-1005506-128 = "Claro, não se esqueça de nos contatar antes de vir!"
-
+1005506-1 = "素直に"
+1005506-2 = "（シャーレの調理場で待っていると、約束の時間ちょうどにシグレが来た）"
+1005506-8 = "へぇ、ここが……思ったより色々揃ってるね。"
+1005506-13 = "何度かシャーレには来てたけど、ここに入ったのは初めてかも。"
+1005506-14 = "[s1] \"あ、いらっしゃい。\"\n[s2] \"その背中の包みは……？\""
+1005506-19 = "……ああ、これ？"
+1005506-20 = "まあ気になるよね。"
+1005506-21 = "この前言った通り、料理をふるまおうと思って。"
+1005506-22 = "それで、料理に必要な食材を持ってきた。"
+1005506-23 = "心配しなくても、変な食材じゃないよ。"
+1005506-24 = "先生はそこで座って待ってて。私が全部やるから。"
+1005506-25 = "さて、じゃあ227号特別クラスの特製ジビエ料理を――"
+1005506-32 = "[ns3] \"！？\"\n[ns4] \"生肉だ！？\""
+1005506-35 = "新鮮で良い感じでしょ？"
+1005506-36 = "こういう生肉、あんまり見たことない感じだった？"
+1005506-37 = "あ、まずジビエの話からした方が良いかな？"
+1005506-38 = "熊とか鹿とか、兎とか……狩りで捕まえた野生の鳥獣を使わせてもらう料理のこと。"
+1005506-39 = "ジビエは鮮度が命だから、普段は捕まえてすぐに下ごしらえをするんだけどね。"
+1005506-43 = "今日はそのまま持ってきて、シャーレで直接手入れを……"
+1005506-44 = "……ん、どうしたの？"
+1005506-45 = "うん。227号だと、しょっちゅう食べてるよ？"
+1005506-46 = "……って言いたいところだけど、まあ半分以上は冗談。事務局からパンとかお米は配給されるから、ジビエはそれなりに特別かな。"
+1005506-47 = "でも、この前は先生がすごい料理をごちそうしてくれたし、私としても227号の特別な料理をってね。"
+1005506-48 = "……まあ実はこの肉、今日は使わないんだけどね。捕まえたばっかりだと、固すぎて食べるのに向かなくてさ。"
+1005506-49 = "でも先生のビックリした顔が見れたから、頑張ってこの肉の塊を持ってきた甲斐があったなー。"
+1005506-50 = "[s5] \"つまり、一発からかうためにそこまで……\"\n[s6] \"シグレは色々とすごいね……。\""
+1005506-53 = "まあ、日々楽しく生きないとね。イタズラ心を忘れたら、人生の楽しみが半減しちゃうから。"
+1005506-54 = "さ、そろそろ本格的に料理を始めよっか。"
+1005506-57 = "肉は塩と香辛料で下味をつけて……"
+1005506-63 = "よく熱したフライパンの上にバターを溶かして、表面がカリッとなるまで焼いたら……"
+1005506-67 = "最後にウォッカを――"
+1005506-72 = "[ns7] \"お酒！？\"\n[ns8] \"ちょっ……！？\""
+1005506-75 = "……もしかして先生、料理にお酒を使うのを見るのは初めて？"
+1005506-76 = "料理にお酒を使うと肉の臭みが取れて、独特の風味が生まれるらしいよ。"
+1005506-77 = "前行ったレストランでも、最後にお酒を注いで火をつけてたでしょ。あの「フランベ」ってやつ。"
+1005506-78 = "[s9] \"あれお酒を入れて加熱してるから今回とは違うよ。\"\n[s10] \"普通のお酒をそのまま入れたら、お酒の味にならない……？\""
+1005506-81 = "うーん、それもそうかも。"
+1005506-82 = "となると、どうしたものかな……"
+1005506-83 = "とりあえずこれは私が食べるとして——"
+1005506-87 = "[ns] \"ちょっと借りて良い？\""
+1005506-91 = "……？"
+1005506-92 = "良いけど、先生に今日やってもらうのは……"
+1005506-93 = "[s] \"大丈夫、任せて。\""
+1005506-103 = "（シグレが持ってきてくれた食材を調理した――）"
+1005506-109 = "……何だか結局、先生に作ってもらったみたいになっちゃったね。"
+1005506-110 = "ごめんね、せっかく時間を貰ったのに。"
+1005506-111 = "[s11] \"ううん、大したことはしてないし。\"\n[s12] \"何ならシグレが来てくれて、こうして食事できるだけで嬉しいから。\""
+1005506-116 = "……。"
+1005506-117 = "まあ、そう言ってくれるとありがたいけど……"
+1005506-118 = "そういう言い方は、いくら私でもちょっとなぁ……。"
+1005506-119 = "これが大人の余裕かー……。"
+1005506-120 = "でも、気を付けた方が良いと思うよ？"
+1005506-121 = "そういう風にされたら、私も調子に乗っちゃうかもしれないよ？"
+1005506-122 = "先生だって、私がシャーレに通い始めたりしたら疲れるでしょ？"
+1005506-123 = "え、問題無い……？"
+1005506-124 = "私のイタズラぐらい、いくらでも受け止める……？"
+1005506-125 = "ふふっ、そういう事いうんだ？"
+1005506-126 = "じゃあ、これからも来させてもらおうかな。"
+1005506-127 = "先生も、227号特別クラスにもっと遊びに来てね。"
+1005506-128 = "もちろん来る前の連絡は忘れないように！"

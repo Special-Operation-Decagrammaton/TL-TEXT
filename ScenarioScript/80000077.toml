@@ -1,97 +1,49 @@
 [translation]
-80000077-1 = "rosas azuis e chocolate"
-
-80000077-2 = "Canteiro de flores de Atsuko"
-
-80000077-3 = "Bom dia, Sensei."
-
-80000077-4 = "[s] \"Bom dia, Atsuko. ``Saudações são importantes'', certo? \""
-
-80000077-5 = "Sim. Estou feliz que você se lembre."
-
-80000077-6 = "Por que você ligou?"
-
-80000077-7 = "isso é……"
-
-80000077-8 = "……segredo."
-
-80000077-9 = "...Que piada. Não fique tão preocupado."
-
-80000077-10 = "Sim, isso."
-
-80000077-15 = "[ns] \"Talvez... chocolate do Dia dos Namorados?\""
-
-80000077-16 = "...Isso também é um segredo."
-
-80000077-17 = "Por favor, abra-o logo."
-
-80000077-18 = "(A pedido de Atsuko, ela abre o pacote de chocolate)"
-
-80000077-19 = "(O acabamento do chocolate que apareceu por dentro ficou um pouco desajeitado.)"
-
-80000077-20 = "[ns] \"Talvez seja feito à mão...?\""
-
-80000077-21 = "...Hehe."
-
-80000077-22 = "Se sim, o que você faria?"
-
-80000077-23 = "[s] \"Onde e como isso aconteceu...?\""
-
-80000077-24 = "Hum..."
-
-80000077-25 = "Isso também é um segredo, eu acho."
-
-80000077-26 = "[s] \"É segredo de novo...\""
-
-80000077-27 = "...Eu ouvi isso de Hiyori."
-
-80000077-28 = "Não há problema em uma princesa ter muitos segredos."
-
-80000077-29 = "Porém, não sou mais uma “princesa”."
-
-80000077-30 = "[s] \"Atsuko ainda é minha princesa! Agora me dê suas ordens!\""
-
-80000077-31 = "Hehe, é isso mesmo?"
-
-80000077-32 = "Isso pode me deixar um pouco feliz."
-
-80000077-33 = "Agora, aqui estão as ordens da princesa."
-
-80000077-34 = "Por favor, aproveite o seu chocolate. depois disso--"
-
-80000077-35 = "Por favor, cuide dessas flores até o fim. #n...Porque ele é o filho que eu valorizei e criei."
-
-80000077-36 = "[s] \"Sim! Vou transformá-las em flores secas e guardá-las com carinho pelo resto da minha vida!\""
-
-80000077-37 = "...O que são flores secas?"
-
-80000077-39 = "(Expliquei para Atsuko sobre flores secas)"
-
-80000077-41 = "……incrível. Existe uma maneira de fazer isso."
-
-80000077-42 = "[s] \"Sim, você pode manter as flores lindas.\""
-
-80000077-43 = "Isso mesmo... então, Sensei. Por favor, cuide bem dessa criança."
-
-80000077-44 = "...Hehe. Dessa forma, a criança pode ficar com o Sensei para sempre."
-
-80000077-45 = "O chocolate terá acabado."
-
-80000077-46 = "[s] \"Quando você diz isso, parece um desperdício comê-lo...\""
-
-80000077-47 = "...Isso é um problema."
-
-80000077-48 = "razão……? #nIsso porque eu queria comer chocolate com minha Senseia."
-
-80000077-49 = "...enquanto olha para este canteiro de flores."
-
-80000077-50 = "[s] \"Foi por isso que você me chamou aqui?\""
-
-80000077-51 = "Sim. Eu queria que você visse as flores que você trabalhou tanto para cultivar."
-
-80000077-52 = "Foi graças à Senseia que consegui criar um canteiro de flores tão lindo."
-
-80000077-53 = "Obrigada por sempre me ensinar tantas coisas."
-
-80000077-55 = "(Eu compartilhei um chocolate com Atsuko e comi enquanto olhava para o canteiro de flores.)"
-
+80000077-1 = "青いバラとチョコレート"
+80000077-2 = "アツコの花壇"
+80000077-3 = "おはよう、先生。"
+80000077-4 = "[s] \"おはよう、アツコ。「挨拶は大事」、だよね？\""
+80000077-5 = "うん。覚えててくれてうれしい。"
+80000077-6 = "呼び出した理由？"
+80000077-7 = "それは……"
+80000077-8 = "……秘密。"
+80000077-9 = "……なんて、冗談。そんなに困った顔しないで。"
+80000077-10 = "はい、これ。"
+80000077-15 = "[ns] \"もしかして……バレンタインチョコ？\""
+80000077-16 = "……それも、秘密。"
+80000077-17 = "早く開けてみて。"
+80000077-18 = "（アツコに促され、チョコレートの包みを開いた）"
+80000077-19 = "（中から現れたチョコレートの仕上げは、ほんの少し拙いところがあった）"
+80000077-20 = "[ns] \"もしかして、手作り……？\""
+80000077-21 = "……ふふっ。"
+80000077-22 = "だとしたら、どうする？"
+80000077-23 = "[s] \"これ、一体どこでどうやって……？\""
+80000077-24 = "うーん……。"
+80000077-25 = "それも秘密、かな。"
+80000077-26 = "[s] \"またまた秘密かぁ……。\""
+80000077-27 = "……ヒヨリから聞いたんだけど。"
+80000077-28 = "お姫様は秘密が多くてもいいんだって。"
+80000077-29 = "もっとも、私はもう「お姫様」じゃないけど。"
+80000077-30 = "[s] \"今でもアツコは私のプリンセス！さあ何でもご命令を！\""
+80000077-31 = "ふふっ、そうなの？"
+80000077-32 = "それは、少し嬉しいかも。"
+80000077-33 = "では、お姫様からの命令です。"
+80000077-34 = "チョコレート、おいしく食べてください。それから――"
+80000077-35 = "そのお花は最後までお世話してあげて。#n……大切に、育てた子だから。"
+80000077-36 = "[s] \"はい！ドライフラワーにして一生大事にします！\""
+80000077-37 = "……ドライフラワーって、何？"
+80000077-39 = "（アツコに、ドライフラワーについて説明した）"
+80000077-41 = "……すごい。そんな方法があるんだね。"
+80000077-42 = "[s] \"うん、花を綺麗なまま保存できるんだよ。\""
+80000077-43 = "そうなんだ……じゃあ先生。その子をよろしくね。"
+80000077-44 = "……ふふっ。そうすれば、その子はずっと先生のところにいられる。"
+80000077-45 = "チョコレートは、なくなっちゃうけど。"
+80000077-46 = "[s] \"そう言われると、食べるのがもったいないなぁ……。\""
+80000077-47 = "……それは、困る。"
+80000077-48 = "理由……？#nそれは私が、先生と一緒にチョコレートを食べたかったから。"
+80000077-49 = "……この、花壇を見ながら。"
+80000077-50 = "[s] \"それで私を、ここに呼んでくれたの？\""
+80000077-51 = "うん。頑張って育てた花を見てほしかったの。"
+80000077-52 = "こんなに綺麗な花壇を作れたのも、先生のお陰。"
+80000077-53 = "いつも沢山のことを教えてくれて、ありがとう。"
+80000077-55 = "（アツコと花壇を眺めながら、チョコレートを分け合って食べた）"

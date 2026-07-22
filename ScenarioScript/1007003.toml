@@ -1,128 +1,65 @@
 [translation]
-1007003-1 = "prática de gravador"
-
-1007003-5 = "(Xô!)"
-
-1007003-12 = "Não há mais lugar para escapar. #nSe você se entregar silenciosamente, não farei nada de mal com você."
-
-1007003-13 = "Tsc...!"
-
-1007003-17 = "[ns1] \"Agora, Mina!\"\n[ns2] \"Nós levamos você a um beco sem saída!\""
-
-1007003-20 = "(No momento seguinte, ouvi o som de um gravador vindo de algum lugar...)"
-
-1007003-21 = "(Era um tom estranho que é difícil de descrever.)"
-
-1007003-22 = "O-que som é esse...?"
-
-1007003-28 = "[ns] \"M-Mina-san, aquele gravador é...?\""
-
-1007003-29 = "...(jogando)"
-
-1007003-31 = "Que diabos... caramba, vamos fazer você sofrer no final?"
-
-1007003-33 = "...(jogando)"
-
-1007003-43 = "Sim... pare com isso! Não consigo ouvir mais! ! #nEntregue-se! Por favor, me perdoe porque eu me rendo! !"
-
-1007003-45 = "……."
-
-1007003-46 = "Será que os vilões não entendem esse tom elegante...!?"
-
-1007003-48 = "Não vale a pena dedicar mais nada a você!"
-
-1007003-55 = "(Depois disso, o aluno delinquente foi preso por Mina, que estava irritada por algum motivo...)"
-
-1007003-57 = "Ufa... A comemoração de hoje é agridoce."
-
-1007003-62 = "[ns] \"Isso é suco...\""
-
-1007003-63 = "Huh."
-
-1007003-64 = "[s3] \"A propósito, Mina-san...\"\n[s4] \"O que era aquele gravador?\""
-
-1007003-67 = "Ah, um gravador?"
-
-1007003-68 = "Acreditei que a Senseia iria gostar."
-
-1007003-69 = "Já vi isso em um filme antes."
-
-1007003-70 = "Na abertura, ouve-se o som de copos - o personagem principal bebe o coquetel de um só gole...#nO protagonista continua a tocar clarinete."
-
+1007003-1 = "リコーダーの練習"
+1007003-5 = "（シュッ！）"
+1007003-12 = "これ以上、逃げ場はないぞ。#n大人しく投降するなら、悪いようにはしない。"
+1007003-13 = "チッ……！"
+1007003-17 = "[ns1] \"今だよ、ミナ！\"\n[ns2] \"行き止まりに追い込んだよ！\""
+1007003-20 = "（次の瞬間、どこかからリコーダーの音が聞こえてきたが……）"
+1007003-21 = "（それは形容しがたい奇怪な音色だった）"
+1007003-22 = "な、何の音だ……？"
+1007003-28 = "[ns] \"み、ミナさん、そのリコーダーは……？\""
+1007003-29 = "……（演奏中）"
+1007003-31 = "何だよ、いったい……クソッ、最後に苦しませようってか？"
+1007003-33 = "……（演奏中）"
+1007003-43 = "やっ……やめてくれ！これ以上は耳がっ！！#n降参だ！投降するから許してくれ！！"
+1007003-45 = "……。"
+1007003-46 = "悪党には、この風情ある音色が分からないのか……！"
+1007003-48 = "これ以上、お前らに[ruby=レクイエム]鎮魂曲[/ruby]を捧げる価値はない！"
+1007003-55 = "（その後、なぜか怒っているミナによって、不良生徒は取り押さえられた……）"
+1007003-57 = "ふぅ……今日の祝杯は苦いな。"
+1007003-62 = "[ns] \"それ、ジュースだよね……。\""
+1007003-63 = "フッ。"
+1007003-64 = "[s3] \"ところで、ミナさん……\"\n[s4] \"あのリコーダーは何だったんでしょうか？\""
+1007003-67 = "ああ、リコーダーか。"
+1007003-68 = "先生なら、気に入ってくれると信じていたぞ。"
+1007003-69 = "以前、映画で見たことがあってな。"
+1007003-70 = "オープニングと共にグラスの音が聞こえ――カクテルを一気に飲み干し……#nそのままクラリネットを演奏する主人公。"
 1007003-71 = "彼は……その後も同僚が死ぬ時、決まってクラリネットを演奏していた。"
-1007003-72 = "Então, eu também me decidi."
-
-1007003-73 = "Antes de subjugar seu oponente, tente oferecê-lo."
-
-1007003-74 = "[s] \"Mas Mina estava tocando o gravador, certo...?\""
-
-1007003-75 = "……."
-
-1007003-76 = "Ouça, senhor."
-
-1007003-77 = "O clarinete é... difícil."
-
-1007003-78 = "[s] \"Então, o gravador que você aprendeu na escola?\""
-
-1007003-79 = "Huh."
-
-1007003-80 = "[s] \"…….\""
-
-1007003-81 = "Então, Senseia... como foi a apresentação?"
-
-1007003-82 = "[s] \"...Posso ser honesto?\""
-
-1007003-83 = "Ah, claro."
-
-1007003-84 = "[s] \"Talvez eu não tenha ouvido...\""
-
-1007003-85 = "Oh, eu vejo..."
-
-1007003-86 = "Porém, em vez de falar do passado, vamos falar do futuro."
-
-1007003-87 = "O repetido “agora” eventualmente se tornará o caminho que leva ao “futuro”."
-
-1007003-88 = "[s] \"...Você quer dizer praticar a flauta doce, certo?\""
-
-1007003-89 = "Huh."
-
-1007003-90 = "Como esperado, o Sensei pode entender."
-
-1007003-92 = "(A performance de Mina continuou depois disso)"
-
-1007003-98 = "O que? Qual é o som deste gravador...?"
-
-1007003-99 = "É difícil descrever... Que som é esse? ?"
-
-1007003-106 = "Huh."
-
-1007003-119 = "Ei! #nEu ouvi o som do gravador...!"
-
-1007003-120 = "O que diabos é esse som estranho...?"
-
-1007003-128 = "...Huh."
-
-1007003-129 = "#st;[0,0];instantâneo;1;"
-
-1007003-130 = "#claroST"
-
-1007003-133 = "Recentemente, a segurança do Genryumon tornou-se estável."
-
-1007003-134 = "O número de comoções causadas por alunos inadimplentes diminuiu, o que deixa Genryumon muito feliz."
-
-1007003-135 = "Hmm... é bom quando seu trabalho dá frutos."
-
-1007003-136 = "[s5] \"Enquanto toca o gravador, ele reprime os alunos delinquentes...\"\n[s6] \"Parece que estão se espalhando rumores de que existem executivos de Genryumon...\""
-
-1007003-139 = "Ah, esse boato? Chegou aos meus ouvidos também."
-
-1007003-140 = "Finalmente minha grandeza está se tornando conhecida, não é? #nIsso também é prova de que sua habilidade de jogo melhorou."
-
-1007003-141 = "Hehe, vale a pena fazer isso? Verdadeiramente maravilhoso."
-
-1007003-142 = "[s] \"Isso mesmo...\""
-
-1007003-144 = "(Rumores de que os executivos da Xuanlongmen apareceram com o som de um gravador assustador se espalharam rapidamente por todo Shanhaijing.)"
-
-1007003-145 = "(Como resultado, parece estar ajudando a manter a ordem pública em Shanhaijing, então #nparabéns, parabéns...?)"
-
+1007003-72 = "それで、私も心に決めたのだ。"
+1007003-73 = "相手を取り押さえる前に、[ruby=レクイエム]鎮魂曲[/ruby]を捧げようとな。"
+1007003-74 = "[s] \"でもミナが吹いてたのは、リコーダーだよね……？\""
+1007003-75 = "……。"
+1007003-76 = "いいか、先生。"
+1007003-77 = "クラリネットは……難しいんだ。"
+1007003-78 = "[s] \"だから、学校で習ったリコーダーを？\""
+1007003-79 = "フッ。"
+1007003-80 = "[s] \"……。\""
+1007003-81 = "それで、先生……演奏はどうだった？"
+1007003-82 = "[s] \"……正直に言っても良いかな？\""
+1007003-83 = "ああ、もちろんだとも。"
+1007003-84 = "[s] \"[ruby=レクイエム]鎮魂曲[/ruby]には聞こえなかったかも……。\""
+1007003-85 = "そっ、そうか……。"
+1007003-86 = "だが、「これまで」よりも「これから」を語ろうじゃないか。"
+1007003-87 = "繰り返される「今」が、やがて「未来」へ繋がる道となるのだから。"
+1007003-88 = "[s] \"……リコーダーの練習をする、ってことだよね？\""
+1007003-89 = "フッ。"
+1007003-90 = "やはり、先生は話が通じるな。"
+1007003-92 = "（その後も、ミナの演奏は続いた）"
+1007003-98 = "な、なんだ？このリコーダーの音は……？"
+1007003-99 = "形容しがたい……なんだこの音は！？"
+1007003-106 = "フッ。"
+1007003-119 = "ひぃっ！#nリコーダーの音が聞こえてきたぞ……！"
+1007003-120 = "この耳[ruby=ざわ]障[/ruby]りな音は、いったい何なんだ……！"
+1007003-128 = "……フッ。"
+1007003-129 = "#st;[0,0];instant;1;"
+1007003-130 = "#clearST"
+1007003-133 = "ここ最近、玄龍門の治安が安定してきた。"
+1007003-134 = "不良生徒が起こす騒ぎも減って、玄龍門としては喜ばしい限りだ。"
+1007003-135 = "ふぅ……自分の仕事が実を結ぶと、気持ちがいいものだな。"
+1007003-136 = "[s5] \"リコーダーを吹きながら、不良生徒の取り締まりを行う……\"\n[s6] \"玄龍門の幹部がいるって噂が広まってるみたいだけど……\""
+1007003-139 = "ああ、その噂か。私の耳にも入ってきた。"
+1007003-140 = "ついに、私の[ruby=レクイエム]鎮魂曲[/ruby]の素晴らしさが知れ渡ってきたのだな？#nこれも演奏力が上がった証拠だろう。"
+1007003-141 = "フフッ、これがやり甲斐か。実に素晴らしい。"
+1007003-142 = "[s] \"そうだね……。\""
+1007003-144 = "（恐ろしいリコーダーの音と共に現れる玄龍門幹部の噂は、あっという間に山海経全域へ広まった。）"
+1007003-145 = "（結果的として、山海経の治安維持に役立っているようなので、#nめでたし、めでたし……？）"

@@ -1,129 +1,65 @@
 [translation]
-1007806-1 = "Pedido de resgate nas profundezas das montanhas"
-
-1007806-2 = "(Ele correu para o lugar que Kasumi o enviou.)"
-
-1007806-6 = "Hahahahaha! #nÉ um lugar tranquilo então você não ouvirá passos!"
-
-1007806-7 = "Eu disse que não havia necessidade de tanta pressa... bem, eu esperava que algo assim acontecesse."
-
-1007806-8 = "Uau! Sensei!"
-
-1007806-9 = "Por aqui, por aqui!"
-
-1007806-11 = "Ugh... isso é constrangedor. #nMas não posso deixar de pedir ajuda..."
-
-1007806-12 = "Obrigado, senhor. Como devo me desculpar quando já estou ocupado?"
-
-1007806-13 = "……sim? Mais importante ainda, você está bem com seus ferimentos?"
-
-1007806-14 = "Oh, não é uma lesão grave! #nHahaha, está tudo bem!"
-
-1007806-15 = "Sinto muito por você se você me deixa tão preocupado..."
-
-1007806-16 = "Quando eu estava andando por uma trilha na montanha para encontrar um lugar nesta área, minha sandália quebrou e tropecei."
-
-1007806-17 = "Só torci um pouco a perna, mas não era como se eu estivesse sangrando! #nEntão não entre em pânico."
-
-1007806-18 = "É verdade! Se você não acredita muito nisso, por que não dá uma olhada?"
-
-1007806-19 = "...Olha, aqui está! É aqui que estão meus pés!"
-
-1007806-20 = "Não está inchado, está? Bem, estava um pouco arranhado, mas não foi um grande arranhão. #nA reação da Senseia é demais."
-
-1007806-21 = "...Por que você veio para um lugar como esse sozinho?"
-
-1007806-22 = "Isso se deve à “investigação preliminar”. Depois de decidir os pontos, você deve ir e verificá-los."
-
-1007806-23 = "Não há problema aqui, mas os pontos de fontes termais geralmente estão localizados em áreas urbanas."
-
-1007806-24 = "Se várias pessoas estiverem agindo juntas, isso chamará a atenção das pessoas."
-
-1007806-25 = "Portanto, estou basicamente conduzindo a investigação sozinho. Isso é mais eficiente."
-
-1007806-26 = "Ha ha ha. Você achou que ele estava apenas olhando para o mapa?"
-
-1007806-27 = "……sim?"
-
-1007806-28 = "……lei? E então, você está curioso para saber os resultados desta pesquisa?"
-
-1007806-29 = "Hmm, infelizmente aqui..."
-
-1007806-30 = "...Você perdeu!"
-
-1007806-31 = "Hahahahaha! ! Foi um fracasso total! ! #nAbsolutamente não vale a pena explodir!"
-
-1007806-32 = "Não há sinal de uma fonte termal particularmente boa e, mesmo depois da explosão, o cenário é bastante simples."
-
-1007806-33 = "Não acho que nada de interessante acontecerá no processo. Tudo não é suficiente."
-
-1007806-34 = "Nunca esperei que cometeria tal erro. #nHahahahaha!"
-
-1007806-35 = "Além disso, não é legal que até as sandálias estejam quebradas...suspiro."
-
-1007806-36 = "Sim, senhor."
-
-1007806-37 = "...Você trouxe o que eu pedi?"
-
-1007806-38 = "[s1] \"Você está bem com isso?\"\n[s2] Tire as sandálias que você trouxe."
-
-1007806-41 = "Hahahaha! Como esperado, Sensei! Eu acreditei!"
-
-1007806-42 = "Pois bem, vamos resolver isso imediatamente. #nNão há mais necessidade de ficar aqui, então irei até o próximo ponto de águas termais..."
-
-1007806-43 = "...?"
-
-1007806-44 = "O que há de errado, senhor? Eu gostaria que você me desse isso logo..."
-
-1007806-45 = "……foto?"
-
-1007806-46 = "Ah, nas costas...? #n Sensei? Meu?"
-
-1007806-47 = "Hum...?"
-
-1007806-48 = "Hummm...! ?"
-
-1007806-49 = "...Mmmmmmmmmmm! ?"
-
-1007806-53 = "...Bem, é isso."
-
-1007806-54 = "...Isso é absolutamente verdade?"
-
-1007806-55 = "Eu me sinto um pouco... estranhamente envergonhado..."
-
-1007806-56 = "Bem, eu torci o tornozelo, então é um pouco difícil andar..."
-
-1007806-57 = "Posso descer devagar... bem, se você me emprestar seu ombro, é isso..."
-
-1007806-58 = "... Nas costas... Nas costas, hein..."
-
-1007806-59 = "Hummm..."
-
-1007806-60 = "...Absolutamente?"
-
-1007806-61 = "[s3] \"Sim, com certeza.\"\n[s4] \"Ele está ferido.\""
-
-1007806-64 = "Hmmmmmm... sim."
-
-1007806-65 = "Bem, então... e-eu não posso evitar...?"
-
-1007806-66 = "Ha, ha ha, ha ha ha ha… ha ha ha…! !"
-
-1007806-70 = "Ha, eu não esperava que o Sensei fosse tão agressivo. #nEsta é a primeira vez que me sinto tão envergonhado."
-
-1007806-71 = "Se alguém me visse, não suspeitaria que tínhamos um relacionamento especial? #nOu o Sensei não se importa se você for mal compreendido?"
-
-1007806-72 = "...E de qualquer forma, eu entendi. Quando você chegar lá embaixo, você vai me dar sandálias, certo? #nVocê me promete isso?"
-
-1007806-73 = "...Eu vejo. Se for esse o caso, por favor me ajude, Sensei."
-
-1007806-80 = "[ns5] \"...Kasumi?\"\n[ns6] \"O que há de errado?\""
-
-1007806-83 = "Não, não... bem, só estou pensando em uma coisa."
-
-1007806-84 = "…………Haha."
-
-1007806-85 = "De alguma forma, relembrando a pesquisa de hoje..."
-
-1007806-87 = "...Talvez não tenha sido tudo em vão, pensei."
-
+1007806-1 = "山奥からの救助要請"
+1007806-2 = "（カスミから送られてきた場所に急いで向かった）"
+1007806-6 = "ハッハッハッハッハ！#n静かな場所だから足音が響くな！"
+1007806-7 = "そんなに急ぐ必要は無いと言ったんだが……まぁ、こうなる予想はしていた。"
+1007806-8 = "おお～～～い！先生！"
+1007806-9 = "こっちだ、こっち！"
+1007806-11 = "くう……恥ずかしい限りだ。#nしかし、助けを呼ばないわけにはいかんしな……"
+1007806-12 = "感謝する、先生。ただでさえ忙しいというのに、どう謝れば良いものか。"
+1007806-13 = "……ん？それよりも怪我は大丈夫かって？"
+1007806-14 = "ああ、全然大した怪我じゃない！#nハッハッハ、本当に大丈夫だ！"
+1007806-15 = "ここまで心配されると、逆に申し訳なくなるな……"
+1007806-16 = "この辺りのポイントを探すために山道を歩いていたら、サンダルが壊れて足を踏み外してしまったんだ。"
+1007806-17 = "ちょっと足をくじいたくらいで、血が出たりしたわけじゃない！#nだから、そこまで慌てないでくれ。"
+1007806-18 = "本当だ！そんなに信じられないなら、見てみれば良いじゃないか？"
+1007806-19 = "……ほら、ここだ！足のここ！"
+1007806-20 = "腫れてもないだろう？まあ、多少は擦りむいたが、大した傷ではない。#n先生の反応が[ruby=おおげさ]大袈裟[/ruby]すぎる。"
+1007806-21 = "……なぜこんな所に一人で来たのかって？"
+1007806-22 = "それは「事前調査」のためだ。ポイントを決めたら、次は実際に足を運んで確認しなければならない。"
+1007806-23 = "ここは問題ないが、温泉ポイントは都市部の場合も多いからな。"
+1007806-24 = "複数人で行動していると、目を引いてしまう。"
+1007806-25 = "だから、基本的に私が単独で調査を進めている。その方が効率的だし。"
+1007806-26 = "ハッハッハ。もしかして、ただ地図と睨めっこしてるだけかと思ったか？"
+1007806-27 = "……ん？"
+1007806-28 = "……ほう？それで、ここの調査結果が気になると？"
+1007806-29 = "むう、残念ながらここは……"
+1007806-30 = "……ハズレだ！"
+1007806-31 = "ハーハッハッハッハ！！完全にハズレだった！！#nまったくもって、爆破する価値などない！"
+1007806-32 = "別に良い温泉が出る気配もしないし、爆破したところで地味な景色だ。"
+1007806-33 = "その過程で面白い出来事が起こるとも思えん。全てが足りていない。"
+1007806-34 = "まさか私としたことが、こんなミスをするとはな。#nハーハッハッハ！"
+1007806-35 = "しかも、サンダルまで壊れてしまうとは、ツイてない……はぁ。"
+1007806-36 = "そうだ、先生。"
+1007806-37 = "……頼んでいた物は持ってきてくれたか？"
+1007806-38 = "[s1] \"これで大丈夫？\"\n[s2] 持ってきたサンダルを出す。"
+1007806-41 = "ハーハッハッハ！さすがだ、先生！信じていたぞ！"
+1007806-42 = "じゃあ、さっそくだが頂くとしよう。#nもうここには用もないし、下りて次の温泉ポイントに……"
+1007806-43 = "……？"
+1007806-44 = "どうしたんだ、先生？早く渡してほしいのだが……"
+1007806-45 = "……え？"
+1007806-46 = "お、おんぶ……？#n先生が？私を？"
+1007806-47 = "んむ……？"
+1007806-48 = "んんんんん……！？"
+1007806-49 = "……んんんんんんんん～っ！？"
+1007806-53 = "……えっと、だな。"
+1007806-54 = "……それは、絶対なのか？"
+1007806-55 = "なんかちょっと……妙に照れくさいな……"
+1007806-56 = "そ、そりゃあ、足首を捻ってるから多少の歩きにくさはあるが……"
+1007806-57 = "ゆっくりなら下りられるし……まあ、肩を貸してもらえれば、それで……"
+1007806-58 = "……おんぶ……おんぶ、か……"
+1007806-59 = "んんん～～～……"
+1007806-60 = "……絶対か？"
+1007806-61 = "[s3] \"うん、絶対。\"\n[s4] \"怪我人なんだから。\""
+1007806-64 = "ふぅむむむむ……そう、か。"
+1007806-65 = "じ、じゃあ……し、仕方ないか……？"
+1007806-66 = "ハ、ハハッ、ハハハッハッ……ハーハッハッ……！！"
+1007806-70 = "はぁ、まったく先生がこうも強引だとは思わなかった。#n初めてだ、こんな恥ずかしい思いをしたのは。"
+1007806-71 = "誰かに見られたら、特別な関係だと疑われるんじゃないのか？#nそれとも先生は、誤解されても構わないとでも？"
+1007806-72 = "……と、とにかく分かった。下に着いたら、サンダルをくれるのだな？#nそれは約束してくれるか？"
+1007806-73 = "……そうか。なら、よろしく頼むぞ、先生。"
+1007806-80 = "[ns5] \"……カスミ？\"\n[ns6] \"どうしたの？\""
+1007806-83 = "い、いや……まあ、ちょっと考え事だ。"
+1007806-84 = "…………ハハッ。"
+1007806-85 = "なんというか、振り返ってみると今日の調査も……"
+1007806-87 = "……無駄じゃなかったのかもしれない、と思ってな。"

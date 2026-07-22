@@ -1,101 +1,51 @@
 [translation]
-1007903-1 = "aura natural"
-
-1007903-2 = "(Quando soube que havia um problema, corri para o parque...)"
-
-1007903-3 = "(Quando cheguei perto, ouvi a voz de Misaka.)"
-
-1007903-5 = "Não... pare com isso já."
-
-1007903-6 = "Estou realmente em apuros."
-
-1007903-7 = "Se você não tiver calma, você vai acabar..."
-
-1007903-10 = "[ns1] \"Misaka!\"\n[ns2] \"O que aconteceu!?"
-
-1007903-17 = "Ah, Senseia...?"
-
-1007903-18 = "Apenas no lugar certo."
-
-1007903-19 = "Ha, já faz um tempo que é assim. #nSerá que o Sensei vai me dizer alguma coisa?"
-
-1007903-20 = "[s3] \"Em primeiro lugar, todos se acalmem.\"\n[s4] \"Não sei o que aconteceu, mas todos estão se dando bem.\""
-
-1007903-24 = "Essas pessoas de repente começaram a me chamar de \"irmã\"..."
-
-1007903-29 = "[ns5] \"...Huh?\"\n[ns6] \"O-O que você quer dizer...?\""
-
-1007903-32 = "...Bem, é exatamente como você disse."
-
-1007903-33 = "...Bem, é exatamente como você disse."
-
-1007903-34 = "Mas... não importa como você olhe, ela é uma “irmã”!"
-
-1007903-35 = "Isso mesmo! A idade não importa!"
-
-1007903-36 = "Também adoro que ela não tenha medo de Senseies adultos!"
-
-1007903-37 = "Ah, problema de novo..."
-
-1007903-38 = "……foto? Ah, eu não expliquei direito."
-
-1007903-39 = "Isso é... demoraria muito para explicar em detalhes..."
-
-1007903-40 = "Simplificando, salvei alguém que estava prestes a sofrer um acidente... com um choque eléctrico."
-
-1007903-41 = "Foi por muito pouco! De repente, uma estrutura de aço caiu do canteiro de obras!"
-
-1007903-42 = "Se não fosse pelo misterioso poder da minha irmã que me fez voar, esse cara já estaria gravemente ferido!"
-
-1007903-43 = "Minha irmã ouviu isso com estrondo! !"
-
-1007903-47 = "……de qualquer forma."
-
-1007903-48 = "Desde então sempre fui assim...Quando me perguntaram por que ajudava os outros, respondi que não precisava de um motivo para ajudar os outros, o que parece ter sido um dos motivos pelos quais fui querido..."
-
-1007903-49 = "Digo como se fosse óbvio, mas não é uma coisa fácil de fazer! ?"
-
-1007903-50 = "Ainda mais que ajudariam delinquentes como nós... #nNão seria estranho se lhes armassem uma armadilha!"
-
-1007903-51 = "Então eu não sei sobre isso..."
-
-1007903-52 = "Bem, achei as roupas um pouco estranhas, mas não sabia até que me disseram que era um delinquente."
-
-1007903-53 = "Esse espírito de ajudar não importa quem seja o outro...!"
-
-1007903-54 = "Afinal, você é a irmã mais velha...! !"
-
-1007903-58 = "[ns7] \"Achei que você estivesse envolvido em um incidente...\"\n[ns8] \"Estou aliviado por você não estar.\""
-
-1007903-64 = "Não, não! Não quero que você se sinta à vontade! ?"
-
-1007903-65 = "Além disso, ainda estou no ensino médio e não quero que os alunos do ensino médio me chamem de irmã mais velha!"
-
-1007903-66 = "É por isso que a idade não importa!"
-
-1007903-67 = "Isso mesmo, vou apresentar os outros também! #nSe sua irmã desejar, por favor reúna todos os delinquentes daqui..."
-
-1007903-68 = "Ah, já! Pare com isso! #nSe alguém me perguntasse, pensaria que eu também era um delinquente!"
-
-1007903-69 = "Não mais. Porque eu te avisei, certo? #nNão haverá próxima vez."
-
-1007903-70 = "Ugh... Como esperado de sua irmã, ela é realmente um lobo solitário."
-
-1007903-71 = "Bem, é verdade que são pessoas fracas como nós que se reúnem e sentem que estamos ficando mais fortes..."
-
-1007903-72 = "Essa foi uma péssima ideia! Estou voltando! !"
-
-1007903-73 = "Então, por favor, me escute! ! !"
-
-1007903-74 = "Sensei! Não fique calado, diga alguma coisa! #nSe o Sensei falar, ele vai ouvir! ?"
-
-1007903-78 = "……Sensei?"
-
-1007903-82 = "[ns9] Verifique trabalhos inacabados em seu smartphone. \n[ns10] \"Desculpe, tive uma ligação de trabalho... você disse alguma coisa?\""
-
-1007903-85 = "Não seja estúpido! !"
-
-1007903-87 = "(Depois... eu convenci os delinquentes e fiz com que voltassem pacificamente.)"
-
-1007903-88 = "(...com um aviso para que não te siga persistentemente)"
-
+1007903-1 = "天性のオーラ"
+1007903-2 = "（トラブルが発生したと聞き、慌てて公園に向かうと……）"
+1007903-3 = "（近くまで来たところで、御坂の声が聞こえてきた）"
+1007903-5 = "や……やめてよ、もう。"
+1007903-6 = "本当に困るって。"
+1007903-7 = "いい加減にしないと、流石に――"
+1007903-10 = "[ns1] \"御坂！\"\n[ns2] \"何があったの！？"
+1007903-17 = "あ、先生……？"
+1007903-18 = "ちょうどいいところに。"
+1007903-19 = "はぁ、さっきからこの調子なのよ。#n先生からも、何か言ってくれないかしら？"
+1007903-20 = "[s3] \"まずは、みんな落ち着いて。\"\n[s4] \"何があったのか知らないけど、みんな仲良くね。\""
+1007903-24 = "この人たちが、急に私の事を「お姉様」って呼んできて……"
+1007903-29 = "[ns5] \"……え？\"\n[ns6] \"ど、どういうこと……？\""
+1007903-32 = "……えっと、言葉通りよ。"
+1007903-33 = "……えっと、言葉通りよ。"
+1007903-34 = "で、でも……誰がどう見ても「お姉様」ですよね！"
+1007903-35 = "そうですよ！年齢なんて関係ありません！"
+1007903-36 = "大人の先生に対して物怖じしないところも素敵です！"
+1007903-37 = "はぁ、また面倒なことに……"
+1007903-38 = "……え？あぁ、ちゃんと説明してなかったわね。"
+1007903-39 = "それが……詳しく説明すると長くなるんだけど……"
+1007903-40 = "簡単に言うと、事故に巻き込まれそうになったところを助けたのよ……電撃で。"
+1007903-41 = "マジで危機一髪だったんだ！突然、工事現場から鉄骨が落ちてきて！"
+1007903-42 = "お姉様が不思議な力で飛ばしてくれなかったら、今頃コイツ大怪我してたはずなんですよ！"
+1007903-43 = "それをお姉様が、ドカーンって！！"
+1007903-47 = "……とにかく。"
+1007903-48 = "それから、ずっとこんな感じで……助けた理由を聞かれた時、人助けに理由なんて必要ないって答えたのも気に入られちゃった要因みたいで……"
+1007903-49 = "当然みたいに言ってますけど、簡単にできることじゃないですよ！？"
+1007903-50 = "ましてや、私たちみたいな不良を助けてくれるなんて……#n逆に罠を仕掛けられていても、おかしくないのに！"
+1007903-51 = "だから、そんなの私は知らないって……"
+1007903-52 = "ま、ちょっと変わった服装だなとは思ったけど、不良だなんて言われるまで分からなかったし。"
+1007903-53 = "相手が誰であろうと助けてくださるその精神……！"
+1007903-54 = "やはり、あなたはお姉様です……！！"
+1007903-58 = "[ns7] \"事件にでも巻き込まれたのかと思ったけど……\"\n[ns8] \"そうじゃなくて安心したよ。\""
+1007903-64 = "いやいや！安心しないでほしいんだけど！？"
+1007903-65 = "それにまだ中学生だし、高校生にお姉様って呼ばれたくないから！"
+1007903-66 = "だから年齢は関係ないんですってば！"
+1007903-67 = "そうだ、他の奴らも紹介しますよ！#nお姉様が望むなら、ここら一帯の不良を集めてきて……"
+1007903-68 = "ああっ、もう！やめてって！#n誰かに聞かれでもしたら、私まで不良だと勘違いされちゃうじゃない！"
+1007903-69 = "これ以上はもうやめて。警告したからね？#n次はないわよ。"
+1007903-70 = "うっ……流石はお姉様、まさに孤高の一匹狼だ。"
+1007903-71 = "た、たしかに、群がって強くなった気になるのは、私らみたいな弱い奴のやることですもんね……。"
+1007903-72 = "考えが甘かったです！出直してきます！！"
+1007903-73 = "だから、私の話を聞きなさいってばー！！！"
+1007903-74 = "先生！黙ってないで、なんとか言ってよ！#n先生が言えば聞いてくれるでしょ！？"
+1007903-78 = "……先生？"
+1007903-82 = "[ns9] スマホで終わっていない仕事を確認する。\n[ns10] \"ごめん、仕事の連絡が……何か言った？\""
+1007903-85 = "とぼけてんじゃないわよ！！"
+1007903-87 = "（その後……不良たちを説得し、穏便に帰ってもらった）"
+1007903-88 = "（……しつこく付きまとわないように、忠告を添えて）"

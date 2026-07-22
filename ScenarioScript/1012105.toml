@@ -1,56 +1,31 @@
 [translation]
-1012105-1 = "Linda floração debaixo d'água"
-
-1012105-2 = "(Cheguei um pouco mais cedo para não deixar Yukari esperando.)"
-
-1012105-3 = "(No entanto, de forma incomum, Yukari não apareceu mesmo quando a hora marcada se aproximava.)"
-
-1012105-7 = "(De repente, vi algo se movendo em direção ao mar.)"
-
-1012105-11 = "...? #n...!"
-
-1012105-12 = "[ns1] (Essa é Yukari...!?)\n[ns2] (Afogamento...!?)"
-
-1012105-15 = "[ns] Pule na água."
-
-1012105-19 = "[ns] Abra os olhos."
-
+1012105-1 = "水中に咲く艶やかな"
+1012105-2 = "（ユカリを待たせないように、少し早めに到着した）"
+1012105-3 = "（しかし珍しく、約束の時間が近づいてもユカリは姿を見せなかった）"
+1012105-7 = "（ふと、海の方で何かが動いているのが見えた）"
+1012105-11 = "……？#n……！"
+1012105-12 = "[ns1] （あれはユカリ……！？）\n[ns2] （まさか溺れて……！？）"
+1012105-15 = "[ns] 水の中へ飛び込む。"
+1012105-19 = "[ns] 目を開ける。"
 1012105-22 = "[wa:880]― [log=유카리 수영복]（先生！[wa:1660]身共を探しにいらして[wa:1320]くださったのですね！）[/log]"
 1012105-25 = "[wa:1530]― [log=유카리 수영복]（いつもは[wa:1220]遠くから見ていただけの海が……）[/log]"
-1012105-27 = "― [log=유카리 수영복] (Não posso acreditar que havia um [wa:1160]cenário tão lindo escondido[wa:1410])[/log]"
-
+1012105-27 = "― [log=유카리 수영복]（こんなにも[wa:1160]美しい光景を秘めて[wa:1410]いたなんて）[/log]"
 1012105-30 = "[wa:790]― [log=유카리 수영복]（それを、[wa:1600]先生と[wa:1020]こうして二人で[wa:810]眺めることができるだなんて……）[/log]"
-1012105-32 = "― [log=유카리 수영복] (Ah, [wa:2070] minha família está [wa:1260] que feliz [wa:490]) [/log]"
-
+1012105-32 = "― [log=유카리 수영복]（ああ、[wa:2070]身共は[wa:1260]なん[wa:490]て幸せ者なのでしょう）[/log]"
 1012105-35 = "[wa:210]― [log=유카리 수영복]（あれ……[wa:1520]先生？[wa:1650]なんだか[wa:810]顔色が……？）[/log]"
-1012105-37 = "― [log=유카리 수영복] (Ambos, [wa:850]Há algo estranho?)[/log]"
-
+1012105-37 = "― [log=유카리 수영복]（身共、[wa:850]何かおかしなことでも？）[/log]"
 1012105-40 = "[wa:180]― [log=유카리 수영복]（上……？[wa:1250]上にはお日様しかありませんよ……）[/log]"
-1012105-42 = "― [log=유카리 수영복] (O que...? [wa:830] Não é mesmo...?) [/log]"
-
-1012105-45 = "Puhah!"
-
-1012105-46 = "Hehe! Estou encharcado até o topo da cabeça!"
-
-1012105-47 = "[ns3] \"Estou feliz que você não estava se afogando.\"\n[ns4] \"O que você estava fazendo?\""
-
-1012105-50 = "Afogamento...?"
-
-1012105-51 = "Ha... é por isso que você correu com pressa! ? #nLamentamos sua preocupação...!"
-
-1012105-52 = "Sem nem pensar nisso, fiquei absorto olhando as flores..."
-
-1012105-53 = "Bem...cheguei um pouco antes do horário prometido, então estava olhando para o mar..."
-
-1012105-54 = "Quando vi as flores refletidas no mar límpido, meu coração deu um pulo, e sem mais nem menos..."
-
-1012105-55 = "Sinto muito por causar preocupação a você."
-
-1012105-56 = "Estou feliz por você estar preocupado comigo...#nÉ uma sensação muito estranha."
-
-1012105-57 = "[s5] \"Enquanto Yukari estiver segura, tudo bem.\"\n[s6] \"Vamos jogar o máximo que pudermos hoje!\""
-
-1012105-60 = "Sim……! Sim! Claro!"
-
-1012105-62 = "(Depois disso, nadamos no mar até o pôr do sol)"
-
+1012105-42 = "― [log=유카리 수영복]（え……？[wa:830]そうじゃない……？）[/log] "
+1012105-45 = "ぷはっ！"
+1012105-46 = "ふふっ！頭の先まで、びしょ濡れですの！"
+1012105-47 = "[ns3] \"溺れていたわけじゃなくてよかった。\"\n[ns4] \"何をしてたの？\""
+1012105-50 = "溺れて……？"
+1012105-51 = "はっ……それで慌てて駆けつけてくださったんですの！？#nご心配をおかけしました……！"
+1012105-52 = "そんなこととも思わず、花を見ることに夢中になっておりまして……。"
+1012105-53 = "それが、その……約束の時間より少し早く着いたので、#n海を眺めておりまして……。"
+1012105-54 = "透き通る海の中に映る花々が目に留まって、心が躍ってしまい、#nそのまま……どぼん、と。"
+1012105-55 = "ご心配をおかけして申し訳ない気持ちと――"
+1012105-56 = "心配していただけて嬉しい気持ちが交ざり合って……#nなんだか、とても不思議な心地ですわ。"
+1012105-57 = "[s5] \"ユカリが無事ならそれでいいよ。\"\n[s6] \"今日は思いっきり遊ぼう！\""
+1012105-60 = "ええ……！ええ！もちろんですの！"
+1012105-62 = "（その後、日が暮れるまで海水浴を満喫した）"

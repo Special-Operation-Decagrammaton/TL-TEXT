@@ -1,252 +1,128 @@
 [translation]
-1008203-1 = "Base da juventude: estudante transferido"
-
-1008203-3 = "[ns] \"O que exatamente devo fazer em relação às atividades juvenis?\""
-
-1008203-4 = "Hum, boa pergunta."
-
-1008203-5 = "Acho que não saberia o que fazer se alguém de repente me falasse sobre “atividades para jovens”."
-
-1008203-6 = "Especialmente para “jovens iniciantes” como nós, estamos todos tentando descobrir tudo... não conseguimos encontrar uma resposta facilmente."
-
-1008203-7 = "Bem, não tem jeito porque “atividades juvenis” são vagas em primeiro lugar..."
-
-1008203-8 = "[s1] \"Existem coisas como iniciantes em atividades juvenis...\"\n[s2] \"Hmm, é realmente tão difícil pensar nisso?\""
-
-1008203-13 = "Não, não... não subestime as atividades juvenis, certo?"
-
-1008203-14 = "Se iniciantes como eu, que não tiveram nenhuma atividade juvenil adequada, entram sem qualquer preparação..."
-
-1008203-15 = "[s] \"...E se eu entrar?\""
-
-1008203-16 = "Recebi um choque repentino..."
-
-1008203-20 = "``Choque alérgico agudo ao Seishnium'' pode causar sérios problemas!"
-
-1008203-24 = "[ns] \"É sobre atividades juvenis, certo!?\""
-
-1008203-25 = "claro……? #nIsso é muito perigoso."
-
-1008203-26 = "Nesse aspecto, pode ser semelhante ao exercício. #nSe você não fizer os exercícios de aquecimento adequadamente, terá maior probabilidade de se machucar."
-
-1008203-27 = "...Bem, não se preocupe."
-
-1008203-28 = "Tenho planejado minhas “atividades juvenis” para este dia."
-
-1008203-29 = "[s] \"Bem, foi isso que eu fiz...\""
-
-1008203-33 = "É isso!"
-
-1008203-34 = "É meu sonho há muito tempo, então não posso evitar!"
-
-1008203-35 = "de qualquer forma! Quando eu estava pesquisando sobre juventude, percebi uma coisa."
-
-1008203-36 = "A juventude tem tudo a ver com relacionamentos."
-
-1008203-37 = "[s] \"Hmm, por exemplo...?\""
-
-1008203-41 = "Por exemplo... uma rivalidade no mundo."
-
-1008203-42 = "Uma relação onde trabalhamos muito juntos, brigamos, nos reconciliamos e voltamos a seguir em frente lado a lado."
-
-1008203-43 = "Como a amizade deles se aprofunda no processo..."
-
-1008203-44 = "Verdadeiramente jovem! ! !"
-
-1008203-45 = "[s] \"Eu entendo, não entendo...\""
-
-1008203-46 = "Claro, não é apenas uma rivalidade!"
-
-1008203-47 = "Existem muitos tipos de relacionamentos no mundo, e existem tantas “atividades juvenis” quantos relacionamentos."
-
-1008203-48 = "Então, o relacionamento que preparei para as memoráveis ​​“Primeiras Atividades Juvenis” é..."
-
-1008203-52 = "É um \"aluno transferido\"!"
-
-1008203-53 = "[ns] \"Transferir... estudante?\""
-
-1008203-55 = "Vamos, sensei..."
-
-1008203-56 = "Não, mestre! Quero que meu mestre se torne um aluno transferido de agora em diante!"
-
-1008203-62 = "(Falando em alunos transferidos, esse é o primeiro! Fui levado pelo Renge...)"
-
-1008203-63 = "(Ele chegou a um beco perto da sala de mediação)"
-
-1008203-67 = "[ns] \"Renge, o que isso tem a ver com o aluno transferido...\""
-
-1008203-68 = "Eu não disse isso outro dia?"
-
-1008203-69 = "As atividades juvenis são basicamente como os trabalhos de “Koi Yo Koi”."
-
-1008203-70 = "Como meu mestre sabe, o trabalho de estreia de Koi Yo Koi é um romance juvenil em que o personagem principal, um estudante transferido, e a heroína se envolvem em um drama pastelão..."
-
-1008203-71 = "[s3] \"Ah, sim. Isso mesmo.\"\n[s4] \"...Acho que sim?\""
-
-1008203-74 = "A heroína conhece um misterioso estudante transferido que chega de repente, e seu coração palpita todos os dias, sem saber o que vai acontecer!"
-
-1008203-75 = "Então, para a atividade juvenil de hoje, vou tentar rastrear isso!"
-
+1008203-1 = "青春の定番：転校生"
+1008203-3 = "[ns] \"青春活動って……具体的に何をすればいいの？\""
+1008203-4 = "うむ、いい質問だ。"
+1008203-5 = "突然「青春活動」と言われても、何をすればいいのか分からないと思う。"
+1008203-6 = "特にアタシたちのような「青春初心者」には、全てが手探り……簡単には答えが出せない。"
+1008203-7 = "ま、そもそも「青春活動」が曖昧だから仕方ないんだけど……"
+1008203-8 = "[s1] \"青春活動に初心者とかあるんだ……\"\n[s2] \"うーん、そんなに難しく考えるものかな？\""
+1008203-13 = "いやいや……青春活動を甘く見ないでよね？"
+1008203-14 = "まともな青春活動をしてこなかったアタシたちのような初心者が、何も準備しないで飛び込んだら……"
+1008203-15 = "[s] \"……飛び込んだら？\""
+1008203-16 = "急激なショックを受けて……"
+1008203-20 = "「急性セイシュニウムアレルギーショック」で大変なことになるかもしれない！"
+1008203-24 = "[ns] \"青春活動の話だよね！？\""
+1008203-25 = "もちろん……？#nそれだけ危険だという話だよ。"
+1008203-26 = "こういうところは、運動と似ているかも。#n準備運動をしっかりしないと怪我しやすくなるのと同じ。"
+1008203-27 = "……まあ、安心して。"
+1008203-28 = "この日のために、日頃から「青春活動」の計画を立ててきたから。"
+1008203-29 = "[s] \"そ、そこまでしてたんだ……\""
+1008203-33 = "そ、それは！"
+1008203-34 = "ずっと夢だったから仕方ないだろ！"
+1008203-35 = "とにかく！青春について調べていたら、ひとつ気づいたことがあるんだ。"
+1008203-36 = "青春とは、まず関係性が重要なんだと。"
+1008203-37 = "[s] \"うーん、例えば……？\""
+1008203-41 = "例えば……世間でいうライバル関係。"
+1008203-42 = "お互い切磋琢磨し、喧嘩をしては仲直りをし、再び肩を並べて前に進む関係。"
+1008203-43 = "その過程で友情が深まる様子は……"
+1008203-44 = "まさに青春！！！"
+1008203-45 = "[s] \"分かるような、分からないような……\""
+1008203-46 = "もちろん、ライバル関係だけじゃないよ！"
+1008203-47 = "世の中には色んな関係性があって、その数だけ「青春活動」がある。"
+1008203-48 = "というわけで、記念すべき「第一回青春活動」でアタシが用意してきた関係性は……"
+1008203-52 = "「転校生」だ！"
+1008203-53 = "[ns] \"転校……生？\""
+1008203-55 = "さあ、せんせ……"
+1008203-56 = "いや、師匠！師匠には今から転校生になってほしい！"
+1008203-62 = "（転校生といえば、まずはこれ！と言うレンゲに連れられて……）"
+1008203-63 = "（調停室近くの路地まで来た）"
+1008203-67 = "[ns] \"レンゲ、ここに転校生と何の関係が……\""
+1008203-68 = "アタシ、この前も言ったな？"
+1008203-69 = "青春活動とは……要するに「恋よ鯉」の作品みたいなものだって。"
+1008203-70 = "師匠も知っての通り、「恋よ鯉」のデビュー作は主人公の転校生とヒロインがドタバタ劇を繰り広げる青春小説なんだけど……"
+1008203-71 = "[s3] \"あ、うん。そうだったね。\"\n[s4] \"……そうだったかな？\""
+1008203-74 = "突然やって来た謎の転校生と出会い、何が起こるか分からない毎日にときめくヒロイン！"
+1008203-75 = "そこで今日の青春活動は、それをなぞってみようと思う！"
 1008203-76 = "題して「転校生青春活動」だ！"
-1008203-77 = "[s] \"Você quer ter a mesma experiência que o trabalho?\""
-
-1008203-78 = "isso mesmo!"
-
-1008203-79 = "Nunca pensei que ele pudesse ver através dos meus pensamentos em um instante! Como esperado de um mestre!"
-
-1008203-80 = "Olha, não esqueci de trazer isso também."
-
-1008203-84 = "[ns] \"Isso é pão branco...? De jeito nenhum...\""
-
-1008203-85 = "Ok, então mestre, por favor, fique aqui! #nSe você me der o sinal eu vou!"
-
-1008203-89 = "[ns] \"Espere...Renge!?\""
-
-1008203-94 = "Ufa, acho que este é um bom lugar."
-
-1008203-98 = "Coma um pão assim... e estique um pouco..."
-
-1008203-102 = "Sol agradável e uma brisa agradável..."
-
-1008203-105 = "Posso ouvir o sussurro do vento...agora é a hora das \"atividades juvenis\"!"
-
-1008203-106 = "Falando em alunos transferidos, o primeiro episódio é essencial...!"
-
-1008203-111 = "``Eu estava prestes a me atrasar no primeiro dia da minha nova escola, então corri com um pedaço de pão na boca e colidi com aquela garota na esquina!'' O evento começa!"
-
-1008203-116 = "(Renge começou a correr com um sinal)"
-
-1008203-121 = "aqui vamos nós! Segure o pão na boca! Com todas as minhas forças! correr!"
-
-1008203-122 = "Aqui está aquela linha...!"
-
-1008203-123 = "\"Não! Chikoku chikoku ~!\""
-
-1008203-127 = "Hehe! Você está pronto...! Mestre!"
-
-1008203-133 = "[ns] \"Astragalus está vindo em nossa direção com uma força tremenda... Se continuar assim!\""
-
-1008203-137 = "Aaah!"
-
-1008203-138 = "(Então, pouco antes de eles colidirem...)"
-
-1008203-143 = "[ns] \"Evasão de emergência eletrônica!\""
-
-1008203-150 = "Mestre! Por que você evita isso! ?"
-
-1008203-151 = "Tive que encontrar um aluno transferido e ter um momento “Ah!” na sala de aula!"
-
-1008203-152 = "[s5] \"Se colidirmos com essa força...\"\n[s6] \"Não seriam os ferimentos que permaneceriam, não as impressões?\""
-
-1008203-157 = "Hmm... eu-eu acho que sim?"
-
-1008203-158 = "[s] \"Cancelado devido ao perigo!\""
-
-1008203-159 = "Bem, se o mestre diz isso..."
-
-1008203-160 = "Seguirei os ensinamentos do meu mestre!"
-
-1008203-161 = "Ok, vamos em frente!"
-
-1008203-163 = "(O episódio do \"aluno transferido\" de Renge continuou depois disso)"
-
-1008203-165 = "Depois do evento do pão, finalmente chegou a hora."
-
-1008203-166 = "Na sala de aula da manhã..."
-
-1008203-171 = "[ns] \"Prazer em conhecê-lo, fui transferido para uma nova escola...\""
-
-1008203-175 = "...Você! Acabei de esbarrar em uma curva... não bati, mas naquela época!"
-
-1008203-176 = "Perdi de manhã, mas não vou dar de graça dessa vez!"
-
+1008203-77 = "[s] \"作品と同じ体験をしてみようってこと？\""
+1008203-78 = "その通り！"
+1008203-79 = "アタシの考えを一瞬で見抜くとは！さすが師匠！"
+1008203-80 = "ほら、これも忘れずに持ってきた。"
+1008203-84 = "[ns] \"これは、食パン……？まさか……\""
+1008203-85 = "よし、それじゃあ師匠はここにいてくれ！#n合図をしたら行くよ！"
+1008203-89 = "[ns] \"ちょ、待っ……レンゲ！？\""
+1008203-94 = "ふぅ、この辺りで良いかな。"
+1008203-98 = "食パンをこうして……軽くストレッチもして……"
+1008203-102 = "心地よい日差しに過ごしやすい風…… "
+1008203-105 = "風のささやきが聞こえる……今こそ「青春活動」の時間だと！"
+1008203-106 = "転校生といえば欠かせない、最初のエピソード……！"
+1008203-111 = "「転校初日から遅刻しそうになり、食パンを咥えたまま走って曲がり角であの子と衝突！」イベント開始！"
+1008203-116 = "（レンゲが合図と共に走り出した）"
+1008203-121 = "さあ！食パンを咥えて！全力で！走る！"
+1008203-122 = "ここであのセリフを……！"
+1008203-123 = "「いけない！ちこくちこく～！」"
+1008203-127 = "ふふっ！覚悟はできてるか……！師匠！"
+1008203-133 = "[ns] \"レンゲが凄まじい勢いでこっちに……このままだと！\""
+1008203-137 = "はああっ！"
+1008203-138 = "（そうして、衝突する寸前で……）"
+1008203-143 = "[ns] \"き、緊急回避っっ！\""
+1008203-150 = "師匠！どうして避けるんだ！？"
+1008203-151 = "ここで転校生とぶつかって、教室で「あっ！」ってならないといけないのに！"
+1008203-152 = "[s5] \"あの勢いで衝突したら……\"\n[s6] \"残るのは印象じゃなくて怪我じゃないかな！？\""
+1008203-157 = "う～ん……そ、そうかな？"
+1008203-158 = "[s] \"危ないから中止！\""
+1008203-159 = "まあ、師匠がそう言うなら……"
+1008203-160 = "師匠の教えに従うよ！"
+1008203-161 = "よし、次に行こう！"
+1008203-163 = "（その後もレンゲの「転校生」エピソードは続いた）"
+1008203-165 = "食パンイベントの次は、いよいよアレだ。"
+1008203-166 = "朝のホームルームで……"
+1008203-171 = "[ns] \"初めまして、転校してきた……\""
+1008203-175 = "……あんたは！さっき曲がり角でぶつか……りはしなかったけど、あの時の！"
+1008203-176 = "朝は見逃してやったけど、今度はタダじゃおかないからな！"
 1008203-177 = "[s] \"それ、何かと混ざってない！？\""
 1008203-179 = "そして隣の席になった二人には……"
-1008203-180 = "O próximo evento está esperando."
-
-1008203-182 = "O que?"
-
-1008203-183 = "É seu primeiro dia em uma nova escola e você não tem um livro didático?"
-
-1008203-184 = "Huh... humf! Eu não posso evitar então!"
-
-1008203-185 = "Aqui, junte as mesas."
-
-1008203-191 = "Vou mostrar meu livro só por hoje. #nÉ só por hoje!"
-
-1008203-192 = "A propósito, se você vem desta linha..."
-
-1008203-196 = "Vou quebrar a mesa com todas as minhas forças. Acho que você está preparado para isso."
-
-1008203-197 = "[s] \"Você normalmente não trata as pessoas com mais gentileza?\""
-
-1008203-199 = "foto? É assim mesmo? #nNão sei porque não tenho experiência..."
-
-1008203-200 = "Mas... como é estar tão perto do aluno transferido que você acabou de conhecer?"
-
-1008203-201 = "Fico um pouco irritado quando estou muito perto..."
-
-1008203-202 = "[s] \"Mas acho que parece o Renge!?\""
-
-1008203-208 = "(Enquanto eu experimentava vários episódios de estudantes transferidos, um por um...)"
-
-1008203-210 = "(Antes que eu percebesse, já era noite)"
-
-1008203-216 = "[ns7] \"Já está na hora...\"\n[ns8] \"Como foi a atividade dos jovens de hoje?\""
-
-1008203-221 = "Bem, para ser honesto..."
-
-1008203-222 = "Parecia um pouco estranho."
-
-1008203-226 = "Não, não! Não é como se eu tivesse alguma reclamação sobre meu mestre!"
-
-1008203-227 = "Porém... as atividades de hoje... são um pouco diferentes do que eu sonhei..."
-
-1008203-228 = "Quando eu realmente tentei, algo estava faltando."
-
-1008203-229 = "O que devo dizer..."
-
-1008203-230 = "Eu realmente não sei o que eu queria fazer..."
-
-1008203-231 = "[s] \"Entendo...\""
-
-1008203-232 = "Embora tenha recebido muita cooperação, acabei com um resultado incompleto."
-
-1008203-233 = "Se eu fosse mais forte..."
-
-1008203-234 = "Desculpe, mestre. É tudo culpa minha."
-
-1008203-235 = "...Ok, vamos mudar! Já faz tanto tempo."
-
-1008203-239 = "Infelizmente estamos nos separando hoje..."
-
-1008203-240 = "[s] \"Se ele for um estudante transferido, provavelmente não saberá o caminho de casa.\""
-
-1008203-244 = "...?"
-
-1008203-245 = "[s] \"Então, que tal irmos para casa juntos?\""
-
-1008203-249 = "um……"
-
-1008203-250 = "Acabei de me mudar para um lugar desconhecido..."
-
-1008203-251 = "Onde é o lugar para brincar? #nLivraria, cinema, ponto de ônibus..."
-
-1008203-252 = "Não sei sobre alunos transferidos..."
-
-1008203-253 = "[s] \"Você não ficaria feliz se eu lhe contasse isso?\""
-
-1008203-254 = "...Sim, está certo."
-
-1008203-255 = "A Senseia está certa!"
-
-1008203-256 = "Como esperado de um mestre... não, um jovem mestre!"
-
-1008203-260 = "Se você decidir fazer isso! vamos! Ainda há tempo?"
-
-1008203-261 = "O centro de rebatidas que frequento... o centro de jogos!"
-
-1008203-265 = "um! Há um restaurante com refeições fixas perto daqui que tem menus sazonais realmente deliciosos...!"
-
-1008203-267 = "(Depois disso, Renge recuperou as energias e caminhou um pouco pela cidade.)"
-
+1008203-180 = "また次のイベントが待っている。"
+1008203-182 = "なんだ、"
+1008203-183 = "転校初日で教科書が無いの？"
+1008203-184 = "ふ……ふん！それなら仕方ないな！"
+1008203-185 = "ほら、机をくっつけて。"
+1008203-191 = "き、今日だけアタシの教科書を見せてやる。#n今日だけだからな！"
+1008203-192 = "ちなみに、この線よりこっちに来たら……"
+1008203-196 = "全力で机を叩き割ってやる。その覚悟でいるんだな。"
+1008203-197 = "[s] \"普通はもっとこう、優しく接するんじゃない！？\""
+1008203-199 = "え？そ、そうなの？#n経験が無いから、分からなくて……"
+1008203-200 = "でも……実際、会ったばかりの転校生とそこまで距離が近いのはどうなんだ？"
+1008203-201 = "あんまり距離が近いとちょっとこう……イライラするというか……"
+1008203-202 = "[s] \"レンゲらしいとは思うけどね！？\""
+1008203-208 = "（そうして様々な転校生エピソードを一つひとつ試していると……）"
+1008203-210 = "（いつの間にか、夕方になっていた）"
+1008203-216 = "[ns7] \"もうこんな時間だけど……\"\n[ns8] \"今日の青春活動はどうだった？\""
+1008203-221 = "うーん、正直に言うと……"
+1008203-222 = "微妙、だったような。"
+1008203-226 = "ち、違う！師匠に文句があるわけじゃない！"
+1008203-227 = "ただ……今日の活動は……アタシが夢に見ていたのとは微妙に違って……"
+1008203-228 = "実際にやってみると、どこか物足りなくてな。"
+1008203-229 = "なんて言えばいいんだ……"
+1008203-230 = "自分でも何をしたかったのか……よく、分からなくなってきた。"
+1008203-231 = "[s] \"そっか……\""
+1008203-232 = "色々と協力してもらったのに、中途半端な結果になっちまったな。"
+1008203-233 = "もっと、アタシがしっかりしてれば……"
+1008203-234 = "ごめん、師匠。全部アタシのせいだ。"
+1008203-235 = "……よし、切り替えよう！もうこんな時間だしな。"
+1008203-239 = "残念だけど、今日はこれで解散して……"
+1008203-240 = "[s] \"転校生なら、帰り道が分からないんじゃない？\""
+1008203-244 = "……？"
+1008203-245 = "[s] \"だから、一緒に帰るのはどうかな？\""
+1008203-249 = "あ……"
+1008203-250 = "引っ越してきたばかりの、知らない土地で……"
+1008203-251 = "遊ぶ場所はどこにあるのか。#n本屋、映画館、バス停……"
+1008203-252 = "転校生は知らないよな……"
+1008203-253 = "[s] \"それを教えてあげたら喜んでくれるんじゃない？\""
+1008203-254 = "……そう、だ。"
+1008203-255 = "先生の言う通りだな！"
+1008203-256 = "さすが師匠……いや、青春師匠！"
+1008203-260 = "そうと決まったら！行こう！まだ時間は大丈夫？"
+1008203-261 = "アタシの行きつけのバッティングセンターとか……ゲームセンターとか！"
+1008203-265 = "あ！この近くに季節限定メニューがめちゃくちゃ美味しい定食屋さんがあって……！"
+1008203-267 = "（そうして元気を取り戻したレンゲと一緒に、しばらく街を歩いて回った）"

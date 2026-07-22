@@ -1,82 +1,45 @@
 [translation]
-1010105-1 = "Lançamento só para nós dois"
-
-1010105-2 = "(Saori me contatou e foi até o palco do DJ no local)"
-
-1010105-6 = "Foi muito bom!"
-
-1010105-7 = "O DJ parecia um novato, mas era muito bom!"
-
-1010105-8 = "Isso mesmo, eu entendo! #nEu posso sentir o calor até aqui!"
-
-1010105-13 = "[ns1] (Saori, você trabalhou muito duro...)\n[ns2] (Parece que o público também sentiu isso)"
-
-1010105-22 = "[ns] \"Saori.\""
-
-1010105-26 = "……sim?"
-
-1010105-27 = "Ah, Senseia."
-
-1010105-28 = "...O palco estava bem?"
-
-1010105-29 = "[s3] \"Foi muito divertido!\"\n[s4] \"Graças a você, fiquei animado!\""
-
-1010105-32 = "Oh, eu vejo..."
-
-1010105-33 = "Isso foi bom."
-
-1010105-34 = "Sinto-me aliviado quando meu Sensei diz isso."
-
-1010105-35 = "Graças a você, me sinto mais à vontade."
-
-1010105-38 = "[ns] \"A propósito, e os outros funcionários?\""
-
-1010105-39 = "Ah, todos foram para o lançamento."
-
-1010105-40 = "Eu também fui convidado..."
-
-1010105-41 = "Ainda há alguns equipamentos para limpar. #n... Além disso, não sou muito bom em lugares movimentados."
-
-1010105-42 = "Tão sozinho..."
-
-1010105-46 = "Goho!"
-
-1010105-47 = "[s] \"Você está bem?\""
-
-1010105-48 = "Bem, não se preocupe."
-
-1010105-49 = "Minha garganta está um pouco seca."
-
-1010105-53 = "……isso é? #nSuco fornecido...?"
-
-1010105-54 = "Obrigado, senhor. #nVocê está sempre cuidando de mim."
-
-1010105-55 = "[s] \"Você não precisa se preocupar com isso.\""
-
-1010105-60 = "Vamos sentar um pouco? #n Sensei, por favor, venha aqui também."
-
+1010105-1 = "二人だけの打ち上げ"
+1010105-2 = "（サオリに連絡をもらい、会場のDJステージにやって来ていた）"
+1010105-6 = "めっちゃ良かったね！"
+1010105-7 = "DJの人、新人みたいだけど超うまかったし！"
+1010105-8 = "だよね、分かる！#nこっちまで熱が伝わってきたもん！"
+1010105-13 = "[ns1] （サオリ、すごく頑張ってたな……）\n[ns2] （観客にも伝わっていたみたいだ）"
+1010105-22 = "[ns] \"サオリ。\""
+1010105-26 = "……ん？"
+1010105-27 = "あ、先生。"
+1010105-28 = "……ステージ、大丈夫だったか？"
+1010105-29 = "[s3] \"すっごく楽しかったよ！\"\n[s4] \"おかげでテンション上がったよ！\""
+1010105-32 = "そ、そうか……。"
+1010105-33 = "それは良かった。"
+1010105-34 = "先生がそう言ってくれると安心する。"
+1010105-35 = "おかげで気が楽になった。"
+1010105-38 = "[ns] \"ところで、ほかのスタッフは？\""
+1010105-39 = "あぁ、みんなは打ち上げに向かった。"
+1010105-40 = "私も誘われたんだが……。"
+1010105-41 = "まだ機材の片付けも残っているからな。#n……それに、賑やかな場所は、あまり得意じゃない。"
+1010105-42 = "だから一人で――"
+1010105-46 = "ごほっ！"
+1010105-47 = "[s] \"大丈夫？\""
+1010105-48 = "し、心配ない。"
+1010105-49 = "ちょっと喉が乾燥しただけだ。"
+1010105-53 = "……これは？#n差し入れのジュース……？"
+1010105-54 = "ありがとう、先生。#nいつも世話になってばかりだな。"
+1010105-55 = "[s] \"気にしなくて良いんだよ。\""
+1010105-60 = "少し座ろうか。#n先生もこっちに来てくれ。"
 1010105-67 = "[wa:1090]― [log=사오리 수영복]終演後の客席というのは、[wa:2200]寂しいものだな。[/log]"
 1010105-68 = "[wa:2670]― [log=사오리 수영복]大勢いた観客がはけ、[wa:2130]照明はすべて消えて……[/log]"
 1010105-71 = "[wa:1380]― [log=사오리 수영복]華やかなステージは[wa:1660]跡形もなく、[wa:1640]静寂に沈んでいる。[/log]"
-1010105-74 = "― [log=사오리 수영복]O espaço cheio de excitação e aplausos [wa:2360] de repente se acalmou...[/log]"
-
+1010105-74 = "― [log=사오리 수영복]熱気と歓声に満ちていた空間が[wa:2360]突如静まると……[/log]"
 1010105-75 = "[wa:2410]― [log=사오리 수영복]どこか、[wa:1570]切なさを覚えるほどだ。[/log]"
 1010105-78 = "[wa:670]― [log=사오리 수영복]……[wa:940]でも、[wa:2050]今はもう、[wa:1260]大丈夫だ。[/log]"
 1010105-81 = "[wa:1340]― [log=사오리 수영복]変わったことは何もないが、[wa:2300]穏やかでいられる。[/log]"
 1010105-84 = "[wa:790]― [log=사오리 수영복]……[wa:2020]先生が隣にいるから、[wa:2760]かもしれないな。[/log]"
-1010105-87 = "Obrigado, senhor. #nGraças a você, me sinto melhor."
-
-1010105-88 = "[s] \"O suco foi suficiente?\""
-
-1010105-89 = "Ah, ah. Não há problema algum--"
-
-1010105-94 = "...Parece haver um problema."
-
-1010105-95 = "Usei muita força física no palco."
-
-1010105-96 = "[s5] \"Então, que tal fazermos o lançamento juntos?\"\n[s6] \"Que tal só nós dois?\""
-
-1010105-101 = "...Achei que era isso que a Senseia diria."
-
-1010105-106 = "Claro, vamos."
-
+1010105-87 = "ありがとう、先生。#nおかげで元気になった。"
+1010105-88 = "[s] \"ジュースだけで足りた？\""
+1010105-89 = "あ、ああ。まったく問題――"
+1010105-94 = "……問題、あるようだ。"
+1010105-95 = "ステージで体力を使いすぎたな。"
+1010105-96 = "[s5] \"じゃあ、一緒に打ち上げをしようか？\"\n[s6] \"二人でなら、どうかな？\""
+1010105-101 = "……先生なら、そう言うだろうと思った。"
+1010105-106 = "もちろんだ、行こう。"

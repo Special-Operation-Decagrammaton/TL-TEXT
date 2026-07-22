@@ -1,129 +1,65 @@
 [translation]
-1013702-1 = "Apresente-se com cuidado"
-
-1013702-2 = "(Quando você visita Valquíria...)"
-
-1013702-3 = "Olá, Sensei!"
-
-1013702-4 = "O que aconteceu?"
-
-1013702-5 = "[s1] \"Preciso pedir conselhos a Konoka.\"\n[s2] \"Você sabe onde estou?\""
-
-1013702-8 = "Ah, se você é vice-diretor, você já está trabalhando..."
-
-1013702-9 = "Acho que estou atualmente no porão... entre outros."
-
-1013702-10 = "[s] \"Subterrâneo?\""
-
-1013702-11 = "sim. Há algum trabalho a ser feito no subsolo..."
-
-1013702-13 = "[ns3] \"Isso é... um centro de detenção?\"\n[ns4] \"Que tipo de trabalho você está fazendo...?\""
-
-1013702-16 = "Ah... Kugo..."
-
-1013702-17 = "(eu ouvi alguém roncando)"
-
-1013702-18 = "Óculos...goo..."
-
-1013702-19 = "Ah... ah... ah, vamos lá! #n...Bom..."
-
-1013702-20 = "[ns5] \"Konoka...?\"\n[ns6] \"Por que você está no centro de detenção...?\""
-
-1013702-26 = "Uau! ! !"
-
-1013702-27 = "Colá! É covardia jogar areia..."
-
-1013702-28 = "Então, foi um sonho... Caramba, foi só mais um pouquinho..."
-
-1013702-29 = "Huh?"
-
-1013702-34 = "[ns] \"Oh, bom dia, Konoka...\""
-
-1013702-35 = "O que... ainda estou sonhando...?"
-
-1013702-36 = "Meu Sensei tem aparecido em meus sonhos ultimamente."
-
-1013702-37 = "[ns] \"É real! Acorde!\""
-
-1013702-38 = "Fuaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa..."
-
-1013702-39 = "Hum...? #nAh, adormeci."
-
-1013702-40 = "[s7] \"Então, quando você será liberado?\"\n[s8] \"Katsudon realmente será servido?\""
-
-1013702-43 = "Oh não! Não! #nNão é que estou sendo preso... não, não é grande coisa."
-
-1013702-44 = "Houve uma pequena briga ontem..."
-
-1013702-45 = "Quando fui despachado, as coisas ficaram uma bagunça...#nEntão, acabei de sair do trabalho de madrugada."
-
-1013702-46 = "Então pensei em tirar uma soneca... mas faz barulho na estação, certo? #nÉ por isso que eu estava dormindo aqui."
-
-1013702-47 = "Tenho que dar uma festa de boas-vindas para os novos membros, conhecê-los e fazer algumas outras coisas...estou tão ocupado..."
-
-1013702-48 = "Ah, isso mesmo. Foi um procedimento administrativo, certo? #nPor favor, espere um momento. Eu vou buscá-lo."
-
-1013702-49 = "Erm... eu me pergunto onde está a chave..."
-
-1013702-56 = "Ei, levante a mão! Afaste-se dos bares! #nSe ele se mexer, atire!"
-
-1013702-60 = "Huh?"
-
-1013702-61 = "Eu te avisei! #nNão toque nas teclas!"
-
-1013702-62 = "Sensei, por favor, afaste-se também! #nNão importa como você olhe, ele é um bandido!"
-
-1013702-63 = "[s9] \"É um mal-entendido!\"\n[s10] \"Talvez, mas é um mal-entendido!\""
-
-1013702-66 = "Ah, não foi você quem entrou na agência dessa vez? #nVocê estava na lista, certo?"
-
-1013702-67 = "Na verdade, sou o vice-diretor do Departamento de Segurança Pública! ?"
-
-1013702-68 = "Secretaria de Segurança Pública! ? #nNão acredito que você mentiu para ser o vice-diretor...!"
-
-1013702-69 = "Nunca conheci o vice-diretor, mas sei que definitivamente não é você!"
-
-1013702-70 = "Vou contar ao vice-diretor no Momotalk!"
-
-1013702-74 = "Olha, eu enviei!"
-
-1013702-79 = "Então, quem está fingindo ser o vice-diretor?"
-
-1013702-80 = "Bem..."
-
-1013702-81 = "Este é Hitofutamaru da Segurança Pública! ! Parece que o suspeito está de posse do celular do vice-diretor! !"
-
-1013702-82 = "Não, por quê! ?"
-
-1013702-83 = "Não tem como o vice-diretor estar vestido assim! !"
-
-1013702-84 = "Aviso final! Criminoso fugitivo! Renda-se como um adulto!"
-
-1013702-85 = "Criminoso fugitivo! ? É bom ter dúvidas, mas... #n Onde em Kivotos está o fugitivo da prisão que vai comer e tomar banho com a Diretora Kanna?"
-
-1013702-86 = "Não venha! Spray lacrimal! !"
-
-1013702-93 = "Gyaaaaaaaaa! ! Oh meus olhos! ! !"
-
-1013702-94 = "Se ao menos as pessoas ficassem quietas...!"
-
-1013702-95 = "Ei, por que não funciona? ?"
-
-1013702-96 = "Está decidido porque tenho treinado! Você pode até gargarejar com gás lacrimogêneo! #nEu sou Konoka――"
-
-1013702-97 = "barulhento! Arma de choque! ! !"
-
-1013702-99 = "Uma sub-repartição da Secretaria de Segurança Pública ――Abyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa! ! !"
-
-1013702-103 = "Longo... o que... mas..."
-
-1013702-105 = "Aqui é Hitofutamaru, da Segurança Pública, e prendemos um suspeito em um centro de detenção subterrâneo! !"
-
-1013702-109 = "Ah... agora que pensei nisso... a leitura da sorte de hoje... vou me apresentar adequadamente."
-
-1013702-111 = "(Mais tarde, um júnior do Departamento de Segurança Pública correu e verificou a identidade de Konoka.)"
-
-1013702-112 = "(O recém-chegado se desculpou com o rosto pálido. Konoka não pareceu se importar e apenas riu e o perdoou.)"
-
-1013702-113 = "(Talvez por causa do spray de pimenta, Konoka estava olhando para depois de amanhã, mas ela parecia estar de bom humor.)"
-
+1013702-1 = "自己紹介は丁寧に"
+1013702-2 = "（ヴァルキューレを訪れると……）"
+1013702-3 = "こんにちは、先生！"
+1013702-4 = "どうかされたんですか？"
+1013702-5 = "[s1] \"コノカに相談があってね。\"\n[s2] \"どこにいるか知ってる？\""
+1013702-8 = "あ、副局長でしたら出勤されているんですが……。"
+1013702-9 = "今は他の[ruby=・]お[/ruby][ruby=・]仕[/ruby][ruby=・]事[/ruby]中で……地下にいると思います。"
+1013702-10 = "[s] \"地下？\""
+1013702-11 = "はい。地下でやる作業もあるので……。"
+1013702-13 = "[ns3] \"ここは……留置場？\"\n[ns4] \"一体何の仕事を……。\""
+1013702-16 = "ガー……クゴー……。"
+1013702-17 = "（誰かのいびきが聞こえてきた）"
+1013702-18 = "ゴガー……グー……。"
+1013702-19 = "ガー……うおぉ……か、かかってこーい！#n……グゴー……。"
+1013702-20 = "[ns5] \"コノカ……？\"\n[ns6] \"どうして留置場に……？\""
+1013702-26 = "う、うわああっ！！！"
+1013702-27 = "コラーッ！す、砂を撒くなんて卑怯な……。"
+1013702-28 = "って、夢か……くっ、あとちょっとだったのに……。"
+1013702-29 = "あれ？"
+1013702-34 = "[ns] \"お、おはよう、コノカ……。\""
+1013702-35 = "なんだ……まだ夢の中か……。"
+1013702-36 = "最近先生が夢に出てくるんだよなぁ～"
+1013702-37 = "[ns] \"現実だよ！起きて！\""
+1013702-38 = "ふわぁ～あ……むにゃむにゃ……。"
+1013702-39 = "うーん……？#nあー、寝落ちてたっす。"
+1013702-40 = "[s7] \"それで、釈放はいつなの？\"\n[s8] \"本当にカツ丼って出てくるの？\""
+1013702-43 = "あー、違うっす！違うっす！#n捕まってるんじゃなくて……いやほんと大したことじゃないんですけど。"
+1013702-44 = "昨日、ちょーっとしたケンカがありまして……。"
+1013702-45 = "出動したらいざこざに発展しちゃって……#nんで、明け方に退勤したばっかなんすよ。"
+1013702-46 = "だから、ちょーっと仮眠しようと思ったんすけど……局内って騒がしいでしょ？#nだからここで寝てたんす。"
+1013702-47 = "新入りの歓迎会やったり、顔合わせやらなんやらしないとなんですけど……#nど～にも忙しくて……。"
+1013702-48 = "あ、そうだ。行政の手続きでしたよね？#n少々お待ちを～取ってくるっす。"
+1013702-49 = "えーと……鍵は～～ど～こだっけかなぁ～"
+1013702-56 = "て、手を上げろ！鉄格子から離れろ！#n動いたら撃つ！"
+1013702-60 = "はぇ？"
+1013702-61 = "警告はしたぞ！#n鍵に触れるな！"
+1013702-62 = "先生も下がってください！#nどう見ても凶悪犯です！"
+1013702-63 = "[s9] \"誤解だよ！\"\n[s10] \"そうかもしれないけど、誤解だよ！\""
+1013702-66 = "あれ、あんた今回入局したヤツじゃない？#n名簿にいたよね。"
+1013702-67 = "ていうか、あたし公安局の副局長なんだけど！？"
+1013702-68 = "公安局！？#n副局長を騙るとは……！"
+1013702-69 = "副局長とお会いしたことはないが、断じてお前などではないことだけは分かっている！"
+1013702-70 = "モモトークで副局長に言いつけてやる！"
+1013702-74 = "ほら、送ったぞ！"
+1013702-79 = "んで、だーれが副局長を騙ってるって？"
+1013702-80 = "えっと……。"
+1013702-81 = "こちら公安ヒトフタマル！！容疑者が副局長の携帯を所持している模様！！"
+1013702-82 = "いや、なんでよ！？"
+1013702-83 = "副局長がそんな格好しているわけがないだろう！！"
+1013702-84 = "最終警告だ！脱獄犯め！大人しく投降しろ！"
+1013702-85 = "脱獄犯！？疑うのはいいことだけどさぁ……。#nカンナ局長とご飯もお風呂も一緒に行く脱獄犯がキヴォトスのどこにいるっつーの！"
+1013702-86 = "く、来るな！催涙スプレー！！"
+1013702-93 = "ぎゃああああっ！！め、目がぁ――！！！"
+1013702-94 = "人が大人しくしていれば……！"
+1013702-95 = "な、なんで効かないんだ！？"
+1013702-96 = "訓練してるからに決まってるっしょ！催涙剤でうがいだってできるわい！#nあたしは[ruby=しま]志真[/ruby]コノカ――"
+1013702-97 = "うるさい！テーザーガンを喰らえーっ！！！"
+1013702-99 = "公安局の副局――あびゃぁっ――！！！"
+1013702-103 = "長……なんす……けど……。"
+1013702-105 = "こちら公安ヒトフタマル、地下留置場にて容疑者を逮捕しました！！"
+1013702-109 = "あー……そういえば……今日の占い……自己紹介をちゃんとする、だったなぁ。"
+1013702-111 = "（その後、駆けつけてきた公安局の後輩が、コノカの身分を証明してくれた）"
+1013702-112 = "（新人は顔を真っ青にしながら謝っていた。コノカは特に気にした様子もなく笑って許していた）"
+1013702-113 = "（催涙スプレーの影響なのか明後日の方を見ているコノカだったが、どこか機嫌がよさそうに見えた）"

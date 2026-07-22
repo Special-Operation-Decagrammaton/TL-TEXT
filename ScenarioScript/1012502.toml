@@ -1,119 +1,60 @@
 [translation]
-1012502-1 = "\tImagem mágica"
-
-1012502-5 = "Bem-vindo, Mestre!"
-
-1012502-6 = "[s] \"Olá, Eli!\""
-
-1012502-7 = "Estava pensando em como passar o dia..."
-
-1012502-8 = "Fui guiado por um livro mágico."
-
-1012502-9 = "É bom desenhar juntos no ateliê - isso mesmo!"
-
-1012502-10 = "[s1] \"Vocês gostariam de desenhar juntos? Parece que seria divertido.\"\n[s2] \"Tenho certeza que vocês conseguirão criar uma imagem mágica.\""
-
-1012502-13 = "sim! Com um mestre você pode criar uma obra-prima!"
-
-1012502-14 = "Agora vamos para o ateliê!"
-
-1012502-24 = "Hoje, pensei em tentar escrever sem decidir sobre um tema."
-
-1012502-25 = "Por outras palavras...as puras sensibilidades e impulsos de um pintor são libertados magicamente!"
-
-1012502-26 = "Em dias como hoje, quando a mana está ressoando... acho melhor focar na #insensibilidade."
-
-1012502-27 = "Aqui vamos nós! Hmmm!"
-
-1012502-31 = "[ns] \"...Cartas de tarô? Você não deveria fazer desenhos?\""
-
-1012502-32 = "sim! Este é o processo necessário para atividades artísticas mágicas."
-
-1012502-33 = "Nyufufu... O primeiro arcano que conta o destino é...! ?"
-
-1012502-37 = "Hmmm, é a “torre” na posição correta?"
-
-1012502-38 = "Isto significa “destruição” ou “colapso”. Em outras palavras--"
-
-1012502-39 = "Pinte com um toque feroz que parece romper a tela! #n...Isso é uma revelação!"
-
-1012502-40 = "Bem... vamos lá! !"
-
-1012502-49 = "[ns] \"Uau...isso é incrível.\""
-
-1012502-50 = "Nyufufu…. #nAgora, vamos tentar prever o próximo movimento."
-
-1012502-54 = "O que me levará a seguir...!"
-
-1012502-58 = "Hum? “Deus da Morte” reverso…?"
-
-1012502-59 = "Isto representa a \"estagnação\" que resiste à mudança..."
-
-1012502-63 = "Isso significa que você deve continuar a desenhar com um toque vigoroso!"
-
-1012502-72 = "[ns] \"E-Está tudo bem desenhar tão vigorosamente...?\""
-
-1012502-73 = "Não se preocupe! Porque acredito no poder da magia!"
-
-1012502-74 = "Mesmo que a tela rasgue, #n é uma “expressão de poder”... é uma bela arte! #nNão tenha medo!"
-
-1012502-75 = "Vou continuar desenhando assim...!"
-
-1012502-77 = "(Depois disso, o Tarot continuou a dar golpes fortes em Eli.)"
-
-1012502-86 = "(depois de um tempo......)"
-
-1012502-89 = "Ah... é isso!"
-
-1012502-93 = "O fato de eu ter conseguido criar algo assim... é simplesmente mágico!"
-
-1012502-94 = "[s] \"Que tipo de foto você fez?\""
-
-1012502-98 = "Por favor, dê uma olhada! #n Uma obra-prima criada pela ressonância da minha mana e do meu mestre!"
-
-1012502-103 = "(A imagem termina com uma atmosfera...!)"
-
-1012502-104 = "O título é “A tempestade que passa”!"
-
-1012502-105 = "Se continuarmos a desenvolver a magia que usamos desta vez, não demorará muito para que possamos dominar a #nª \"magia de criação de mundo\" do 10º nível...!"
-
-1012502-106 = "[s3] \"A 10ª posição parece incrível...!\"\n[s4] \"É uma imagem realmente impressionante e legal...!\""
-
-1012502-109 = "Nyufufufu ~"
-
-1012502-110 = "Acho que a expressão “arte é uma explosão” cabe perfeitamente!"
-
-1012502-111 = "Afinal, foi a decisão certa ligar para o mestre. #nTeria sido difícil para mim fazer um desenho como este sozinho."
-
-1012502-112 = "Se eu continuar com esse ritmo, tenho certeza que passarei na próxima prova prática...!"
-
-1012502-116 = "Ah... posso ter usado muito poder mágico."
-
-1012502-117 = "Mestre, por favor reabasteça sua mana!"
-
-1012502-118 = "[s5] \"Bem, reposição de mana...?\"\n[s6] \"Então, acho que você quer alguns lanches?\""
-
-1012502-122 = "[ns] Ele tira os biscoitos que trouxe após escapar da inspeção do inspetor do dormitório."
-
-1012502-124 = "Uau...! Esses biscoitos parecem deliciosos!"
-
-1012502-125 = "Mas o que devemos fazer? Minhas mãos estão cobertas de tinta..."
-
-1012502-126 = "Nyufufu, isso não pode ser evitado. #nMestre... você poderia me deixar comer se não se importa?"
-
-1012502-127 = "[s] \"Bem, se for esse o caso...\""
-
-1012502-132 = "obrigado!"
-
-1012502-133 = "Pois bem, vamos comer!"
-
-1012502-137 = "Pois bem, receber mana diretamente do mestre é algo especial!"
-
-1012502-138 = "[s] \"Talvez esse fosse o objetivo...?\""
-
-1012502-139 = "Nyufu... que tal isso?"
-
-1012502-140 = "Tenho certeza que esta também é uma orientação mágica!"
-
-1012502-142 = "(Eles continuaram se divertindo enquanto reabasteciam Eri com mana.)"
-
+1012502-1 = "\t魔法の絵"
+1012502-5 = "ようこそいらっしゃいました、マスター！"
+1012502-6 = "[s] \"やあ、エリ！\""
+1012502-7 = "今日はどのように過ごそうか考えておりましたところ――"
+1012502-8 = "魔導書の導きがありまして。"
+1012502-9 = "アトリエで一緒に絵を描くと良い――そうです！"
+1012502-10 = "[s1] \"一緒に描くの？なんだか楽しそうだね。\"\n[s2] \"きっと魔法みたいな絵ができるよ。\""
+1012502-13 = "はい！マスターとなら、傑作ができそうです！"
+1012502-14 = "さあ、アトリエへ向かいましょう！"
+1012502-24 = "本日はテーマを決めずに筆を走らせてみようかと。"
+1012502-25 = "つまり……画家としての純粋な感性と衝動を――#n魔法のように解き放つんです！"
+1012502-26 = "今日のようにマナが共鳴している日は……#n感性を重視した方が良いと思いますからね。"
+1012502-27 = "さぁ、いきますよ！むむん！"
+1012502-31 = "[ns] \"……タロットカード？絵を描くんじゃないの？\""
+1012502-32 = "はい！これこそが、魔法のような芸術活動に必要な工程なんです。"
+1012502-33 = "にゅふふ……運命を告げるアルカナの一枚目は――！？"
+1012502-37 = "ふむふむ、正位置の「塔」ですか。"
+1012502-38 = "これは「破壊」や「崩壊」を意味します。つまり――"
+1012502-39 = "キャンバスを突き破るような激しいタッチで描くべし！#n……という啓示ですね！"
+1012502-40 = "では……いきます！！"
+1012502-49 = "[ns] \"おお……すごい勢いだ。\""
+1012502-50 = "にゅふふ……。#nでは、次なる一手を占ってみましょう。"
+1012502-54 = "次に私を導くのは……！"
+1012502-58 = "むむっ？逆位置の「死神」……？"
+1012502-59 = "これは変化を拒む「停滞」を表していますが……。"
+1012502-63 = "引き続き、激しいタッチで描けということですね！"
+1012502-72 = "[ns] \"そ、そんな勢いよく描いちゃって大丈夫……？\""
+1012502-73 = "ご安心を！私は魔法の力を信じていますから！"
+1012502-74 = "たとえキャンバスが裂けようとも、#nそれは「力の表現」……立派な芸術ですよ！#n恐れることはありません！"
+1012502-75 = "このまま描き続けます……！"
+1012502-77 = "（その後もタロットはエリを激しい筆運びへ[ruby=いざな]と誘い[/ruby]続けた）"
+1012502-86 = "（しばらくして……）"
+1012502-89 = "おお……これは！"
+1012502-93 = "私がこんな作品を生み出せるなんて……まさに魔法です！"
+1012502-94 = "[s] \"どんな絵ができたの？\""
+1012502-98 = "どうぞご覧ください！#nマスターと私のマナの共鳴が生み出した、渾身の一作を！"
+1012502-103 = "（雰囲気がある絵に仕上がってる……！）"
+1012502-104 = "タイトルは『[ruby=とわ]永久[/ruby]に吹き荒れる嵐』！"
+1012502-105 = "今回用いた魔法を発展させていけば、#n階十位の『世界創造魔法』を使いこなす日もそう遠くはありませんね……！"
+1012502-106 = "[s3] \"階十位って、なんだか凄そう……！\"\n[s4] \"ほんとに迫力があってかっこいい絵だね……！\""
+1012502-109 = "にゅっふっふ～"
+1012502-110 = "「芸術は爆発だ」という言葉がぴったりな出来映えかと！"
+1012502-111 = "やはりマスターをお呼びして正解でした。#nこのような絵を描くのは、私一人では難しかったでしょう。"
+1012502-112 = "この勢いでいけば、次の実技試験もきっと……！"
+1012502-116 = "あっ……魔力を使いすぎてしまったかも知れません。"
+1012502-117 = "マスター、マナの補給をお願いします！"
+1012502-118 = "[s5] \"ま、マナの補給……？\"\n[s6] \"要するに、おやつがほしいってことかな？\""
+1012502-122 = "[ns] 寮監隊の検問をかいくぐって持ち込んだクッキーを取り出す。"
+1012502-124 = "わあ……！美味しそうなクッキーですね！"
+1012502-125 = "でも、どうしましょう。手が絵の具まみれで……。"
+1012502-126 = "にゅふふ、こうなっては仕方ありません。#nマスター……よければ食べさせてくれませんか？"
+1012502-127 = "[s] \"そ、そういうことなら……。\""
+1012502-132 = "ありがとうございます！"
+1012502-133 = "それでは、いただきますっ！"
+1012502-137 = "いや～、マスターから直接いただくマナは格別ですね！"
+1012502-138 = "[s] \"もしかして、これが狙いだったりした……？\""
+1012502-139 = "にゅふ……それはどうでしょう？"
+1012502-140 = "きっとこれも、魔法の導きですよ！"
+1012502-142 = "（その後もエリにマナを補給しながら、楽しい時間を過ごしたのだった）"

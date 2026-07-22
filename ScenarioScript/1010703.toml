@@ -1,245 +1,124 @@
 [translation]
-1010703-1 = "Relatando a vida de uma secretária"
-
-1010703-2 = "(Pouco depois da conversa momo de Chiaki...)"
-
-1010703-7 = "Yaho! Olá, Sensei!"
-
-1010703-8 = "Trouxe um presente para você!"
-
-1010703-9 = "O que você acha? Você não está super animado?"
-
+1010703-1 = "書記の取材生活"
+1010703-2 = "（チアキからのモモトークから間もなく……）"
+1010703-7 = "やっほ！こんにちは、先生～！"
+1010703-8 = "プレゼント持ってきましたよ！"
+1010703-9 = "どうですか？超ワクワクしてきません～？"
 1010703-10 = "[s] \"お、おはよぉ……チアキ……。\""
-1010703-11 = "げっ！ ? Você está bem, senhor?"
-
-1010703-12 = "Você parece muito mal... você está resfriado?"
-
-1010703-16 = "foto? Eu tinha muito trabalho para fazer e fiquei acordado a noite toda...?"
-
-1010703-17 = "Se sim...está certo!"
-
-1010703-18 = "[s] \"U-Sim?\""
-
-1010703-19 = "Isso é incrível! Jajaan!"
-
-1010703-20 = "Presente comemorativo da assinatura “Weekly Manmaden”!"
-
-1010703-21 = "Está no envelope, então, por favor, abra-o!"
-
-1010703-22 = "[s] Abra o envelope."
-
-1010703-24 = "[ns] \"Isso é...?\""
-
-1010703-25 = "sim! Dois cupons para o buffet de doces!"
-
-1010703-26 = "Quando você está cansado, os doces são a melhor opção!"
-
-1010703-27 = "Costumo usá-lo quando estou preso na edição!"
-
-1010703-28 = "Então acho que é o presente perfeito para o atual Sensei!"
-
-1010703-29 = "[s] \"Chiaki...Obrigado!\""
-
-1010703-30 = "Sim, de nada!"
-
-1010703-31 = "É importante fazer pausas."
-
-1010703-32 = "Então, devo usá-lo agora?"
-
+1010703-11 = "げっ！？大丈夫ですか、先生？"
+1010703-12 = "すごく体調悪そうですね……風邪ですか？"
+1010703-16 = "え？仕事が多すぎて徹夜してた……？"
+1010703-17 = "でしたら……ちょうどいいですね！"
+1010703-18 = "[s] \"う、うん？\""
+1010703-19 = "それはなんと～ぉ！じゃじゃーん！"
+1010703-20 = "「週刊万魔殿」の定期購読記念プレゼント！"
+1010703-21 = "封筒の中にありますので、開けてみてください！"
+1010703-22 = "[s] 封筒を開ける。"
+1010703-24 = "[ns] \"これは……？\""
+1010703-25 = "はい！スイーツビュッフェの利用券2枚です！"
+1010703-26 = "疲れた時には、やっぱり甘～いスイーツ！"
+1010703-27 = "私も編集作業が行き詰まった時なんかは、よく利用してます！"
+1010703-28 = "なので、今の先生にぴったりなプレゼントかと！"
+1010703-29 = "[s] \"チアキ……ありがとう！\""
+1010703-30 = "はいっ、どういたしまして～！"
+1010703-31 = "休憩するのは大事ですからね。"
+1010703-32 = "というわけで、今すぐ使っちゃいましょうか？"
 1010703-33 = "[s] \"でも、まだ仕事が……。\""
-1010703-34 = "já! Quando você está cansado, sua eficiência no trabalho diminui!"
-
-1010703-35 = "É importante parar e fazer uma pausa às vezes!"
-
-1010703-36 = "Só um pouco! ei? Só um pouquinho!"
-
-1010703-37 = "[s] \"Bem, então, vamos fazer isso?\""
-
-1010703-38 = "sim! Vamos fazê-lo!"
-
-1010703-39 = "Bem, deixe-me mostrar a loja!"
-
-1010703-41 = "Uau! Muitos doces deliciosos!"
-
-1010703-42 = "Vamos entrar depressa, senhor!"
-
-1010703-43 = "Bem-vindo! 2 pessoas, certo?"
-
-1010703-44 = "Sim!"
-
-1010703-46 = "[ns] \"Este é o seu ingresso.\""
-
-1010703-47 = "obrigado!"
-
-1010703-48 = "Vou mostrar-lhe o seu lugar."
-
-1010703-51 = "...Isso conclui a explicação sobre o uso. #nVocê tem alguma outra preocupação?"
-
-1010703-52 = "Não, não... ah!"
-
-1010703-53 = "Se não se importa... posso escrever aqui um artigo sobre os doces?"
-
-1010703-54 = "A loja tem um ótimo ambiente e uma grande variedade de itens, que eu gosto muito!"
-
-1010703-55 = "Eu definitivamente gostaria de publicá-lo no Weekly Manma-dono...!"
-
-1010703-56 = "Fique à vontade para perguntar. Nossa loja lhe dá as boas-vindas."
-
-1010703-57 = "Uau! obrigado!"
-
-1010703-58 = "Por favor, não tenha pressa."
-
-1010703-62 = "Agora você está pronto para o próximo recurso!"
-
-1010703-63 = "Nossa, nunca pensei que inventaria uma história em uma cafeteria de doces! #nEssa também é a inspiração de uma secretária, repórter, editora-chefe e editora?"
-
-1010703-64 = "Além disso, esta loja aparentemente tem mais de 100 tipos de doces! #nProve cada um e escreva uma avaliação...!"
-
-1010703-65 = "Não há dúvida de que \"Weekly Manmaden\" se tornará um best-seller!"
-
-1010703-66 = "[s] \"Você consegue comer todos os 100 tipos?\""
-
-1010703-70 = "Ha! Era! Meu limite é de 5 macarons! ?"
-
-1010703-71 = "Ugh... o que devo fazer..."
-
-1010703-72 = "Hum, uh...Sensei, se você não se importa, uh..."
-
-1010703-73 = "[s1] \"Ok, vou ajudar você também.\"\n[s2] \"Você pode comer e me dizer o que acha, ok?\""
-
-1010703-76 = "Uh, muito obrigado..."
-
-1010703-77 = "Tente evitar ao máximo o sabor..."
-
-1010703-80 = "Bem, vamos começar com a foto de uma torta de manga..."
-
-1010703-84 = "Sensei, por favor, experimente!"
-
-1010703-85 = "[ns3] \"Ah.\"\n[ns4] Receba com a mão."
-
-1010703-88 = "Ah, isso é legal!"
-
-1010703-89 = "É uma torta de manga"
-
-1010703-96 = "O que você acha? Qual é o gosto?"
-
-1010703-97 = "[s] \"Hmm...que fofo...\""
-
-1010703-98 = "Doce?"
-
-1010703-99 = "[s] \"Delicioso!\""
-
-1010703-100 = "É igual ao biscoito de cereja anterior?"
-
-1010703-101 = "Mesmo sendo apenas o 10º..."
-
-1010703-102 = "Afinal, foi imprudente provar todos os 100 tipos...?"
-
-1010703-103 = "[s] \"Acho que é difícil para o seu estômago...\""
-
-1010703-104 = "Ugh...era para ser um recurso em destaque..."
-
-1010703-108 = "……um!"
-
-1010703-109 = "Se sim, você deve perguntar a outros clientes!"
-
-1010703-110 = "Se houver tantas pessoas, tenho certeza que conseguiremos!"
-
-1010703-111 = "[s] \"Sim, isso parece bom.\""
-
-1010703-115 = "Oh, havia dois clientes ali!"
-
-1010703-120 = "[ns] \"Eu me pergunto se está tudo bem...\""
-
-1010703-123 = "Quanto mais gente avaliar, melhor!"
-
-1010703-124 = "Vou fazer o pedido agora mesmo!"
-
-1010703-129 = "Olá!"
-
-1010703-130 = "Ah? O que?"
-
-1010703-131 = "Estou dando uma entrevista para o \"Weekly Manma-don\", mas posso fazer algumas perguntas?"
-
-1010703-132 = "Atualmente estou comendo doces, certo?"
-
-1010703-133 = "sim! É por isso que gostaríamos de pedir a sua colaboração nesta entrevista!"
-
-1010703-134 = "Ha, ha?"
-
-1010703-135 = "Por favor, deixe-nos saber o que você pensa sobre este parfait!"
-
-1010703-136 = "Ah, ah... isso é fofo."
-
-1010703-137 = "Eu vejo!"
-
-1010703-138 = "Quão doce você se sentiu? #nGosta de chocolate? Ou como abacaxi?"
-
-1010703-139 = "Huh? Existe alguma diferença?"
-
-1010703-140 = "Claro que existe! O chocolate tem uma doçura que desliza na língua e o abacaxi dá um soco na boca!"
-
-1010703-141 = "Bem, quando você diz isso, sinto que consigo perceber a diferença...?"
-
-1010703-142 = "Certo! Como esperado!"
-
-1010703-143 = "Ah, qual é o gosto desse biscoito?"
-
-1010703-144 = "Você gostaria de dar uma mordida?"
-
-1010703-145 = "Está tudo bem? Pois bem, acredite na sua palavra..."
-
-1010703-150 = "Uau, isso é picante!"
-
-1010703-151 = "Ahaha! Aparentemente foi feito com molho picante. Ficamos surpresos também."
-
-1010703-152 = "Ei, beba leite."
-
-1010703-156 = "Ugh, foi doloroso... mas foi uma ótima experiência! Esta pode ser uma boa história!"
-
-1010703-157 = "Os macarons aqui são deliciosos e eu os recomendo fortemente."
-
-1010703-161 = "[ns] (Antes que percebêssemos, nos tornamos amigos...)"
-
-1010703-167 = "Nossa, já faz tanto tempo? #nComo esperado, era impossível ter todos os 100 tipos!"
-
-1010703-168 = "Estou cheio! Esta pode ser a primeira vez que fico cheio de doces."
-
-1010703-169 = "Obrigado ao Sensei e a todos, a entrevista terminou com sucesso!"
-
-1010703-170 = "Eu definitivamente não poderia ter feito isso sozinho."
-
-1010703-171 = "Muito obrigado! Isso tornará “Weekly Manmaden” ainda mais doce!"
-
-1010703-172 = "Também fiz novos amigos, o que me deixa feliz!"
-
-1010703-173 = "[s] \"Essa é a garota que você entrevistou antes?\""
-
-1010703-174 = "Sim!"
-
-1010703-175 = "Ambos assinaram o Weekly Manmaden!"
-
-1010703-176 = "Também tiramos fotos juntos!"
-
-1010703-177 = "Este!"
-
-1010703-181 = "Ah, o que?"
-
-1010703-182 = "[s] \"A foto... está desfocada.\""
-
-1010703-183 = "Sim, isso mesmo...todas as fotos dos doces na matéria..."
-
-1010703-184 = "O que devo fazer..."
-
-1010703-185 = "...Bem, acho que não posso evitar!"
-
-1010703-186 = "Tente novamente! Estarei entrevistando você novamente a partir de agora!"
-
-1010703-187 = "[s] \"Ah, faça de novo!?\""
-
-1010703-188 = "sim! Para o artigo! E para “Weekly Manmaden”!"
-
-1010703-189 = "Felizmente ainda restam ingressos!"
-
-1010703-190 = "Pois bem, vamos lá!"
-
+1010703-34 = "もう！疲れてる時は仕事の効率も下がっちゃいますよ～！"
+1010703-35 = "時には立ち止まって、休憩するのも大事です！"
+1010703-36 = "ちょっとだけ！ね？ちょっとだけ～！"
+1010703-37 = "[s] \"じゃ、じゃあそうしようかな？\""
+1010703-38 = "はい！しちゃいましょう～！"
+1010703-39 = "ではでは、お店までご案内しますね～！"
+1010703-41 = "わぁ！美味しそうなスイーツがいっぱい！"
+1010703-42 = "早く入りましょう、先生！"
+1010703-43 = "いらっしゃいませ！2名様ですね？"
+1010703-44 = "はい～！"
+1010703-46 = "[ns] \"こちら、利用券です。\""
+1010703-47 = "ありがとうございます！"
+1010703-48 = "席までご案内いたしますね。"
+1010703-51 = "……ご利用に関する説明は以上となります。#n他に気になるところはございますか？"
+1010703-52 = "いえ、ありませ……あ！"
+1010703-53 = "もしよかったら……ここのスイーツ、記事にしてもいいですか？"
+1010703-54 = "お店の雰囲気も素敵ですし、種類も豊富で超気に入ってるんです！"
+1010703-55 = "ぜひ、「週刊万魔殿」に載せたいと思っているんですが……！"
+1010703-56 = "どうぞご遠慮なく。当店としては大歓迎です。"
+1010703-57 = "わあ！ありがとうございます！"
+1010703-58 = "では、ごゆっくりどうぞ。"
+1010703-62 = "これで次の特集も準備万端ですね！"
+1010703-63 = "いやぁ～まさかスイーツカフェでネタを思いつくなんて！#nこれも書記兼、記者兼、編集長兼、発行人のヒラメキってやつですかね～"
+1010703-64 = "しかもこのお店、スイーツが100種類もあるらしいですよ！#n一つひとつ味見して、そのレビューを記事にしたら……！"
+1010703-65 = "「週刊万魔殿」がベストセラーになること、間違いなしですね！"
+1010703-66 = "[s] \"100種類、全部食べられるの？\""
+1010703-70 = "はっ！そうでした！私、マカロン5つが限界なのに！？"
+1010703-71 = "うぅ……どうしよう……。"
+1010703-72 = "え、えっと……先生、もしよかったら、その……"
+1010703-73 = "[s1] \"いいよ。私も手伝うね。\"\n[s2] \"食べて感想を言えばいいんだね？\""
+1010703-76 = "うぅ、ありがとうございますぅ……。"
+1010703-77 = "なるべく味が被らないようにしましょう……。"
+1010703-80 = "さて、まずはマンゴータルトの写真から……。"
+1010703-84 = "先生、あーんしてみてください！"
+1010703-85 = "[ns3] \"あーん。\"\n[ns4] 手で受け取る。"
+1010703-88 = "おお、いいですね！"
+1010703-89 = "マンゴータルトですよ～"
+1010703-96 = "どうですか、お味は？"
+1010703-97 = "[s] \"うーん……甘くて……。\""
+1010703-98 = "甘くて？"
+1010703-99 = "[s] \"美味しい！\""
+1010703-100 = "さっきのチェリークッキーと同じですよ？"
+1010703-101 = "まだ10個目なのに……。"
+1010703-102 = "やっぱり、100種類全部を味見するのって無謀でしたかね……？"
+1010703-103 = "[s] \"胃のキャパ的に厳しいんじゃないかな……。\""
+1010703-104 = "うぅ……目玉特集の予定だったのにぃ……。"
+1010703-108 = "……あ！"
+1010703-109 = "でしたら、他のお客さんに聞けばいいんですよね！"
+1010703-110 = "これだけの人数がいるなら、きっといけると思います！"
+1010703-111 = "[s] \"うん、それは良さそうだね。\""
+1010703-115 = "あ、ちょうどあちらに二人組のお客さんが！"
+1010703-120 = "[ns] \"大丈夫かな……。\""
+1010703-123 = "レビューしてくれる人は、多ければ多いほど良いんですから！"
+1010703-124 = "さっそく頼んでみますね！"
+1010703-129 = "こんにちは～！"
+1010703-130 = "あぁん？なんだ？"
+1010703-131 = "「週刊万魔殿」の取材なんですけど、いくつかお聞きしてもいいですか？"
+1010703-132 = "今スイーツ食ってる最中なんだけど？"
+1010703-133 = "はい！だからぜひ取材のご協力をお願いしたく！"
+1010703-134 = "は、はぁ？"
+1010703-135 = "このパフェ、どんな味なのかご感想をお聞かせください～！"
+1010703-136 = "え、ああ……甘いな。"
+1010703-137 = "なるほど！"
+1010703-138 = "どんな風に甘く感じましたか？#nチョコレートみたいな？それともパイナップルみたいな？"
+1010703-139 = "えっ？違いとかあんの？"
+1010703-140 = "もちろんありますよ！チョコレートは舌の上を滑るような甘味で、パイナップルは口の中をパンチするような一撃があります！"
+1010703-141 = "そ、そう言われたら、なんとなく違いが分かるような……？"
+1010703-142 = "でしょでしょ～！流石ですね！"
+1010703-143 = "あ、こちらのクッキーはどんな味ですか？"
+1010703-144 = "一口食べてみる？"
+1010703-145 = "いいんですか？じゃあ、お言葉に甘えて……"
+1010703-150 = "うわっ、辛っ！"
+1010703-151 = "あははっ！ホットソースで作ったらしいよ。うちらもビックリしたんだから。"
+1010703-152 = "ほれ、牛乳飲みな。"
+1010703-156 = "うぅ、辛い……でも、いい体験になりました！これならいいネタになるかも～！"
+1010703-157 = "ここのマカロン、美味しいからオススメだよ。"
+1010703-161 = "[ns] （いつの間にか仲良くなってる……）"
+1010703-167 = "いやぁ～もうこんな時間ですか。#n流石に100種類全部は無理でしたね！"
+1010703-168 = "お腹いっぱい！スイーツで満腹になったの、初めてかもしれません～"
+1010703-169 = "先生と皆さんのおかげで、取材も無事に終わりました！"
+1010703-170 = "私一人だったら、絶対できませんでした。"
+1010703-171 = "本当にありがとうございました！これで「週刊万魔殿」もより甘くなるでしょう！"
+1010703-172 = "それに、新しい友達もできましたし、嬉しいですね～！"
+1010703-173 = "[s] \"さっき取材してた子？\""
+1010703-174 = "はい～！"
+1010703-175 = "二人とも、「週刊万魔殿」を定期購読してくれるって！"
+1010703-176 = "写真も一緒に撮っちゃいました！"
+1010703-177 = "これです！"
+1010703-181 = "あ、あれ？"
+1010703-182 = "[s] \"写真……ブレてるね。\""
+1010703-183 = "そう、ですね……記事に載せるスイーツの写真も全部……。"
+1010703-184 = "ど、どうしよう……。"
+1010703-185 = "……ま、仕方ないか！"
+1010703-186 = "やり直し！今からもう一度取材してきます！"
+1010703-187 = "[s] \"や、やり直し！？\""
+1010703-188 = "はい！記事のために！そして「週刊万魔殿」のために！"
+1010703-189 = "幸い、利用券はまだ残ってますので！"
+1010703-190 = "それじゃ、行ってきますね～！"

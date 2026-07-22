@@ -1,169 +1,86 @@
 [translation]
-1009503-1 = "É hora de ir, Sensei!"
-
-1009503-2 = "(Cheguei cerca de 15 minutos antes do horário prometido...)"
-
-1009503-3 = "(Quando eu estava esperando por Midori, vi alguém do outro lado da multidão...)"
-
-1009503-7 = "Olá, Sensei!"
-
-1009503-11 = "[ns] \"Por que a roupa de empregada!?\""
-
-1009503-12 = "Hehe, você me surpreendeu dessa vez!"
-
-1009503-13 = "[s] \"Esse não é o ponto!\""
-
-1009503-14 = "Não é realmente surpreendente."
-
-1009503-15 = "Porque neste momento sou apenas a empregada da Senseia."
-
-1009503-16 = "[s] \"Essa configuração continuou...\""
-
-1009503-17 = "Isso não é óbvio?"
-
-1009503-18 = "[s] \"Não é óbvio!?\""
-
-1009503-19 = "E de qualquer maneira! Eu sou a empregada da Senseia!"
-
-1009503-20 = "Algo para acompanhar seu marido quando ele sai..."
-
-1009503-21 = "Não é natural vestir-se adequadamente para a ocasião?"
-
-1009503-22 = "Você também não acha?"
-
-1009503-23 = "[s] \"Não sei mais de nada...\""
-
-1009503-24 = "Hehe, deixe assim."
-
-1009503-25 = "Ah, nesse caso..."
-
-1009503-26 = "Se você é Sensei, por que não tentar combinar o código de vestimenta?"
-
-1009503-27 = "Cuide da aparência do seu patrão... #nIsso também é o que uma empregada doméstica deve fazer, certo?"
-
-1009503-28 = "[s] \"Isso significa que vou trocar de roupa também...?\""
-
-1009503-29 = "Está tudo bem, confie em mim!"
-
-1009503-33 = "Achei que algo assim poderia acontecer, então trouxe muitas coisas comigo!"
-
-1009503-34 = "Sobrecasaca, cartola e bengala..."
-
-1009503-35 = "Há também vestidos agitados, chapéus de penas e sombrinhas!"
-
-1009503-36 = "Principalmente quando se trata de acessórios, cada um tem gostos diferentes, e preparamos monóculos, leques de penas e muitas outras coisas."
-
-1009503-37 = "Fique tranquilo, deixe tudo para essa empregada."
-
-1009503-38 = "[s1] \"Achei que você estava carregando uma mala grande...!\"\n[s2] \"Está tudo na mala?\""
-
-1009503-41 = "sim! Eu sou a empregada da Senseia!"
-
-1009503-42 = "Agora, vamos nos trocar. #nEu vou te ajudar direito."
-
-1009503-43 = "É uma alegria para uma empregada servir um bom mestre."
-
-1009503-44 = "Por favor, mostre-me a Senseia vestindo roupas bonitas!"
-
-1009503-45 = "Tanto como empregada doméstica quanto como ilustradora... #nVocê não pode perder essa oportunidade!"
-
+1009503-1 = "お出かけの時間ですよ、先生！"
+1009503-2 = "（約束の時間より15分ほど早く着いた……）"
+1009503-3 = "（ミドリを待っていると、人混みの向こうから……）"
+1009503-7 = "こんにちは、先生！"
+1009503-11 = "[ns] \"どうしてメイド服！？\""
+1009503-12 = "ふふっ、今回は驚いてくれましたね！"
+1009503-13 = "[s] \"重要なのはそこじゃないよ！\""
+1009503-14 = "別に驚くようなことじゃありませんよ。"
+1009503-15 = "だって今の私は、先生だけのメイドですから。"
+1009503-16 = "[s] \"その設定、続いてたんだね……。\""
+1009503-17 = "当たり前じゃないですか。"
+1009503-18 = "[s] \"当たり前ではないよ！？\""
+1009503-19 = "と、とにかく！私は先生のメイドです！"
+1009503-20 = "ご主人様の外出には、お供するもの……。"
+1009503-21 = "その際にふさわしい服装を身に纏うのは、自然なことですよね？"
+1009503-22 = "先生もそう思われませんか？"
+1009503-23 = "[s] \"私にはもう何も分からないよ……。\""
+1009503-24 = "ふふっ、ではこのままで。"
+1009503-25 = "あ、それなら……。"
+1009503-26 = "せっかくですし先生も、ドレスコードを合わせてみるのはいかがでしょう！"
+1009503-27 = "ご主人様の身だしなみを整える……。#nこれもメイドとしてすべきこと、ですよね？"
+1009503-28 = "[s] \"私も着替えるってこと……？\""
+1009503-29 = "大丈夫です、私を信じてください！"
+1009503-33 = "こんなこともあろうかと、色々お持ちしましたから！"
+1009503-34 = "フロックコートにシルクハット、それに杖と……"
+1009503-35 = "バッスルドレスに羽根つき帽子、日傘もあります！"
+1009503-36 = "特にアクセサリーは好みが分かれますし、モノクルや羽根扇子、#n他にもいろいろと用意してきました。"
+1009503-37 = "安心して、全てこのメイドにお任せください。"
+1009503-38 = "[s1] \"大きなスーツケースを持ってると思ったら……！\"\n[s2] \"それ全部、スーツケースに入ってるの？\""
+1009503-41 = "はい！私は先生のメイドですから！"
+1009503-42 = "さあ、着替えましょう。#nきちんとお手伝いしますので。"
+1009503-43 = "立派なご主人様にお仕えすることが、メイドの喜びなんです。"
+1009503-44 = "先生が素敵な服を着ている姿、私に見せてください！"
+1009503-45 = "メイドとしても、イラストレーターとしても……。#nこの機会、絶対に逃すことはできません！"
 1009503-46 = "[s3] \"そ、その前に確認なんだけど。\"\n[s4] \"この服、サイズは合ってる？\""
-1009503-49 = "Não se preocupe!"
-
-1009503-50 = "Recebemos cooperação técnica e aconselhamento de vários clubes do Millennium."
-
-1009503-51 = "Todos disseram que estavam ansiosos pelas fotos."
-
+1009503-49 = "ご安心ください！"
+1009503-50 = "ミレニアムの各部活から、技術的な協力とアドバイスを#nもらってますから。"
+1009503-51 = "みんな、写真を楽しみにしているとのことでした。"
 1009503-52 = "ですから、先生？"
-1009503-60 = "rapidamente……?"
-
-1009503-62 = "(Consegui convencer Midori, mas ela parecia bastante decepcionada...)"
-
-1009503-63 = "(Deixo minha mala no armário e vou para o museu enquanto acalmo Midori...)"
-
-1009503-73 = "Não apenas a sala de exposição, mas até os corredores são baseados no conceito..."
-
-1009503-74 = "É realmente incrível...."
-
-1009503-75 = "Sensei, olhe esse vestido. #nA largura ampla e a cintura estreita contrastam..."
-
-1009503-76 = "Diz-se que as senhoras da época apertavam a barriga com espartilhos para usar este vestido."
-
-1009503-77 = "Só de imaginar parece difícil..."
-
-1009503-78 = "Além disso, apertando a barriga... #nEu não deveria poder usar aquelas roupas sozinha."
-
-1009503-79 = "Fiz algumas pesquisas e descobri..."
-
-1009503-80 = "Aparentemente foram necessários cerca de três ajudantes para trocar de roupa..."
-
-1009503-81 = "[s] \"Eu me pergunto o que é moda...\""
-
-1009503-82 = "Tudo!"
-
-1009503-83 = "[s] \"Até aqui!?\""
-
-1009503-84 = "Bem, isso pode ter sido um exagero, mas..."
-
-1009503-85 = "Porém, costumamos dizer “comida, roupa e abrigo”, certo? É por isso que acho que a moda é muito mais importante do que as pessoas pensam."
-
-1009503-86 = "Quando desenho ilustrações, penso muito nessas coisas."
-
-1009503-87 = "Escolher as roupas que você veste é uma forma de se expressar."
-
-1009503-88 = "Então acho que os Senseies deveriam prestar mais atenção à moda!"
-
-1009503-89 = "[s] \"Eu farei o meu melhor...\""
-
-1009503-90 = "Não é bom estar em um bom lugar! #nÉ muito importante!"
-
-1009503-91 = "Eu não posso ficar assim. #nEu ainda fui pegar minha mala――"
-
-1009503-92 = "[s] \"Midori, acalme-se!\""
-
-1009503-93 = "E por favor não pare!"
-
-1009503-94 = "...Se eu trocar de roupa e voltar a entrar, terei que comprar outro ingresso?"
-
-1009503-95 = "Bem, isso é verdade..."
-
-1009503-99 = "Design clássico de roupas..."
-
-1009503-100 = "Parece semelhante a uma roupa de empregada, mas existem algumas diferenças."
-
-1009503-101 = "Como este chapéu. Também o formato da saia e da fita do vestido."
-
-1009503-102 = "[s] \"Se você me perguntar, é verdade.\""
-
-1009503-103 = "Vamos dar uma volta mais um pouco, senhor."
-
-1009503-104 = "Sinto que me inspiro muito quando estou aqui!"
-
-1009503-113 = "(Segui Midori e olhei ao redor de toda a sala de exposição.)"
-
-1009503-114 = "(Quando terminei de ver tudo, o sol já estava se pondo...)"
-
-1009503-117 = "Obrigado, Sensei, por hoje. #nFoi muito útil!"
-
-1009503-118 = "Além disso..."
-
-1009503-119 = "O encontro foi muito divertido..."
-
-1009503-120 = "[ns] \"Hmm, o que?\""
-
-1009503-124 = "não! Nada!"
-
-1009503-125 = "Bem, em vez disso, vamos para casa mais cedo! #nVou te acompanhar como sua empregada até o fim!"
-
-1009503-126 = "[s] \"Sim, obrigado.\""
-
-1009503-130 = "A propósito, senhor."
-
-1009503-137 = "Afinal, por que não tentar usá-lo pelo menos uma vez...?"
-
-1009503-138 = "[s] \"Sem isso.\""
-
-1009503-139 = "Sensei...."
-
-1009503-141 = "(Dei o braço a Midori, que parecia uma empregada, e voltei para casa ao anoitecer...)"
-
+1009503-60 = "早く……？"
+1009503-62 = "（ミドリの説得に何とか成功したが、かなり残念そうだった……）"
+1009503-63 = "（スーツケースをロッカーに預け、ミドリをなだめながら美術館に向かう……）"
+1009503-73 = "展示室だけじゃなく、廊下までコンセプトに則って……。"
+1009503-74 = "本当にすごいです……。"
+1009503-75 = "先生、このドレスを見てください。#nゆとりある身幅と、くびれたウエストが対照的で……。"
+1009503-76 = "当時の貴婦人はこのドレスを着るために、コルセットで#nお腹を締め上げたそうです。"
+1009503-77 = "想像するだけで、大変そう……。"
+1009503-78 = "それに、お腹を締め上げるということは……。#nああいった服は、一人で着ることはできなかったはずなんです。"
+1009503-79 = "ちょっと調べてみたんですが……。"
+1009503-80 = "着替えには、お手伝いさんが3人ほど必要だったそうで……。"
+1009503-81 = "[s] \"ファッションって、何なんだろうね……。\""
+1009503-82 = "全てです！"
+1009503-83 = "[s] \"そこまで！？\""
+1009503-84 = "さ、流石にそれは大げさだったかもしれませんが……。"
+1009503-85 = "ですが、よく「衣食住」って言いますよね？ですからファッションは、#n世の中で思われているよりも、ずっとずっと……大切なものだと思うんです。"
+1009503-86 = "イラストを描いていると、そういう事をよく考えるんです。"
+1009503-87 = "身につける服を選ぶのは、自分を表現する手段のひとつですから。"
+1009503-88 = "ですから先生も、もっとファッションに気を配るべきかと！"
+1009503-89 = "[s] \"善処するね……。\""
+1009503-90 = "善処ではダメです！#n本当に大事なことなんですから！"
+1009503-91 = "こうしてはいられません。#nやはりスーツケースを取りに行って――"
+1009503-92 = "[s] \"ミドリ、落ちついて！\""
+1009503-93 = "と、止めないでください！"
+1009503-94 = "……着替えて再入場すると、またチケットを買うことになる？"
+1009503-95 = "そ、それは確かに……。"
+1009503-99 = "古典の服飾のデザインって……。"
+1009503-100 = "メイドの服装に似ているようで、違う部分もありますね。"
+1009503-101 = "この帽子とか。ドレスのスカートやリボンの形も。"
+1009503-102 = "[s] \"言われてみると確かに。\""
+1009503-103 = "もう少し回りましょう、先生。"
+1009503-104 = "何だかここにいると、インスピレーションがたくさん湧いてきそうです！"
+1009503-113 = "（ミドリの後ろについて、展示室全体を見て回った）"
+1009503-114 = "（全てを見終える頃には、日が暮れていた……）"
+1009503-117 = "先生、今日はありがとうございます。#nとっても参考になりました！"
+1009503-118 = "それに、その……。"
+1009503-119 = "デート、とっても楽しかったです……。"
+1009503-120 = "[ns] \"ん、なんて？\""
+1009503-124 = "い、いえ！なんでもありません！"
+1009503-125 = "そ、そんなことより早く帰りましょう！#n最後まで、私がメイドとしてお供しますから！"
+1009503-126 = "[s] \"うん、ありがとね。\""
+1009503-130 = "ところで、先生。"
+1009503-137 = "やっぱり、その……一回だけでも着てみませんか……？"
+1009503-138 = "[s] \"それは無しで。\""
+1009503-139 = "せんせぇ……。"
+1009503-141 = "（メイド然としたミドリと腕を組み、夕暮れの道を歩いて帰った……）"

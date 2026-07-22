@@ -1,97 +1,49 @@
 [translation]
-1012906-1 = "O brilho que eu persegui"
-
-1012906-2 = "(O lugar sobre o qual Suzumi me contou...)"
-
-1012906-3 = "(Era um parque de diversões tranquilo em Trinity)"
-
-1012906-6 = "(Depois de um tempo, um pardal veio)"
-
-1012906-10 = "Está tarde!"
-
-1012906-11 = "Pedimos desculpas por mantê-lo esperando."
-
-1012906-12 = "[s1] \"Está tudo bem!\"\n[s2] \"Acabei de chegar também.\""
-
-1012906-15 = "Obrigado pela sua consideração."
-
-1012906-16 = "Ah, cheguei atrasado por causa dessa roupa..."
-
-1012906-17 = "Na verdade ontem――"
-
-1012906-18 = "Talvez eu estivesse cansado, então coloquei a caneta à base de água na máquina de lavar junto com minhas roupas..."
-
-1012906-19 = "...A única coisa segura eram essas roupas."
-
-1012906-20 = "Bem, só por precaução... explicamos a situação às pessoas do parque de diversões com antecedência e obtivemos sua aprovação."
-
-1012906-21 = "Não há nenhum show de heroínas mágicas hoje, então não acho que poderia ser confundida com um dos membros do elenco."
-
-1012906-22 = "[s3] \"Foi um desastre...\"\n[s4] \"É ótimo que você tenha conseguido lidar com isso com calma!\""
-
-1012906-25 = "É importante verificar com antecedência, então..."
-
-1012906-26 = "(Uma chance de conhecer o Sensei...)"
-
-1012906-27 = "(Eu não queria vê-la partir...)"
-
-1012906-28 = "[s5] \"Esse vestido realmente combina com você!\"\n[s6] \"Perfeito para um parque de diversões!\""
-
-1012906-31 = "Bem... isso foi bom."
-
-1012906-33 = "(Depois, aproveitei o parque de diversões com Suzumi.)"
-
-1012906-34 = "(A roupa de Suzumi era muito popular entre as crianças e ela foi abordada muitas vezes.)"
-
-1012906-38 = "Coma! Giga relâmpago mortal!"
-
-1012906-39 = "Droga, outro monstro...! Não há limite!"
-
-1012906-40 = "...Isso é algum tipo de performance?"
-
-1012906-41 = "“A grande batalha com o exército de monstros”… Entendo, é um show de heróis."
-
-1012906-42 = "……."
-
-1012906-44 = "(Suzumi assistiu ao show por um tempo.)"
-
-1012906-51 = "Ah."
-
-1012906-52 = "com licença. Eu simplesmente me apaixonei por isso..."
-
-1012906-53 = "[s] \"...Suzumi, você está preocupada com alguma coisa?\""
-
-1012906-54 = "Você pode até dizer que é um problema..."
-
-1012906-55 = "Acho que todos vocês gostam de histórias sobre heróis que salvam alguém."
-
-1012906-56 = "Tanto o herói anterior quanto a garota mágica nesta fantasia. #nEle é um personagem desse tipo de história."
-
-1012906-57 = "A razão pela qual todo mundo quer que os heróis apareçam é porque eles não existem..."
-
-1012906-58 = "...Isso é o que eu estava pensando."
-
-1012906-59 = "[s7] \"Se ele é um herói, ele está bem na minha frente.\"\n[s8] \"Ele estava vestindo roupas de herói e fazendo grandes coisas como um herói.\""
-
-1012906-64 = "Sim, o que é isso?"
-
-1012906-65 = "……."
-
-1012906-66 = "Estou um pouco hesitante em me chamar de herói, mas..."
-
-1012906-67 = "Não é ruim para meu Sensei me chamar assim..."
-
-1012906-68 = "Sempre me encare diretamente..."
-
-1012906-69 = "Estas são as palavras de uma Senseia que honestamente me deixa feliz."
-
-1012906-70 = "[s9] \"Porque Suzumi é muito legal!\"\n[s10] \"Porque Suzumi é muito legal!\""
-
-1012906-73 = "Obrigado, senhor."
-
-1012906-74 = "Obrigado por ouvir esta história chata."
-
-1012906-75 = "...Ficou completamente escuro."
-
-1012906-81 = "...Neste momento, sinto que posso alcançar as estrelas mesmo daqui."
-
+1012906-1 = "追いかけた輝きは"
+1012906-2 = "（スズミが教えてくれた場所は……）"
+1012906-3 = "（トリニティ内にある、閑散とした遊園地だった）"
+1012906-6 = "（しばらくすると、スズミがやってきた）"
+1012906-10 = "遅くなりました！"
+1012906-11 = "お待たせしてしまい、申し訳ありません。"
+1012906-12 = "[s1] \"大丈夫！\"\n[s2] \"私もさっき着いたところだよ。\""
+1012906-15 = "お気遣いくださりありがとうございます。"
+1012906-16 = "お、遅れたのは……この格好が原因で。"
+1012906-17 = "実は昨日――"
+1012906-18 = "疲れていたのか、洋服と一緒に水性ペンを洗濯機にかけてしまい……。"
+1012906-19 = "……無事なのは、この服だけでした。"
+1012906-20 = "い、一応……遊園地の方には、事前に事情を説明し了承を得ています。"
+1012906-21 = "今日は魔法少女のヒーローショーはないので、キャストに間違われることもないかと。"
+1012906-22 = "[s3] \"災難だったね……。\"\n[s4] \"落ち着いて対処できて、えらいよ！\""
+1012906-25 = "事前確認は大事、ですから……。"
+1012906-26 = "（先生にお会いできるチャンスを……）"
+1012906-27 = "（見送りたくはなかったですし……）"
+1012906-28 = "[s5] \"やっぱりその服、似合ってるね！\"\n[s6] \"遊園地にもピッタリ！\""
+1012906-31 = "そ、それは……良かったです。"
+1012906-33 = "（その後、スズミと一緒に遊園地を楽しんだ）"
+1012906-34 = "（スズミの服装は子供たちに大人気で、何度も声をかけられた）"
+1012906-38 = "食らえ！必殺、ギガライトニングッ！"
+1012906-39 = "くっ、また怪獣かっ……！キリがない！"
+1012906-40 = "……何かの公演でしょうか。"
+1012906-41 = "「怪獣軍団との大決戦」……なるほど、ヒーローショーですね。"
+1012906-42 = "……。"
+1012906-44 = "（スズミはしばらくの間、ショーを眺めていた）"
+1012906-51 = "あっ。"
+1012906-52 = "失礼しました。つい見入ってしまって……。"
+1012906-53 = "[s] \"……スズミ、何か悩んでない？\""
+1012906-54 = "悩み……とも言えるかもしれません。"
+1012906-55 = "みなさんは……誰かを救うヒーローの物語がお好きなんですね。"
+1012906-56 = "先ほどのヒーローも、この衣装の魔法少女も。#nそういう物語の人物です。"
+1012906-57 = "みなさんが英雄の登場を望むのは、実在しないからこそ……。"
+1012906-58 = "……そんなことを、考えていました。"
+1012906-59 = "[s7] \"英雄なら、いま私の目の前にいるよ。\"\n[s8] \"英雄の服を着て、英雄みたいに大活躍してた。\""
+1012906-64 = "そう、なんですか？"
+1012906-65 = "……。"
+1012906-66 = "自分で英雄を名乗るのは、少し気後れしますが……。"
+1012906-67 = "先生にそう呼んでいただけるのは……悪くないですね。"
+1012906-68 = "いつも、まっすぐ向き合ってくださる――"
+1012906-69 = "そんな先生の言葉だから、素直に嬉しく思えるのです。"
+1012906-70 = "[s9] \"スズミは本当にカッコいいからね！\"\n[s10] \"スズミは本当にイケてるからね！\""
+1012906-73 = "ありがとうございます、先生。"
+1012906-74 = "つまらない話を、ここまで聞いていただいて。"
+1012906-75 = "……すっかり暗くなってしまいましたね。"
+1012906-81 = "……今なら、ここからでも星を掴めてしまいそうです。"

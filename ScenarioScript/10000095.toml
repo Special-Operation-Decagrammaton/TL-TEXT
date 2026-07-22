@@ -1,97 +1,49 @@
 [translation]
-10000095-2 = "Agora, como comitê de gestão do festival, estamos fazendo os preparativos finais, então, por favor, desculpem-nos por um momento. Por favor, permita-me agradecer novamente mais tarde."
-
-10000095-3 = "Cabeça! Divirta-se assistindo ao clímax de um bom lugar!"
-
-10000095-4 = "[s] \"Sim, obrigado a ambos pelo seu trabalho duro.\""
-
-10000095-6 = "(Despedindo-se dos dois membros do comitê de gestão do festival e caminhando pela animada cidade)"
-
-10000095-8 = "A colaboração pirotécnica com o Millennium está prestes a começar!"
-
-10000095-9 = "Vamos rápido antes que seja tarde!"
-
-10000095-11 = "[ns] Siga o fluxo de pessoas e siga em direção ao local dos fogos de artifício."
-
-10000095-15 = "(O deck de observação onde você pode ver lindamente os fogos de artifício está lotado de pessoas.)"
-
-10000095-16 = "(Mesmo no meio de tanta multidão, consegui encontrá-lo imediatamente.)"
-
-10000095-18 = "H-Tem tanta gente, Izuna, acho que vou ficar sem oxigênio."
-
-10000095-19 = "[s] Chama por Izuna."
-
-10000095-20 = "Ah, aquela voz...! Sensei... Não, Senhor!"
-
-10000095-23 = "(Izuna de repente correu em minha direção e quase caí.)"
-
-10000095-24 = "Salão principal! Izuna encontrou um lugar com uma boa vista!"
-
-10000095-26 = "Está bem aí... Ahhh! Cheio de gente imediatamente!"
-
-10000095-27 = "Uau! O que devemos fazer! ? O lugar e a estrada agora estão todos bloqueados!"
-
-10000095-28 = "(Decidi assistir deste lugar enquanto acalmava Izuna que estava em pânico)"
-
-10000095-29 = "[s] \"É difícil ver mesmo no meio de uma multidão, então vamos assistir aqui.\""
-
-10000095-30 = "Ah, sim! Hehehe!"
-
-10000095-32 = "Ah, já começou...!"
-
-10000095-38 = "Uau! É maravilhoso!"
-
-10000095-39 = "(Então Izuna e eu assistimos os fogos de artifício efêmeros, porém lindos, florescendo e desaparecendo no céu por um tempo.)"
-
-10000095-41 = "(Parece que foi apenas um momento, e também parece que eu estava assistindo há muito tempo.)"
-
-10000095-43 = "Hehe, essa vista... não acredito que consigo ver ela junto com o salão principal..."
-
-10000095-44 = "……."
-
-10000095-45 = "Senhor... Izuna, peço desculpas por lhe causar tantos problemas."
-
-10000095-46 = "Izuna, Izuna..."
-
-10000095-47 = "[s1] \"Não se preocupe, você ainda é Sensei.\"\n[s2] \"Qualquer inconveniente causado aos alunos é sempre bem-vindo.\""
-
-10000095-48 = "Sensei……."
-
-10000095-49 = "Sensei……."
-
-10000095-51 = "Hehehe... meu senhor! Izuna, eu declaro!"
-
-10000095-52 = "O Sensei, o mestre, é quem apoia os meus sonhos!"
-
-10000095-53 = "De agora em diante, Izuna jurará lealdade ao Senhor!"
-
-10000095-54 = "[s] \"Entendo.\""
-
-10000095-55 = "Portanto, Senhor!"
-
-10000095-56 = "Esperamos seu apoio contínuo ao Izuna!"
-
-10000095-57 = "Izuna continuará treinando e dando o seu melhor para o Senhor!"
-
-10000095-60 = "Ninnin! Hehehe...!"
-
-10000095-63 = "Hyakki Yako/38º edifício da velha escola"
-
-10000095-67 = "(Sala do Clube de Pesquisa Ninjutsu)"
-
-10000095-68 = "(Atualmente recrutando candidatos para ingressar! Não é permitida zombaria!)"
-
-10000095-69 = "Ah, este é o Clube de Pesquisa Ninjutsu de que ouvi falar...!"
-
-10000095-70 = "Izuna, eu não fazia ideia que existia um clube que pesquisava ninjutsu!"
-
-10000095-71 = "Se você treinar aqui, Izuna se tornará um ótimo ninja...!"
-
-10000095-73 = "...OK!"
-
-10000095-76 = "Com licença...!"
-
-10000095-79 = "fim……?"
-
-10000095-80 = "Um festival de flores de cerejeira! ~ Flores no céu Shinobi no chão ~"
-
+10000095-2 = "それでは、私たちはお祭り運営委員会として最後の準備があるので、一旦失礼しますね。きちんとしたお礼は、また後ほどさせてください。"
+10000095-3 = "お頭！良い席でクライマックスを見届けてクダサイね！"
+10000095-4 = "[s] \"うん、二人ともお疲れ様。\""
+10000095-6 = "（お祭り運営委員会の二人を見送って、賑やかな街を歩く）"
+10000095-8 = "もうすぐあの、ミレニアムと合作の花火が始まるって！"
+10000095-9 = "遅れる前に早く行こう！"
+10000095-11 = "[ns] 人々の流れに乗って、花火会場の方へと移動する。"
+10000095-15 = "（花火が綺麗に見られる展望台は、多くの人で賑わっている）"
+10000095-16 = "（そんな人混みの中でも、すぐに見つけることができた）"
+10000095-18 = "ひ、人が多すぎて、イズナ、酸欠になりそうです～。"
+10000095-19 = "[s] イズナのことを呼ぶ。"
+10000095-20 = "あっ、この声は……！せんせ……いえ、主殿！"
+10000095-23 = "（急に走ってきたイズナの勢いで、危うく倒れそうになった）"
+10000095-24 = "主殿！イズナが見晴らしの良い場所を見つけておきましたので！"
+10000095-26 = "あそこがちょうど……って、ああぁっ！すぐ人でいっぱいに！"
+10000095-27 = "うわぁん！ど、どうしましょう！？さっきの場所も道も、全部塞がれてしまいました！"
+10000095-28 = "（慌てるイズナを落ち着かせながら、この場所から見ることにした）"
+10000095-29 = "[s] \"人混みの中でも見づらいし、ここで見ようか。\""
+10000095-30 = "は、はい！えへへっ！"
+10000095-32 = "あ、始まりました……！"
+10000095-38 = "わあっ！素敵です！"
+10000095-39 = "（そうしてイズナと二人でしばらくの間、空に咲き誇っては消えていく、儚くも美しい花火を眺めていた）"
+10000095-41 = "（一瞬のようだった気もするし、長い時間見ていたような気もする）"
+10000095-43 = "えへへっ、この景色……主殿と一緒に見られるだなんて……。"
+10000095-44 = "……。"
+10000095-45 = "主殿……その、イズナ、色々とご迷惑をおかけしてしまって申し訳ありません。"
+10000095-46 = "イズナは、イズナは……。"
+10000095-47 = "[s1] \"気にしないで、これでも先生だから。\"\n[s2] \"生徒にかけられる迷惑なら、いつでも大歓迎。\""
+10000095-48 = "先生……。"
+10000095-49 = "先生……。"
+10000095-51 = "えへへっ……主殿！イズナ、ここに宣言します！"
+10000095-52 = "先生は、主殿は、私の夢を応援してくださる方！"
+10000095-53 = "これから先、イズナは主殿に忠誠を誓います！"
+10000095-54 = "[s] \"そ、そっか。\""
+10000095-55 = "ですので主殿！"
+10000095-56 = "これからもイズナを、末永くよろしくお願いいたします！"
+10000095-57 = "イズナはこれからも修行を続けて、主殿のために頑張っていきますので！"
+10000095-60 = "ニンニン！えへへっ……！"
+10000095-63 = "百鬼夜行・第38旧校舎"
+10000095-67 = "（忍術研究部の部室）"
+10000095-68 = "（入部希望者募集中！冷やかしお断り！）"
+10000095-69 = "おお、ここが噂に聞いた忍術研究部……！"
+10000095-70 = "忍術を研究する部活があるだなんて……イズナ、全然知りませんでした！"
+10000095-71 = "ここで修行すれば、イズナも立派な忍者に……！"
+10000095-73 = "……よし！"
+10000095-76 = "失礼します……！"
+10000095-79 = "終わり……？"
+10000095-80 = "桜花爛漫お祭り騒ぎ！～空に徒花 地に忍び～"

@@ -1,158 +1,81 @@
 [translation]
-1010302-1 = "mentira e verdade"
-
-1010302-2 = "Sensei, aqui está! #nAjude-me!"
-
-1010302-3 = "[s1] \"Marina, acalme-se!\"\n[s2] \"O que aconteceu?\""
-
-1010302-6 = "Isso mesmo..."
-
-1010302-7 = "Vim a este restaurante para comer..."
-
-1010302-8 = "Bem-vindo, você está conosco? #nPor favor, aproveite sua refeição!"
-
-1010302-9 = "...Estou com problemas como este."
-
-1010302-10 = "[s] \"Hum, o que você quer dizer?\""
-
-1010302-11 = "Erm..."
-
-1010302-12 = "Ouvi dizer que a comida deste restaurante é muito deliciosa..."
-
-1010302-13 = "Eu pedi sem pensar e acabei sendo servido com muita comida."
-
-1010302-14 = "Então, comecei a me preocupar se ficaria feliz em receber tal hospitalidade..."
-
-1010302-15 = "O que diabos é aquela coisa crocante nesta sopa...?"
-
+1010302-1 = "嘘と真"
+1010302-2 = "先生、ここだ！#n助けてくれ！"
+1010302-3 = "[s1] \"マリナ、落ち着いて！\"\n[s2] \"何があったの？\""
+1010302-6 = "そ、それはだな……。"
+1010302-7 = "この店に食事に来たんだが……。"
+1010302-8 = "いらっしゃいませ、お連れ様ですね？#nごゆっくりお召し上がりください！"
+1010302-9 = "……こんな感じで困っているんだ。"
+1010302-10 = "[s] \"えっと、どういうこと？\""
+1010302-11 = "ええっと……。"
+1010302-12 = "この店の料理が、すごく美味しいと聞いて来たのだが……。"
+1010302-13 = "何も考えずに注文したら、こんなにも料理を出されてしまったんだ。"
+1010302-14 = "それで、こんなおもてなしを受けても良いものか心配になって……。"
+1010302-15 = "このスープに入ってるコリコリしたものは、いったい……。"
 1010302-16 = "野菜炒めも、不思議なくらいコクがある。"
-1010302-17 = "Sanduíche de camarão... #n Não, é um prato tipo tempura, e até arroz frito dourado."
-
-1010302-18 = "Além disso, parece que Xuanlongmen cobrirá todas as despesas incorridas durante a estada de Shanhaijing."
-
-1010302-19 = "...Eu não poderia nem imaginar um prato assim no Red Winter."
-
-1010302-20 = "Estou preocupado que se eu colocar muito estresse em Genryumon, eu mancharei o nome de Red Winter..."
-
-1010302-21 = "[ns] (Certamente, a quantia é enorme, mas...)"
-
+1010302-17 = "エビのサンドイッチ……#nいや、天ぷらのような料理に、黄金色のチャーハンまで。"
+1010302-18 = "そのうえ、山海経の滞在中にかかった費用は、すべて玄龍門が負担してくれるらしい。"
+1010302-19 = "……こんな料理、レッドウィンターでは想像すらできなかった。"
+1010302-20 = "玄龍門にあまり負担をかけてしまっては、#nレッドウィンターの名を汚さないかと心配で……。"
+1010302-21 = "[ns] （たしかに、量はすごいけど……）"
 1010302-23 = "[ns] （一般的な食材を使っているような……？）"
-1010302-24 = "O que, Sensei? #nQuero que você diga algo sem olhar para mim..."
-
-1010302-25 = "Afinal, isso é hospitalidade excessiva, não é?"
-
-1010302-26 = "[s] \"Acho que você ficará bem com isso.\""
-
-1010302-27 = "É assim mesmo? #nQuando a Senseia falou isso, fiquei um pouco aliviado, mas..."
-
-1010302-28 = "Como foi a refeição? #nEste será tofu de amêndoa para sobremesa!"
-
-1010302-29 = "É um tipo de tofu? #nしかし、このツヤと食感は初めてだ……。"
-
-1010302-30 = "... Entendo, é como pudim de tofu! #nIsso é incrível, posso comer dois pudins!"
-
-1010302-31 = "[s] \"Bom para você, Marina.\""
-
-1010302-33 = "...Eu comi demais."
-
-1010302-34 = "……o que? #nÉ educado comer demais em Shanhai Ching? #nQue cultura estranha."
-
-1010302-35 = "Mesmo assim, devem ter sido necessários ingredientes caros para fazer um prato tão delicioso..."
-
-1010302-36 = "Chef, poderia me falar sobre os ingredientes utilizados no prato de hoje?"
-
-1010302-37 = "Haha, isso é um segredo comercial."
-
-1010302-38 = "Você não está curioso? #nIsso mesmo, aquela coisa crocante que estava na sopa mais cedo! ?"
-
-1010302-39 = "Aquele vegetal salteado também tinha um sabor complexo!"
-
-1010302-40 = "...Eu não vou contar a ninguém, então você poderia me contar secretamente?"
-
-1010302-41 = "Eu não posso evitar, está tudo bem."
-
-1010302-42 = "O primeiro prato que servimos foi sopa de barbatana de tubarão com cogumelos orelha-de-pau."
-
-1010302-43 = "Alguns cogumelos orelha-de-pau têm uma textura semelhante à barbatana de tubarão."
-
-1010302-44 = "Entre eles, usamos um cogumelo especial de orelha branca que adquirimos por nossa própria rota!"
-
-1010302-45 = "Esta é uma joia que cresceu a partir de um toco de 500 anos sem ser exposta à luz solar!"
-
-1010302-46 = "Ah, isso mesmo! ?"
-
-1010302-47 = "[s3] (Ah, é uma piada sobre Sankai Keiryu...)\n[s4] (É engraçado, então continue assistindo)"
-
-1010302-50 = "Para aquele refogado de vegetais, usamos bok choy de alta qualidade, que é colhido apenas uma pequena porcentagem do #n total!"
-
-1010302-51 = "Existem até camarões gigantes que só existem em zonas onde a temperatura da água se mantém constante durante todo o ano!"
-
-1010302-52 = "Há também carne de peito de fênix em molho feito com molho de soja que é fabricado há 1000 anos! #n Incluímos ingredientes cuidadosamente selecionados que você não encontra em nenhum lugar de Kivotos!"
-
-1010302-53 = "Ah, isso mesmo! ?"
-
-1010302-55 = "Uh... o que devo fazer, Sensei?"
-
-1010302-56 = "Acho que foi minha culpa ter causado problemas para Genryumon..."
-
-1010302-57 = "[s5] \"Está tudo bem, não se preocupe.\"\n[s6] \"É tudo uma piada.\""
-
-1010302-60 = "じ、冗談だと！ ?"
-
+1010302-24 = "せ、先生？#nジッと見ていないで、何か言ってほしいのだが……。"
+1010302-25 = "やはり、これは過剰なもてなしなのだな？"
+1010302-26 = "[s] \"これくらいなら、きっと大丈夫だと思うよ。\""
+1010302-27 = "そう、なのか？#n先生がそう言ってくれて、少しは安心したが……。"
+1010302-28 = "食事はいかがでしたか？#nこちらはデザートの杏仁豆腐になります！"
+1010302-29 = "豆腐の一種なのか？#nしかし、このツヤと食感は初めてだ……。"
+1010302-30 = "……そうか、豆腐プリンのようなものか！#nこれはすごい、プリンが2つ食べられるな！"
+1010302-31 = "[s] \"良かったね、マリナ。\""
+1010302-33 = "……食べ過ぎてしまった。"
+1010302-34 = "……なに？#n山海経では、食べ過ぎるくらいが礼儀なのか？#nなんとも不思議な文化だ。"
+1010302-35 = "それにしても、#nこんな美味しい料理を作るには、高価な材料が必要だったはず……。"
+1010302-36 = "料理長、今日の料理に使われた食材について教えてくれないか？"
+1010302-37 = "ははっ、それは営業秘密です。"
+1010302-38 = "き、気になるじゃないか！#nそうだ、さっきのスープに入っていたコリコリしたものは！？"
+1010302-39 = "あの野菜炒めも複雑な味をしていたぞ！"
+1010302-40 = "……誰にも言わないから、こっそり教えてもらえないか？"
+1010302-41 = "仕方ありませんね、良いでしょう。"
+1010302-42 = "最初に提供した料理は、きくらげのフカヒレスープです。"
+1010302-43 = "きくらげの中には、フカヒレと食感が似ているものもありまして。"
+1010302-44 = "なかでも、当店が独自のルートで仕入れた特殊な白きくらげを使用しています！"
+1010302-45 = "500年が経過した切り株から、#n一切の太陽光を浴びずに育った逸品です！"
+1010302-46 = "そ、そうだったのか！？"
+1010302-47 = "[s3] （あ、山海経流の冗談だ……）\n[s4] （面白いから、このまま見ていよう）"
+1010302-50 = "あの野菜炒めには、#n全体の数パーセントしか採れない高品質なチンゲンサイを使っています！"
+1010302-51 = "1年中水温が変わらない海域にだけ存在する、巨大エビも！"
+1010302-52 = "1000年かけて仕込んだ醤油で作ったソースに、鳳凰の胸肉も！#nキヴォトスのどこを探しても見つからない厳選食材を、これでもかと入れました！"
+1010302-53 = "そ、そうだったのか！？"
+1010302-55 = "うう……どうすれば良いのだ、先生。"
+1010302-56 = "私のせいで、玄龍門に迷惑をかけてしまったのでは……。"
+1010302-57 = "[s5] \"大丈夫、安心して。\"\n[s6] \"アレ、全部冗談だから。\""
+1010302-60 = "じ、冗談だと！？"
 1010302-61 = "……なるほど、山海経流のノリか。#n本当は全部、よくある材料だった、と？"
-1010302-62 = "...Ufa, fiquei aliviado ao ouvir isso. #nNo entanto, é difícil acreditar que você possa recriar tal sabor com ingredientes comuns..."
-
-1010302-63 = "Não, entendo. #nMesmo que o assunto ingredientes seja uma piada, o chef é de primeira qualidade."
-
-1010302-64 = "Mesmo que você tente enganar com mentiras, você não é páreo para a verdade... #n Ufa, aprendi uma coisa de novo."
-
-1010302-65 = "OK."
-
-1010302-66 = "Agora que você já sabe, vamos aproveitar sua viagem gourmet!"
-
-1010302-67 = "Claro, seu Sensei irá com você, certo?"
-
-1010302-68 = "[s] \"U-Sim...\""
-
-1010302-69 = "Bem, vamos começar com aquele beco!"
-
-1010302-72 = "Isso é...! ?"
-
-1010302-73 = "Fufufufu... Bem-vindo à Rua Tojo. #nComo você pode ver, este é um local famoso por espetar vários insetos."
-
-1010302-74 = "Se você já visitou lá, deve estar preparado, certo?"
-
-1010302-75 = "[s] \"Bem, Marina... você acha que está bem?\""
-
-1010302-76 = "……."
-
-1010302-77 = "ah. Eu já sei, senhor."
-
-1010302-78 = "De qualquer forma, isso deve ser uma piada."
-
-1010302-79 = "Parece um bicho, mas por dentro é definitivamente uma delícia!"
-
-1010302-80 = "[s] \"Esse é realmente o caso...?\""
-
-1010302-81 = "Confie em mim, senhor! #nSe isso acontecer, vamos conquistar todos os tipos!"
-
-1010302-82 = "Vamos, ataque!"
-
-1010302-84 = "Isso é... um espeto de escorpião? #nNão, tinha apenas a forma de um escorpião."
-
-1010302-85 = "Qual deles... ah! ?"
-
-1010302-86 = "Não é um escorpião de verdade? #nEm outras palavras, todos os espetos que você comeu até agora eram insetos...?"
-
-1010302-87 = "...Isso é surpreendentemente legal, não é? #nA pele é um pouco dura, mas fica crocante e perfumada."
-
-1010302-88 = "Próximo...espetos de estrela do mar! ? #nEles até vendem tanto! ?"
-
-1010302-89 = "Bem, tudo é um desafio. #nObserve-me, Sensei!"
-
-1010302-93 = "...Droga. O que é esse gosto de queimado? #nEu me sinto como um peixe por dentro..."
-
-1010302-95 = "(Depois disso, Marina provou vários espetos de insetos...)"
-
-1010302-96 = "(resolvi não perguntar o que Marina tinha aprendido...)"
-
+1010302-62 = "……ふぅ、それを聞いて安心した。#nしかし、普通の食材であれほどの味を再現するとは……。"
+1010302-63 = "いや、そうか。#n食材の話は冗談だとしても、料理人が一流なのだな。"
+1010302-64 = "嘘で誤魔化そうとしたところで、真実には敵わない……#nふっ、また学びを得てしまった。"
+1010302-65 = "よし。"
+1010302-66 = "こうなった以上、グルメ旅を楽しもう！"
+1010302-67 = "もちろん、先生も付いてきてくれるな？"
+1010302-68 = "[s] \"う、うん……。\""
+1010302-69 = "では、まずはあっちの路地だ！"
+1010302-72 = "こ、これは……！？"
+1010302-73 = "ふっふっふ……東城通りにようこそ。#nここはご覧の通り、様々な虫の串焼きで知られる名所です。"
+1010302-74 = "足を運んだということは、それ相応の覚悟がお有りですね？"
+1010302-75 = "[s] \"ま、マリナ……大丈夫そう？\""
+1010302-76 = "……。"
+1010302-77 = "ああ。もう分かっているぞ、先生。"
+1010302-78 = "どうせ、これも冗談なのだろう。"
+1010302-79 = "見た目は虫の形をしているが、#n中身は美味しいに違いない！"
+1010302-80 = "[s] \"本当にそうなのかな……？\""
+1010302-81 = "私を信じてくれ、先生！#nこうなったら、全種類制覇といこう！"
+1010302-82 = "行くぞっ、突撃ー！"
+1010302-84 = "これは……サソリの串焼きか？#nいや、サソリの形をしているだけだったな。"
+1010302-85 = "どれどれ……うっ！？"
+1010302-86 = "なっ、本物のサソリじゃないか！#nつまり、今まで食べてきた串焼きは、すべて虫だったと……？"
+1010302-87 = "……あれ、意外とイケるな？#n少し皮は硬いが、カリッとしていて香ばしいぞ。"
+1010302-88 = "つ、次は……ヒトデの串焼き！？#nこんなのまで売ってるのか！？"
+1010302-89 = "いや、何事も挑戦だな。#n見ててくれ、先生！"
+1010302-93 = "……くっ。なんだ、この焦げたような味は。#n中は魚のような気も……。"
+1010302-95 = "（その後もマリナは、様々な虫の串焼きを味わった……）"
+1010302-96 = "（マリナがどんな学びを得たのかは、聞かないことにしておいた……）"

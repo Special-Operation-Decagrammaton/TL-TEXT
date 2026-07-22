@@ -1,103 +1,52 @@
 [translation]
-1011202-1 = "no ônibus"
-
-1011202-3 = "(Tenho que ir direto para o Millennium hoje)"
-
-1011202-4 = "(Os ônibus parecem estar bastante lotados a esta hora do dia...)"
-
-1011202-15 = "[ns] \"Ugh, tem muita gente...\""
-
-1011202-19 = "(Se você for para trás...)"
-
-1011202-24 = "Hein, mestre?"
-
-1011202-25 = "[s] \"Essa voz...\""
-
-1011202-28 = "Uau, você realmente é meu mestre!"
-
-1011202-29 = "[s1] \"Bom dia, Asuna.\"\n[s2] \"Você está de uniforme hoje!\""
-
-1011202-32 = "Sim, porque as atividades do clube estão encerradas!"
-
-1011202-36 = "Não é revigorante ver meu uniforme?"
-
-1011202-37 = "[s] \"Isso é raro.\""
-
-1011202-41 = "Hehe, o que você acha? #nCombina com você?"
-
-1011202-46 = "...Mestre?"
-
-1011202-47 = "Huh, quem é essa pessoa... assustador..."
-
-1011202-51 = "[ns3] \"Uh, sim. Combina com você, Asuna...!\"\n[ns4] \"A palavra \"mestre\" aqui é um pouco... \""
-
-1011202-57 = "Ah, entendo."
-
-1011202-58 = "Não sou mais empregada doméstica."
-
-1011202-59 = "Então, devo ligar para você, Sensei?"
-
-1011202-64 = "S-Sensei...?"
-
-1011202-65 = "Não acredito que ele está deixando seus alunos o chamarem de \"mestre\"..."
-
-1011202-69 = "[ns5] \"…….\"\n[ns6] (O mal-entendido se espalha...)"
-
-1011202-77 = "Bem, aqui vai uma mensagem para nossos clientes."
-
-1011202-82 = "O grampo contínuo que você verá em breve realizará um desvio inercial a uma velocidade crítica porque o diamante está empurrando."
-
-1011202-83 = "[ns] \"Sim?\""
-
-1011202-87 = "Por favor, segure-se nos corrimãos e esteja seguro."
-
-1011202-91 = "Ahaha. #nSensei, é perigoso se você não agarrar!"
-
-1011202-98 = "[ns] \"Uh, uau!?\""
-
-1011202-105 = "Ei!"
-
-1011202-111 = "Sensei, você está bem?"
-
-1011202-112 = "[s] \"De alguma forma...\""
-
-1011202-113 = "Ahaha, foi divertido! #nTodo mundo vai e volta para a direita e para a esquerda!"
-
-1011202-114 = "Me senti como se estivesse em uma montanha russa!"
-
-1011202-115 = "[s] \"Se você se sente assim no ônibus, você está fora, certo?\""
-
-1011202-119 = "[ns] \"…….\""
-
-1011202-120 = "(Acabei massageando um ao outro no carro e cheguei bem perto de Asuna.)"
-
-1011202-121 = "[ns] \"Asuna...Não é pequeno? Você está bem?\""
-
-1011202-122 = "Hum?"
-
-1011202-123 = "Não é pequeno?"
-
-1011202-127 = "Hehehe, já faz um tempo que não nos vemos tão de perto!"
-
-1011202-128 = "[s] \"Isso não parece certo...\""
-
-1011202-132 = "[ns7] (move o corpo)\n[ns8] \"Hmph!\""
-
-1011202-135 = "Ahaha!"
-
-1011202-136 = "Que cara engraçada!"
-
-1011202-137 = "[s] \"Estou trabalhando duro como Sensei de várias maneiras...\""
-
-1011202-138 = "Eles cuidaram de você porque era pequeno?"
-
-1011202-139 = "Na verdade, é mais fácil deixar o Sensei assumir o seu peso, não é?"
-
-1011202-140 = "[s] \"Esse é o problema...\""
-
-1011202-141 = "Hehe, eu posso ouvir seu batimento cardíaco! #nDokudoku é incrível!"
-
-1011202-143 = "(Só assim, 10 minutos que pareceram 10 anos se passaram...)"
-
-1011202-144 = "(desci no ponto de ônibus de destino)"
-
+1011202-1 = "バスの中で"
+1011202-3 = "（今日はミレニアムに直行しないといけない）"
+1011202-4 = "（この時間帯のバスは、かなり混雑してそうだ……）"
+1011202-15 = "[ns] \"うっ、人が多い……。\""
+1011202-19 = "（奥に移動していると……）"
+1011202-24 = "あれ～ご主人様？"
+1011202-25 = "[s] \"この声は……。\""
+1011202-28 = "わぁ、本当にご主人様だ！"
+1011202-29 = "[s1] \"おはよう、アスナ。\"\n[s2] \"今日は制服なんだね！\""
+1011202-32 = "うん、部活が休みだから！"
+1011202-36 = "私の制服姿、新鮮でしょ？"
+1011202-37 = "[s] \"珍しいね。\""
+1011202-41 = "えへへ、どうどう？#n似合ってる？"
+1011202-46 = "……ご主人様？"
+1011202-47 = "え、何あの人……こわ……"
+1011202-51 = "[ns3] \"う、うん。似合ってるけど、アスナ……！\"\n[ns4] \"ここで「ご主人様」は、ちょっと……。\""
+1011202-57 = "あ、そっか。"
+1011202-58 = "今はメイドじゃないもんね。"
+1011202-59 = "じゃあ、先生って呼べば良い？"
+1011202-64 = "せ、先生……？"
+1011202-65 = "まさか生徒に「ご主人様」と呼ばせているだなんて……。"
+1011202-69 = "[ns5] \"……。\"\n[ns6] （誤解が広がっていく……）"
+1011202-77 = "えー、お客様にお知らせです。"
+1011202-82 = "まもなく見えます連続ヘアピンは、ダイヤが押しているため限界速度で慣性ドリフトを行ないます。"
+1011202-83 = "[ns] \"はい？\""
+1011202-87 = "しっかりと手すりに掴まり、安全にご注意ください。"
+1011202-91 = "あははっ。#n先生、掴まらないと危ないよ！"
+1011202-98 = "[ns] \"う、うわあぁぁっ！？\""
+1011202-105 = "ひぃぃっ！"
+1011202-111 = "先生、大丈夫？"
+1011202-112 = "[s] \"何とか……。\""
+1011202-113 = "あははっ、楽しかったね～！#nみんな右に左に行ったり来たり！"
+1011202-114 = "ジェットコースターに乗った気分！"
+1011202-115 = "[s] \"バスでそんな気分になったらアウトだよね！？\""
+1011202-119 = "[ns] \"……。\""
+1011202-120 = "（車内で揉みくちゃになり、アスナとかなり密着してしまった）"
+1011202-121 = "[ns] \"アスナ……その、狭くない？大丈夫？\""
+1011202-122 = "んー？"
+1011202-123 = "狭くないよ～？"
+1011202-127 = "えへへっ、こんなピッタリくっついて顔を見るのも久しぶりだね！"
+1011202-128 = "[s] \"さすがにこれは、いけないような……。\""
+1011202-132 = "[ns7] （体をもぞもぞ動かす）\n[ns8] \"ふんっ！\""
+1011202-135 = "あははっ！"
+1011202-136 = "何その顔、面白～い！"
+1011202-137 = "[s] \"色々と先生として頑張ってるんだよ……。\""
+1011202-138 = "狭いから気を使ってくれたの？"
+1011202-139 = "むしろ、先生に体重を預けられて楽ちんだよ？"
+1011202-140 = "[s] \"それが問題なんだ……。\""
+1011202-141 = "ふふっ、心臓の音が聞こえるね！#nドクドクって、すごいよ～！"
+1011202-143 = "（そうこうして、10年にも感じた10分が過ぎ……）"
+1011202-144 = "（目的地のバス停で降りた）"

@@ -1,141 +1,71 @@
 [translation]
-1009105-1 = "Eu estou no comando"
-
-1009105-2 = "(À tarde, encontrei-me com Kazusa em um cruzamento ferroviário próximo.)"
-
-1009105-3 = "...Sim, Sensei."
-
-1009105-8 = "[ns1] \"Olá, Kazusa.\"\n[ns2] \"Hora perfeita.\""
-
-1009105-11 = "Desculpe, você esperou?"
-
-1009105-12 = "Eu estava planejando terminar o treino mais cedo, mas... os Senseies geralmente chegam mais cedo."
-
-1009105-13 = "Tem certeza de que chegou na hora ou está tudo bem se chegar um pouco atrasado?"
-
-1009105-14 = "[s] \"Eu não quero esperar por Kazusa de jeito nenhum---\""
-
-1009105-15 = "Sim, pare."
-
-1009105-16 = "Eu sei o que você está tentando dizer, mas não vou ouvir. #ncutcut."
-
-1009105-17 = "Se você fizer isso logo depois de nos encontrarmos, não durará o dia inteiro."
-
-1009105-18 = "E aí, já decidiu o que quer comer hoje?"
-
-1009105-19 = "...Uau, existem alguns."
-
-1009105-20 = "Hmm, você poderia me emprestar essa lista por um momento?"
-
-1009105-21 = "As lojas por aqui têm horários de fechamento diferentes. #nSe você não tiver uma estratégia adequada, não conseguirá ir bem."
-
-1009105-22 = "Então recomendo seguir o conselho de um veterano, certo?"
-
-1009105-27 = "vamos ver……."
-
-1009105-28 = "Ah, essa loja..."
-
-1009105-29 = "Hehe, essa é uma escolha muito boa. O Sensei #n está prestes a se tornar um membro pleno do clube de doces depois das aulas."
-
-1009105-30 = "[s] \"Sim, graças a você.\""
-
-1009105-31 = "Mesmo que você me elogie, não vai sair nada disso, certo?"
-
-1009105-32 = "...Agora então."
-
-1009105-33 = "Bem, é uma perda de tempo..."
-
-1009105-34 = "Aqui, vamos!"
-
-1009105-36 = "(Depois disso, comecei a fazer um tour de doces com Kazusa.)"
-
-1009105-37 = "(Era uma rota um tanto incomum, mas como disse Kazusa, era a “rota ideal” que nos permitiria chegar bem a tempo do horário de fechamento.)"
-
-1009105-39 = "(Antes que eu percebesse, já era noite e cheguei na frente da última loja da lista)"
-
-1009105-44 = "...Ok, cheguei a tempo."
-
-1009105-45 = "Isso é tudo?"
-
-1009105-46 = "……sim?"
-
-1009105-47 = "Hehe, isso é apenas café da manhã."
-
-1009105-48 = "Bem, comparado a todos os outros, ainda está muito longe."
-
-1009105-49 = "Isso é tudo em comparação com meu Sensei."
-
-1009105-50 = "Em momentos como este..."
-
-1009105-54 = "Apenas deixe isso para sua irmã ♪"
-
-1009105-55 = "[s3] \"Kazusa foi confiável hoje.\"\n[s4] \"Espero que seja assim na próxima vez.\""
-
-1009105-58 = "Certo?"
-
-1009105-59 = "Pois bem, corra para dentro..."
-
-1009105-61 = "Bem-vindo."
-
-1009105-66 = "...Ah, é isso."
-
-1009105-67 = "cantor……? banda……? Você é alguém que faz isso?"
-
-1009105-68 = "...?"
-
-1009105-72 = "...Quanto a mim?"
-
-1009105-73 = "[s5] \"A julgar pelas nossas roupas, eu acho.\"\n[s6] \"Bem, somos os únicos lá.\""
-
-1009105-76 = "Hoje em dia, há muitos estudantes fazendo sua estreia."
-
-1009105-77 = "Mesmo sendo jovem, você tem sonhos e está trabalhando muito... é maravilhoso!"
-
-1009105-78 = "Então, a pessoa ao lado..."
-
-1009105-79 = "Ah, essa pessoa..."
-
-1009105-80 = "plug--"
-
-1009105-82 = "...Ele é o gerente exclusivo! ?"
-
-1009105-86 = "...! ?"
-
-1009105-90 = "[ns7] \"...Huh?\"\n[ns8] \"Entendo.\""
-
-1009105-94 = "Ah, hum... hum..."
-
-1009105-95 = "Não está longe..."
-
-1009105-96 = "...?"
-
-1009105-97 = "...? ? ?"
-
-1009105-98 = "Ops, sinto muito, mas parece que interrompi você..."
-
-1009105-99 = "Peço desculpas pelo transtorno..."
-
-1009105-100 = "……."
-
-1009105-101 = "…………."
-
-1009105-102 = "Então, sobre esse..."
-
-1009105-103 = "[s9] \"Hum, eu...\"\n[s10] \"Esse aluno......\""
-
-1009105-106 = "...Ele é uma pessoa dedicada."
-
-1009105-108 = "[ns11] \"...?\"\n[ns12] \"Kazusa?\""
-
-1009105-111 = "Exclusivo! #nEle é meu manager exclusivo!"
-
-1009105-112 = "Não há nada de errado com isso, então está tudo bem! !"
-
-1009105-116 = "...Certo?"
-
-1009105-121 = "É exclusivo para mim... certo?"
-
-1009105-126 = "(...Depois de responder sim, comprei os últimos doces da loja.)"
-
-1009105-127 = "(Enquanto eu olhava em volta depois de sair da loja, Kazusa foi a algum lugar.)"
-
+1009105-1 = "私の担当です"
+1009105-2 = "（午後、近くの踏切でカズサと待ち合わせをした）"
+1009105-3 = "……やっほ、先生。"
+1009105-8 = "[ns1] \"こんにちは、カズサ。\"\n[ns2] \"時間ピッタリだね。\""
+1009105-11 = "ごめんね、待った？"
+1009105-12 = "早めに練習切り上げたつもりなんだけど……先生は大体来るの早いよね。"
+1009105-13 = "別に時間ぴったりか、少しくらい遅れても大丈夫だよ？"
+1009105-14 = "[s] \"カズサを待つのは全然――\""
+1009105-15 = "はいはい、ストップ。"
+1009105-16 = "何を言おうとしてるのかは分かったけど、聞かないからね。#nカットカット。"
+1009105-17 = "会ってすぐそんなんじゃ、今日一日持たないよ。"
+1009105-18 = "で、今日食べたいものは決まった？"
+1009105-19 = "……へぇ、結構あるね。"
+1009105-20 = "んー、ちょっとそのリスト貸してもらえる？"
+1009105-21 = "この辺のお店、閉店時間がバラバラでさ。#nちゃんと作戦組まないと上手く回れないんだよね。"
+1009105-22 = "だから、ベテランのアドバイスに従うのがオススメだよ？"
+1009105-27 = "どれどれ……。"
+1009105-28 = "ああ、このお店……。"
+1009105-29 = "ふふっ、なかなか良いチョイスじゃん。#n先生もそろそろ、一人前の放課後スイーツ部員だね。"
+1009105-30 = "[s] \"うん、お陰様で。\""
+1009105-31 = "おだてても何も出ないよ？"
+1009105-32 = "……さて、と。"
+1009105-33 = "じゃあ、時間がもったいないから……"
+1009105-34 = "ほら、行こ！"
+1009105-36 = "（その後、カズサと一緒にスイーツ巡りを始めた）"
+1009105-37 = "（多少変わった動線だったが、カズサの言うとおり閉店時間ギリギリで間に合う「最適のルート」だった）"
+1009105-39 = "（いつの間にか夕方になり、リスト最後のお店の前に到着した）"
+1009105-44 = "……よし、間に合った。"
+1009105-45 = "これで全部かな？"
+1009105-46 = "……ん？"
+1009105-47 = "ふふっ、これくらい朝飯前だよ。"
+1009105-48 = "まぁ、他のみんなに比べたらまだまだだけど。"
+1009105-49 = "先生に比べたら、これくらいはね。"
+1009105-50 = "こういう時は――"
+1009105-54 = "お姉さんに任せなさい、なんてね♪"
+1009105-55 = "[s3] \"今日のカズサは頼もしいね。\"\n[s4] \"これは次回も期待かな。\""
+1009105-58 = "でしょ？"
+1009105-59 = "じゃあ、早く中に……"
+1009105-61 = "いらっしゃいませ。"
+1009105-66 = "……おや、これはこれは。"
+1009105-67 = "歌手……？バンド……？を、されてる方でしょうか？"
+1009105-68 = "……？"
+1009105-72 = "……え、私のこと？"
+1009105-73 = "[s5] \"服装からして、多分。\"\n[s6] \"まあ、私たちしかいないし。\""
+1009105-76 = "最近は、学生でデビューされる方も多いですからね。"
+1009105-77 = "若いのに夢を持ち、しっかりと頑張られて……素敵です！"
+1009105-78 = "となると、隣の方は……"
+1009105-79 = "あ、この人は、その……"
+1009105-80 = "せん――"
+1009105-82 = "……専属マネージャーの方ですね！？"
+1009105-86 = "……！？"
+1009105-90 = "[ns7] \"……え？\"\n[ns8] \"なるほど。\""
+1009105-94 = "あ、えっと……その……。"
+1009105-95 = "それは、[ruby=あた]中[/ruby]らずとも遠からずというか……。"
+1009105-96 = "……？"
+1009105-97 = "……？？？"
+1009105-98 = "お、おっとすみません、どうやら出しゃばってしまったようで……。"
+1009105-99 = "失礼いたしました……。"
+1009105-100 = "……。"
+1009105-101 = "…………。"
+1009105-102 = "で、では、こちらの方は……。"
+1009105-103 = "[s9] \"えっと、私は……。\"\n[s10] \"こちらの生徒の……。\""
+1009105-106 = "……専属の人です。"
+1009105-108 = "[ns11] \"……？\"\n[ns12] \"カズサ？\""
+1009105-111 = "専属です！#n私の専属マネージャーです！"
+1009105-112 = "間違ってないので、大丈夫です！！"
+1009105-116 = "……だよね？"
+1009105-121 = "私専属……でしょ？"
+1009105-126 = " （……一応イエスと答えた後、お店で最後のスイーツを購入した）"
+1009105-127 = "（お店を出てよそ見をしているうちに、カズサはどこかに行ってしまった）"

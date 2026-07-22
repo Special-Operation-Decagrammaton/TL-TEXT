@@ -674,7 +674,7 @@
 
 
 # >>> INÍCIO DA CATEGORIA: Highlander <<<
-# Clubes nesta categoria: Academia Ferroviária Highlander, CCC, Departamento de Comércio Especial, Depto. de Gestão de Fretes, Escritório de Supervisão Highlander
+# Clubes nesta categoria: Academia Ferroviária Highlander, CCC, Departamento de Comércio Especial, Departamento de Transporte de Cargas, Escritório de Supervisão Highlander
 # ==================================================
 
 # ---- Academia Ferroviária Highlander ----
@@ -733,9 +733,9 @@
 282818167-NameJP = "Nozomi"
 282818167-NicknameJP = "CCC"
 
-# ---- Depto. de Gestão de Fretes ----
+# ---- Departamento de Transporte de Cargas ----
 3623566116-NameJP = "Aoba"
-3623566116-NicknameJP = "Depto. de Gestão de Fretes"
+3623566116-NicknameJP = "Departamento de Transporte de Cargas"
 
 # ---- Escritório de Supervisão Highlander ----
 1661585582-NameJP = "Suou"
@@ -2785,7 +2785,7 @@
 1553838037-NameJP = "Aluna da Millennium B"
 1553838037-NicknameJP = "Sociedade Koh-Han"
 
-# ---- Sem Afiliação ou ainda Não Organizados. ---- (Ultima Atualização: 23:48 - 29/06/2026)
+# ---- Sem Afiliação ou ainda Não Organizados. ---- (Ultima Atualização: 23:39 - 19/07/2026)
 1103915573-NameJP = "???"
 1118867376-NameJP = "???"
 1300618080-NameJP = "???"
@@ -3352,7 +3352,7 @@
 1322348917-NameJP = "Criminoso"
 4152693193-NameJP = "Criminoso"
 569727319-NameJP = "Delinquente 1 & 2"
-3298465086-NameJP = "Diretor de Fotografia"
+3298465086-NameJP = "Diretora de Fotografia"
 2631910848-NameJP = "Diário Antigo"
 1443013420-NameJP = "DJ B.o.B"
 508480020-NameJP = "DJ de Rádio"
@@ -4155,3 +4155,22 @@
 2633789596-NameJP = "Yuuka & Chihiro"
 940692689-NameJP = "Zelador"
 721618894-NameJP = "Zelador da Instalação"
+1146300566-NameJP = "Gangster do Mercado Clandestino C"
+1146300566-NicknameJP = "Mercado Clandestino"
+1213771558-NameJP = "Delinquente"
+1461916396-NameJP = "Capanga do Mercado Clandestino A"
+1461916396-NicknameJP = "Mercado Clandestino"
+1541162835-NameJP = "Idoso"
+1621886353-NameJP = "Gangster do Mercado Clandestino B"
+1621886353-NicknameJP = "Mercado Clandestino"
+1920683713-NameJP = "Gangue do Capacete B"
+231976821-NameJP = "Capanga"
+2748324066-NameJP = "Gangster do Mercado Clandestino A"
+2748324066-NicknameJP = "Mercado Clandestino"
+3280964895-NameJP = "Líder dos Agiotas"
+3280964895-NicknameJP = "Mercado Clandestino"
+3327997591-NameJP = "Agiota"
+3327997591-NicknameJP = "Mercado Clandestino"
+3434257654-NameJP = "Capanga Rival"
+532756122-NameJP = "Capanga do Mercado Clandestino B"
+532756122-NicknameJP = "Mercado Clandestino"

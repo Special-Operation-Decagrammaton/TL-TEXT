@@ -1,205 +1,104 @@
 [translation]
-1006203-1 = "vida escolar normal"
-
-1006203-2 = "campus da escola do milênio"
-
-1006203-3 = "(Visitei o Millennium para conhecer Toki)"
-
-1006203-7 = "Estávamos esperando por você, senhor."
-
-1006203-8 = "Obrigado por reservar um tempo de sua agenda lotada."
-
-1006203-9 = "[s] \"Então, qual é o problema?\""
-
-1006203-10 = "É isso..."
-
-1006203-11 = "Em primeiro lugar, por favor, dê uma olhada nesta carta."
-
-1006203-12 = "Recebi da minha escola, mas não tenho certeza se meu entendimento está correto..."
-
-1006203-13 = "Tenho certeza que o Sensei sabe muito, então gostaria de receber alguns conselhos..."
-
-1006203-14 = "(Recebi uma carta de Toki)"
-
-1006203-16 = "[ns1] \"Porque não frequentei dias suficientes\"\n[ns2] \"Diz que se eu continuar assim, vou repetir o ano...\""
-
-1006203-19 = "Entendo, isso corresponde ao meu entendimento. Em outras palavras……."
-
-1006203-20 = "Você pode deixar isso em paz."
-
-1006203-21 = "Bem, não parece haver nenhum problema, então estarei ajudando o Sensei hoje também."
-
-1006203-26 = "[ns3] \"Não, não, estamos em apuros!?\"\n[ns4] \"Não concordamos com isso!?\""
-
-1006203-29 = "Se você tiver que repetir uma nota uma vez, não importa se você repetir duas ou três vezes."
-
-1006203-30 = "Na verdade, se você repetir de ano, poderá ajudar seu Sensei não apenas no próximo ano ou no ano seguinte, mas também depois dele."
-
-1006203-31 = "O período de nossas atividades como C&C também será estendido, então espero que possamos fazer coisas boas."
-
-1006203-32 = "[s5] \"É completamente diferente, não é!?\"\n[s6] \"O que você estava fazendo até agora!?\""
-
-1006203-35 = "Até agora, o comparecimento era tratado como uma exceção especial."
-
-1006203-36 = "Contudo, agora que as circunstâncias mudaram, parece que é necessária uma frequência regular."
-
-1006203-43 = "Por favor, espere, senhor. #nTive uma ideia..."
-
-1006203-44 = "Não seria melhor se a escola reconhecesse o cuidado do Sensei como uma exceção especial?"
-
-1006203-49 = "Você não acha que é uma boa ideia? #nQue tal a transferência do Sensei para o Millennium?"
-
-1006203-50 = "[s7] \"Isso pode causar muitos problemas...\"\n[s8] \"Espere um minuto. O resto da carta é...\""
-
-1006203-53 = "é assim mesmo……."
-
-1006203-54 = "A carta diz que de agora em diante, se você não negligenciar seus deveres de estudante e passar seu tempo como um dos estudantes..."
-
-1006203-55 = "Foi escrito que, à luz da situação actual, medidas de alívio podem ser consideradas."
-
-1006203-56 = "[s] \"Em outras palavras, você precisa de uma ``vida escolar normal''\"."
-
+1006203-1 = "普通の学園生活"
+1006203-2 = "ミレニアムスクールキャンパス"
+1006203-3 = "（トキに会うために、ミレニアムを訪れた）"
+1006203-7 = "お待ちしておりました、先生。"
+1006203-8 = "お忙しい中、ご足労くださりありがとうございます。"
+1006203-9 = "[s] \"それで、困ったことって？\""
+1006203-10 = "それがですね……。"
+1006203-11 = "まずは、この手紙をご覧ください。"
+1006203-12 = "学校から届いたのですが、私の認識が正しいのか確信が持てず……。"
+1006203-13 = "先生なら詳しいかと思い、アドバイスをいただきたく……"
+1006203-14 = "（トキから手紙を受け取った）"
+1006203-16 = "[ns1] \"出席日数が足りないから、\"\n[ns2] \"このままだと留年しちゃうって、書いてあるね……。\""
+1006203-19 = "なるほど、私の認識と一致しています。つまり……。"
+1006203-20 = "放っておいても構いませんね。"
+1006203-21 = "では、特に問題もないようですし、今日も先生を補佐いたします。"
+1006203-26 = "[ns3] \"いやいや、大変なことになってるよ！？\"\n[ns4] \"そこの認識までは一致してないよ！？\""
+1006203-29 = "留年なら一度していますし、二度、三度留年したところで一向に構いません。"
+1006203-30 = "むしろ、留年すれば来年、再来年だけでなく、その先も先生を補佐できます。"
+1006203-31 = "C&Cとして活動する期間も延びますから、いいこと尽くめですね。"
+1006203-32 = "[s5] \"全然違うからね！？\"\n[s6] \"今まではどうしてたの！？\""
+1006203-35 = "これまでは特例として、出席扱いになっていました。"
+1006203-36 = "ですが、今は事情が変わったこともあり、通常通りの出席が求められているようです。"
+1006203-43 = "待ってください、先生。#n閃いたのですが……。"
+1006203-44 = "先生のお世話を、学校側で特例として認めてもらえば良いのでは……？"
+1006203-49 = "良いアイデアだと思いませんか？#nせっかくですから、先生がミレニアムに転勤するというのはどうでしょう？"
+1006203-50 = "[s7] \"それは色々と困るかな……。\"\n[s8] \"ちょっと待ってね。手紙の続きは……。\""
+1006203-53 = "そうですか……。"
+1006203-54 = "手紙には、これからは学生の本分をおろそかにせず、生徒の一人として過ごすのであれば……。"
+1006203-55 = "これまでの状況を鑑みて、救済措置を考慮しても良いと書かれてありました。"
+1006203-56 = "[s] \"つまり「普通の学園生活」が必要ってことなんだね。\""
 1006203-57 = "普通の学園生活……？"
-1006203-58 = "O que aconteceu com você ficando tão animado?"
-
-1006203-59 = "[s9] \"Você se sente ansioso?\"\n[s10] \"Você se sente desconfortável?\""
-
-1006203-62 = "……."
-
-1006203-63 = "Não posso dizer que não estou preocupado porque não sei muito sobre isso."
-
-1006203-64 = "O que devo fazer...?"
-
-1006203-65 = "[s] \"Eu vou te ajudar.\""
-
-1006203-66 = "O que, Sensei?"
-
-1006203-67 = "Sensei, por favor, não me afaste tão de repente...! ?"
-
-1006203-72 = "(Assim, a “vida escolar normal” de Toki começou.)"
-
-1006203-73 = "(Decidi pedir a ela que fizesse uma aula primeiro e depois a observasse em silêncio.)"
-
-1006203-75 = "sala de aula"
-
-1006203-76 = "Bem, isso é tudo para a aula online de hoje."
-
-1006203-77 = "Obrigado a todos por ouvirem até o final."
-
-1006203-78 = "Toki-san, parece que já faz um tempo que você não participa, então gostaria de verificar sua compreensão, então você poderia me ajudar a resolver esse problema?"
-
-1006203-82 = "……."
-
-1006203-83 = "Resolver o problema, ou seja, basta resolvê-lo..."
-
-1006203-84 = "Ao se deparar com um problema complexo..."
-
-1006203-85 = "Os agentes também são obrigados a avançar de frente com força!"
-
-1006203-87 = "O-o que! ? A tela...!"
-
-1006203-88 = "Por favor, pare! Não use ferramentas C&C durante a aula!"
-
-1006203-89 = "Além disso, existe uma ferramenta de hacking #n que pode remover o firewall do Millennium num instante...!"
-
-1006203-90 = "Se você não parar imediatamente, não poderá participar! !"
-
-1006203-91 = "! ?"
-
-1006203-92 = "Sensei, o que devo fazer numa situação como esta?"
-
-1006203-93 = "[s] \"Apenas resolva o problema honestamente...\""
-
-1006203-94 = "Se as pessoas fossem tão honestas, não haveria conflito no mundo. #nÉ muito lamentável, mas..."
-
-1006203-95 = "[s] \"Faça algo sobre isso! Para participação!\""
-
-1006203-96 = "...Não pode mais ser ajudado. Vamos tentar lidar com o problema com calma."
-
-1006203-105 = "É o Toki, certo? Eu queria falar com você há um tempo. #nVocê gostaria de ir a um café, se quiser?"
-
-1006203-106 = "! ?"
-
-1006203-107 = "Bem, Senseia..."
-
-1006203-108 = "[s] \"Vá. Aproveite seu tempo.\""
-
-1006203-109 = "Mas...."
-
-1006203-110 = "[s] \"Passar um tempo no café depois da escola com os amigos é a melhor parte da vida escolar!\""
-
-1006203-111 = "E-É mesmo...?"
-
-1006203-112 = "Se sim, traga seu Sensei com você..."
-
-1006203-113 = "[s] \"É importante se divertir com seus alunos.\""
-
+1006203-58 = "そんなに意気込んで、どうされたのですか？"
+1006203-59 = "[s9] \"不安だったりする？\"\n[s10] \"あんまり気が乗らないかな？\""
+1006203-62 = "……。"
+1006203-63 = "よく知らないものですから、不安がないとは言えませんね。"
+1006203-64 = "私はどうしたら良いのでしょうか……。"
+1006203-65 = "[s] \"私が手伝ってあげるよ。\""
+1006203-66 = "せ、先生？"
+1006203-67 = "先生、そんな急に引っ張らないでください……！？"
+1006203-72 = "（こうして、トキの「普通の学園生活」が始まった）"
+1006203-73 = "（まずは授業を受けてもらって、そっと見守ることにした）"
+1006203-75 = "教室"
+1006203-76 = "それでは、本日のオンライン授業はここまでとします。"
+1006203-77 = "皆さん、最後までご清聴いただきありがとうございました。"
+1006203-78 = "[ruby=あすま]飛鳥馬[/ruby]トキさん、久しぶりに参加されたようですから、理解度を確かめたいのでこちらの問題を解いてもらえませんか？"
+1006203-82 = "……。"
+1006203-83 = "問題を解く、つまり解決すれば良いということですね……。"
+1006203-84 = "もし複雑な問題が立ちふさがった時には……。"
+1006203-85 = "力技で正面突破することも、エージェントには求められます！"
+1006203-87 = "な、何を！？画面が……！"
+1006203-88 = "おやめください！授業中にC&Cの道具を使ってはいけません！"
+1006203-89 = "しかも、ミレニアムのファイアウォールを一瞬で解除してしまうほどの#nハッキングツールなんて……！"
+1006203-90 = "すぐに停止しなければ、出席は認められませんよ！！"
+1006203-91 = "！？"
+1006203-92 = "先生、こういった時はどうしたら？"
+1006203-93 = "[s] \"素直に問題を解けば良いんじゃ……。\""
+1006203-94 = "そう素直な人ばかりなら、世の中に争いなんて生まれないでしょう。#n非常に残念なことですが……。"
+1006203-95 = "[s] \"そこをなんとか！出席のために！\""
+1006203-96 = "……もう、仕方ないですね。大人しく問題に取り組むとしましょうか。"
+1006203-105 = "トキさんですよね？前から話してみたかったんです。#n良かったらカフェに行きませんか？"
+1006203-106 = "！？"
+1006203-107 = "せ、先生……。"
+1006203-108 = "[s] \"行ってらっしゃい。ゆっくり楽しんでおいで。\""
+1006203-109 = "ですが……。"
+1006203-110 = "[s] \"友人と放課後にカフェで過ごすなんて、学園生活の醍醐味だよ！\""
+1006203-111 = "そ、そうなんですか……？"
+1006203-112 = "でしたら、先生もご一緒に……。"
+1006203-113 = "[s] \"生徒同士で楽しむ時間も大切だからね。\""
 1006203-114 = "一緒ではダメなのですか……？"
-1006203-115 = "Sensei? Sensei! ?"
-
-1006203-117 = "(Ele parecia um cachorrinho abandonado, mas engoliu as lágrimas e se despediu dele.)"
-
-1006203-118 = "(depois de um tempo......)"
-
-1006203-120 = "Bum! !"
-
-1006203-121 = "[ns] \"Explosão B!?\""
-
-1006203-122 = "Kyaaaaaaaaaaaa! ?"
-
-1006203-126 = "O que... o que é essa empregada...?"
-
-1006203-127 = "Seria um desperdício jogar fora bolos que estão prestes a não serem vendidos. Só pensei em comê-lo se fosse #n..."
-
-1006203-135 = "Esse tipo de comportamento é chamado de comer e beber sem pagar."
-
-1006203-136 = "É isso! Você acha que os rumores sobre não se aproximar das empregadas do Millennium vão te assustar? ?"
-
-1006203-137 = "……."
-
-1006203-138 = "Entendo, isso é vida escolar normal?"
-
-1006203-139 = "Eu vi isso em um livro na sala do clube C&C."
-
-1006203-140 = "É dever dos alunos derrotar todas as crianças problemáticas que arranjam brigas e governam a #n escola!"
-
-1006203-141 = "Huh? Você acha que pode fazer isso, está brincando comigo?"
-
-1006203-142 = "[ns] \"Você não entende mal o dever dos alunos!?\""
-
-1006203-143 = "Agora que está assim, vou fazer isso a sério."
-
-1006203-144 = "Posso não conseguir dar o meu melhor, mas vou mostrar-lhe a minha força."
-
-1006203-145 = "Transição de traje motorizado [Abi Eshuf]"
-
-1006203-147 = "(Mesmo depois disso, consegui impedir que Toki perdesse o controle.)"
-
-1006203-150 = "Sensei, você está bem?"
-
-1006203-151 = "[s] \"Minha expectativa de vida pode ter sido encurtada em alguns anos...\""
-
-1006203-152 = "……."
-
-1006203-153 = "...Desculpe."
-
-1006203-154 = "Eu te causei problemas de novo..."
-
-1006203-155 = "Mesmo que eu devesse ajudar o Sensei, só estou causando problemas..."
-
-1006203-156 = "Não tenho qualificação para ser assistente..."
-
-1006203-157 = "[s11] \"Isso não é verdade. Se vocês estudarem juntos, vocês ficarão bem.\"\n[s12] \"Vamos nos recompor e tentar de novo!\""
-
-1006203-160 = "……sim."
-
-1006203-161 = "Se o Sensei disser isso..."
-
-1006203-162 = "De qualquer forma, senhor."
-
-1006203-167 = "A vida escolar normal é uma coisa muito difícil."
-
-1006203-169 = "(Quando encontro os olhos de Toki, que expressa seus sentimentos sinceros com uma expressão fria...)"
-
-1006203-170 = "(Eu só consegui acenar um pouco)"
-
+1006203-115 = "先生？先生！？"
+1006203-117 = "（捨てられた子犬のような目をしていたが、涙を飲んで見送った）"
+1006203-118 = "（しばらくして……）"
+1006203-120 = "ドカァァン！！"
+1006203-121 = "[ns] \"ば、爆発！？\""
+1006203-122 = "きゃぁぁぁっ！？"
+1006203-126 = "な……何なんだよ、このメイド……。"
+1006203-127 = "売れ残りそうなケーキを捨てるのも、もったいないだろうからなあ。#nだったら食べてやろうと思っただけなのによ……。"
+1006203-135 = "そういった行為を無銭飲食と言うのです。"
+1006203-136 = "んだと！ミレニアムのメイドには近寄るなって噂にビビると思ってんのか！？"
+1006203-137 = "……。"
+1006203-138 = "なるほど、これが普通の学園生活ですか。"
+1006203-139 = "C&Cの部室にあった本で見たことがあります。"
+1006203-140 = "喧嘩を売ってくる問題児を全員倒し、#n学園を支配することこそ生徒の本分であると！"
+1006203-141 = "はあ？やれると思ってんのか、ふざけやがって！"
+1006203-142 = "[ns] \"生徒の本分を勘違いしてない！？\""
+1006203-143 = "こうなった以上、本気で参ります。"
+1006203-144 = "全力とはいきませんが、ここは一つ、私の力をお見せしましょう。"
+1006203-145 = "パワードスーツ【アビ・エシュフ】移行ーー"
+1006203-147 = "（その後も暴走しようとするトキを何とか抑えた）"
+1006203-150 = "先生、大丈夫ですか？"
+1006203-151 = "[s] \"寿命が何年か縮まったかも……。\""
+1006203-152 = "……。"
+1006203-153 = "……申し訳ございません。 "
+1006203-154 = "またご迷惑をかけてしまいましたね……。"
+1006203-155 = "先生を補佐する身だというのに、ご迷惑をかけてばかりで……。"
+1006203-156 = "私には、補佐をする資格がありません……。"
+1006203-157 = "[s11] \"そんなことないよ。一緒に勉強していけば大丈夫。\"\n[s12] \"もう一度、気を取り直して挑戦してみよう！\""
+1006203-160 = "……はい。"
+1006203-161 = "先生が、そう仰るのでしたら……。"
+1006203-162 = "それにしても、先生。"
+1006203-167 = "普通の学園生活とは、こうも難しいものなのですね。"
+1006203-169 = "（クールな表情で切実な思いを吐露するトキと目が合うと……）"
+1006203-170 = "（小さく頷くことしかできなかった）"

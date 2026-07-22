@@ -1,141 +1,71 @@
 [translation]
-1006315-1 = "Eu vou devolver!"
-
-1006315-2 = "(Fui para a sala de reflexão para ajudar Koyuki.)"
-
-1006315-8 = "(Quando entrei na sala, algo em cima da mesa chamou minha atenção.)"
-
-1006315-9 = "(O que é colocado é uma bola transparente)"
-
-1006315-10 = "(Havia um trevo de quatro folhas flutuando nele.)"
-
-1006315-11 = "[ns] \"Isto é...\""
-
-1006315-14 = "O que você acha, senhor?"
-
-1006315-15 = "Eu prendi Clover daquela época!"
-
-1006315-16 = "Pode secar com isso..."
-
-1006315-17 = "Não há necessidade de se preocupar em perdê-lo!"
-
-1006315-18 = "Hahaha! Esta é uma versão de preservação permanente!"
-
-1006315-19 = "[ns] \"Gosto...!\""
-
-1006315-21 = "[ns] \"...Agora que penso nisso, acho que perdi alguma coisa.\""
-
-1006315-22 = "Isso mesmo!"
-
-1006315-23 = "Como este trevo de quatro folhas――"
-
-1006315-24 = "Por favor, procure minha medalha também, senhor!"
-
-1006315-25 = "[s1] \"Uma medalha?\"\n[s2] \"...Se você estiver com problemas, posso emprestar para você?\""
-
-1006315-28 = "Não é apenas uma medalha!"
-
-1006315-29 = "Tem um pequeno buraco... é meu tesouro."
-
-1006315-30 = "[s] \"Talvez...isso?\""
-
-1006315-31 = "……foto?"
-
-1006315-36 = "(Ele tirou do bolso e mostrou para Koyuki)"
-
-1006315-42 = "Ha! ? Por que o Sensei fez isso? ?"
-
-1006315-43 = "De jeito nenhum... é vingança pelo livro fino...! ?"
-
-1006315-44 = "[s] \"Não, peguei na frente da sala de reflexão.\""
-
-1006315-45 = "Isso é definitivamente uma mentira! #n Só porque ele é uma estrela, ele está dizendo coisas aleatórias! ?"
-
-1006315-46 = "foto……? #nNão é mentira...?"
-
-1006315-47 = "Ah... isso..."
-
-1006315-48 = "desculpe……."
-
-1006315-49 = "Acho que deixei cair no caminho para a aula..."
-
-1006315-56 = "(Dá a medalha com buraco para Koyuki)"
-
-1006315-57 = "Ha ha! Afinal, ligar para o Sensei foi a coisa certa a fazer!"
-
-1006315-58 = "Obrigado, senhor!"
-
-1006315-59 = "Hehe, está de volta em minhas mãos...hahaha..."
-
-1006315-60 = "[s3] \"É uma medalha especial?\"\n[s4] \"Uma medalha de erro... algo assim.\""
-
-1006315-63 = "Medalha de erro? O que é aquilo?"
-
-1006315-64 = "Ah, você está dizendo que produtos com erros de fabricação são vendidos por um preço mais alto?"
-
-1006315-65 = "Não, isso não é verdade. Esta é a medalha original de Koyuki! #nFui eu quem furou essa medalha!"
-
-1006315-66 = "[s] \"Certamente...esta não é uma medalha comum.\""
-
-1006315-67 = "É para um centro de jogos!"
-
-1006315-68 = "[s5] \"Então por que você fez um buraco?\"\n[s6] \"Como fazer um buraco na carteira da sala de aula...?\""
-
-1006315-71 = "Um buraco na mesa...é definitivamente divertido..."
-
-1006315-72 = "Mas... hehehe. #nEsse não é um jogo tão infantil, não é?"
-
-1006315-73 = "O que devo esconder? É uma “medalha de jogo” que ganhei há muito tempo!"
-
-1006315-74 = "[s] \"Medalha do jogo?\""
-
-1006315-75 = "sim! #nTem um fio passando por essa medalha, certo?"
-
-1006315-76 = "Enquanto segura a ponta do barbante, insira-o na máquina de jogo."
-
-1006315-77 = "[s7] \"Quando o jogo acabar, puxe a corda---\"\n[s8] \"Colete as medalhas!\""
-
-1006315-80 = "resposta correta! Como esperado, senhor!"
-
-1006315-84 = "[ns] \"Isso é uma \"medalha de trapaça\"...! \""
-
-1006315-85 = "foto? O que você está falando?"
-
-1006315-86 = "Isto é para uma concorrência justa!"
-
-1006315-87 = "Você já jogou um jogo de guindaste em que o braço estava muito solto?"
-
-1006315-88 = "O mesmo vale para a “escalada na cafeteria” outro dia! #nQuando chegou a nossa vez, o padrão de repente ficou difícil! ?"
-
-1006315-89 = "está tentando nos enganar!"
-
-1006315-90 = "Se sim, tenho que fazer de novo!"
-
-1006315-91 = "[s] \"Isso é um crime...\""
-
-1006315-92 = "Droga...!"
-
-1006315-93 = "Achei que só o Sensei entenderia...!"
-
-1006315-94 = "De qualquer forma, não posso te dar esta medalha!"
-
-1006315-95 = "Você não pode usá-lo em primeiro lugar! #nA segurança de todos foi reforçada recentemente!"
-
-1006315-96 = "[s] \"Então por que isso é tão importante?\""
-
-1006315-97 = "foto? #nBem, isso é..."
-
-1006315-101 = "...Hum."
-
-1006315-102 = "Eu me pergunto por quê."
-
-1006315-103 = "É como... eu não posso jogar fora."
-
-1006315-104 = "Bem, os detalhes são bons, não são? #nMais que isso! É uma ótima oportunidade, então vamos nos divertir!"
-
-1006315-105 = "Tenho um novo jogo de tabuleiro escondido debaixo da minha cama!"
-
-1006315-107 = "(Depois de jogar jogos de tabuleiro com Koyuki na sala de reflexão――)"
-
-1006315-108 = "(Eu registrei Koyuki no \"Curso de um dia sobre boas maneiras públicas\" da Valquíria)"
-
+1006315-1 = "やり返してやります！"
+1006315-2 = "（コユキを手伝うために、反省部屋に向かった）"
+1006315-8 = "（部屋に入ると、机の上の物に目が留まった）"
+1006315-9 = "（置かれているのは、透明の玉）"
+1006315-10 = "（その中に、四つ葉のクローバーが浮かんでいた）"
+1006315-11 = "[ns] \"これは……。\""
+1006315-14 = "どうですか、先生！"
+1006315-15 = "あの時のクローバーを閉じ込めたんです！"
+1006315-16 = "これで枯れることも――"
+1006315-17 = "なくす心配もありません！"
+1006315-18 = "にははは！永久保存版です！"
+1006315-19 = "[ns] \"いいね……！\""
+1006315-21 = "[ns] \"……そういえば、落とし物をしたんだっけ。\""
+1006315-22 = "そうなんです！"
+1006315-23 = "この四つ葉のクローバーのように――"
+1006315-24 = "私のメダルも探してください、先生！"
+1006315-25 = "[s1] \"メダル？\"\n[s2] \"……困ってるなら、貸そうか？\""
+1006315-28 = "ただのメダルじゃないんです！"
+1006315-29 = "ちっちゃい穴が空いてるやつで……私の宝物なんです。"
+1006315-30 = "[s] \"もしかして……これ？\""
+1006315-31 = "……え？"
+1006315-36 = "（ポケットから取り出して、コユキに見せた）"
+1006315-42 = "はっ！？どうして先生がこれを！？"
+1006315-43 = "まさか……薄い本の時の仕返しに……！？"
+1006315-44 = "[s] \"違うよ。反省部屋の前で拾ったんだ。\""
+1006315-45 = "絶対嘘です！#n図星だからって適当なことを言ってるんですよね！？"
+1006315-46 = "え……？#n嘘じゃない……？"
+1006315-47 = "あっ……その……。"
+1006315-48 = "すみません……。"
+1006315-49 = "授業に行くときに落としたのかな……。"
+1006315-56 = "（穴の空いたメダルをコユキに渡した）"
+1006315-57 = "にはは！やっぱり先生を呼んで正解でした！"
+1006315-58 = "ありがとうございます、先生！"
+1006315-59 = "ふふ、私の手に戻ってきましたね……にははは……。"
+1006315-60 = "[s3] \"特別なメダルなの？\"\n[s4] \"エラーメダル……みたいな。\""
+1006315-63 = "エラーメダル？何ですか、それ。"
+1006315-64 = "あ、製造ミスのやつは高く売れるっていう？"
+1006315-65 = "いやー、違いますよ。これは、コユキオリジナルメダルです！#nこのメダルに穴を空けたのは私ですから！"
+1006315-66 = "[s] \"たしかに……これ、よくあるメダルじゃないね。\""
+1006315-67 = "ゲーセン用ですからね！"
+1006315-68 = "[s5] \"じゃあ、なんで穴を空けたの？\"\n[s6] \"教室の机につい穴を開けちゃう……みたいな？\""
+1006315-71 = "机に穴……たしかに楽しいですよね……。"
+1006315-72 = "ですが……ふっふっふ。#nこれは、そんな幼稚な遊びとは違いますよ？"
+1006315-73 = "何を隠そう――私が昔作った「勝負メダル」なんです！"
+1006315-74 = "[s] \"勝負メダル？\""
+1006315-75 = "はい！#nこのメダルには糸が通してありますよね？"
+1006315-76 = "糸の端を握ったまま、ゲーム機に入れます。"
+1006315-77 = "[s7] \"ゲームが終わったら、糸を引っ張って――\"\n[s8] \"メダルを回収するんだね！\""
+1006315-80 = "正解！流石ですね、先生！"
+1006315-84 = "[ns] \"それじゃ「チートメダル」だよ……！\""
+1006315-85 = "え？なに言ってるんですか。"
+1006315-86 = "これはフェアな勝負のためですよ！"
+1006315-87 = "クレーンゲームで、やたらアームがゆるかったこと……ありません？"
+1006315-88 = "この前の「喫茶店登山」もそう！#n私たちの番になったら、急に難しいパターンになりましたよね！？"
+1006315-89 = "[ruby=やつら]ゲーム機[/ruby]は私たちを陥れようとしてるんです！"
+1006315-90 = "だったら、やりかえさないと！"
+1006315-91 = "[s] \"それ、犯罪……。\""
+1006315-92 = "くっ……！"
+1006315-93 = "先生にだけはわかってもらえると思ったのに……！"
+1006315-94 = "と、とにかく、このメダルは渡せません！"
+1006315-95 = "そもそも使えないんですよ！#n最近のやつは、みんなセキュリティが強化されちゃって！"
+1006315-96 = "[s] \"じゃあ、何でそんな大事にしてるの？\""
+1006315-97 = "え？#nそ、それは……。"
+1006315-101 = "……うーん。"
+1006315-102 = "なんででしょうね。"
+1006315-103 = "なんか……捨てられないっていうか。"
+1006315-104 = "まあ細かいことはいいじゃないですか。#nそれよりほら！せっかくですし、遊びましょうよ！"
+1006315-105 = "新作ボードゲームを、ベッドの下に隠してあるんです！"
+1006315-107 = "（反省部屋でコユキとボードゲームを楽しんだ後――）"
+1006315-108 = "（ヴァルキューレの「公共マナー講座一日コース」にコユキを登録した）"

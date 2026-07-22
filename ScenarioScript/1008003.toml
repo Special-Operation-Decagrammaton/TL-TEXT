@@ -1,111 +1,56 @@
 [translation]
-1008003-1 = "Especialidade de trabalho cerebral"
-
-1008003-2 = "(Nos conhecemos em um terreno próximo)"
-
-1008003-7 = "Quando pensei que não conseguiria encontrá-lo, ele estava aqui."
-
-1008003-8 = "Então? Eu me pergunto por que você me ligou?"
-
-1008003-9 = "……sim?"
-
-1008003-10 = "Você achou que ficar exposto ao ar externo mudaria seu humor?"
-
-1008003-11 = "Não acho que isso será resolvido tão facilmente..."
-
-1008003-12 = "Bem, se o Sensei diz, vamos tentar."
-
-1008003-13 = "...Eh?"
-
-1008003-14 = "corrida?"
-
-1008003-15 = "Hmm... eu me pergunto. #nEu realmente não sinto o poder necessário..."
-
-1008003-16 = "Não acho que seja uma boa ideia..."
-
-1008003-17 = "Não combina comigo, quem é inteligente?"
-
-1008003-21 = "Ei, Sensei! ? A história ainda está em andamento! ?"
-
-1008003-22 = "[s1] \"Tenho certeza que você vai se sentir melhor!\"\n[s2] \"Não se preocupe, vou apenas dar uma corrida leve!\""
-
-1008003-28 = "Ei, Sensei, não me puxe! !"
-
-1008003-29 = "Espere, espere..."
-
-1008003-34 = "(E a primeira volta ao solo...)"
-
-1008003-40 = "[ns] \"…………?\""
-
-1008003-42 = "[ns3] \"...Shokuhoku?\"\n[ns4] \"Onde...?\""
-
-1008003-52 = "Não...suspiro...espere...suspiro...suspiro..."
-
-1008003-53 = "Ei... ha... ha...!"
-
-1008003-54 = "... ah ... ah ..."
-
-1008003-55 = "Não mais... não..."
-
-1008003-61 = "[ns5] \"...Shokuhou!?\"\n[ns6] \"Você está bem!? Shokuhou! Shokuhou!!\""
-
-1008003-67 = "(Corri para um hospital próximo com Shokuhou que estava instável)"
-
-1008003-69 = "…………."
-
-1008003-70 = "Hum... ah...?"
-
-1008003-71 = "Adormeci..."
-
-1008003-75 = "……Sensei?"
-
-1008003-76 = "Eu me pergunto se você esteve esperando por mim todo esse tempo? #n...Ora, você parece tão sombrio."
-
-1008003-77 = "...?"
-
-1008003-78 = "Desculpe...? #n...Ah, e antes?"
-
-1008003-79 = "Eu não esperava que você se desculpasse. #nPor favor, não se preocupe muito com isso."
-
-1008003-80 = "Hehe, você achou que eu era o tipo de mulher que perde a paciência facilmente quando as coisas não acontecem do meu jeito?"
-
-1008003-81 = "...Ou melhor, o que aconteceu quando eu desmaiei...eu realmente não me lembro."
-
-1008003-82 = "Você viu um médico? #nQuais foram os resultados do teste?"
-
-1008003-83 = "Eu me pergunto se eles encontraram algum poder anormal?"
-
-1008003-84 = "……um pouco."
-
-1008003-85 = "Por que você desvia o olhar? Por favor, deixe-me ouvir isso rapidamente."
-
-1008003-86 = "Talvez seja porque eu vim aqui..."
-
-1008003-87 = "[s7] \"Não, o que posso dizer...\"\n[s8] \"Não estou doente...\""
-
-1008003-93 = "...?"
-
-1008003-94 = "Seria ótimo se você não estivesse doente."
-
-1008003-95 = "O médico ficou bravo...?"
-
-1008003-96 = "--Talvez."
-
-1008003-97 = "Eu me pergunto o que ele disse sobre minha falta de exercícios diários?"
-
-1008003-101 = "...Cohon."
-
-1008003-102 = "Bem, acho que não pode ser ajudado."
-
-1008003-103 = "Sou especialista em trabalho cerebral...?"
-
-1008003-104 = "…………."
-
-1008003-105 = "……Sensei?"
-
-1008003-106 = "...Não é como se eu tivesse espiado a cabeça dele, mas posso pelo menos entender o que ele está pensando."
-
-1008003-107 = "Mesmo que você me olhe assim..."
-
-1008003-109 = "...Eu não vou fazer isso?"
-
+1008003-1 = "頭脳労働専門"
+1008003-2 = "（近くのグラウンド[ruby=しょくほう]で食蜂と[/ruby]待ち合わせをした）"
+1008003-7 = "見当たらないと思ったら、こっちにいたのねぇ。"
+1008003-8 = "それで？なんで私を呼び出したのかしらぁ？"
+1008003-9 = "……ん？"
+1008003-10 = "外の空気に当たれば気分転換になると思った？"
+1008003-11 = "そう簡単に解決するとは思わないけどぉ……"
+1008003-12 = "ま、先生が言うのなら試してみましょうか。"
+1008003-13 = "……えぇ？"
+1008003-14 = "ジョギング？"
+1008003-15 = "んん……どうかしら。#nあんまり必要力を感じないというかぁ……"
+1008003-16 = "良い考えとは思えないんですけどぉ……"
+1008003-17 = "スマートな私には似合わないしぃ？"
+1008003-21 = "せ、先生！？まだお話は途中だゾ！？"
+1008003-22 = "[s1] \"きっと気が晴れるよ！\"\n[s2] \"大丈夫、軽くジョギングするだけだから！\""
+1008003-28 = "ちょ、ちょっと先生、引っ張らないでよぉ！！"
+1008003-29 = "まっ、待ちなさ――"
+1008003-34 = "（そしてグラウンド一周目……）"
+1008003-40 = "[ns] \"…………？\""
+1008003-42 = "[ns3] \"……食蜂？\"\n[ns4] \"あれ、どこに……？\""
+1008003-52 = "だ、からっ……はぁ……待って……ぜぇ……はぁ……"
+1008003-53 = "ぜぇ……はっ……はぁ……！"
+1008003-54 = "……ふう……ぅ……"
+1008003-55 = "もう……ダメ……"
+1008003-61 = "[ns5] \"……食蜂！？\"\n[ns6] \"大丈夫！？食蜂！食蜂！！\""
+1008003-67 = "（ふらふらの食蜂を連れて、急いで近くの病院に向かった）"
+1008003-69 = "…………。"
+1008003-70 = "んん……あらぁ……？"
+1008003-71 = "寝ちゃってたのねぇ……"
+1008003-75 = "……先生？"
+1008003-76 = "ずっと待っててくれたのかしら？#n……なによ、そんなに暗い顔してぇ。"
+1008003-77 = "……？"
+1008003-78 = "ごめん、って……？#n……ああ、さっきの？"
+1008003-79 = "謝られるとは思ってなかったわぁ。#nあんまり気にしないでちょうだい。"
+1008003-80 = "ふふ、思い通りにいかないからって、すぐ機嫌を損ねるような女だと思ったかしら？"
+1008003-81 = "……というか、倒れた時のこと……よく覚えてないんだけどぉ。"
+1008003-82 = "医者には診てもらったのよねぇ？#n検査結果はどうだったの？"
+1008003-83 = "異常力でも見つかったかしらぁ？"
+1008003-84 = "……ちょっと。"
+1008003-85 = "なんで目を逸らすのよ？早く聞かせてちょうだい。"
+1008003-86 = "もしかして、こっちに来たせいで……"
+1008003-87 = "[s7] \"いや、なんというか……。\"\n[s8] \"病気ではないんだけど……\""
+1008003-93 = "……？"
+1008003-94 = "病気じゃないなら、良かったじゃない。"
+1008003-95 = "医者が怒ってた……？"
+1008003-96 = "――もしかして。"
+1008003-97 = "日頃の運動不足をどうこう言われたのかしらぁ？"
+1008003-101 = "……コホン。"
+1008003-102 = "ま、まぁ……仕方ないでしょう。"
+1008003-103 = "私は頭脳労働専門だしぃ……？"
+1008003-104 = "…………。"
+1008003-105 = "……先生？"
+1008003-106 = "……別に、頭を覗いたわけじゃないけどぉ、先生が何を考えてるかくらい分かるわぁ。"
+1008003-107 = "そんなに見つめられても……"
+1008003-109 = "……やらないわよぉ？"

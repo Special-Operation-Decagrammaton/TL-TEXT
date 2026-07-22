@@ -1,143 +1,72 @@
 [translation]
-1008503-1 = "acampamento de luxo"
-
-1008503-3 = "(Ao visitar o Millennium para trabalhar em placas de Petri, visitei a sala do clube Veritas.)"
-
-1008503-8 = "Banheiro Veritas"
-
-1008503-10 = "[ns1] \"Lebre, você não está aí...?\"\n[ns2] \"Comprei o sabor maracujá do Yokai MAX...\""
-
-1008503-16 = "[ns3] \"Uau, está frio!\"\n[ns4] \"Um refrigerador em um dia como este...?\""
-
-1008503-23 = "Ah... Sensei, você está aqui."
-
-1008503-24 = "Desculpe, fui buscar a entrega."
-
-1008503-28 = "Esse é...o sabor de maracujá do \"Yokai MAX\"?"
-
-1008503-29 = "Eu só queria beber, obrigado Sensei."
-
-1008503-30 = "[s5] \"De nada.\"\n[s6] \"Você não está com frio...?\""
-
-1008503-33 = "Ah, não se preocupe. Porque é intencional."
-
-1008503-34 = "O servidor do clube está funcionando com capacidade total para testar o computador em nuvem recém-introduzido."
-
-1008503-35 = "Os servidores geram muito calor. Eu mantenho fresco para não superaquecer."
-
-1008503-36 = "...Então, por favor, seja paciente, mesmo que esteja um pouco frio."
-
-1008503-37 = "[s7] \"Eu realmente não me importo...\"\n[s8] \"Hare, você está bem?\""
-
-1008503-40 = "Sim, está tudo bem."
-
-1008503-41 = "Por precaução, peguei emprestado alguns equipamentos de camping do vice-gerente."
-
-1008503-46 = "Jaquetas para o frio, cobertores, aquecedores elétricos, claro..."
-
-1008503-47 = "Sopa que aquece até o núcleo e macarrão."
-
-1008503-48 = "Em outras palavras, a sala de descanso de hoje é..."
-
-1008503-50 = "É também um local de glamping!"
-
-1008503-54 = "[ns] \"Local de acampamento de luxo...?\""
-
-1008503-55 = "Sim. É gratificante de várias maneiras."
-
-1008503-56 = "Glamping é uma forma de curtir acampar sem ter que se preocupar em montar uma barraca ou fazer preparativos."
-
-1008503-57 = "Este é o banheiro da Veritas, mas também há vários equipamentos de camping...#nAcho que pode ser chamado de glamping em certo sentido."
-
-1008503-58 = "Depois que nos acostumamos a fazer glamping na sala do clube, pensamos que seria uma boa ideia acamparmos juntos."
-
-1008503-59 = "Bem, não é tão diferente do banheiro habitual..."
-
-1008503-60 = "Isso também é prática de acampamento!"
-
-1008503-61 = "[s] \"Talvez seja um treino...?\""
-
-1008503-62 = "Não diga isso. Me dei ao trabalho de pegar emprestado alguns equipamentos de camping, então acho que gostaria de aproveitar um glamping relaxante hoje."
-
-1008503-66 = "Primeiro, dê uma mordida no \"Yokai MAX\"..."
-
-1008503-71 = "Ufa... Afinal, o Enadri que você bebe no glamping é algo especial."
-
-1008503-72 = "Pois bem, vamos começar a trabalhar..."
-
-1008503-76 = "(...E então eu assisti Hare trabalhar enrolado em um futon.)"
-
-1008503-79 = "Hmm, isso pode ser um pouco complicado."
-
-1008503-80 = "Para configurar a capacidade de um nó para aumentar automaticamente quando o acesso estiver concentrado..."
-
-1008503-84 = "......Goku, Goku."
-
-1008503-85 = "[s9] \"Hum, Hare-san...?\"\n[s10] \"O número de latas na mesa...\""
-
-1008503-90 = "……Sim? pode……?"
-
-1008503-91 = "Huh? Já terminei de beber! ?"
-
-1008503-92 = "[s11] \"Eu queria saber se você deveria dizer alguma coisa...\"\n[s12] \"Talvez seja melhor jogar o lixo fora mais cedo?\""
-
-1008503-95 = "Hum... isso mesmo."
-
-1008503-96 = "Porém, se eu sair do meu lugar num momento em que estou concentrado, sou interrompido..."
-
-1008503-100 = "……um. #nA propósito, estamos acampando agora."
-
-1008503-101 = "O lixo gerado no camping deverá ser recolhido em um só lugar..."
-
-1008503-102 = "Vou jogar fora mais tarde, então você não vai me perdoar por hoje...?"
-
-1008503-103 = "[s] \"Nesse caso, só por hoje.\""
-
-1008503-104 = "Hehe, obrigado."
-
-1008503-105 = "Pois bem, deixe assim..."
-
-1008503-111 = "(Depois disso, a vida preguiçosa de acampamento de Hare continua...)"
-
-1008503-115 = "Hehe, comer macarrão enquanto descansa no seu saco de dormir é algo especial."
-
-1008503-116 = "Parecia que eu estava comendo na cama... a sensação de imoralidade era a melhor."
-
-1008503-122 = "Huh..."
-
-1008503-123 = "Apesar de ter bebido tantas bebidas energéticas, senti sono..."
-
-1008503-124 = "Enrolado em um saco de dormir em um quarto com ar condicionado, me sinto tão fofo..."
-
-1008503-128 = "Ufa... finalmente foi esclarecido."
-
-1008503-129 = "Resta esperar que a análise dos dados termine..."
-
-1008503-130 = "Talvez eu devesse tirar uma soneca enquanto isso."
-
-1008503-131 = "Sensei, você poderia, por favor, apagar a luz da sala?"
-
-1008503-132 = "Este saco de dormir é tão aconchegante... não consigo sair..."
-
-1008503-140 = "S-Sensei...? O que aconteceu de repente? #nVocê parece tão assustador..."
-
-1008503-145 = "[ns] \"...Acorde, lebre!\""
-
-1008503-149 = "Ei, ei...?"
-
-1008503-150 = "[s13] \"Você não pode mais fazer isso.\"\n[s14] \"Você tem usado o acampamento como desculpa para continuar relaxando.\""
-
-1008503-153 = "[ns] \"Comece a alongar agora!\""
-
-1008503-154 = "Mas... hoje é dia de glamping, certo? #nNão há necessidade de forçar seu corpo a se mover――"
-
-1008503-155 = "Se você movimentar o corpo e a temperatura corporal aumentar, você consegue ficar sem um saco de dormir?"
-
-1008503-156 = "Sim, é verdade, mas... é um pouco difícil usar energia..."
-
-1008503-157 = "Além disso, existe uma teoria de que atividades que usam o cérebro queimam mais calorias do que exercícios..."
-
-1008503-162 = "Ah, espere, Sensei... eu entendo! #nSe você consegue se levantar sozinho...!"
-
-1008503-168 = "(...Depois disso, tirei Hare e estiquei-a até que a temperatura corporal dela subisse.)"
-
+1008503-1 = "グランピング"
+1008503-3 = "（シャーレの仕事でミレニアムを訪れたついでに、ヴェリタスの部室に足を運んだ）"
+1008503-8 = "ヴェリタス・休憩室"
+1008503-10 = "[ns1] \"ハレ、居ないのかな……？\"\n[ns2] \"「妖怪MAX」のパッションフルーツ味を買ってきたんだけど――\""
+1008503-16 = "[ns3] \"うわっ、寒っ！\"\n[ns4] \"こんな日にクーラー……？\""
+1008503-23 = "あ……先生、来てたんだ。"
+1008503-24 = "ごめん、宅配便を受け取りに行ってて。"
+1008503-28 = "それ……「妖怪MAX」のパッションフルーツ味？"
+1008503-29 = "ちょうど飲みたかったの、ありがとう先生。"
+1008503-30 = "[s5] \"どういたしまして。\"\n[s6] \"なんか寒くない……？\""
+1008503-33 = "あ、気にしないで。わざとだから。"
+1008503-34 = "新しく導入したクラウドコンピュータのテストで、部室のサーバーをフル稼働させてるの。"
+1008503-35 = "サーバーは発熱がすごいからね。熱暴走しないように冷やしてるんだ。"
+1008503-36 = "……だから、多少寒くても我慢してね。"
+1008503-37 = "[s7] \"私は別に構わないけど……\"\n[s8] \"ハレは大丈夫なの？\""
+1008503-40 = "うん、大丈夫。"
+1008503-41 = "念のため、副部長にキャンプ道具を借りておいたんだ。"
+1008503-46 = "防寒ジャケットに毛布、電気カイロはもちろん……"
+1008503-47 = "身体の芯まで温まるスープと、カップ麺。"
+1008503-48 = "つまり、今日の休憩室は――"
+1008503-50 = "グランピング場も同然！"
+1008503-54 = "[ns] \"グランピング場……？\""
+1008503-55 = "うん。色々充実してるからね。"
+1008503-56 = "面倒なテントの設営や準備をしなくてもキャンプを堪能できるのがグランピング。"
+1008503-57 = "ここはヴェリタスの休憩室だけど、キャンプ道具も色々あるから……#nある意味グランピングと言えるんじゃないかな？"
+1008503-58 = "部室でのグランピングに慣れてきたら、今度はみんなでキャンプに行くのもアリかなって。"
+1008503-59 = "まあ、いつもの休憩室とあんまり変わらないけど……"
+1008503-60 = "これもキャンプの練習ってことで！"
+1008503-61 = "[s] \"練習になるのかな……？\""
+1008503-62 = "そう言わずに。せっかくキャンプ道具を借りてきたんだし、今日はのんびりグランピングを楽しみたいかな。"
+1008503-66 = "まずは「妖怪MAX」を一口……"
+1008503-71 = "ふぅ……やっぱりグランピングで飲むエナドリは格別。"
+1008503-72 = "それじゃ、作業を始めようか……"
+1008503-76 = "（……そして、布団でぐるぐる巻きになりながら作業に勤しむハレを見守った）"
+1008503-79 = "うーん、これはちょっと厄介かも。"
+1008503-80 = "アクセスが集中したとき、ノードの容量が自動的に増えるよう設定するには……"
+1008503-84 = "…………ごくっ、ごくっ。"
+1008503-85 = "[s9] \"あの、ハレさん……？\"\n[s10] \"机の上に置いてある缶の数が……\""
+1008503-90 = "……うん？缶……？"
+1008503-91 = "あれ？もう飲み終わっちゃった！？"
+1008503-92 = "[s11] \"口を出すのはどうかと思ったんだけど……\"\n[s12] \"ゴミは早めに捨てた方がいいんじゃないかな？\""
+1008503-95 = "うーん……そうだね。"
+1008503-96 = "でも、集中してるタイミングで離席したら途切れちゃうし……"
+1008503-100 = "……あ。#nそういえば、今はキャンプ中だよね。"
+1008503-101 = "キャンプ場で出たゴミは、一か所にまとめておくものだし……"
+1008503-102 = "後で捨てるから、今日のところは許してくれない……？"
+1008503-103 = "[s] \"それなら、今日だけね。\""
+1008503-104 = "ふふ、ありがとう。"
+1008503-105 = "それじゃ、このままで……"
+1008503-111 = "（その後もハレの怠惰なキャンプ生活は続き……）"
+1008503-115 = "ふふ、寝袋でゴロゴロしながら食べるカップ麺は格別だね。"
+1008503-116 = "まるでベッドの上で食べてるような心地がして……背徳感が最高。"
+1008503-122 = "ふあぁ……"
+1008503-123 = "あれだけエナジードリンクを飲んだのに、なんだか眠くなってきた……"
+1008503-124 = "クーラーの効いた部屋で寝袋に包まれてると……ふわぁ……"
+1008503-128 = "ふぅ……ようやく片付いた。"
+1008503-129 = "残りはデータ分析が終わるのを待つだけだし……"
+1008503-130 = "その間、お昼寝でもしてようかなぁ。"
+1008503-131 = "先生、部屋の明かりを消してくれる？"
+1008503-132 = "この寝袋、居心地が良すぎて……どうも出られそうになくて……"
+1008503-140 = "せ、先生……？急にどうしたの？#nそんな怖い顔して……"
+1008503-145 = "[ns] \"……起きて、ハレ！\""
+1008503-149 = "え、えぇ……？"
+1008503-150 = "[s13] \"これ以上はダメだよ。\"\n[s14] \"キャンプを言い訳に、ずっとダラけてるよね。\""
+1008503-153 = "[ns] \"これよりストレッチを開始します！\""
+1008503-154 = "でも……今日はグランピングの日だよ？#n無理に身体を動かす必要は――"
+1008503-155 = "身体を動かして体温が上がれば、寝袋が無くても大丈夫？"
+1008503-156 = "そ、その通りだけど……わざわざエネルギーを使うのはちょっと……"
+1008503-157 = "それに、頭を使う活動は、運動よりもカロリーを消費するという説も――"
+1008503-162 = "ま、待って、先生……分かったから！#n自分で立てるってば……！"
+1008503-168 = "（……その後、ハレを連れ出して体温が上がるまでストレッチをした）"

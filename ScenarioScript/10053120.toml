@@ -1,59 +1,30 @@
 [translation]
-10053120-1 = "História posterior, parte 3; anônimo quem?"
-
-10053120-3 = "……Eu vejo."
-
-10053120-4 = "Como esperado de você, Sr. [NOME DE USUÁRIO]."
-
-10053120-5 = "A colheita é mais do que eu esperava."
-
-10053120-6 = "Se analisarmos esses dados... podemos dar um passo adiante――"
-
-10053120-13 = "Gerente, por que você está trabalhando no escuro? Isso fará com que seus olhos pareçam piores. \r\n\r\n"
-
-10053120-14 = "É falta de educação entrar sem bater. \r\n\r\n\r\n\r\n"
-
-10053120-15 = "Então, o que você estava assistindo? Algo estranho de novo? \r\n\r\n"
-
-10053120-16 = "Por favor, corrija essa afirmação. #nParece que só vejo coisas estranhas regularmente. \r\n\r\n\r\n"
-
-10053120-17 = "foto? Você está assistindo? Alienígenas, OVNIs, etc... \r\n"
-
-10053120-18 = "Desta vez... Tsuchinoko? Está muito atrasado. \r\n\r\n"
-
-10053120-19 = "Amém. Não alienígenas, OVNIs ou Tsuchinoko. #nAinda não. \n"
-
-10053120-20 = "Se decidirmos isso, como faremos novas descobertas? \n"
-
-10053120-21 = "É verdade, mas... é muito convincente quando o gerente diz isso. \r\n\r\n"
-
-10053120-22 = "Tem sido muito espinhoso há algum tempo! ? #nComo uma flor solitária desabrochando em um penhasco, sou alguém que deve ser tratado com gentileza e carinho, certo? \r\n\r\n\r\n\r\n"
-
-10053120-23 = "Não, a vitalidade do gestor é como um dente-de-leão à beira da estrada. \r\n"
-
-10053120-24 = "...Bem, somos amigos, então vamos acabar com qualquer grosseria. #nFoi simplesmente melhor que isso. Liguei para você quando estava planejando ligar para você. \r\n\r\n\r\n"
-
-10053120-25 = "Meu? O trabalho do Departamento de Investigação de Fenômenos Peculiares não acabou? \r\n\r\n"
-
-10053120-26 = "...Por favor, olhe isso. \r\n\r\n\r\n"
-
-10053120-32 = "...? \r\n\r\n"
-
-10053120-33 = "...Quais são esses dados? \r\n\r\n"
-
-10053120-34 = "Eu não entendo. \r\n\r\n\r\n\r\n"
-
-10053120-35 = "Essa é uma resposta imediata. \r\n"
-
-10053120-36 = "Na verdade, não há nada conhecido neste momento. \r\n\r\n"
-
-10053120-37 = "``Um ônibus que apareceu onde não deveria vir'', ``Uma estátua de pedra que se movia sozinha,'' #n ``Um telefone público que ligou no meio da noite.''... \r\n\r\n\r\n\r\n"
-
-10053120-38 = "Um fenômeno sobrenatural que não pode ser explicado pelo bom senso ou pela teoria existente. \r\n\r\n\r\n"
-
-10053120-39 = "Este é verdadeiramente um “fenômeno singular”. \r\n\r\n"
-
-10053120-46 = "...Hehe, o que você acha? \r\n"
-
-10053120-47 = "Você não acha que ainda há trabalho para fazermos? \r\n\r\n"
-
+10053120-1 = "後日談その3;anonymous who?"
+10053120-3 = "……なるほど。"
+10053120-4 = "さすがですね、[USERNAME]先生。"
+10053120-5 = "期待以上の収穫です。"
+10053120-6 = "このデータを解析すれば……さらに一歩先へ――"
+10053120-13 = "部長、なんで真っ暗で作業してるの？目悪くなっちゃうよ。\r\n\r\n"
+10053120-14 = "ノックもなしに入るなんてマナー違反ですよ。\r\n\r\n\r\n\r\n"
+10053120-15 = "で、何見てたの？また変なやつ？\r\n\r\n"
+10053120-16 = "その言い方は訂正してください。#n私が普段から変なものばかり見ているみたいじゃないですか。\r\n\r\n\r\n"
+10053120-17 = "え？見てるよね？宇宙人とか、UFOとか……。\r\n"
+10053120-18 = "今回は……ツチノコ？それは時代遅れにもほどがあるよ。\r\n\r\n"
+10053120-19 = "エイミ。宇宙人も、UFOも、そしてツチノコも、[ruby=・]変[/ruby][ruby=・]な[/ruby][ruby=・]も[/ruby][ruby=・]の[/ruby]ではありません。#nまだ[ruby=・]証[/ruby][ruby=・]明[/ruby][ruby=・]さ[/ruby][ruby=・]れ[/ruby][ruby=・]て[/ruby][ruby=・]い[/ruby][ruby=・]な[/ruby][ruby=・]い[/ruby]だけです。\n"
+10053120-20 = "[ruby=・]証[/ruby][ruby=・]明[/ruby][ruby=・]さ[/ruby][ruby=・]れ[/ruby][ruby=・]て[/ruby][ruby=・]い[/ruby][ruby=・]な[/ruby][ruby=・]い[/ruby][ruby=・]か[/ruby][ruby=・]ら[/ruby][ruby=・]存[/ruby][ruby=・]在[/ruby][ruby=・]し[/ruby][ruby=・]な[/ruby][ruby=・]い[/ruby]と決めつけてしまったら、私たちはどうやって新しい発見をするのでしょうか？\n"
+10053120-21 = "正論ではあるけど……部長が言うと説得力がなぁ。\r\n\r\n"
+10053120-22 = "さっきからやけにトゲがありますね！？#n絶壁に咲く一輪の高嶺の花たる私は、優しく大事に扱ってもらうべき存在なんですよ？\r\n\r\n\r\n\r\n"
+10053120-23 = "いや、部長の生命力は道端のタンポポでしょ。\r\n"
+10053120-24 = "……まぁ私たちの仲ですし、無礼は水に流しましょう。#nそれより、丁度よかったです。呼ぼうと思っていたところでして。\r\n\r\n\r\n"
+10053120-25 = "私を？特異現象捜査部の活動は終わったんじゃなかったの？\r\n\r\n"
+10053120-26 = "……これを見てください。\r\n\r\n\r\n"
+10053120-32 = "……？\r\n\r\n"
+10053120-33 = "……なに、このデータ？\r\n\r\n"
+10053120-34 = "分かりません。\r\n\r\n\r\n\r\n"
+10053120-35 = "即答だね。\r\n"
+10053120-36 = "実際、現時点で判明していることが1つもありませんので。\r\n\r\n"
+10053120-37 = "「来るはずのない場所に現れたバス」、「勝手に動く石像」、#n「真夜中にかかってくる公衆電話」……。\r\n\r\n\r\n\r\n"
+10053120-38 = "既存の常識でも理論でも説明不能な、超自然的な現象。\r\n\r\n\r\n"
+10053120-39 = "まさに、「特異現象」だね。\r\n\r\n"
+10053120-46 = "……ふふっ、どうです？\r\n"
+10053120-47 = "私たちにはまだ──やるべきことが残っていると思いませんか？\r\n\r\n"

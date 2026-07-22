@@ -1,113 +1,57 @@
 [translation]
-1005202-1 = "Registros detalhados do secretário do seminário Noah"
-
-1005202-2 = "escritório de placa de petri"
-
-1005202-3 = "Olá, senhor."
-
-1005202-4 = "Como mencionei, hoje estive de plantão com placas de Petri."
-
-1005202-5 = "É minha primeira vez no serviço, então tenho certeza de que há muitas coisas que não posso fazer, mas agradeço sua ajuda."
-
-1005202-6 = "[s] \"Prazer em conhecê-lo.\""
-
-1005202-10 = "Hehe... entendo. #n Essa foi a impressão que tive de um aluno do Millennium."
-
-1005202-11 = "Acho que entendo um pouco mais por que essas meninas tomam a iniciativa de ajudar seus Senseies."
-
-1005202-12 = "[s] \"Há algum boato...?\""
-
-1005202-13 = "Ah, não se preocupe com isso."
-
-1005202-14 = "Não são notícias particularmente ruins."
-
-1005202-15 = "Então...com qual tarefa devemos começar?"
-
-1005202-16 = "[s] \"Tudo bem se você não me ajudar hoje.\""
-
-1005202-17 = "foto……? #nVocê terminou tudo, exceto seus assuntos pessoais, então não há nada para ajudá-lo?"
-
-1005202-18 = "Ah, estou com problemas. #nEstou aqui para ajudar o Sensei..."
-
-1005202-19 = "Não fazer nada durante o serviço é um pouco..."
-
-1005202-20 = "[s] \"Faça o que você normalmente faz?\""
-
-1005202-21 = "É isso que costumo fazer?"
-
-1005202-22 = "Costumo registrar as palavras trocadas em seminários durante o desempenho de minhas funções administrativas..."
-
-1005202-23 = "Ah, entendo… Vamos “gravar” isso?"
-
-1005202-24 = "……Entendido. #nEntão, como escriba, registrarei o que acontece aqui sem subjetividade."
-
-1005202-25 = "[s1] \"Acho que nada que valha a pena registrar vai acontecer...\"\n[s2] \"Bem, vá com calma.\""
-
-1005202-26 = "Sim, muito obrigado."
-
-1005202-27 = "Sim, muito obrigado."
-
-1005202-34 = "[ns] \"Hum...\""
-
-1005202-35 = "O que aconteceu? #nSensei."
-
-1005202-36 = "[s] \"O que você escreve há algum tempo?\""
-
-1005202-37 = "Oh, você quer dizer este diário?"
-
-1005202-38 = "Como mencionei anteriormente, estou mantendo um bom registro do dia a dia do Sensei como secretária."
-
-1005202-39 = "[s] \"Acho que nada mudou...\""
-
-1005202-40 = "Os critérios para “algo incomum” podem variar dependendo da subjetividade."
-
-1005202-41 = "Um bom escriba deve registrar tudo o que testemunha de forma neutra, sem ser influenciado pela subjetividade pessoal."
-
-1005202-42 = "por exemplo……"
-
-1005202-46 = "\"15:10:11. Sensei [NOME DE USUÁRIO] se espreguiçou durante o trabalho e bocejou por 3 segundos.\""
-
-1005202-50 = "\"3:12:49. O Sensei [NOME DE USUÁRIO] confirmou que a caneca estava vazia e a encheu novamente com café da máquina de café. Os grãos usados ​​foram Stella Bucks Signature Blend.\""
-
-1005202-54 = "\"15:46:08. O Sensei [NOME DE USUÁRIO] chamou a atenção de um gato de rua batendo na janela e tentou conversar com ele por cerca de 1 minuto e 30 segundos...\""
-
-1005202-55 = "[s] \"O que você vai fazer com isso?\""
-
-1005202-56 = "Como disse anteriormente, não é da competência do secretário #n determinar o significado contido nos registros."
-
-1005202-57 = "Simplesmente registro as ações do Sensei sem subjetividade."
-
-1005202-58 = "Se eu tivesse que expressar minha opinião pessoal, parece-me um registro diário normal..."
-
-1005202-59 = "Pode ser um registro significativo para alguém que queira conhecer seu trabalho."
-
-1005202-60 = "Ou até mesmo vender esse disco por um preço alto..."
-
-1005202-61 = "[s] \"Ah, por favor, pare...\""
-
-1005202-62 = "Infelizmente, o trabalho do secretário não pode ser interrompido até o final da reunião."
-
-1005202-63 = "Caso a gravação seja interrompida ou o conteúdo seja revisado devido a circunstâncias externas, a neutralidade do registro ficará comprometida."
-
-1005202-64 = "Ah, nesse sentido... tenho que registrar o que falei anteriormente."
-
-1005202-68 = "\"16:27:55. O Sensei da placa de Petri solicitou que a gravação fosse interrompida.\""
-
-1005202-73 = "\"16:28:10. Solicitei que você não mencionasse #n que o Sensei da placa de Petri solicitou que a gravação fosse interrompida.\""
-
-1005202-78 = "\"16:29:43. Não escreva que o Sensei da placa de Petri solicitou que a gravação fosse interrompida #n Por favor, não escreva que ele solicitou que a gravação fosse interrompida...\""
-
-1005202-82 = "[ns] Desista da persuasão."
-
-1005202-83 = "n / D. #nObrigado pela sua compreensão."
-
-1005202-84 = "Agora, Sensei, por favor, não se preocupe comigo e #ncontinue a se concentrar no seu trabalho."
-
-1005202-85 = "Como disse antes...sou apenas um escriba que registra a situação atual sem subjetividade."
-
-1005202-90 = "Depois disso, tentei prosseguir com meu trabalho sem me preocupar com Noah, mas..."
-
-1005202-91 = "Hehe... esta também é uma experiência bastante interessante."
-
-1005202-95 = "Eu estava tão preocupado com o olhar de Noah que mal conseguia trabalhar..."
-
+1005202-1 = "セミナー書記ノアの細やかなる記録"
+1005202-2 = "シャーレ・オフィス"
+1005202-3 = "こんにちは、先生。"
+1005202-4 = "お伝えした通り、本日はシャーレの当番業務に参りました。"
+1005202-5 = "当番は初めてですので、至らないところも多いかと思いますが、よろしくお願いします。"
+1005202-6 = "[s] \"こちらこそ、よろしく。\""
+1005202-10 = "ふふ……なるほど。#nミレニアム生に聞いた通りの印象ですね。"
+1005202-11 = "彼女らが率先して先生の手伝いをする理由が、少し分かった気がします。"
+1005202-12 = "[s] \"何か噂でもされてる……？\""
+1005202-13 = "ああ、その点でしたらご心配なく。"
+1005202-14 = "特段、悪い噂ではありませんから。"
+1005202-15 = "それでは……どの業務から始めましょうか。"
+1005202-16 = "[s] \"今日はお手伝いしなくて大丈夫だよ。\""
+1005202-17 = "え……？#n個人業務以外は全部終わらせたから、手伝うものはない、と？"
+1005202-18 = "あら、困りましたね。#n私は先生を手伝うためにここに居るのですが……。"
+1005202-19 = "当番の間、何もしないというのはちょっと……。"
+1005202-20 = "[s] \"普段やっている事をするとか？\""
+1005202-21 = "私が普段やっていること、ですか？"
+1005202-22 = "普段は、書記業務を遂行しながら、セミナーで交わされる言葉を記録していますが……"
+1005202-23 = "ああ、なるほど……「記録」しましょうか。"
+1005202-24 = "……分かりました。#nそれでは書記として、ここで起こることを主観なく記録させていただきますね。"
+1005202-25 = "[s1] \"別に記録するほどの事は起きないと思うけど……。\"\n[s2] \"まあ、楽にしててね。\""
+1005202-26 = "はい、よろしくお願いいたしますね。"
+1005202-27 = "はい、よろしくお願いいたしますね。"
+1005202-34 = "[ns] \"あの……。\""
+1005202-35 = "どうされましたか？#n先生。"
+1005202-36 = "[s] \"さっきから何を書いてるの？\""
+1005202-37 = "ああ、この日誌のことですか？"
+1005202-38 = "先程お伝えした通り、先生の日々を書記としてしっかり記録させていただいています。"
+1005202-39 = "[s] \"変わったことは何もなかったと思うけど……。\""
+1005202-40 = "「変わったこと」の基準は、主観によっていくらでも変動しますから。"
+1005202-41 = "優秀な書記は、個人の主観に振り回されることなく、目撃した事柄すべてを中立的に記録するべきです。"
+1005202-42 = "例えば……"
+1005202-46 = "「15時10分11秒。[USERNAME]先生が業務中に伸びをし、3秒間あくびをした」"
+1005202-50 = "「15時12分49秒。[USERNAME]先生がマグカップが空になったことを確認し、コーヒーマシーンでコーヒーを補充した。使用した豆はステラバックスのシグネチャブレンド」"
+1005202-54 = "「15時46分08秒。[USERNAME]先生が窓を叩く野良猫に目を奪われ、約1分30秒間会話を試みた……」"
+1005202-55 = "[s] \"それ書いてどうするの！？\""
+1005202-56 = "先ほどもお伝えしたように、記録に込められた意味を判断するのは、#n書記の管轄ではありません。"
+1005202-57 = "私はただ、主観を含めず先生の行動を淡々と記録するだけです。"
+1005202-58 = "強いて私見を述べるのであれば、#n私にはごく普通の日常記録のように思えますが……。"
+1005202-59 = "先生のお仕事を知りたい誰かにとっては、意味のある記録になるかもしれません。"
+1005202-60 = "または、この記録を高額で販売することだって……。"
+1005202-61 = "[s] \"や、止めてくれ……。\""
+1005202-62 = "申し訳ありませんが、書記の業務は会議が終わるまで中断することができません。"
+1005202-63 = "外部の事情によって記録が中断されたり、内容の修正が発生してしまいますと、#n記録の中立性が阻害されてしまいますので。"
+1005202-64 = "ああ、そういう意味では……先ほどの発言も記録に残さなければいけませんね。"
+1005202-68 = "「16時27分55秒。シャーレの先生が記録を中断するよう要請した」"
+1005202-73 = "「16時28分10秒。シャーレの先生が記録を中断するよう要請したことを#n　記載しないよう要請した」"
+1005202-78 = "「16時29分43秒。シャーレの先生が記録を中断するよう要請したことを#n　記載しないよう要請したことを記載しないよう……」"
+1005202-82 = "[ns] 説得を諦める。"
+1005202-83 = "ふふ。#nご理解いただき、ありがとうございます。"
+1005202-84 = "では先生、私のことは気にせず、#n引き続きお仕事に集中してください。"
+1005202-85 = "先ほどもお伝えした通り……私はただ、現状を主観なく記録する書記ですから。"
+1005202-90 = "その後、ノアを気にせず仕事を進めようとしたものの……"
+1005202-91 = "ふふ……これもなかなか面白い経験ですね。"
+1005202-95 = "ノアの視線が気になって、仕事がほとんど手につかなかった……。"

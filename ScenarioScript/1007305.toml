@@ -1,129 +1,65 @@
 [translation]
-1007305-1 = "até a última mordida"
-
-1007305-5 = "(Havia Ui parada na praia à noite, atordoada.)"
-
-1007305-10 = "...Ah, Senseia. Aqui está."
-
-1007305-16 = "Não acredito que seja tão rápido. #nNa verdade, depois de enviar o Momotalk, me arrependi um pouco."
-
-1007305-17 = "Realmente não é grande coisa. #nSó quero dar uma volta... foi exatamente o que pensei."
-
-1007305-18 = "...Mas a Senseia veio até mim com duas respostas."
-
-1007305-19 = "Qual é a alternativa para isso..."
-
-1007305-23 = "...Você gostaria de se juntar a nós?"
-
-1007305-24 = "[s1] \"Claro, eu ficaria feliz. É um Americano.\"\n[s2] Aceito a xícara de Oui."
-
-1007305-31 = "(Caminhando pela praia com Ui, segurando um Americano na mão)"
-
-1007305-34 = "...A Associação dos Santos costuma encontrar lugares maravilhosos como este."
-
-1007305-38 = "Sempre achei que era uma organização inflexível e rígida..."
-
-1007305-39 = "Esse pode não ser necessariamente o caso."
-
-1007305-40 = "Hehe..."
-
-1007305-41 = "...?"
-
-1007305-42 = "Sensei, o que há de errado? Bem, quando as pessoas me olham assim..."
-
-1007305-43 = "[s3] \"A expressão de Ui está mais suave do que o normal hoje.\"\n[s4] \"Você está se acostumando com a ilha deserta?\""
-
-1007305-48 = "Hum... sim."
-
-1007305-49 = "Então... reuni coragem para entrar em contato com a Senseia."
-
-1007305-50 = "E..."
-
-1007305-51 = "...O sol já se pôs."
-
-1007305-52 = "Um lugar tranquilo e sem ninguém por perto. #nSe estiver tão escuro, não há necessidade de se preocupar em ser visto."
-
-1007305-53 = "Para mim, o ambiente não poderia ser melhor."
-
-1007305-54 = "...Se você cortar apenas as falas que ele acabou de dizer, é como os vampiros do filme."
-
-1007305-55 = "Hehe. Não precisei explicar para você, mas você poderia dizer..."
-
-1007305-56 = "O Sensei conhece vários alunos..."
-
-1007305-57 = "Entre eles, devia haver algumas pessoas tímidas que não tinham confiança em si mesmas e estavam preocupadas com o que os outros pensavam delas."
-
-1007305-58 = "...Eu não acho que sou especial."
-
-1007305-59 = "[s5] \"Mas Oui é Oui.\"\n[s6] \"Você não acha que sou uma pessoa tímida?\""
-
-1007305-64 = "...Sim, o que é isso?"
-
-1007305-65 = "Eu vejo……"
-
-1007305-66 = "Quando um Sensei me diz algo, é como se eu aceitasse naturalmente..."
-
-1007305-67 = "...E provavelmente estaria mais perto de dizer que sou difícil do que tímido."
-
-1007305-68 = "Não, não estou sendo condescendente. #nNo entanto, é verdade e estou ciente disso."
-
-1007305-69 = "Há momentos em que eu ajo assim intencionalmente..."
-
-1007305-70 = "Dessa forma, menos pessoas invadirão meu espaço pessoal."
-
-1007305-71 = "...No entanto, ultimamente sinto que não está funcionando e estou tendo problemas."
-
-1007305-75 = "…………."
-
-1007305-76 = "... Não direi quem, no entanto."
-
-1007305-77 = "Ou é melhor colocar em palavras?"
-
-1007305-78 = "[s7] \"Ahaha, você também está com problemas.\"\n[s8] \"Essa é aquela piada de novo.\""
-
-1007305-81 = "...Suspiro, isso parece artificial. Eu sabia disso."
-
-1007305-82 = "Pessoalmente, não sou bom em conversas inventadas... mas não me importo porque isso realmente me ajuda."
-
-1007305-83 = "Já que é seu Sensei, deve haver algum sentido nele ficar ao seu lado, certo?"
-
-1007305-84 = "Graças a você sinto que posso mudar aos poucos... aos poucos."
-
-1007305-85 = "...No entanto, não pretendo apenas ser pressionado."
-
-1007305-86 = "Às vezes... uh, sou mimado..."
-
-1007305-87 = "...Vingança pelo Sensei."
-
-1007305-88 = "Por exemplo... assim, você pode reservar um tempo só para nós dois."
-
-1007305-89 = "...Eca."
-
-1007305-90 = "Na melhor das hipóteses, eu poderia ter dito coisas tão problemáticas... Aaah... O pior..."
-
-1007305-91 = "...Você estará sem sorte se for pego por mim."
-
-1007305-92 = "[s9] \"Assumirei a responsabilidade como Sensei até o fim.\"\n[s10] \"Estarei sempre ao seu lado cuidando de você.\""
-
-1007305-95 = "... Haa. Faça isso de novo."
-
-1007305-96 = "Bom, vamos encerrar essa história..."
-
-1007305-97 = "Como eu disse no início...só queria caminhar um pouco hoje."
-
-1007305-98 = "Aquela xícara ainda está lá, não está?"
-
-1007305-99 = "não preciso dizer nada..."
-
-1007305-103 = "Pelo menos até eu terminar de beber..."
-
-1007305-104 = "Você gostaria de caminhar um pouco..."
-
-1007305-105 = "...Isso é bom, certo?"
-
-1007305-109 = "[ns11] Coloque a boca no copo. \n[ns12] Comece a caminhar com passos pequenos."
-
-1007305-112 = "...Hehe."
-
-1007305-114 = "...Não é ruim."
-
+1007305-1 = "最後の一口まで"
+1007305-5 = "（夜の海辺に、ぼんやりと立ち尽くすウイの姿があった）"
+1007305-10 = "……あ、先生。こちらです。"
+1007305-16 = "こんなに早いとは。#n実はモモトークを送ってから、少し後悔していました。"
+1007305-17 = "本当に、大した用ではないんです。#nただ、少し散歩がしたい……そう、思っただけで。"
+1007305-18 = "……なのに、先生は二つ返事で私のところへ。"
+1007305-19 = "その、代わりと言っては何ですが……"
+1007305-23 = "……ご一緒に、いかがですか？"
+1007305-24 = "[s1] \"もちろん、喜んで。アメリカーノだね。\"\n[s2] ウイのカップを受け取る。"
+1007305-31 = "（アメリカーノを片手に、ウイと海辺を歩く）"
+1007305-34 = "……聖徒会も、こんな素敵な場所をよく見つけたものです。"
+1007305-38 = "融通の利かない、堅苦しい組織だとばかり思っていましたが……"
+1007305-39 = "そうとは限らないのかもしれませんね。"
+1007305-40 = "ふふっ……"
+1007305-41 = "……？"
+1007305-42 = "先生、どうかしましたか？そ、そんなに見つめられると……"
+1007305-43 = "[s3] \"今日のウイは、いつもより表情が柔らかいね。\"\n[s4] \"無人島にも慣れてきた？\""
+1007305-48 = "えっと……はい。"
+1007305-49 = "なので……勇気を出して、先生にご連絡したのです。"
+1007305-50 = "それに……"
+1007305-51 = "……もう、陽も落ちましたし。"
+1007305-52 = "周りには誰もいない、静かな場所。#nこれだけ暗ければ、人目を気にする必要も、ないですから。"
+1007305-53 = "私にとっては、これ以上ない環境です。"
+1007305-54 = "……なんて、今のセリフだけ切り取れば、[ruby=おとぎばなし]御伽噺[/ruby]に出てくる吸血鬼のような。"
+1007305-55 = "ふふっ。わざわざ説明しなくても、お見通しでしたよね……先生には。"
+1007305-56 = "先生は、いろいろな生徒と面識がありますから――"
+1007305-57 = "その中には、きっと……#n自分に自信が持てず、他人の目が気になって仕方がない小心者もいたはずです。"
+1007305-58 = "……私が特別だとは、思っていません。"
+1007305-59 = "[s5] \"でも、ウイはウイだよ。\"\n[s6] \"小心者だとは思わないかな？\""
+1007305-64 = "……そう、なんですか？"
+1007305-65 = "なるほど……"
+1007305-66 = "先生に言われると、自然に受け止められるような……。"
+1007305-67 = "……それに私は、小心者というより、気難しいと言った方が近いかもしれません。"
+1007305-68 = "いえ、別に卑下しているわけではないので。#nただ、事実には違いありませんし、その自覚はあります。"
+1007305-69 = "意図的に、そう振る舞っている時もありますし……"
+1007305-70 = "そうすれば、私のパーソナルスペースに入ってくる人は減りますから。"
+1007305-71 = "……ですが、最近はどうもそれが機能していない気がして、困っています。"
+1007305-75 = "…………。"
+1007305-76 = "……誰、とは言いませんけれど。"
+1007305-77 = "それとも、言葉にした方が良いでしょうか？"
+1007305-78 = "[s7] \"あはは、ウイも大変だね。\"\n[s8] \"またまた、そんなご冗談を。\""
+1007305-81 = "……はぁ、わざとらしいですね。知ってましたけど。"
+1007305-82 = "私としては、取り繕った会話は苦手ですし……むしろ助かるので構いませんが。"
+1007305-83 = "先生のことですから、そばに居てくれるのにも、きっと意味があるのでしょう？"
+1007305-84 = "おかげで私も、少し……少しずつ、変わっていけるような気がしています。"
+1007305-85 = "……ですが、振り回されてばかりいるつもりは無いですよ。"
+1007305-86 = "た、たまには……その、甘えたりして……"
+1007305-87 = "……先生に、仕返しを。"
+1007305-88 = "たとえば……こんな風に、2人だけの時間を作っていただいたり。"
+1007305-89 = "……うぅ。"
+1007305-90 = "よくもまぁこんな面倒くさい事を言えたもので……ああぁ……最悪……"
+1007305-91 = "……私に捕まってしまうなんて、先生は運がありませんね。"
+1007305-92 = "[s9] \"最後まで、先生として責任を取るから。\"\n[s10] \"いつでも、そばで見守ってるよ\""
+1007305-95 = "……はぁ。またそんなことを。"
+1007305-96 = "こ、この話は終わりにしましょう……。"
+1007305-97 = "はじめにも言いましたが……今日は、少し歩きたかっただけですし。"
+1007305-98 = "そのカップ、まだ残っていますよね。"
+1007305-99 = "何も話さなくて良いので……"
+1007305-103 = "せめて、それを飲み終わるまでは……"
+1007305-104 = "すこし、歩きませんか……"
+1007305-105 = "……いいですよね？"
+1007305-109 = "[ns11] カップに口をつける。\n[ns12] 小さな歩幅で歩き出す。"
+1007305-112 = "……ふふっ。"
+1007305-114 = "……悪くないですね。"

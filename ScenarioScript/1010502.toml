@@ -1,123 +1,62 @@
 [translation]
-1010502-1 = "Por favor, dê uma mordida"
-
-1010502-2 = "(Fui para a sala de aula para apoiar Marie)"
-
-1010502-8 = "...?"
-
-1010502-9 = "Qual deles é você...?"
-
-1010502-10 = "Ei, Sensei! ?"
-
-1010502-11 = "Qual é o seu propósito aqui?"
-
-1010502-12 = "...Pelo meu apoio?"
-
-1010502-13 = "Talvez seja porque enviei o Momotalk?"
-
-1010502-14 = "...... sinto muito."
-
-1010502-15 = "Estou me esforçando para ocupar o precioso tempo do Sensei..."
-
-1010502-16 = "Mesmo que eu seja o único lá."
-
-1010502-17 = "Na verdade, vocês dois estavam lá há pouco tempo, mas depois do treino, eles partiram para a próxima tarefa."
-
-1010502-18 = "Porém, pensei em praticar um pouco mais."
-
-1010502-22 = "Não se preocupe! #nJá tenho a música e a coreografia memorizadas."
-
-1010502-23 = "No entanto, gostaria de dar a todos um bom desempenho..."
-
-1010502-24 = "...Isso é melhor que isso!"
-
-1010502-25 = "Antes que eu percebesse, já era hora do almoço."
-
-1010502-26 = "Se o Sensei ainda não comeu..."
-
-1010502-27 = "Você gostaria de comer minha lancheira comigo?"
-
-1010502-28 = "Pode não ser suficiente para duas pessoas comerem, mas..."
-
-1010502-29 = "[s1] \"Vou ficar bem.\"\n[s2] \"Se quiser continuar praticando, você precisa se alimentar adequadamente.\""
-
-1010502-32 = "...Hum."
-
-1010502-33 = "Não posso simplesmente comer na frente da Senseia..."
-
-1010502-34 = "Acho que vou almoçar depois do treino."
-
-1010502-35 = "Eh..."
-
-1010502-36 = "Você já está indo para casa? ?"
-
-1010502-37 = "[s3] \"É difícil comer quando estou por perto.\"\n[s4] \"Você está atrapalhando Marie.\""
-
-1010502-40 = "Não, isso não é verdade."
-
-1010502-41 = "É que estou me preocupando demais com as coisas..."
-
-1010502-42 = "...Eu entendo, Sensei. #nQuando você voltar, por favor, faça uma refeição adequada."
-
-1010502-46 = "Sim, eu aceito."
-
-1010502-51 = "[ns5] Limpe o chão da sala de aula. \n[ns6] Limpe seus pertences na sala de aula."
-
-1010502-54 = "...O que você está fazendo de repente?"
-
-1010502-55 = "Quando se trata de limpar e arrumar, você mesmo pode fazer isso! ?"
-
-1010502-56 = "Por que se preocupar em pedir ao Sensei para fazer isso..."
-
-1010502-57 = "...Eh?"
-
-1010502-58 = "Você quer ajudar em alguma coisa...?"
-
-1010502-59 = "É verdade que é constrangedor ter pessoas olhando para o seu rosto o tempo todo enquanto você come..."
-
-1010502-60 = "Claro que estou feliz em ouvir isso."
-
-1010502-61 = "No entanto, parece que o Sensei está apenas prestando atenção em mim..."
-
-1010502-62 = "[s7] \"Quero fazer algo por Marie.\"\n[s8] \"Quero que você se concentre na prática por enquanto.\""
-
-1010502-65 = "Mesmo que você diga isso..."
-
-1010502-66 = "……."
-
-1010502-71 = "[ns9] \"...Marie?\"\n[ns10] \"Acho que foi uma ajuda desnecessária...\""
-
-1010502-76 = "……Sensei."
-
-1010502-77 = "Você poderia, por favor, ouvir meu egoísmo?"
-
-1010502-78 = "Pense nisso como um pedido para ajudá-lo a se concentrar em sua prática."
-
-1010502-79 = "... Kohon."
-
-1010502-80 = "Pois bem, senhor."
-
-1010502-81 = "Aqui..."
-
-1010502-85 = "[ns11] \"Este é o da Marie...\"\n[ns12] \"É realmente bom?\""
-
-1010502-88 = "...Este tamagoyaki é para o Sensei."
-
-1010502-89 = "Apenas dividir um acompanhamento não fará diferença."
-
-1010502-90 = "Além disso, me incomodava ser o único a comer."
-
-1010502-91 = "Então, para se concentrar na prática..."
-
-1010502-92 = "Por favor, tenha um."
-
-1010502-93 = "……Sensei."
-
-1010502-94 = "Não, certo...?"
-
-1010502-95 = "……."
-
-1010502-97 = "...Abra a boca, senhor."
-
-1010502-98 = "Ah, ah…."
-
+1010502-1 = "一口どうぞ"
+1010502-2 = "（マリーを応援するために、レッスン室へ向かった）"
+1010502-8 = "……？"
+1010502-9 = "どちら様ですか……？"
+1010502-10 = "せ、先生！？"
+1010502-11 = "こちらには何のご用で……。"
+1010502-12 = "……私の応援に？"
+1010502-13 = "もしかして、モモトークを送ったせいでしょうか。"
+1010502-14 = "……申し訳ありません。"
+1010502-15 = "先生の貴重なお時間を、わざわざ……。"
+1010502-16 = "それも、私しかいないというのに。"
+1010502-17 = "実は、先ほどまでお二人もいたのですが、#n練習が終わったら次の用事に向かわれました。"
+1010502-18 = "ですが、私はもう少し練習しておこうと思ったのです。"
+1010502-22 = "ご安心ください！#n歌も振り付けも、すでに覚えてはいます。"
+1010502-23 = "ただ、少しでも良いパフォーマンスを皆さんに……。"
+1010502-24 = "……そ、それより！"
+1010502-25 = "気づけば、お昼の時間になっていましたね。"
+1010502-26 = "先生も、まだ食べていないようでしたら……。"
+1010502-27 = "私のお弁当を一緒に食べませんか？"
+1010502-28 = "二人で食べるには、少ないかもしれませんが……。"
+1010502-29 = "[s1] \"私は大丈夫だよ。\"\n[s2] \"練習を続けるなら、ちゃんと食べないとね。\""
+1010502-32 = "……うーん。"
+1010502-33 = "先生の前で、私だけ食べるわけには……。"
+1010502-34 = "お昼は練習が終わってからにしようと思います。"
+1010502-35 = "えっ……。"
+1010502-36 = "もう帰ってしまうんですか！？"
+1010502-37 = "[s3] \"私がいると、食べづらいよね。\"\n[s4] \"マリーの邪魔になってるよね。\""
+1010502-40 = "そ、そんなことはありません。"
+1010502-41 = "私が色々と気にしすぎているだけで……。"
+1010502-42 = "……分かりました、先生。#n帰ったら、きちんとお食事を取ってくださいね。"
+1010502-46 = "い、いただきます。"
+1010502-51 = "[ns5] レッスン室の床を拭く。\n[ns6] レッスン室の荷物を片付ける。"
+1010502-54 = "……急に何を？"
+1010502-55 = "掃除や片付けなら、最後に自分で行いますよ！？"
+1010502-56 = "わざわざ先生にやってもらうのは……。"
+1010502-57 = "……えっ？"
+1010502-58 = "少しでも力になりたい、と……？"
+1010502-59 = "たしかに、食事中の顔をずっと見られているのは恥ずかしいですし……。"
+1010502-60 = "そのお気持ちは、もちろん嬉しいです。"
+1010502-61 = "ただ、これでは先生に気を遣っていただいてばかりのような……。"
+1010502-62 = "[s7] \"マリーのために何かしたいんだ。\"\n[s8] \"今は練習に集中してほしいから。\""
+1010502-65 = "そう言われましても……。"
+1010502-66 = "……。"
+1010502-71 = "[ns9] \"……マリー？\"\n[ns10] \"余計なお世話だったかな……。\""
+1010502-76 = "……先生。"
+1010502-77 = "ひとつ、私のわがままを聞いていただけますか？"
+1010502-78 = "練習に集中するためのお願いだと思ってください。"
+1010502-79 = "……こほん。"
+1010502-80 = "それでは、先生。"
+1010502-81 = "こちらを……。"
+1010502-85 = "[ns11] \"これはマリーのじゃ……。\"\n[ns12] \"本当に良いの？ \""
+1010502-88 = "……この卵焼きは、先生の分です。"
+1010502-89 = "おかずを一つ分けたくらいでは、変わりませんから。"
+1010502-90 = "それに、私だけ食事をしているのが気になってしまいまして。"
+1010502-91 = "なので、練習に集中するためにも……。"
+1010502-92 = "おひとつ、召し上がってください。"
+1010502-93 = "……先生。"
+1010502-94 = "ダメ、でしょうか……？"
+1010502-95 = "……。"
+1010502-97 = "……お口を開けてください、先生。"
+1010502-98 = "あ、あーん……。"

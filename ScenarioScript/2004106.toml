@@ -1,190 +1,99 @@
 [translation]
-2004106-1 = "lugar secreto"
-
-2004106-3 = "(No caminho para lá, lembrei-me do meu telefonema com o Rio)"
-
-2004106-5 = "Repito, meus esconderijos estão em vários locais..."
-
-2004106-6 = "Desta vez, gostaria de convidar você para um deles."
-
-2004106-7 = "...Você poderia dizer que é um lugar secreto só para nós dois."
-
-2004106-8 = "Não há problemas de segurança, então não se preocupe."
-
-2004106-9 = "Se este lugar for identificado..."
-
-2004106-10 = "Isso significa que você não contou a ninguém."
-
-2004106-11 = "...Nesse momento, você deverá reivindicar a compensação apropriada."
-
-2004106-12 = "Mas eu acredito em você."
-
-2004106-13 = "[s] \"Vou retribuir essa confiança!\""
-
-2004106-14 = "Até mais."
-
-2004106-15 = "Estou ansioso por isso."
-
-2004106-17 = "(Liguei para o número que o Rio me deu)"
-
-2004106-22 = "...O que? Ei, Sensei! ? #n"
-
-2004106-23 = "Já está na hora! ? #nFiquei com as cortinas fechadas o tempo todo...!"
-
-2004106-24 = "O que devo fazer..."
-
-2004106-25 = "[s] \"Rio, aconteceu alguma coisa!?\""
-
-2004106-26 = "Não, não é nada!"
-
-2004106-34 = "(Corri para o esconderijo porque estava preocupado com o Rio!)"
-
-2004106-43 = "[ns] \"Rio!\""
-
-2004106-45 = "Ei, Sensei! ? #nTão rápido..."
-
-2004106-46 = "Não, tenho certeza que é a hora prometida..."
-
-2004106-47 = "[ns1] \"Desculpe...\"\n[ns2] \"...Acho que você ainda estava limpando.\""
-
-2004106-50 = "Eca..."
-
-2004106-51 = "[ns] \"Este é um contêiner de bento de loja de conveniência?\""
-
-2004106-52 = "……Sim."
-
-2004106-53 = "Bem... ao lado estão garrafas plásticas de chá e suco."
-
-2004106-59 = "Não, não! Isso não é lixo! #nEquipamentos experimentais e reagentes são ferramentas...!"
-
-2004106-60 = "……."
-
-2004106-61 = "...Você mostrou uma aparência embaraçosa."
-
-2004106-62 = "Pensei que poderia limpar sozinho, mas..."
-
-2004106-63 = "[s] \"O que você estava fazendo antes?\""
-
-2004106-64 = "...Toki."
-
-2004106-65 = "[s] \"Isso mesmo... mas está tudo bem.\""
-
-2004106-66 = "Se você aprender a limpar, você conseguirá fazer isso...?"
-
-2004106-67 = "Você também foi ruim nisso?"
-
-2004106-68 = "Isso mesmo..."
-
-2004106-73 = "...Sensei, eu me pergunto para onde você está indo."
-
-2004106-74 = "[s] \"Vou comprar um saco de lixo para você.\""
-
-2004106-75 = "Ah, eu entendo...."
-
-2004106-81 = "Está realmente esclarecido..."
-
-2004106-82 = "...Isso é apenas metade! ?"
-
-2004106-83 = "Sinto que o conceito de limpeza é diferente..."
-
-2004106-84 = "O que posso fazer para ajudar?"
-
-2004106-85 = "Mesmo que me dissessem que eu ficaria bem desde que descansasse..."
-
-2004106-86 = "Não posso simplesmente descansar."
-
+2004106-1 = "秘密の場所"
+2004106-3 = "（向かう途中、リオとの通話を思い返してみた）"
+2004106-5 = "繰り返しになるのだけれど、私のアジトは複数の場所にあって――"
+2004106-6 = "今回は、その中のひとつに貴方を招待したいの。"
+2004106-7 = "……二人だけの秘密の場所、とも言えるかしら。"
+2004106-8 = "セキュリティ上の問題はないから、心配は不要よ。"
+2004106-9 = "もし、この場所が特定されたら……。"
+2004106-10 = "それは貴方が誰かに口外したことを意味するわ。"
+2004106-11 = "……その時は、相応の賠償を請求することになるわね。"
+2004106-12 = "でも、貴方を信じているわ。"
+2004106-13 = "[s] \"その信頼に応えてみせるよ！\""
+2004106-14 = "では、また後ほど会いましょう。"
+2004106-15 = "楽しみにしているわ。"
+2004106-17 = "（リオが教えてくれた番号に電話をかけた）"
+2004106-22 = "……えっ。せ、先生！？#n"
+2004106-23 = "もう時間なの！？#nずっとカーテンを閉めていたから……！"
+2004106-24 = "ど、どうすれば……。"
+2004106-25 = "[s] \"リオ、何かあったの！？\""
+2004106-26 = "な、何でもないわ！"
+2004106-34 = "（リオの身が心配で、アジトまで走って向かった！）"
+2004106-43 = "[ns] \"リオ！\""
+2004106-45 = "せ、先生！？#nこんなに早く……。"
+2004106-46 = "いえ、約束の時間で間違いないのだけれど……。"
+2004106-47 = "[ns1] \"ごめん……。\"\n[ns2] \"……まだ掃除中だったんだね。\""
+2004106-50 = "うぅ……。"
+2004106-51 = "[ns] \"これ、コンビニ弁当の容器？\""
+2004106-52 = "……ええ。"
+2004106-53 = "そうね……隣はお茶とジュースのペットボトルよ。"
+2004106-59 = "ち、違うの！それはゴミじゃないわ！#n実験装置と試薬で、それは工具……！"
+2004106-60 = "……。"
+2004106-61 = "……恥ずかしい姿を見せたわね。"
+2004106-62 = "自分一人で、ちゃんと片付けられると思っていたのだけれど……。"
+2004106-63 = "[s] \"前はどうしてたの？\""
+2004106-64 = "……トキが。"
+2004106-65 = "[s] \"そうだったんだ……でも、大丈夫だよ。\""
+2004106-66 = "片付けも、学習すればできるようになる……？"
+2004106-67 = "貴方も苦手だったの？"
+2004106-68 = "そ、そう……。"
+2004106-73 = "……先生、どこに行くのかしら。"
+2004106-74 = "[s] \"ゴミ袋を買ってくるね。\""
+2004106-75 = "わ、分かったわ……。"
+2004106-81 = "本当に、片付いたわね……。"
+2004106-82 = "……これでまだ半分！？"
+2004106-83 = "掃除の概念が違う気がするのだけれど……。"
+2004106-84 = "何を手伝えば良いのかしら？"
+2004106-85 = "休んでいれば大丈夫、と言われても……。"
+2004106-86 = "私だけ休むわけにはいかないわ。"
 2004106-89 = "[wa:1780]― [log=리오]こういう事をさせるために、[wa:1540]貴方を呼んだわけじゃ、[/log]"
 2004106-90 = "[wa:1630]― [log=리오]ないのだけれど……[/log]"
-2004106-93 = "- [log=리오]Eu mesmo farei isso. [wa:1420] Sensei, por favor, sente-se. [/registro]"
-
+2004106-93 = "― [log=리오]自分でやるわ。[wa:1420]先生は座っていてちょうだい。[/log]"
 2004106-96 = "[wa:950]― [log=리오]あ、[wa:830]貴方はもう少し、[wa:1390]先生としての自覚を持ちなさい。[/log]"
-2004106-98 = "― [log=리오]É [wa:1440]irracional perder [wa:360]tempo com algo assim. [/registro]"
-
-2004106-101 = "― [log=리오]Você tem outro trabalho [wa:440] mais importante, certo? [/registro]"
-
-2004106-104 = "[ns3] \"Proteger a vida dos estudantes também é um trabalho importante.\"\n[ns4] \"Meu trabalho agora é cuidar do Rio. \""
-
+2004106-98 = "― [log=리오]こんなことで[wa:360]時間を浪費するなんて[wa:1440]非合理的よ。[/log]"
+2004106-101 = "― [log=리오]他にもっと[wa:440]重要な仕事があるでしょう？[/log]"
+2004106-104 = "[ns3] \"生徒の生活を守ることも、大事な仕事だよ。\"\n[ns4] \"今の私の仕事は、リオの「お世話」だからね。\""
 2004106-107 = "[wa:570]― [log=리오]ッ……！[wa:770]な、[wa:960]なにを……[/log]"
-2004106-109 = "― [log=리오]Meu [wa:1300] \"se cuida\"...! ? [/registro]"
-
+2004106-109 = "― [log=리오]私の[wa:1300]「お世話」……！？[/log]"
 2004106-112 = "[wa:1120]― [log=리오]り……[wa:590]理解に苦しむわ……[wa:1900]でも……[/log]"
-2004106-114 = "― [log=리오]...Você era [wa:2330] esse tipo de pessoa. [/registro]"
-
+2004106-114 = "― [log=리오]……貴方は、[wa:2330]そういう人だったわね。[/log]"
 2004106-117 = "[wa:2120]― [log=리오]……分かったわ。[/log]"
-2004106-119 = "― [log=리오]Vamos aceitar isso até o fim. [/registro]"
-
-2004106-122 = "― [log=리오]Você faz... [wa:1930] ``Cuidar'' das coisas. [/registro]"
-
-2004106-128 = "...Isso é \"limpeza\"."
-
-2004106-129 = "Se você é um verdadeiro amante da beleza, não diria que ainda é perfeito?"
-
-2004106-130 = "É verdade que sobraram toneladas de sacos de lixo."
-
-2004106-131 = "...Toki certamente jogou fora corretamente."
-
-2004106-132 = "Você também passa seu tempo em uma sala arrumada como esta."
-
-2004106-133 = "Num sentido geral..."
-
-2004106-134 = "Eu me pergunto se isso é normal?"
-
-2004106-135 = "[s5] \"...Huh?\"\n[s6] (Eu tentei muito...)"
-
-2004106-138 = "Talvez ele tenha dito algo de novo..."
-
-2004106-139 = "O que quer dizer com não precisa se preocupar com isso...?"
-
-2004106-148 = "Por que você virou a cabeça de repente?"
-
-2004106-149 = "……."
-
+2004106-119 = "― [log=리오]最後まで受け止めましょう。[/log]"
+2004106-122 = "― [log=리오]貴方がする……[wa:1930]「お世話」とやらを。[/log]"
+2004106-128 = "……これが「掃除」。"
+2004106-129 = "本物の綺麗好きからしたら、まだ完璧とは言えない、と？"
+2004106-130 = "たしかに、そもそも山積みのゴミ袋が残っているわね。"
+2004106-131 = "……トキはたしかに、ちゃんと捨ててくれていたわね。"
+2004106-132 = "貴方も、こんな片付いた部屋で過ごしてるのね。"
+2004106-133 = "一般的な感覚で言うと……。"
+2004106-134 = "これが普通なのかしら？"
+2004106-135 = "[s5] \"……あれ？\"\n[s6] （かなり頑張ったんだけど……）"
+2004106-138 = "もしかして、また何か言ってしまったかしら……。"
+2004106-139 = "気にする必要はないって、それはどういう……？"
+2004106-148 = "ど、どうして急に頭を？"
+2004106-149 = "……。"
 2004106-150 = "もう少し、このまま……。"
-2004106-153 = "[ns] \"Ok, vamos comer alguma coisa.\""
-
-2004106-154 = "Definitivamente é hora de comer, mas ainda estou com fome..."
-
-2004106-155 = "...Ah, isso mesmo. #nDesde que você limpou o esconderijo, é natural que você sinta fome."
-
-2004106-156 = "Desculpe por não perceber."
-
-2004106-157 = "Porém, sair..."
-
-2004106-158 = "[s7] \"Este é o centro antigo da cidade...\"\n[s8] \"Fica longe do Millennium, então tenho certeza que vai ficar tudo bem.\""
-
-2004106-161 = "...Sim, se o Sensei falar, vamos acreditar."
-
-2004106-162 = "Além disso, obrigado novamente... Obrigado, Sensei."
-
-2004106-163 = "Bem, então――"
-
-2004106-167 = "Yay! ?"
-
-2004106-172 = "(Rio tropeça em uma pilha de sacos de lixo e cai.)"
-
-2004106-173 = "[ns] \"Rio!?\""
-
-2004106-177 = "...Tudo bem. #nObrigado por me proteger imediatamente."
-
-2004106-178 = "[s] \"Você consegue ficar de pé?\""
-
-2004106-179 = "Sim, claro que vou me levantar..."
-
-2004106-180 = "……."
-
-2004106-181 = "Isso, Senseia..."
-
-2004106-182 = "Só mais um pouquinho..."
-
-2004106-187 = "Tudo bem se eu deixar como está?"
-
-2004106-188 = "[s] \"...Tudo bem?\""
-
-2004106-189 = "...Obrigado, Sensei."
-
-2004106-193 = "...Eu realmente aprecio isso."
-
-2004106-195 = "(Por algum motivo, depois de jantar com o Rio, que estava mais estranho que o normal)"
-
-2004106-196 = "(retorna à placa de Petri)"
-
+2004106-153 = "[ns] \"よし、何か食べにいこう。\""
+2004106-154 = "たしかに食事の時間ではあるのだけれど、まだお腹は……。"
+2004106-155 = "……ああ、そうね。#nアジトの片付けをしてくれたのだから、貴方は空腹になって当然だわ。"
+2004106-156 = "気づけなくてごめんなさい。"
+2004106-157 = "けれど、外に出かけるのは……。"
+2004106-158 = "[s7] \"ここは旧都心だし……。\"\n[s8] \"ミレニアムから離れてるから大丈夫だよ、きっと。\""
+2004106-161 = "……ええ、先生が言うのなら信じましょう。"
+2004106-162 = "それと、あらためてお礼を……ありがとう、先生。"
+2004106-163 = "じゃあ――"
+2004106-167 = "きゃっ！？"
+2004106-172 = "（リオがゴミ袋の山につまづいて転んでしまった）"
+2004106-173 = "[ns] \"リオ！？\""
+2004106-177 = "……だ、大丈夫よ。#n貴方が咄嗟にかばってくれたおかげね。"
+2004106-178 = "[s] \"立てる？\""
+2004106-179 = "ええ、もちろん立てるわ……。"
+2004106-180 = "……。"
+2004106-181 = "その、先生……。"
+2004106-182 = "少し、もう少しだけ……。"
+2004106-187 = "このままでも、良いかしら？"
+2004106-188 = "[s] \"……良いよ？\""
+2004106-189 = "……ありがとう、先生。"
+2004106-193 = "……本当に、感謝するわ。"
+2004106-195 = "（なぜか、いつもよりぎこちないリオと夕飯を食べてから）"
+2004106-196 = "（シャーレに戻った）"

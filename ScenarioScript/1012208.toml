@@ -1,178 +1,92 @@
 [translation]
-1012208-1 = "Para mim algum dia"
-
-1012208-2 = "[ns] \"Talvez por aqui...\""
-
-1012208-4 = "Sensei ~ Aqui, aqui!"
-
-1012208-5 = "Haha, obrigado por ser tão repentino!"
-
-1012208-6 = "Eu realmente queria que você visse..."
-
-1012208-7 = "[s] \"Estou muito curioso.\""
-
-1012208-8 = "É uma pequena caminhada, mas acho que está tudo bem."
-
-1012208-9 = "É um pouco longe daqui."
-
-1012208-10 = "Você gosta de caminhar à noite?"
-
-1012208-11 = "Hehe, bom."
-
-1012208-12 = "bem……."
-
-1012208-17 = "Vamos?"
-
-1012208-19 = "(Depois dei um passeio na praia à noite com Mika.)"
-
-1012208-22 = "Ah, agora que penso nisso..."
-
-1012208-23 = "……."
-
-1012208-24 = "Desculpe por incomodar você outro dia."
-
-1012208-25 = "[s] \"Sim?\""
-
-1012208-26 = "Eu adormeci, certo? #nEntão... eu fiz ela me carregar nas costas para o meu quarto..."
-
-1012208-27 = "[s1] \"Não se preocupe. Foi um pouco difícil.\"\n[s2] \"Foi leve como uma pena. Está tudo bem.\""
-
-1012208-28 = "Ah, isso é mentira!"
-
-1012208-29 = "É pesado... talvez...?"
-
-1012208-30 = "O que, você está brincando?"
-
-1012208-31 = "Muito estúpido! Eu acreditei!"
-
-1012208-32 = "...Bem, foi minha culpa por dormir."
-
-1012208-33 = "Huh? Realmente?"
-
-1012208-34 = "Oh, eu vejo. Tudo bem se fosse mais leve..."
-
-1012208-35 = "Ah, não... não é isso..."
-
-1012208-36 = "Suspiro... desculpe."
-
-1012208-37 = "Eu causei problemas para o Sensei novamente."
-
-1012208-38 = "Você vai me perdoar...? #nE...se você não imitar mais os adultos?"
-
-1012208-39 = "Sim...não farei isso de novo."
-
-1012208-40 = "Mesmo que você não se force a fazer isso..."
-
-1012208-41 = "Você me ensinou que basta ser honesto."
-
-1012208-42 = "[ns] \"Você já está se sentindo revigorado?\""
-
-1012208-44 = "Hmm, eu me pergunto...?"
-
-1012208-45 = "Tenho pensado nisso desde então..."
-
-1012208-49 = "Ah, estou quase lá."
-
-1012208-50 = "Porque está bem aí."
-
-1012208-51 = "Aqui, aqui…!"
-
-1012208-57 = "[ns] \"Incrível...!!\""
-
-1012208-58 = "Certo?"
-
-1012208-59 = "Acontece que eu o encontrei quando estava andando sozinho!"
-
-1012208-60 = "Essa é uma vista incrível☆"
-
-1012208-61 = "Hehe, que bom que a Senseia também viu."
-
-1012208-62 = "rapidamente! Senta aqui, senta!"
-
-1012208-70 = "Suspirar..."
-
-1012208-71 = "Se você fizer isso, suas preocupações irão embora."
-
-1012208-72 = "um……."
-
-1012208-73 = "Ei, Sensei! Lá...!"
-
-1012208-74 = "[ns] \"Isso é...!?\""
-
-1012208-79 = "Uau... tantas estrelas cadentes..."
-
-1012208-80 = "Realmente lindo..."
-
-1012208-81 = "[ns] \"Obrigado, Mika.\""
-
-1012208-82 = "Huh? ?"
-
-1012208-83 = "[ns3] \"Obrigado a Mika――\"\n[ns4] \"Porque pudemos ver um cenário tão maravilhoso.\""
-
-1012208-86 = "……."
-
+1012208-1 = "いつかの私へ"
+1012208-2 = "[ns] \"この辺りかな……。\""
+1012208-4 = "先生～こっちこっち！"
+1012208-5 = "あはは、急だったのにありがとう！"
+1012208-6 = "どうしても、見てほしかったんだ……。"
+1012208-7 = "[s] \"すごく気になってきたよ。\""
+1012208-8 = "ちょっと歩くけど、平気かな。"
+1012208-9 = "ここから少し離れてるんだよね。"
+1012208-10 = "夜の散歩、好き？"
+1012208-11 = "へへ、よかった。"
+1012208-12 = "じゃ……。"
+1012208-17 = "行こっか。"
+1012208-19 = "（そうして、ミカと一緒に夜の浜辺を散歩した）"
+1012208-22 = "あ、そういえば……。"
+1012208-23 = "……。"
+1012208-24 = "この前は迷惑かけちゃってごめんね。"
+1012208-25 = "[s] \"うん？\""
+1012208-26 = "私、寝ちゃったでしょ？#nそれでその……部屋までおんぶ……してもらっちゃって……。"
+1012208-27 = "[s1] \"気にしないで。ちょっと大変だったけど。\"\n[s2] \"羽みたいに軽かったよ。大丈夫。\""
+1012208-28 = "えっ、嘘！"
+1012208-29 = "重かっ……たかな……？"
+1012208-30 = "え、冗談？"
+1012208-31 = "も～バカバカ！信じちゃったじゃん！"
+1012208-32 = "……まあ、寝た私が悪いんだけど。"
+1012208-33 = "えっ、ほ、ほんとに？"
+1012208-34 = "そ、そっか。軽かったなら、いいけど……。"
+1012208-35 = "あ、いや……そうじゃなくて……。"
+1012208-36 = "はぁ……ごめんね。"
+1012208-37 = "また先生に、迷惑かけちゃった。"
+1012208-38 = "許してくれるの……？#nえ……もう大人の真似をしないなら？"
+1012208-39 = "はい……もうしません。"
+1012208-40 = "無理にあんなことしなくても――"
+1012208-41 = "素直に話せばいいって、教えてもらったからね。"
+1012208-42 = "[ns] \"もうすっきりした？\""
+1012208-44 = "うーん、どうなんだろ……？"
+1012208-45 = "あの後もずっと考えてるけど……。"
+1012208-49 = "あ、もう着くよ。"
+1012208-50 = "すぐそこだから。"
+1012208-51 = "こっちこっち……！"
+1012208-57 = "[ns] \"すごい……！！\""
+1012208-58 = "でしょ～？"
+1012208-59 = "一人で散歩してたら、たまたま見つけちゃったの！"
+1012208-60 = "すっごい景色だよね☆"
+1012208-61 = "ふふっ、先生にも見てもらえてよかった。"
+1012208-62 = "早く！ここ座って座って！"
+1012208-70 = "はぁ……。"
+1012208-71 = "こうしてると、悩み事もどこか飛んでいっちゃうね。"
+1012208-72 = "あ……。"
+1012208-73 = "せ、先生！あっち……！"
+1012208-74 = "[ns] \"あれは……！？\""
+1012208-79 = "うわあ……流れ星があんなに……。"
+1012208-80 = "本当に、綺麗……。"
+1012208-81 = "[ns] \"ありがとね、ミカ。\""
+1012208-82 = "えっ？？"
+1012208-83 = "[ns3] \"ミカのおかげで――\"\n[ns4] \"こんなに素敵な景色が見られたから。\""
+1012208-86 = "……。"
 1012208-89 = "[wa:860]― [log=미카 수영복]ねぇ、[wa:570]先生。[/log]"
-1012208-91 = "― [log=미카 수영복]Eu...[wa:2620]Fiquei [wa:1980] feliz em ver esse cenário com o [wa:1030] Sensei [wa:680]. [/registro]"
-
+1012208-91 = "― [log=미카 수영복]私……[wa:2620]この景色を[wa:1030]先生と[wa:680]見られて[wa:1980]よかった。[/log]"
 1012208-94 = "[wa:2060]― [log=미카 수영복]心配事も――[/log]"
-1012208-96 = "― [log=미카 수영복]Preocupações futuras também――[wa:80] [/log]"
-
-1012208-99 = "― [log=미카 수영복] Ansiedade também - [wa:2250] Ainda resta [wa:1630]. [/registro]"
-
+1012208-96 = "― [log=미카 수영복]将来の悩みも――[wa:80] [/log]"
+1012208-99 = "― [log=미카 수영복]不安も――[wa:2250]まだ、[wa:1630]残ってる。[/log]"
 1012208-102 = "[wa:550]― [log=미카 수영복]でも……。[/log]"
-1012208-104 = "― [log=미카 수영복]Eu gostaria de poder ver um céu estrelado como este [wa:1090]. [/registro]"
-
-1012208-107 = "― [log=미카 수영복]...Acho que é tudo [wa:1630]pequeno[wa:720][wa:1610]. [/registro]"
-
-1012208-109 = "― [log=미카 수영복]É assim que me sinto. [/registro]"
-
+1012208-104 = "― [log=미카 수영복]こんな星空を[wa:1090]見ちゃったらさ。[/log]"
+1012208-107 = "― [log=미카 수영복]……全部、[wa:1630]ちっぽけな[wa:720]ことなんじゃないかな[wa:1610]って。[/log]"
+1012208-109 = "― [log=미카 수영복]そんな気がするんだ。[/log]"
 1012208-112 = "[wa:920]― [log=미카 수영복]先生、[wa:1400]言ってくれたよね。[/log]"
-1012208-115 = "― [log=미카 수영복]Agora, [wa:1850]neste momento, [wa:3560]de agora em diante, [wa:1000]para sempre [wa:1030]... [/log]"
-
-1012208-117 = "― [log=미카 수영복]Você me apoia, [wa:2230]. [/registro]"
-
+1012208-115 = "― [log=미카 수영복]今、[wa:1850]この瞬間が、[wa:3560]これからも[wa:1000]ずっ[wa:1030]と……。[/log]"
+1012208-117 = "― [log=미카 수영복]私を支えてくれる、[wa:2230]って。[/log]"
 1012208-120 = "[wa:530]― [log=미카 수영복]だから……。[/log]"
-1012208-122 = "― [log=미카 수영복]Eu também ficarei [wa:2930] feliz. [/registro]"
-
-1012208-126 = "……."
-
-1012208-127 = "Eu-eu disse isso..."
-
-1012208-128 = "[ns] \"Mika ficará feliz.\""
-
-1012208-132 = "[ns] \"Acredito que sim.\""
-
-1012208-133 = "Ah, é isso..."
-
-1012208-134 = "Sensei...você sempre vai falar coisas constrangedoras..."
-
-1012208-139 = "Obrigado."
-
-1012208-140 = "Eu ficarei feliz."
-
-1012208-141 = "Então, eu ficaria feliz se você pudesse me ajudar?"
-
-1012208-142 = "[s5] \"Sim, claro.\"\n[s6] \"Estarei sempre cuidando de você.\""
-
-1012208-145 = "Haha, diga isso de novo com uma cara séria☆"
-
-1012208-146 = "……."
-
-1012208-150 = "O Sensei pode ser um pouco estranho, mas é gentil."
-
-1012208-154 = "Ah, que bom que vim com você, Sensei."
-
-1012208-159 = "Se eu ficar aqui para sempre, vou me tornar uma garota má..."
-
-1012208-160 = "Vamos logo ☆"
-
-1012208-164 = "[ns] \"Hmm? Agora...\""
-
-1012208-165 = "Ahaha, apresse-se e vá para casa ☆"
-
-1012208-167 = "(Voltei pela praia com Mika)"
-
-1012208-173 = "(Mesmo no caminho para casa, Mika estava sorrindo e se divertindo...)"
-
-1012208-174 = "(Ele parecia um pouco feliz)"
-
+1012208-122 = "― [log=미카 수영복]私も、[wa:2930]幸せになるよ。[/log]"
+1012208-126 = "……。"
+1012208-127 = "い、言っちゃったよお～……。"
+1012208-128 = "[ns] \"ミカは、幸せになれるよ。\""
+1012208-132 = "[ns] \"そう信じてる。\""
+1012208-133 = "そ、そんな……。"
+1012208-134 = "先生……すぐ恥ずかしいこと言うんだから……。"
+1012208-139 = "ありがとね。"
+1012208-140 = "私、幸せになるよ。"
+1012208-141 = "だから、手伝ってくれると……嬉しいな？"
+1012208-142 = "[s5] \"うん、もちろん。\"\n[s6] \"ずっと、いつだって見守ってるよ。\""
+1012208-145 = "あはは、また真顔でそんなこと言って☆"
+1012208-146 = "……。"
+1012208-150 = "先生は、ちょっと変なとこもあるけど……優しいよね。"
+1012208-154 = "ああ～、先生と来れてよかった。"
+1012208-159 = "ずっとここにいたら、悪い子になっちゃうし……。"
+1012208-160 = "そろそろ行こっか☆"
+1012208-164 = "[ns] \"ん？今なんて……。\""
+1012208-165 = "あははっ、早く帰ろ☆"
+1012208-167 = "（ミカと一緒に浜辺を歩いて帰った）"
+1012208-173 = "（帰り道も、ミカはずっと笑顔ではしゃいでいて――）"
+1012208-174 = "（少しだけ、幸せそうに見えた）"

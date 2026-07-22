@@ -1,139 +1,73 @@
 [translation]
-1013806-1 = "fita pequena"
-
-1013806-2 = "(naquela tarde)"
-
-1013806-3 = "(Ele pegou os itens solicitados e um crepe de chocolate e banana e foi para a sala do grupo de pesquisa ocultista.)"
-
-1013806-6 = "Bem-vindo. Sensei."
-
-1013806-7 = "Os idosos vão chegar um pouco atrasados."
-
-1013806-8 = "De qualquer forma, eles estão fazendo algo como “Encontre o ocultismo oculto” novamente."
-
-1013806-9 = "[s] \"Lena não foi com você?\""
-
-1013806-10 = "Eu queria fazer meu próprio trabalho enquanto meus idosos estivessem fora."
-
-1013806-11 = "No entanto, a loja está temporariamente fechada...suspiro."
-
-1013806-12 = "Realmente não há pessoas decentes nesta academia... Será que poderei fazer isso aqui por três anos corretamente?"
-
-1013806-13 = "[s] \"Aqui, coma esse crepe de chocolate e banana e anime-se!\""
-
-1013806-14 = "eu disse ok..."
-
-1013806-15 = "Bem... obrigado."
-
-1013806-20 = "Isto é delicioso...! onde você comprou?"
-
-1013806-21 = "[s] \"Na verdade, eu consegui.\""
-
-1013806-22 = "Huh! ? Ah, isso mesmo! ?"
-
-1013806-23 = "[s] \"Você gostou? Está delicioso?\""
-
-1013806-24 = "Bem, bem..."
-
-1013806-25 = "……."
-
-1013806-26 = "Na verdade... pode ser delicioso..."
-
-1013806-27 = "Shhh! Não me faça dizer mais isso, idiota!"
-
-1013806-33 = "(Lena disse que, mesmo estando com raiva, ela terminou de comer.)"
-
-1013806-35 = "Ufa... terminei de repor minha ingestão de açúcar, então acho que vou continuar."
-
-1013806-36 = "[s1] \"Você faz acessórios, certo?\"\n[s2] \"O que você faz?\""
-
-1013806-39 = "É um grampo de fita."
-
-1013806-40 = "[s3] \"A propósito, Lena usa muitas fitas.\"\n[s4] \"Você gosta de fitas?\""
-
-1013806-43 = "Hmm... eu gosto, ou melhor..."
-
-1013806-44 = "No começo eu estava colocando de alguma forma, mas quando percebi começou a aumentar."
-
-1013806-45 = "Hoje em dia fico nervoso se não uso o tempo todo..."
-
-1013806-46 = "[s5] \"Então é como um talismã para Lena?\"\n[s6] \"Afinal, é um grupo de pesquisa ocultista.\""
-
-1013806-49 = "Shhh! ! Não!"
-
-1013806-50 = "Não é mesmo! ! Só moda! !"
-
-1013806-51 = "[s] \"São tantos, você ainda os faz?\""
-
-1013806-52 = "Muitas vezes eu os deixo cair. Então pensei em fazer um backup."
-
-1013806-53 = "De qualquer forma, vou começar a trabalhar nisso agora. E se os Senseies voltarem ao trabalho?"
-
-1013806-54 = "Você veio aqui hoje para trabalhar, certo?"
-
-1013806-55 = "[s7] \"Está tudo bem, ainda temos tempo.\"\n[s8] \"Posso ver Lena fazer a fita?\""
-
-1013806-58 = "……sim?"
-
-1013806-59 = "Mas não acho muito interessante assistir, e você?"
-
-1013806-60 = "Se estiver tudo bem..."
-
-1013806-64 = "Bem, eu realmente não me importo."
-
-1013806-65 = "Mas não me perturbe, ok?"
-
+1013806-1 = "小さなリボン"
+1013806-2 = "（その日の午後）"
+1013806-3 = "（お願いされた物とチョコバナナクレープを持ってオカルト研究会の部屋へ向かった）"
+1013806-6 = "あ、いらっしゃい。先生。"
+1013806-7 = "先輩たちはちょっと遅れるって。"
+1013806-8 = "どうせまた「隠されしオカルトを探せ」とか言ってなんかやってるんでしょ。"
+1013806-9 = "[s] \"レナは一緒に行かなかったんだ？\""
+1013806-10 = "先輩たちが居ない間に自分の作業をしとこうと思って。"
+1013806-11 = "にしても、お店が臨時休業だなんて……はぁ。"
+1013806-12 = "ホントこの学院にはまともな人間が居ないんだから……ここでちゃんと3年やってけるのかしら？"
+1013806-13 = "[s] \"ほら、このチョコバナナクレープでも食べて元気出して！\""
+1013806-14 = "いいって言ったのに……。"
+1013806-15 = "まあ……ありがと。"
+1013806-20 = "これ、美味しい……！どこで買ったの？"
+1013806-21 = "[s] \"実は私が作ったんだ。\""
+1013806-22 = "えっ！？そ、そうなの！？"
+1013806-23 = "[s] \"どう？美味しい？\""
+1013806-24 = "ま、まあ……。"
+1013806-25 = "……。"
+1013806-26 = "たしかに……美味しい……かも。"
+1013806-27 = "シャーッ！もう、言わせないでバカ！"
+1013806-33 = "（そう言ってレナは怒りながらも、食べきってくれた）"
+1013806-35 = "ふぅ……糖分補給も済んだし、続けようかな。"
+1013806-36 = "[s1] \"アクセサリーを作るんだよね？\"\n[s2] \"何を作るの？\""
+1013806-39 = "リボンのヘアピンよ。"
+1013806-40 = "[s3] \"そういやレナはたくさんリボンをつけてるよね。\"\n[s4] \"リボンが好きなんだ？\""
+1013806-43 = "んー……好き、というか……。"
+1013806-44 = "最初はなんとなくつけてたけど、気がついたら増えてた感じ。"
+1013806-45 = "今はもうなんか、いっぱい付けていないとソワソワするっていうか……。"
+1013806-46 = "[s5] \"レナにとってのお守りみたいなものってこと？\"\n[s6] \"やっぱり根はオカルト研究会なんだね。\""
+1013806-49 = "シャーッ！！違うわよ！"
+1013806-50 = "そういうんじゃないの！！ただのファッション！！"
+1013806-51 = "[s] \"そんなにあるのに、まだ作るの？\""
+1013806-52 = "よく落としちゃうんだよね。だから予備を作っておこうかなって。"
+1013806-53 = "とにかく、これから作業に入るわ。先生も仕事に戻ったら？"
+1013806-54 = "今日ここに来たのも仕事だったんでしょ？"
+1013806-55 = "[s7] \"まだ時間はあるから大丈夫だよ。\"\n[s8] \"レナがリボン作るの見ててもいい？\""
+1013806-58 = "……そう？"
+1013806-59 = "で、でもこれ見ててもあんまり面白くないと思うよ？"
+1013806-60 = "それでもいいなら……。"
+1013806-64 = "べ、別にいいけど。"
+1013806-65 = "でも、邪魔はしないでね？"
 1013806-68 = "[wa:1650]― [log=레나]私ね、[wa:1430]小さい頃から[wa:980]手先が器用だったの。[/log]"
-1013806-70 = "- [log=레나]Eu costumava fazer fitas e dar para [wa:1870]amigos. [/registro]"
-
+1013806-70 = "― [log=레나]リボンとかを作って、[wa:1870]友達にあげたりしてた。[/log]"
 1013806-73 = "[wa:1150]― [log=레나]みんなが喜んでくれると[wa:1380]嬉しくって。[/log]"
-1013806-75 = "― [log=레나]...Foi quando eu percebi isso. [/registro]"
-
-1013806-78 = "― [log=레나]Mesmo algo tão pequeno quanto isso[/log]"
-
-1013806-80 = "― [log=레나]Você pode fazer alguém feliz, [wa:2230]. [/registro]"
-
+1013806-75 = "― [log=레나]……それで気づいたんだ。[/log]"
+1013806-78 = "― [log=레나]こんな小さなものでも、[/log]"
+1013806-80 = "― [log=레나]誰かを喜ばせることができるんだ、[wa:2230]って。[/log]"
 1013806-83 = "[wa:1140]― [log=레나]だから[wa:1120]ファッションデザイナーを目指すようになったんだ。[/log]"
-1013806-86 = "― [log=레나]Roupas que eu mesmo desenhei, [wa:1670]Acessórios, etc.[/log]"
-
-1013806-88 = "― [log=레나]Se todos gostarem, [wa:1840]Fico feliz também. [/registro]"
-
+1013806-86 = "― [log=레나]自分でデザインした服とか[wa:1670]アクセサリーとか、[/log]"
+1013806-88 = "― [log=레나]みんなが楽しんでくれると[wa:1840]私も嬉しいから。[/log]"
 1013806-91 = "[wa:710]― [log=레나]そういうの、[wa:1160]先生もなんとなく分かるでしょ？[/log]"
-1013806-93 = "― [log=레나]Por causa disso, [wa:820]Eu acho que [wa:1410] que ele cuidou de mim assim. [/registro]"
-
+1013806-93 = "― [log=레나]それもあって、[wa:820]こうやって気を使ってくれたんだと[wa:1410]思ってるし。[/log]"
 1013806-96 = "[wa:520]― [log=레나]え……？[/log]"
-1013806-98 = "― [log=레나]Como foi [wa:700] hoje [wa:1010]...? [/registro]"
-
+1013806-98 = "― [log=레나]今日[wa:700]どうだったか[wa:1010]って……？[/log]"
 1013806-101 = "[wa:680]― [log=레나]シャーッ！[wa:940]い、[wa:280]言わせないでよ！[wa:980]バカ先生！[/log]"
-1013806-104 = "(Tivemos muitas conversas com Lena que fazia fitas)"
-
-1013806-110 = "Ah... já faz tanto tempo."
-
-1013806-111 = "Sensei. Não seria melhor ir agora?"
-
-1013806-112 = "[s] \"Sim, acho que é hora de ir.\""
-
-1013806-113 = "Sim. Boa sorte com seu trabalho."
-
-1013806-114 = "Sim, antes disso..."
-
-1013806-118 = "Venha aqui por um momento."
-
-1013806-123 = "Hehe, combina com você!"
-
-1013806-124 = "Eu vou te dar isso."
-
-1013806-125 = "[s9] \"Você está bem? Obrigado!\"\n[s10] \"Continue assim enquanto trabalha!\""
-
-1013806-128 = "peido......? Não há necessidade de ir tão longe..."
-
-1013806-129 = "[s] \"É a primeira fita que Lena me deu.\""
-
-1013806-130 = "...!"
-
-1013806-131 = "Se você gosta!"
-
-1013806-133 = "(Pensando em Lena parecendo feliz...)"
-
-1013806-134 = "(Ele trabalhou duro enquanto usava uma fita.)"
-
+1013806-104 = "（リボンを作るレナといろんな話に花を咲かせた）"
+1013806-110 = "あ……もうこんな時間。"
+1013806-111 = "先生。そろそろ行った方がいいんじゃない？"
+1013806-112 = "[s] \"そうだね、そろそろ行こうかな。\""
+1013806-113 = "うん。仕事頑張ってね。"
+1013806-114 = "そうだ、その前に――"
+1013806-118 = "ちょっとこっち来て。"
+1013806-123 = "ふふ、似合うじゃん！"
+1013806-124 = "それあげる。"
+1013806-125 = "[s9] \"いいの？ありがとう！\"\n[s10] \"仕事中もずっとつけてるね！\""
+1013806-128 = "へ……？別にそこまでする必要は……。"
+1013806-129 = "[s] \"レナがくれた初めてのリボンだからね。\""
+1013806-130 = "……！"
+1013806-131 = "す、好きにしたら！"
+1013806-133 = "（嬉しそうにしていたレナを思い浮かべながら……）"
+1013806-134 = "（リボンをつけて仕事に励んだ）"

@@ -1,200 +1,105 @@
 [translation]
-1007706-1 = "por um tempo"
-
-1007706-3 = "(Fui para o parque no horário combinado.)"
-
-1007706-4 = "Ah... é o Sensei."
-
-1007706-5 = "Eu nunca esperei que isso acontecesse nesse momento..."
-
-1007706-6 = "[s1] \"Essa voz é... Ichika?\"\n[s2] \"Parece uma voz vindo de cima...?\""
-
-1007706-9 = "mãe! Sensei, suba! acima!"
-
-1007706-10 = "Aguarde, estou processando..."
-
-1007706-11 = "Se você pegar isso, eu desço imediatamente!"
-
-1007706-13 = "Bom... sim."
-
+1007706-1 = "しばらくは"
+1007706-3 = "（約束の時間に合わせて、公園に向かった）"
+1007706-4 = "あっ……先生だ。"
+1007706-5 = "まさか、このタイミングで来ちゃうなんて……"
+1007706-6 = "[s1] \"この声は……イチカ？\"\n[s2] \"上から声がするような……？\""
+1007706-9 = "はは！先生、上っすよ！上！"
+1007706-10 = "待ってくださいね、今ちょっと取り込み中で……"
+1007706-11 = "これ取ったら、すぐ降りるんで！"
+1007706-13 = "よいっ……しょ。"
 1007706-16 = "[wa:200]― [log=이치카]はは！[wa:1000]先生、[wa:700]こっちっす！[wa:900]こっち！[/log]"
-1007706-18 = "- [log=이치카]Você consegue ver? [/registro]"
-
-1007706-21 = "- [log=이치카]Ah-[wa:1000]Isso é apenas um [wa:800]balão... [/log]"
-
+1007706-18 = "― [log=이치카]見えるっすか？[/log]"
+1007706-21 = "― [log=이치카]あ―[wa:1000]これはただの[wa:800]風船っすけど……。[/log]"
 1007706-24 = "[wa:800]― [log=이치카]なんだか、[wa:900]コレ持ってると[/log]"
 1007706-26 = "[wa:100]― [log=이치카]遊園地ではしゃぐ[wa:800]子供みたいに見えちゃうっすね……[wa:1800]はは。[/log]"
-1007706-29 = "― [log=이치카]Ah! [wa:600]Não é meu! [/registro]"
-
-1007706-31 = "― [log=이치카]...Bem, [wa:900] simplesmente aconteceu, [wa:1200] um pouco. [/registro]"
-
-1007706-34 = "[ns3] \"Alguém está com problemas, certo?\"\n[ns4] \"Você está ajudando alguém?\""
-
+1007706-29 = "― [log=이치카]あ！[wa:600]私のじゃないっすよ！[/log]"
+1007706-31 = "― [log=이치카]……その、[wa:900]成り行きで、[wa:1200]ちょっと。[/log]"
+1007706-34 = "[ns3] \"誰かが困ってるんだよね？\"\n[ns4] \"人助け中？\""
 1007706-35 = "[wa:100]― [log=이치카]あ、[wa:500]あれっ……[wa:900]そうなんすけど……[/log]"
 1007706-36 = "[wa:100]― [log=이치카]あ、[wa:500]あれっ……[wa:900]そうなんすけど……[/log]"
 1007706-38 = "[wa:100]― [log=이치카]どうして分かるんすか？[/log]"
-1007706-41 = "- [log=이치카]Por que...? [/registro]"
-
-1007706-43 = "- [log=이치카] Isso apareceu no seu rosto...? [/registro]"
-
+1007706-41 = "― [log=이치카]なんでだろ……？[/log]"
+1007706-43 = "― [log=이치카]顔に出ちゃってたとか……？[/log]"
 1007706-46 = "[wa:800]― [log=이치카]まぁいいや……[/log]"
-1007706-48 = "― [log=이치카]Esta é a primeira vez [wa:1800] que vejo o Sensei deste ângulo. [/registro]"
-
-1007706-51 = "― [log=이치카]Se o ponto de vista for diferente,[/log]"
-
-1007706-53 = "― [log=이치카]Parece diferente [wa:1100]Eu sinto que...[/log]"
-
+1007706-48 = "― [log=이치카]この角度から先生を見るのは、[wa:1800]初めてっすね。[/log]"
+1007706-51 = "― [log=이치카]視点が違うと、[/log]"
+1007706-53 = "― [log=이치카]見え方も違ってくる[wa:1100]気がするというか……[/log]"
 1007706-56 = "[wa:1300]― [log=이치카]……なんだか、[wa:400]面白いっす。[/log]"
-1007706-58 = "― [log=이치카]Gosto dessa sensação, [wa:1000]! [wa:1000]...Haha! [/registro]"
-
-1007706-61 = "(Ichika pulou da árvore, acenou levemente com a cabeça e correu para algum lugar.)"
-
-1007706-62 = "(Quando Ichika voltou um pouco depois, o balão havia desaparecido de sua mão.)"
-
-1007706-64 = "Ha, ha... estou em casa!"
-
-1007706-65 = "No entanto, você chegou mais cedo. #nSinto muito por fazer você esperar."
-
-1007706-66 = "A criança largou o balão de antes e ele ficou preso em uma árvore."
-
-1007706-67 = "A criança tentou subir na árvore, mas era perigoso, então pedi para ele esperar no banco e fui pegar para ele."
-
-1007706-68 = "……sim?"
-
-1007706-69 = "Incrível...?"
-
-1007706-70 = "Ah, aquela árvore é muito alta."
-
-1007706-71 = "A Senseia é muito boa em elogiar até as árvores!"
-
-1007706-72 = "Quero poder ser elogiado tão facilmente."
-
-1007706-73 = "Mas as palavras simplesmente não saem tão facilmente."
-
-1007706-74 = "[s5] \"Eu não estava falando sobre a altura da árvore...\"\n[s6] \"Eu estava elogiando Ichika...\""
-
-1007706-77 = "Meu...?"
-
-1007706-78 = "……sim?"
-
-1007706-79 = "Claro que é incrível ajudar as pessoas...?"
-
-1007706-80 = "Bem... não me sinto mal por ser elogiado!"
-
-1007706-81 = "...Bem, vou aceitar isso como esperado. #nObrigado, senhor."
-
-1007706-82 = "...Hehe."
-
-1007706-83 = "Então... humm."
-
-1007706-84 = "Esta é a razão pela qual entrei em contato com você..."
-
-1007706-85 = "Bem, eu o encontrei algumas vezes, então talvez ele esteja ciente disso."
-
-1007706-86 = "A questão é..."
-
-1007706-87 = "Hmm... eu me pergunto como você explicou isso."
-
-1007706-88 = "[s7] \"Você quer levar alguma coisa a sério, certo?\"\n[s8] \"Você quer encontrar algo pelo qual seja apaixonado, certo?\""
-
-1007706-94 = "……mãe."
-
-1007706-95 = "Afinal, eu percebi isso..."
-
-1007706-96 = "Bem... de alguma forma eu emitia esse tipo de atmosfera, então é natural."
-
-1007706-97 = "...Isso mesmo, você está certo. #nEntão, pensei que talvez algo mudasse se eu falasse com meu Sensei."
-
-1007706-100 = "Meus Senseies e os membros do Comitê de Realização da Justiça sempre me elogiam..."
-
-1007706-104 = "Sinto ciúme quando vejo outras pessoas apaixonadas por alguma coisa ou imersas em alguma coisa."
-
-1007706-106 = "...Mesmo que haja tantas coisas que você possa fazer, se não há nada que você queira fazer, não adianta fazer."
-
-1007706-107 = "Pessoas que são apaixonadas pelo que amam brilham muito mais."
-
-1007706-108 = "...Mas se eu contasse isso para outras pessoas, seria visto como sarcasmo, então eu só poderia contar para minha Senseia..."
-
-1007706-113 = "Parece que..."
-
-1007706-114 = "Tenho certeza que você percebeu... mas é a primeira vez que você fala assim comigo."
-
-1007706-115 = "Afinal, sou um aluno difícil."
-
-1007706-116 = "É verdade que confiei em você porque você é meu Sensei, mas isso não significa que não dependo dos outros."
-
-1007706-117 = "Porém, achei melhor consultar um Sensei sobre esse tipo de conteúdo."
-
-1007706-118 = "Claro... haha. Achei que você diria isso."
-
-1007706-119 = "Ok, então..."
-
-1007706-120 = "Por favor, me dê alguns conselhos!"
-
-1007706-121 = "Você tem conversado comigo até agora e não sei do que está falando..."
-
-1007706-122 = "...Há algo que me sirva?"
-
-1007706-123 = "Achei que a Senseia iria entender..."
-
-1007706-124 = "...Acho que tudo aconteceu do nada."
-
-1007706-125 = "……sim?"
-
-1007706-126 = "Eu sei, mas não posso dizer isso agora...?"
-
-1007706-127 = "Hum..."
-
-1007706-128 = "O que isso significa?"
-
-1007706-129 = "……sim?"
-
-1007706-130 = "Há algo que preciso fazer primeiro...?"
-
-1007706-131 = "[s9] \"Vamos parar de fazer isso primeiro.\"\n[s10] \"Vamos ser mais honestos conosco mesmos e fazer o que quisermos.\""
-
-1007706-137 = "...... peido?"
-
-1007706-138 = "Acho que ouvi errado...? #nAgora..."
-
-1007706-139 = "O que significa parar de procurar...?"
-
-1007706-140 = "Talvez seja muito difícil para mim desistir...?"
-
-1007706-141 = "Ah, isso não é verdade... Ainda bem."
-
-1007706-142 = "[s11] \"Não é que Ichika tenha um problema.\"\n[s12] \"Mas não acho que haja necessidade de pressa para encontrá-lo.\""
-
-1007706-145 = "Hum...?"
-
-1007706-146 = "Sinto que entendo... sinto que não entendo."
-
-1007706-147 = "Hum..."
-
-1007706-148 = "...Hehe."
-
-1007706-149 = "……desculpe. #nEu não quero mentir, então vou dizer isso abertamente... ainda não entendi direito."
-
-1007706-150 = "Pessoalmente, pensei que estava sendo honesto sobre meus sentimentos..."
-
+1007706-58 = "― [log=이치카]この感じ、[wa:1000]気に入ったっす！[wa:1000]……はは！[/log]"
+1007706-61 = "（イチカは木から飛び降りると、軽く会釈をしてどこかに走っていった）"
+1007706-62 = "（少しして戻ってきたイチカの手からは、風船が消えていた）"
+1007706-64 = "はぁ、はぁ……ただいまっす！"
+1007706-65 = "にしても、来るの早かったすね。#n待たせちゃって申し訳ないっす。"
+1007706-66 = "さっきの風船、子供が手を離して木に引っかかっちゃって。"
+1007706-67 = "それでその子が木に登ろうとしてたんすけど、危ないんでベンチで待っててもらって代わりに取ってきたんすよ。"
+1007706-68 = "……ん？"
+1007706-69 = "すごいって……？"
+1007706-70 = "ああ、たしかにあの木、すごい高いっすね。"
+1007706-71 = "先生は木まで褒めるなんて、さすがは褒め上手っす！"
+1007706-72 = "これくらいサラッと褒められるように私もなりたいっすよ。"
+1007706-73 = "でも、そう簡単に言葉が出てこないんすよねぇ。"
+1007706-74 = "[s5] \"今の言葉は、木の高さじゃなくて……\"\n[s6] \"イチカを褒めたんだけど……\""
+1007706-77 = "私を、ですか……？"
+1007706-78 = "……ん？"
+1007706-79 = "当然のように人助けをするのがすごいって……？"
+1007706-80 = "ま、まあ……褒められて悪い気はしないっすけど！"
+1007706-81 = "……いや、やっぱここは素直に受け取っておくっす。#nありがとうございます、先生。"
+1007706-82 = "……へへっ。"
+1007706-83 = "それで……えっと。"
+1007706-84 = "連絡した理由なんですが……"
+1007706-85 = "まあその、何度か会ってるので……#nもしかしたら気づいてるのかもしれないんすけど。"
+1007706-86 = "その、要は……"
+1007706-87 = "んー……これをどう説明したもんっすかね。"
+1007706-88 = "[s7] \"何かに本気になりたいんだよね？\"\n[s8] \"夢中になれる何かを見つけたいんだよね？\""
+1007706-94 = "……はは。"
+1007706-95 = "やっぱ、気付いてたっすよね～……"
+1007706-96 = "まあ……私もなんとなくそういう雰囲気を出してたし、当然か。"
+1007706-97 = "……そうっすね、おっしゃる通りっす。#nそれで、先生に相談したら何か変わるんじゃないかなって。"
+1007706-100 = "先生や正義実現委員会の皆さんは、いつも私のことを褒めてくれるっすけど……"
+1007706-104 = "他の人たちが何かに熱中したり、没頭してるところを見ると、羨ましく感じるんすよ。"
+1007706-106 = "……できることがたくさんあったところで、やりたいことがなければ意味がないじゃないっすか。"
+1007706-107 = "自分の好きなことに夢中になってる人の方が、圧倒的に輝いてるっす。"
+1007706-108 = "……でも、こんな話を他の人にしたら嫌味としか思われないんで、先生にしか話せなくて……"
+1007706-113 = "……って感じっす。"
+1007706-114 = "お気づきだとは思いますが……こんな話をするのも、先生が初めてで。"
+1007706-115 = "やっぱ私って、手のかかる生徒っすよね～"
+1007706-116 = "先生だから頼ったのは本当っすけど……#n他の人を頼りにしてないとか、そういう訳ではないっすよ。"
+1007706-117 = "けどこういう内容は、先生に相談するのがピッタリなのかなーとか思って。"
+1007706-118 = "もちろん、って……はは。そう言ってくれると思ったっす。"
+1007706-119 = "よし、それじゃ……"
+1007706-120 = "アドバイスをお願いします！"
+1007706-121 = "今まで私と話してきて、なんとな～くでいいんですが……"
+1007706-122 = "……私に合いそうなものって何がありますか？"
+1007706-123 = "先生なら、分かると思ったんですけど……"
+1007706-124 = "……やっぱ、さすがにいきなりだったっすかね。"
+1007706-125 = "……ん？"
+1007706-126 = "知ってるけど、まだ今は言えない……？"
+1007706-127 = "えっと……"
+1007706-128 = "それはどういう意味っすか？"
+1007706-129 = "……ん？"
+1007706-130 = "先にやるべきことがある……？"
+1007706-131 = "[s9] \"まずは[ruby= ・   ・]探す[/ruby]のをやめてみよう。\"\n[s10] \"もっと自分の気持ちに正直になって、好きなようにしよう。\""
+1007706-137 = "……へ？"
+1007706-138 = "聞き間違い、っすかね……？#n今、なんて……"
+1007706-139 = "探すのをやめるって、どういう……？"
+1007706-140 = "もしかして、私には難しいから諦めた方が……？"
+1007706-141 = "あ、そうではないんすね……良かった。"
+1007706-142 = "[s11] \"イチカに問題があるわけじゃないよ。\"\n[s12] \"ただ、急いで探す必要はないと思うんだ。\""
+1007706-145 = "ん～……？"
+1007706-146 = "なんか、分かりそうな……分からないような。"
+1007706-147 = "ふむ……"
+1007706-148 = "……へへっ。"
+1007706-149 = "……ごめんなさい。#n嘘はつきたくないんで隠さず言うと……まだよく分かってないっす。"
+1007706-150 = "自分的には、もう自分の気持ちに正直だと思ってたんで……"
 1007706-151 = "ま、でも……"
-1007706-152 = "Deve haver uma razão pela qual o Sensei diz isso..."
-
-1007706-153 = "Então, decidi ser um pouco mais honesto sobre meus sentimentos..."
-
-1007706-157 = "...Vou tentar acreditar nas palavras da Senseia."
-
-1007706-158 = "[s13] \"Hmm...?\"\n[s14] \"Como me sinto agora...\""
-
-1007706-161 = "OK! Ocorreu-me que é um dia de sorte."
-
-1007706-162 = "Vamos começar sendo honestos com meus sentimentos!"
-
-1007706-163 = "...É por isso."
-
-1007706-164 = "Por favor, brinque comigo o dia todo hoje!"
-
-1007706-166 = "(Depois disso, fui ao parque de diversões com Ichika)"
-
-1007706-167 = "(A expressão no rosto de Ichika no caminho para casa era um tanto alegre.)"
-
+1007706-152 = "先生がそう言うってことは、きっと理由があるんすよね……"
+1007706-153 = "だから、もう少し自分の気持ちに正直になってみるということで……"
+1007706-157 = "……先生の言葉を信じてみようと思います。"
+1007706-158 = "[s13] \"ん……？\"\n[s14] \"今の感じは……\""
+1007706-161 = "よし！思い立ったが吉日って言うっすもんね。"
+1007706-162 = "始めてみますか、気持ちに正直な私を！"
+1007706-163 = "……というわけで。"
+1007706-164 = "今日は一日中、私と遊んでください！"
+1007706-166 = "（その後、イチカと遊園地を遊び尽くした）"
+1007706-167 = "（帰り道にイチカが見せた表情は、どこか晴れ晴れとしていた）"

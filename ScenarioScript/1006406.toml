@@ -1,105 +1,53 @@
 [translation]
-1006406-1 = "Como aliviar o estresse"
-
-1006406-2 = "(Mesmo com a chegada do ano novo, ocorreram incidentes por toda Kivotos e não houve tempo para se acalmar.)"
-
-1006406-4 = "Sensei, é contra as regras acertar um golpe com um golpe de pena...?"
-
-1006406-5 = "Acidentalmente bati na peteca como se estivesse jogando tênis de mesa, mas meus amigos ficaram bravos comigo..."
-
-1006406-6 = "[s1] \"Esse é um problema difícil...\"\n[s2] \"Vamos pensar nisso juntos...\""
-
-1006406-10 = "(Depois de uma consulta difícil, ocorre um problema inesperado...)"
-
-1006406-12 = "O que diabos você é? #nVocê tem coragem de se intrometer nas pessoas, né?"
-
-1006406-13 = "Não importa para você se o emprego de meio período de um estudante é barato ou não."
-
-1006406-14 = "o que? Um Sensei de placa de Petri...?"
-
-1006406-15 = "É isso! Não sei se é uma placa de Petri ou o Conselho Estudantil da Federação, mas se você vai interferir..."
-
-1006406-16 = "Não é grátis!"
-
-1006406-17 = "[s] \"Ah, acalme-se, vamos conversar primeiro...\""
-
-1006406-19 = "(Quando terminei o trabalho, estava completamente exausto...)"
-
-1006406-22 = "...Huh, Sensei?"
-
-1006406-23 = "Não acredito que podemos nos encontrar em um lugar como este."
-
-1006406-27 = "Estou bem... não parece. #nHouve algo doloroso?"
-
-1006406-28 = "[s3] \"Olá, Kayoko...\"\n[s4] \"Estive ocupado com muitas coisas hoje...\""
-
-1006406-29 = "Hmm... o que posso dizer, obrigado pelo seu trabalho duro."
-
-1006406-30 = "Hmm... o que posso dizer, obrigado pelo seu trabalho duro."
-
-1006406-31 = "Sinto muito, é tudo o que posso dizer."
-
-1006406-32 = "[s] \"Já chega, obrigado.\""
-
-1006406-34 = "[ns] \"A propósito, para onde Kayoko está indo?\""
-
-1006406-35 = "Ah, minha banda favorita estava fazendo um show aqui perto."
-
-1006406-36 = "Você já ouviu falar do “Wagakki Club”?"
-
-1006406-37 = "Somos um grupo que toca música pop moderna usando instrumentos japoneses como taiko, shamisen e koto."
-
-1006406-38 = "As expressões que acompanham os instrumentos japoneses são interessantes, então vou lá com frequência."
-
-1006406-39 = "[s5] \"Música pop moderna com instrumentos japoneses...\"\n[s6] \"Parece ser calmante.\""
-
-1006406-40 = "Isso mesmo. Os tons únicos dos instrumentos musicais japoneses irão acabar com o seu estresse."
-
-1006406-41 = "Isso mesmo. Os tons únicos dos instrumentos musicais japoneses irão acabar com o seu estresse."
-
-1006406-42 = "Se você não se importa, gostaria de ir ver comigo?"
-
-1006406-43 = "Aparentemente todos os faz-tudo tinham algo para fazer, então eu tinha ingressos extras."
-
-1006406-44 = "[s7] \"Sim, eu quero ir!\"\n[s8] \"Estou cansado hoje, então está perfeito!\""
-
-1006406-45 = "Hehe, bom."
-
-1006406-46 = "Hehe, bom."
-
-1006406-47 = "Pois bem, venha comigo. O local fica próximo."
-
-1006406-50 = "(Depois cheguei ao local com a orientação de Kayoko...)"
-
-1006406-51 = "(Foi completamente diferente da “cura” que eu imaginava...)"
-
-1006406-53 = "Kivotos onde a escuridão paira! Sinta a morte da morte! !"
-
-1006406-54 = "Isto é Destruir! O fim deste mundo! !"
-
-1006406-60 = "(Depois da apresentação ao vivo――)"
-
-1006406-62 = "Ah... essa foi a melhor fase."
-
-1006406-63 = "Na música final, o tocador de shamisen arrancou as cordas e bateu na bateria com a cabeça, o que foi uma performance hipnotizante."
-
-1006406-64 = "[s] \"U-Sim...\""
-
-1006406-65 = "Talvez..."
-
-1006406-66 = "Foi um pouco estimulante demais para o Sensei?"
-
-1006406-67 = "Você parece mais cansado do que antes do show... me desculpe."
-
-1006406-68 = "[s9] \"Não, melhor...\"\n[s10] \"Foi tão divertido que fiquei animado...\""
-
-1006406-71 = "[ns] \"Assim como Kayoko disse, meu estresse foi embora!\""
-
-1006406-73 = "...Fico feliz em ouvir isso."
-
-1006406-74 = "Mas não consigo esconder o fato de que estou cansado, então volto rapidamente para a placa de Petri e descanso."
-
-1006406-75 = "...Obrigado por se juntar a nós hoje, Sensei."
-
-1006406-76 = "Voltarei quando me sentir melhor. #nTenho certeza que será mais divertido."
-
+1006406-1 = "ストレス解消法"
+1006406-2 = "(……新年を迎えても、キヴォトス各地で事件は発生し、落ち着く暇も無かった)"
+1006406-4 = "先生、羽根突きでスマッシュを打つのはルール違反でしょうか……？"
+1006406-5 = "ついつい卓球の感覚で羽根を叩いたら、友達に怒られてしまい……。"
+1006406-6 = "[s1] \"難しい問題だね……。\"\n[s2] \"一緒に考えてみようか……。\""
+1006406-10 = "（判断が難しい相談の次は、思いがけないトラブルが……)"
+1006406-12 = "あんた、なにモンだ？#n人様に口出しするなんて良い度胸だなぁ、あぁん？"
+1006406-13 = "学生のバイト代が安かろうと、あんたにゃ関係ねぇだろうが。"
+1006406-14 = "なに？シャーレの先生だぁ……？"
+1006406-15 = "んだとコラ！シャーレだか連邦生徒会だか知らんが、もし邪魔するってんなら……"
+1006406-16 = "タダじゃおかねぇぞ！"
+1006406-17 = "[s] \"お、落ち着いて、まずは話を……\""
+1006406-19 = "（仕事が終わった頃には、すっかり疲れ切ってしまった……）"
+1006406-22 = "……あれ、先生？"
+1006406-23 = "こんなところで会えるなんて。"
+1006406-27 = "元気……そうには見えないね。#n何か辛いことでもあった？"
+1006406-28 = "[s3] \"やあ、カヨコ……。\"\n[s4] \"今日は色々と忙しくて……。\""
+1006406-29 = "うーん……なんというか、お疲れ様。"
+1006406-30 = "うーん……なんというか、お疲れ様。"
+1006406-31 = "こんなことしか言えなくて、ごめん。"
+1006406-32 = "[s] \"それだけで十分だよ、ありがとう。\""
+1006406-34 = "[ns] \"ところでカヨコは、どこか行くところ？\""
+1006406-35 = "ああ、この近くで好きなバンドのライブがあって。"
+1006406-36 = "「和楽器クラブ」って、聞いたことある？"
+1006406-37 = "太鼓や三味線、琴なんかの和楽器で、#n現代風のポップスを演奏するバンドグループなんだ。"
+1006406-38 = "和楽器だからこその表現が面白くて、よく行ってる。"
+1006406-39 = "[s5] \"和楽器で現代風ポップスを……。\"\n[s6] \"癒やされそうだね。\""
+1006406-40 = "そうなんだ。和楽器特有の音色がストレスを吹っ飛ばしてくれる。"
+1006406-41 = "そうなんだ。和楽器特有の音色がストレスを吹っ飛ばしてくれる。"
+1006406-42 = "良かったら、先生も一緒に見に行かない？"
+1006406-43 = "便利屋のみんなは用事があるみたいで、チケット余っちゃったから。"
+1006406-44 = "[s7] \"うん、行きたい！\"\n[s8] \"今日は疲れたから、ちょうど良いね！\""
+1006406-45 = "ふふ、良かった。"
+1006406-46 = "ふふ、良かった。"
+1006406-47 = "じゃあ、付いてきて。会場はすぐ近くだよ。"
+1006406-50 = "（その後、カヨコの案内で会場に到着したが……)"
+1006406-51 = "（想像していた「癒し」とは全く違った……)"
+1006406-53 = "闇のダークが垂れ込むキヴォトス！死のデスを感じろ――！！"
+1006406-54 = "これが破壊のデストロイ！この世の終わりジ·エンド――！！"
+1006406-60 = "（ライブ後――）"
+1006406-62 = "あぁ……最高のステージだった。"
+1006406-63 = "最後の曲で三味線奏者が弦を噛みちぎって、太鼓を頭で叩く演出は痺れたね。"
+1006406-64 = "[s] \"う、うん……。\""
+1006406-65 = "もしかして……"
+1006406-66 = "先生には少し刺激が強かったかな？"
+1006406-67 = "ライブ前より疲れた顔してるね……ごめん。"
+1006406-68 = "[s9] \"いや、むしろ……\"\n[s10] \"つい楽しかったから盛り上がっちゃって……\""
+1006406-71 = "[ns] \"カヨコの言った通り、ストレスが吹き飛んだよ！\""
+1006406-73 = "……そう言ってもらえると、嬉しい。"
+1006406-74 = "けど疲れてるのは誤魔化せないから、早くシャーレに戻って休んで。"
+1006406-75 = "……今日も付き合ってくれてありがとう、先生。"
+1006406-76 = "今度は元気な時に来ようね。#nきっと、もっと楽しいはずだよ。"

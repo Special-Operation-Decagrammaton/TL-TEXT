@@ -1,204 +1,103 @@
 [translation]
-1007503-1 = "A dor da criação (1)"
-
-1007503-14 = "Senseia, o que você acha que a heroína fará quando sair para um encontro pela primeira vez na vida?"
-
-1007503-15 = "[s] \"Mesmo se você me perguntar isso...\""
-
-1007503-16 = "Porque eu não sei! O Sensei é adulto, então me pergunto se ele sabe de alguma coisa..."
-
-1007503-17 = "[s] \"O que aconteceu de repente?\""
-
-1007503-21 = "Hmm... acho que vou explicar direito."
-
-1007503-22 = "Supondo que haja uma heroína aqui..."
-
-1007503-23 = "Aquela garota é uma garota que não se sai bem, não importa o que faça, é desajeitada e não tem confiança em si mesma..."
-
-1007503-24 = "Por vários motivos, fui convidado para um encontro!"
-
-1007503-25 = "[s] \"Estou curioso sobre várias partes...\""
-
-1007503-26 = "Não é isso que importa!"
-
-1007503-27 = "Então, a heroína experimenta maquiagem pela primeira vez na vida..."
-
-1007503-28 = "Mesmo sendo desajeitado, preparo lancheiras caseiras."
-
-1007503-29 = "[s] \"Entendo... o que acontece depois disso?\""
-
-1007503-30 = "Que bom ouvir de você! O problema começa aqui!"
-
-1007503-31 = "Como você acha que a heroína se sente ao abrir a porta da frente?"
-
-1007503-32 = "O que você pensa e sente no momento em que dá o primeiro passo?"
-
-1007503-33 = "E...o que acontece durante o encontro e como você reagirá?"
-
-1007503-34 = "Ugh... eu não sei! Eu não faço ideia! Está lotado! !"
-
-1007503-35 = "[s3] \"Entendo, se for esse o caso...\"\n[s4] \"Você gostaria de sair do Red Winter agora?\""
-
-1007503-38 = "Huh! ? O que você está dizendo de repente?"
-
-1007503-42 = "Sensei?"
-
-1007503-46 = "Sensei! ?"
-
-1007503-50 = "Ah, eu entendo! Eu entendo, então não puxe meu braço!"
-
-1007503-51 = "Cidade de Kivotos"
-
-1007503-60 = "……."
-
-1007503-66 = "cheguei lá fora..."
-
-1007503-67 = "O que diabos você está planejando fazer, senhor? ! !"
-
-1007503-68 = "[s5] \"Uau, o tempo está bom.\"\n[s6] \"Por que não damos uma pequena caminhada primeiro?\""
-
-1007503-71 = "Hum..."
-
-1007503-72 = "Concordo. Se você simplesmente se calar, não terá nenhuma inspiração."
-
-1007503-73 = "[s] \"É isso. Pois bem, vamos lá.\""
-
-1007503-74 = "Ah, ele vai me acompanhar! Deixei isso para você!"
-
-1007503-75 = "shopping"
-
-1007503-77 = "Shopping center...é um local clássico."
-
-1007503-78 = "Já vi isso muitas vezes no mangá, mas quando fui lá, tinha muita gente... Red Winter é um lugar grande, mas não tem muitos estudantes, então pode ser um pouco revigorante."
-
-1007503-79 = "Uau, esses dois alunos estão ótimos!"
-
-1007503-80 = "No canto dos cosméticos, a aluna da direita está dando vários itens iguais para a garota ao lado dela...#nA garota ao lado dela parece tímida, mas de alguma forma feliz..."
-
+1007503-1 = "創作の苦しみ（１）"
+1007503-14 = "先生はさ、生まれて初めてデートに行くヒロインがどんな行動をすると思う？"
+1007503-15 = "[s] \"それを私に聞かれましても……\""
+1007503-16 = "だって分からないんだもん！先生は大人だから何か知ってるかなって……"
+1007503-17 = "[s] \"急にどうしたの？\""
+1007503-21 = "う～ん……やっぱちゃんと説明するか。"
+1007503-22 = "ここにヒロインが1人いるとして……"
+1007503-23 = "その子は何をやってもうまくいかない上に不器用で、自分に自信がない女の子なんだけど……"
+1007503-24 = "色々あってデートに誘われたの！"
+1007503-25 = "[s] \"色々の部分が気になるんだけど……\""
+1007503-26 = "大事なのはそこじゃないでしょ！"
+1007503-27 = "んで、ヒロインは人生初のメイクに挑戦したり……"
+1007503-28 = "不器用なりに、手作りのお弁当を用意したりするのね。"
+1007503-29 = "[s] \"なるほど……その後はどうなるの？\""
+1007503-30 = "よくぞ聞いてくれました！問題はここからでさ！"
+1007503-31 = "その時、ヒロインはどういう気持ちで玄関のドアを開けると思う？"
+1007503-32 = "最初の一歩を踏み出す瞬間、何を考えて、何を感じるんだろう？"
+1007503-33 = "そして……デート中に何が起きて、どんな反応をするのか？"
+1007503-34 = "うあぁ……分からない！全然分からないよ！詰んだー！！"
+1007503-35 = "[s3] \"なるほど、そういうことなら……\"\n[s4] \"今からレッドウィンターの外に行ってみる？\""
+1007503-38 = "えっ！？急に何を言い出すのさ！"
+1007503-42 = "先生？"
+1007503-46 = "先生！？"
+1007503-50 = "わ、分かった！分かったから腕を引っ張らないで～！"
+1007503-51 = "キヴォトス・市内"
+1007503-60 = "……。"
+1007503-66 = "外に来てしまった……"
+1007503-67 = "いったい何をするつもりなの、先生！！！"
+1007503-68 = "[s5] \"いや～いい天気だね。\"\n[s6] \"まずはちょっと散歩でもしてみない？\""
+1007503-71 = "ふむ……"
+1007503-72 = "そうだね。引きこもってばっかじゃ、インスピレーションも湧かないだろうし。"
+1007503-73 = "[s] \"そういう事。じゃ、行こっか。\""
+1007503-74 = "おっ、エスコートしてくれるんだ！任せたよ～！"
+1007503-75 = "ショッピングモール"
+1007503-77 = "ショッピングモール……定番のスポットだね。"
+1007503-78 = "漫画では何度も見たけど、実際に来てみると人が多い……レッドウィンターは敷地が広い割に、生徒はあんまり多くないから、ちょっと新鮮かも。"
+1007503-79 = "おっ、あそこの生徒2人組、絵になるなぁ！"
+1007503-80 = "コスメコーナーで、右の生徒が隣の子に色々合わせてあげてる……#n隣の子は恥ずかしがってるようで、どこか嬉しそうで……"
 1007503-81 = "……"
-1007503-86 = "Kita! É hora do esboço!"
-
-1007503-87 = "[s] \"O-o quê!? O que aconteceu de repente!?\""
-
-1007503-88 = "Isso é o que significa! Era uma maquiagem com a qual a heroína não estava acostumada, então parecia um pouco antinatural!"
-
-1007503-89 = "A heroína é então levada para uma loja de cosméticos... ela fica confusa, certo?"
-
-1007503-90 = "Ao ver sua aparência, o herói quer envergonhá-la ainda mais, então leva a heroína para fazer um retoque... e fica cativado por sua aparência completamente mudada!"
-
-1007503-91 = "Não, isso é uma bola curva...! #nO que a heroína odiava era, na verdade, apenas atuar. Ele estava provocando intencionalmente a outra pessoa..."
-
-1007503-92 = "O protagonista, que pensava estar na ofensiva, foi apanhado pela estratégia da heroína e não conseguiu escapar...!"
-
-1007503-93 = "Eu vejo! A Senseia queria que eu visse isso!"
-
-1007503-94 = "[s7] \"Droga, eu queria ser útil para Mel, mas...\"\n[s8] \"Nunca pensei que você interpretaria dessa forma...\""
-
-1007503-101 = "Hein, Senseia? É um bom lugar agora! Não me puxe!"
-
-1007503-105 = "parque de diversões"
-
-1007503-107 = "É um parque de diversões, não é? É um lugar rígido."
-
-1007503-108 = "Qual deles... os alunos estão aproveitando a juventude... é isso! #n Encontrei no Said Soba!"
-
-1007503-109 = "Duas pessoas na fila da roda gigante, que parecem estar se dando bem...#nhmmm, é tão bom...!"
-
-1007503-114 = "...Kitakita! Hora do esboço!"
-
-1007503-115 = "[s] \"O que diabos é a hora do esboço...?\""
-
-1007503-116 = "Shhh! Desta vez é o padrão real!"
-
-1007503-117 = "No início, o herói e a heroína estão sentados um de frente para o outro...#n, mas aos poucos a roda gigante se afasta do chão..."
-
-1007503-118 = "À medida que olhamos um para o outro, as emoções crescem. #nSim, junto com a altitude da roda gigante..."
-
-1007503-119 = "Eventualmente, um deles sentou-se calmamente ao meu lado... tão perto que eu podia até sentir sua respiração..."
-
-1007503-120 = "A distância entre mente e corpo gradualmente se aproxima...e...!"
-
-1007503-121 = "[ns] \"Sinto muito por fazer você parecer que está se divertindo...\""
-
-1007503-123 = "[ns] \"É a nossa vez de cavalgar, Mel.\""
-
-1007503-124 = "Eh! Mesmo que esteja ficando mais emocionante...!"
-
-1007503-125 = "Mas ei, montanhas-russas também são boas. Yeah, yeah."
-
-1007503-126 = "As duas pessoas sentadas lado a lado têm um efeito de ponte suspensa..."
-
-1007503-128 = "Quando estiver sentado, aperte o cinto de segurança."
-
-1007503-138 = "Oláaaaaaaaaaaaaaaaa! É divertido!"
-
-1007503-139 = "café"
-
-1007503-141 = "Em seguida é o café. Os cafés são os melhores espaços para se animar! #nEnquanto estávamos sentados um de frente para o outro à mesa, havia momentos em que parecia que éramos as únicas duas pessoas no mundo..."
-
-1007503-142 = "Na verdade, há pessoas ao seu redor olhando para você...!"
-
-1007503-143 = "Mesmo se você quiser dizer palavras ousadas, este é um lugar público...#nPensamentos e emoções oscilando entre o mundo de vocês dois...hehehe...Acho que podemos esperar isso!"
-
-1007503-144 = "[s] \"...O que devo pedir agora?\""
-
-1007503-145 = "Sim? Ah, esqueci. Então não sou eu..."
-
-1007503-153 = "Sensei, olha... aquelas duas pessoas..."
-
-1007503-154 = "...Oh, acabei de deixar cair o canudo!"
-
-1007503-155 = "[s] \"Você está pedindo ao balconista um canudo novo.\""
-
-1007503-156 = "Aaah, isso é chato..."
-
-1007503-161 = "Mas meu tempo de desenho nunca acaba! Agora é a vez da heroína! Duas pessoas fingiram ser uma coincidência e deixaram cair um canudo, para que dividissem a bebida com um canudo..."
-
-1007503-162 = "Bem, talvez não? Se as coisas tivessem acontecido de acordo com as intenções da heroína, não teria sido comum?"
-
-1007503-163 = "...então e quanto a isso? #nA heroína estava planejando realizar a Operação Palha, mas ela se assustou pouco antes disso!"
-
-1007503-164 = "Então pedi um canudo ao balconista da loja. #nEmbora eu estivesse aliviado, também me senti frustrado..."
-
-1007503-165 = "A heroína está dividida entre o amor e a amizade inocentes e dolorosos...!"
-
-1007503-166 = "[s] \"Ok, aqui está sua bebida.\""
-
-1007503-171 = "Oh não! Estou cheio!"
-
-1007503-172 = "[s] \"...Você comeu tanto assim?\""
-
-1007503-173 = "Do que você está falando, senhor? Existem muitos significados diferentes para “estômago cheio”!"
-
-1007503-174 = "...Os Senseies também não têm talento para serem auxiliares? #nTodos os spots que ele me mostrou hoje ficaram perfeitos!"
-
-1007503-175 = "[s] \"Espero que tenha sido um encontro divertido.\""
-
-1007503-179 = "…………foto?"
-
-1007503-180 = "O-o que...! ? De, de, encontro...! ?"
-
-1007503-181 = "Ah, pensando bem, hoje fomos a um shopping e a um parque de diversões..."
-
-1007503-182 = "...! ?"
-
-1007503-183 = "[s] \"Foi útil no seu primeiro encontro?\""
-
-1007503-184 = "...!"
-
-1007503-185 = "Momomo, claro!"
-
-1007503-186 = "Bem, para um escritor, é apenas um explorador de locações!"
-
-1007503-187 = "Pois bem, vou para casa primeiro! Sensei, obrigado por hoje-"
-
-1007503-193 = "Buaah! ?"
-
-1007503-194 = "[s] \"Parece doloroso...\""
-
-1007503-195 = "Ugh... isso dói...!"
-
-1007503-196 = "Ah, lembre-se! Com certeza vou esclarecer esse rancor!"
-
-1007503-198 = "(Eu silenciosamente observei Mel fugir antes que eu pudesse dizer adeus...)"
-
+1007503-86 = "キタ！スケッチタイムだっ！"
+1007503-87 = "[s] \"な、なに！？急にどうしたの！？\""
+1007503-88 = "つまりこういうことだよ！ヒロインにとって慣れないメイクだったから、なんだか不自然だったんだ！"
+1007503-89 = "そうしてコスメショップに連れていかれるヒロイン……困惑してしまうよね？"
+1007503-90 = "その姿を見て、もっと困らせたくなってしまった主人公は、ヒロインをそのままタッチアップに連れていき……見違えるほどに変わった姿に心を奪われてしまうんだ！"
+1007503-91 = "違う、ここは変化球で……！#nヒロインが嫌がっていたのは、実はただの演技。意図的に相手を刺激していたのだ……"
+1007503-92 = "自分の事を攻めだと思っていた主人公は、ヒロインの策略にハマって抜け出せなくなってしまい……！"
+1007503-93 = "なるほど！先生は私にこれを見せたかったんだね！"
+1007503-94 = "[s7] \"くっ、メルの役には立ちたかったけど……\"\n[s8] \"まさか、そんな解釈をされるとは……\""
+1007503-101 = "えっ、先生？今いいとこなのに！引っ張らないでって～！"
+1007503-105 = "遊園地"
+1007503-107 = "遊園地かぁ、鉄板の場所だよね。"
+1007503-108 = "どれどれ……青春を楽しんでる生徒は……って、あそこ！#n言ったそばから発見！"
+1007503-109 = "観覧車の列に並んでる、仲良さそうな2人……#nうむうむ、いいよいいよ……！"
+1007503-114 = "……キタキター！スケッチタイム！"
+1007503-115 = "[s] \"スケッチタイムって一体……？\""
+1007503-116 = "しーっ！今回は王道パターンだよ！"
+1007503-117 = "最初は主人公とヒロインが向かい合って座ってる……#nけど、少しずつ観覧車が地上から離れて……"
+1007503-118 = "お互いに見つめ合っているうちに、感情が高まってくるんだ。#nそう、観覧車の高度と一緒に……"
+1007503-119 = "やがて、片方が隣にそっと座り……吐息さえ感じる距離に……"
+1007503-120 = "心と体の距離が徐々に近づいていき……そして……！"
+1007503-121 = "[ns] \"楽しそうにしてるところ申し訳ないんだけど……\""
+1007503-123 = "[ns] \"私たちが乗る番だよ、メル。\""
+1007503-124 = "え～！せっかく盛り上がってきたところなのに……！"
+1007503-125 = "でもまぁ、ジェットコースターも良いよね。うんうん。"
+1007503-126 = "並んで座る2人は、吊り橋効果で……"
+1007503-128 = "お座席に着きましたら、シートベルトをご着用ください。"
+1007503-138 = "ひやあっ～ははっ！楽しい～！"
+1007503-139 = "カフェ"
+1007503-141 = "次はカフェだね。カフェは最高にドキドキを高めてくれる空間だよ！#nテーブルで向かい合っている間は世界に2人だけかに思える時間も……"
+1007503-142 = "実際は周囲の視線があるんだから……！"
+1007503-143 = "思い切った言葉を口にしたくても、ここは公共の場……#n2人だけの世界との狭間で揺れる思考と感情が……ふふふ……これは期待できそう！"
+1007503-144 = "[s] \"……とりあえず、注文どうしよっか？\""
+1007503-145 = "うん？あ、忘れてた。んじゃ私はねぇ……"
+1007503-153 = "先生、見て……あそこの2人……"
+1007503-154 = "……あっ、今ストロー落とした！"
+1007503-155 = "[s] \"店員さんに新しいストローを頼んでるね。\""
+1007503-156 = "あーあー、つまんないの……"
+1007503-161 = "でも、私のスケッチタイムは終わらないんだから！今度はヒロインのターン！偶然を装いストローを落とした流れで、2人が1つのストローで飲み物を分け合うように……"
+1007503-162 = "あれ、違うかも？ここでヒロインの思惑通りに進んじゃったら、ありきたりのような？"
+1007503-163 = "……じゃあこれなら？#nヒロインはストロー作戦を実行するつもりだったけど、その直前で怖気づいたんだ！"
+1007503-164 = "だから店員さんにストローを頼んだの。#nホッとする一方で、もどかしさを感じてしまい……"
+1007503-165 = "初々しくも切ない恋と友情の狭間で揺れるヒロインは――！"
+1007503-166 = "[s] \"はい、飲み物が来たよ。\""
+1007503-171 = "いやあ！お腹いっぱい！"
+1007503-172 = "[s] \"……そんなに食べたっけ？\""
+1007503-173 = "何を言ってるの、先生！「お腹いっぱい」の意味にも色々あるでしょ！"
+1007503-174 = "……先生ってアシスタントの才能もあるんじゃない？#n今日案内してくれたスポットはどれも完璧だったし！"
+1007503-175 = "[s] \"楽しいデートになったなら良かった。\""
+1007503-179 = "…………え？"
+1007503-180 = "な、なにっ……！？デ、デ、デート……！？"
+1007503-181 = "そ、そういえば、今日私たちが回ったのは……ショッピングモールに遊園地に……"
+1007503-182 = "……！？"
+1007503-183 = "[s] \"初デートの参考にはなったかな？\""
+1007503-184 = "……！"
+1007503-185 = "も、ももも、もちろん！"
+1007503-186 = "さ、作家にとってはただのロケハンみたいなもんだし！"
+1007503-187 = "そ、それじゃ私は先に帰るから！先生、今日はありが――"
+1007503-193 = "ぶあっ！？"
+1007503-194 = "[s] \"い、痛そう……\""
+1007503-195 = "ううう……痛い……！"
+1007503-196 = "お、覚えてろっ！この恨み、絶対に晴らしてやるんだから！"
+1007503-198 = "（さよならと言う間もなく走っていくメルの姿を静かに見送った……）"

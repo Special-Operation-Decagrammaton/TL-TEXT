@@ -1,146 +1,75 @@
 [translation]
-11070-2 = "Episódio 7; Uma nova ameaça?"
-
-11070-3 = "Força Tarefa/Sala de Aula"
-
-11070-4 = "Obrigado a todos pelo seu trabalho duro."
-
-11070-5 = "Celica-chan, você está ferido?"
-
-11070-6 = "Sim, estou bem. Olha, é um pingpin..."
-
-11070-7 = "(Grrr…)"
-
-11070-9 = "(bang)"
-
-11070-10 = "Celica-chan!"
-
-11070-11 = "Vou levá-lo para a enfermaria."
-
-11070-15 = "Fui atingido pela arma antiaérea do Flak41, então é estranho poder andar. Deixe-me descansar um pouco."
-
-11070-16 = "Estava prestes a ter muitos problemas. Se o Sensei não estivesse lá..."
-
-11070-17 = "Yeah, yeah. Graças à Senseia, consegui rastrear o paradeiro de Celica-chan sem perder o ritmo. Afinal, é incrível ☆"
-
-11070-18 = "Tenho certeza de que ele não era apenas um perseguidor."
-
-11070-19 = "...Além disso, todos, por favor, dêem uma olhada nisso."
-
-11070-20 = "Ao verificarmos as partes espalhadas do tanque recuperadas durante a batalha, descobrimos que se tratava de um modelo ilegal cujo uso é proibido em Kivotos."
-
-11070-21 = "Terei que pesquisar um pouco mais, mas parece que a Gangue do Capacete tem até armas que eles não conseguem obter sozinhos."
-
-11070-22 = "Se analisarmos a rota de distribuição desta peça, poderemos descobrir quem está por trás da Gangue do Capacete!"
-
-11070-23 = "sim. Pode ficar claro por que simples bandidos estão atacando nossas escolas com tanta persistência."
-
-11070-24 = "Sim, eu entendo. Vamos dar uma olhada mais de perto."
-
-11070-26 = "prédio de escritórios alto"
-
-11070-27 = "……."
-
-11070-28 = "...Esse é o limite para um bandido de classe baixa? #nEles até enviaram um tanque de guerra principal, mas o que é esse Zama?"
-
-11070-29 = "Hmm... então, olho por olho, aluno por aluno...? #nVamos perguntar a um especialista."
-
-11070-31 = "(Purururu, purururu)"
-
-11070-32 = "(gacha)"
-
-11070-33 = "Sim, podemos resolver qualquer problema. Faz-tudo 68."
-
-11070-34 = "Um faz-tudo que quer pedir emprego."
-
-11070-35 = "……"
-11070-37 = "Esconderijo da Gangue do Capacete Kataka"
-
-11070-40 = "Suspiro…suspiro…."
-
-11070-41 = "Uau! !"
-
-11070-42 = "(Tatatatatatatatatan!!)"
-
-11070-43 = "Argh! !"
-
+11070-2 = "Episódio 7;Uma Nova Ameaça?"
+11070-3 = "Sala da Força-Tarefa Hipotecária"
+11070-4 = "Bom trabalho trabalho pessoal."
+11070-5 = "Serika-chan, você está bem?"
+11070-6 = "Estou bem. Perfeitamente bem..."
+11070-7 = "(Tropeça)"
+11070-9 = "(Colapsa)"
+11070-10 = "Serika-chan!"
+11070-11 = "Vou levar você pra enfermaria."
+11070-15 = "Ela foi atingida pela [ruby=Antiaérea]Flak 41[/ruby], nem esperava ela conseguir andar. Deixem ela descansar."
+11070-16 = "Isso seria um problema muito pior, se o Sensei não estivesse aqui..."
+11070-17 = "Uhum, Uhum. Graças ao Sensei conseguimos rastrear o paradeiro da Serika-chan sem perder o ritmo. Você é incrivel Sensei ☆"
+11070-18 = "Então esse é o poder de um stalker, huh?."
+11070-19 = "...Pessoal, por favor. Dêem uma olhada nisso aqui."
+11070-20 = "Verifiquei as partes espalhadas do tanque recuperadas durante a batalha, descobri que se tratava de um modelo ilegal cujo uso é proibido em Kivotos."
+11070-21 = "Terei que pesquisar um pouco mais, mas parece que a Gangue do Capacete tem armas que eles não conseguiriam obter sozinhos."
+11070-22 = "Se analisarmos a rota de distribuição destas peças, poderemos descobrir quem tá por trás da Gangue do Capacete!"
+11070-23 = "Isso pode esclarecer por que umas bandidas fajutas estão atacando a nossa escola com tanta persistência."
+11070-24 = "Ótimo. Vamos dar vamos analisar isso com calma."
+11070-26 = "Escritório em arranha-céu"
+11070-27 = "..."
+11070-28 = "..É esse o limite para meras bandidas? #nAté enviei um [ruby=(MBT)]tanque de guerra principal[/ruby], e esse é o resultado."
+11070-29 = "Hmm... então, olho por olho, aluna por aluna...? #nNão tenho outra escolha, hora de perguntar a um especialista."
+11070-31 = "(Ring, Riing)"
+11070-32 = "(Clique)"
+11070-33 = "Olá, Faz-tudo 68 aqui, podemos resolver qualquer problema."
+11070-34 = "Tenho um problema para vocês, \"Fazem-tudo\"."
+11070-35 = "..."
+11070-37 = "Esconderijo da Gangue do Capacete Kata-Kata"
+11070-40 = "(Ofegante)"
+11070-41 = "Uwaaaa!"
+11070-42 = "(Tatatatatatatatata!)"
+11070-43 = "Argh!!"
 11070-44 = "!"
-
-11070-46 = "(bang)"
-
-11070-47 = "Ah, isso acabou."
-
-11070-48 = "Esse também está conquistado, chefe."
-
+11070-46 = "(Colapsa)"
+11070-47 = "Aa, Tudo limpo aqui."
+11070-48 = "Esse lado também está limpo, chefe."
 11070-50 = "Uh, uh... quem são vocês..."
-
-11070-51 = "...Hehehe."
-
-11070-53 = "(coragem)"
-
-11070-55 = "Ah! ! Bem, de jeito nenhum, Abidos! ? Bem feito para nós..."
-
-11070-56 = "Ha, não posso acreditar que este lugar imundo e com cheiro estranho seja meu esconderijo. #nVocês também são chatos."
-
-11070-57 = "...OK. Eu vou te libertar do trabalho."
-
-11070-58 = "O que! O que? ?"
-
-11070-59 = "Resumindo, você está demitido. A partir de agora, assumiremos Abydos."
-
-11070-60 = "Ei, que imitação boba! Quem são vocês...?"
-
-11070-62 = "(Gatsu!!)"
-
-11070-63 = "Uau! !"
-
-11070-64 = "……"
-11070-67 = "……"
-11070-68 = "nós,"
-
-11070-69 = "Contanto que eu consiga o dinheiro, farei qualquer coisa..."
-
-11070-72 = "Valete para toda obra."
-
-11070-74 = "(Gara)"
-
-11070-75 = "Suspirar..."
-
-11070-76 = "Ah...? Sensei! ? O que aconteceu?"
-
+11070-51 = "...Fufufu."
+11070-53 = "(Encosta arma nela)"
+11070-55 = "A-Ah! Não acredito! As gorotas de Abydos!? Como ousam..."
+11070-56 = "Hpmh, dificil acreditar o quão imundo é esse lugar, é isso que chama de esconderijo? #nVocês também são bem sem graça."
+11070-57 = "...OK. Eu vou lhes libertar desse trabalho."
+11070-58 = "O-o que?!"
+11070-59 = "Resumindo, vocês estão demitidas. A partir de agora, assumiremos o seu trabalho."
+11070-60 = "O-o que você tá falando?! Quem são vocês?"
+11070-62 = "(Thud)"
+11070-63 = "AAagh!!"
+11070-64 = "..."
+11070-67 = "..."
+11070-68 = "Nós somos Faz-tudo 68"
+11070-69 = "Cometeremos o crime se tiver a grana."
+11070-72 = "Pau para toda obra."
+11070-74 = "(Porta abre)"
+11070-75 = "Huh..."
+11070-76 = "Ahn? Sensei?! O que tá fazendo aqui?"
 11070-77 = "[s] \"Vim visitar você.\""
-
-11070-78 = "...Ah, estou bem. Não posso ficar assim para sempre."
-
-11070-79 = "Ayane-chan e todos os outros também estão preocupados... e eu tenho que trabalhar meio período."
-
-11070-80 = "Bem, é por isso que é bom ver você! Olha, estou bem."
-
-11070-81 = "[s] \"Isso foi bom.\""
-
-11070-82 = "……."
-
-11070-83 = "Ah, isso! !"
-
-11070-84 = "...Eh, bem..."
-
-11070-85 = "Pensando bem, percebi que não tinha agradecido direito ao meu Sensei..."
-
-11070-86 = "Ah, obrigado... por tantas coisas..."
-
-11070-87 = "...Mas! Não pense que você pode ser útil para Abydos neste nível! #nCom certeza irei pagar essa dívida algum dia!"
-
-11070-88 = "……."
-
-11070-89 = "O-o que! ? Por que você está rindo tanto! ?"
-
-11070-90 = "Ah, absolutamente."
-
-11070-91 = "Bem... até amanhã!"
-
-11070-92 = "Bem, vamos ver..."
-
-11070-93 = "……Sensei."
-
-11070-97 = "Da próxima vez: o faz-tudo está aqui!"
-
+11070-78 = "...Vou ficar bem. Não posso ficar assim para sempre."
+11070-79 = "Ayane-chan e as outras devem estar preocupadas... eu tenho que ir pro meu trabalho de meio período."
+11070-80 = "N-Não precisa se preocupar comigo! Olha só o quão bem eu estou."
+11070-81 = "[s] \"Isso é ótimo.\""
+11070-82 = "..."
+11070-83 = "I-Isso!"
+11070-84 = "B-Bem..."
+11070-85 = "Pensando bem, percebi que não tinha te agradecido antes Sensei..."
+11070-86 = "O-obrigado... por tudo..."
+11070-87 = "...Mas! Não pense que só isso já resolveu os problemas da escola! #nEu irei pagar essa dívida algum dia!"
+11070-88 = "..."
+11070-89 = "O-o que?! Por que você tá sorrindo assim!?"
+11070-90 = "(Suspira) Sério."
+11070-91 = "Até amanhã então..."
+11070-92 = "Sen..."
+11070-93 = "...Sensei."
+11070-97 = "Próximo Episódio;A Chegada das Faz-tudo!"

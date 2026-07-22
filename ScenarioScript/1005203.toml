@@ -1,130 +1,66 @@
 [translation]
-1005203-1 = "Observações Perversas do Secretário do Seminário Noah"
-
-1005203-2 = "escritório de placa de petri"
-
-1005203-3 = "Olá, senhor."
-
-1005203-4 = "Estarei encarregado do trabalho da placa de Petri novamente hoje."
-
-1005203-5 = "Obrigado pelo seu apoio contínuo hoje."
-
-1005203-6 = "[s] \"Sim, prazer em conhecê-lo.\""
-
-1005203-7 = "Você está de bom humor hoje."
-
-1005203-8 = "Houve alguma coisa que te deixou feliz?"
-
-1005203-9 = "[s1] \"Ontem à noite, tive uma boa ideia.\"\n[s2] \"Como quebrar a folga do Noah!\""
-
-1005203-10 = "...Como quebrar minha margem de manobra...?"
-
-1005203-11 = "...Como quebrar minha margem de manobra...?"
-
-1005203-12 = "Não me lembro de ter agido intencionalmente de maneira relaxada, mas..."
-
-1005203-13 = "Seria interessante ser testado por um Sensei."
-
-1005203-14 = "Como isso é possível?"
-
-1005203-15 = "[s] \"Da próxima vez, acho que vou registrar as ações de Noah.\""
-
-1005203-16 = "...Isso significa que o Sensei vai observar e registrar minhas ações, assim como eu as registrei outro dia?"
-
-1005203-17 = "Entendo... essa é uma experiência desconhecida para mim."
-
-1005203-18 = "Geralmente trabalho como secretária longe da vista dos outros..."
-
-1005203-19 = "Não trabalho em condições onde alguém possa me ver."
-
-1005203-20 = "... Pois bem, vamos passar o dia de hoje observando uns aos outros conforme sugerido pela Senseia."
-
-1005203-21 = "Ah, deixe-me dizer primeiro,"
-
-1005203-27 = "...Não será fácil, não é? #nhehe."
-
-1005203-29 = "(30 minutos depois...)"
-
-1005203-31 = "……."
-
-1005203-32 = "[s] \"…….\""
-
+1005203-1 = "セミナー書記ノアの意地悪な観察"
+1005203-2 = "シャーレ・オフィス"
+1005203-3 = "こんにちは、先生。"
+1005203-4 = "今日もシャーレ当番を担当することになりました。"
+1005203-5 = "本日もよろしくお願いしますね。"
+1005203-6 = "[s] \"うん、よろしくね。\""
+1005203-7 = "今日はご機嫌ですね。"
+1005203-8 = "何か嬉しいことでもありましたか？"
+1005203-9 = "[s1] \"昨夜、いいことを思いついたんだ。\"\n[s2] \"ノアの余裕を突き崩す方法を！\""
+1005203-10 = "……私の余裕を、崩す方法……？"
+1005203-11 = "……私の余裕を、崩す方法……？"
+1005203-12 = "特に意図して余裕があるように振る舞った記憶は、ないのですが……。"
+1005203-13 = "先生に試されるというのは、面白そうですね。"
+1005203-14 = "それは一体どのような方法ですか？"
+1005203-15 = "[s] \"今度は、私がノアの行動を記録しようかな。\""
+1005203-16 = "……この間、私が記録したように、#n逆に先生が私の行動を観察し、記録する、ということですか？"
+1005203-17 = "なるほど……それは私にとっても馴染みの薄い経験ですね。"
+1005203-18 = "私は普段、他人の視線外で書記の業務を行っているので……。"
+1005203-19 = "誰かに見られる状況下で仕事をする事はありませんから。"
+1005203-20 = "……それでは、今日は先生のご提案通り、#nお互い観察しながら過ごすとましょう。"
+1005203-21 = "あ、先にお伝えしておきますと、"
+1005203-27 = "……簡単にはいきませんよ？#nふふ。"
+1005203-29 = "（30分後……）"
+1005203-31 = "……。"
+1005203-32 = "[s] \"……。\""
 1005203-33 = "……♪"
-1005203-34 = "Ah, Senseia? #nVocê parece cansado."
-
-1005203-35 = "[s] \"Observar as pessoas é surpreendentemente cansativo...\""
-
-1005203-36 = "...Isso mesmo."
-
-1005203-37 = "A vontade de uma pessoa pode ser expressa não apenas por meio de palavras, mas também por meio de vários símbolos, como ações e expressões faciais."
-
-1005203-38 = "#nNão é nada fácil registrar no papel a quantidade infinita de informações que fluem no campo."
-
-1005203-39 = "[s] \"Mas por enquanto, não perdi nada que Noah fez...!\""
-
-1005203-40 = "Como Sensei... você trabalha muito, hehe."
-
-1005203-41 = "Agora vou reabastecer meus utensílios de escrita."
-
-1005203-50 = "Estou de volta agora."
-
-1005203-54 = "Então, aqui..."
-
-1005203-55 = "Isso é um problema!"
-
-1005203-56 = "[s] \"Teste repentino!?\""
-
-1005203-57 = "O Sensei disse que não perdeu nenhuma ação, então gostaria de verificar a veracidade dos registros do Sensei."
-
-1005203-58 = "Se você conseguir responder corretamente à pergunta que estou prestes a lhe fazer, ouvirei um pedido do #n Sensei."
-
-1005203-59 = "Por outro lado, se você responder incorretamente...#nComo punição por não se concentrar adequadamente, você receberá uma xícara de café do Sensei♪"
-
-1005203-60 = "[s] \"Eu realmente não me importo...\""
-
-1005203-61 = "Então esse é o problema."
-
-1005203-62 = "Há algum tempo, eu estava arrumando uma parte da minha roupa fora do escritório."
-
-1005203-63 = "O que mudou em comparação com antes?"
-
-1005203-64 = "[s3] \"Isso é difícil...\"\n[s4] \"À primeira vista, eles parecem iguais, mas...\""
-
-1005203-65 = "Não deveria ser tão difícil se você estivesse prestando muita atenção em mim."
-
-1005203-66 = "Não deveria ser tão difícil se você estivesse prestando muita atenção em mim."
-
-1005203-67 = "No entanto, você só tem uma chance. #nPor favor, responda com atenção."
-
-1005203-68 = "[s] \"...O grampo mudou?\""
-
-1005203-69 = "Bubu! Incorreto."
-
-1005203-70 = "Hehe, como prometido, vou tomar uma xícara de café do #nSensei."
-
-1005203-76 = "[ns] \"Então, qual foi a resposta correta?\""
-
-1005203-78 = "Você ainda não percebeu?"
-
-1005203-79 = "A resposta correta era... \"Nada mudou.\""
-
-1005203-80 = "[s5] \"O que é isso!?\"\n[s6] \"...Você me enganou!?\""
-
-1005203-81 = "Hehe, estritamente falando, não é trapaça."
-
-1005203-82 = "Hehe, estritamente falando, não é trapaça."
-
-1005203-83 = "Às vezes, até mesmo proposições que existem fora das respostas do modelo podem se tornar #n respostas."
-
-1005203-84 = "Portanto, um excelente escriba deve sempre considerar todas as possibilidades para evitar ser retido pelo preconceito."
-
-1005203-85 = "Ao fazer isso, você será capaz de observar objetivamente a realidade...#nVocê não será enganado por maus alunos como eu."
-
-1005203-86 = "Então, por enquanto, por favor, concentre-se apenas em mim."
-
-1005203-88 = "(Mesmo depois disso, continuei olhando para ela para registrar as mudanças de Noah...)"
-
-1005203-89 = "Hehe, esse café parece mais doce que o normal."
-
-1005203-93 = "(não ganhei nada...)"
-
+1005203-34 = "あら、先生？#nお疲れみたいですね。"
+1005203-35 = "[s] \"人を観察するって、意外と疲れるね……。\""
+1005203-36 = "……そうですよね。"
+1005203-37 = "人の意志は言葉だけでなく、行動や表情など様々な記号で表現することができますから。"
+1005203-38 = "現場に流れる無限の情報を紙の上に記していくのは、#n決して簡単なことではありません。"
+1005203-39 = "[s] \"でも、今のところノアの行動は一つも逃さないでいるから……！\""
+1005203-40 = "先生ってば……一生懸命ですね、ふふ。"
+1005203-41 = "では私は、筆記用具の補充をしてきますね。"
+1005203-50 = "ただいま戻りました。"
+1005203-54 = "では、ここで……"
+1005203-55 = "問題です！"
+1005203-56 = "[s] \"いきなりクイズ！？\""
+1005203-57 = "先生が行動を一つも逃していないと仰っていたので、#nそんな先生の記録の精度を確認したいと思います。"
+1005203-58 = "今から出す問題に正解できたら、#n先生のお願いをなんでも一つ、聞いてあげます。"
+1005203-59 = "その代わり不正解の場合は……#nきちんと集中しなかった罰として、先生のコーヒーを一杯いただきますね♪"
+1005203-60 = "[s] \"別にいいけど……。\""
+1005203-61 = "それでは問題です。"
+1005203-62 = "先ほど、私は執務室の外で服装のとある部分を直してきました。"
+1005203-63 = "前と比べて、変わった部分はどこでしょうか？"
+1005203-64 = "[s3] \"難しいな……。\"\n[s4] \"パッと見、同じに見えるけど……。\""
+1005203-65 = "私のことを注意深く観察していたら、そう難しくはないはずです。"
+1005203-66 = "私のことを注意深く観察していたら、そう難しくはないはずです。"
+1005203-67 = "ただしチャンスは一度だけです。#n慎重に答えてくださいね。"
+1005203-68 = "[s] \"……ヘアピンが変わった？\""
+1005203-69 = "ぶぶー！不正解です。"
+1005203-70 = "ふふ、では約束通り、#n先生のコーヒーを一杯いただきますね。"
+1005203-76 = "[ns] \"それで、正解はなんだったの？\""
+1005203-78 = "まだ気づいてませんか？"
+1005203-79 = "正解は……『何も変わってません』でした～"
+1005203-80 = "[s5] \"なにそれ！？\"\n[s6] \"……だ、騙したの！？\""
+1005203-81 = "ふふ、厳密に言うと、騙しではありませんよ。"
+1005203-82 = "ふふ、厳密に言うと、騙しではありませんよ。"
+1005203-83 = "時には模範解答の外に存在する命題さえも、#n解答になることがあります。"
+1005203-84 = "そのため、優秀な書記は常日頃から偏見に囚われぬよう、#n全ての可能性を考慮しなければなりません。"
+1005203-85 = "そうすることで現実を客観的に観察でき……#n私のような悪い生徒にも騙されずに済みます。"
+1005203-86 = "ですから今は、私だけに集中してくださいね。"
+1005203-88 = "（その後も、ノアの変化を記録すべく、彼女を見つめ続けたものの……）"
+1005203-89 = "ふふ、このコーヒーはいつもより甘い気がします。"
+1005203-93 = "（何も得られなかった……） "

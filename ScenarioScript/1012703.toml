@@ -1,155 +1,78 @@
 [translation]
-1012703-1 = "esperando a estreia"
-
-1012703-2 = "Rua Zhuhua"
-
-1012703-3 = "(No dia seguinte, voltando de uma visita ao Wild Hunt de manhã cedo para trabalhar...)"
-
-1012703-4 = "[ns] \"Tenho ido muito ao Wild Hunt ultimamente...\""
-
-1012703-5 = "(Passando pela Ala D.U. Shiratri)"
-
-1012703-6 = "Hein, Senseia?"
-
-1012703-9 = "Ah, bom dia...."
-
-1012703-10 = "[s] \"Miyo? O que há de errado?\""
-
-1012703-11 = "Isso é..."
-
-1012703-12 = "Recebi uma ligação da editora e recebi permissão para sair para uma reunião #n..."
-
-1012703-13 = "[s] \"Do editor!?\""
-
-1012703-14 = "sim. Recentemente enviei o manuscrito de um romance que escrevi em uma placa de Petri para várias editoras."
-
-1012703-15 = "Uma dessas empresas entrou em contato comigo e perguntou se queria publicá-lo..."
-
-1012703-16 = "[s1] \"Bem, era um romance...\"\n[s2] \"Então, esta é sua estreia profissional!\""
-
-1012703-19 = "Bem, ainda nem assinamos contrato de publicação...!"
-
-1012703-20 = "Estou prestes a ter uma reunião."
-
-1012703-21 = "Depois disso a partir das 14:00――"
-
-1012703-22 = "--O que? #n Sensei com você também?"
-
-1012703-23 = "Foi isso que você fez por mim..."
-
-1012703-24 = "É melhor ter um terceiro para verificar o conteúdo do contrato?"
-
-1012703-28 = "Então, se for esse o caso..."
-
-1012703-29 = "Obrigado, senhor."
-
-1012703-31 = "(Fui até a editora com Miyo)"
-
-1012703-33 = "Editora/sala de conferências"
-
-1012703-34 = "Estávamos esperando por você, senhor."
-
-1012703-35 = "A propósito, por que existe um Sensei de placa de Petri...?"
-
-1012703-36 = "[s] \"Ouvi dizer que meu aluno estava assinando um contrato de publicação, então estou acompanhando-o.\""
-
-1012703-37 = "Bem, tudo bem."
-
-1012703-38 = "Então vamos começar. #nPrimeiro gostaria de explicar a nossa posição em relação à assinatura do contrato editorial."
-
-1012703-39 = "Como você sabe, publicar um livro é muito caro."
-
-1012703-40 = "Não apenas custos de impressão, mas também edição, design e marketing."
-
-1012703-41 = "Além disso, há também uma taxa para usar um depósito para armazenar livros não vendidos após a publicação... #nVocê entendeu até aqui?"
-
-1012703-42 = "Oh sim. #nEu sei. Mas por que...?"
-
-1012703-43 = "Queríamos que você entendesse os riscos que corremos ao publicar o romance do Sr. Sakurai."
-
-1012703-44 = "[s] \"Hum, a editora é responsável pelos custos incorridos na publicação...\""
-
-1012703-45 = "sim! Por isso, temos uma sugestão!"
-
-1012703-46 = "Em outras palavras... estou me perguntando se Sakurai-sensei também poderia \"investir\" comigo!"
-
-1012703-47 = "...?"
-
-1012703-48 = "Não se preocupe! Tudo o que você precisa fazer é pagar ao Sr. Sakurai pelos custos de edição, design, impressão... e marketing!"
-
-1012703-49 = "Deixe o resto conosco!"
-
-1012703-50 = "[s] \"Então Miyo terá que pagar todo o custo...\""
-
-1012703-51 = "Eu vejo……!"
-
-1012703-52 = "[s] \"Miyo...?\""
-
-1012703-53 = "Mas isso não é tudo, certo?"
-
-1012703-54 = "sim?"
-
-1012703-55 = "Por exemplo... uma vez lançado um livro, não seria necessário comprar cerca de 500 exemplares com o seu próprio dinheiro para obter uma boa resposta inicial?"
-
-1012703-56 = "Oh sim! Isso mesmo!"
-
-1012703-57 = "E para melhorar a qualidade da minha escrita futura, preciso fazer um curso de redação oferecido pela sua empresa... e mediante pagamento."
-
-1012703-58 = "Você sabe disso muito bem!"
-
-1012703-59 = "Sim claro."
-
-1012703-60 = "--Este é um método comum de fraude."
-
-1012703-64 = "Bem, o contrato...! ?"
-
-1012703-65 = "Vamos, senhor."
-
-1012703-72 = "parque próximo"
-
-1012703-73 = "... Ufa."
-
-1012703-74 = "Por favor, não faça essa cara. Estou muito bem."
-
-1012703-75 = "Parece que você está se perguntando como eles descobriram o golpe."
-
-1012703-76 = "É fácil. Você tem que pensar da perspectiva da outra pessoa. Quando você faz isso, os métodos do crime vêm naturalmente à mente...#nÉ o mesmo que pensar em como “importar” algo para a academia."
-
-1012703-77 = "Então..."
-
-1012703-78 = "...Bom."
-
-1012703-79 = "[s] \"Miyo!?\""
-
-1012703-80 = "Eu me pergunto por que sou tão tendencioso em relação a este lugar..."
-
-1012703-81 = "Mesmo não tendo talento para o que realmente quero fazer..."
-
-1012703-82 = "Só consigo pensar em crime..."
-
-1012703-83 = "Com isso, é impossível eu me tornar um romancista, certo?"
-
-1012703-84 = "[s] \"Ninguém sabe disso.\""
-
-1012703-88 = "Isso não me dá nenhum conforto..."
-
-1012703-89 = "[s] \"Mas Miyo, pelo menos... ela não seguirá o caminho errado.\""
-
-1012703-93 = "[ns] \"――Você perceberá que não está certo.\""
-
-1012703-94 = "……."
-
-1012703-95 = "Tão importante quanto encontrar o caminho certo é evitar o caminho errado."
-
-1012703-96 = "Se eu não tivesse esse talento, provavelmente teria caído no golpe que mencionei anteriormente."
-
-1012703-97 = "Talvez nem tudo seja ruim..."
-
-1012703-98 = "...Mas ainda não consigo gostar."
-
-1012703-99 = "[s3] \"Mas com o dinheiro que ganhei com as atividades do clube...\"\n[s4] \"Posso até comprar uma máquina de escrever nova...\""
-
-1012703-104 = "Isso é...!"
-
-1012703-106 = "(Passei algum tempo conversando com Miyo.)"
-
+1012703-1 = "デビューを待ちながら"
+1012703-2 = "繫華街"
+1012703-3 = "（翌日、仕事のため早朝からワイルドハントを訪れた帰り道――）"
+1012703-4 = "[ns] \"最近、ワイルドハントによく行くなぁ……。\""
+1012703-5 = "（D.U.シラトリ区を通りがかった）"
+1012703-6 = "あれ、先生？"
+1012703-9 = "お、おはようございます……。"
+1012703-10 = "[s] \"ミヨ？どうしたの？\""
+1012703-11 = "それが……。"
+1012703-12 = "出版社から声がかかりまして、#n打ち合わせのために外出許可をいただいたんです……。"
+1012703-13 = "[s] \"出版社から！？\""
+1012703-14 = "はい。この前シャーレで書いた恋愛小説の原稿を、#nいろいろな出版社に送ってみたんです。"
+1012703-15 = "そのうちの一社から、出版したいと声をかけていただいて……。"
+1012703-16 = "[s1] \"あれ、恋愛小説だったんだ……。\"\n[s2] \"じゃあ、これでプロデビューだね！\""
+1012703-19 = "ま、まだ出版契約も結んでいませんから……！"
+1012703-20 = "これから打ち合わせなんですよ。"
+1012703-21 = "このあと14時からで――"
+1012703-22 = "――えっ？#n先生も一緒に？"
+1012703-23 = "そんな……私のためにわざわざ……。"
+1012703-24 = "契約書の内容を確認する第三者がいたほうがいい……ですか？"
+1012703-28 = "で、でしたら……。"
+1012703-29 = "よろしくお願いします、先生。"
+1012703-31 = "（ミヨと一緒に出版社へ向かった）"
+1012703-33 = "出版社・会議室"
+1012703-34 = "お待ちしておりました、[ruby=さくらい]桜井[/ruby]先生。"
+1012703-35 = "ところで、なぜシャーレの先生まで……。"
+1012703-36 = "[s] \"私の生徒が出版契約を結ぶと聞いたので、その付き添いです。\""
+1012703-37 = "ま、まあいいでしょう。"
+1012703-38 = "では、始めましょうか。#nまず、出版契約を結ぶにあたり、弊社の立場についてお伝えしておきます。"
+1012703-39 = "ご存知の通り、本を出版するまでには、とてもコストがかかります。"
+1012703-40 = "印刷費はもちろん、編集やデザイン、マーケティング――"
+1012703-41 = "さらに出版した後、売れ残った本を保管する倉庫の利用料も……。#nここまではわかりますか？"
+1012703-42 = "え、ええ。#n知っています。ですが、どうしてそれを……？"
+1012703-43 = "我々が桜井先生の小説の出版に際し、いかにリスクを負うか、#nご理解いただきたかったのです。"
+1012703-44 = "[s] \"あの、出版で生じた費用は出版社が負うものでは……。\""
+1012703-45 = "そう！そこで、弊社から一つご提案があるのです！"
+1012703-46 = "つまり……桜井先生も共に「投資」していただけないかなと！"
+1012703-47 = "……？"
+1012703-48 = "ご安心ください！編集、デザイン、印刷……そして、マーケティングの費用を桜井先生にお支払いいただくだけです！"
+1012703-49 = "あとは我々にお任せを！"
+1012703-50 = "[s] \"それって実質、ミヨが全額負担するんじゃ……。\""
+1012703-51 = "なるほど……！"
+1012703-52 = "[s] \"ミヨ……？\""
+1012703-53 = "でも、それだけではありませんよね？"
+1012703-54 = "はい？"
+1012703-55 = "例えば……本が発売したら、初動を良くするために自費で500冊ほど購入する必要があるのではないでしょうか？"
+1012703-56 = "え、ええ！その通りです！"
+1012703-57 = "そして、今後執筆する作品のクオリティ向上のために、#n御社が提供するライティング講座を受講する必要がある……しかも、有料で。"
+1012703-58 = "よくご存じですね！"
+1012703-59 = "ええ、もちろん。"
+1012703-60 = "――よくある、詐欺の手口ですから。"
+1012703-64 = "け、契約書が……！？"
+1012703-65 = "行きましょう、先生。"
+1012703-72 = "近くの公園"
+1012703-73 = "……ふぅ。"
+1012703-74 = "そんな顔をしないでください。私は本当に大丈夫ですから。"
+1012703-75 = "どうやって詐欺を見抜いたのか気になっているようですね。"
+1012703-76 = "簡単です。相手の立場で考えればいいんですよ。そうすると、自然と犯罪の手口が浮かんでくる……#n学院への「輸入」方法を考えるときと、同じですね。"
+1012703-77 = "ですので……。"
+1012703-78 = "……ぐすっ。"
+1012703-79 = "[s] \"ミヨ！？\""
+1012703-80 = "なんで、こんなところにばっかり偏るんでしょう……。"
+1012703-81 = "本当にやりたいことの才能は、全然ないのに……。"
+1012703-82 = "犯罪のことばかり頭が回って……。"
+1012703-83 = "これじゃ私、恋愛小説家になるなんて無理ですよね？"
+1012703-84 = "[s] \"それは誰にも分からないことだよ。\""
+1012703-88 = "ぜんぜん慰めになってませんけど……。"
+1012703-89 = "[s] \"でもミヨは、少なくとも……間違った道には進まないはず。\""
+1012703-93 = "[ns] \"――正しくないことに、気づけるんだから。\""
+1012703-94 = "……。"
+1012703-95 = "正しい道を見つけるのと同じくらい……#n間違った道を避けることも大事……。"
+1012703-96 = "私にこの才能がなかったら、先ほどの詐欺にも騙されていたんでしょうね。"
+1012703-97 = "悪いことばかりじゃない……のかも。"
+1012703-98 = "……やっぱり好きにはなれませんけど。"
+1012703-99 = "[s3] \"でも、部活で稼いだお金があるからこそ……。\"\n[s4] \"新しいタイプライターも買えるんだし……。\""
+1012703-104 = "そ、それは……！"
+1012703-106 = "（しばらくの間、ミヨと雑談をして時間を過ごした）"

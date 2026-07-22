@@ -1,107 +1,54 @@
 [translation]
-1010005-1 = "cavaleiro mascarado"
-
-1010005-3 = "(Enquanto espera por Shiroko no local combinado...)"
-
-1010005-9 = "Ke-ke!"
-
-1010005-12 = "[ns1] \"Uau!?\"\n[ns2] Evacue para um lugar seguro."
-
-1010005-19 = "Ei, é um assalto! #nAlguém, por favor, pare esse caminhão!"
-
-1010005-20 = "Tem muito repolho aí!"
-
-1010005-21 = "[s3] (Recentemente, a situação de segurança em Abidos parece ter piorado ainda...)\n[s4] (Não, está pior agora...)"
-
-1010005-27 = "Sensei, me desculpe."
-
-1010005-34 = "J-Bicicleta! ?"
-
-1010005-35 = "É um cavaleiro mascarado!"
-
-1010005-37 = "Ah, isso é mentira! ?"
-
-1010005-38 = "É impossível alcançar um caminhão de bicicleta!"
-
-1010005-52 = "[ns] \"………….\""
-
-1010005-55 = "[ns] \"………….\""
-
-1010005-60 = "Obrigado, Cavaleiro Mascarado!"
-
-1010005-61 = "Achei que fosse uma lenda urbana!"
-
-1010005-66 = "...Sensei, vamos para outro lugar."
-
-1010005-67 = "[s] \"Isso mesmo...\""
-
-1010005-74 = "Hum, está tudo bem aqui."
-
-1010005-75 = "[s5] \"Como isso aconteceu!?\"\n[s6] \"Não se destacou realmente!?\""
-
-1010005-81 = "Hum."
-
-1010005-82 = "[ns] \"Cavaleiro Mascarado, hein...?\""
-
-1010005-83 = "Queria esconder meu rosto para que nenhum boato estranho se espalhasse."
-
-1010005-84 = "[s] \"Em vez disso, parece ter o efeito oposto...\""
-
-1010005-85 = "……sim."
-
-1010005-86 = "[s] \"Essa é sua bicicleta nova?\""
-
-1010005-87 = "Ainda não terminou. #nEu nem tenho camisa de ciclismo..."
-
-1010005-88 = "Assim que eu acertar tudo, te aviso."
-
-1010005-89 = "[s] \"Estou ansioso por isso. A propósito, qual é o seu problema?\""
-
-1010005-90 = "sim."
-
-1010005-91 = "A força-tarefa me pediu para herdar o nome de #n \"Conselho Estudantil de Abydos\"..."
-
-1010005-92 = "Quando penso no significado daquele conselho estudantil, não sei como responder..."
-
-1010005-93 = "[s] \"Hmm...\""
-
-1010005-94 = "Sensei, o que você acha que devo fazer...?"
-
-1010005-95 = "[s7] \"Com o grupo de maiôs mascarados...\"\n[s8] \"Cavaleiro Mascarado, hein...\""
-
-1010005-100 = "[ns9] \"Ambos estão mascarados...\"\n[ns10] \"Eu me pergunto se Abydos está bem...\""
-
-1010005-103 = "[ns] \"Acho que você deveria pensar sobre esse assunto sozinho e decidir.\""
-
-1010005-104 = "sim……."
-
-1010005-105 = "[ns] \"Mas acho que todos estão preocupados com Shiroko.\""
-
-1010005-109 = "……."
-
-1010005-110 = "sim."
-
-1010005-111 = "Entendi."
-
-1010005-112 = "Tente enviar uma mensagem agora."
-
-1010005-117 = "Hum, tudo bem."
-
-1010005-118 = "[ns] \"O que você enviou?\""
-
-1010005-119 = "...Isso é um segredo."
-
-1010005-120 = "[s] \"É um segredo.\""
-
-1010005-125 = "Ah, já tenho uma resposta."
-
-1010005-130 = "[ns] \"Posso ver?\""
-
-1010005-137 = "“Hmm, aceito o desafio do Cavaleiro Mascarado. Da Equipe de Maiôs Mascarados.”"
-
-1010005-141 = "[ns] \"...É fácil saber de quem é a mensagem.\""
-
-1010005-142 = "……sim."
-
-1010005-143 = "Concordo."
-
+1010005-1 = "覆面ライダー"
+1010005-3 = "（約束の場所でシロコを待っていると……）"
+1010005-9 = "[ruby=ど]退[/ruby]け、[ruby=ど]退[/ruby]けぇ！"
+1010005-12 = "[ns1] \"うわっ！？\"\n[ns2] 安全な場所に避難する。"
+1010005-19 = "ご、強盗です！#n誰か、あのトラックを止めてください！"
+1010005-20 = "あの中には、キャベツがたくさんあるんだ！"
+1010005-21 = "[s3] （最近、アビドスの治安がさらに悪くなっているような……）\n[s4] （いや、今はそれより……）"
+1010005-27 = "先生、ちょっとごめん。"
+1010005-34 = "じ、自転車！？"
+1010005-35 = "覆面ライダーだ！"
+1010005-37 = "う、嘘だろ！？"
+1010005-38 = "自転車でトラックに追いつくなんて、ありえねぇ！"
+1010005-52 = "[ns] \"…………。\""
+1010005-55 = "[ns] \"…………。\""
+1010005-60 = "ありがとうございます、覆面ライダーさん！"
+1010005-61 = "都市伝説かと思ってました！"
+1010005-66 = "……先生、どこか場所を移そう。"
+1010005-67 = "[s] \"そうだね……。\""
+1010005-74 = "ん、ここなら大丈夫。"
+1010005-75 = "[s5] \"どうしてこうなったの！？\"\n[s6] \"すごく目立ってなかった！？\""
+1010005-81 = "うーん。"
+1010005-82 = "[ns] \"覆面ライダー、だっけ……？\""
+1010005-83 = "変な噂が立たないように、顔を隠そうと思って。"
+1010005-84 = "[s] \"むしろ、逆効果のような……。\""
+1010005-85 = "……ん。"
+1010005-86 = "[s] \"それ、新しい自転車の？\""
+1010005-87 = "まだ未完成だけど。#nサイクルジャージもないし……。"
+1010005-88 = "ちゃんと組めたら、紹介する。"
+1010005-89 = "[s] \"楽しみにしてるね。ところで、悩み事って？\""
+1010005-90 = "ん。"
+1010005-91 = "対策委員会から、#n「アビドス生徒会」の名前を受け継いでほしい、って言われたんだけど……。"
+1010005-92 = "あの生徒会の意味を考えたら、#nどう答えれば良いのか分からなくて……。"
+1010005-93 = "[s] \"うーん……。\""
+1010005-94 = "先生、どうすれば良いと思う……？"
+1010005-95 = "[s7] \"覆面水着団と……。\"\n[s8] \"覆面ライダー、か……。\""
+1010005-100 = "[ns9] \"どっちも覆面……。\"\n[ns10] \"アビドスって、大丈夫なのかな……。\""
+1010005-103 = "[ns] \"この問題は、自分で悩んで決めるべきだと思う。\""
+1010005-104 = "ん……。"
+1010005-105 = "[ns] \"ただ、みんなシロコが心配なんじゃないかな。\""
+1010005-109 = "……。"
+1010005-110 = "ん。"
+1010005-111 = "分かった。"
+1010005-112 = "さっそくメッセージを送ってみる。"
+1010005-117 = "ん、これで良し。"
+1010005-118 = "[ns] \"なんて送ったの？\""
+1010005-119 = "……それは秘密。"
+1010005-120 = "[s] \"秘密かぁ。\""
+1010005-125 = "あ、もう返事が。"
+1010005-130 = "[ns] \"見ても良いの？\""
+1010005-137 = "「ん、覆面ライダーからの挑戦状、受けて立つ。覆面水着団より」……だって。"
+1010005-141 = "[ns] \"……誰からのメッセージか分かりやすいね。\""
+1010005-142 = "……ん。"
+1010005-143 = "そうだね。"

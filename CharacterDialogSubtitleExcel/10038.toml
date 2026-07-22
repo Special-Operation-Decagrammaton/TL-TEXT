@@ -1,9 +1,9 @@
-[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 21/06.]
-10038-CVGroup_UITitle_Idle1-1 = "Blue Archive."
-10038-CVGroup_CharacterGet_Idle1-1 = "Sou Tsukiyuki Miyako, Esquadrão RABBIT,\nAcademia Especial SRT.\nÀs suas ordens, Sensei."
-10038-CVGroup_Cafe_Idle1-1 = "……Encontrei um ornamento muito fofo."
-10038-CVGroup_Cafe_Idle2-1 = "Um espaço com essas dimensões,\neu consigo neutralizar mesmo sozinha……"
-10038-CVGroup_Cafe_Idle3-1 = "E pensar que um local desses\nteria um ponto de sniper……"
-10038-CVGroup_Cafe_Idle4-1 = "……Na escuta, recepção limpa e clara."
-10038-CVGroup_Cafe_Idle5-1 = "Ocorreu algum problema?"
-10038-CVGroup_WeaponGet_Idle1-1 = "RABBIT Submetralhadora Tipo-31,\nrecebida com sucesso.\n……Que fofa."
+[translation]
+10038-CVGroup_UITitle_Idle1-1 = "ブルーアーカイブ。"
+10038-CVGroup_CharacterGet_Idle1-1 = "SRT特殊学園、RABBIT小隊の月雪ミヤコです。\n先生、ご指示を。"
+10038-CVGroup_Cafe_Idle1-1 = "……可愛い飾りを発見しました。"
+10038-CVGroup_Cafe_Idle2-1 = "これぐらいの空間なら、\n私一人でも制圧できそうな……。"
+10038-CVGroup_Cafe_Idle3-1 = "こんなところに狙撃ポイントが……。"
+10038-CVGroup_Cafe_Idle4-1 = "……受信中、感度良好。"
+10038-CVGroup_Cafe_Idle5-1 = "何か問題でもありましたか？"
+10038-CVGroup_WeaponGet_Idle1-1 = "RABBIT31式短機関銃、確かに受け取りました。\n……可愛い。"

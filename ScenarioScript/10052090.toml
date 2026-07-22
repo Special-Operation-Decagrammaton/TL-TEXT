@@ -1,95 +1,48 @@
 [translation]
-10052090-1 = "Kokumar: Antigo protetor do reino"
-
-10052090-3 = "[ns] \"Ei, Kei-chan.\""
-
-10052090-4 = "O que é?"
-
-10052090-5 = "[s] \"Eu me pergunto se não há problema em deixar Kei-chan participar da batalha...\""
-
-10052090-6 = "É agora?"
-
-10052090-7 = "[s] \"Porque estou preocupado...\""
-
-10052090-8 = "Se você estiver me provocando de novo, ficarei com raiva."
-
-10052090-9 = "Está tudo bem, Sensei. Quando chegar a hora, deixe comigo."
-
-10052090-10 = "[s] \"Aimi é a melhor agente.\""
-
-10052090-14 = "Acabei de dizer melhor agente?"
-
-10052090-15 = "[s] \"Oh, hum, claro, Toki também! Sim!\""
-
-10052090-16 = "Estou satisfeito, então, por favor, me desculpe."
-
-10052090-22 = "O que estou sendo mostrado?"
-
-10052090-23 = "Pensando bem, o Presidente Rio foi quem descobriu Kokuma."
-
-10052090-24 = "foto? Sim... isso mesmo."
-
-10052090-25 = "Um navio artesanal aparece de repente do solo. Isso me surpreendeu."
-
-10052090-26 = "Realmente parece um “fenômeno singular”."
-
-10052090-27 = "……."
-
-10052090-28 = "Rio. Como fundador do Departamento de Investigação de Fenômenos Peculiares, o que você acha da situação atual?"
-
-10052090-29 = "Huh? Kei também sabe disso?"
-
-10052090-30 = "Bem... aprendi a maior parte dos dados e do histórico até agora."
-
-10052090-31 = "Você não disse isso...?"
-
-10052090-33 = "Isso mesmo..."
-
-10052090-34 = "Bem, sobre a situação atual. #nEu me pergunto se a expressão ``profundamente emocional'' deveria ser usada em situações como essa?"
-
-10052090-36 = "...!"
-
-10052090-37 = "...!"
-
-10052090-38 = "Por que você está assim?"
-
-10052090-39 = "Ah... não, isso."
-
-10052090-42 = "Por que você está assim?"
-
-10052090-44 = "Ah... não, isso."
-
-10052090-45 = "Também penso que o presidente mudou em relação a antes."
-
-10052090-46 = "Vou falar francamente! ?"
-
-10052090-48 = "Posso considerar isso um bom significado? Ou..."
-
-10052090-50 = "Você está de repente perdendo seu julgamento? ?"
-
-10052090-51 = "Kay, acalme-se. Se você fica com raiva o tempo todo, pode acabar cometendo um erro no seu circuito emocional, certo?"
-
-10052090-53 = "Eu não posso negar. Seu corpo ainda não foi totalmente analisado."
-
-10052090-54 = "Se ocorrer um erro fatal, talvez eu não consiga lidar com isso."
-
-10052090-61 = "Ah... já...!"
-
-10052090-62 = "[s] \"...Kei-chan, você está bem?\""
-
-10052090-63 = "Se eu desmaiar de estresse, é tudo culpa sua..."
-
-10052090-67 = "Kay! ? Não! Alice, eu não quero isso!"
-
-10052090-68 = "Não... eu só estava tentando dizer isso..."
-
-10052090-69 = "[s] \"É um monte de problemas...\""
-
-10052090-70 = "Obrigado pela compreensão, Sensei..."
-
-10052090-76 = "Agora é hora de trabalhar, Kay. O Sensei está procurando um lugar seguro."
-
-10052090-77 = "É melhor trabalhar para não ter que pensar em coisas desnecessárias..."
-
-10052090-78 = "Bem, vamos começar."
-
+10052090-1 = "コクマー：王国を守りし古代の守護者 "
+10052090-3 = "[ns] \"ねぇ、ケイちゃん。\""
+10052090-4 = "なんですか？"
+10052090-5 = "[s] \"ケイちゃんを戦闘に参加させていいのかな……。\""
+10052090-6 = "今さらですか？"
+10052090-7 = "[s] \"だって心配で……。\""
+10052090-8 = "またからかっているなら、怒りますよ。"
+10052090-9 = "大丈夫だよ、先生。いざとなったら私に任せて。"
+10052090-10 = "[s] \"エイミは最高のエージェントだもんね。\""
+10052090-14 = "今、最高のエージェントと言いましたか。"
+10052090-15 = "[s] \"あ、えっと、もちろんトキもだよ！うん！\""
+10052090-16 = "満足したので、これで失礼します。"
+10052090-22 = "私は何を見せられているんですか……。"
+10052090-23 = "そういえば、コクマーを発見したのってリオ会長だったよね。"
+10052090-24 = "え？ええ……そうね。"
+10052090-25 = "地面から急に工作船が現れるのだもの。あれには驚かされたわね。"
+10052090-26 = "まさに「特異現象」って感じだね。"
+10052090-27 = "……。"
+10052090-28 = "リオ。特異現象捜査部を立ち上げた張本人として、今の状況についてどう思いますか？"
+10052090-29 = "あれ？ケイもそれ知ってるの？"
+10052090-30 = "まあ……今までのデータやヒストリーは、おおよそ学習していますので。"
+10052090-31 = "これ、言ってませんでしたっけ……？"
+10052090-33 = "そうだったのね……。"
+10052090-34 = "えっと、今の状況について、だったわね。#n感慨深い……という表現は、こういうときに使うのかしら？"
+10052090-36 = "……！"
+10052090-37 = "……！"
+10052090-38 = "なぜ、そんな表情を？"
+10052090-39 = "あ……いえ、その。"
+10052090-42 = "なぜ、そんな表情を？"
+10052090-44 = "あ……いえ、その。"
+10052090-45 = "会長も、昔に比べて変わったなって思って。"
+10052090-46 = "ド直球に言いますね！？"
+10052090-48 = "それは……良い意味と受け取っていいのかしら？それとも……。"
+10052090-50 = "急に判断力落ちてませんか！？"
+10052090-51 = "ケイ、落ち着いて。いちいち怒ってたら、感情回路にエラーが生じちゃうかもよ？"
+10052090-53 = "否定はできないわ。貴女の身体は、まだ完全には分析できていないのだから。"
+10052090-54 = "致命的なエラーが生じたら対処できないかもしれないわ。"
+10052090-61 = "あー……、もう……っ！"
+10052090-62 = "[s] \"……ケイちゃん、大丈夫？\""
+10052090-63 = "私がストレスで倒れてしまったら、あなた達のせいですからね……。"
+10052090-67 = "ケイ！？ダメです！アリス、そんなの嫌です！"
+10052090-68 = "いえ……言ってみただけですよ……。"
+10052090-69 = "[s] \"苦労が多いね……。\""
+10052090-70 = "分かってくれてありがとうございます、先生……。"
+10052090-76 = "さあ、仕事の時間だよ、ケイ。先生は安全な場所を探して。"
+10052090-77 = "仕事をしていたほうが、余計なことを考えずに済みますね……。"
+10052090-78 = "じゃあ、始めよっか。"

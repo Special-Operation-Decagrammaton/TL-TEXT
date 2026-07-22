@@ -1,106 +1,56 @@
 [translation]
-1010202-1 = "Probabilidade de ganhar"
-
-1010202-2 = "(Eu estava curioso sobre o Momotalk antes, então visitei Hiyori.)"
-
-1010202-5 = "Eh, ehehe…."
-
-1010202-6 = "Ah, Senseia?"
-
-1010202-7 = "Ei, você veio...! #nEu estava prestes a te perguntar..."
-
-1010202-8 = "[s] \"O que Hiyori está fazendo?\""
-
-1010202-9 = "Ah, é isso..."
-
-1010202-10 = "Ehehe. #nEstou escrevendo isso porque quero um maiô..."
-
-1010202-11 = "É um cartão-postal de sorteio de revista, mas parece que se #n episódio for escolhido, você ganhará um maiô."
-
-1010202-12 = "Se você escrever sobre nossas circunstâncias vivendo em ruínas no meio do verão assim e nos enviar..."
-
-1010202-13 = "Tenho certeza que o responsável vai ficar com pena de você e te dar um maiô de presente. #nEhehe...!"
-
-1010202-14 = "[s1] \"Disseram que você poderia ganhar um maiô de graça...\"\n[s2] \"Eu não sabia que era um cartão postal de prêmio...\""
-
-1010202-17 = "Se você enviar hoje, pode chegar antes de você ir para a praia!"
-
-1010202-18 = "A razão pela qual eu quis perguntar sobre a placa de Petri foi para perguntar se estaria tudo bem se eu fizesse da placa de Petri o destinatário do presente..."
-
-1010202-19 = "Como você sabe, não temos endereço...hehe."
-
-1010202-20 = "[s] \"Claro, não me importo muito...\""
-
-1010202-23 = "[ns] Verifique a revista que Hiyori está segurando na mão."
-
-1010202-24 = "(...Foi uma revista publicada há dois meses)"
-
+1010202-1 = "当選確率"
+1010202-2 = "（先ほどのモモトークが気になり、ヒヨリのもとを訪れた）"
+1010202-5 = "え、えへへ……。"
+1010202-6 = "あっ、先生？"
+1010202-7 = "き、来てくれたんですね……！#nちょうど、伺おうと思っていたんですが……。"
+1010202-8 = "[s] \"ヒヨリは何をしてるの？\""
+1010202-9 = "あ、それがですね……。"
+1010202-10 = "えへへ。#n水着が欲しくて、これを書いているところなんです……。"
+1010202-11 = "雑誌の懸賞はがきなんですけど……#nエピソードが選ばれると、水着がもらえるみたいで。"
+1010202-12 = "こんな真夏に、廃墟で暮らしている私たちの事情を書いて送れば……。"
+1010202-13 = "担当の方も、きっと憐れんで水着をプレゼントしてくれるに違いありません。#nえへへ……！"
+1010202-14 = "[s1] \"水着を無料でもらえるかも、とは言ってたけど……。\"\n[s2] \"懸賞はがきだったとは……。\""
+1010202-17 = "今日中に投函すれば、海に行くまでに届くかもしれません！"
+1010202-18 = "それでシャーレを伺おうと思っていた理由は、#nプレゼントの宛先をシャーレにしても良いか聞くためで……。"
+1010202-19 = "ご存知の通り、私たちには住所なんてないですから……えへへ。"
+1010202-20 = "[s] \"もちろん、それくらい構わないけど……。\""
+1010202-23 = "[ns] ヒヨリが手に持っている雑誌を確認してみる。"
+1010202-24 = "（……2ヶ月前に発行された雑誌だった）"
 1010202-25 = "先生、どうかされたんですか？"
-1010202-26 = "急にそんな目を……#nや、やっぱり先生も、私のことを不憫だと思ってるんですね……！ ?"
-
-1010202-27 = "...Minha vida não se parece em nada com esta ruína."
-
-1010202-28 = "Ah. #nNa verdade, está melhor agora..."
-
-1010202-29 = "As chances de ganhar deveriam aumentar ainda mais, infelizmente...Eh, hehe."
-
-1010202-30 = "[s3] \"Hmm...\"\n[s4] (Não vamos falar que o período de inscrição já passou...)"
-
-1010202-33 = "Hehe, terminei de escrever."
-
-1010202-34 = "Sensei, você poderia, por favor, deixar isso na caixa de correio no caminho para casa...?"
-
-1010202-35 = "...Estou ansioso pelo maiô!"
-
-1010202-37 = "(O prêmio que Hiyori tentou enviar expirou, então ela o trouxe de volta para a placa de Petri.)"
-
-1010202-38 = "[ns] \"Deixe-me ler por um momento...\""
-
-1010202-40 = "Olá, vivo com dor todos os dias."
-
-1010202-41 = "Minha vida é como uma pedra sem diversão nem felicidade, mas gostaria de ir ao mar pelo menos uma vez."
-
-1010202-42 = "Por favor me ajude a realizar meu pequeno sonho."
-
-1010202-43 = "Prêmio desejado: Maiô VIP dourado de luxo de alta qualidade"
-
-1010202-46 = "[ns] \"...Hmm.\""
-
+1010202-26 = "急にそんな目を……#nや、やっぱり先生も、私のことを不憫だと思ってるんですね……！？"
+1010202-27 = "……私の人生なんて、この廃墟同然でしょうし。"
+1010202-28 = "あっ。#nむしろ今は、そのほうが……"
+1010202-29 = "不憫なほど当選確率も上がるはずですし……え、えへへ。"
+1010202-30 = "[s3] \"うーん……。\"\n[s4] （応募期間が過ぎていることは、言わないでおこう……）"
+1010202-33 = "えへへ、書き終わりました。"
+1010202-34 = "先生、帰りにこれをポストに投函してもらっても良いですか……？"
+1010202-35 = "……水着、楽しみです！"
+1010202-37 = "（ヒヨリが送ろうとした懸賞は期限が過ぎていたため、シャーレに持ち帰った）"
+1010202-38 = "[ns] \"ちょっと読ませてもらうね……。\""
+1010202-40 = "はじめまして、私は毎日苦しみながら生きています。"
+1010202-41 = "楽しいことも、嬉しいこともない石ころみたいな人生ですが、#n一度くらい海に行ってみたいんです。"
+1010202-42 = "私の小さな夢が叶うように、どうか助けてください。"
+1010202-43 = "希望する当選品：ゴールデン・ラグジュアリーVIPハイエンド水着"
+1010202-46 = "[ns] \"……う～ん。\""
 1010202-48 = "（その後、ショッピングモールで水着を購入した）"
 1010202-50 = "あっ、先生。それはもしかして……！"
-1010202-51 = "É isso, certo? #nIsso chegou! ?"
-
-1010202-52 = "[s5] \"Ah, isso mesmo.\"\n[s6] \"Parece que você ganhou o sorteio.\""
-
-1010202-55 = "Waaaaaaaaaaaaa!"
-
-1010202-56 = "Isto significa que se esperares, haverá bom tempo no percurso marítimo...! #nFinalmente, há felicidade na minha vida...!"
-
-1010202-60 = "...Bem, não parece um \"maiô VIP de luxo dourado de alta qualidade\"."
-
+1010202-51 = "アレですよね？#nアレが届いたんですよね！？"
+1010202-52 = "[s5] \"そ、そうだよ。\"\n[s6] \"懸賞、当たったみたいだね。\""
+1010202-55 = "わあああぁぁぁっ！"
+1010202-56 = "待てば海路の日和ありとは、このことですね……！#nついに、私の人生にも幸せが……！"
+1010202-60 = "……あれ、「ゴールデン・ラグジュアリーVIPハイエンド水着」ではないような。"
 1010202-61 = "まあ、細かいことは良いでしょう……えへへ。"
 1010202-62 = "さっそく着てみますね……！"
-1010202-66 = "...Ehehe, o que você acha?"
-
-1010202-67 = "[s] \"Combina bem com você.\""
-
-1010202-68 = "Eu estou tão feliz...."
-
-1010202-69 = "Parece que todo o trabalho duro que fiz até agora valeu a pena..."
-
-1010202-73 = "Isso mesmo."
-
-1010202-77 = "Este não é o momento!"
-
-1010202-78 = "[s] \"...O que é isso?\""
-
-1010202-79 = "Estes são os postais de prémios de revistas que colecionei até agora!"
-
-1010202-80 = "Este tem óculos escuros e este tem uma boia! #nVocê pode até comprar uma máquina de gelo raspado...!"
-
-1010202-81 = "Hehe, o que devemos fazer se obtivermos todas as respostas... #nVocê poderá passar o verão mais luxuoso...!"
-
-1010202-82 = "Ah, está tudo bem. Também temos postais para #nSenseies!"
-
-1010202-83 = "Ehehe. Estou ansioso pelo mar...!"
-
+1010202-66 = "……えへへ、どうですか？"
+1010202-67 = "[s] \"よく似合ってるよ。\""
+1010202-68 = "嬉しい、です……。"
+1010202-69 = "今までの苦労が、少しだけ報われたような……。"
+1010202-73 = "そ、そうでした。"
+1010202-77 = "こうしている場合じゃありません！"
+1010202-78 = "[s] \"……これは？\""
+1010202-79 = "今まで集めてきた雑誌の懸賞はがきです！"
+1010202-80 = "これはサングラスがもらえて、こっちは浮き輪が！#nほかにもかき氷機がもらえるものまで……！"
+1010202-81 = "えへへ、全部当たったらどうしましょう……。#n最高に贅沢な夏が過ごせるかもしれません……！"
+1010202-82 = "あ、大丈夫ですよ。#n先生の分のはがきもありますから！"
+1010202-83 = "えへへ。海、楽しみです……！"

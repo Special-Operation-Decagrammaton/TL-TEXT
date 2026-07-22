@@ -1,123 +1,62 @@
 [translation]
-1011705-1 = "garota e aventura"
-
-1011705-2 = "(Por enquanto, fui para o local onde Hikari estava.)"
-
-1011705-8 = "[ns] \"O que você está fazendo hoje?\""
-
-1011705-10 = "Sensei, Hikari está agora em apuros."
-
-1011705-14 = "[ns] \"Não há nada por aí...?\""
-
-1011705-15 = "Tudo aqui é Magmar."
-
-1011705-16 = "As áreas brancas são áreas rochosas. Zona segura."
-
-1011705-17 = "Se cair no magma, acabou."
-
-1011705-21 = "[ns1] \"Ah...!\"\n[ns2] \"Eu também me lembro de tocar assim...\""
-
-1011705-24 = "Sensei, há magma."
-
-1011705-25 = "Fugir!"
-
-1011705-28 = "(Como Hikari me disse, mudei para o ladrilho branco)"
-
-1011705-30 = "Bom trabalho!"
-
-1011705-31 = "Sobreviva até esse cruzamento."
-
-1011705-32 = "[s] \"Ok, vamos tentar.\""
-
-1011705-39 = "Os vermelhos estão seguros em ilhas flutuantes."
-
-1011705-40 = "Se cair, você está fora."
-
-1011705-44 = "[ns] \"Ruim... não há ladrilho vermelho...!\""
-
-1011705-45 = "Há um tapete vermelho em frente àquela loja."
-
-1011705-46 = "É uma zona segura ali."
-
-1011705-47 = "[s] \"Você consegue voar tão longe...?\""
-
-1011705-48 = "Se isso não for possível, a aventura do Sensei acabou."
-
-1011705-49 = "[s] \"Gunnu...vou tentar!\""
-
-1011705-57 = "[ns] \"Ah!\""
-
-1011705-61 = "Uau! ?"
-
-1011705-62 = "[s] \"S-me desculpe...!!\""
-
-1011705-63 = "O que diabos...?"
-
-1011705-64 = "[s] \"Não, isso...\""
-
-1011705-69 = "Vermelho."
-
-1011705-70 = "Se você não pisar no vermelho, você está fora."
-
-1011705-74 = "Não posso viver a menos que esteja nesta ilha."
-
-1011705-75 = "Huh?"
-
-1011705-76 = "...... ah!"
-
-1011705-77 = "É nostálgico."
-
-1011705-78 = "Fingir ser uma aventura é algo que eu fazia muito quando era pequeno."
-
-1011705-79 = "Haha, desejo-lhe uma boa viagem."
-
-1011705-84 = "[ns] \"É um pouco embaraçoso...\""
-
-1011705-85 = "É uma pena."
-
-1011705-86 = "A vida é mais importante."
-
-1011705-87 = "[s] \"Ah, isso mesmo...!\""
-
-1011705-91 = "[ns] \"Droga...Se isso acontecer, eu irei até o fim!\""
-
-1011705-92 = "Vamos."
-
-1011705-106 = "(Depois de uma dura aventura com Hikari, ele voltou para a placa de Petri)"
-
-1011705-108 = "Hoje alcançamos o recorde mais longo! Sim, eu te amo."
-
-1011705-109 = "[s3] \"Foi divertido... Acho que é hora de voltar ao trabalho.\"\n[s4] \"A propósito, onde Hikari estava planejando ir?\""
-
-1011705-115 = "Eu esqueci."
-
-1011705-116 = "[s] \"E-eu me pergunto se está tudo bem...\""
-
-1011705-117 = "Tudo bem. Consegui limpá-lo sem morte."
-
-1011705-118 = "Eu falhei com o Sensei 8 vezes, mas não é ruim se for sua primeira tentativa."
-
-1011705-119 = "[s] \"Bom...eu fiz isso há muito tempo.\""
-
-1011705-120 = "um……."
-
-1011705-121 = "Hikari, não consigo me mover."
-
-1011705-122 = "Não é uma zona segura aqui."
-
-1011705-123 = "[s5] \"Agora que penso nisso...\"\n[s6] \"De agora em diante, só existem peças da mesma cor.\""
-
-1011705-126 = "Bandeira da morte de Hikari."
-
-1011705-127 = "Tem sido divertido até agora. Vou deixar o resto para você."
-
-1011705-128 = "Não se esqueça de Hikari."
-
-1011705-132 = "[ns] \"Eu vou ajudar Hikari!\""
-
-1011705-134 = "(Ele pegou Hikari, que não conseguia se mover, e foi para o escritório.)"
-
-1011705-135 = "Uau, isso é divertido."
-
-1011705-137 = "(Hikari brincou alegremente com a placa de Petri e foi para casa.)"
-
+1011705-1 = "ガール・オン・アンド・アドベンチャー "
+1011705-2 = "（とりあえずヒカリが居るという場所に向かった）"
+1011705-8 = "[ns] \"今日は何してるの？\""
+1011705-10 = "先生、ヒカリ今ちょーぴんち。"
+1011705-14 = "[ns] \"周りには何もないけど……？\""
+1011705-15 = "ここ、全部マグマー。"
+1011705-16 = "白いとこは岩場。安全地帯ー。"
+1011705-17 = "マグマに落ちたらおわりー。"
+1011705-21 = "[ns1] \"ああっ……！\"\n[ns2] \"私もこうやって遊んだ記憶が……。\""
+1011705-24 = "先生、そこマグマ。"
+1011705-25 = "逃げてー。"
+1011705-28 = "（ヒカリに言われた通り、白のタイルに移動した）"
+1011705-30 = "よくやったー。 "
+1011705-31 = "あっちの交差点まで生き残ろー。"
+1011705-32 = "[s] \"よし、やってみる。\""
+1011705-39 = "赤いとこは浮島でセーフー。"
+1011705-40 = "落ちたらアウトー。"
+1011705-44 = "[ns] \"まずい……赤いタイルがない……！\""
+1011705-45 = "あの店の前、赤いじゅうたんあるよー。"
+1011705-46 = "あそこ安全地帯ー。"
+1011705-47 = "[s] \"あそこまで飛べるかな……？\""
+1011705-48 = "無理なら先生の冒険は終わりー。"
+1011705-49 = "[s] \"ぐぬぬ……やってみるよ！\""
+1011705-57 = "[ns] \"あっ！\""
+1011705-61 = "おわーっ！？"
+1011705-62 = "[s] \"す、すみません……！！\""
+1011705-63 = "い、一体何を……？"
+1011705-64 = "[s] \"いやっ、その……。\""
+1011705-69 = "赤ー。"
+1011705-70 = "赤踏まないとアウトー。"
+1011705-74 = "この島の上じゃないと生きられないー。"
+1011705-75 = "えっ？"
+1011705-76 = "……ああ！"
+1011705-77 = "懐かしいね。"
+1011705-78 = "冒険ごっこか、私も小さい頃はよくやったもんだ。"
+1011705-79 = "ははっ、旅の無事を祈ってるよ。"
+1011705-84 = "[ns] \"ちょっと恥ずかしい……。\""
+1011705-85 = "恥はいっしゅーん。"
+1011705-86 = "命のほうが大事ー。"
+1011705-87 = "[s] \"そ、そうだね……！\""
+1011705-91 = "[ns] \"くっ……こうなったら最後まで行くぞ！\""
+1011705-92 = "いくぞー。"
+1011705-106 = "（ヒカリとの過酷な冒険の旅を経て、シャーレに戻ってきた）"
+1011705-108 = "今日は最長記録達成ー！はいすこあー。"
+1011705-109 = "[s3] \"楽しかったよ……そろそろ仕事に戻ろうかな。\"\n[s4] \"そういえば、ヒカリはどこに行こうとしてたの？\""
+1011705-115 = "わすれたー。"
+1011705-116 = "[s] \"い、いいのかなそれで……。\""
+1011705-117 = "いいのー。ノーデスでクリアできたからー。"
+1011705-118 = "先生は8回落ちたけど、初挑戦なら悪くないー。 "
+1011705-119 = "[s] \"よかった……大昔にやってたからね。\""
+1011705-120 = "あ……。"
+1011705-121 = "ヒカリ、動けない。"
+1011705-122 = "ここ、安全地帯なさすぎー。"
+1011705-123 = "[s5] \"そういえば……\"\n[s6] \"ここから先は、同じ色のタイルしかないね。\""
+1011705-126 = "ヒカリ死亡フラグー。"
+1011705-127 = "いままで楽しかったー。あとはまかせるー。"
+1011705-128 = "ヒカリのこと、忘れないでねー。"
+1011705-132 = "[ns] \"ヒカリは私が助ける！\""
+1011705-134 = "（動けずにいるヒカリを抱きかかえて、オフィスに向かった）"
+1011705-135 = "うぉー、たのもしー。"
+1011705-137 = "（ヒカリはシャーレで楽しそうに遊ぶと帰っていった）"

@@ -1,107 +1,54 @@
 [translation]
-1007906-1 = "máquina de venda automática"
-
-1007906-2 = "(Corri para o parque depois de receber um pedido urgente de ajuda.)"
-
-1007906-10 = "[ns1] \"...????\"\n[ns2] Vá na direção do som."
-
-1007906-21 = "...Hmm, já."
-
-1007906-22 = "Por que temos que permitir que as máquinas de venda automática levem nosso dinheiro, mesmo neste mundo?"
-
-1007906-23 = "Agora que cheguei até aqui, me pergunto se há algo errado comigo...?"
-
-1007906-24 = "Não, isso é impossível. Não importa como você olhe, as máquinas de venda automática são ruins."
-
-1007906-25 = "[s3] \"Misaka?\"\n[s4] \"O que há de errado em chutar a máquina de venda automática!?\""
-
-1007906-28 = "...Ah, Senseia."
-
-1007906-29 = "Eu vi algo constrangedor..."
-
-1007906-30 = "……sim? Ah, isso mesmo, esse cara."
-
-1007906-31 = "Quando tentei comprar uma bebida em uma máquina de venda automática, eles pegaram meu dinheiro novamente."
-
-1007906-32 = "Não... dizer “de novo” não é um pouco diferente?"
-
-1007906-33 = "...Ah, a Senseia não sabe."
-
-1007906-34 = "A máquina de venda automática na Academy City muitas vezes leva meu dinheiro. #nMuitas vezes só acontece quando tento comprar..."
-
-1007906-35 = "Mas eu realmente não entendo porque... talvez eles não gostem de mim."
-
-1007906-36 = "Achei que Kivotos ficaria bem, mas..."
-
-1007906-37 = "Infelizmente, este é o caso."
-
-1007906-38 = "……sim? Não, nem sempre."
-
-1007906-39 = "Se isso sempre acontecer, seria mais fácil descobrir a causa."
-
-1007906-40 = "[s5] \"Você sempre se mete em problemas.\"\n[s6] \"...Não parece que seja problema de mais ninguém.\""
-
-1007906-43 = "De qualquer forma, esse é o motivo. #nAli, isso fará com que o suco escorra."
-
-1007906-44 = "Sabe, costumam dizer que se você bater vai sarar, né?"
-
-1007906-45 = "...O que o torna diferente da imagem?"
-
-1007906-46 = "Ah, é isso mesmo."
-
-1007906-50 = "Você achou que poderia resolvê-lo controlando-o com eletricidade?"
-
-1007906-51 = "...Não importa quanta habilidade você tenha, você não a usará para algo assim."
-
-1007906-52 = "Se eu colocar eletricidade em uma máquina de venda automática, há uma boa chance de ela quebrar, e se eu fizer com que ela quebre todas as vezes, as pessoas descobrirão que a culpa é minha."
-
-1007906-53 = "Além disso, não é mais rápido chutar?"
-
-1007906-54 = "……sim?"
-
-1007906-55 = "É errado chutar propriedade pública?"
-
-1007906-56 = "O-o que!"
-
-1007906-57 = "De repente, traga a verdade!"
-
-1007906-58 = "Mas... é exatamente como a Senseia disse. #nEsta não é a nossa cidade universitária."
-
-1007906-59 = "……foto?"
-
-1007906-60 = "A localização não importa...?"
-
-1007906-61 = "Suspiro... Nunca esperei que ele dissesse algo tão típico de um Sensei."
-
-1007906-62 = "[s7] \"Bem, ainda sou Sensei.\"\n[s8] \"Você não esqueceu minha posição...?\""
-
-1007906-68 = "……um."
-
-1007906-69 = "Ah, isso mesmo."
-
-1007906-70 = "Talvez..."
-
-1007906-71 = "Talvez seja melhor não ligar para o Sensei...?"
-
-1007906-72 = "……não. #nA culpa foi minha, me desculpe."
-
-1007906-73 = "[s9] Entre em contato com a associação gestora do parque. \n[s10] Entre em contato com as informações de contato publicadas na máquina de venda automática."
-
-1007906-79 = "(Depois que a máquina de venda automática foi consertada, recebi o dinheiro de volta e comprei o suco novamente.)"
-
-1007906-81 = "É revigorante ter alguém chamado para consertar alguma coisa."
-
-1007906-82 = "...É isso que deveria ser? Ah, isso mesmo."
-
-1007906-83 = "Bem, isso mesmo... Às vezes o Sensei fala como um Sensei."
-
-1007906-84 = "Mas graças a você consegui comprar um pouco de suco. Obrigado, senhor."
-
-1007906-85 = "……sim?"
-
-1007906-86 = "Eu entendo. De agora em diante, farei perguntas corretamente sem chutar você."
-
-1007906-87 = "...Ainda estou refletindo sobre isso."
-
-1007906-89 = "Fiquei um pouco envergonhado porque gritaram comigo por algo que é normal para um ser humano..."
-
+1007906-1 = "自動販売機"
+1007906-2 = "（急ぎの救援要請を受けて、公園まで走った）"
+1007906-10 = "[ns1] \"……？？？\"\n[ns2] 音がした方へ向かう。"
+1007906-21 = "……んん、もう。"
+1007906-22 = "どうしてこっちの世界でも、自販機にお金を飲まれなきゃいけないわけ？"
+1007906-23 = "ここまで来ると、私になにか問題があるのかしら……？"
+1007906-24 = "いやいや、あり得ないでしょ。どう考えても自販機が悪いわね。"
+1007906-25 = "[s3] \"御坂？\"\n[s4] \"自販機を蹴ってどうしたの！？\""
+1007906-28 = "……あっ、先生。"
+1007906-29 = "恥ずかしいところを見られちゃったわね……"
+1007906-30 = "……ん？あぁ、そうなの、コイツよ。"
+1007906-31 = "自販機で飲み物を買おうとしたら、「また」お金を飲まれちゃったの。"
+1007906-32 = "いや……「また」って言うのは、ちょっと違うか。"
+1007906-33 = "……ああ、先生は知らないわよね。"
+1007906-34 = "向こうの学園都市にある自販機が、よく私のお金を飲んじゃうのよ。#n私が買おうとする時だけよく起こってね……"
+1007906-35 = "でも、理由はよく分からなくて……もしかしたら、嫌われてるのかもね。"
+1007906-36 = "キヴォトスなら大丈夫だと思ったんだけど……"
+1007906-37 = "残念ながら、この通り。"
+1007906-38 = "……ん？いや、毎回ってわけじゃないわ。"
+1007906-39 = "いっそ必ず発生するんだったら、原因も調べやすいんだけど。"
+1007906-40 = "[s5] \"よくトラブルに巻き込まれるんだね。\"\n[s6] \"……他人事には思えないような。\""
+1007906-43 = "とにかく、そういう理由なのよ。#nあっちでは、これでジュースが落ちてくるから。"
+1007906-44 = "ほら、叩けば直るってよく言うでしょう？"
+1007906-45 = "……イメージとは違うって、何が？"
+1007906-46 = "ああ、そういうことね。"
+1007906-50 = "電気で操作して解決すると思ったの？"
+1007906-51 = "……いくら能力があるからって、こんなことにまで使わないわよ。"
+1007906-52 = "自販機に電気を流したら壊れる可能性が高いし、毎度のようにそれで故障させてたら、私の仕業だってバレるでしょ。"
+1007906-53 = "それに、蹴った方が早いじゃない？"
+1007906-54 = "……ん？"
+1007906-55 = "公共の物を蹴るのは良くないって……？"
+1007906-56 = "な、何よ！"
+1007906-57 = "急に正論なんて持ち出して！"
+1007906-58 = "でも……たしかに先生の言う通りね。#nここは私たちの学園都市じゃないし。"
+1007906-59 = "……え？"
+1007906-60 = "場所は関係ない……？"
+1007906-61 = "はあ……まさか、そんな先生らしいことを言うとは。"
+1007906-62 = "[s7] \"まあ、これでも先生だからね。\"\n[s8] \"私の立場、忘れてない……？\""
+1007906-68 = "……あ。"
+1007906-69 = "そ、そうだったわね。"
+1007906-70 = "もしかして……"
+1007906-71 = "先生を呼ばない方が良かったり……？"
+1007906-72 = "……いや。#nこれに関しては私が悪かったわ、ごめんなさい。"
+1007906-73 = "[s9] 公園の管理組合に連絡する。\n[s10] 自販機に貼ってある連絡先に問い合わせる。"
+1007906-79 = "（自販機の修理が終わってから、飲み込まれたお金を返してもらいジュースを買い直した）"
+1007906-81 = "人を呼んで直してもらうのは新鮮ね。"
+1007906-82 = "……本来は、これが当然？そ、そうよね。"
+1007906-83 = "まぁ、そうよね……先生ってたまに先生みたいな事いうのね。"
+1007906-84 = "でも、おかげでジュースはちゃんと買えたもの。ありがとう、先生。"
+1007906-85 = "……ん？"
+1007906-86 = "分かってるわ。今度からは、蹴らずにちゃんと問い合わせるから。"
+1007906-87 = "……これでも、ちゃんと反省してるのよ。"
+1007906-89 = "人として当たり前のことで怒られて、ちょっと恥ずかしくなったわ……。"

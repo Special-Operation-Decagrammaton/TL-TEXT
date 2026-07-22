@@ -1,120 +1,61 @@
 [translation]
-1005605-1 = "1 dia de experiência com cavaleiros aliviados"
-
-1005605-8 = "Ah, Senseia! Aqui está!"
-
-1005605-12 = "Desculpe por qualquer inconveniente."
-
-1005605-13 = "[s] \"Bem, obrigado pelo seu trabalho duro, Selina.\""
-
-1005605-14 = "Haha, talvez seja verdade..."
-
-1005605-15 = "Estou feliz que o Sensei veio."
-
-1005605-21 = "Hospital Geral Santa Teresa/Quarto de Pacientes"
-
-1005605-22 = "Olá! #nÉ o Papai Noel!"
-
-1005605-23 = "Tem alguém que gostaria de um presente? #nClaro que a saúde é o melhor presente!"
-
-1005605-24 = "Ah, estou tão feliz que Santa Selina veio para o hospital."
-
-1005605-25 = "A pessoa que está atrás é o Papai Noel, o Sensei da placa de Petri? #nObrigado pelo seu trabalho duro."
-
-1005605-26 = "Dois Papais Noéis também vieram. #nParece que haverá presentes suficientes."
-
-1005605-27 = "Sim claro!"
-
-1005605-29 = "Ah, pensando bem, sua mão estava machucada... #nVou desembrulhar o presente para você, deixa comigo."
-
-1005605-30 = "Bem, pode ser estranho ver o próprio Papai Noel abrindo os presentes..."
-
-1005605-31 = "O que há dentro...?"
-
-1005605-35 = "Jajaan! O que você acha disso?"
-
-1005605-37 = "Só ter o Papai Noel vindo já era um presente suficiente e eu já estava feliz...?"
-
-1005605-38 = "Hehe, vamos te deixar ainda mais feliz! #nQual é melhor?"
-
-1005605-39 = "Ah, aqui está! #nFeliz Natal!"
-
-1005605-41 = "Você tem comido bem desde então?"
-
-1005605-42 = "Não damos presentes para pacientes ruins, não é mesmo?"
-
-1005605-43 = "Faça o tratamento adequado e coma bem!"
-
-1005605-44 = "Você vai me prometer...? #nOk, aqui está o seu presente!"
-
-1005605-46 = "(Assim, Selina foi capaz de realizar com eficiência seu trabalho com os Cavaleiros Socorros e seu trabalho como Papai Noel.)"
-
-1005605-47 = "(Como Serina era tão habilidosa, havia pouco que eu pudesse fazer...)"
-
-1005605-51 = "Saguão do Hospital Geral Santa Teresa"
-
-1005605-53 = "[ns] \"Selina está tão ocupada todos os dias...?\""
-
-1005605-54 = "Eu tinha algumas coisas para fazer como Papai Noel hoje, então não é assim todos os dias..."
-
-1005605-55 = "Você está bem, senhor?"
-
-1005605-56 = "Você não está cansado?"
-
-1005605-57 = "...Sim, isso teria sido bom."
-
-1005605-58 = "[s] \"Quando penso nisso novamente, é difícil para mim frequentar a escola e os Cavaleiros Socorros...\""
-
-1005605-59 = "É assim mesmo? #nJá é assim há muito tempo, então eu realmente não penso assim..."
-
-1005605-60 = "Eu simplesmente sinto que estou fazendo o que devo fazer todos os dias."
-
-1005605-61 = "A vida escolar é divertida. #nSer necessário e fazer várias coisas."
-
-1005605-62 = "O trabalho dos Cavaleiros Socorros me dá uma sensação de realização. #nDepois do primeiro dia, senti que poderia ter feito o meu melhor hoje."
-
-1005605-63 = "É bom porque cada um de nós gosta do que faz."
-
-1005605-64 = "[s1] \"Eles sempre me dizem: ``Não se esforce demais'', mas... \"\n[s2] \"Por favor, não se esforce demais, Selina...? \""
-
-1005605-67 = "Bem, quando você diz isso, é verdade..."
-
-1005605-68 = "Mas sim, está tudo bem."
-
-1005605-69 = "Se ficar difícil ou você sentir que atingiu seu limite...#nNesse caso, entrarei em contato com o Sensei primeiro."
-
-1005605-74 = "A propósito, por que de repente você quis participar hoje...?"
-
-1005605-75 = "[s3] \"Não há grande razão.\"\n[s4] \"Eu queria saber mais sobre Selina e os Rescue Knights.\""
-
-1005605-78 = "Ei, ei...! ?"
-
-1005605-79 = "Bem, por que de repente...?"
-
-1005605-80 = "Bem, eu me sinto meio envergonhado com isso... #nTanto..."
-
-1005605-81 = "……."
-
-1005605-86 = "Hum, Sensei?"
-
-1005605-87 = "o……."
-
-1005605-88 = "Se sim, então..."
-
-1005605-89 = "Você poderia me ajudar novamente?"
-
-1005605-90 = "Fiquei feliz em passar um tempo com você hoje também...#n."
-
-1005605-91 = "[s5] \"Claro, me ligue a qualquer hora.\"\n[s6] \"A qualquer hora, em qualquer lugar.\""
-
-1005605-97 = "Ah, muito obrigado."
-
-1005605-98 = "Então... isso é uma promessa."
-
-1005605-99 = "Não vou esquecer, ok? #nNão existe “esqueci” depois, certo?"
-
-1005605-100 = "……Sensei."
-
+1005605-1 = "1日救護騎士団体験"
+1005605-8 = "あ、先生！こちらです！"
+1005605-12 = "何だかわざわざすみません。"
+1005605-13 = "[s] \"ううん、お疲れ様なのはセリナの方だから。\""
+1005605-14 = "あはは、それはそうかもですが……。"
+1005605-15 = "先生が来てくれて、嬉しいです。"
+1005605-21 = "聖テレサ総合病院・病室"
+1005605-22 = "こんにちは！#nサンタさんですよー！"
+1005605-23 = "プレゼントが欲しい方、いますかー？#nもちろん、健康が一番のプレゼントですけどね！"
+1005605-24 = "おお、サンタのセリナちゃん、#n病院にまで来てくれるとは、嬉しいな。"
+1005605-25 = "後ろの方は、シャーレの先生サンタさんかい？#nお疲れさん。"
+1005605-26 = "サンタが2人も来てくれたんだ。#nプレゼントは十分足りそうだね。"
+1005605-27 = "はい、もちろんです！"
+1005605-29 = "あ、そういえばお手を怪我されてましたね……。#n代わりにプレゼントの包装を解きますね、お任せください。"
+1005605-30 = "た、たしかにサンタさん本人がプレゼントを開けるのは#n不思議な光景かもですが……。"
+1005605-31 = "中には何が入っているのでしょう……？"
+1005605-35 = "じゃじゃーん！どうですか、これ？"
+1005605-37 = "サンタたちが来てくれただけで、#n十分プレゼントになったし嬉しかった……？"
+1005605-38 = "ふふっ、ではもっと嬉しくなっていただきましょう！#nどれが良いですか？"
+1005605-39 = "あ、ではこちらで！#nメリークリスマス！"
+1005605-41 = "あれからしっかり食事は取られてますか？"
+1005605-42 = "悪い患者さんにはプレゼントをあげませんよ？"
+1005605-43 = "治療をしっかり受けて、#n食事もきちんと取って！"
+1005605-44 = "約束してくれますか……？#nはい、ではプレゼントです！"
+1005605-46 = "（そうしてセリナは、救護騎士団の仕事とサンタとしての仕事をテキパキとこなしていった）"
+1005605-47 = "（セリナの手際が良すぎたこともあり、私にできることはほとんど無かった……)"
+1005605-51 = "聖テレサ総合病院・ロビー"
+1005605-53 = "[ns] \"セリナは、毎日こんな忙しさで……？\""
+1005605-54 = "今日はサンタとしてやることもあったので、#n毎日こんな感じというわけではありませんが……。"
+1005605-55 = "大丈夫ですか、先生？"
+1005605-56 = "疲れてませんか？"
+1005605-57 = "……はい、でしたら良かったです。"
+1005605-58 = "[s] \"あらためて考えると、学業に救護騎士団に大変だね……。\""
+1005605-59 = "そ、そうでしょうか？#nもう長い間こうなので、あまりそういう風には……。"
+1005605-60 = "ただ毎日、やるべきことをやっているという感じです。"
+1005605-61 = "学校生活は楽しいです。#n必要とされたり、色んなことをしたり。"
+1005605-62 = "救護騎士団の仕事は、達成感があります。#n1日が終わったら、今日も頑張れたかもしれないなって。"
+1005605-63 = "それぞれが好きなことで、気持ちが良いんです。"
+1005605-64 = "[s1] \"日頃「無理しないで」って言ってくれるけど……。\"\n[s2] \"セリナも無理しないでね……？\""
+1005605-67 = "そ、そう言われると確かにそうなのですが……。"
+1005605-68 = "ですが、はい、大丈夫です。"
+1005605-69 = "もし辛くなったり、限界だなって思った時には……#nその時は、真っ先に先生へご連絡しますから。"
+1005605-74 = "ところで今日は、どうして急に参加されようと……？"
+1005605-75 = "[s3] \"大した理由は無いんだけどね。\"\n[s4] \"セリナと救護騎士団のことについて、もっと知りたいなって思って。\""
+1005605-78 = "え、えぇっ……！？"
+1005605-79 = "そ、そんな、どうして急に……。"
+1005605-80 = "えっと、なんだかそれは、照れちゃいますね……。#nすごく……。"
+1005605-81 = "……。"
+1005605-86 = "あの、先生？"
+1005605-87 = "その……。"
+1005605-88 = "であれば、その……。"
+1005605-89 = "また今度も、手伝っていただけますか？"
+1005605-90 = "今日も、先生と一緒に過ごせて……#n嬉しかったので……。"
+1005605-91 = "[s5] \"もちろん、いつでも呼んで。\"\n[s6] \"いつでも、どこでもね。\""
+1005605-97 = "あ、ありがとうございます。"
+1005605-98 = "では……約束、ですね。"
+1005605-99 = "私、忘れたりしませんからね？#n後で「忘れました」は無しですよ？"
+1005605-100 = "……先生。"
 1005605-101 = "先生がこうしていてくれて……私、本当に嬉しいんです。"
-1005605-103 = "(Ele voltou para a placa de Petri com Serina, que corou.)"
-
+1005605-103 = "（頬を染めたセリナと一緒に、シャーレに戻った）"

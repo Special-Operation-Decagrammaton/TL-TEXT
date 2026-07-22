@@ -1,33 +1,17 @@
 [translation]
-10052055-2 = "Acabou muito bem..."
-
-10052055-3 = "……."
-
-10052055-4 = "[s] \"Há algo que te incomoda?\""
-
-10052055-5 = "Não é tão incômodo..."
-
-10052055-6 = "...Em primeiro lugar, não posso me dar ao luxo de me preocupar com ninguém."
-
-10052055-7 = "mas……."
-
-10052055-8 = "Sensei."
-
-10052055-9 = "[s] \"Sim?\""
-
-10052055-10 = "Por que... surge um conflito?"
-
-10052055-11 = "[ns] \"Talvez seja porque há coisas que não podemos comprometer.\""
-
-10052055-12 = "Claro, acho que todo mundo tem coisas que não pode comprometer."
-
-10052055-13 = "No entanto... mesmo que nenhum de nós saiba o que é..."
-
-10052055-17 = "...Será que algum dia as formas de vida conseguirão se reconciliar?"
-
-10052055-18 = "[s] \"Quero acreditar que posso fazer isso.\""
-
-10052055-19 = "Ainda não consigo acreditar agora."
-
-10052055-20 = "[s1] \"Você poderia dizer isso.\"\n[s2] \"Ainda assim.\""
-
+10052055-2 = "なんとかなりましたね……。"
+10052055-3 = "……。"
+10052055-4 = "[s] \"なにか、気になることでもあるの？\""
+10052055-5 = "気になる……というほどではありません。"
+10052055-6 = "……そもそも、誰かを気にしている余裕もないですし。"
+10052055-7 = "でも……。"
+10052055-8 = "先生。"
+10052055-9 = "[s] \"うん？\""
+10052055-10 = "どうして……争いが生まれるのでしょうか。"
+10052055-11 = "[ns] \"お互い、譲れないものがあるからじゃないかな。\""
+10052055-12 = "もちろん、譲れないものは誰しもにあると思います。"
+10052055-13 = "ですが……それが何なのかすら、お互いに知らない状況なのに……。"
+10052055-17 = "……いつか、生命体は和解できるのでしょうか。"
+10052055-18 = "[s] \"私は、できると信じたいよ。\""
+10052055-19 = "今は、まだ信じきれていないのですね。"
+10052055-20 = "[s1] \"そうとも言えるけど。\"\n[s2] \"それでも、ね。\""

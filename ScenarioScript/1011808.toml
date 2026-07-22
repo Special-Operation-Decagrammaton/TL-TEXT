@@ -1,127 +1,64 @@
 [translation]
-1011808-1 = "Um lado inesperado?"
-
-1011808-2 = "(Decidi acompanhá-lo ao local planejado para a construção da ferrovia.)"
-
-1011808-4 = "Bom dia!"
-
-1011808-5 = "[s] \"Bom dia, Nozomi.\""
-
-1011808-6 = "Obrigado por ter vindo! Pahyaahah."
-
-1011808-7 = "Havia uma vaga e fiquei sozinho."
-
-1011808-8 = "Mas não é chato quando você está sozinho?"
-
-1011808-9 = "[s1] \"Hehe.\"\n[s2] \"Eu também estava entediado.\""
-
-1011808-12 = "Pahya! Bom, bom!"
-
-1011808-13 = "Pois então vamos brincar bastante..."
-
-1011808-14 = "...Não! Vá investigar!"
-
-1011808-15 = "[s] \"Sinto que meus verdadeiros sentimentos vieram à tona agora...\""
-
-1011808-17 = "Sim, este é o primeiro site."
-
-1011808-18 = "[s] \"Onde devo verificar?\""
-
-1011808-19 = "A questão é se o conteúdo do relatório corresponde ao que aconteceu no local."
-
-1011808-20 = "Ao instalar trilhos de trem, o CCC tem que realizar uma pesquisa no local para ver se realmente vale a pena gastar o orçamento de construção na área."
-
-1011808-21 = "Neste caso, recebemos uma decisão de que poderia ser aberto na investigação primária, e..."
-
-1011808-22 = "Se o trem expresso passasse e se conectasse com o DU, seria uma grande vantagem porque os recursos seriam transportados de forma mais tranquila do que antes."
-
-1011808-23 = "[s] \"Nozomi...\""
-
-1011808-24 = "sim? o que?"
-
-1011808-25 = "[s] \"É incrível como você entende isso!\""
-
-1011808-26 = "Hmm... bem, sobre isso?"
-
-1011808-27 = "……."
-
-1011808-28 = "...Pfft."
-
-1011808-29 = "Kuku...pahyahyahyah!"
-
-1011808-33 = "O Sensei é um idiota."
-
-1011808-34 = "Você acreditou que eu estava trabalhando com eficiência."
-
-1011808-35 = "Mesmo que eu tenha lido o relatório em voz alta... Pahyahyah!"
-
-1011808-36 = "[s] \"Eu-eu acreditei em você!\""
-
-1011808-37 = "Hehehehe...só preciso saber dirigir!"
-
-1011808-38 = "...Mas eu tenho que falar sobre isso assim."
-
-1011808-39 = "Há momentos em que você tem que dizer coisas difíceis como essa."
-
-1011808-40 = "Você não precisa ficar muito animado com a pesquisa de campo de hoje, ok?"
-
-1011808-41 = "[s3] \"T-Tem certeza?\"\n[s4] \"Parece importante...!?\""
-
-1011808-44 = "De qualquer forma, não creio que minha opinião vá passar."
-
-1011808-45 = "Temos muitas panelinhas, então alguém vai ser contra alguma coisa. Bem, isso é o que eu diria."
-
-1011808-46 = "Assim, depois de enviar um bom relatório de pesquisa, meu trabalho estará concluído."
-
-1011808-47 = "[s] \"Eu me pergunto se está tudo bem...\""
-
-1011808-48 = "De alguma forma, é assim que as coisas funcionam no set."
-
-1011808-49 = "Graças a todos que trabalharam diligentemente para manter e operar o trem, não houve acidentes graves até agora."
-
-1011808-50 = "Tudo o que você precisa fazer é dar o seu melhor no seu trabalho... mas..."
-
-1011808-51 = "Agora, por que não colocamos alguns trilhos de trem por toda Kivotos?"
-
-1011808-52 = "Com os trens, você pode ir a qualquer lugar em um instante."
-
-1011808-53 = "Todo mundo usa o trem de casa até a loja de ramen, certo? ?"
-
-1011808-57 = "Ele parece “Isso é um pouco…”! Pahyaahah."
-
-1011808-58 = "...Mas você não está em uma posição semelhante à minha?"
-
-1011808-59 = "[s] \"O que você quer dizer?\""
-
-1011808-60 = "Placa de Petri também consulta aqui e ali e pesquisa, né?"
-
-1011808-61 = "Parece extremamente difícil prestar atenção a todas as escolas."
-
-1011808-62 = "[s5] \"Meu papel é ouvir as histórias de todos.\"\n[s6] \"Você realmente não pensa em como isso é difícil, não é?\""
-
-1011808-65 = "Hum."
-
-1011808-66 = "Então, você trata todos os alunos igualmente?"
-
-1011808-67 = "[s] \"Sim, isso mesmo.\""
-
-1011808-71 = "O que é aquilo?"
-
-1011808-72 = "Parece um Sensei! Pahyahya!"
-
-1011808-73 = "[s7] \"Não sei se estou indo bem.\"\n[s8] \"Sou um Sensei amador!\""
-
-1011808-79 = "[ns9] \"Mas agora, eu me preocupo com Nozomi que está bem na minha frente...\"\n[ns10] \"Eu me preocupo mais com ela.\""
-
-1011808-82 = "Eh! Realmente?"
-
-1011808-83 = "Bem, acho que você não pode mentir para um amador! Pahiahah!"
-
-1011808-87 = "Bem, então..."
-
-1011808-92 = "Você tem que dar tudo de si para mim hoje!"
-
-1011808-94 = "(Nozomi me levou ao redor da cena)"
-
-1011808-102 = "(Ao contrário de suas palavras, Nozomi parecia séria e trabalhava duro em seu trabalho.)"
-
+1011808-1 = "意外な一面？"
+1011808-2 = "（鉄道工事の予定地に同行することになった）"
+1011808-4 = "グッモーニン～！"
+1011808-5 = "[s] \"おはよう、ノゾミ。\""
+1011808-6 = "来てくれて助かったー！パヒャヒャッ。"
+1011808-7 = "欠員が出て、一人になっちゃってさ。"
+1011808-8 = "でも、ぼっちじゃつまんないじゃん？"
+1011808-9 = "[s1] \"ふふっ。\"\n[s2] \"私も暇してたところ。\""
+1011808-12 = "パヒャッ！良いね良いねぇ！"
+1011808-13 = "じゃ、たくさん遊ぼ……"
+1011808-14 = "……じゃなくて！調査にゴー！"
+1011808-15 = "[s] \"今本音が出たような……。\""
+1011808-17 = "はい、ここが最初の現場。"
+1011808-18 = "[s] \"どこを確認すればいいの？\""
+1011808-19 = "報告書の内容と、現場が一致してるかどうかだねー。"
+1011808-20 = "線路を敷くときは、そこがほんとに工事予算を投じるに値する場所なのか、CCCが現地調査をしなきゃいけないんだよ。"
+1011808-21 = "今回のケースは、一次調査で開通可能判定をもらったとこで――"
+1011808-22 = "急行が通ってD.U.と繋がれば、従来よりもスムーズな資源輸送が実現するから、メリットが大きい……って感じかな。"
+1011808-23 = "[s] \"ノゾミ……。\""
+1011808-24 = "ん？なに？"
+1011808-25 = "[s] \"しっかり把握しててすごい！\""
+1011808-26 = "フッ……ま、このくらいはね？"
+1011808-27 = "……。"
+1011808-28 = "……ぷっ。"
+1011808-29 = "くくっ……パヒャヒャヒャッ！"
+1011808-33 = "先生はおバカさんだなー。"
+1011808-34 = "私がテキパキ仕事してるって信じてたっしょ。"
+1011808-35 = "報告書をてきとーに読み上げただけなのにねー……パヒャヒャッ！"
+1011808-36 = "[s] \"し、信じてたのに！\""
+1011808-37 = "ふっふっふ……私は運転だけできればいいからね！"
+1011808-38 = "……でも、上にはそれっぽく話さなきゃいけないからさ。"
+1011808-39 = "こうやって小難しいことを言わなきゃいけない時があるってこと。"
+1011808-40 = "今日の現地調査も、張り切んなくていいからね？"
+1011808-41 = "[s3] \"い、いいの？\"\n[s4] \"なんか重要そうだけど……！？\""
+1011808-44 = "どうせ、こっちの意見は通らないしねー。"
+1011808-45 = "うちは派閥が多いから、どっかが反対するんだよ。ああ言えばこう言うって感じ。"
+1011808-46 = "だから、いい感じに調査報告を上げれば、私の仕事は終わり。"
+1011808-47 = "[s] \"いいのかな……。\""
+1011808-48 = "なんだかんだ、それで現場はちゃんと回ってるしね。"
+1011808-49 = "みんな真面目に頑張って整備したり運行してくれてるおかげで、今まで大事故もなかったし。"
+1011808-50 = "自分の仕事を全力で頑張ればいい……んだけど。"
+1011808-51 = "もうさー、いいからキヴォトス中に線路敷いちゃえばいいんじゃない？"
+1011808-52 = "鉄道があれば、どこでも一瞬で行けるんだし。"
+1011808-53 = "家からラーメン屋までの鉄道とか、みんな使うでしょ！？"
+1011808-57 = "「それはちょっと……」って顔してる！パヒャヒャッ。"
+1011808-58 = "……にしても、先生も私と似たような立場じゃない？"
+1011808-59 = "[s] \"どういうこと？\""
+1011808-60 = "シャーレもあっちこっち相談に乗ったり、調査したりするじゃん？"
+1011808-61 = "全部の学校に気を遣うとか、超大変そー。"
+1011808-62 = "[s5] \"みんなの話を聞いてあげるのが、私の役割だからね。\"\n[s6] \"大変とかは、あまり考えてないかな？\""
+1011808-65 = "ふ～ん。"
+1011808-66 = "じゃ、どんな生徒にも平等に接してるんだ？"
+1011808-67 = "[s] \"うん、そうだね。\""
+1011808-71 = "なにそれ。"
+1011808-72 = "先生らしいっちゃらしいけどさ！パヒャヒャ！"
+1011808-73 = "[s7] \"上手くできているかは分からないけどね。\"\n[s8] \"私は素人の先生だし！\""
+1011808-79 = "[ns9] \"でも、今は目の前にいるノゾミを……\"\n[ns10] \"一番気にかけてるよ。\""
+1011808-82 = "えー！ほんとに～？"
+1011808-83 = "ま、素人さんに嘘はつけなそうだしね！パヒャヒャッ！"
+1011808-87 = "それならさ……"
+1011808-92 = "今日は私に、全力で付き合わなきゃっしょ！"
+1011808-94 = "（ノゾミに連れられて現場を見て回った）"
+1011808-102 = "（言葉とは裏腹に、ノゾミは真面目な様子で仕事を頑張っていた）"

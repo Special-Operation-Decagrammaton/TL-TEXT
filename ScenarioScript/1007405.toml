@@ -1,127 +1,64 @@
 [translation]
-1007405-1 = "lado desajeitado"
-
-1007405-4 = "(Enquanto observava o pôr do sol na praia...)"
-
-1007405-8 = "(ouvi passos atrás)"
-
-1007405-9 = "[ns1] \"Olá, Hanako.\"\n[ns2] \"Desculpe por fazer você vir até aqui.\""
-
-1007405-12 = "Não, foi em pouco tempo, mas muito obrigado."
-
-1007405-13 = "...Meu vizinho, por favor, me desculpe."
-
-1007405-14 = "[ns3] (Parece extremamente próximo...)\n[ns4] \"Bem, como esperado, esta distância...\""
-
-1007405-17 = "Também me dói quando você diz coisas assim..."
-
-1007405-21 = "...Hehe, só estou brincando."
-
-1007405-22 = "No entanto, já que você acha que este é um ato egoísta e fofo de um aluno importante, você poderia me perdoar, por favor?"
-
-1007405-23 = "Ou talvez eu não seja um aluno importante para meu Sensei..."
-
-1007405-24 = "...Achei que se eu falasse isso a Senseia não teria como recusar."
-
-1007405-28 = "Hehe..."
-
-1007405-29 = "obrigado."
-
-1007405-30 = "...De qualquer forma, não acredito que tinha um lugar tão maravilhoso só para mim."
-
-1007405-34 = "É lindo...o céu, o mar, tudo é de um vermelho mais forte."
-
-1007405-35 = "Esta é certamente uma visão que só pode ser vista agora."
-
-1007405-36 = "Relembrando esta pesquisa...#nPercebi que pude vir aqui com todos vocês porque fui abençoado com sorte."
-
-1007405-37 = "...Mesmo que eu mesmo tenha configurado?"
-
-1007405-38 = "Isso é verdade... mas nem sempre dá certo."
-
-1007405-39 = "Obter os resultados desejados depende muito da sorte."
-
-1007405-40 = "Claro, esse assunto foi graças à presença do Sensei..."
-
-1007405-41 = "…………."
-
-1007405-42 = "Hum..."
-
-1007405-43 = "o……"
-
-1007405-44 = "……Sensei."
-
-1007405-45 = "[s5] \"Ouvi dizer que você tinha algo para conversar hoje...\"\n[s6] \"Hum, você é tímido?\""
-
-1007405-48 = "Ah, isso não é verdade. É verdade que meu rosto está um pouco quente..."
-
-1007405-49 = "……n / D."
-
-1007405-50 = "Essa não é uma maneira muito boa de dizer isso. Se você disser coisas assim, talvez não consiga expressar o que deseja dizer em palavras."
-
-1007405-51 = "[s7] \"Esta é minha resposta habitual.\"\n[s8] \"Eu escolho minhas palavras de acordo com o destinatário.\""
-
-1007405-54 = "……Eu vejo."
-
-1007405-55 = "É isso mesmo... hummm..."
-
-1007405-56 = "Estou feliz que nos tornamos mais próximos, mas eu não estava procurando por esse tipo de intimidade..."
-
-1007405-57 = "[s9] \"Porque é verão.\"\n[s10] \"Você está um pouco nervoso?\""
-
-1007405-58 = "Hehe... eu nunca esperei ser influenciado por um Sensei."
-
-1007405-59 = "……já. Faça isso de novo..."
-
-1007405-63 = "n / D."
-
-1007405-64 = "Hehehe."
-
-1007405-65 = "Mas talvez você esteja certo. #nNão consigo colocar em palavras mesmo em momentos como esse..."
-
-1007405-66 = "……."
-
-1007405-67 = "...Hum."
-
-1007405-68 = "…………Concordo."
-
-1007405-69 = "[ns] Espere Hanako falar com você."
-
-1007405-71 = "……Sensei."
-
-1007405-72 = "…………."
-
-1007405-73 = "...Muito obrigado."
-
-1007405-74 = "Desta vez, tudo até agora... tudo."
-
-1007405-75 = "Sem você eu não estaria onde estou hoje."
-
-1007405-76 = "Tenho certeza que você notou...#nNão sou tão habilidoso quanto as pessoas ao meu redor dizem."
-
-1007405-77 = "A razão pela qual estou falando assim com a Senseia agora é porque eu queria deixar sair o que estava segurando dentro de mim e me sentir melhor..."
-
-1007405-78 = "Acho que meus pensamentos foram transmitidos ao meu Sensei..."
-
-1007405-79 = "Acho que a razão pela qual dizemos palavras de gratidão é porque queremos confirmar o ato nós mesmos."
-
-1007405-80 = "Mas..."
-
-1007405-81 = "Estou feliz por ter conseguido colocar isso em palavras."
-
-1007405-82 = "Sério, quanto mais penso nisso..."
-
-1007405-83 = "Estou feliz por poder vir para esta ilha com você e todos os outros."
-
-1007405-84 = "...me desculpe por estar falando apenas de mim."
-
-1007405-85 = "Como foi seu Sensei? #nSeria ótimo se você se divertisse um pouco..."
-
-1007405-86 = "[s11] \"Claro, foi divertido.\"\n[s12] \"Foi bom ouvir os sentimentos de Hanako.\""
-
-1007405-89 = "Hehe... isso foi bom."
-
-1007405-90 = "……Sensei."
-
-1007405-96 = "Esperamos seu apoio contínuo."
-
+1007405-1 = "不器用な一面"
+1007405-4 = "（沈みゆく夕日を浜辺で眺めていると……）"
+1007405-8 = "（後ろから足音が聞こえてきた）"
+1007405-9 = "[ns1] \"やあ、ハナコ。\"\n[ns2] \"わざわざ来てもらってごめんね。\""
+1007405-12 = "いえ、むしろ急なご連絡だったのに、ありがとうございます。"
+1007405-13 = "……隣、失礼しますね。"
+1007405-14 = "[ns3] （ものすごく近いような……）\n[ns4] \"さ、流石にこの距離は……\""
+1007405-17 = "そんな風に言われると、私も傷ついてしまうのですが……"
+1007405-21 = "……ふふ、冗談です。"
+1007405-22 = "ですが、大事な生徒の可愛いワガママだと思って、許していただけませんか？"
+1007405-23 = "それとも、私は先生にとって、大事な生徒ではないのでしょうか……"
+1007405-24 = "……なんて、こう言えば先生は断れないと思っていました。"
+1007405-28 = "ふふっ……"
+1007405-29 = "ありがとうございます。"
+1007405-30 = "……それにしても、こんなに素敵な場所を独り占めしていたなんて。"
+1007405-34 = "綺麗ですね……空も、海も、全てが茜色に。"
+1007405-35 = "きっと、これも今しか見られない景色なのでしょう。"
+1007405-36 = "今回の調査を振り返って……#n皆さんと来られたのは、運に恵まれたからだと思いました。"
+1007405-37 = "……自分でセッティングしたのに、ですか？"
+1007405-38 = "それはそうなのですが……常にうまくいくとは限りませんし。"
+1007405-39 = "望んだ結果を得られるかどうかは、運によるところが大きいですから。"
+1007405-40 = "もちろん、今回の件は先生が居てくださったおかげですが……"
+1007405-41 = "…………。"
+1007405-42 = "えっと……"
+1007405-43 = "その……"
+1007405-44 = "……先生。"
+1007405-45 = "[s5] \"今日は話したいことがあるって聞いたけど……\"\n[s6] \"あれ、照れてるの？\""
+1007405-48 = "そ、そんなことは。たしかに、少し顔が熱いですが……"
+1007405-49 = "……ふふ。"
+1007405-50 = "そういう言い方は、あまり良くないですよ。そんな風に言われたら、言いたいこともうまく言葉にできなくなったりしてしまうのですから。"
+1007405-51 = "[s7] \"いつものお返しだよ。\"\n[s8] \"ちゃんと、相手に合わせて言葉を選んでるよ。\""
+1007405-54 = "……なるほど。"
+1007405-55 = "そうですか……ふむ……。"
+1007405-56 = "距離が縮まったのは嬉しいのですが、こういう親しさを求めていたわけでは……"
+1007405-57 = "[s9] \"夏だからね。\"\n[s10] \"少しは緊張が[ruby=ほぐ]解[/ruby]れたかな？\""
+1007405-58 = "ふふっ……まさか、先生に振り回されるなんて。"
+1007405-59 = "……もう。またそうやって……"
+1007405-63 = "ふふ。"
+1007405-64 = "ふふふっ。"
+1007405-65 = "でも、仰るとおりかもしれません。#n私は、こういう時でさえ言葉にできないのですから……"
+1007405-66 = "……。"
+1007405-67 = "……うーん。"
+1007405-68 = "…………そうですね。"
+1007405-69 = "[ns] ハナコから話してくれるのを待つ。"
+1007405-71 = "……先生。"
+1007405-72 = "…………。"
+1007405-73 = "……本当に、ありがとうございます。"
+1007405-74 = "今回のことも、これまでのことも……もう、何から何まで。"
+1007405-75 = "先生がいなければ、今の私は存在しません。"
+1007405-76 = "お気づきだとは思いますが……#n私は、周囲の評価ほど器用なタイプではないんです。"
+1007405-77 = "今こうやって先生にお話ししているのも、自分の中で抱えているものを吐き出して、楽になりたかったからで……"
+1007405-78 = "私のこんな考えも……先生には伝わっていると思うのですが……"
+1007405-79 = "感謝の言葉を口にするのも……自分自身でその行為を確認したいからなんだと思います。"
+1007405-80 = "ですが……"
+1007405-81 = "きちんと言葉にできて、良かったです。"
+1007405-82 = "本当に、考えれば考えるほど……"
+1007405-83 = "この島に……先生と、みなさんと来られて良かったです。"
+1007405-84 = "……私ばかり話してしまいましたね、ごめんなさい。"
+1007405-85 = "先生は、どうでしたか……？#n少しでも楽しい時間になっていたら、良いのですが……"
+1007405-86 = "[s11] \"もちろん、楽しかったよ。\"\n[s12] \"ハナコの気持ちを聞けて良かった。\""
+1007405-89 = "ふふっ……良かったです。"
+1007405-90 = "……先生。"
+1007405-96 = "これからも、よろしくお願いしますね。"

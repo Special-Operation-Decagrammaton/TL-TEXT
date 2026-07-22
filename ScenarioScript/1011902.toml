@@ -1,109 +1,55 @@
 [translation]
-1011902-1 = "Técnicas de fotografia de cem flores"
-
-1011902-2 = "Comitê/Departamento de Mediação de Conflitos das Cem Flores"
-
-1011902-3 = "(Consegui resolver meus outros assuntos rapidamente e chegar à sala do clube cheia de flores antes da hora marcada.)"
-
-1011902-6 = "(Encontrei Nagusa treinando no pátio)"
-
-1011902-13 = "Ha...ha!"
-
-1011902-17 = "……Sensei?"
-
-1011902-18 = "Já está na hora da consulta...?"
-
-1011902-19 = "Desculpe, eu estava muito focado no treinamento――"
-
-1011902-20 = "[s1] \"Não, ainda não é hora.\"\n[s2] \"Cheguei cedo.\""
-
-1011902-23 = "Eu vejo."
-
-1011902-24 = "Mas poder assistir ao treino... é um pouco constrangedor."
-
-1011902-25 = "Você poderia esperar um pouco? #nVou apenas enxugar o suor."
-
-1011902-26 = "[s3] \"Não se preocupe comigo.\"\n[s4] \"Ainda dá tempo, então continue.\""
-
-1011902-29 = "mas……."
-
-1011902-30 = "[s] \"Eu queria ver os rumores da ``Técnica de Tiro estilo Hyakka-Renran''.\""
-
-1011902-31 = "Você está interessado?"
-
-1011902-32 = "...Não é grande coisa."
-
-1011902-33 = "É treinamento. Atire, troque de alvo, repita. #nPode ser chato de assistir."
-
-1011902-34 = "...Além disso, não sou tão talentoso quanto os presidentes de comitês anteriores."
-
-1011902-35 = "Não sei se consigo corresponder às expectativas do meu Sensei."
-
-1011902-36 = "[s] \"Eu quero ver a ``Técnica de Tiro Hyakka Ryoran'' de Nagusa.\""
-
-1011902-40 = "[ns5] \"Mesmo que você não esteja confiante, você não desiste e se esforça...\n[ns6] \"Porque há uma sensação de que você não pode perder para ninguém.\""
-
-1011902-43 = "Sim... eu acho."
-
-1011902-44 = "Se o Sensei quiser ver eu faço..."
-
-1011902-45 = "É perigoso, então não saia desse lugar."
-
-1011902-46 = "[s] \"Por que...?\""
-
-1011902-47 = "A ``Técnica de Tiro Estilo Hyakka Ryoran'' pode ser usada em todas as direções. #nA premissa é que não existe lugar seguro."
-
-1011902-48 = "Muitas vezes lidamos com várias pessoas ao mesmo tempo. #nNuma batalha como essa, mesmo o menor ponto cego pode ser fatal."
-
-1011902-49 = "O que foi cultivado para compensar isso é a “Técnica de Tiro Estilo Hyakka Ryoran”."
-
-1011902-50 = "Como resultado, tornou-se uma forma de fugir e atingir simultaneamente vários inimigos."
-
-1011902-51 = "...Este é o básico da \"Técnica de Tiro no Estilo Hyakkaryoran\"."
-
-1011902-52 = "É por isso que reajo como se houvesse inimigos atrás de mim."
-
-1011902-53 = "[s7] \"Talvez a forma de pensar seja semelhante ao Kung Fu...?\"\n[s8] \"É meio profundo...\""
-
-1011902-54 = "Acho que há alguém em Shanhai Ching que pode lhe ensinar kung fu. Eu gostaria de aprender se tiver uma chance."
-
-1011902-56 = "Voltemos ao assunto. Primeiro, atire na frente e atrás, nos alvos direito e esquerdo em ordem."
-
-1011902-57 = "Farei isso mais devagar que o normal."
-
-1011902-58 = "Como eu disse anteriormente, não se mova."
-
-1011902-60 = "Ufa..."
-
-1011902-64 = "...Haa!"
-
-1011902-73 = "...... como foi?"
-
-1011902-74 = "[s9] \"...?\"\n[s10] \"O que aconteceu...?\""
-
-1011902-77 = "Acabei de atingir os alvos em ordem."
-
-1011902-78 = "[s11] \"O que é isso...?\"\n[s12] \"Parecia que o alvo foi destruído em um instante...\""
-
-1011902-81 = "Não é tão difícil. #nDeixe-me explicar um por um."
-
-1011902-82 = "Primeiro, vire o corpo para a esquerda e atire no direito. #n Em seguida, segure a arma sob a axila e atire no lado esquerdo em dois tiros."
-
-1011902-83 = "No fluxo, jogo a própria arma no oponente e deixo cair a terceira. #nSe você usar o recuo para levantar a arma no ar e atirar no alvo final, você receberá quatro."
-
-1011902-84 = "Isso permite suprimir simultaneamente inimigos vindos de quatro direções."
-
-1011902-85 = "Claro, isso foi apenas treinamento, então os movimentos foram fáceis em comparação com a prática."
-
-1011902-86 = "[s] \"Fácil...?\""
-
-1011902-87 = "O atual é o formato básico."
-
-1011902-88 = "Claro que posso fazer isso."
-
-1011902-89 = "...Ainda dá tempo, então farei algumas outras coisas."
-
-1011902-91 = "(Depois disso, assisti ao treino de Nagusa, mas...)"
-
-1011902-92 = "(Nada disso parecia \"fácil\")"
-
+1011902-1 = "百花繚乱式射撃術"
+1011902-2 = "百花繚乱紛争調停委員会・部室"
+1011902-3 = "（他の用事が早く片付いて、約束の時間よりも前に百花繚乱の部室に到着できた）"
+1011902-6 = "（中庭で訓練中のナグサを見つけた）"
+1011902-13 = "はっ……はぁっ！"
+1011902-17 = "……先生？"
+1011902-18 = "もう約束の時間……？"
+1011902-19 = "ごめんなさい、訓練に集中しすぎて――"
+1011902-20 = "[s1] \"いや、まだ時間じゃないよ。\"\n[s2] \"私が早く着いただけ。\""
+1011902-23 = "そっか。"
+1011902-24 = "でも、訓練を見られるのは……ちょっと恥ずかしいな。"
+1011902-25 = "少し待っててくれる？#n汗だけ拭いてくるから。"
+1011902-26 = "[s3] \"私のことは気にしないでいいよ。\"\n[s4] \"まだ時間はあるんだし、続けて続けて。\""
+1011902-29 = "でも……。"
+1011902-30 = "[s] \"噂の「百花繚乱式射撃術」を見てみたかったんだ。\""
+1011902-31 = "興味あるの？"
+1011902-32 = "……そんな大したものじゃないよ。"
+1011902-33 = "訓練だし。撃って、的を交換して、の繰り返しだから。#n見ててもつまらないかも。"
+1011902-34 = "……それに、私はこれまでの委員長ほど才能があるわけでもない。"
+1011902-35 = "先生の期待に応えられるかは分からないけど。"
+1011902-36 = "[s] \"ナグサの「百花繚乱式射撃術」が見てみたいんだ。\""
+1011902-40 = "[ns5] \"たとえ自信がなくても、諦めず努力する背中には――\"\n[ns6] \"何者にも負けない想いがこもってるからね。\""
+1011902-43 = "そう……なのかな。"
+1011902-44 = "先生が見たいなら、やるけど――"
+1011902-45 = "危ないから、絶対にその場所を動かないで。"
+1011902-46 = "[s] \"どうして……？\""
+1011902-47 = "「百花繚乱式射撃術」は全方向に対応できるから。#n前提として、安全な場所がないんだよ。"
+1011902-48 = "私たちは、一人で複数を相手にすることも多い。#nそういう戦いだと、ほんのわずかな死角が命取りになる。"
+1011902-49 = "それを補うために培われてきたのが「百花繚乱式射撃術」なの。"
+1011902-50 = "結果として、回避と同時に複数の敵を狙い撃ちする形に発展してきた。"
+1011902-51 = "……これが「百花繚乱式射撃術」の基本。"
+1011902-52 = "だから、後ろにも敵がいると思って対応してる。"
+1011902-53 = "[s7] \"考え方はカンフーに近いのかも……？\"\n[s8] \"なんか奥深い……。\""
+1011902-54 = "カンフーを教えてくれる人が山海経にいるんだっけ。機会があったら習ってみたいな。"
+1011902-56 = "話を戻すね。まずは前と後、右と左の的を順番に撃っていくよ。"
+1011902-57 = "いつもよりゆっくりやるから。"
+1011902-58 = "さっきも言ったけど、絶対に動かないで。"
+1011902-60 = "ふぅ……。"
+1011902-64 = "……はぁっ！"
+1011902-73 = "……どうだった？"
+1011902-74 = "[s9] \"……？\"\n[s10] \"今、何が起きたの……？\""
+1011902-77 = "的を順番に撃っただけ。"
+1011902-78 = "[s11] \"何が何だか……。\"\n[s12] \"的が一瞬で破壊されたように見えたけど……。\""
+1011902-81 = "そんなに難しいことはしてない。#n一個ずつ説明しようか。"
+1011902-82 = "まず、体を左に回しながら右を撃って一つ。#n続いて脇の下に銃を構えて、左を撃って二つ。"
+1011902-83 = "流れで銃そのものを相手に投げて、三つ目を落とす。#nその反動で空中にある銃を持ち直して、最後の的を撃てば、四つ。"
+1011902-84 = "これで、四方向から来る敵を同時に制圧できる。"
+1011902-85 = "もちろんこれは訓練だから、実践に比べれば簡単な動きだったけど。"
+1011902-86 = "[s] \"簡単……？\""
+1011902-87 = "今のは基本的な形。"
+1011902-88 = "これくらいはできて当然。"
+1011902-89 = "……まだ時間はあるし、他にもいくつかやってあげる。"
+1011902-91 = "（その後もナグサの訓練を見届けたけれど――）"
+1011902-92 = "（一つとして「簡単」そうには見えなかった）"

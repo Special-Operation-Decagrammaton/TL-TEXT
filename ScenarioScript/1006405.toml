@@ -1,105 +1,53 @@
 [translation]
-1006405-1 = "Gatos, Kayoko e Amazake"
-
-1006405-2 = "(Cheguei cedo na manhã seguinte, esperando que estivesse lotado...)"
-
-1006405-3 = "Pronto, senhor. Você já veio?"
-
-1006405-4 = "Está frio, então se você chegar primeiro pode ligar e ir até uma loja próxima..."
-
-1006405-5 = "[s] \"Está tudo bem, acabei de chegar.\""
-
-1006405-10 = "As mãos da Senseia estão tão frias..."
-
-1006405-11 = "Se você não aquecer rapidamente..."
-
-1006405-12 = "Será que eles vendem alguma bebida quente?"
-
-1006405-13 = "Que tal um saquê doce?"
-
-1006405-14 = "Vai ficar ainda mais frio hoje, então, por favor, venha."
-
-1006405-15 = "Sensei, parece que você está distribuindo um amazake de Ano Novo."
-
-1006405-16 = "Antes de comprar o amuleto, devo pegá-lo antes de ir?"
-
-1006405-17 = "[s] \"Sim, estava certo.\""
-
-1006405-18 = "Dois copos de Amazake, por favor."
-
-1006405-22 = "[ns1] \"Ah, está quente...\"\n[ns2] \"Vai te aquecer até a medula...\""
-
-1006405-23 = "Hehe, tem um gosto nostálgico."
-
-1006405-24 = "Hehe, tem um gosto nostálgico."
-
-1006405-25 = "Esta pode ser a primeira vez...consegui beber um amazake assim sem me preocupar com as pessoas ao meu redor."
-
-1006405-26 = "[s] \"Aconteceu alguma coisa antes?\""
-
-1006405-27 = "Amazake também contém álcool, certo?"
-
-1006405-28 = "Certa vez, um estudante bebeu uma grande quantidade de amazake e causou comoção."
-
-1006405-29 = "Então, todos os anos, quando bebia amazake, ficava tão preocupado com as pessoas ao meu redor que não conseguia realmente aproveitar..."
-
-1006405-30 = "Estou com meu Sensei hoje."
-
-1006405-31 = "[s] \"Kayoko não fica bêbada com amazake?\""
-
-1006405-32 = "Não há como ser esse o caso. É como esse tipo de suco."
-
-1006405-33 = "Bem, não sei se continuo bebendo muito..."
-
-1006405-34 = "Ufa... estava delicioso. Mas acho que uma bebida é suficiente para mim."
-
-1006405-35 = "Agora que meu corpo está aquecido, já é hora..."
-
-1006405-39 = "um……"
-
-1006405-40 = "Sensei, me desculpe, mas você poderia esperar um momento?"
-
-1006405-41 = "Há algo que estou um pouco curioso...."
-
-1006405-42 = "[s] \"Sim, por favor, venha.\""
-
-1006405-43 = "Bem, já volto."
-
-1006405-48 = "(No entanto, mesmo depois de mais de 10 minutos, Kayoko não retornou...)"
-
-1006405-50 = "[ns] Vamos na direção que Kayoko foi."
-
-1006405-53 = "Ok, ok, sim, essa é uma boa garota. n / D……."
-
-1006405-54 = "Você mora neste bairro? Você está acostumado com as pessoas."
-
-1006405-58 = "Miau, isso é fofo."
-
-1006405-62 = "Miau miau ~ Miau miau ~. Hehe, miau miau ~♪"
-
-1006405-63 = "[s3] \"Parece que eles estão se divertindo.\"\n[s4] \"Eles são gatos fofos.\""
-
-1006405-64 = "Bem, Senseia...! ? Desde quando...?"
-
-1006405-65 = "Bem, Senseia...! ? Desde quando...?"
-
-1006405-66 = "Ah, desculpe. Você estava preocupado porque eu estava atrasado..."
-
-1006405-67 = "Mais do que isso..."
-
-1006405-68 = "...Você viu?"
-
-1006405-69 = "[s] \"...Sim.\""
-
-1006405-70 = "É por isso... que eu sempre falo com ela na linguagem dos gatos..."
-
-1006405-71 = "...mas não sem ele. #nHa, eu não esperava que ele viesse me procurar então baixei a guarda..."
-
-1006405-75 = "...É por causa do amor doce."
-
-1006405-76 = "Porque eu bebi amazake mais cedo... Sim, é por causa do amazake..."
-
-1006405-77 = "Nunca mais vou beber amazake...!"
-
-1006405-79 = "(...Depois acalmei Kayoko, que era tímida, e fui comprar um amuleto.)"
-
+1006405-1 = "猫とカヨコと甘酒と"
+1006405-2 = "（翌朝、混むと予想して早めに着いたところ……）"
+1006405-3 = "あれ、先生。もう来てたの？"
+1006405-4 = "寒いんだし、先に着いたなら連絡して近くのお店に入ってても……。"
+1006405-5 = "[s] \"大丈夫、いま来たところだよ。\""
+1006405-10 = "先生の手、こんなに冷たいじゃん……。"
+1006405-11 = "早く温めないと……"
+1006405-12 = "何か温かい飲み物でも売ってないかな。"
+1006405-13 = "甘酒、いかがですか～？"
+1006405-14 = "今日は一段と冷えますから、皆さんどうぞ～。"
+1006405-15 = "先生、お正月の甘酒を配ってるみたいだね。"
+1006405-16 = "お守りを買いに行く前に、貰ってから行こう？"
+1006405-17 = "[s] \"うん、ちょうど良かったね。\""
+1006405-18 = "甘酒を2杯、お願い。"
+1006405-22 = "[ns1] \"はああ、温かいね……。\"\n[ns2] \"身体の芯まで温まるよ……。\""
+1006405-23 = "ふふ、懐かしい味だ。"
+1006405-24 = "ふふ、懐かしい味だ。"
+1006405-25 = "初めてかも……こうやって周りを気にせず甘酒を飲めたのは。"
+1006405-26 = "[s] \"前に何かあったの？\""
+1006405-27 = "甘酒ってアルコール成分が入ってるのもあるでしょ？"
+1006405-28 = "大量の甘酒を飲んだ生徒が、大騒ぎを起こしたことがあって。"
+1006405-29 = "だから毎年、甘酒を飲む時は周りが気になって、ちゃんと味わえなかったけど……。"
+1006405-30 = "今日は先生と一緒だからね。"
+1006405-31 = "[s] \"カヨコは甘酒で酔わないの？\""
+1006405-32 = "あるわけないじゃん。こんなジュースみたいなもので。"
+1006405-33 = "まあ、何杯も飲み続けたら分からないけど……。"
+1006405-34 = "ふぅ……美味しかった。でも、私は一杯で十分かな。"
+1006405-35 = "さて、身体も温まったところだし、そろそろ……。"
+1006405-39 = "あ……"
+1006405-40 = "先生、悪いけど、ちょっと待っててくれる？"
+1006405-41 = "ちょっと気になるものが……。"
+1006405-42 = "[s] \"うん、いってらっしゃい。\""
+1006405-43 = "じゃあ、すぐに戻るから。"
+1006405-48 = "（しかし、10分以上経ってもカヨコは戻らず……)"
+1006405-50 = "[ns] カヨコが向かった方に行ってみる。"
+1006405-53 = "よしよし、そう、いい子だね。ふふ……。"
+1006405-54 = "ここの境内で暮らしてるの？人慣れしてるんだね。"
+1006405-58 = "にゃ～、可愛いね。"
+1006405-62 = "にゃんにゃん～にゃんにゃん～。ふふっ、にゃんにゃん～♪"
+1006405-63 = "[s3] \"なんだか、楽しそうだね。\"\n[s4] \"可愛い猫たちだね。\""
+1006405-64 = "せ、先生……！？いつからそこに……？"
+1006405-65 = "せ、先生……！？いつからそこに……？"
+1006405-66 = "あっ、ごめん。遅かったから心配してくれたんだよね……。"
+1006405-67 = "それより……。"
+1006405-68 = "…………見た？"
+1006405-69 = "[s] \"……うん。\""
+1006405-70 = "だから、その……いつも猫語で話しかけてるわけじゃ……。"
+1006405-71 = "……なくはないけど。#nはぁ、探しに来ると思ってなくて油断してた……。"
+1006405-75 = "……甘酒のせい。"
+1006405-76 = "さっき甘酒を飲んだから……そう、甘酒のせいだから……。"
+1006405-77 = "もう二度と甘酒は飲まない……！"
+1006405-79 = "(……その後、恥ずかしがるカヨコを宥めて、お守りを買いに行った)"

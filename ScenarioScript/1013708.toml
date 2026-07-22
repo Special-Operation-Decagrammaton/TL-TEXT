@@ -1,113 +1,57 @@
 [translation]
-1013708-1 = "O tratamento médico de um certo detetive"
-
-1013708-2 = "(Eu estava preocupado que Konoka tivesse pegado um resfriado, então decidi ir vê-la.)"
-
-1013708-6 = "[ns] \"Desculpe.\""
-
-1013708-7 = "Ugh... quem é esse... já..."
-
-1013708-8 = "Não temos TV! !"
-
-1013708-9 = "Geho, eu quebrei quando o time que eu estava torcendo perdeu..."
-
-1013708-10 = "Acho que você disse: “Ei, vou prendê-lo se você vier na próxima vez”."
-
-1013708-11 = "[s1] \"Ah, acalme-se, Konoka!\"\n[s2] \"Sou eu, sou eu!\""
-
-1013708-14 = "Oh sim! ?"
-
-1013708-15 = "Sensei? Oh, por favor, entre. A porta está destrancada!"
-
-1013708-19 = "[ns] \"Não tranque!?\""
-
-1013708-20 = "Ei, se um ladrão invadir, você pode pegá-lo em flagrante, certo?"
-
-1013708-21 = "Você pode atingir sua cota e isso é conveniente de várias maneiras."
-
-1013708-22 = "[s] \"Tem um ladrão no dormitório da Valquíria...!?\""
-
-1013708-23 = "Não tenho medo, ou melhor, não sei o que os criminosos pensam."
-
-1013708-24 = "Em vez disso, que tipo de negócio você tem... Geho..."
-
-1013708-25 = "[s] \"Ouvi dizer que você estava resfriado, então vim ver você.\""
-
-1013708-26 = "Como você sabia! ?"
-
-1013708-27 = "[s3] \"Konoka me contou sobre isso no Momotalk...\"\n[s4] \"Você disse que pegaria um resfriado e faria uma pausa, certo?\""
-
-1013708-30 = "Nossa, ah, ah...?"
-
-1013708-32 = "Ah, Geho... Aquela conversa da Momo."
-
-1013708-33 = "Achei que tinha mandado para meus filhos... sinto muito."
-
-1013708-34 = "Sinto muito que você tenha vindo até aqui me visitar..."
-
-1013708-35 = "[s] \"De jeito nenhum! Na verdade, eu ficaria feliz em ir.\""
-
-1013708-36 = "Muito obrigado. #nMas agora estou me sentindo bastante inconsciente..."
-
-1013708-37 = "É a primeira vez que alguém me visita por causa de um resfriado, então não sei o que fazer..."
-
-1013708-38 = "[s5] \"Você já comeu?\"\n[s6] \"Devo fazer um mingau?\""
-
-1013708-41 = "Mingau... Ah, pensando bem, ainda não comi nada."
-
-1013708-42 = "Hmm... Nossa, eu gostaria de ossos de porco com alho, sem vegetais, e mais óleo de pimenta, por favor."
-
-1013708-43 = "[s] \"Não é uma loja de ramen!?\""
-
-1013708-44 = "Huh?"
-
-1013708-47 = "Ufa, obrigado pela refeição."
-
-1013708-48 = "Era como ramen sem macarrão e era fácil de comer. #nEu deveria ter adicionado mais alho."
-
-1013708-49 = "[s] \"Bem, parece que foi comido, então acho que está tudo bem...?\""
-
-1013708-50 = "Guha, caramba, isso é um exagero."
-
-1013708-51 = "É apenas um resfriado. Se você se exercita tanto..."
-
-1013708-56 = "[ns] Coloquei minha mão na testa de Konoka."
-
-1013708-58 = "! ! !"
-
-1013708-59 = "Ei..."
-
-1013708-63 = "... Geho."
-
-1013708-64 = "...Eh, sim?"
-
-1013708-65 = "[s] \"Você está com febre alta. Você deveria se deitar.\""
-
-1013708-66 = "um……."
-
-1013708-67 = "Ah, sim..."
-
-1013708-71 = "[ns] \"O que você acha? Ainda dói?\""
-
-1013708-72 = "Ah, hum...!"
-
-1013708-73 = "Bem... ainda pode ser um pouco doloroso."
-
-1013708-74 = "Ah, ah, dói, dói. Geho, Geho."
-
-1013708-75 = "[s] \"Vou ficar ao seu lado até você adormecer.\""
-
-1013708-76 = "Sim..."
-
-1013708-77 = "Ah, nesse caso... por favor feche a porta..."
-
-1013708-78 = "Mesmo que eu me torne um ladrão agora, não poderei proteger meu Sensei..."
-
-1013708-79 = "[s] \"Sim. Isso mesmo, você quer que eu leia sua sorte para hoje?\""
-
-1013708-80 = "Oh não. Tudo bem."
-
-1013708-81 = "Hoje parece ser o melhor dia."
-
-1013708-83 = "(Mesmo depois disso, ele continuou a cuidar de Konoka ao lado dela.)"
-
+1013708-1 = "とある刑事の療養"
+1013708-2 = "（風邪を引いたというコノカが心配になり、お見舞いに行くことにした）"
+1013708-6 = "[ns] \"ごめんくださいー。\""
+1013708-7 = "うぅ……誰だよ……もう……。"
+1013708-8 = "うちにはテレビないってば！！"
+1013708-9 = "げほっ、応援してたチームが負けた時に壊しちゃったんだから……。"
+1013708-10 = "今度来たら逮捕するって、げほっ、言ったと思うんだけど？"
+1013708-11 = "[s1] \"お、落ち着いて、コノカ！\"\n[s2] \"私だよ、私！\""
+1013708-14 = "え、ええ！？"
+1013708-15 = "先生？あ、どうぞ入ってください。鍵は開いてるっす！"
+1013708-19 = "[ns] \"鍵かけてないの！？\""
+1013708-20 = "げほっ、泥棒入ってきたら、そのまま現行犯逮捕できるじゃないっすか。"
+1013708-21 = "ノルマも達成できるし、色々便利なんすよ。"
+1013708-22 = "[s] \"ヴァルキューレの寮に泥棒……！？\""
+1013708-23 = "怖いもの知らずというか、犯罪者の考えることは分からないっすからね～"
+1013708-24 = "それより、どういったご用件で……げほっ……。"
+1013708-25 = "[s] \"風邪ひいたって聞いてお見舞いに来たよ。\""
+1013708-26 = "どうやって知ったんすか！？"
+1013708-27 = "[s3] \"コノカがモモトークで教えてくれたから……。\"\n[s4] \"風邪引いて休むって言ってたよね？\""
+1013708-30 = "げほっ、は、はぇ……？"
+1013708-32 = "ああっ、げほっ……あのモモトーク。"
+1013708-33 = "うちの子たちに送ったと思ってました……すいません。"
+1013708-34 = "わざわざお見舞いに来てくれるなんて……申し訳ないっす。"
+1013708-35 = "[s] \"全然！むしろ喜んで行くよ。\""
+1013708-36 = "うぅ、ありがとうございます。#nでも、ちょっと今、だいぶ意識朦朧としてて……。"
+1013708-37 = "風邪でお見舞いきてもらうのも初めてっすし、どうすればいいのか……。"
+1013708-38 = "[s5] \"ご飯はもう食べた？\"\n[s6] \"お粥でも作ろうか？\""
+1013708-41 = "お粥……あー、そういえばまだ何も食べてないっす。"
+1013708-42 = "えっと……げほっ、豚骨にニンニクましまし、野菜抜き、ラー油追加でお願いします。"
+1013708-43 = "[s] \"ラーメン屋じゃないんだよ！？\""
+1013708-44 = "はぇ？"
+1013708-47 = "ふぅ、ごちそうさまでした。"
+1013708-48 = "麺抜きのラーメンみたいで食べやすかったっす。#nニンニクもっと入れとけばよかった。"
+1013708-49 = "[s] \"まあ、食べられたみたいだし、これでいいのかな……？\""
+1013708-50 = "ぐはっ、げほっ、大袈裟っすよ。"
+1013708-51 = "ただの風邪っすから。この程度運動すれば――"
+1013708-56 = "[ns] コノカの額に手を当ててみる。"
+1013708-58 = "！！！"
+1013708-59 = "ひぁっ……。"
+1013708-63 = "……げほっ。"
+1013708-64 = "……え、ええ？"
+1013708-65 = "[s] \"熱が高いね。横になったほうがいい。\""
+1013708-66 = "あ……。"
+1013708-67 = "う、うん……。"
+1013708-71 = "[ns] \"どう？まだ辛い？\""
+1013708-72 = "あ、えっと……！"
+1013708-73 = "その……ちょっと、まだ辛いかもしれないっす。"
+1013708-74 = "あ、あーあ、痛いー痛いなー。げほっ、げほっ。"
+1013708-75 = "[s] \"寝付くまでそばにいるから。\""
+1013708-76 = "は、はい……。"
+1013708-77 = "あ、それなら……ドア、閉めて……ください。"
+1013708-78 = "いまどろぼーきても、先生のこと、守れないんで……。"
+1013708-79 = "[s] \"うん。そうだ、今日の占いでも読み上げようか？\""
+1013708-80 = "あ、いえ。大丈夫っす。"
+1013708-81 = "今日は最高の一日に、なってるんで。"
+1013708-83 = "（その後も、コノカの隣で看病を続けた）"

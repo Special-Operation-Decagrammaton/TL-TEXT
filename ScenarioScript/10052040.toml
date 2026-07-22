@@ -1,135 +1,68 @@
 [translation]
-10052040-1 = "Uniforme"
-
-10052040-2 = "Eca..."
-
-10052040-3 = "[s] \"Você está bem?\""
-
-10052040-4 = "Sinto-me mais tonto do que pensava. Principalmente o lado esquerdo da minha cabeça..."
-
-10052040-5 = "[s] \"Tem certeza de que está bem?\""
-
-10052040-6 = "A causa foi definitivamente que o núcleo de Binah foi trazido de volta e ativado, mas..."
-
-10052040-7 = "……."
-
-10052040-8 = "tudo bem. É uma questão de seu corpo se acostumar com o fluxo de energia."
-
-10052040-9 = "[s] \"Sério... você está realmente bem, não está...?\""
-
-10052040-10 = "Você está se preocupando demais. Os sintomas estão gradualmente se acalmando. #nNo entanto, se isso acontecer toda vez que eu coletar um núcleo, eu ficaria muito preocupado..."
-
-10052040-11 = "Talvez esta seja a razão pela qual este corpo foi descrito como ``''..."
-
-10052040-12 = "De qualquer forma, cada vez que você ativar um núcleo, você poderá redesenhar a saída e a funcionalidade de sua nave de transporte."
-
-10052040-13 = "E o fluxo dessa energia está conectado ao meu corpo...#nBem, para concluir, acho que posso controlá-lo."
-
-10052040-14 = "[s] \"Não se esforce demais, Kei-chan.\""
-
-10052040-15 = "Quem é Kei-chan?"
-
-10052040-24 = "Alice...? #nO que é isso...?"
-
-10052040-25 = "É um uniforme!"
-
-10052040-26 = "Você pode ver isso quando vê, mas por que você fez isso...?"
-
-10052040-27 = "Este é o primeiro look da Alice!"
-
-10052040-28 = "Alice ficou muito feliz com isso. É por isso que quero compartilhar com Kay!"
-
-10052040-32 = "Talvez você não tenha gostado...?"
-
-10052040-33 = "Sem chance! Isso... na verdade, é mesmo..."
-
-10052040-37 = "Hehehe..."
-
-10052040-38 = "Claro. O uniforme Millennium é a escolha mais lógica."
-
-10052040-39 = "...É muito típico da sua parte adicionar algo aqui."
-
-10052040-41 = "[ns] \"Se você pensa no uniforme de combate de um estudante, é definitivamente um uniforme!\""
-
-10052040-42 = "Do que você está falando de repente?"
-
-10052040-43 = "sim? Se estudar é um personagem inimigo, o campo de batalha para derrotá-lo é a sala de aula, e o uniforme de combate é um uniforme...?"
-
-10052040-44 = "……."
-
-10052040-45 = "Por enquanto, vou aceitar isso..."
-
-10052040-46 = "Então, eu... eu farei isso..."
-
-10052040-47 = "……."
-
-10052040-48 = "sim! Experimente! #nAlice quer ver Kei de uniforme em breve!"
-
-10052040-49 = "...!"
-
-10052040-55 = "O que você acha...?"
-
-10052040-56 = "Uau!"
-
-10052040-57 = "[ns] \"Ah....\""
-
-10052040-58 = "Que reação é essa...!"
-
-10052040-59 = "Você está ótima, Kei."
-
-10052040-60 = "Sim, é muito fofo."
-
-10052040-61 = "...! ! !"
-
-10052040-62 = "Ah, obrigado... Yuzu, Midori."
-
-10052040-66 = "Você está bem? Não está quente?"
-
-10052040-67 = "Porque não é você..."
-
-10052040-68 = "Kei, fica ótimo em você."
-
-10052040-69 = "Por um momento, pensei que sua posição como a garota perfeita e fofa estaria ameaçada."
-
-10052040-70 = "...Não é isso que pretendo."
-
-10052040-71 = "Sua posição como a garota perfeita, fofa e linda foi protegida. #nCom isso você pode viver sem desanimar."
-
-10052040-72 = "Você está me ouvindo...?"
-
-10052040-82 = "Kohon. o……."
-
-10052040-83 = "obrigado."
-
-10052040-84 = "Hum? Você não me ouviu bem?"
-
-10052040-85 = "Droga...!"
-
-10052040-89 = "Ah, obrigado! Está tudo bem? ?"
-
-10052040-90 = "Eu tenho que fazer isso! É importante expressar sua gratidão!"
-
-10052040-91 = "[ns] \"Ah, sim!\""
-
-10052040-92 = "Aliás, esses dois têm uma história decente...!"
-
-10052040-93 = "E de qualquer maneira!"
-
-10052040-94 = "Esse uniforme... só vou usá-lo quando necessário."
-
-10052040-95 = "Por que?"
-
-10052040-96 = "Isso é..."
-
-10052040-97 = "……."
-
-10052040-98 = "Quero valorizar as roupas que têm o pensamento de todos nelas..."
-
-10052040-99 = "Kei-chan... obrigado."
-
-10052040-100 = "Não, não... muito obrigado..."
-
-10052040-101 = "Eu não posso evitar! Kei é uma pessoa tímida!"
-
-10052040-102 = "Momoi ――! ! !"
-
+10052040-1 = "Uniform"
+10052040-2 = "うぅっ……。"
+10052040-3 = "[s] \"大丈夫？\""
+10052040-4 = "思った以上にめまいがします。特に頭の左側が……。"
+10052040-5 = "[s] \"本当に大丈夫？\""
+10052040-6 = "原因は間違いなく、ビナーのコアを持ち帰って活性化させたことですが……。"
+10052040-7 = "……。"
+10052040-8 = "大丈夫です。この身体がエネルギーの流れに慣れれば済む話ですので。"
+10052040-9 = "[s] \"本当の……本当に、大丈夫なんだよね……？\""
+10052040-10 = "心配しすぎですよ。症状は徐々に落ち着いてきていますので。#nとはいえ、コアを回収する度にこうなるなら、どうにも気が重いですね……。"
+10052040-11 = "もしかしたら、この身体が「[ruby=欠陥あり]Defected[/ruby]」と評されたのは、これが理由なのかもしれません……。"
+10052040-12 = "とにかく、コアを活性化する度に、輸送船の出力や機能を再設計できるはずです。"
+10052040-13 = "そして、そのエネルギーの流れは私の身体とつながっていて……#nまあ結論だけ言いますと、私が制御できると思います。"
+10052040-14 = "[s] \"無理しすぎないでね、ケイちゃん。\""
+10052040-15 = "誰がケイちゃんですか、もう。"
+10052040-24 = "アリス……？#nこれは何ですか……？"
+10052040-25 = "制服です！"
+10052040-26 = "それは見れば分かりますが、どうしてこれを……。"
+10052040-27 = "これは、アリスが初めて着せてもらった服なんです！"
+10052040-28 = "アリスは……それが本当に嬉しかったです。だから、ケイにも共有したいんです！"
+10052040-32 = "もしかして……嫌、でしたか……？"
+10052040-33 = "まさか！その……むしろ、すごく……。"
+10052040-37 = "えへへっ……。"
+10052040-38 = "当然よ。ミレニアムの制服こそ、最も合理的な選択だもの。"
+10052040-39 = "……ここでひと言加えるのは、実にあなたらしいですね。"
+10052040-41 = "[ns] \"生徒の戦闘服と言ったら、やっぱり制服だよね！\""
+10052040-42 = "いきなりなんの話ですか……？"
+10052040-43 = "はい？勉強を敵キャラとしたら、それをやっつけるための戦場が教室で、戦闘服は制服……？"
+10052040-44 = "……。"
+10052040-45 = "とりあえず、それで納得してあげます……。"
+10052040-46 = "で、では、私が……これを……。"
+10052040-47 = "……。"
+10052040-48 = "はい！着てみてください！#nアリスはケイの制服姿が早く見たいです！"
+10052040-49 = "……！"
+10052040-55 = "ど、どうですか……？"
+10052040-56 = "わあ！"
+10052040-57 = "[ns] \"おぉ……。\""
+10052040-58 = "な、なんですか、その反応は……！"
+10052040-59 = "すごく似合ってるよ、ケイちゃん。"
+10052040-60 = "うん、本当にかわいい。"
+10052040-61 = "……！！！"
+10052040-62 = "あ、ありがとうございます……ユズ、ミドリ。"
+10052040-66 = "大丈夫？暑くない？"
+10052040-67 = "あなたじゃないのですから……。"
+10052040-68 = "ケイ、とてもよく似合っています。"
+10052040-69 = "一瞬、パーフェクトキュートクール系美少女の座を脅かされると思ったくらいに。"
+10052040-70 = "……そんなのは狙っていません。"
+10052040-71 = "パーフェクトキュートクール系美少女の座は守られました。#nこれで、挫けることなく生きていられます。"
+10052040-72 = "話聞いてますか……？"
+10052040-82 = "こほん。その……。"
+10052040-83 = "ありがとう、ございます。"
+10052040-84 = "ん～？よく聞こえなかったなぁ～？"
+10052040-85 = "くっ……！"
+10052040-89 = "あ、ありがとうございます！これでいいですか！？"
+10052040-90 = "そうこなくっちゃ！感謝の気持ちを伝えるのは大事だからね！"
+10052040-91 = "[ns] \"そうそう！\""
+10052040-92 = "よりによってこの2人がまともな話を……！"
+10052040-93 = "と、とにかく！"
+10052040-94 = "この制服は……必要な時にだけ着ることにします。"
+10052040-95 = "どうしてですか？"
+10052040-96 = "それは、その……。"
+10052040-97 = "……。"
+10052040-98 = "皆さんの思いが込められた服を、大事にしたくて……。"
+10052040-99 = "ケイちゃん……ありがとう。"
+10052040-100 = "い、いえ……こちらこそ、ありがとうございます……。"
+10052040-101 = "しょうがないなぁ！ケイは照れ屋さんだもんね！"
+10052040-102 = "モモイ――！！！"

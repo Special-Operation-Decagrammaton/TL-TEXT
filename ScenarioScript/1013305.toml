@@ -1,195 +1,98 @@
 [translation]
-1013305-1 = "experimento mental"
-
-1013305-2 = "(dirigiu-se ao hangar onde o Rio estava)"
-
-1013305-6 = "Você veio."
-
-1013305-7 = "No momento, estamos atualizando o algoritmo de IA do AMAS."
-
-1013305-8 = "As informações que recebi aqui são todas desconhecidas."
-
-1013305-9 = "Se você não atualizar os novos dados dessa forma, o processo não funcionará corretamente."
-
-1013305-14 = "[ns] \"Oh, ele se moveu!\""
-
-1013305-16 = "Ainda não acabou."
-
-1013305-17 = "Você precisa verificar se os dados adicionados foram reconhecidos corretamente."
-
-1013305-18 = "Há um limite para apenas seguir as ordens definidas."
-
-1013305-19 = "[s] \"?\""
-
-1013305-20 = "É uma IA que só pode realizar determinadas tarefas de acordo com determinadas regras."
-
-1013305-21 = "Por se especializarem em uma área específica, às vezes podem ser melhores que os humanos nessa área."
-
-1013305-22 = "Porém... no final, ele só funciona com os dados que aprendeu, por isso não tem a mesma “inspiração” que os humanos têm."
-
-1013305-23 = "Por outro lado, também existem IAs que podem pensar livremente como os humanos."
-
-1013305-24 = "Isso é o que eu digo. #nUm exemplo representativo é ――"
-
-1013305-25 = "--Alice."
-
-1013305-26 = "...Eu também costumava pensar que a IA não tinha noção de si mesma."
-
-1013305-27 = "Achei que eles estavam apenas imitando a inteligência."
-
-1013305-28 = "[s1] \"Imitando inteligência...?\"\n[s2] \"O que isso significa?\""
-
-1013305-31 = "Por exemplo... digamos que você tenha uma sala com perguntas e respostas em um idioma que você não conhece."
-
-1013305-32 = "Quando você entra naquela sala, é como olhar para uma “pintura” e você pode ver o padrão de “retornar isto a isto”."
-
-1013305-33 = "Então, o que aconteceria se você desse à pessoa nesta sala um pedaço de papel com uma pergunta escrita?"
-
-1013305-34 = "Veja o que está escrito no papel, encontre a resposta na sala que corresponde e responda..."
-
-1013305-35 = "Uma “conversa” pode ser estabelecida mesmo que as pessoas na sala não entendam o idioma."
-
-1013305-36 = "Como alguém fora da sala fazendo perguntas, tenho certeza de que a pessoa dentro da sala entende essa linguagem."
-
-1013305-37 = "Mas, na realidade, são apenas imagens correspondentes."
-
-1013305-38 = "Em outras palavras, eles estão apenas respondendo de acordo com as regras, não entendendo o idioma."
-
-1013305-39 = "Expanda esta história..."
-
-1013305-40 = "E se funcionar apenas com base neste princípio?"
-
-1013305-41 = "É possível dizer que há um sentido de identidade nisso?"
-
-1013305-42 = "[s] \"Essa é uma pergunta difícil...\""
-
-1013305-43 = "Sempre pensei que a IA não tem senso de identidade."
-
-1013305-44 = "É apenas imitar os humanos."
-
-1013305-45 = "Eu acreditava que essa era a coisa mais lógica a fazer."
-
-1013305-49 = "...Até conhecer Alice."
-
-1013305-50 = "Ainda não entendo como nasceu uma criança como Alice."
-
-1013305-51 = "Então... para ser sincero, acho que estava com medo."
-
-1013305-52 = "Você também poderia dizer que é um medo de território desconhecido."
-
-1013305-53 = "Mas no final, foi apenas uma questão de aceitar."
-
-1013305-54 = "Os seres humanos também têm personalidades diferentes. #nEu deveria ter pensado que Alice também tinha esse tipo de “individualidade”."
-
-1013305-55 = "É importante pensar logicamente, mas você não precisa viver tudo de acordo com a lógica."
-
-1013305-56 = "A realidade não é um experimento mental."
-
-1013305-57 = "[s] \"Rio, você cresceu!\""
-
-1013305-58 = "...Acabei de chegar à linha de partida."
-
-1013305-59 = "Então...estou ansioso pelo seu apoio contínuo."
-
-1013305-60 = "Porque pretendo crescer mais."
-
-1013305-61 = "Por enquanto, tenho que seguir em frente com meus planos de produção em massa do ajudante doméstico Avant Garde."
-
-1013305-62 = "[s] \"Ah, estou torcendo por você...\""
-
-1013305-64 = "(Continuou atualizando a AMAS enquanto trocava opiniões com o Rio)"
-
-1013305-68 = "(depois de um tempo......)"
-
-1013305-73 = "O trabalho planejado já está concluído."
-
-1013305-74 = "Terminou mais cedo do que eu esperava. #nIsso tudo é graças ao Sensei. Obrigado."
-
-1013305-75 = "[s] \"Eu era apenas alguém com quem conversar, ok?\""
-
-1013305-76 = "Sinto que só isso aumentou a eficiência."
-
-1013305-77 = "Graças a você, tive um tempinho extra..."
-
-1013305-78 = "Se você não se importa, gostaria que se juntasse a mim no experimento mental que mencionei anteriormente."
-
-1013305-79 = "Independentemente dos prós e contras da teoria, é surpreendentemente divertido tentar."
-
-1013305-80 = "É difícil montar uma sala de verdade, então usarei cartões e um caderno de respostas."
-
-1013305-81 = "Eu estava preparado para que algo assim acontecesse."
-
-1013305-82 = "[s3] (Talvez ele queira fazer isso já faz um tempo...)\n[s4] \"Sim, vamos fazer isso juntos!\""
-
-1013305-88 = "Bem... sim. #nEste é um cartão com várias letras escritas nele."
-
-1013305-89 = "Sensei, por favor, olhe esta tabela de respostas e escolha a carta que parece corresponder."
-
-1013305-90 = "Vamos começar."
-
-1013305-95 = "(Recebi alguns cartões com símbolos e imagens que não entendi)"
-
-1013305-96 = "(Você também receberá uma folha de respostas e um cartão de perguntas que você não sabe o que está escrito nele.)"
-
-1013305-97 = "(Foi a primeira vez que vi esses personagens, mas olhei a folha de respostas e escolhi aquele que parecia se encaixar melhor.)"
-
-1013305-98 = "(Honestamente, eu não sabia qual era a resposta correta...)"
-
-1013305-101 = "Sensei! ? Isso significa...!"
-
-1013305-102 = "Ah, não, isso foi um experimento..."
-
-1013305-106 = "sim……?"
-
-1013305-107 = "……."
-
-1013305-108 = "...... decepcionante. Eu gostaria que isso fosse o que o Sensei realmente quis dizer."
-
-1013305-109 = "O que isso significa?"
-
-1013305-110 = "……."
-
-1013305-111 = "Por favor, não me faça dizer isso."
-
-1013305-112 = "[s] \"Sinto muito, por favor, não fique com raiva...\""
-
-1013305-113 = "Não é como se eu estivesse com raiva..."
-
-1013305-114 = "...Desculpe, vamos continuar."
-
-1013305-116 = "(Os \"experimentos\" continuaram depois disso)"
-
-1013305-123 = "Hehe, isso mesmo. Eu também acho."
-
-1013305-127 = "Entendo... o Sensei era desse tipo."
-
-1013305-132 = "Como esperado, isso... não é um pouco ousado?"
-
-1013305-136 = "Se é isso que o Sensei quer... mas não me importo..."
-
-1013305-138 = "(Trocamos cerca de 10 vezes)"
-
-1013305-144 = "(Rio mostrou várias reações a cada vez)"
-
-1013305-146 = "Obrigado, Sensei, pelo seu trabalho árduo."
-
-1013305-147 = "Que tipo de perguntas e respostas houve?"
-
-1013305-148 = "……."
-
-1013305-149 = "…………."
-
-1013305-155 = "………………."
-
-1013305-156 = "Vou manter isso quieto."
-
-1013305-157 = "[s5] \"Por quê!?\"\n[s6] \"Mesmo que eu também participe disso!?\""
-
-1013305-160 = "Isso é verdade, mas..."
-
-1013305-161 = "……."
-
-1013305-162 = "Desejos são algo que você mantém escondido em seu coração. #nAté que o que o Sensei respondeu com os cartões se tornou realidade――"
-
-1013305-163 = "Quero manter tudo em segredo tanto quanto possível."
-
+1013305-1 = "思考実験"
+1013305-2 = "（リオのいる格納庫へ向かった）"
+1013305-6 = "来たのね。"
+1013305-7 = "今はAMASのAIアルゴリズムをアップデートしているところよ。"
+1013305-8 = "ここで仕入れた情報は、未知のものばかりだから。"
+1013305-9 = "こうして新しいデータを更新しなければ、うまく処理ができなくなってしまうの。"
+1013305-14 = "[ns] \"お、動いた！\""
+1013305-16 = "まだ終わりじゃないわ。"
+1013305-17 = "追加したデータを正しく認識しているかの検証が必要よ。"
+1013305-18 = "決められた命令だけをこなす[ruby=弱い人工知能]WeakAI[/ruby]の限界というものね。"
+1013305-19 = "[s] \"[ruby=弱い人工知能]WeakAI[/ruby]？\""
+1013305-20 = "決まったルールで、決まった作業しかできないAIのことよ。"
+1013305-21 = "分野に特化しているからこそ、その範囲内なら人間より優秀なこともあるわ。"
+1013305-22 = "けれど……結局は学習したデータの中だけで動くから、人間みたいな「ひらめき」は発生しない。"
+1013305-23 = "逆に、人間みたいに自由な思考ができるAIもあるの。"
+1013305-24 = "それを[ruby=強い人工知能]StrongAI[/ruby]と言うわ。#nその代表例ともいえるのが――"
+1013305-25 = "――アリスよ。"
+1013305-26 = "……私も以前は、AIに自我なんてないと思っていたの。"
+1013305-27 = "ただ知能を真似しているだけだと考えていたわ。"
+1013305-28 = "[s1] \"知能を真似してる……？\"\n[s2] \"それってどういうこと？\""
+1013305-31 = "たとえば……全く知らない言語の「質問」と「答え」が示されている部屋があるとしましょう。"
+1013305-32 = "その部屋に入れば、まるで「絵」を鑑賞するかのように、「この[ruby=質問]絵[/ruby]にはこういう[ruby=答え]絵[/ruby]を返す」というパターンが分かるようになっているの。"
+1013305-33 = "ではこの部屋の中にいる人に、質問が書かれた紙を渡したらどうなるかしら？"
+1013305-34 = "紙に書いてある[ruby=質問]絵[/ruby]を見て、部屋の中からそれに合う[ruby=答え]絵[/ruby]を探し出して回答すれば――"
+1013305-35 = "部屋の中にいる人が言語を理解していなくとも「会話」が成立してしまう。"
+1013305-36 = "部屋の外から質問の受け渡しをしている人からすれば、「部屋の中の人はこの言語が分かる」と思うはず。"
+1013305-37 = "けれど実際は、ただ絵合わせをしているだけ。"
+1013305-38 = "つまりルールに従って答えているだけで、言語を理解してるわけではないのよ。"
+1013305-39 = "この話を拡大して――"
+1013305-40 = "[ruby=強い人工知能]StrongAI[/ruby]もこの原理で動いているだけだとしたら？"
+1013305-41 = "それに自我があると言い切れるかしら。"
+1013305-42 = "[s] \"難しい質問だね……。\""
+1013305-43 = "私はずっと……AIには自我がないと思っていたの。"
+1013305-44 = "ただ人間を真似しているだけだとね。"
+1013305-45 = "それが一番合理的だと信じていたわ。"
+1013305-49 = "……アリスに会うまでは。"
+1013305-50 = "どうしてアリスみたいな子が生まれたのか、私は未だに理解できていないわ。"
+1013305-51 = "だから……正直、怖がっていたのだと思う。"
+1013305-52 = "未知の領域に対する恐れとも言えるわね。"
+1013305-53 = "でも結局、それも受け入れたらよかっただけのこと。"
+1013305-54 = "人間だって個性がバラバラなのだもの。#nアリスもそういう「個性」だと思えばよかったのよ。"
+1013305-55 = "論理的に考えるのも大事だけれど、全て論理に従って生きる必要もない。"
+1013305-56 = "現実は思考実験ではないのだから。"
+1013305-57 = "[s] \"リオ、成長したね！\""
+1013305-58 = "……まだスタートラインに立ったばかりよ。"
+1013305-59 = "だから……これからもよろしくお願いするわ。"
+1013305-60 = "私はもっと成長するつもりだから。"
+1013305-61 = "差し当たっては家事手伝いアバンギャルド君の量産計画を進めなければいけないわね。"
+1013305-62 = "[s] \"お、応援してるね……。\""
+1013305-64 = "（引き続きリオと意見を交わしながら、AMASのアップデートを続けた）"
+1013305-68 = "（しばらくして……）"
+1013305-73 = "これで予定していた作業は終わりよ。"
+1013305-74 = "思ったよりも早く終わったわね。#nこれは先生のおかげよ。感謝するわ。"
+1013305-75 = "[s] \"私はただ話し相手になっただけだよ？\""
+1013305-76 = "それだけでも効率が上がった気がするわ。"
+1013305-77 = "おかげで少しだけ時間が余ったのだけれど……。"
+1013305-78 = "もしよければさっき話した思考実験に付き合ってもらえないかしら。"
+1013305-79 = "理論の是非は置いておくとしても、やってみると案外楽しいのよ。"
+1013305-80 = "本物の部屋を用意するのは難しいから、カードと解答集で代用するわ。"
+1013305-81 = "こんなこともあろうかと、準備はしておいたの。"
+1013305-82 = "[s3] （たぶん、前からやりたかったんだろうな……）\n[s4] \"うん、一緒にやろう！\""
+1013305-88 = "では……はい。#nこれが、色々な文字のようなものが書かれたカード。"
+1013305-89 = "先生はこの答えの表を見て、合いそうなカードを選んでちょうだい。"
+1013305-90 = "始めるわね。"
+1013305-95 = "（よく分からない記号や絵が書かれたカードを何枚か渡された）"
+1013305-96 = "（さらに、何が書いてあるか分からない解答表と質問カードも受け取る）"
+1013305-97 = "（初めて見る文字だったけれど、解答表を見て一番合いそうなのを選んでみた）"
+1013305-98 = "（正直、何が正解かは分からなかった……）"
+1013305-101 = "先生！？これはつまり……！"
+1013305-102 = "あ、いえ、これは実験……だったわね。"
+1013305-106 = "ん……？"
+1013305-107 = "……。"
+1013305-108 = "……残念。これが先生の本音だったらよかったのに。"
+1013305-109 = "どういう意味か、って？"
+1013305-110 = "……。"
+1013305-111 = "そ、そんなこと言わせないでちょうだい。"
+1013305-112 = "[s] \"ご、ごめん、怒らないで……。\""
+1013305-113 = "別に……怒っているわけではないわ……。"
+1013305-114 = "……ごめんなさい、続きをしましょう。"
+1013305-116 = "（その後も「実験」は続いた）"
+1013305-123 = "ふふ、そうね。私もそう思うわ。"
+1013305-127 = "なるほど……先生はそういうタイプだったのね。"
+1013305-132 = "さすがにこれは……少し大胆じゃないかしら。"
+1013305-136 = "先生が望むのなら……私は別に、構わないけれど……。"
+1013305-138 = "（10回くらいのやりとりをした）"
+1013305-144 = "（その都度リオは色んな反応を見せてくれた）"
+1013305-146 = "先生、お疲れ様。"
+1013305-147 = "どんな質問と答えだったのか、って？"
+1013305-148 = "……。"
+1013305-149 = "…………。"
+1013305-155 = "………………。"
+1013305-156 = "黙秘させてもらうわ。"
+1013305-157 = "[s5] \"なんで！？\"\n[s6] \"私も当事者なのに！？\""
+1013305-160 = "それはそうなのだけれど……。"
+1013305-161 = "……。"
+1013305-162 = "願いは心の内に秘めておくものよ。#n先生がカードで答えてくれたことが現実になるまで――"
+1013305-163 = "できるだけ、全部秘密にしておきたいの。"

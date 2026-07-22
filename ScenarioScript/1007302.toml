@@ -1,151 +1,76 @@
 [translation]
-1007302-1 = "Fora do estilo do personagem"
-
-1007302-4 = "(Passamos várias horas vagando pela ilha procurando por Ui...)"
-
-1007302-11 = "(Finalmente encontrei um lugar escondido atrás de uma rocha à beira-mar.)"
-
-1007302-15 = "[ns1] \"...finalmente encontrei.\"\n[ns2] \"Ei, o que há de errado?\""
-
-1007302-20 = "……Sensei?"
-
-1007302-21 = "Como você sabia disso...? #nEm um lugar onde você possa encontrá-lo facilmente..."
-
-1007302-22 = "Além disso, eu disse para você não se preocupar com isso..."
-
-1007302-23 = "……foto?"
-
-1007302-24 = "Você está procurando por...? #nzu, o tempo todo...?"
-
-1007302-29 = "...Desde o momento em que enviei o Momotalk! ?"
-
-1007302-30 = "... Tantas horas ..."
-
-1007302-31 = "Eu te disse, certo? Não há nada de errado com o Sensei...#nSe houver, sou eu."
-
-1007302-32 = "Então... por favor, não se preocupe mais comigo."
-
-1007302-33 = "[s3] \"Não posso deixar você sozinho.\"\n[s4] \"Estou preocupado com Ui.\""
-
-1007302-36 = "Bem, vou dizer isso de novo..."
-
-1007302-37 = "Eca..."
-
-1007302-38 = "...É por isso que você está aqui?"
-
-1007302-39 = "Bem... não era algo que eu precisasse procurar, mas..."
-
-1007302-43 = "Suspirar..."
-
-1007302-47 = "Como posso dizer... passar um tempo em uma ilha deserta usando uma roupa tão incomum..."
-
-1007302-48 = "Estou envergonhado e não consigo me acalmar..."
-
-1007302-49 = "Não sou tão atraente quanto vocês... também não sou particularmente glamoroso."
-
-1007302-50 = "Eu mesmo sei disso. #nQuais são as impressões daqueles que me rodeiam..."
-
-1007302-51 = "Costumo passar meu tempo sozinha em uma livraria antiga, mas de repente pensei que me convidaram para ir para uma ilha deserta, e agora tinha que usar uma roupa com tão pouco tecido..."
-
-1007302-52 = "o……"
-
-1007302-53 = "Estou cansado de todo tipo de coisa... Até para mim, este é um acontecimento inesperado..."
-
-1007302-54 = "……um."
-
-1007302-55 = "Por favor, espere um momento. Já consigo entender o que o Sensei está tentando dizer."
-
-1007302-56 = "Não há necessidade de palavras como \"Você fica bem em mim\" ou \"Você é fofo\"..."
-
-1007302-57 = "Não é como se eu quisesse que você me confortasse..."
-
-1007302-58 = "Não quero ouvir apenas da boca para fora. #nAgora, quero ficar sozinho."
-
-1007302-59 = "……."
-
-1007302-60 = "……foto?"
-
-1007302-61 = "Essa não é sua intenção, é?"
-
-1007302-62 = "[s5] \"Na verdade, acho que você pode passar seu tempo confortavelmente aqui.\"\n[s6] \"Vamos nos acalmar e pensar sobre isso juntos.\""
-
-1007302-65 = "O que isso significa...?"
-
-1007302-66 = "...Por favor, me dê algum tempo."
-
-1007302-70 = "Que..."
-
-1007302-71 = "Certamente, se você me perguntar..."
-
-1007302-72 = "Aqui... ao contrário de Trinity, não há outras pessoas..."
-
-1007302-73 = "Só estão lá as pessoas que vieram comigo."
-
-1007302-74 = "Ainda não me abri completamente com eles, mas...#nNão vejo essas pessoas como um incômodo."
-
-1007302-75 = "[s7] \"É igual para todos.\"\n[s8] \"É por isso que acho que eles vão para longe nas férias.\""
-
-1007302-78 = "Hmm... outras pessoas têm o mesmo problema. Então você está indo longe...?"
-
-1007302-79 = "...Isso pode ser verdade."
-
-1007302-82 = "Passe algum tempo num lugar onde ninguém conhece, longe da agitação do dia a dia..."
-
-1007302-83 = "Você é igual a mim, se esconde em um canto e evita as pessoas."
-
-1007302-86 = "...Certamente, faz sentido."
-
-1007302-87 = "Em outras palavras, esse tipo de aparência tem algum significado...?"
-
-1007302-88 = "[s9] \"Acho que será uma lembrança especial.\"\n[s10] \"É como um tempero que faz você se sentir extraordinário.\""
-
-1007302-91 = "Eu vejo……"
-
-1007302-92 = "...Quando você pensa sobre isso, faz um pouco de sentido."
-
-1007302-93 = "Bem, é estranho se você está sempre vestido assim."
-
-1007302-94 = "[s11] \"Hum, isso é...\"\n[s12] \"………….\""
-
-1007302-97 = "...Estou brincando."
-
-1007302-98 = "Você é realmente bom em atrair as pessoas. #nClaro, não quero dizer isso de maneira ruim, então não me entenda mal."
-
-1007302-99 = "Não parece apenas conversa fiada, e eu diria que falar sobre isso me deixa à vontade..."
-
-1007302-100 = "...Esses são meus verdadeiros sentimentos."
-
-1007302-101 = "Pelas palavras do Sensei... posso sentir um pouco dos sentimentos dele."
-
-1007302-105 = "Já ouvi isso inúmeras vezes até agora. #nBajulação inescrupulosa e palavras para fazer você se sentir bem..."
-
-1007302-106 = "Percebi que tudo isso era vazio e, antes que eu percebesse, a conversa em si começou a parecer uma perda de tempo."
-
-1007302-107 = "Aí aos poucos comecei a me distanciar das pessoas..."
-
-1007302-108 = "Antes que eu percebesse, eu estava assim, incapaz de aceitar honestamente os sentimentos das pessoas."
-
-1007302-109 = "Odeio pessoas sombrias e atrasadas. #nSempre negativo e reclamante."
-
-1007302-110 = "Enquanto isso, as únicas pessoas com quem tenho que lidar são meus gentis e irritantes juniores...#nEsse sou eu."
-
-1007302-111 = "Também sinto pena dos meus juniores. Você acabou namorando comigo assim..."
-
-1007302-112 = "Mas, tem gente que ainda está aqui ao meu lado..."
-
-1007302-113 = "Ele é uma pessoa estranha, realmente..."
-
-1007302-114 = "Meus juniores ainda me chamam de ``senpai'' e me visitam com frequência. #nAlguém que me segue até uma ilha deserta como essa mesmo não tendo nada a ganhar..."
-
-1007302-115 = "...O mesmo vale para os Senseies. #nNa verdade, o Sensei é o mais incomum."
-
-1007302-116 = "[s13] \"Bem, sou eu quem sabe disso melhor.\"\n[s14] \"Talvez o tipo chame por amigos.\""
-
-1007302-121 = "...Huh."
-
-1007302-122 = "...Hehe. Na verdade, o Sensei..."
-
-1007302-123 = "……sim."
-
-1007302-124 = "...Vamos deixar assim."
-
+1007302-1 = "柄にもない格好"
+1007302-4 = "（ウイを探して、島中を歩き回ること数時間……）"
+1007302-11 = "（ようやく、海辺の岩陰に隠れているところを見つけた）"
+1007302-15 = "[ns1] \"……やっと見つけた。\"\n[ns2] \"ウイ、どうしたの？\""
+1007302-20 = "……先生？"
+1007302-21 = "ど、どうしてここが分かったんですか……？#nそう簡単に、見つかるような場所では……"
+1007302-22 = "それに、気にしないでくださいって伝えたのに……"
+1007302-23 = "……え？"
+1007302-24 = "ずっと、探して……？#nず、ずっとって……？"
+1007302-29 = "……モモトーク送った時から！？"
+1007302-30 = "……そ、そんなに、何時間も……"
+1007302-31 = "言ったじゃないですか。先生には何も問題がないと……#nあるとしたら、それは私の方で。"
+1007302-32 = "ですので……これ以上は、私に構わないでください。"
+1007302-33 = "[s3] \"放ってなんかおけないよ。\"\n[s4] \"ウイのことが、心配だから。\""
+1007302-36 = "ま、またそんな事いって……"
+1007302-37 = "うう……。"
+1007302-38 = "……ここにいる理由、ですか？"
+1007302-39 = "その……わざわざ探していただくほどの事では無かったのですが……"
+1007302-43 = "はぁ……"
+1007302-47 = "その、なんと言いますか……こんな柄にもない格好をして、無人島で過ごすのが……"
+1007302-48 = "恥ずかしくて、落ち着かなくて……"
+1007302-49 = "私には、皆さんのように魅力的ではないですし……特段、華があるわけでもありません。"
+1007302-50 = "自分でも分かっているんです。#n周囲からの印象なんて……"
+1007302-51 = "いつもは一人、古書館で過ごしているのに……突然、無人島に行くよう言われたかと思えば、今度はこんな布面積の少ない格好をする羽目になって……"
+1007302-52 = "その……"
+1007302-53 = "色々と、疲れてしまってるんです……私としても、想定外の出来事ですし……"
+1007302-54 = "……あ。"
+1007302-55 = "ちょっと待ってください。先生が何を言おうとしているのかくらい、もう分かります。"
+1007302-56 = "「似合ってるよ」とか「可愛いよ」とか……そういう言葉は、必要ありません。"
+1007302-57 = "別に、慰めてほしいわけではありませんので……"
+1007302-58 = "口先だけの言葉なんて聞きたくありません。#n今は、1人でいたいんです。"
+1007302-59 = "……。"
+1007302-60 = "……え？"
+1007302-61 = "そういうつもりではない、んですか……？"
+1007302-62 = "[s5] \"むしろ、ここでなら気楽に過ごせると思うよ。\"\n[s6] \"落ち着いて一緒に考えてみよっか。\""
+1007302-65 = "それは……どういう意味でしょう……？"
+1007302-66 = "……少し、時間をください。"
+1007302-70 = "あれ……"
+1007302-71 = "たしかに、言われてみれば……"
+1007302-72 = "ここは……トリニティと違って、他の方はいませんし……"
+1007302-73 = "いるのは、一緒に来た方々だけ。"
+1007302-74 = "まだ完全に打ち解けたわけではありませんが……#nあの方々を迷惑だとは、思っていません。"
+1007302-75 = "[s7] \"それは、みんな一緒なんだよ。\"\n[s8] \"だから、休みに遠くへ行ったりするんじゃないかな。\""
+1007302-78 = "ふむ……他の方々も同じ悩みを。だから遠くへ……ですか。"
+1007302-79 = "……その通りかもしれません。"
+1007302-82 = "日常の喧騒から離れて、誰も知らない場所で過ごす……"
+1007302-83 = "人を避けて隅っこに隠れている、いつもの私と一緒ですね。"
+1007302-86 = "……たしかに、筋は通っています。"
+1007302-87 = "つまりは、こういった格好にも意味が……？"
+1007302-88 = "[s9] \"特別な思い出になると思うよ。\"\n[s10] \"非日常感を味わうスパイスみたいな。\""
+1007302-91 = "なるほど……"
+1007302-92 = "……そう思うと、少し納得できます。"
+1007302-93 = "まあ、普段からこんな格好で過ごしてたら、変ですよね。"
+1007302-94 = "[s11] \"えっと、それは……\"\n[s12] \"…………。\""
+1007302-97 = "……冗談です。"
+1007302-98 = "先生は、人を乗せるのが本当にお上手ですね。#nもちろん、悪い意味ではないので、誤解なさらず。"
+1007302-99 = "口先だけの言葉には聞こえませんし、話していると、心が安らぐと言いますか……"
+1007302-100 = "……これは、本心ですよ。"
+1007302-101 = "先生の言葉からは……す、少しは気持ちが伝わってきますし。"
+1007302-105 = "今まで、数え切れないほど耳にしてきました。#n心にもないお世辞や、ご機嫌取りの言葉……"
+1007302-106 = "そのどれもが空っぽなことに気づいて、いつしか会話そのものが、時間の無駄としか思えなくなったんです。"
+1007302-107 = "そうして徐々に人と距離を置くようになって……"
+1007302-108 = "いつの間にか、人の気持ちを素直に受け入れられない……こんな私が出来上がっていました。"
+1007302-109 = "陰気で、後ろ向きな人嫌い。#nいつもネガティブで、文句ばかり。"
+1007302-110 = "そんな中、相手にしてくれるのは、優しくて口やかましい後輩たちだけで……#nそれが、私[ruby=・    ・    ・]でした[/ruby]。"
+1007302-111 = "後輩にも申し訳なくなります。こんな私に付き合わせてしまって……"
+1007302-112 = "でも、こんな私の隣に……それでも居てくれる方々がいます。"
+1007302-113 = "変な人ですよ、本当に……"
+1007302-114 = "私みたいなのを、まだ「先輩」と呼んで、度々訪ねてきてくれる後輩。#n何ひとつ得なんてないのに、こんな無人島まで付いてきてくれる人……"
+1007302-115 = "……先生だって、そうです。#nむしろ、先生が一番変わっています。"
+1007302-116 = "[s13] \"まぁ、それは自分が一番わかってるよ。\"\n[s14] \"類は友を呼ぶのかもね。\""
+1007302-121 = "……ふっ。"
+1007302-122 = "……ふふっ。まったく、先生は……"
+1007302-123 = "……はい。"
+1007302-124 = "……そういう事にしておきましょう。"

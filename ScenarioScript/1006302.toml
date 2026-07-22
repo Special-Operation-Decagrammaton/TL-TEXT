@@ -1,131 +1,66 @@
 [translation]
-1006302-1 = "Residente da sala de reflexão"
-
-1006302-2 = "(Fui para um prédio no centro do Millennium para conhecer Koyuki primeiro.)"
-
-1006302-3 = "(A segurança era estranhamente rígida no prédio, que normalmente não tenho oportunidade de visitar.)"
-
-1006302-4 = "[s1] \"Há um lugar como esse no Millennium...\"\n[s2] \"Koyuki está aqui?\""
-
-1006302-7 = "...Ha, aquela voz!"
-
-1006302-13 = "Sensei! Sensei! Está aqui, está aqui!"
-
-1006302-19 = "Sensei! ! !"
-
-1006302-20 = "[s3] \"...Koyuki!\"\n[s4] \"Talvez essa voz seja...!?\""
-
-1006302-30 = "Sensei! Acreditei que o Sensei viria! !"
-
-1006302-31 = "Eu te imploro! Posso pedir-lhe para abrir a porta? ? #nVocê poderá abri-lo se tiver permissão do Sensei!"
-
-1006302-32 = "A única pessoa em quem você pode confiar é seu Sensei! #nOu talvez você não me abandone assim! ?"
-
-1006302-33 = "[s5] \"Espere, vou abrir agora mesmo.\"\n[s6] Abra a porta e entre."
-
-1006302-44 = "Yay! É um Sensei! ! !"
-
-1006302-45 = "Estou feliz que você veio! ! ! #nObrigado!"
-
-1006302-46 = "Realmente, se o Sensei não tivesse vindo,"
-
-1006302-47 = "Eu me perguntei o que aconteceria!"
-
-1006302-48 = "foto? Por que você está tão ansioso? Bem..."
-
-1006302-49 = "Hummm."
-
-1006302-50 = "Bem, vamos deixar assim!"
-
-1006302-56 = "Então, há algo que você gostaria de fazer, Sensei?"
-
-1006302-61 = "... Ha ha. Você está se perguntando por que eu liguei para você, afinal...?"
-
-1006302-65 = "Este é basicamente um espaço de reflexão... #nOlha, fui preso, então ficarei assim até amanhã à noite..."
-
-1006302-66 = "Então me disseram que ninguém viria exceto na hora das refeições..."
-
-1006302-67 = "Porque era chato..."
-
-1006302-71 = "Bem, bem! Os detalhes estão bem! ! Até o Sensei chegou até aqui, então vamos pensar com o que brincar! Seja positivo! !"
-
-1006302-72 = "[s7] \"Não, espere. Não houve algo errado...?\"\n[s8] \"Vim correndo porque você me pediu para ajudá-lo...\""
-
-1006302-75 = "……sim! ?"
-
-1006302-76 = "Não, você está com problemas, não está? Olha, por favor, dê uma boa olhada em mim! #nNão importa onde você olhe, você está em apuros!"
-
-1006302-77 = "[s] \"…….\""
-
-1006302-81 = "[ns9] \"...?\"\n[ns10] \"Q-Qual parte...?\""
-
-1006302-84 = "...Já!"
-
-1006302-85 = "Este quarto! #nFiquei preso em uma sala de reflexão tão apertada e não pude fazer nada!"
-
-1006302-86 = "……foto?"
-
-1006302-87 = "Por que você foi preso em primeiro lugar? #nE se você quisesse aparecer, você poderia ter aparecido...?"
-
-1006302-88 = "Hahahaha! Outra piada! Até o Sensei sabe..."
-
-1006302-89 = "É verdade que se eu tivesse as mãos poderia facilmente escapar de um lugar como este!"
-
-1006302-90 = "O problema vem depois disso! !"
-
-1006302-91 = "No momento em que descobrissem que eu havia saído daqui, meus veteranos dos seminários e do C&C viriam correndo!"
-
-1006302-95 = "Ugh... só imaginando..."
-
-1006302-96 = "Bem, é por isso que... não acho que serei capaz de escapar completamente, então estou indo com calma por enquanto."
-
-1006302-97 = "Até que eu consiga pensar em um plano sobre o que fazer a seguir, acho que vou deixá-lo ser pego. Hahaha por #n!"
-
-1006302-98 = "[s11] \"Suspiro...\"\n[s12] (É claro que ele não mostra nenhum sinal de remorso...)"
-
-1006302-101 = "Bem, tudo bem! Vamos pensar no que jogar..."
-
-1006302-102 = "O que? O que?"
-
-1006302-103 = "Parece estranhamente vivido para uma sala de reflexão, certo?"
-
-1006302-104 = "Você tem maravilhosos poderes de observação, senhor. Estive nesta sala de reflexão tantas vezes que ela se tornou minha própria sala!"
-
-1006302-105 = "Cada vez que sou preso, eles trazem mais alguns itens pessoais! #nObrigado por me deixar mais confortável. Hahahaha!"
-
-1006302-106 = "[s] \"………….\""
-
-1006302-107 = "...Ou seja, uma inversão da ideia! ! !"
-
-1006302-108 = "Já fui preso mais vezes do que consigo contar! #nSe for esse o caso, vamos em frente e facilitar para mim!"
-
-1006302-109 = "E olhe! Na verdade, meus superiores não perceberam o que estava acontecendo debaixo desta almofada..."
-
-1006302-113 = "... Yay! ! ! É assim que os jogos de tabuleiro ficam escondidos!"
-
-1006302-114 = "[s13] \"...Eh!\"\n[s14] \"Não, esta é uma sala de reflexão...\""
-
-1006302-117 = "Ni-ha-ha-ha~! Ainda é cedo para se surpreender! #nTem doces embaixo do sofá! Hehe, tem até um mangá atrás do servidor de água!"
-
-1006302-118 = "Contanto que eu tenha alguém com quem brincar, ela se tornará uma base secreta muito confortável só para mim!"
-
-1006302-119 = "O que você acha? Não é incrível? #nHumanos são animais adaptativos! Adapta-se facilmente a qualquer ambiente!"
-
-1006302-124 = "……Sensei? O que há de errado em fazer uma cara dessas?"
-
-1006302-125 = "Ha ha! Você ficou surpreso? #nMesmo se você fosse Sensei de placas de Petri, isso foi inesperado, não foi?"
-
-1006302-126 = "[s15] \"Certamente fiquei surpreso, mas...\"\n[s16] \"Se eu disser inesperado, é inesperado...\""
-
-1006302-129 = "Aqui você vai! Se você fosse Sensei, poderia comer meus doces como quisesse! #nNão há necessidade de ser tímido~?"
-
-1006302-130 = "É uma noite longa, então você pode se divertir bastante hoje! Ainda nem é noite! ! !"
-
-1006302-131 = "……um."
-
-1006302-132 = "Esqueci de mencionar isso, mas é segredo dos meus mais velhos! Hahaha por #n!"
-
-1006302-137 = "(Depois, joguei jogos de tabuleiro com Koyuki na “sala de reflexão” até tarde da noite.)"
-
-1006302-141 = "(...Claro, entrei em contato com o seminário imediatamente após retornar à placa de Petri e relatei sobre Koyuki.)"
-
+1006302-1 = "反省部屋の住人"
+1006302-2 = "（ひとまずコユキと会うために、ミレニアム中心部のとあるビルへ向かった）"
+1006302-3 = "（普段は立ち寄る機会のない建物は、妙に警備が厳重だった）"
+1006302-4 = "[s1] \"ミレニアムにこんなところが……。\"\n[s2] \"ここにコユキが？\""
+1006302-7 = "……はっ、この声は！"
+1006302-13 = "先生！先生！ここです、ここですよーーー！"
+1006302-19 = "せんせえええー！！！"
+1006302-20 = "[s3] \"……コユキ！\"\n[s4] \"もしかして、この声は……！？\""
+1006302-30 = "先生！先生なら来てくれるって信じてました！！"
+1006302-31 = "お願いです！ドアを開けてもらってもいいですか！？#n先生の権限があれば開けられるはずです！"
+1006302-32 = "頼れるのは先生だけなんです！#nそれとも、まさかこのまま私のことを見捨てたりはしませんよね！？"
+1006302-33 = "[s5] \"待ってね、すぐ開けるから。\"\n[s6] ドアを開けて入る。"
+1006302-44 = "わーーーい！先生だあああああ！！！"
+1006302-45 = "来てくれて良かったあああ！！！#nありがとうございます！"
+1006302-46 = "本当に本当に、先生が来てくれなかったら、"
+1006302-47 = "どうなることかと思いましたよ！"
+1006302-48 = "え？どうしてそんなに焦ってるのか、ですか？えっと……。"
+1006302-49 = "う～～～ん。"
+1006302-50 = "まあ、それはそれとして置いておきましょう！"
+1006302-56 = "それじゃ、先生は何かしたい事とかありますか？"
+1006302-61 = "……にはは。やっぱり呼んだ理由が気になりますか……？"
+1006302-65 = "ここって一応、反省部屋なんですよね……。#nほら、私は捕まっちゃったので、明日の夕方までこのまま……。"
+1006302-66 = "それでご飯の時間以外は誰も来てくれないって言われて……。"
+1006302-67 = "退屈だったから……。"
+1006302-71 = "ま、まあ！細かいことはいいんです！！先生だってここまで来ちゃったんですから、何して遊ぶか考えましょうよ！前向きに！！"
+1006302-72 = "[s7] \"いや、待って。何かあるわけじゃなかったの……？\"\n[s8] \"助けてって言われたから急いできたんだけど……。\""
+1006302-75 = "……はい！？"
+1006302-76 = "いや、ちゃんと困ってますよ？ほら、私のことよーく見てくださいよ！#nどこからどう見ても困ってるじゃないですかぁ！"
+1006302-77 = "[s] \"……。\""
+1006302-81 = "[ns9] \"……？\"\n[ns10] \"ど、どのあたりが……？\""
+1006302-84 = "……もうっ！"
+1006302-85 = "この部屋！#nこんな狭っ苦しい反省部屋に閉じ込められて、何もできずにいたんですよ！"
+1006302-86 = "……え？"
+1006302-87 = "そもそもなぜ閉じ込められていたのか、ですか？#nそれに出ようと思えば出られたのでは、と……？"
+1006302-88 = "にはははは！またまたご冗談を！先生だって分かってるでしょうに……"
+1006302-89 = "たしかにこんなところ、私の手にかかればちょちょーっと脱出できちゃいますけど！"
+1006302-90 = "問題はそのあとです！！"
+1006302-91 = "ここを出たことがバレた瞬間、セミナーやC&Cの先輩たちがぴゅーって駆けつけて来るんですよ！"
+1006302-95 = "うぅ……想像しただけで……。"
+1006302-96 = "まぁ、そういうわけで……完全に逃げ切れるとも思えないですし、今は大人しくしてるわけです。"
+1006302-97 = "次は何しよっかな～って計画が思い浮かぶまでは、捕まってあげようかなと。#nにはははは！"
+1006302-98 = "[s11] \"はぁ……。\"\n[s12] （とりあえず反省の色が見られないのは明らかだけど……）"
+1006302-101 = "ま、そんなことはいいんですよ！何して遊ぶか考えましょ――"
+1006302-102 = "え、何ですか？"
+1006302-103 = "反省部屋にしては妙に生活感があるよね、って？"
+1006302-104 = "素晴らしい観察力ですね、先生。この反省部屋には何度も何度も入れられているので、もはや私専用の部屋と化してますから！"
+1006302-105 = "捕まるたびに、少しずーつ私物を持ち込んでるんですよ！#nおかげで快適になったものです。にはははは！"
+1006302-106 = "[s] \"…………。\""
+1006302-107 = "……言わば逆転の発想！！！"
+1006302-108 = "数え切れないくらい捕まってきましたからね！#nそれならもういっその事、自分が過ごしやすいようにしちゃおうと！"
+1006302-109 = "それにほら！実はこのクッションの下、先輩たちは気付いてませんでしたけど……。"
+1006302-113 = "……じゃーん！！！こうやってボードゲームが隠してあったり！"
+1006302-114 = "[s13] \"……えっ！\"\n[s14] \"いや、ここは反省部屋だよ……。\""
+1006302-117 = "に・は・は・は～！驚くのはまだ早いです！#nなんとソファーの下にはお菓子が！ふふん、ウォーターサーバーの後ろには漫画まで！"
+1006302-118 = "あとは一緒に遊んでくれる人さえいれば、とっても快適な私だけの秘密基地になるんですけどね！"
+1006302-119 = "どうですか、すごくないですか？#n人間は適応の動物ですからね！どんな環境にだってちゃちゃっと適応しちゃうんです！"
+1006302-124 = "……先生？そんな顔してどうしたんですか？"
+1006302-125 = "にはは！びっくりしちゃいましたか！#nいくらシャーレの先生といえども、流石にこれは予想外でしたか？"
+1006302-126 = "[s15] \"確かに驚いたけど……。\"\n[s16] \"予想外といえば予想外だけど……。\""
+1006302-129 = "さあ、どうぞどうぞ！先生だったら私のお菓子、好きに食べていいですからね！#n遠慮なんていりませんよ～？"
+1006302-130 = "夜は長いですから、今日はたっぷり遊べますねー！まだ夜にもなってないけど！！！"
+1006302-131 = "……あ。"
+1006302-132 = "言い忘れてましたけど、先輩たちには内緒ですからね！#nにはははは！"
+1006302-137 = "（その後、コユキと一緒に「反省部屋」で夜遅くまでボードゲームをして遊んだ）"
+1006302-141 = "（……当然、シャーレに戻ってからすぐセミナーに連絡を入れ、コユキの事を報告した）"

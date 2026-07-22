@@ -1,186 +1,94 @@
 [translation]
-1007505-1 = "A dor da criação (2)"
-
-1007505-3 = "O que você vai fazer agora? Que bom ouvir de você, Sensei!"
-
-1007505-4 = "Hehehe...outro dia fui arrastado para o território do Sensei e pude fazer o que ele quisesse..."
-
-1007505-5 = "Da próxima vez, arrastarei o Sensei para o meu território!"
-
-1007505-6 = "[s] \"Presidente, eu exerço meu veto.\""
-
-1007505-7 = "Rejeitado! Naturalmente, neguei o direito de permanecer calado!"
-
-1007505-8 = "Eu sou a regra neste tribunal! Ha ha ha! !"
-
-1007505-10 = "(Só assim, Mel agarrou seu braço e o levou para algum lugar...)"
-
-1007505-11 = "centro de jogos"
-
-1007505-12 = "[ns] \"Onde é isso...?\""
-
-1007505-13 = "Fufufufufu, parece um centro de jogo normal, certo?"
-
-1007505-14 = "Mas quando você desce as escadas atrás do jogo do guindaste, aí está você...!"
-
-1007505-15 = "[s] \"Está seguindo a loja de figuras?\""
-
-1007505-16 = "Huh? Você também está interessado em números?"
-
-1007505-17 = "...É um pouco surpreendente que ele tivesse tanto conhecimento “deste lado”."
-
-1007505-18 = "Vamos dar uma olhada nisso lentamente. Este lugar era originalmente uma loja que vendia mangás e livros usados..."
-
-1007505-19 = "Assim que esse tipo de loja começou a vender produtos relacionados ao mangá, eles também começaram a comprar uma ampla variedade de produtos otaku."
-
-1007505-20 = "Modelos de plástico, figuras, brinquedos, roteiros de dramas de efeitos especiais, células de animação, roteiros, storyboards..."
-
-1007505-21 = "A maior delas é a ``Área da Figura''."
-
-1007505-22 = "[s] \"Entendo... Uau, o formato desse vestido é...!\""
-
-1007505-23 = "……Sensei? Você está me ouvindo?"
-
-1007505-24 = "shopping"
-
-1007505-25 = "[ns1] \"Hmm, o lugar onde eu fui tocar com Meluneki antes...\"\n[ns2] \"Parece parecido!\""
-
-1007505-28 = "Antes que você perceba, o jeito que você fala...! #nFoi mesmo “desse lado”..."
-
-1007505-29 = "Mas este lugar é diferente de um shopping comum! #nSim..."
-
-1007505-30 = "Porque temos esta “loja pop-up”!"
-
-1007505-31 = "[s] \"Desculpe, não sei muito sobre tendências...\""
-
-1007505-32 = "Bem, é uma chamada loja de produtos por tempo limitado."
-
-1007505-33 = "Eles são chamados de “pop-ups” porque desaparecem após um determinado período de tempo."
-
-1007505-34 = "Recentemente, comecei a ver lojas pop-up que vendem dramas, músicas e produtos sofisticados favoritos das pessoas comuns..."
-
-1007505-35 = "Aqui! Somente nossos camaradas podem ter empatia! Estamos lidando com produtos de edição limitada!"
-
-1007505-36 = "[s] \"É por isso que todos estão obcecados com o produto que têm diante de si.\""
-
-1007505-37 = "Habilidades de observação afiadas, senhor!"
-
-1007505-38 = "Vá direto para o que procura e, depois de garantir, vá direto para a próxima esquina... #nUma atitude de nunca desperdiçar energia fazendo barulho desnecessário..."
-
-1007505-39 = "Isso é o que os otakus sabem!"
-
-1007505-40 = "[s] \"Mel, tem um cara ali que tem muitas edições limitadas...\""
-
-1007505-41 = "Hehehe... Se você vender esta edição limitada em um leilão online por 1,5 vezes o preço... #n2 vezes, ou mesmo se você aumentar para 2,5 vezes, ela deve vender bem... Hmm, então o lucro será..."
-
-1007505-45 = "……."
-
-1007505-46 = "Sou revendedor! Pegue!"
-
-1007505-47 = "café"
-
+1007505-1 = "創作の苦しみ（２）"
+1007505-3 = "今から何をするのかって？よくぞ聞いてくれたね、先生！"
+1007505-4 = "ふふふ……この間は、先生のテリトリーに引きずり込まれて、好き勝手されたけど……"
+1007505-5 = "今度は私のテリトリーに先生を引きずり込むよ！"
+1007505-6 = "[s] \"裁判長、拒否権を行使します。\""
+1007505-7 = "却下！当然、黙秘権も却下っ！"
+1007505-8 = "この法廷では私がルールだからな！はっはっは！！"
+1007505-10 = "（そのままメルに腕を掴まれ、どこかに連れていかれた……）"
+1007505-11 = "ゲームセンター"
+1007505-12 = "[ns] \"ここは……？\""
+1007505-13 = "ふっふっふっ、普通のゲーセンに見えるでしょ……？"
+1007505-14 = "でも、クレーンゲームの後ろにある階段を降りると、そこには……！"
+1007505-15 = "[s] \"フィギュアショップに続いてるとか？\""
+1007505-16 = "あれ？先生ってフィギュアにも興味あるんだ？"
+1007505-17 = "……「こっち側」の素養があったなんて、ちょっと意外。"
+1007505-18 = "ゆっくり見ていこっか。ここは元々、漫画とか古本を扱うお店だったんだけど……"
+1007505-19 = "この手のお店あるあるで、漫画関連のグッズを取り扱うようになったら、そのままオタクグッズを手広く仕入れるようになったわけ。"
+1007505-20 = "プラモ、フィギュア、玩具、特撮ドラマの台本に、アニメのセル画、脚本、絵コンテ……"
+1007505-21 = "そのなかでも最大規模を誇るのが、この「フィギュアエリア」なんだ。"
+1007505-22 = "[s] \"なるほど……おおっ、このドレスの造形は……！\""
+1007505-23 = "……先生？私の話、聞いてる？"
+1007505-24 = "ショッピングモール"
+1007505-25 = "[ns1] \"うーん、前にメルネキと遊びに行った場所と……\"\n[ns2] \"似てるような気がするンゴねえ！\""
+1007505-28 = "いつの間に話し方まで……！#n本当に「こっち側」だったなんて……"
+1007505-29 = "でも、ここは普通のショッピングモールとは一味違う！#nそう……"
+1007505-30 = "この「ポップアップストア」があるから！"
+1007505-31 = "[s] \"ごめん、流行には疎くて……\""
+1007505-32 = "まぁ、いわゆる期間限定のグッズ売り場だよ。"
+1007505-33 = "一定期間で無くなるから「ポップアップ」って呼ばれてるの。"
+1007505-34 = "最近は一般人の好きなドラマとか音楽、ファンシーグッズを扱うポップアップストアも見かけるようになってきたけど……"
+1007505-35 = "ここは！我ら同志だけが共感できる！そんな限定商品を扱っているところなのだよっ！"
+1007505-36 = "[s] \"だからみんな、目の前の商品に夢中なんだね。\""
+1007505-37 = "鋭い観察力だっ、先生！"
+1007505-38 = "お目当てのものに真っ直ぐ向かい、確保したらすぐ次のコーナーへ……#n決して無駄に騒いでエネルギーを消費しない姿勢……"
+1007505-39 = "これぞ、オタクの心得！"
+1007505-40 = "[s] \"メル、あそこに限定版をたくさん抱えてる人が……\""
+1007505-41 = "ふひひ……この限定版を1.5倍の価格でネットオークションに流せば……#n2倍、いや2.5倍まで上げても十分売れるはず……ええっと、そしたら利益は……"
+1007505-45 = "……。"
+1007505-46 = "転売ヤーだ！捕まえろ！"
+1007505-47 = "カフェ"
 1007505-50 = "[ns] \"次はやっぱりカフェなんだね。\""
-1007505-52 = "Hehehehe... Apesar de se chamar café, está um pouco diferente da última vez que fui lá."
-
-1007505-53 = "Você já percebeu, certo? Há uma diferença na atmosfera."
-
-1007505-54 = "[s] \"O interior é...completamente...\""
-
-1007505-55 = "sim! Um café colaborativo está sendo realizado!"
-
-1007505-56 = "Painéis em tamanho real expostos, cartões postais como bônus pela visita à loja, exibições de trailers teatrais, vendas de mercadorias..."
-
-1007505-57 = "Claro, há também um menu limitado de café colaborativo! Então, o que o Sensei fará? #nEstou colecionando jogos americanos, então me ajude a combater a luta pela comida."
-
-1007505-58 = "[s] \"Então, vamos com o ``Genki Charge! Conjunto Americano do Administrador.'' \""
-
-1007505-59 = "Eu sou \"Energia Momoiro! Colaboração Yokai MAX\"!"
-
-1007505-62 = "Ufa, é tão relaxante."
-
-1007505-63 = "[s] \"É uma atmosfera calma e agradável.\""
-
-1007505-64 = "Isso mesmo. Todo mundo está basicamente quieto."
-
-1007505-65 = "……."
-
-1007505-66 = "Digo isso porque sou Senseia..."
-
-1007505-67 = "No momento, estou trabalhando principalmente em criações secundárias, mas...#nVou tentar criar criações primárias algum dia, e se isso se tornar popular..."
-
-1007505-68 = "...Quero que meu trabalho tenha um café assim...#nEsse é o meu sonho."
-
-1007505-69 = "[s] \"Esse é um grande sonho.\""
-
-1007505-70 = "……Sim. Para chegar lá...acho que há muitos muros que precisam ser superados."
-
-1007505-71 = "Ah! Gostaria que tudo desse certo enquanto eu criava sem pensar."
-
-1007505-72 = "...Não me olhe assim, Sensei. Eu sei que é realisticamente difícil. #nMas eu não crio nada só por puro amor."
-
-1007505-73 = "[s] \"Isso é surpreendente.\""
-
-1007505-74 = "……."
-
-1007505-75 = "No meu caso, não é que eu queira criar, mas sim que não suporto não criar."
-
-1007505-76 = "O que você quer dizer? #nHmm, por exemplo..."
-
-1007505-81 = "De repente, imagens ou cenas surgem na minha cabeça."
-
-1007505-83 = "Pode ser um cotidiano tranquilo, uma cena tensa ou qualquer outra coisa..."
-
-1007505-85 = "A cena se move sozinha e eu crio uma história na minha cabeça como gosto. Claro, se você deixá-lo sozinho, ele simplesmente irá para algum lugar ou esquecerá..."
-
-1007505-87 = "Isso... parece um desperdício. #nSe eu não tirar isso da cabeça, não me canso disso."
-
-1007505-89 = "O que o Sensei faria se visse um pardal lutando para tirar a cabeça de uma lata pequena?"
-
-1007505-90 = "[s] \"Ajuda, eu acho.\""
-
-1007505-91 = "Não é verdade? O mesmo com isso. #nA história que sai de dentro de mim é como um pardal preso numa lata."
-
-1007505-92 = "Eu me sinto desconfortável até ajudar o pardal e ajudá-lo a abrir suas asas...#nEu não o vejo até que ele possa voar livremente no céu."
-
-1007505-96 = "sim? Nesse caso, mesmo que um pardal voasse, não encontraria outro pardal?"
-
-1007505-97 = "...Isso mesmo. #nÉ por isso que continuo criando."
-
-1007505-98 = "Sinto que vou enlouquecer se não deixar sair cada vez mais o que vem de dentro de mim."
-
-1007505-99 = "...E além disso, algo mais começou a crescer dentro de mim recentemente...e estou prestes a ficar muito doente."
-
-1007505-103 = "……."
-
-1007505-104 = "espere! #nO que estou fazendo agora..."
-
-1007505-105 = "...!"
-
-1007505-106 = "Ei, fiquei um pouco demais! Bem, é hora de ir embora!"
-
-1007505-107 = "[s] \"Ainda não faz nem uma hora... não é um relógio de 90 minutos?\""
-
-1007505-108 = "Uma hora é suficiente! ! Ah, vou comprar algumas mercadorias e já vou embora! !"
-
-1007505-111 = "Ufa... finalmente me acalmei."
-
-1007505-112 = "Você está bem? ...Claro, estou com a Senseia!"
-
-1007505-113 = "Ah... então talvez não esteja tudo bem..."
-
-1007505-114 = "[s3] \"Eu realmente não entendo...\"\n[s4] \"Por enquanto, vou levá-lo à biblioteca.\""
-
-1007505-117 = "...!"
-
-1007505-118 = "Ei, está tudo bem! Principalmente porque posso ir para casa sozinho!"
-
-1007505-119 = "...Eh? Não me diga que você está sozinho? Bom! #nEstou com vontade de ir para casa sozinho hoje!"
-
-1007505-120 = "Igual a antes...? #n...A culpa é do Sensei?"
-
-1007505-121 = "diferente! Isso não é culpa do Sensei... é problema meu!"
-
-1007505-125 = "deixa para lá! Até mais, Sensei!"
-
-1007505-130 = "(Eu observei as costas de Mel enquanto ela fugia com pressa...)"
-
+1007505-52 = "ふっふっふ……カフェといっても、前行ったとことちょっと違うよ"
+1007505-53 = "もう気づいてるでしょ？雰囲気の違いってやつをさ。"
+1007505-54 = "[s] \"内装が……完全に……\""
+1007505-55 = "そう！コラボカフェ開催中なのだよ！"
+1007505-56 = "等身大パネルの展示に、来店特典のポストカード、劇場版予告編上映、グッズ販売……"
+1007505-57 = "もちろん、コラボカフェ限定メニューも！さ、先生は何にする？#nランチョンマット集めてるからさ、フードファイト手伝ってよ。"
+1007505-58 = "[s] \"じゃあ、「元気チャージ！行政官のアメリカーノセット」で。\""
+1007505-59 = "私は「桃色エナジー！妖怪MAXコラボ」で！"
+1007505-62 = "ふぅ、まったりするねぇ。"
+1007505-63 = "[s] \"落ち着いてて良い雰囲気だね。\""
+1007505-64 = "そりゃそうだよ。みんな基本的には大人しいから。"
+1007505-65 = "……。"
+1007505-66 = "先生だから言うんだけどさ……"
+1007505-67 = "今は二次創作中心で活動してるけどさ……#nいつか一次創作にも挑戦して、それが人気になったら……"
+1007505-68 = "……自分の作品でも、こういうカフェをやってほしいなって……#nそれが私の夢。"
+1007505-69 = "[s] \"大きな夢だね。\""
+1007505-70 = "……うん。そこまでたどり着くには……乗り越えなきゃいけない壁がたくさんあると思う。"
+1007505-71 = "あ～あ～！何も考えず創作してる内に、ぜ～んぶうまくいってくれたらいいのになぁ～"
+1007505-72 = "……そんな目で見ないでよ、先生。現実的に難しいってことくらい分かってるから。#nでも、私は純粋な好きって気持ちだけで創作をしてるわけじゃないし。"
+1007505-73 = "[s] \"それは意外だね。\""
+1007505-74 = "……。"
+1007505-75 = "私の場合、創作がしたいというよりも……#n創作しないと耐えられないって感じかな。"
+1007505-76 = "どういう意味かって？#nんー、例えば……"
+1007505-81 = "突然、頭の中に映像だったりシーンが浮かんだりするの。"
+1007505-83 = "それは穏やかな日常だったり、緊迫したシーンだったり、色々なんだけど……"
+1007505-85 = "そのシーンが勝手に動き出して、頭の中で好き勝手に物語を作っていくんだ。もちろん放っておいたら、そのままどこかにいっちゃったり、忘れたりするんだけど……"
+1007505-87 = "それがさ……なんだか、もったいなくて。#n頭の中から出さないと気が済まなくなっちゃうの。"
+1007505-89 = "先生は小さな缶から頭が抜けずに困ってるスズメを見かけたら……どうする？"
+1007505-90 = "[s] \"助ける、かな。\""
+1007505-91 = "そうだよね？それと一緒。#n私の内側から出てくる物語は、缶に挟まってしまったスズメみたいなものなんだ。"
+1007505-92 = "スズメを助けて、翼を広げられるようにしてあげて……#nそうして空を自在に飛べるようになるまで見届けないと、なんだか落ち着かないの。"
+1007505-96 = "ん？それだと、スズメが飛んでいっても、また次のスズメを見つけてしまうんじゃないかって？"
+1007505-97 = "……そうだよ。#nだから、私は創作を続けてるの。"
+1007505-98 = "自分の内から生まれるものを、どんどん外に出していかないと頭がおかしくなりそうで。"
+1007505-99 = "……その上、最近は別の[ruby=・ ・]何か[/ruby]も私の中に芽生えちゃって……もう、しっちゃかめっちゃかだよ。"
+1007505-103 = "……。"
+1007505-104 = "待って！#n私、いま何を……"
+1007505-105 = "……！"
+1007505-106 = "ちょ、ちょっと長居しちゃったね！そ、そろそろ出よっか！"
+1007505-107 = "[s] \"まだ1時間も経ってないけど……ここ90分制じゃないっけ？\""
+1007505-108 = "1時間もいれば十分だよ！！わ、私グッズ買ってもう出ちゃうから！！"
+1007505-111 = "ふぅ……やっと落ち着いてきた。"
+1007505-112 = "大丈夫かって？……も、もちろん、先生と一緒なんだし！"
+1007505-113 = "や……だから大丈夫じゃないの、かも……"
+1007505-114 = "[s3] \"よく分からないけど……\"\n[s4] \"とりあえず、図書館まで送るよ。\""
+1007505-117 = "……！"
+1007505-118 = "へ、平気！別に私1人でも帰れるから！"
+1007505-119 = "……えっ？寂しいこと言わないでって？いいってば！#n今日は1人で帰りたい気分なの！"
+1007505-120 = "この前と同じ……？#n……先生のせいなのかって？"
+1007505-121 = "違う！これは先生のせいじゃなくて……わ、私の問題だから！"
+1007505-125 = "気にしないで！じゃあね、先生！"
+1007505-130 = "（慌てて走り去っていくメルの後ろ姿を最後まで見送った……）"

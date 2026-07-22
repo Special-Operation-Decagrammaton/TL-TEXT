@@ -1,91 +1,46 @@
 [translation]
-1005306-1 = "cartões esportivos"
-
-1005306-2 = "escritório de placa de petri"
-
-1005306-5 = "Em relação ao relatório de cooperação empresarial que lhe enviei outro dia..."
-
-1005306-6 = "Uh, talvez você esteja fora?"
-
-1005306-7 = "Onde diabos deixei minha mesa tão bagunçada?"
-
-1005306-8 = "Hehe. Não posso ser Senseia sem mim..."
-
-1005306-17 = "Huh? esse……."
-
-1005306-22 = "minha foto! ?"
-
-1005306-23 = "E-quando você tirou minha foto...#nAlém disso, por que a Senseia tirou minha foto...?"
-
-1005306-24 = "Talvez ele tenha tirado a foto secretamente para poder me ver a qualquer hora..."
-
-1005306-25 = "Se você apenas me dissesse, eu lhe enviaria quantas fotos você quisesse."
-
-1005306-26 = "Mas... não acredito que esta seja uma foto minha encharcada de suor durante uma competição..."
-
-1005306-27 = "Parece um pouco insalubre..."
-
-1005306-32 = "[ns] \"Você está aqui, Yuuka.\""
-
-1005306-33 = "Ah, o Sensei está aqui! ?"
-
-1005306-34 = "[s1] \"Não, eu estava apenas verificando o equipamento.\"\n[s2] \"Além disso, o que é isso na sua mão...?\""
-
-1005306-35 = "Isso é..."
-
-1005306-36 = "Isso é..."
-
-1005306-37 = "Bem, sou eu quem quer ouvir! #nO que é essa foto?"
-
-1005306-38 = "Um Sensei que deveria ensinar todos os alunos de forma justa está secretamente de posse da foto de um aluno específico..."
-
-1005306-39 = "Huh, isso não é saudável!"
-
-1005306-40 = "[s3] \"Ah, você quer dizer aquele cartão de esportes?\"\n[s4] \"Ganhei de um aluno da Escola Kronos.\""
-
-1005306-41 = "...Um cartão esportivo?"
-
-1005306-42 = "...Um cartão esportivo?"
-
-1005306-44 = "……Eu vejo. Fotos de alunos que participaram do Festival Akira estão sendo distribuídas como cromos."
-
-1005306-45 = "Eu sabia que havia entusiastas que colecionavam esses cartões, mas...#nnão conseguia acreditar que fui fotografado..."
-
-1005306-46 = "É verdade que dei permissão à Escola Kronos para usar as fotos tiradas durante o Festival Akira, mas nunca imaginei que eles fariam negócios assim."
-
-1005306-47 = "Se eu soubesse que isso iria acontecer, teria feito o contrato mais detalhado..."
-
-1005306-48 = "[s5] \"Acho que está tudo bem, desde que esteja dentro do intervalo permitido.\"\n[s6] \"Esta foto parece fofa.\""
-
-1005306-49 = "Mas... é estranho. #nParece que cartões como esse às vezes podem ser negociados a preços ridiculamente altos."
-
-1005306-50 = "Bem, mesmo que você diga assim..."
-
-1005306-51 = "Mas... é estranho. #nParece que cartões como esse às vezes podem ser negociados a preços ridiculamente altos."
-
-1005306-52 = "Quando você trabalha com contabilidade, muitas vezes ouve falar do valor dos colecionáveis, mas parece difícil entender o mundo dos colecionadores."
-
-1005306-53 = "Já ouvi antes que o valor dessas cartas muda dependendo do desempenho da carta."
-
-1005306-54 = "Hehe, algum dia meu cartão será negociado por um preço alto."
-
-1005306-55 = "No momento sou apenas tesoureiro, mas se trabalhar duro, posso um dia me tornar o presidente do conselho estudantil do Milênio."
-
-1005306-56 = "Isso mesmo, Sensei, se for autografado o preço será ainda maior."
-
-1005306-57 = "Quer que eu assine agora?"
-
-1005306-58 = "[ns] \"Isso mesmo.\""
-
-1005306-60 = "[ns] \"Mas esta carta nunca será negociada por um preço alto.\""
-
-1005306-61 = "...Por que?"
-
-1005306-62 = "Talvez o Sensei não ache que eu deveria ser o presidente do conselho estudantil..."
-
-1005306-63 = "[ns] \"Não, Yuuka.\""
-
-1005306-65 = "[ns] \"Vou valorizar este cartão pelo resto da minha vida.\""
-
-1005306-72 = "...Afinal, não é saudável."
-
+1005306-1 = "スポーツカード"
+1005306-2 = "シャーレ・オフィス"
+1005306-5 = "先日ご連絡した業務協力報告書を……"
+1005306-6 = "あれ、留守かな？"
+1005306-7 = "こんなに机を散らかしたまんま、一体どこに……。"
+1005306-8 = "ふふっ。先生は私がいないとダメなんだから……。"
+1005306-17 = "あれ？これ……。"
+1005306-22 = "私の写真！？"
+1005306-23 = "い、いつの間に撮られて……#nそれより、どうして先生が私の写真を……？"
+1005306-24 = "もしかして、いつでも私の姿を見られるように、こっそり撮ったのかな……。"
+1005306-25 = "もう……言ってくれたら、写真くらい何枚でも送るのに。"
+1005306-26 = "で、でも……よりによって、こんな汗だくになってる競技中の写真だなんて……。"
+1005306-27 = "なんだかちょっと不健全なような……。"
+1005306-32 = "[ns] \"来てたんだね、ユウカ。\""
+1005306-33 = "あっ、先生いらっしゃったんですね！？"
+1005306-34 = "[s1] \"ううん、ちょっと備品の確認をしてただけだよ。\"\n[s2] \"それより、その手に持ってるのは……？\""
+1005306-35 = "こ、これは、その……。"
+1005306-36 = "こ、これは、その……。"
+1005306-37 = "って、むしろ聞きたいのは私の方です！#n何ですか、この写真！"
+1005306-38 = "全ての生徒を公正に指導すべき立場の先生が、こっそり特定の生徒の写真を持ってるだなんて……。"
+1005306-39 = "ふ、不健全です！"
+1005306-40 = "[s3] \"あ、そのスポーツカードのこと？\"\n[s4] \"クロノススクールの生徒からもらったんだ。\""
+1005306-41 = "……スポーツカード、ですか？"
+1005306-42 = "……スポーツカード、ですか？"
+1005306-44 = "……なるほど。晄輪大祭に参加した生徒たちの写真がトレーディングカードとして流通しているのですね。"
+1005306-45 = "こういったカードを集めるマニアもいることは知っていましたが……#nまさか私まで撮られているなんて……。"
+1005306-46 = "たしかに晄輪大祭中に撮影された写真は、クロノススクールに使用許可を出しましたけど、こんな商売をするだなんて、思いもしませんでした。"
+1005306-47 = "こうなることが分かっていたら、もっと細かく契約書を詰めたんですが……。"
+1005306-48 = "[s5] \"許可の範囲内なら、いいんじゃないかな？\"\n[s6] \"この写真、可愛く撮れてるね。\""
+1005306-49 = "しかし……不思議ですね。#nこんなカードが、とんでもない高値で取引される事もあるのだそうです。"
+1005306-50 = "そ、そんな風に言われても……。"
+1005306-51 = "しかし……不思議ですね。#nこんなカードが、とんでもない高値で取引される事もあるのだそうです。"
+1005306-52 = "会計業務に携わっていると、コレクター品の価値を耳にすることもありますが…………コレクターの世界を理解するのは難しそうです。"
+1005306-53 = "前に耳にしたのですが、こういったカードは本人の活躍次第で価値が変わるのだとか……。"
+1005306-54 = "ふふっ、いつか私のカードも高値で取引されたりして。"
+1005306-55 = "今はただの会計に過ぎませんが、一生懸命頑張れば、ミレニアムの生徒会長になる日が来るかもしれませんから。"
+1005306-56 = "そうだ先生、直筆サイン入りなら、さらに高値が付くんですよね。"
+1005306-57 = "今なら特別に、サインしましょうか？"
+1005306-58 = "[ns] \"そうだね。\""
+1005306-60 = "[ns] \"でも、このカードが高値で取引されることはないよ。\""
+1005306-61 = "……どうしてですか？"
+1005306-62 = "もしかして先生は、私なんかに生徒会長が務まるはずはないと……。"
+1005306-63 = "[ns] \"違うよ、ユウカ。\""
+1005306-65 = "[ns] \"このカードは、私が一生大切にするから。\""
+1005306-72 = "……やっぱり、不健全です。"

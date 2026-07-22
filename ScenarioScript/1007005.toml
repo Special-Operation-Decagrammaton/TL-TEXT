@@ -1,36 +1,20 @@
 [translation]
-1007005-1 = "a cor do céu chuvoso"
-
-1007005-3 = "(Eu estava voltando para casa depois de terminar o trabalho administrativo em Shanhai Jing...)"
-
-1007005-6 = "[ns] \"Huh...?\""
-
-1007005-8 = "(Zaza)"
-
-1007005-12 = "[ns] \"Está chovendo...?\""
-
-1007005-13 = "Você precisa de um guarda-chuva, senhor?"
-
-1007005-14 = "[s] \"Mina!\""
-
-1007005-19 = "[ns] \"Você sabia que ia chover?\""
-
-1007005-20 = "Hehe... minhas antigas feridas me ensinaram isso."
-
-1007005-21 = "[s] (...não vamos tocar nisso por hoje)"
-
-1007005-26 = "Bem... o tempo está assim, então pensei em mandá-lo embora."
-
-1007005-34 = "(Então caminhei por Shanhaijing na chuva com Mina.)"
-
-1007005-35 = "(O perfil de Mina parecia que ela estava se divertindo.)"
-
-1007005-36 = "[s1] \"Talvez...\"\n[s2] \"Mina gosta de chuva?\""
-
-1007005-39 = "sim?"
-
-1007005-40 = "Se alguma coisa..."
-
+1007005-1 = "雨空の色"
+1007005-3 = "（山海経の行政事務を終えて、帰路に着いたところ……）"
+1007005-6 = "[ns] \"あれ……？\""
+1007005-8 = "（ザーザー）"
+1007005-12 = "[ns] \"通り雨かな……？\""
+1007005-13 = "傘が入り用だろう、先生？"
+1007005-14 = "[s] \"ミナ！\""
+1007005-19 = "[ns] \"雨が降ること、知ってたの？\""
+1007005-20 = "フフッ……古傷が教えてくれてな。"
+1007005-21 = "[s] （……今日のところは触れないでおこう）"
+1007005-26 = "さて……こんな天気だし、送っていこうじゃないか。"
+1007005-34 = "（そうして、ミナと一緒に雨のなか山海経を歩いた）"
+1007005-35 = "（ミナの横顔は、どこか楽しそうに見えた）"
+1007005-36 = "[s1] \"もしかして……\"\n[s2] \"ミナは雨が好きなの？\""
+1007005-39 = "ん？"
+1007005-40 = "どちらかと言えば……"
 1007005-43 = "[wa:1400]― [log=미나]そうだな……[wa:1600]雨の[wa:300]日の[wa:300]景色は好きだ。[/log]"
 1007005-45 = "[wa:100]― [log=미나]色々なものが[wa:1000]シンプルに[wa:300]見える。 [/log]"
 1007005-48 = "[wa:1600]― [log=미나]白と[wa:650]黒――[/log]"
@@ -44,57 +28,30 @@
 1007005-68 = "[wa:1400]― [log=미나]ただ……[wa:1200]そうだな。[/log]"
 1007005-70 = "[wa:600]― [log=미나]せめて[wa:700]傘くらいは……[wa:2100]道に迷わぬよう、[/log]"
 1007005-73 = "[wa:700]― [log=미나]明るい色のものが良いだろう。[/log]"
-1007005-78 = "[ns3] \"Certamente, se eu tivesse um guarda-chuva colorido...\"\n[ns4] \"Seria.\""
-
-1007005-81 = "--Como o sacerdote chefe."
-
-1007005-82 = "[s] \"Kisaki...?\""
-
-1007005-83 = "ah. A razão pela qual entrei em Genryumon foi porque o porteiro estava lá."
-
-1007005-84 = "Não me importo com dinheiro ou fama. #nEsse tipo de coisa acabará desaparecendo...está simplesmente vazio."
-
-1007005-85 = "No entanto, o espírito duro do mestre-chefe é real!"
-
-1007005-86 = "Carismático o suficiente para fazer você se ajoelhar! #nAo mesmo tempo, ele tem a mente aberta e ouve a opinião de todos!"
-
-1007005-87 = "Apesar disso, ela tem uma figura delicada que parece que iria quebrar se você a abraçasse! #nEssa lacuna seria a melhor! ?"
-
-1007005-88 = "Ah, eu não sou o único. #nA maioria dos membros são atraídos pelo charme de Monshu-sama e se reúnem!"
-
-1007005-92 = "[ns] (Eu me pergunto se Genryumon é o fã-clube de Kisaki...?)"
-
-1007005-93 = "...Cohon. #nDesculpe, fiquei um pouco perturbado."
-
-1007005-94 = "Enfim... a vida exige um guarda-chuva brilhante."
-
-1007005-95 = "[s] \"Isso mesmo. Em dias chuvosos, é claro.\""
-
-1007005-96 = "...Huh. Eu entendo, senhor."
-
-1007005-97 = "Quando falo com meu Sensei... às vezes tenho uma sensação estranha."
-
-1007005-98 = "Coisas que eu não pretendia dizer saem naturalmente."
-
-1007005-102 = "O que aconteceu quando você pulou de repente? #nOlha, ainda está chovendo, Senseia."
-
-1007005-103 = "[s5] \"Na verdade, eu também gosto da chuva.\"\n[s6] \"Cante e dance enquanto sou pego pela chuva.\""
-
-1007005-106 = "……."
-
-1007005-107 = "Ah... entendo."
-
-1007005-108 = "Lembro-me de ter visto isso em um filme há muito tempo."
-
-1007005-109 = "Acho que o Sensei sabe muito sobre filmes, afinal."
-
-1007005-110 = "Ah... hoje é realmente um belo dia."
-
-1007005-111 = "É um bom dia para sapatear...!"
-
-1007005-112 = "Ahaha, haha… hahaha…!"
-
-1007005-117 = "(Mina veio correndo com um sorriso brilhante)"
-
-1007005-118 = "(Dançamos em um palco só nós dois sob uma chuva torrencial)"
-
+1007005-78 = "[ns3] \"確かに、明るい色の傘があれば……\"\n[ns4] \"[ruby=みちしるべ]道標[/ruby]になるね。\""
+1007005-81 = "――門主様のようにな。"
+1007005-82 = "[s] \"キサキ……？\""
+1007005-83 = "ああ。私が玄龍門に入ったのは、門主様がいたからだ。"
+1007005-84 = "お金や名誉なんてものは、どうだっていい。#nそんなものは、いずれ消えてしまう……虚しいだけだ。"
+1007005-85 = "だが、門主様のハードボイルドな心意気は本物だぞ！"
+1007005-86 = "思わず跪いてしまうほどのカリスマ！#nそれでいて、皆の意見を聞き入れる懐の深さ！"
+1007005-87 = "にもかかわらず、抱きしめれば壊れてしまいそうな、あの華奢な姿！#nそのギャップが最高だろう！？"
+1007005-88 = "わ、私だけじゃないぞっ。#n構成員のほとんどは、門主様の魅力に惹かれて集まってるからな！"
+1007005-92 = "[ns] （玄龍門はキサキのファンクラブなのかな……？）"
+1007005-93 = "……コホン。#n失礼、少し取り乱してしまった。"
+1007005-94 = "とにかく……人生には明るい傘が必要、ということだ。"
+1007005-95 = "[s] \"そうだね。もちろん、雨の日にも。\""
+1007005-96 = "……フッ。分かってるじゃないか、先生。"
+1007005-97 = "先生と話していると……時々、不思議な気持ちになる。"
+1007005-98 = "自分では話そうと思っていなかった部分まで、自然と口から出てしまう。"
+1007005-102 = "急に飛び出して、どうしたんだ？#nほら、まだ雨が降ってるぞ、先生。"
+1007005-103 = "[s5] \"実は、私も雨が好きなんだ。\"\n[s6] \"雨に降られながら、歌って、踊って。\""
+1007005-106 = "……。"
+1007005-107 = "あっ……そうか。"
+1007005-108 = "昔、映画で見た記憶がある。"
+1007005-109 = "なんだ、やはり先生は映画に詳しいんじゃないか。"
+1007005-110 = "ああ……今日は本当に、いい日だな。"
+1007005-111 = "タップダンス日和だ……！"
+1007005-112 = "あははっ、ははっ……はははっ……！"
+1007005-117 = "（ミナは明るく微笑みながら走ってきた）"
+1007005-118 = "（降り注ぐ雨のなか、私たちは2人だけの舞台で踊った）"

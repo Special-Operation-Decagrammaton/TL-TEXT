@@ -1,103 +1,53 @@
 [translation]
-1010806-1 = "Noite sem dormir no seminário"
-
-1010806-2 = "Ufa... aquele dia passou tão rápido."
-
-1010806-10 = "Já terminei de limpar..."
-
-1010806-11 = "Ah, hora do rádio!"
-
-1010806-16 = "Hehe, todos esperaram? #nEu, DJ Mary! Estou no estúdio da rádio Kronos agora!"
-
-1010806-17 = "Está muito mais frio ultimamente, não é?"
-
-1010806-18 = "Quando o tempo muda, sua saúde tende a piorar, então tome cuidado! #nAlém disso, certifique-se de dormir em um futon."
-
-1010806-19 = "Pois bem, é hora do consultório de problemas."
-
-1010806-20 = "A carta desta vez é do Sr. H da Millennium Science School."
-
-1010806-21 = "Essa é... essa é a minha carta."
-
-1010806-22 = "Não consigo dormir e minha escrita aleatória acaba sendo lida..."
-
-1010806-23 = "\"Olá, sempre gosto de ouvir DJ Merry's Music Trip.\""
-
-1010806-24 = "``Minha rotina diária hoje em dia é ouvir rádio antes de ir para a cama porque há muitas músicas suaves.''"
-
-1010806-25 = "Na verdade, gosto de rock intenso, mas toco esse tipo de música conscientemente a essa hora do dia."
-
-1010806-26 = "Eu estaria em apuros se alguém reclamasse: “Não consigo dormir por causa de Mary!” #nAhaha."
-
-1010806-28 = "“Mas ultimamente não consigo dormir muito, mesmo quando ouço DJ Mary no rádio.”"
-
-1010806-29 = "“Não é por causa da seleção das músicas. É porque penso em tantas coisas antes de dormir…”"
-
-1010806-30 = "``Quando deito na cama e olho para o teto escuro como breu, todas as coisas que aconteceram naquele dia passam pela minha mente.''"
-
-1010806-31 = "“Acho que poderia ter tentado mais... me pergunto se posso fazer melhor amanhã.”"
-
-1010806-32 = "``Quando faço isso, fico ansioso e não consigo dormir... estou sofrendo de insônia há um mês.''"
-
-1010806-33 = "“DJ Mary, existe uma boa maneira de curar a insônia?”"
-
-1010806-35 = "Uau... é constrangedor ouvir isso de novo."
-
-1010806-36 = "Bom... tem gente perto da DJ Mary que também sofre de insônia."
-
-1010806-37 = "Este é um problema familiar para as pessoas modernas."
-
-1010806-38 = "Mas DJ Mary adormece assim que fecha os olhos, então talvez eu não consiga ajudá-la."
-
-1010806-39 = "Se alguém que está ouvindo esta rádio souber de um método melhor, por favor me avise!"
-
-1010806-40 = "Acho que não há maneira melhor, afinal."
-
+1010806-1 = "セミナーの眠れない夜"
+1010806-2 = "ふぅ……あっという間の一日だったわね。"
+1010806-10 = "片付けも終わったし……。"
+1010806-11 = "あっ、ラジオの時間！"
+1010806-16 = "うふふ、みんな待った？#n私、DJメリー！いま、クロノスのラジオスタジオにいるよ！"
+1010806-17 = "ここ最近、ぐっと寒くなったよね？"
+1010806-18 = "天気が変わると体調も崩れがちだから気をつけて！#nそれと、ちゃんと布団で寝るように。"
+1010806-19 = "それじゃあ、お悩み相談室の時間だよ。"
+1010806-20 = "今回のお便りは……「ミレニアムサイエンススクールのHさん」から。"
+1010806-21 = "あれ……私のお便りだわ。"
+1010806-22 = "眠れなくて適当に書いたものが読まれちゃうなんて……。"
+1010806-23 = "「こんにちは、DJメリーのミュージックトリップをいつも楽しく聴いています。」"
+1010806-24 = "「優しい曲が多くて、寝る前にラジオを聞くのが最近の日課です。」"
+1010806-25 = "実は激しいロックも好きだけど、この時間帯は意識してそういう曲を流してるの。"
+1010806-26 = "「メリーのせいで眠れないんだけど！」なんてクレームが来たら困っちゃうから！#nあははっ。"
+1010806-28 = "「でも、最近はDJメリーのラジオを聴いてもあまり寝れなくなってしまって。」"
+1010806-29 = "「選曲のせいとかではないんです。寝る前にあれこれ考えてしまうせいか……。」"
+1010806-30 = "「ベッドに横になって、真っ暗な天井を見ていると、その日あったいろんなことが頭をよぎるんです。」"
+1010806-31 = "「もっと頑張れたのに、とか……明日は頑張れるかな、とか。」"
+1010806-32 = "「そうしていると、不安になって寝付けなくて……ここ一か月ほど不眠症に悩まされています。」"
+1010806-33 = "「DJメリーさん、不眠を治す良い方法はないでしょうか？」"
+1010806-35 = "うわぁ……あらためて聞くと恥ずかしいわね。"
+1010806-36 = "そうねぇ……DJメリーの周りにも、不眠症に悩まされてる人がいるの。"
+1010806-37 = "現代人にとって、身近な悩みって言うよね。"
+1010806-38 = "でも、DJメリーは目を閉じたらすぐ眠れちゃうから、力になれないかも。"
+1010806-39 = "もしこのラジオを聴いてる人のなかに、良い方法を知ってる人がいたらお便りをちょうだい！"
+1010806-40 = "やっぱり、良い方法なんてないのかしら。"
 1010806-41 = "[USERNAME]先生の言う通り、考えすぎないようにすれば寝られるのは分かってるけど……。"
 1010806-42 = "毎日、ああすれば良かった、こうすれば良かったなんて悩みは尽きないんだもの。"
-1010806-46 = "...Essa é uma boa música."
-
-1010806-48 = "(Uma semana depois...)"
-
-1010806-53 = "Hehehe! Todos esperaram? #nEu, DJ Mary! Chegou a hora da \"Viagem Musical da DJ Mary\"!"
-
-1010806-54 = "Você se lembra da carta que dizia que um certo aluno do Millennium sofria de insônia? #nDepois disso, recebi muitas cartas de pessoas que tiveram problemas semelhantes."
-
-1010806-55 = "Sim...! ?"
-
-1010806-56 = "Ugh, e se eles perceberem que foi o que eu enviei..."
-
-1010806-57 = "A maioria das mensagens que recebi ressoou em mim, mas também recebi algumas soluções que gostaria de compartilhar com vocês."
-
-1010806-58 = "A primeira carta de hoje é de uma pessoa anônima chamada “S” na Placa de Petri."
-
-1010806-59 = "...Esse anonimato tem algum significado?"
-
-1010806-60 = "...De jeito nenhum, Sensei! ?"
-
-1010806-61 = "Parece haver algum ruído do outro lado do rádio."
-
-1010806-62 = "Todos, por favor, ouçam com calma e não façam suposições estranhas."
-
-1010806-63 = "Pois bem, vou ler em voz alta."
-
-1010806-65 = "“Muitas pessoas não querem dormir pelo menos uma vez. Porque quando vão para a cama, o amanhã chega.”"
-
-1010806-66 = "``Num futuro onde não sabemos o que vai acontecer, não temos escolha senão olhar para trás e fazer previsões."
-
-1010806-67 = "``Se você pensar na luz do dia, é natural que você se assuste com a escuridão à sua frente.''"
-
-1010806-68 = "\"Mas está tudo bem. Se você estiver ansioso à noite, significa que teve um dia gratificante.\""
-
-1010806-69 = "“Amanhã com certeza será um bom dia para quem sempre trabalha duro.”"
-
-1010806-72 = "...Essa é uma boa história. #n Eu me pergunto se o Sr. H do Millennium também está ouvindo."
-
-1010806-73 = "Pois bem, hoje vou trazer para vocês uma música que vai te ajudar a se sentir ansioso. #nFique comigo até o fim."
-
-1010806-74 = "...Isso mesmo."
-
-1010806-80 = "Amanhã com certeza será um bom dia."
-
-1010806-82 = "(Yuka dormiu mais profundamente do que o normal naquele dia)"
-
+1010806-46 = "……良い曲ね。"
+1010806-48 = "（それから1週間後……）"
+1010806-53 = "うふふ！みんな待った？#n私、DJメリー！「DJメリーのミュージックトリップ」の時間だよ！"
+1010806-54 = "ミレニアムのとある生徒が不眠症で悩んでいる、ってお便りは覚えてるかな？#nあの後、同じような悩みを持ってる人からたくさんお便りが届いたの。"
+1010806-55 = "ええっ……！？"
+1010806-56 = "うぅ、私が送ったやつだって気づかれたらどうしよう……。"
+1010806-57 = "お便りのほとんどは共感する内容だったけど、いくつか解決策も届いたから紹介するね。"
+1010806-58 = "今日の一通目は、匿名で「シャーレのS」さんから。"
+1010806-59 = "……この匿名、意味あるのかな？"
+1010806-60 = "……まさか先生！？"
+1010806-61 = "何だかラジオの向こうが騒がしいような。"
+1010806-62 = "みんな、変な憶測はせずに落ち着いて聞いてね。"
+1010806-63 = "それじゃあ、読み上げるよ。"
+1010806-65 = "「多くの人が、一度は寝たくないと思うもの。だって、寝ると明日が来てしまう。」"
+1010806-66 = "「何が起こるか分からない未来には、今日のことを振り返って予測するしかなくて。"
+1010806-67 = "「輝いていた昼を思い返してしまえば、目の前の闇に怖気づいてしまうのも当然のこと。」"
+1010806-68 = "「でも大丈夫。夜が不安になるのは、それだけ昼が充実していたということだから。」"
+1010806-69 = "「いつも頑張っている人の明日は、きっと良い日になるよ。」"
+1010806-72 = "……良い話だね。#nミレニアムのHさんも聞いてくれてるかな。"
+1010806-73 = "じゃあ、今日は不安な気持ちに寄り添う一曲を届けるよ。#n最後まで付き合ってね。"
+1010806-74 = "……そうよね。"
+1010806-80 = "明日は、きっと良い日になる。"
+1010806-82 = "（その日、ユウカはいつもよりぐっすり眠れた）"

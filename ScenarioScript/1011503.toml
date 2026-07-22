@@ -1,199 +1,100 @@
 [translation]
-1011503-1 = "treinamento de controle"
-
-1011503-3 = "É por isso! A seguir, vamos praticar o pitch!"
-
-1011503-4 = "[ns1] \"Huh?\"\n[ns2] \"Ray também arremessa, certo?\""
-
-1011503-7 = "lar. Sou um batedor profissional."
-
-1011503-8 = "Na verdade, é extremamente raro que seja chamado de \"empunhadura dupla\"..."
-
-1011503-9 = "Em outras palavras, existem jogadores que podem ser tanto arremessadores quanto rebatedores."
-
-1011503-10 = "Ainda não estou nesse nível..."
-
-1011503-11 = "Mas eu quero ser assim um dia!"
-
-1011503-12 = "No meu caso, tudo começa melhorando minhas rebatidas."
-
-1011503-13 = "Para melhorar as rebatidas, achei importante praticar o arremesso e observar os rebatedores da perspectiva do #n arremessador."
-
-1011503-14 = "Se você conseguir entender os sentimentos do arremessador e prever o próximo arremesso, será capaz de rebater com mais precisão!"
-
-1011503-15 = "Se você prever o curso da bola e mirar e chutar..."
-
-1011503-16 = "Se você fizer isso, sua média de rebatidas aumentará e sua distância aumentará... eventualmente...!"
-
-1011503-17 = "Você não acha que conseguirá fazer um home run? ?"
-
-1011503-18 = "[s] \"Talvez!\""
-
-1011503-19 = "Isso mesmo! ?"
-
-1011503-20 = "Então, farei o meu melhor na prática de arremesso hoje!"
-
-1011503-22 = "(Dito isso, Ray foi para o monte animado...)"
-
-1011503-28 = "<Bola morta! >"
-
-1011503-29 = "Eu coloquei muito esforço nisso...?"
-
-1011503-30 = "Próxima vez!"
-
-1011503-35 = "<Bola...Quatro bolas! >"
-
-1011503-36 = "O que, eu apontei para o meio! ?"
-
-1011503-41 = "...Não, fique calmo, eu! O importante para um arremessador é manter a calma...!"
-
-1011503-48 = "<Home run! >"
-
-1011503-49 = "Ainda nem acertei nenhum! ?"
-
-1011503-50 = "A bola estava macia...? Da próxima vez tome cuidado...."
-
-1011503-58 = "<Bola morta! ……erro. O braço esquerdo do robô batedor foi danificado>"
-
-1011503-59 = "Eca...!"
-
-1011503-64 = "<Bola morta! ……erro. O abdômen do robô stickman foi danificado>"
-
-1011503-65 = "Desta vez...!"
-
-1011503-69 = "<Bola morta! ……erro. A cabeça do robô batedor está danificada. A câmera principal está danificada>"
-
-1011503-78 = "<...Erro. Nenhum robô stickman utilizável encontrado. #nPor favor, prepare um robô batedor utilizável>"
-
-1011503-79 = "Gunnu…."
-
-1011503-84 = "Eu me pergunto por que isso não funciona..."
-
-1011503-85 = "[ns] \"Todo mundo falha no começo.\""
-
-1011503-86 = "Eca. Sensei……."
-
-1011503-87 = "Existe alguma boa maneira de praticar...?"
-
-1011503-88 = "O que devo fazer..."
-
-1011503-89 = "[ns] \"Hmm... O que você acha que um arremessador precisa?\""
-
-1011503-90 = "acho que é controle..."
-
-1011503-91 = "Eles dizem: ``Faça um golpe. A placa base não muda."
-
-1011503-92 = "Também ouvi dizer que é uma boa ideia aprimorar seu controle primeiro com bolas retas e depois praticar com bolas curvas."
-
-1011503-93 = "[s3] \"Controle...\"\n[s4] \"Tudo bem, vamos fazer um treinamento especial de novo!\""
-
-1011503-96 = "Por favor, faça isso! ...Qual caminho devo seguir, Sensei?"
-
-1011503-97 = "Huh, não deveríamos fazer isso no campo de treino?"
-
-1011503-101 = "Também!"
-
-1011503-102 = "Isto não é um centro de jogos de novo? Não vamos fazer algum treinamento de controle hoje?"
-
-1011503-103 = "Huh? Você está usando um jogo diferente do anterior?"
-
-1011503-108 = "Dardos? Esta é a primeira vez que tento."
-
-1011503-109 = "A regra é lançar dardos e competir por pontos acertando o alvo...entendo."
-
-1011503-110 = "Parece que seria bom para treinar concentração e controle. Vou tentar!"
-
-1011503-112 = "Sim!"
-
-1011503-113 = "Touro! 950 pontos!"
-
-1011503-114 = "E... um lance...!"
-
-1011503-116 = "Olhar! Aquele garoto acertou o centro 5 vezes seguidas!"
-
-1011503-117 = "Ele terminará com um hat-trick?"
-
-1011503-118 = "Ufa..."
-
-1011503-119 = "É isso!"
-
-1011503-123 = "Touro! 1000 pontos! Parabéns! Esta é a pontuação mais alta de hoje!"
-
-1011503-127 = "[ns5] \"Isso é incrível, Ray!\"\n[ns6] \"Você não tem talento para controle?\""
-
-1011503-130 = "……."
-
-1011503-131 = "Não, isso não é bom!"
-
-1011503-132 = "[s] \"Huh? Por quê?\""
-
-1011503-133 = "Os dardos são muito leves em comparação com as bolas de beisebol!"
-
-1011503-135 = "Existem certas condições necessárias para treinar seu controle como arremessador."
-
-1011503-136 = "Algo que seja um pouco difícil de arremessar e que tenha um peso adequado..."
-
-1011503-137 = "!"
-
-1011503-138 = "Sensei, eu entendo!"
-
-1011503-139 = "[s] \"Qual é o seu coração?\""
-
-1011503-140 = "É... Frisbee!"
-
-1011503-141 = "[s] \"Huh...?\""
-
-1011503-144 = "Ele faz um grande arco e volta!"
-
-1011503-148 = "[ns] \"Isso não é um Frisbee, é um bumerangue!\""
-
-1011503-151 = "Tudo que você precisa é de controle!"
-
-1011503-153 = "Desta vez... vou jogá-lo como se ele voasse direto e de repente saltasse!"
-
-1011503-157 = "[ns] \"Seria perigoso se voasse para um lugar estranho...\""
-
-1011503-159 = "Também está tudo bem, contanto que você tenha controle!"
-
-1011503-168 = "Agora é a vez do Sensei."
-
-1011503-169 = "Bem, por que você está surpreso? A Senseia também joga."
-
-1011503-170 = "Pegar um Frisbee voador também pode ser uma boa prática para os defensores."
-
-1011503-171 = "(Ray me empurrou para jogar um frisbee)"
-
-1011503-175 = "Ah, estou sendo levado pelo vento e é estranho... mas está tudo bem! Se for cabeça deslizando...!"
-
-1011503-179 = "Entregue! !"
-
-1011503-183 = "Yay! Eu peguei! Mas isso ainda não é suficiente...da próxima vez, jogue mais alto!"
-
-1011503-184 = "[s] \"Isso não vai passar pela sua cabeça?\""
-
-1011503-185 = "A mosca passa por cima da sua cabeça."
-
-1011503-190 = "por favor!"
-
-1011503-194 = "...Oh!"
-
-1011503-195 = "Se você pular, ficará surpreso..."
-
-1011503-196 = "...Então, desta vez, vá o mais longe que puder!"
-
-1011503-197 = "[s] \"Talvez eu não consiga pegá-lo desta vez...?\""
-
-1011503-198 = "Os sucessos nem sempre saem do jeito que você deseja!"
-
-1011503-202 = "Lote Koi!"
-
-1011503-206 = "Veja isso. Você não é Sensei de placas de Petri?"
-
-1011503-207 = "Jogar um frisbee e fazê-lo pegá-lo, jogá-lo longe de propósito... tratando-o como um cachorro..."
-
-1011503-208 = "Existem muitos rumores sobre Senseies, mas nunca esperei que eles fizessem algo assim com seus alunos..."
-
-1011503-212 = "[ns] \"Além disso, minha reputação...\""
-
-1011503-214 = "Você disse alguma coisa? Por favor, jogue o próximo logo!"
-
+1011503-1 = "コントロールの特訓"
+1011503-3 = "というわけで！次はピッチングの練習をやります！"
+1011503-4 = "[ns1] \"あれ？\"\n[ns2] \"レイはピッチャーもやるんだっけ\""
+1011503-7 = "いえ。私はバッター専業ですよ。"
+1011503-8 = "たしかに、極稀に「二刀流」と呼ばれる……"
+1011503-9 = "つまり、ピッチャーとバッターの両方をこなす選手もいますが。"
+1011503-10 = "私はまだそんなレベルじゃないですし……。"
+1011503-11 = "でも、いつかはそうなりたいって思ってます！"
+1011503-12 = "私の場合、まずはバッティングの上達からかなって。"
+1011503-13 = "バッティングが上手くなるためには、ピッチングの練習をして、#nピッチャー目線でバッターを見るのも大事だと思ったんです。"
+1011503-14 = "ピッチャーの気持ちを理解して、次に来る球を予測できるようになれば、#nもっと的確にスイングできるはずですから！"
+1011503-15 = "球のコースを予測して、狙って撃てば……。"
+1011503-16 = "そうすれば打率が上がって、飛距離も伸びて……最終的には……！"
+1011503-17 = "ホームランだって打てるようになると思いませんか！？"
+1011503-18 = "[s] \"そうかもしれない！\""
+1011503-19 = "ですよね！？"
+1011503-20 = "ということで、今日はピッチング練習を頑張ります！"
+1011503-22 = "（そう言ってレイは意気揚々とマウンドに向かったが……）"
+1011503-28 = "<デッドボール！>"
+1011503-29 = "力入りすぎたかな……？"
+1011503-30 = "次こそは！"
+1011503-35 = "<ボール……フォアボール！>"
+1011503-36 = "えっ、真ん中を狙ったのに！？"
+1011503-41 = "……いや、冷静になれ、私！ピッチャーに大事なのは落ち着き……！"
+1011503-48 = "<ホームラン！>"
+1011503-49 = "私だってまだ打ったことないのに！？"
+1011503-50 = "球が甘かった……？次は慎重に……。"
+1011503-58 = "<デッドボール！……エラー。バッターロボットの左腕が破損しました>"
+1011503-59 = "うっ……！"
+1011503-64 = "<デッドボール！……エラー。バッターロボットの腹部が破損しました>"
+1011503-65 = "今度こそ……っ！"
+1011503-69 = "<デッドボール！……エラー。バッターロボットの頭部が破損。メインカメラが損傷しました>"
+1011503-78 = "<……エラー。使用可能なバッターロボットが見つかりません。#n使用可能なバッターロボットを準備してください>"
+1011503-79 = "ぐぬぬ……。"
+1011503-84 = "どうしてうまくいかないんでしょうか……。"
+1011503-85 = "[ns] \"誰だって最初は失敗するものだよ\""
+1011503-86 = "ううっ。先生……。"
+1011503-87 = "何か、良い練習方法はありませんか……？"
+1011503-88 = "私はどうすれば……。"
+1011503-89 = "[ns] \"うーん……ピッチャーに必要なものって何だと思う？\""
+1011503-90 = "コントロール……だと思っています。"
+1011503-91 = "「ストライクを投げろ。ホームプレートの位置は変わらない」って言われるほどですから。"
+1011503-92 = "まずストレートで制球力を磨いてから、カーブの練習をすると良いとも聞きますし。"
+1011503-93 = "[s3] \"コントロールか……。\"\n[s4] \"よし、また特訓をしよう！\""
+1011503-96 = "ぜひお願いします！……って、先生、どちらへ？"
+1011503-97 = "え、練習場でやるんじゃないんですか？"
+1011503-101 = "また！"
+1011503-102 = "またゲームセンターじゃないですか！今日はコントロールの特訓をするのでは？"
+1011503-103 = "えっ？前とは違うゲームを使うんですか？"
+1011503-108 = "ダーツ、ですか。やってみるのは初めてですね。"
+1011503-109 = "ダーツを投げて、的に当てて得点を競うルール……なるほど。"
+1011503-110 = "集中力やコントロールを鍛えるには良さそうな感じがします。やってみます！"
+1011503-112 = "えいっ！"
+1011503-113 = "ブル！950点！"
+1011503-114 = "あと……一投……！"
+1011503-116 = "見ろよ！あの子、真ん中に5回連続で当ててるぞ！"
+1011503-117 = "最後もハットトリックで締めるのか……？"
+1011503-118 = "ふぅ……。"
+1011503-119 = "それっ！"
+1011503-123 = "ブル！1000点！おめでとうございます！本日の最高スコアです！"
+1011503-127 = "[ns5] \"すごいよ、レイ！\"\n[ns6] \"コントロールの才能あるんじゃない？\""
+1011503-130 = "……。"
+1011503-131 = "いいえ、これじゃダメです！"
+1011503-132 = "[s] \"え？どうして？\""
+1011503-133 = "ダーツは、野球ボールに比べて軽すぎます！"
+1011503-135 = "ピッチャーとしてのコントロールを鍛えるには、必要な条件があるんです。"
+1011503-136 = "少し投げにくくて、適度な重さを持っているもの……。"
+1011503-137 = "！"
+1011503-138 = "先生、分かりました！"
+1011503-139 = "[s] \"その心は？\""
+1011503-140 = "それは……フリスビーです！"
+1011503-141 = "[s] \"えっ……？\""
+1011503-144 = "大きな弧を描いて戻ってくるように投げますね！"
+1011503-148 = "[ns] \"それはフリスビーじゃなくてブーメラン！\""
+1011503-151 = "コントロールさえあればできます！"
+1011503-153 = "今度は……まっすぐ飛んだ後、急に跳ね上がる感じで投げます！"
+1011503-157 = "[ns] \"変なところに飛んで行ったら危ないんじゃ……\""
+1011503-159 = "これも大丈夫です、コントロールさえあればできます！"
+1011503-168 = "さあ、次は先生の番です。"
+1011503-169 = "えっ、なにを驚いているんですか。先生も投げるんですよ。"
+1011503-170 = "飛んでくるフリスビーをキャッチするのは、野手の練習にもなりますから。"
+1011503-171 = "（レイに押されて、フリスビーを投げてみた）"
+1011503-175 = "あっ、風に流されて変なほうに……でも大丈夫です！ヘッドスライディングなら……！"
+1011503-179 = "届けえぇっ――！！"
+1011503-183 = "やった！捕れました！でも、これじゃまだまだ足りません……次はもっと高く投げてください！"
+1011503-184 = "[s] \"頭の上を越えちゃうんじゃない？\""
+1011503-185 = "フライは頭の上を越えていくものです。"
+1011503-190 = "お願いします！"
+1011503-194 = "……ほっ！"
+1011503-195 = "ジャンプすれば意外と届きますね……"
+1011503-196 = "……じゃあ、今度は思いっきり遠くに！"
+1011503-197 = "[s] \"今度こそ、捕れないかも知れないよ……？\""
+1011503-198 = "ヒットは自分の思い通りになんて飛んでくれません！"
+1011503-202 = "バッチコーイ！"
+1011503-206 = "あれ見て。シャーレの先生じゃない？"
+1011503-207 = "フリスビー投げて拾わせたり、わざと遠くに投げたり……犬みたいな扱い……。"
+1011503-208 = "先生って色々噂はあるけど、まさか生徒にこんなことまでしてるとはね……。"
+1011503-212 = "[ns] \"また、私の評判が……\""
+1011503-214 = "何か言いました？早く次、投げて下さーい！"

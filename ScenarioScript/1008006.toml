@@ -1,127 +1,64 @@
 [translation]
-1008006-1 = "Compromisso com a culinária"
-
-1008006-2 = "(Ele parecia estar com problemas, então fui até ele)"
-
-1008006-8 = "...Huh, Sensei?"
-
-1008006-9 = "Eu vejo. Então você veio aqui porque estava preocupado?"
-
-1008006-10 = "Sempre penso nele como uma pessoa gentil."
-
-1008006-11 = "Mas não importa o quanto seja Sensei..."
-
-1008006-12 = "Isso pode ser um pouco difícil, certo?"
-
-1008006-13 = "[s1] \"É realmente tão difícil...?\"\n[s2] \"Você não está procurando um restaurante...?\""
-
-1008006-16 = "deixe-me ver……"
-
-1008006-17 = "Sou muito exigente...#nNão importa o quão faminto eu esteja, não posso me comprometer."
-
-1008006-18 = "Não tenho nenhuma intenção de comer comida desleixada..."
-
-1008006-19 = "No local original, ali estaria a loja habitual."
-
-1008006-20 = "Talvez seja aqui que minhas habilidades entram em jogo?"
-
-1008006-21 = "[s3] \"Isso!?\"\n[s4] \"É um problema sério...!\""
-
-1008006-24 = "Claro, certo? Já que você está colocando na boca, é preciso ter cuidado."
-
-1008006-25 = "Basicamente, só como alimentos orgânicos."
-
-1008006-26 = "Mas só porque afirma ser orgânico... você realmente não sabe, certo?"
-
-1008006-27 = "-Você realmente usa ingredientes cultivados organicamente?"
-
-1008006-28 = "A menos que você consiga ler a mente do chef, você não pode confiar nele, certo?"
-
-1008006-29 = "É por isso que você está em apuros."
-
-1008006-30 = "Não estou disposto a fazer concessões só porque é um momento como este. #nÉ melhor não comer do que comer algo meio cozido."
-
-1008006-31 = "--Absolutamente."
-
-1008006-35 = "[ns5] \"Você pode ver claramente a seriedade dele.\"\n[ns6] \"Entendo, Shokuhou é um gourmet gourmet.\""
-
-1008006-38 = "...Talvez."
-
-1008006-39 = "Essa expressão... há alguma coisa nisso?"
-
-1008006-40 = "sim?"
-
-1008006-41 = "Você quer que eu deixe isso para você...? A Senseia vai cozinhar para mim?"
-
-1008006-42 = "...Oh não?"
-
-1008006-43 = "Mesmo que você me pedisse para apresentá-lo à loja... será que você estava me ouvindo?"
-
-1008006-44 = "Isso não significa que está tudo bem em qualquer lugar..."
-
-1008006-45 = "...Hum?"
-
-1008006-46 = "Você está confiante depois de ouvir isso?"
-
-1008006-50 = "certamente……"
-
-1008006-51 = "Quando você fala isso você fica preocupado, não é?"
-
-1008006-52 = "Eu gostaria de ir lá pelo menos uma vez. #n...Mas, Sensei."
-
-1008006-53 = "Mesmo que você não use suas habilidades, você pode perceber quando vê, certo?"
-
-1008006-54 = "Se não fosse grande coisa... eu simplesmente sairia da loja, mas não importa, né?"
-
-1008006-55 = "Pois bem, vamos?"
-
-1008006-58 = "...Hum?"
-
-1008006-59 = "Parece uma loja muito boa até agora."
-
-1008006-60 = "Bem, vou deixar o menu para você também."
-
-1008006-61 = "...Eu vejo."
-
-1008006-62 = "--Sim, é isso. O cardápio para seu acompanhante é..."
-
-1008006-63 = "Vou pegar o mesmo também."
-
-1008006-64 = "Muito obrigado, aguarde um momento!"
-
-1008006-66 = "(depois de alguns minutos)"
-
-1008006-73 = "Desculpe por ter feito você esperar, por favor, não tenha pressa!"
-
-1008006-77 = "...Eu vejo."
-
-1008006-78 = "Ele parece estar muito confiante... talvez ele conheça o chef daqui?"
-
-1008006-79 = "...Ah, isso está errado?"
-
-1008006-80 = "Aliás, você tem uma expressão muito relaxada, não é? ...Pode ter sido do seu gosto, mas não é possível que os ingredientes sejam realmente diferentes do que está no rótulo?"
-
-1008006-81 = "...Absolutamente impossível? Hum."
-
-1008006-82 = "\"Absolutamente\"..."
-
-1008006-83 = "...Não é como se eu estivesse duvidando de você, não é? #nNo entanto, me pergunto o que o torna tão confiante."
-
-1008006-84 = "Veja bem, os Senseies sempre escolhem suas palavras com cuidado, não é? #nClaro, não estou dizendo que seja ruim."
-
-1008006-85 = "É por isso que achei incomum fazer tal declaração."
-
-1008006-86 = "deixe-me ver……"
-
-1008006-87 = "Sinto que o Sensei já sabe a resposta..."
-
-1008006-91 = "...Acho que minha leitura está correta, afinal?"
-
-1008006-92 = "[s7] \"Na verdade, tem gourmets lá dentro.\"\n[s8] \"Se eles tentarem falsificar comida, esta loja vai explodir.\""
-
-1008006-95 = "Eu realmente não entendo..."
-
-1008006-96 = "Por enquanto, vamos terminar de conversar e comer."
-
-1008006-104 = "......Hehe."
-
+1008006-1 = "料理のこだわり"
+1008006-2 = "（困っている様子だったので[ruby=しょくほう]、食蜂の[/ruby]元に向かった）"
+1008006-8 = "……あれ、先生？"
+1008006-9 = "なるほどねぇ、心配して来てくれたんだ？"
+1008006-10 = "いつも思うけど、優しい人よねぇ。"
+1008006-11 = "でも、いくら先生とはいえ……"
+1008006-12 = "これは、ちょ～っと難しいんじゃないかしらぁ？"
+1008006-13 = "[s1] \"そんなに難しい問題なの……？\"\n[s2] \"飲食店を探してるんじゃないの……？\""
+1008006-16 = "そうねぇ……"
+1008006-17 = "どうしても、こだわりがあって……#nいくら空腹に陥ろうとも、妥協は許されないのよ。"
+1008006-18 = "いい加減な食事を摂るつもりは無いというかぁ……"
+1008006-19 = "元の場所なら、いつものお店があるんだけどねぇ。"
+1008006-20 = "もしかして、これは能力の出番かしらぁ？"
+1008006-21 = "[s3] \"そこまで！？\"\n[s4] \"深刻な問題なんだね……！\""
+1008006-24 = "当然でしょう？自分の口に入れるのだから、慎重力が必要だわぁ。"
+1008006-25 = "私は基本的に、オーガニック料理しか口にしないのよねぇ。"
+1008006-26 = "でもぉ、オーガニックを謳ってるからといって……実際は分からないでしょう？"
+1008006-27 = "――本当に、有機栽培された食材を使っているのか。"
+1008006-28 = "シェフの心を読まない限り、信用できないじゃなぁい？"
+1008006-29 = "だから困ってるのよねぇ。"
+1008006-30 = "こんな時だからって、妥協する気は無いわぁ。#n中途半端な物を食べるくらいなら、食べない方がマシだもの。"
+1008006-31 = "――絶対にね。"
+1008006-35 = "[ns5] \"本気力がよく伝わってくるよ。\"\n[ns6] \"なるほど、食蜂は美食家なんだね。\""
+1008006-38 = "……ひょっとして。"
+1008006-39 = "その表情……何か当てがあるのかしら？"
+1008006-40 = "ん？"
+1008006-41 = "任せてほしい……？先生が料理してくれるとかぁ？"
+1008006-42 = "……あら、違うの？"
+1008006-43 = "お店を紹介する、って言われてもぉ……私の話、聞いてたのかしら？"
+1008006-44 = "どこでも良いってわけじゃ――"
+1008006-45 = "……ふぅん？"
+1008006-46 = "聞いたうえで自信がある、と……？"
+1008006-50 = "たしかに……"
+1008006-51 = "そこまで言われると、気になってくるわねぇ？"
+1008006-52 = "一度くらい、行ってみようかしら。#n……でもぉ、先生。"
+1008006-53 = "能力なんて使わなくても、見たら分かるものよ？"
+1008006-54 = "もし大したことなかったらぁ……そのままお店を出るけど、構わないわよね？"
+1008006-55 = "じゃ、行きましょうか？"
+1008006-58 = "……ふぅん？ "
+1008006-59 = "今のところ、結構良さそうなお店ね。"
+1008006-60 = "じゃ、メニューも先生に任せるわ。"
+1008006-61 = "……なるほどねぇ。"
+1008006-62 = "――はい、こちらですね。お連れ様のメニューは……"
+1008006-63 = "私も同じものを頂くわ。"
+1008006-64 = "かしこまりました、少々お待ちください！"
+1008006-66 = "（数分後）"
+1008006-73 = "お待たせしました、ごゆっくりどうぞ！"
+1008006-77 = "……なるほどねぇ。"
+1008006-78 = "自信力があるみたいだけどぉ……もしかして、ここのシェフと知り合いだとかぁ？"
+1008006-79 = "……あら、違った？"
+1008006-80 = "それにしては、随分と余裕力のある表情ねぇ？……先生の口には合ったかもしれないけど、実は表示と異なる食材を使用してるかもしれないじゃない？"
+1008006-81 = "……絶対にあり得ない？ふぅん。"
+1008006-82 = "「絶対」ねぇ……。"
+1008006-83 = "……疑ってるわけじゃないわよ？#nただ、そこまで自信力がある理由は何だろうって。"
+1008006-84 = "ほら、いつも先生は、言葉を慎重に選んでるじゃない？#nもちろん、それが悪いとは言わないけどぉ。"
+1008006-85 = "だからこそ、こうして断言するのは珍しいなと思ったのよ。"
+1008006-86 = "そうねぇ……"
+1008006-87 = "先生は、すでに答えを知っている……そんな気がするわぁ。"
+1008006-91 = "……やっぱり、私の読みは間違ってないのね？"
+1008006-92 = "[s7] \"実は、[ruby=ココ]キヴォトス[/ruby]にも美食家がいるんだ。\"\n[s8] \"食品偽装をしようものなら、この店は爆破されてるからね。\""
+1008006-95 = "よく分からないわぁ……。"
+1008006-96 = "とりあえず、お話はここまでにして食べましょうか？"
+1008006-104 = "…………ふふっ。"

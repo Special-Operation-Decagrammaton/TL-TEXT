@@ -1,115 +1,58 @@
 [translation]
-1006303-1 = "Caixa de Pandora (1)"
-
-1006303-6 = "(Koyuki entrou para trabalhar na placa de Petri)"
-
-1006303-7 = "Ooo! Este é o escritório da placa de Petri de que você ouviu falar! !"
-
-1006303-8 = "...Hmm, parece mais normal do que eu pensava...?"
-
-1006303-9 = "[s1] \"É onde eu costumo trabalhar.\"\n[s2] \"O que você esperava...?\""
-
-1006303-12 = "Não, é só uma brincadeira, só brincadeira. #nÉ praticamente igual à imagem!"
-
-1006303-13 = "A propósito, o que devo fazer? #nSó ouvi dizer que estava de plantão."
-
-1006303-14 = "Posso fazer cálculos simples, mas não tenho a habilidade desumana de cálculo de um aritmético implacável!"
-
-1006303-15 = "Farei o meu melhor para fazer as tarefas em troca! #nTudo o que o Sensei quiser! ! !"
-
-1006303-16 = "[s3] \"Fiquei surpreso que você estivesse tão motivado.\"\n[s4] \"Achei que você gostaria de jogar...\""
-
-1006303-19 = "Haha…. #nClaro, ei..."
-
-1006303-20 = "Porque comparado com o trabalho que os meus superiores me pedem para fazer no Millennium, tudo o que eu fizer será realmente interessante!"
-
-1006303-21 = "……sim?"
-
-1006303-22 = "Você acha que trabalhar aqui é chato?"
-
-1006303-23 = "Bem, o Sensei não entende! #nÉ divertido só porque é uma placa de Petri!"
-
-1006303-24 = "O que eu estava fazendo no seminário era responder a cada postagem irracional que eu não entendia!"
-
-1006303-25 = "Continuando a fazer trabalhos semelhantes no mesmo lugar...#nEu realmente pensei que ia enlouquecer!"
-
-1006303-26 = "...Especificamente?"
-
-1006303-27 = "Eram apenas tarefas que não eram realmente um grande problema. #nRecuperar uma conta cuja senha foi esquecida ou desativar um dispositivo de segurança com defeito..."
-
-1006303-28 = "Adivinhar um código antigo que nem sei mais quem escreveu... #nÉ chato e chato..."
-
-1006303-29 = "[s5] \"Eles não são úteis para todos?\"\n[s6] \"Você fez o seu melhor, Koyuki.\""
-
-1006303-32 = "Não estou procurando esse tipo de reação!"
-
-1006303-33 = "Não é nada interessante, e eu fico tipo, ah, não!"
-
-1006303-34 = "Ha~, bem quando pensei que as coisas tinham se acalmado, apareceu outro trabalho... #nDesta vez, pensei: “Sim, isso também!” ! !"
-
-1006303-35 = "Eu não sou um robô que trabalha! ! ! #nSinto muito por isso!"
-
-1006303-36 = "Se for esse o caso, partirei em uma viagem em busca da liberdade! #nEu sou levado de volta todas as vezes de qualquer maneira!"
-
-1006303-37 = "...Não é apenas uma questão de ser repreendido por um momento, mas sim de ser trancado em uma sala de reflexão! #nNão é terrível! ?"
-
-1006303-38 = "[s7] \"Sinto que tenho culpa por isso...\"\n[s8] \"Desde que eu não cause nenhum problema...\""
-
-1006303-41 = "Vamos ver! Por favor, esteja do meu lado! ! #nVocê não acha que é lamentável? ?"
-
-1006303-42 = "de qualquer forma……."
-
-1006303-43 = "Bem, por causa disso, não importa o que seu Sensei peça para você fazer, provavelmente será mais interessante do que o trabalho de seminário."
-
-1006303-44 = "Então, o que devo fazer? #nha, talvez você precise de uma senha de novo...! ?"
-
-1006303-45 = "……foto?"
-
-1006303-46 = "Não é esse tipo de trabalho. #nNa verdade, acho que não deveria remover a senha aqui."
-
-1006303-51 = "...Por que?"
-
-1006303-52 = "[s9] \"Hum...\"\n[s10] \"Esta é uma placa de Petri, então...eu acho?\""
-
-1006303-55 = "Hum..."
-
-1006303-56 = "Bem, ainda não estou convencido."
-
-1006303-57 = "Será que você estaria em apuros se eu descobrisse?"
-
-1006303-58 = "Não é legal que você me ensinou! Pelo menos me dê uma dica!"
-
-1006303-59 = "[s11] \"O quê...?\"\n[s12] \"Se você disser isso, a senha não tem significado.\""
-
-1006303-65 = "Hum..."
-
-1006303-66 = "Hum..."
-
-1006303-67 = "[ns13] \"...Hum, Koyuki-san?\"\n[ns14] \"Não adianta!?\""
-
-1006303-70 = "...Eh? Especialmente? Nada? de jeito nenhum?"
-
-1006303-71 = "Eu pensei: “Vamos dar uma olhada”."
-
-1006303-72 = "Você não pensa sobre isso, não é?"
-
-1006303-73 = "A Senseia acha que vou mentir? ?"
-
-1006303-74 = "Haha~...Então parece que não tenho trabalho hoje..."
-
-1006303-75 = "EU……."
-
-1006303-76 = "Já era hora...."
-
-1006303-77 = "Por favor, me desculpe..."
-
-1006303-78 = "Eu voltarei!"
-
-1006303-79 = "[s15] \"Ah, Koyuki!\"\n[s16] \"Ah, isso é suspeito...\""
-
-1006303-83 = "Tenha um bom dia! ! ! ! !"
-
-1006303-88 = "[ns] \"………….\""
-
-1006303-98 = "(Eu rapidamente aumentei o nível de segurança para o máximo)"
-
+1006303-1 = "パンドラの箱（１）"
+1006303-6 = "（シャーレ当番でコユキがやってきた）"
+1006303-7 = "おおおー！ここが噂に聞くシャーレのオフィスですね！！"
+1006303-8 = "……ん～、思ってたよりも普通のような……？"
+1006303-9 = "[s1] \"いつも仕事をしてる場所だからね。\"\n[s2] \"何を期待してたの……。\""
+1006303-12 = "いやー、冗談ですよ、冗談。#n大体イメージ通りです！"
+1006303-13 = "ところで私って何をすればいいんですか？#n当番としか聞いてないんですけど。"
+1006303-14 = "簡単な計算ならできますけど、#nどこかの冷酷な算術使いみたく人間離れした計算能力があるわけではないですからね！"
+1006303-15 = "代わりに雑用でも何でも頑張りますよ！#n先生がお望みなら、どんなことでも！！！"
+1006303-16 = "[s3] \"そんなにやる気だなんて驚いたよ。\"\n[s4] \"遊びたがると思ってた……。\""
+1006303-19 = "ははー……。#nそりゃあ当然ですよ、ねぇ……。"
+1006303-20 = "だってミレニアムで先輩たちに頼まれてる仕事と比べたら、#nどんなことでもぜーったい面白いはずですから！"
+1006303-21 = "……はい？"
+1006303-22 = "ここの仕事も退屈だと思うよ、って？"
+1006303-23 = "にはは、先生は分かってませんね！#nここがシャーレというだけで楽しいんです！"
+1006303-24 = "セミナーでやってたのは、よく分からない理不尽な投書にひとつひとつ対応するようなものでしたから！"
+1006303-25 = "同じ場所で似たような作業をずっと続けるのって……#nほんっとーに気が狂うかと思いました！"
+1006303-26 = "……具体的に、ですか？"
+1006303-27 = "本当に大したことのない雑用ばかりでしたよ。#nパスワードを忘れたアカウントの復旧だったり、誤作動を起こしたセキュリティ装置の解除をしたり……。"
+1006303-28 = "もはや誰が書いたのかすら分からない古い暗号を当てたり……。#nもう退屈で退屈で……。"
+1006303-29 = "[s5] \"どれもみんなの役に立つことばかりじゃない？\"\n[s6] \"頑張ってたんだね、コユキ。\""
+1006303-32 = "そういう反応を求めてるんじゃないんですよ！"
+1006303-33 = "ぜーんぜん面白くないし、あーもうやだなーって！"
+1006303-34 = "は～、一段落ついたなーって思ってたら、すぐまた次の仕事が回ってきて……。#n今度はこれ～、はいこれも～って！！！"
+1006303-35 = "私はお仕事ロボットじゃないんですから！！！#nもうあんなのはごめんです！"
+1006303-36 = "そんなことなら私は自由を求めて旅に出ますよーだ！#nどうせ毎回連れ戻されるんですけどね！"
+1006303-37 = "……ちょーっと怒られて終わりじゃなくて、反省部屋に監禁されるんです！#nひどくないですか！？"
+1006303-38 = "[s7] \"それに関しては自業自得のような……。\"\n[s8] \"問題を起こさなければいいんじゃ……。\""
+1006303-41 = "せ～ん～せ～い～！そこは私の味方をしてくださいよ！！#n可哀想だとは思わないんですか！？"
+1006303-42 = "とにかく……。"
+1006303-43 = "まあ、そういうことなので、先生に何をお願いされたとしても、きっとセミナーの仕事よりは面白いはずなのです。"
+1006303-44 = "それで、私は何をすればいいんですか？#nはっ、もしかしてまたパスワードを……！？"
+1006303-45 = "……え？"
+1006303-46 = "そういう仕事ではないんですね。#nむしろ、ここのパスワードは解除しちゃいけない、と。"
+1006303-51 = "……なんでですか？"
+1006303-52 = "[s9] \"えーっと……。\"\n[s10] \"ここはシャーレだから……かな？\""
+1006303-55 = "ふーん……。"
+1006303-56 = "なーんか、いまいち納得できませんね。"
+1006303-57 = "もしかして、私に知られたら困ることでもあるんですか？"
+1006303-58 = "教えてくれたっていいじゃないですかー！せめてヒントだけでも！"
+1006303-59 = "[s11] \"何って……。\"\n[s12] \"それを言ったらパスワードの意味がないよね。\""
+1006303-65 = "へ～……。"
+1006303-66 = "ふーん……。"
+1006303-67 = "[ns13] \"……えっと、コユキさん？\"\n[ns14] \"ダメだからね！？\""
+1006303-70 = "……え～？別に？何も？全然？"
+1006303-71 = "ちょ～っと覗いちゃおうかな～とか、"
+1006303-72 = "そんなこと考えてませんよ？"
+1006303-73 = "先生は私が嘘をつくとでも思ってるんですか！？"
+1006303-74 = "にはは～……それじゃあ今日は仕事もないようですし……。"
+1006303-75 = "私……。"
+1006303-76 = "そろそろ……。"
+1006303-77 = "失礼します……ね。"
+1006303-78 = "また来ま～す！"
+1006303-79 = "[s15] \"あっ、コユキ！\"\n[s16] \"あ、怪しい……。\""
+1006303-83 = "それでは良い一日を！！！！！"
+1006303-88 = "[ns] \"…………。\""
+1006303-98 = "（急いでセキュリティレベルを最大まで引き上げた）"

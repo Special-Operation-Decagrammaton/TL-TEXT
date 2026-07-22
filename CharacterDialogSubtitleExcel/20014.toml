@@ -1,9 +1,9 @@
-[translation]#[Texto Final, Mas eventualmente pode haver uma alteração. - Filipe 21/06.]
-20014-CVGroup_UITitle_Idle1-1 = "Blue Archive!" 
-20014-CVGroup_CharacterGet_Idle1-1 = "Sou Sorai Saki do Esquadrão RABBIT,\nda Academia Especial SRT.\nE então, onde fica o manual de operações da Schale?" 
-20014-CVGroup_Cafe_Idle1-1 = "Todo mundo com a guarda baixa...\nQue vergonhoso." 
-20014-CVGroup_Cafe_Idle2-1 = "Até onde a vista alcança,\nsó tem gente com cara de tacho." 
-20014-CVGroup_Cafe_Idle3-1 = "Mesmo que estejamos em pausa,\nexiste um mínimo de disciplina militar que..." 
-20014-CVGroup_Cafe_Idle4-1 = "（Onde será que está\no manual de instruções para usar isso...?）" 
-20014-CVGroup_Cafe_Idle5-1 = "（O que é aquilo,\nnunca vi nada parecido nem no manual...）" 
-20014-CVGroup_WeaponGet_Idle1-1 = "Metralhadora RABBIT Tipo-26, recebida.\n......É. Esse peso com certeza me traz segurança." 
+[translation]
+20014-CVGroup_UITitle_Idle1-1 = "ブルーアーカイブ！"
+20014-CVGroup_CharacterGet_Idle1-1 = "SRT特殊学園、RABBIT小隊の空井サキだ。\nで、シャーレの教範はどこにある？"
+20014-CVGroup_Cafe_Idle1-1 = "どいつもこいつも気が緩みっぱなし……情けない。"
+20014-CVGroup_Cafe_Idle2-1 = "見渡す限り、アホ面ばっかりだ。"
+20014-CVGroup_Cafe_Idle3-1 = "いくら休憩中とは言え、\n最低限の軍紀というものがだな……。"
+20014-CVGroup_Cafe_Idle4-1 = "（これを使うためのマニュアルはどこに……？）"
+20014-CVGroup_Cafe_Idle5-1 = "（何だあれ、教範でも見たことない……）"
+20014-CVGroup_WeaponGet_Idle1-1 = "RABBIT26式機関銃、確かに受け取った。\n……うん。やはりこの重さ、安心する。"

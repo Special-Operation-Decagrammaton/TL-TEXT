@@ -1,178 +1,90 @@
 [translation]
-1010102-1 = "Trabalho de meio período em cafeteria"
-
-1010102-4 = "(Recebi uma ligação de Saori e fui para um restaurante à beira-mar.)"
-
-1010102-10 = "É o okonomiyaki que você pediu. Por favor, não tenha pressa."
-
-1010102-11 = "parece delicioso!"
-
-1010102-12 = "...E a maionese?"
-
-1010102-16 = "Ah! era! #nDesculpe! Vou trazê-lo imediatamente!"
-
-1010102-21 = "Desculpe! #nO cardápio ainda não chegou!"
-
-1010102-22 = "Desculpe! Espere mais um pouco!"
-
-1010102-27 = "[ns] (Parece que ele está ocupado, então não tenha pressa)"
-
-1010102-32 = "Ha, ha..."
-
-1010102-33 = "Bem-vindo. Isso está no cardápio..."
-
-1010102-37 = "Não é seu Sensei?"
-
-1010102-38 = "Obrigado por ter vindo até aqui."
-
-1010102-39 = "[s] \"Parece que você está muito ocupado.\""
-
-1010102-40 = "Não é que eu tenha muito trabalho a fazer, mas ainda estou me acostumando..."
-
-1010102-41 = "Mostrei minha imaturidade?"
-
-1010102-42 = "...Ah, o cardápio está aqui."
-
-1010102-43 = "Escolha o que você gosta."
-
-1010102-44 = "[s1] \"Há muitas coisas.\"\n[s2] \"O que você recomenda para Saori?\""
-
-1010102-47 = "Nesse caso..."
-
-1010102-51 = "Que tal fazer deste o item mais pedido do cardápio?"
-
-1010102-52 = "É o “arroz de omelete especial com atendimento sincero” listado aqui."
-
-1010102-53 = "……Sim?"
-
-1010102-54 = "O serviço Shinshin é um serviço que faz desenhos em omelete de arroz com ketchup."
-
-1010102-55 = "Mesmo se você fizer um desenho, ela desaparecerá se você comer, certo? Não entendo porque é preciso tanto esforço mesmo sendo #n..."
-
-1010102-59 = "[ns] \"Ok, vamos fazer isso!\""
-
-1010102-60 = "sim! ? #nA Senseia também vai pedir arroz com omelete?"
-
-1010102-61 = "... Entendo, eu entendo. #nNo entanto, não há garantia de que você conseguirá fazer desenhos fofos..."
-
-1010102-62 = "[s3] \"Na verdade, tudo bem!\"\n[s4] \"Se Saori desenha, é o suficiente!\""
-
-1010102-65 = "Eu-é isso mesmo...?"
-
-1010102-66 = "Entendi. Bem, então――"
-
-1010102-71 = "Ei! O que diabos isso significa? ?"
-
-1010102-75 = "Parece que algo aconteceu ali."
-
-1010102-76 = "[s] \"Eu preciso ir?\""
-
-1010102-77 = "...Estou curioso, mas acho que a ordem do Sensei vem primeiro."
-
-1010102-78 = "Aprendi etiqueta de atendimento ao cliente para que pudesse lidar com cada cliente à minha frente."
-
-1010102-83 = "Ligue imediatamente para o responsável!"
-
-1010102-84 = "……."
-
-1010102-85 = "[s] \"Eu ficarei bem.\""
-
-1010102-86 = "Desculpe, vou verificar você."
-
-1010102-90 = "[ns] Fico preocupado e sigo Saori."
-
-1010102-98 = "Ei! O que é isso! #nÉ diferente do cardápio!"
-
-1010102-99 = "Você está brincando comigo? ?"
-
-1010102-104 = "Você... acho que você pediu a comida agora há pouco..."
-
-1010102-105 = "Houve algum problema?"
-
-1010102-106 = "Por isso liguei para o balconista!"
-
-1010102-110 = "Dê uma olhada!"
-
-1010102-114 = "... Me desculpe, mas eu realmente não entendo. #nNão é só um arroz de omelete normal?"
-
-1010102-115 = "[s] (...isso também está meio comido)"
-
-1010102-116 = "O que você quer dizer com você mesmo fornece e não percebe?"
-
-1010102-117 = "Você disse que poderia fazer um desenho de um gato com ketchup!"
-
-1010102-121 = "No entanto, não importa como você olhe, é um coelho, não um gato!"
-
-1010102-122 = "[ns] \"É só uma piada!\""
-
-1010102-123 = "Porque me serviram algo diferente do que pedi..."
-
-1010102-124 = "Você não precisa pagar, certo?"
-
-1010102-128 = "O que...!"
-
-1010102-132 = "...Certamente, esta imagem pode não parecer a de um gato."
-
-1010102-133 = "A culpa foi minha por ter cometido um erro no pedido..."
-
-1010102-134 = "Então a comida aqui é de graça, certo?"
-
-1010102-135 = "[s] \"Saori, isso é――\""
-
-1010102-140 = "Depois vou redesenhar a imagem do gato até você ficar satisfeito!"
-
-1010102-145 = "……dentes?"
-
-1010102-146 = "Não é isso...!"
-
-1010102-147 = "Não se preocupe, fique atento!"
-
-1010102-148 = "Sempre carrego ketchup comigo caso isso aconteça!"
-
-1010102-152 = "Haaah!"
-
-1010102-153 = "Bem, espere...!"
-
-1010102-155 = "(...1 hora depois)"
-
-1010102-159 = "Este é o melhor desempenho de todos os tempos...! #nVocê está satisfeito com isso?"
-
-1010102-160 = "Não, não. Isto é o que eu quis dizer..."
-
-1010102-161 = "Mesmo isso não é bom...."
-
-1010102-162 = "Ok, vamos tentar novamente!"
-
-1010102-168 = "(...4 horas depois)"
-
-1010102-172 = "O que você acha? #nIsso parece um gato, certo?"
-
-1010102-173 = "Ah, eu entendo...!"
-
-1010102-174 = "Eu não acho que você esteja convencido..."
-
+1010102-1 = "食堂アルバイト"
+1010102-4 = "（サオリから連絡をもらい、海辺の食堂に向かった）"
+1010102-10 = "ご注文のお好み焼きだ。ごゆっくりどうぞ。"
+1010102-11 = "美味しそう！"
+1010102-12 = "……あれ、マヨネーズは？"
+1010102-16 = "あっ！そうだった！#nすまない！すぐ持ってくる！"
+1010102-21 = "すみませーん！#nまだメニュー来てないんですけどー！"
+1010102-22 = "すまない！もう少し待ってくれ！"
+1010102-27 = "[ns] （忙しそうだし、ゆっくり待とう）"
+1010102-32 = "はぁ、はぁ……。"
+1010102-33 = "いらっしゃいませ。こちらはメニューに……。"
+1010102-37 = "先生じゃないか。"
+1010102-38 = "わざわざ来てくれたのか、感謝する。"
+1010102-39 = "[s] \"すごく忙しそうだね。\""
+1010102-40 = "仕事の量が多いというより、まだ慣れなくてな……。"
+1010102-41 = "未熟な姿を見せてしまったか。"
+1010102-42 = "……あ、メニューならここにある。"
+1010102-43 = "好きなものを選んでくれ。"
+1010102-44 = "[s1] \"色々あるんだね。\"\n[s2] \"サオリのオススメは？\""
+1010102-47 = "それなら……。"
+1010102-51 = "この一番注文の多いメニューにするのはどうだ？"
+1010102-52 = "ここに載ってる、「真心サービス付きの特製オムライス」だな。"
+1010102-53 = "……うん？"
+1010102-54 = "真心サービスは、オムライスにケチャップで絵を描くサービスだ。"
+1010102-55 = "絵なんて描いたところで、食べたら消えてしまうだろう？#nなのに、どうしてこんな手間をかけるのか理解できないが……。"
+1010102-59 = "[ns] \"じゃあ、それにする！\""
+1010102-60 = "ん！？#n先生もオムライスを頼むのか？"
+1010102-61 = "……そうか、分かった。#nしかし、可愛い絵を描ける保証はないが……。"
+1010102-62 = "[s3] \"むしろ、それでいいんだよ！\"\n[s4] \"サオリが描いてくれたら、それだけで充分だよ！\""
+1010102-65 = "そ、そうなのか……？"
+1010102-66 = "分かった。では――"
+1010102-71 = "おい！これはいったい、どういうことだ！？"
+1010102-75 = "あっちのほうで何か起きたようだな。"
+1010102-76 = "[s] \"行かなくていいの？\""
+1010102-77 = "……気になるが、まずは先生の注文が先だろう。"
+1010102-78 = "目の前のお客様一人ひとりと向き合うよう、接客マナーを教わったからな。"
+1010102-83 = "さっさと責任者を呼べ！"
+1010102-84 = "……。"
+1010102-85 = "[s] \"私なら大丈夫だよ。\""
+1010102-86 = "すまない、様子を見てくる。"
+1010102-90 = "[ns] 心配になって、サオリについていく。"
+1010102-98 = "おい！なんだこれは！#nメニューと違うじゃねえか！"
+1010102-99 = "ふざけてんのか！？"
+1010102-104 = "あなたは……たしか、さっきの料理を注文した……"
+1010102-105 = "何か問題でもあったのか？"
+1010102-106 = "あるから店員を呼んだんだろ！"
+1010102-110 = "ちゃんと見てみろ！"
+1010102-114 = "……すまないが、よく分からない。#n普通のオムライスじゃないか？"
+1010102-115 = "[s] （……それも、食べかけの）"
+1010102-116 = "自分で提供しておいて、気付かねえってどういうことだ？"
+1010102-117 = "ケチャップで猫の絵を描いてくれるって話だっただろ！"
+1010102-121 = "なのに、どっからどう見ても猫じゃなくてウサギになってるじゃねーか！"
+1010102-122 = "[ns] \"ただの言いがかりでしょ！\""
+1010102-123 = "注文と違うもんが出されたんだから……。"
+1010102-124 = "代金は要らねえよな？"
+1010102-128 = "なっ……！"
+1010102-132 = "……確かに、この絵は猫に見えないかもしれない。"
+1010102-133 = "注文をミスした私が悪かった……。"
+1010102-134 = "そんじゃ、ここの飯代はタダってことでいいんだな？"
+1010102-135 = "[s] \"サオリ、それは――\""
+1010102-140 = "なら、お前が満足するまで猫の絵を描き直してやろう！"
+1010102-145 = "……は？"
+1010102-146 = "そういうわけじゃ……！"
+1010102-147 = "心配ない、期待していてくれ！"
+1010102-148 = "こういう事態に備えて、ケチャップなら持ち歩いている！"
+1010102-152 = "はぁぁっ！"
+1010102-153 = "ま、待ってくれ……！"
+1010102-155 = "（……1時間後）"
+1010102-159 = "過去一番の出来だ……！#nこれで満足してくれたか？"
+1010102-160 = "い、いや。こんなつもりじゃ……。"
+1010102-161 = "これでもダメとは……。"
+1010102-162 = "よし、もう一度やり直そう！"
+1010102-168 = "（……4時間後）"
+1010102-172 = "どうだ！#nこれなら猫に見えるだろう？"
+1010102-173 = "わ、分かったから……！"
+1010102-174 = "納得できてなさそうだが……。"
 1010102-178 = "よし、もう一度だ！"
-1010102-182 = "Além disso, pare já! #nA culpa foi minha!"
-
-1010102-183 = "Ou, se for dinheiro, eu pago! #nPor favor, me perdoe!"
-
-1010102-188 = "Ah, espere!"
-
-1010102-189 = "Acho que desenhei bem...!"
-
-1010102-193 = "...eu fui embora."
-
-1010102-194 = "Sensei... meu desenho foi tão ruim assim?"
-
-1010102-195 = "[s] \"...Não acho que seja um problema com a imagem.\""
-
-1010102-196 = "...?"
-
-1010102-197 = "Entendo...#nEntão o cliente não quis pagar, então adiantou?"
-
-1010102-198 = "Porém, as coisas não saíram como planejado, então ele pagou o dinheiro e foi embora."
-
-1010102-199 = "Obrigado, aprendi muito. #nVamos relembrar o que aconteceu hoje."
-
-1010102-200 = "...Além disso, tenho que praticar desenho com #n ketchup para não ser criticado da próxima vez."
-
+1010102-182 = "も、もうやめてくれぇ！#n私が悪かった！"
+1010102-183 = "か、金なら払う！#n許してくれっ！"
+1010102-188 = "ま、待ってくれ！"
+1010102-189 = "うまく描けたと思うんだが……！"
+1010102-193 = "……行ってしまった。"
+1010102-194 = "先生……私の絵は、そんなにダメだったのだろうか？"
+1010102-195 = "[s] \"……絵の問題じゃないと思うよ。\""
+1010102-196 = "……？"
+1010102-197 = "なるほど……#nつまり、あの客はお金を払いたくないがために、言いがかりをつけてきたと？"
+1010102-198 = "しかし、思い通りにならず、金を払って出ていったのか。"
+1010102-199 = "ありがとう、勉強になった。#n今日のことはしっかりと覚えておこう。"
+1010102-200 = "……それと、今度からは言いがかりをつけられないように、#nケチャップで絵を描く練習もしなくては。"

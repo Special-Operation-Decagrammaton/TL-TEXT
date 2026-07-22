@@ -1,119 +1,60 @@
 [translation]
-1012802-1 = "O que pode ser visto dos destroços"
-
-1012802-2 = "(No dia seguinte, quando terminei o trabalho e voltei para a placa de Petri...)"
-
-1012802-9 = "[ns] \"!?\""
-
-1012802-11 = "[ns] \"O quê!?\""
-
-1012802-13 = "Uau... o final é uma explosão..."
-
-1012802-14 = "É profundo. #nEle usou chamas e fumaça para transmitir algo que não poderia ser explicado em palavras?"
-
-1012802-15 = "Mas por que desta forma?"
-
-1012802-16 = "Arte performática... eu acho."
-
-1012802-18 = "[ns] \"Arte performática...?\""
-
-1012802-20 = "(Quando me aproximei do local...)"
-
-1012802-21 = "(Restos de TVs, monitores, rádios, câmeras, etc. quebrados foram espalhados.)"
-
-1012802-22 = "(E no centro...)"
-
-1012802-24 = "Ah, Senseia!"
-
-1012802-25 = "[s] \"Fuyu, isso é...?\""
-
-1012802-26 = "Oh, estes são os destroços?"
-
-1012802-27 = "Bom, grosso modo..."
-
-1012802-28 = "Um objeto estático, uma dança, uma música, um discurso..."
-
-1012802-29 = "Não pode ser definido com base em tais conceitos existentes."
-
-1012802-30 = "Você poderia chamar isso de luta artística para incorporar um mistério..."
-
-1012802-31 = "[s] \"...Sim?\""
-
-1012802-32 = "Bem... quero dizer, eu estava fazendo uma performance de arte midiática."
-
-1012802-33 = "[s] \"Entendo...!\""
-
-1012802-37 = "[ns] \"Então, sobre o passeio que você mencionou no Momotalk...\""
-
-1012802-38 = "Sim. Por esse motivo, recebi permissão para sair."
-
-1012802-39 = "...Claro, existem alguns pequenos planos."
-
-1012802-40 = "A arte que busco custa dinheiro."
-
-1012802-41 = "Dispositivos eletrônicos e ferramentas para modificá-los..."
-
-1012802-42 = "[s] \"É por isso que você está trabalhando como um departamento comercial especial.\""
-
-1012802-43 = "Você poderia dizer isso. #nEssa não é a única razão..."
-
-1012802-44 = "Mas é uma pena. #nNão acredito que você apareceu bem na hora em que a apresentação terminou."
-
-1012802-45 = "Esta apresentação foi planejada com muito coração e alma."
-
-1012802-46 = "O conteúdo é ――"
-
-1012802-47 = "Hehe, não é algo que eu possa explicar verbalmente."
-
-1012802-48 = "É uma performance para expressar algo que não pode ser expresso em palavras."
-
-1012802-49 = "Acho que é melhor ver com seus próprios olhos. #nSe eu explicar, ficaria menos interessante."
-
-1012802-50 = "[s] \"Entendo...\""
-
-1012802-51 = "Isso mesmo, por que você não tenta imaginar isso?"
-
-1012802-52 = "A posição e a forma de cada pedaço de entulho espalhado aqui, a reação do público após a apresentação #n――"
-
-1012802-53 = "Eu uso essas informações para imaginar meu desempenho."
-
-1012802-54 = "Talvez você descubra novas possibilidades artísticas."
-
-1012802-55 = "[s] \"Arte é difícil...\""
-
-1012802-56 = "Dito isto, sim. #nO melhor é..."
-
-1012802-57 = "Poderei assistir pessoalmente na primeira fila? n / D."
-
-1012802-58 = "Ou... o que você acha? #nQue tal se apresentar comigo?"
-
-1012802-59 = "[s] \"Da próxima vez, tentarei chegar na hora para a apresentação!\""
-
-1012802-60 = "mãe! Você veio!"
-
-1012802-61 = "Bem, tudo bem. O importante é..."
-
-1012802-62 = "Isso significa que podemos nos encontrar novamente."
-
-1012802-63 = "Bem, é isso por hoje!"
-
-1012802-64 = "Ainda tenho que limpar, então vá em frente, Sensei!"
-
-1012802-65 = "...O Sensei também vai me ajudar?"
-
-1012802-66 = "Por que se preocupar assim..."
-
-1012802-67 = "[s1] \"Enquanto limpava os destroços, quis tentar imaginar.\"\n[s2] \"O que o artista queria transmitir através desta performance.\""
-
-1012802-70 = "Sensei……."
-
-1012802-71 = "[s] \"Bem, não é como se eu fosse ajudá-lo!\""
-
-1012802-72 = "Puhah!"
-
-1012802-73 = "O que você quer dizer com agora mesmo... eu entendo."
-
-1012802-74 = "Obrigado, senhor."
-
-1012802-76 = "(Depois, Fuyu e eu limpamos a apresentação.)"
-
+1012802-1 = "残骸から見えるもの"
+1012802-2 = "（翌日、仕事を終えてシャーレに戻るころ――）"
+1012802-9 = "[ns] \"！？\""
+1012802-11 = "[ns] \"なにごと！？\""
+1012802-13 = "ほぉ……フィナーレは爆発で……。"
+1012802-14 = "奥が深い。#n言葉では説明できない「何か」を、炎と煙で伝えたのか……。"
+1012802-15 = "でもなぜ、こんな形で？"
+1012802-16 = "パフォーマンスアート……なんでしょうね。"
+1012802-18 = "[ns] \"パフォーマンスアート……？\""
+1012802-20 = "（現場に近づいてみると……）"
+1012802-21 = "（壊れたテレビやモニター、ラジオ、カメラなどの残骸が散らばっていた）"
+1012802-22 = "（そして、その中心には……）"
+1012802-24 = "あ、先生！"
+1012802-25 = "[s] \"フユ、これは……？\""
+1012802-26 = "あ、この残骸ですか？"
+1012802-27 = "そうですね、ざっくり言えば……。"
+1012802-28 = "静止したオブジェ、あるいはダンス、歌、スピーチ……。"
+1012802-29 = "そういった既存概念では規定できない――"
+1012802-30 = "秘儀を体現する際の芸術的苦悩……とでも言いましょうか。"
+1012802-31 = "[s] \"……うん？\""
+1012802-32 = "えっと……つまり、メディアアートのパフォーマンスをしていたんです。"
+1012802-33 = "[s] \"なるほど……！\""
+1012802-37 = "[ns] \"じゃあ、モモトークで言ってた外出って……。\""
+1012802-38 = "ええ。このために外出許可をいただきました。"
+1012802-39 = "……もちろん、ちょっとした[ruby=・   ・]副業[/ruby]の予定もありますが。"
+1012802-40 = "私が追求する芸術には、お金がかかりますからね。"
+1012802-41 = "電子機器や、それらを改造するための工具も……。"
+1012802-42 = "[s] \"だから特殊交易部の活動をしてるんだね。\""
+1012802-43 = "そうとも言えます。#n理由はそれだけではありませんが……。"
+1012802-44 = "しかし、残念です。#nちょうどパフォーマンスが終わった頃にいらっしゃるとは。"
+1012802-45 = "今回の公演は、かなり心血を注いで企画したものだったんですよ。"
+1012802-46 = "内容は――"
+1012802-47 = "ふふ、口で説明するものではないですね。"
+1012802-48 = "言語化できないものを表現するためのパフォーマンスですから。"
+1012802-49 = "目で見ていただくのが一番かと。#n説明しては、面白みにかけてしまいますので。"
+1012802-50 = "[s] \"なるほど……。\""
+1012802-51 = "そうだ、イメージしてみてはどうでしょう？"
+1012802-52 = "ここに散らばっている残骸一つひとつの位置や形状、#n公演後の観客の反応――"
+1012802-53 = "それらの情報から、私のパフォーマンスを想像するんです。"
+1012802-54 = "もしかしたら――新たな芸術の可能性を見出せるかもしれませんよ？"
+1012802-55 = "[s] \"芸術って難しいんだね……。\""
+1012802-56 = "とはいえ、そうですね。#nやはり一番は……。"
+1012802-57 = "最前列で、直接観ることでしょうか。ふふ。"
+1012802-58 = "それか――どうでしょう？#n私と一緒にパフォーマンスをしてみるというのは。"
+1012802-59 = "[s] \"次は公演時間に間に合うようにするね！\""
+1012802-60 = "はは！そうきましたか！"
+1012802-61 = "まあ、いいでしょう。大切なのは……。"
+1012802-62 = "またお会いできる、ということです。"
+1012802-63 = "では、今日はこの辺で！"
+1012802-64 = "私はまだ後片づけがありますので、先生はお先にどうぞ！"
+1012802-65 = "……先生も手伝ってくださるんですか？"
+1012802-66 = "わざわざそんな……。"
+1012802-67 = "[s1] \"残骸を片づけながら、想像してみたくてね。\"\n[s2] \"この公演で、作家が伝えたかったことを。\""
+1012802-70 = "先生……。"
+1012802-71 = "[s] \"べ、別に手伝うわけじゃないんだからねっ！\""
+1012802-72 = "ぷはっ！"
+1012802-73 = "なんですか、今の……わかりました。"
+1012802-74 = "ありがとうございます、先生。"
+1012802-76 = "（その後、フユと一緒にパフォーマンスの後片づけをした）"

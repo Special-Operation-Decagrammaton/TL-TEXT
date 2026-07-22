@@ -1,139 +1,70 @@
 [translation]
-1013402-1 = "Treinamento corajoso"
-
-1013402-2 = "Pampakapaan!"
-
-1013402-3 = "Alice tem equipamentos novos!"
-
-1013402-7 = "Agora que tudo está completo..."
-
-1013402-8 = "Alice colecionou armas lendárias e se tornou uma verdadeira heroína!"
-
-1013402-9 = "[s1] \"Oh, parabéns!\"\n[s2] \"Este é o mais forte!\""
-
-1013402-13 = "Não, ainda não... Alice tinha esquecido."
-
-1013402-14 = "Quanto à armadura... apenas equipá-la não faz sentido!"
-
-1013402-15 = "Para revelar seu verdadeiro potencial, Alice deve melhorar seu nível de habilidade!"
-
-1013402-16 = "[s3] \"Abi Yeshuf é uma arma altamente móvel.\"\n[s4] \"É difícil dominá-la.\""
-
-1013402-19 = "Isso mesmo..."
-
-1013402-20 = "A versão atual de Alice é como uma rolagem horizontal transformada em 3D..."
-
-1013402-21 = "Você não pode lutar sem saber a direita da esquerda!"
-
-1013402-22 = "Ou seja, para superar esse desafio, você precisa treinar como herói!"
-
-1013402-23 = "O sábio já me ensinou como usar armadura!"
-
-1013402-24 = "Tudo o que você precisa fazer é continuar praticando até dominá-lo!"
-
-1013402-25 = "Mas esse treino é muito difícil... #nÉ como jogar um jogo de plataforma com um joystick tendencioso!"
-
-1013402-26 = "Então agora é a vez do Sensei!"
-
-1013402-27 = "[s5] \"Entendido! Deixe o suporte comigo!\"\n[s6] \"O que devo fazer?\""
-
-1013402-30 = "Senseies, por favor, fiquem ao lado de Alice e apoiem-na!"
-
-1013402-34 = "[ns7] \"...Suporte?\"\n[ns8] \"...Só isso?\""
-
-1013402-37 = "sim!"
-
-1013402-38 = "O Sensei é um mascote, então tê-lo ao seu lado vai te animar!"
-
-1013402-39 = "Não importa o quão difícil seja o treinamento... se #n sensei estiver no seu grupo, você poderá manter o moral no máximo!"
-
-1013402-40 = "...O que está errado?"
-
-1013402-41 = "Sensei, você parece um cachorrinho triste."
-
-1013402-42 = "Huh? Não é nada, certo?"
-
-1013402-43 = "...?"
-
-1013402-44 = "Enfim, é o início do treinamento do herói!"
-
-1013402-46 = "(Assim começou o treinamento de Alice...!)"
-
-1013402-49 = "Se você fizer isso aqui..."
-
-1013402-53 = "Ah, foi o contrário! Em momentos como este, compense o impulso com um reforço..."
-
-1013402-57 = "Lá! ? Este foi um reforço lateral!"
-
-1013402-58 = "Uau! Começou a girar!"
-
-1013402-60 = "(Houve vários incidentes, mas o treinamento continuou sem maiores problemas.)"
-
-1013402-63 = "Suspiro…suspiro…."
-
-1013402-64 = "Agora vire um pouco mais para a direita..."
-
-1013402-68 = "(--Um tempo considerável se passou antes que eu percebesse.)"
-
-1013402-69 = "(Alice parecia ainda estar planejando continuar seu treinamento como heroína.)"
-
-1013402-74 = "...Oh!"
-
-1013402-79 = "Eu estava indo bem até agora..."
-
-1013402-80 = "Por alguma razão eu continuo falhando!"
-
-1013402-81 = "[s9] \"Por que você não faz uma pausa?\"\n[s10] \"Acho que você está ficando cansado.\""
-
-1013402-84 = "não! tudo bem!"
-
-1013402-85 = "Alice ainda está cheia de energia!"
-
-1013402-86 = "E Alice, já joguei muitos jogos parecidos!"
-
-1013402-91 = "Por favor, assista... assim!"
-
-1013402-92 = "Ah!"
-
-1013402-97 = "[ns11] \"Você está bem!?\"\n[ns12] Corra até Alice."
-
-1013402-101 = "Sensei……."
-
-1013402-102 = "Eu apenas torci um pouco, então está tudo bem--"
-
-1013402-103 = "Aí estava."
-
-1013402-107 = "Afinal, eu deveria ter ouvido o Sensei."
-
-1013402-108 = "Gerenciar o nível de fadiga é a base da simulação de treinamento!"
-
-1013402-109 = "Se você continuar treinando assim, ocorrerá um evento de queda de status!"
-
-1013402-110 = "Até jogadores veteranos como Alice cometem erros como esse de vez em quando..."
-
-1013402-111 = "……."
-
-1013402-114 = "[ns] \"...Vamos para casa hoje.\""
-
-1013402-117 = "Sensei……?"
-
-1013402-118 = "Por que você coloca os joelhos no chão...?"
-
-1013402-119 = "[s13] \"Vou te dar carona nas costas.\"\n[s14] \"Você não consegue se mover com essas pernas, não é?\""
-
-1013402-122 = "Huh? Mas com este equipamento, eu poderia voar para casa..."
-
-1013402-123 = "[s15] \"Está tudo bem, está tudo bem!\"\n[s16] \"Não em momentos como este!\""
-
-1013402-126 = "Ah... então..."
-
-1013402-130 = "Ehehe."
-
-1013402-131 = "Alice, quero que minha Senseia me dê carona todos os dias."
-
-1013402-132 = "(Eu senti a temperatura do corpo de Alice pelas costas. Provavelmente porque ela estava voando no ar frio por muito tempo.)"
-
-1013402-134 = "(A armadura de Alice é mais pesada do que eu esperava...)"
-
-1013402-141 = "(pensei que ia machucar minhas costas)"
-
+1013402-1 = "勇者修行"
+1013402-2 = "パンパカパーン！"
+1013402-3 = "アリスは新装備を手に入れました！"
+1013402-7 = "これで[ruby=勇者の武器]光の剣：スーパーノヴァ[/ruby]と[ruby=勇者のアーマー]アビ・エシュフ[/ruby]が揃ったので――"
+1013402-8 = "伝説の武具を集めたアリスは、真の勇者になったのです！"
+1013402-9 = "[s1] \"おお、おめでとう！\"\n[s2] \"これで最強だね！\""
+1013402-13 = "いいえ、まだ違います……アリスは忘れていたのです。"
+1013402-14 = "防具は……ただ装備するだけでは意味がないのだということを！"
+1013402-15 = "本来の性能を引き出すためには、アリスの熟練度を上げなければいけません！"
+1013402-16 = "[s3] \"アビ・エシュフは高機動兵器だもんね。\"\n[s4] \"使いこなすのは大変だよね。\""
+1013402-19 = "そうなんです……。"
+1013402-20 = "今のアリスは、横スクロールが3Dに変わったようなもの……。"
+1013402-21 = "右も左も分からない状態では戦えません！"
+1013402-22 = "つまりこの試練を乗り越えるには、勇者修行が必要です！"
+1013402-23 = "アーマーの使い方はすでに賢者から教わっています！"
+1013402-24 = "あとはマスターするまで修行を繰り返すのみ！"
+1013402-25 = "でもこの修行はとても難しいです……#n偏ったジョイスティックでプラットフォームゲームをしているみたいです！"
+1013402-26 = "なので、ここからは先生の出番です！"
+1013402-27 = "[s5] \"了解！サポートは任せて！\"\n[s6] \"何をしたらいい？\""
+1013402-30 = "先生は、隣でアリスを応援していてください！"
+1013402-34 = "[ns7] \"……応援？\"\n[ns8] \"……それだけ？\""
+1013402-37 = "はい！"
+1013402-38 = "先生はマスコットなので、隣にいてくれたら元気が出ます！"
+1013402-39 = "どんなに辛い修行でも……#n先生がパーティーにいれば、士気をMAXで保つことができるんです！"
+1013402-40 = "……どうかしましたか？"
+1013402-41 = "先生、悲しそうな子犬みたいな顔をしています。"
+1013402-42 = "えっ？なんでもない、ですか？"
+1013402-43 = "……？"
+1013402-44 = "とにかく、勇者修行のスタートです！"
+1013402-46 = "（こうしてアリスの修行が始まった……！）"
+1013402-49 = "ここでこうすれば……。"
+1013402-53 = "あっ、逆でした！こういう時はブースターで勢いを相殺して――"
+1013402-57 = "あれっ！？こっちは側面ブースターでした！"
+1013402-58 = "うわぁーん！ぐるぐる回り始めました！"
+1013402-60 = "（いろんなハプニングがあったけど、大きなトラブルもなく修行は続き――）"
+1013402-63 = "はぁ……はぁ……。"
+1013402-64 = "ここで、もう少し右に回って……。"
+1013402-68 = "（――気づけばかなりの時間が過ぎていた）"
+1013402-69 = "（アリスはまだ勇者修行を続けるつもりみたいだった）"
+1013402-74 = "……あうっ！"
+1013402-79 = "さっきまでは上手にできていたのに……。"
+1013402-80 = "なぜか何度も失敗してしまいます！"
+1013402-81 = "[s9] \"少し休憩しない？\"\n[s10] \"そろそろ疲れてきたんじゃないかな。\""
+1013402-84 = "いいえ！大丈夫です！"
+1013402-85 = "アリスはまだ元気いっぱいです！"
+1013402-86 = "それにアリス、似たようなゲームならたくさんプレイしてきました！"
+1013402-91 = "見ていてください……こういう風に――っ！"
+1013402-92 = "あっ！"
+1013402-97 = "[ns11] \"大丈夫！？\"\n[ns12] アリスに駆け寄る。"
+1013402-101 = "先生……。"
+1013402-102 = "ちょっとひねっただけなので、大丈夫で――"
+1013402-103 = "いたっ。"
+1013402-107 = "やっぱり先生の言うことを聞くべきでしたね。"
+1013402-108 = "疲労度の管理は育成シミュレーションの基本です！"
+1013402-109 = "このまま修行を進めたら、ステータスダウンのイベントが発生してしまいます！"
+1013402-110 = "アリスのようなベテランプレイヤーだって、たまにはこんなミスを犯してしまうものです……。"
+1013402-111 = "……。"
+1013402-114 = "[ns] \"……今日はもう帰ろっか。\""
+1013402-117 = "先生……？"
+1013402-118 = "どうして膝を地面に……？"
+1013402-119 = "[s13] \"おんぶしてあげる。\"\n[s14] \"その足じゃ動けないでしょ？\""
+1013402-122 = "えっ？でもこの装備なら飛んで帰れば……。"
+1013402-123 = "[s15] \"いいからいいから！\"\n[s16] \"こんな時くらいはさ！\""
+1013402-126 = "あっ……じゃあ……。"
+1013402-130 = "えへへ。"
+1013402-131 = "アリス、先生に毎日おんぶしてもらいたいです。"
+1013402-132 = "（背中越しに感じるアリスの体温は少し冷たかった。#nずっと寒空の下を飛び回っていたからだろうか）"
+1013402-134 = "（アリスのアーマーは想像以上に重たくて……）"
+1013402-141 = "（腰を痛めてしまうかと思った）"
