@@ -1,66 +1,5 @@
 [translation]#["LocalizeExcel.toml" = UI Do Jogo.]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #[ /// ]
 
 3728269709 = "Cancelar (01)"
@@ -179,6 +118,106 @@
 1017767415 = "Confirmar (37)"
 3205108257 = "Confirmar (38)"
 
+1415541847 = "{0} (01)"
+3062406666 = "{0} (02)"
+681285195  = "{0} (03)"
+492520764  = "{0} (04)"
+174647449  = "{0} (05)"
+2116089055 = "{0} (06)"
+673496368  = "{0} (07)"
+1969358785 = "{0} (08)"
+1568324894 = "{0} (09)"
+3701659268 = "{0} (10)"
+3138813423 = "{0} (11)"
+1329419771 = "{0} (12)"
+1419630210 = "{0} (13)"
+1381109457 = "{0} (14)"
+1701250179 = "{0} (15)"
+2957591309 = "{0} (16)"
+3307853989 = "{0} (17)"
+824866768  = "{0} (18)"
+4032768664 = "{0} (19)"
+
+2326608081 = "{0}/{0} (1)"
+1454577107 = "{0}/{0} (2)"
+3809186525 = "{0}/{0} (3)"
+2906805336 = "{0}/{0} (4)"
+
+1805487308 = "{0}/{1} (1)"
+1291538932 = "{0}/{1} (2)"
+1994515425 = "{0}/{1} (3)"
+290145421  = "{0}/{1} (4)"
+
+#[ *** ][Informações relacionadas das Missões:]
+#[ +++ ][Identificador:]
+2092162631 = "1ª Missão"
+1671947505 = "2ª Missão"
+4179504745 = "3ª Missão"
+85183953 = "4ª Missão"
+3719758958 = "5ª Missão"
+3697283785 = "6ª Missão"
+4253627430 = "7ª Missão"
+2617069711 = "8ª Missão"
+677756580 = "9ª Missão"
+4199247612 = "10ª Missão"
+636236958 = "11ª Missão"
+2491481229 = "12ª Missão"
+2153024276 = "13ª Missão"
+1588118427 = "14ª Missão"
+3756945923 = "15ª Missão"
+3763132287 = "16ª Missão"
+2395717541 = "17ª Missão"
+317824126 = "18ª Missão"
+2278224440 = "19ª Missão"
+2789952705 = "20ª Missão"
+2468319706 = "21ª Missão"
+2751155115 = "22ª Missão"
+2666677705 = "23ª Missão"
+3925995490 = "24ª Missão"
+2441691630 = "25ª Missão"
+3288784059 = "26ª Missão"
+3493121888 = "27ª Missão"
+1653653446 = "28ª Missão"
+272737964 = "29ª Missão"
+961292126 = "30ª Missão"
+
+#[ +++ ][HashTags:]
+1157634580 = "#CaminhoDeCasa #CentroDaCidade #Gourmet #PequenaFelicidade"
+3449049327 = "#PasseioNoParque #Corrida #FugindoDaRotina #Descanso"
+235360828 = "#MercadoNegro#QuestõesDeAdulto#ViaExpressa"
+3669095722 = "#ParqueNaBeiraDoRio #Deserto #CaixaDeAreia"
+3401925432 = "#Estação #Trem #Ruínas #CaçaAoTesouro"
+3159211317 = "#RuínasDeAreia #MontanhaNevada #GuerraDeBolasDeNeve #Escalada"
+557107362 = "#VidaEscolar #TremLotado #Baldeação #JáQueroVoltarPraCasa"
+2814426372 = "#Fábrica #Trabalho #ExperiênciaPrática #NãoOdeioEsseCheiro"
+369102891 = "#MercadoTradicional #Arcade #ParqueDoBairro #Descanso"
+1620185232 = "#ÁreaRestrita #Ruínas #TesteDeCoragem"
+3555776623 = "#Viaduto #Trânsito #Doces #Café"
+686842859 = "#TremUrbano #LinhaT #Esgoto #MuitoÚmido"
+632500409 = "#ParqueDeDiversões #Slumpia #Fechado"
+28110490 = "#EscolaAbandonada #MeioAssustador #LendasEscolares"
+3088205192 = "#CidadeNoInverno#PaisagemNevada#CuidadoOndePisa"
+3947213977 = "#DesertoSemFim #Oásis #PMC #CuidadoComABagagem"
+2151487053 = "#Cruzeiro #Luxo #ExperiênciaPremium #VistaNoturna"
+1926371987 = "#Periferia#MontanhaDeSucata#CheioDePoeira"
+3875144964 = "#MontanhaNevada#Trem#Lembranças"
+656674326 = "#CentroEsportivo#AssistirAoJogo#VistaDaCidade"
+3835824460 = "#Arius #vanitas #vanitatum"
+740958313 = "#Resort #LocalDeDescanso #ViagemComoRotina"
+1599873852 = "#Mansão #CorredorInfinito #Antiguidades"
+3372203360 = "#RuínasAntigas #IlhaDeserta #Limão"
+1838011376 = "#Sakura #RuaDoFestival #Lanternas"
+4188109367 = "#Oração #Descanso #PazInterior"
+1722266813 = "#ViagemDeTrem #ReservaObrigatória #Pontualidade"
+3773981422 = "#ObraDeMestre #CuidadoPraNãoComprarDemais #Tradição"
+1066934741 = "#EstaçãoDeCarga #Logística #SegurançaEmPrimeiroLugar"
+1031455859 = "#Cidade #Arte #Cultura #Praça"
+
+#[ *** ][Mensagens Especiais:]
+#[ +++ ][Outros:]
+254477393 = "Deseja sair do BlueArchive ?"
+1175249828 = "O limite do inventário foi atingido.\nOs itens obtidos serão enviados para a caixa de correio.\nPor favor, verifique a sua caixa de correio."
+
 #[ /// ]
 
 2476910193 = "他の家具と重なっている家具があります。位置を調整してから、もう一度配置をしてください。"
@@ -212,7 +251,7 @@
 128088292 = "{0}位以下"
 3167873626 = "{0}～{1}位"
 484657544 = "{0}位"
-2326608081 = "{0}/{0}"
+
 3093039303 = "該当する助っ人の生徒が見つかりませんでした。"
 184950217 = "同名の生徒は編成することができません。"
 192616712 = "助っ人の生徒の詳細情報は確認することができません。"
@@ -244,66 +283,7 @@
 248762049 = "月にあと{0}回まで購入可能"
 2090143259 = "{0}日後に購入可能になります"
 1592337495 = "週にあと{0}回まで購入可能"
-2092162631 = "1ª Missão"
-1671947505 = "2ª Missão"
-4179504745 = "3ª Missão"
-85183953 = "4ª Missão"
-3719758958 = "5ª Missão"
-3697283785 = "6ª Missão"
-4253627430 = "7ª Missão"
-2617069711 = "8ª Missão"
-677756580 = "9ª Missão"
-4199247612 = "10ª Missão"
-636236958 = "11ª Missão"
-2491481229 = "12ª Missão"
-2153024276 = "13ª Missão"
-1588118427 = "14ª Missão"
-3756945923 = "15ª Missão"
-3763132287 = "16ª Missão"
-2395717541 = "17ª Missão"
-317824126 = "18ª Missão"
-2278224440 = "19ª Missão"
-2789952705 = "20ª Missão"
-2468319706 = "21ª Missão"
-2751155115 = "22ª Missão"
-2666677705 = "23ª Missão"
-3925995490 = "24ª Missão"
-2441691630 = "25ª Missão"
-3288784059 = "26ª Missão"
-3493121888 = "27ª Missão"
-1653653446 = "28ª Missão"
-272737964 = "29ª Missão"
-961292126 = "30ª Missão"
-1157634580 = "#CaminhoDeCasa #CentroDaCidade #Gourmet #PequenaFelicidade"
-3449049327 = "#PasseioNoParque #Corrida #FugindoDaRotina #Descanso"
-235360828 = "#MercadoNegro#QuestõesDeAdulto#ViaExpressa"
-3669095722 = "#ParqueNaBeiraDoRio #Deserto #CaixaDeAreia"
-3401925432 = "#Estação #Trem #Ruínas #CaçaAoTesouro"
-3159211317 = "#RuínasDeAreia #MontanhaNevada #GuerraDeBolasDeNeve #Escalada"
-557107362 = "#VidaEscolar #TremLotado #Baldeação #JáQueroVoltarPraCasa"
-2814426372 = "#Fábrica #Trabalho #ExperiênciaPrática #NãoOdeioEsseCheiro"
-369102891 = "#MercadoTradicional #Arcade #ParqueDoBairro #Descanso"
-1620185232 = "#ÁreaRestrita #Ruínas #TesteDeCoragem"
-3555776623 = "#Viaduto #Trânsito #Doces #Café"
-686842859 = "#TremUrbano #LinhaT #Esgoto #MuitoÚmido"
-632500409 = "#ParqueDeDiversões #Slumpia #Fechado"
-28110490 = "#EscolaAbandonada #MeioAssustador #LendasEscolares"
-3088205192 = "#CidadeNoInverno#PaisagemNevada#CuidadoOndePisa"
-3947213977 = "#DesertoSemFim #Oásis #PMC #CuidadoComABagagem"
-2151487053 = "#Cruzeiro #Luxo #ExperiênciaPremium #VistaNoturna"
-1926371987 = "#Periferia#MontanhaDeSucata#CheioDePoeira"
-3875144964 = "#MontanhaNevada#Trem#Lembranças"
-656674326 = "#CentroEsportivo#AssistirAoJogo#VistaDaCidade"
-3835824460 = "#Arius #vanitas #vanitatum"
-740958313 = "#Resort #LocalDeDescanso #ViagemComoRotina"
-1599873852 = "#Mansão #CorredorInfinito #Antiguidades"
-3372203360 = "#RuínasAntigas #IlhaDeserta #Limão"
-1838011376 = "#Sakura #RuaDoFestival #Lanternas"
-4188109367 = "#Oração #Descanso #PazInterior"
-1722266813 = "#ViagemDeTrem #ReservaObrigatória #Pontualidade"
-3773981422 = "#ObraDeMestre #CuidadoPraNãoComprarDemais #Tradição"
-1066934741 = "#EstaçãoDeCarga #Logística #SegurançaEmPrimeiroLugar"
-1031455859 = "#Cidade #Arte #Cultura #Praça"
+
 2230649825 = "{0}編"
 3938406419 = "プレイ中の戦闘があります。\n「指名手配」を続けてプレイしますか？"
 2885475250 = "スキップしますか？"
@@ -1415,7 +1395,7 @@
 164698191 = "購入してよろしいですか？"
 1603773826 = "購入に失敗しました。"
 3701993915 = "購入しました。"
-254477393 = "Deseja sair do BlueArchive ?"
+
 1809844274 = "まだ編成できる生徒がいます。このまま入場しますか？"
 
 1753177602 = "ネットワークアクセスに問題が生じました。\nConfirmarボタンをタップすると、タイトルに戻ります。"
@@ -1424,7 +1404,7 @@
 2184044937 = "マイセット「{0}」に現在の配置情報を保存します。\nよろしいですか？"
 3660557931 = "{0}\n{1}章{2}話に移動しますか？"
 839207536 = "神名文字を使用して、生徒を受け入れますか？"
-1175249828 = "保有数が限界のため、獲得したアイテムをメールボックスへお送りします。\nメールボックスをご確認ください。"
+
 2557190543 = "保有数が限界のため、パッケージ商品のデイリー報酬をメールボックスへお送りします。メールボックスをご確認ください。"
 3249779901 = "メールボックスをご確認ください。"
 3648749156 = "予期せぬエラーが発生したため、サービスに接続できません。\nタイトルに戻ります。\n{0}"
@@ -1463,7 +1443,7 @@
 3412195297 = "上位{1}%以内"
 2940302882 = "シーズン総合ランキングPt：\n{0:#,###}"
 369045557 = "{0}位"
-1415541847 = "{0}"
+
 1205256794 = "シーズン準備中です。"
 3920080884 = "デカグラマトンは、自身を神聖な求道者と主張する人工知能システムです。現在、その信奉者である10人の預言者がキヴォトスの随所に出没しています。\n\nビナーはデカグラマトンの3番目の預言者であり、アビドスの砂漠地帯にて初めて観測されました。ビナーがなぜここに出現したのかは分かりませんが、このままにしておくには危険すぎる存在であることは間違いありません。"
 3639039230 = "デカグラマトンは、自身を神聖な求道者と主張する人工知能システムです。現在、その信奉者である10人の預言者がキヴォトスの随所に出没しています。\n\nケセドはデカグラマトンの4番目の預言者であり、ミレニアム郊外にある軍需工場の生産システムを掌握していることが確認されました。ケセドがこのまま兵力の無限生産に成功してしまった場合、キヴォトスは未曾有の厄災に見舞われることになるでしょう。"
@@ -3517,7 +3497,7 @@
 3298120850 = "大規模\n{0}除去完了"
 3213186456 = "{0}{2}大規模{1}警告"
 1396324915 = "{0}まで{1}:{2}:{3}"
-1805487308 = "{0}/{1}"
+
 3865973098 = " +{0}"
 2263458765 = "{0}中は部隊変更ができません。"
 3500703427 = "{0}精算報酬ペナルティ"
@@ -3726,7 +3706,7 @@
 791707449 = "SKIP"
 445017317 = "New"
 501960204 = "{0}まで"
-3062406666 = "{0}"
+
 
 
 
@@ -3963,7 +3943,7 @@
 
 4082901974 = "快適度"
 2790264483 = "拠点レベル"
-681285195 = "{0}"
+
 117495347 = "保有数"
 
 2765808064 = "デフォルト"
@@ -5160,7 +5140,7 @@
 1691251286 = "イベントPtを消費してオブジェクトにエンカウントできます\nエンカウント中、隠された地域を見つけられるかも？"
 2406538518 = "設定しているダイスでエンカウントが行われます。"
 153535867 = "オブジェクトとのエンカウントを通じてプレイに役立つ\nダイスとアイテムを獲得できます。"
-1291538932 = "{0}/{1}"
+
 983758855 = "{0}周目"
 3373672741 = "+{0}"
 860275239 = "攻撃が当たった！\n敵に{0}のダメージを与えた！"
@@ -5825,22 +5805,22 @@
 3157542077 = "ブロックリストの人数が最大に達したため、ブロックを設定できません"
 3860958997 = "当該ユーザーのブロックを解除します"
 2573735491 = "ユーザー情報を確認できません"
-492520764 = "{0}"
+
 4173774648 = "～{0}"
 123457797 = "{0}～{1}"
-174647449 = "{0}"
+
 2148295532 = "～{0}"
 3534610244 = "{0}～{1}"
-2116089055 = "{0}"
+
 2284478837 = "～{0}"
-673496368 = "{0}"
+
 2319908267 = "～{0}"
 920011819 = "{0}～{1}"
 530957896 = "{0}～{1}"
 1042879424 = "{0}番"
-1969358785 = "{0}"
+
 1522065113 = "{0}番"
-1568324894 = "{0}"
+
 3910344074 = "の数"
 3654411618 = "イベントステージをプレイして、ウォーターパークのリストバンド、安全ホイッスル、救命浮き輪を獲得しましょう！"
 2262350499 = "ボーナス効果のある生徒を編成してイベントステージをクリアすると、イベントアイテムをより多く獲得できます！"
@@ -6820,7 +6800,7 @@
 75785571 = "カードデルダーク獲得"
 3799518954 = "カードマッチ"
 1071032228 = "残り回数"
-3701659268 = "{0}"
+
 1184313293 = "{0}周目"
 1693081095 = "残りのカード"
 1272865947 = "カードをめくる"
@@ -7651,7 +7631,7 @@
 1100720030 = "報酬"
 1455577975 = "シーズン最高記録達成！"
 1298770038 = "消費する青輝石"
-3138813423 = "{0}"
+
 767050955 = "戦術対抗戦チケット"
 2947329399 = "アラート"
 4264878491 = "戦術対抗戦"
@@ -7659,13 +7639,13 @@
 1426056983 = "{0}：{0}"
 1729957183 = "デイリー報酬"
 1362756013 = "{0}：{0}"
-1454577107 = "{0}/{0}"
+
 2642562936 = "保有チケット"
-3809186525 = "{0}/{0}"
-1329419771 = "{0}"
+
+
 419177587 = "Lv."
 3318434274 = "報酬受取"
-2906805336 = "{0}/{0}"
+
 1744863393 = "獲得量"
 4094648879 = "時間報酬"
 4106808149 = "{0}位"
@@ -9084,14 +9064,14 @@
 2633709983 = "{0}リスト"
 1654304842 = "味方拠点"
 1048245124 = "{1}{0}"
-1994515425 = "{0}/{1}"
+
 1977267567 = "部隊変更"
 2678948811 = "移動する"
 178864172 = "現在{0}可能な拠点がありません。"
-1419630210 = "{0}"
+
 4048192284 = "占領"
 2607454280 = "獲得"
-1381109457 = "{0}"
+
 976592036 = "再戦闘"
 1200405487 = "{0}情報"
 1128062640 = "拠点{0}"
@@ -9108,7 +9088,7 @@
 3207590122 = "拠点Lv.3達成"
 1926171963 = "精算報酬獲得{0}"
 3654625229 = "学園編成効果"
-1701250179 = "{0}"
+
 3674335901 = "占領"
 405798397 = "なし"
 1617290631 = "精算獲得報酬"
@@ -9123,7 +9103,7 @@
 199644094 = "侵食を除去すると{0}が可能です。"
 470481938 = "拠点{0}"
 1273583458 = "進行中の拠点"
-2957591309 = "{0}"
+
 2596581352 = "拠点{0}"
 1859741165 = "獲得期待報酬"
 1791633786 = "{0}回数"
@@ -9235,7 +9215,7 @@
 2864972154 = "部隊上書き"
 3692123643 = "コピーした部隊で上書きします。"
 47130189 = "{0}部隊"
-3307853989 = "{0}"
+
 1387938530 = "インポート"
 3699194090 = "編成画面に配置された生徒情報を呼び出します。"
 3342825579 = "履歴"
@@ -9794,7 +9774,7 @@
 100584747 = "刹那貫く光明のスキル追加"
 975352510 = "終了まであと{0}日"
 2082128327 = "終了まであと{0}時間"
-824866768 = "{0}"
+
 1340834459 = "-"
 633687503 = "プレイTIPS"
 3305829561 = "HP"
@@ -10054,7 +10034,7 @@
 3056442711 = "成長CH解放"
 33307141 = "ミッション"
 2189581123 = "一括受取"
-290145421 = "{0}/{1}"
+
 2985457478 = "MAX"
 2254323493 = "今週の獲得制限"
 3307077377 = "ミッション"
@@ -10343,7 +10323,7 @@
 24265787 = "生徒を選んでください。"
 948324918 = "※選んだ生徒はいつでも変更できます。"
 3814483194 = "※生徒を選ぶと、パッケージの内容に好みの贈り物が追加されます。"
-4032768664 = "{0}"
+
 1323783224 = "生徒を変更すると、商品内容も変更されます。"
 950075562 = "絆ランク{0}"
 2324666329 = "好みの贈り物"
@@ -20438,30 +20418,30 @@
 
 #[ +++ ][Títulos dos Episódios:]
 #[ --- ][Capítulo 1:]
-2479362182 = "Kune, Kune, Kune"						
-1142156609 = "Entre a Super-Humana e a Raposa"		
+2479362182 = "Kune, Kune, Kune"
+1142156609 = "Entre a Super-Humana e a Raposa"
 2539227748 = "O Esquadrão Só Marcha de Barriga Cheia"
-3119530007 = "A Nova Base de Operações"				
-3738848167 = "Coleta de Informações"				
-2395262420 = "Verdades e Mentiras"					
-3633488086 = "O Vulto que Corre na Rodovia"			
-2193613907 = "Do Outro Lado da Miragem"				
-2982681504 = "A Pista"								
-944924438 = "Rumo à Escuridão"						
-3612956267 = "Inexplicável"							
+3119530007 = "A Nova Base de Operações"
+3738848167 = "Coleta de Informações"
+2395262420 = "Verdades e Mentiras"
+3633488086 = "O Vulto que Corre na Rodovia"
+2193613907 = "Do Outro Lado da Miragem"
+2982681504 = "A Pista"
+944924438 = "Rumo à Escuridão"
+3612956267 = "Inexplicável"
 
 #[ --- ][Capítulo 2:]
 481098356 = "Deixarei Este Rancor Sem Vingança?"
 241503984 = "Salsicha de Peixe Sabor Caranguejo"
-3621900012 = "O Caranguejo e o Tambor"			
-207879819 = "O Povo do Porto (1)"				
-1760115606 = "Registros de uma Anomalia"		
-2709535559 = "O Povo do Porto (2)"				
-452121726 = "Edital de Licitação Periódica"		
-790356928 = "O Segredo da Família Carpaccio"	
-3712751168 = "Interrogatório Padrão SRT"		
-3300740849 = "O Valor Que Não Muda"				
-3644980020 = "Epílogo"							
+3621900012 = "O Caranguejo e o Tambor"
+207879819 = "O Povo do Porto (1)"
+1760115606 = "Registros de uma Anomalia"
+2709535559 = "O Povo do Porto (2)"
+452121726 = "Edital de Licitação Periódica"
+790356928 = "O Segredo da Família Carpaccio"
+3712751168 = "Interrogatório Padrão SRT"
+3300740849 = "O Valor Que Não Muda"
+3644980020 = "Epílogo"
 
 #[ +++ ][Resumos dos episódios e seus títulos:]
 #[ --- ][Capítulo 1:]
@@ -20659,7 +20639,7 @@
 553377359 = "Loja"
 1587939129 = "Recrutamento"
 824687553 = "Lista de Eventos"
-667351533 = "	\n\rCampanha"
+667351533 = "\n\rCampanha"
 
 #[ +++ ][Tela de campanha:]
 500702505 = "História"
@@ -20676,7 +20656,6 @@
 
 523834210 = "Histórias de afeto"
 2684229509 = "Você pode reler as histórias de afeto com as alunas."
-
 1027468932 = "Histórias de campanha"
 3903542037 = "Você pode reler as histórias da campanha."
 
@@ -20726,17 +20705,17 @@
 
 #[ === ]
 2286901358 = "Tipo de Arma"
-1767061585 = "Escopeta"          #"SG"	# (Shotgun)
-2469520897 = "Submetralhadora"   #"SMG"	# (Submachine Gun)
-3583131707 = "Fuzil de Assalto"  #"AR"	# (Assault Rifle)
-1213006763 = "Lança-Granadas"    #"GL"	# (Grenade Launcher)
-475125119 = "Pistola"            #"HG"	# (Handgun)
-2102685026 = "Lança-Foguetes"    #"RL"	# (Rocket Launcher)
-1385145596 = "Fuzil de Precisão" #"SR"	# (Sniper Rifle)
-2527064974 = "Railgun"           #"RG"	# (Railgun / Ficaria "Canhão Elétrico", mas eu acho que Railgun é mais melhor.)
-2419988386 = "Metralhadora"      #"MG"	# (Machine Gun)
-4165498315 = "Morteiro"          #"MT"	# (Mortar)
-1802266480 = "Lança-Chamas"      #"FT"	# (Flamethrower)
+1767061585 = "Escopeta"#"SG"
+2469520897 = "Submetralhadora"#"SMG"
+3583131707 = "Fuzil de Assalto"#"AR"
+1213006763 = "Lança-Granadas"#"GL"
+475125119 = "Pistola"#"HG"
+2102685026 = "Lança-Foguetes"#"RL"
+1385145596 = "Fuzil de Precisão"#"SR"
+2527064974 = "Railgun"#"RG"
+2419988386 = "Metralhadora"#"MG"
+4165498315 = "Morteiro"#"MT"
+1802266480 = "Lança-Chamas"#"FT"
 
 #[ === ]
 2803141936 = "Escola"
