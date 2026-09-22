@@ -1,0 +1,589 @@
+#[!][Build: "1"]
+#[!][Data: "21/09"]
+[translation]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#[=]
+
+#[*][Volume: Prólogo]
+#[+][Sinopse do Volume]
+1261830304 = "Prólogo"
+915300014 = "O registro de uma anomalia repentina, que mudou tudo daquele dia em diante."
+
+#[+][Sinopse dos Capítulos]
+496060893 = "Prólogo"
+232608798 = "O registro de uma anomalia repentina, que mudou tudo daquele dia em diante."
+
+#[+][Lista de Episódios]
+3809714008 = "Nascimento"#[?][Episódio: 01]
+1892051551 = "A Carta da Presidente"#[?][Episódio: 02]
+692960857 = "Sonho Estranho"#[?][Episódio: 03]
+1192887958 = "O Trapezoedro Reluzente"#[?][Episódio: 04]
+
+#[+][Resumos dos Episódios]
+1243927570 = "Nascimento"#[?][Episódio: 01]
+1589381619 = "De olho na teletela de um bar decadente, Decalcomanie tem uma epifania durante uma conversa inusitada."
+
+3168557994 = "A Carta da Presidente"#[?][Episódio: 02]
+4191685078 = "Com a ajuda das diretoras, Rin se desdobra para dar conta das obrigações como Presidente Interina do Conselho Estudantil Federal. Enquanto lembrava da antiga Presidente, ela se recorda de uma certa carta. Dentro do envelope, havia fotos do dia a dia do Conselho. Porém, uma única foto em preto e branco trazia um cenário que nem a própria Rin jamais tinha visto."
+
+3623875494 = "Sonho Estranho"#[?][Episódio: 03]
+1715689698 = "Quando o Sensei acorda na Schale, a anomalia já estava acontecendo. Nem sinal de nenhuma aluna, e Kivotos inteira havia perdido as cores, mergulhada num preto e branco sombrio. Ao chegar ao gabinete da Presidente do Conselho, o Sensei dá de cara com uma garota de aura misteriosa. Mas antes que pudesse descobrir quem ela era, um bipe eletrônico o traz de volta à realidade, dando início a mais um novo dia."
+
+1888812381 = "O Trapezoedro Reluzente"#[?][Episódio: 04]
+4098329356 = "Durante uma missão em alto-mar, as garotas encontram um fragmento de vidro que emite um brilho pra lá de estranho."
+
+#[+][Arquivos]
+#[-][Prólogo: 200001.toml, 200002.toml, 200003.toml, 200004.toml]
+
+#[=]
+
+#[*][Volume 0]
+#[+][Sinopse do Volume]
+1685330631 = "Vol.0 Conselho Estudantil Federal"
+3839113926 = "Como Administradora-Chefe do Conselho Estudantil Federal, Rin continua atolada de serviço até o pescoço. Será que essa folga forçada que empurraram pra ela vai render pelo menos um dia de paz......?"
+
+#[+][Sinopse dos Capítulos]
+3915905801 = "Num Dia de Primavera Onde Florescem as Amendoeiras"
+789937573 = "Num dia de primavera florido de amendoeiras, alguém inesperado finalmente voltou. Mas numa forma que você jamais poderia imaginar."
+
+#[+][Lista de Episódios]
+#[-][Capítulo 1]
+2074656184 = "A Folga da Administradora-Chefe (1)"#[?][Episódio: 01]
+3552785127 = "A Folga da Administradora-Chefe (2)"#[?][Episódio: 02]
+144706697 = "O Gambito da Rainha"#[?][Episódio: 03]
+2624215308 = "Nostalgia Azul-Celeste"#[?][Episódio: 04]
+2564673674 = "Falha na Memória"#[?][Episódio: 05]
+2226164897 = "O Retorno da Prodígio"#[?][Episódio: 06]
+4209983864 = "Emparelhamento"#[?][Episódio: 07]
+3269849515 = "Ilusões e Deduções"#[?][Episódio: 08]
+1781918214 = "Boa Noite, Sr. Orwell"#[?][Episódio: 09]
+1810326558 = "Baile de Máscaras"#[?][Episódio: 10]
+
+#[+][Resumos dos Episódios]
+#[-][Capitulo 1]
+4128684242 = "A Folga da Administradora-Chefe (1)"#[?][Episódio: 01]
+3255574769 = "As diretoras do Conselho Estudantil Federal armam um complô para forçar Rin a descansar do trabalho acumulado. Apesar de Rin bater o pé dizendo que não tem tempo a perder, Aoi e as outras já tinham cuidado de tudo antes. Sem saída, Rin aceita tirar uma folga relâmpago, e o Sensei é escalado como o fiscal oficial do descanso dela."
+
+274943668 = "A Folga da Administradora-Chefe (2)"#[?][Episódio: 02]
+1711221830 = "O Sensei leva Rin para passear por D.U. e curtir o dia de folga. Só que Rin não consegue se desligar do serviço e puxa assunto sobre o Conselho a todo momento. Numa tentativa desesperada de mudar de assunto, o Sensei a leva para um fliperama. Rin diz que nunca jogou na vida, mas pega o jeito num piscar de olhos e dá uma surra no Sensei. A jogatina faz Rin se lembrar de uma velha conhecida que não vê há tempos."
+
+182317656 = "O Gambito da Rainha"#[?][Episódio: 03]
+1354224060 = "Rin e o Sensei vão até o Centro Correcional para visitar a detenta Kaya. Encontrando-a com a mesma pose de sempre, Rin a desafia para uma partida de xadrez. Enquanto jogam, elas relembram o golpe de estado, e Kaya conta sobre o \"Cajado de Amendoeira\" que afanou da Schale na época. Para Kaya, aquilo não passava de um smartwatch inútil, mas os registros da antiga Presidente diziam que o aparelho tinha o poder de enxergar a verdade."
+
+1861570067 = "Nostalgia Azul-Celeste"#[?][Episódio: 04]
+2238102298 = "Após a visita a Kaya, Rin volta ao Conselho e encontra o \"Cajado de Amendoeira\" guardado no depósito. Dentro de um relicário, parecia só um smartwatch qualquer, mas assim que Rin o toca, um pequeno milagre acontece. Ao recobrar a consciência com alguém chamando seu nome, ela dá de cara com uma garota loira afirmando ser a Presidente do Conselho Estudantil Federal."
+
+1121617851 = "Falha na Memória"#[?][Episódio: 05]
+3900724871 = "Ao acordar, Rin se depara com uma garota desconhecida afirmando com todas as letras ser a Presidente do Conselho. Rin acha que é pegadinha, mas fica boquiaberta ao ver que todas as diretoras estão tratando a garota como a verdadeira líder. Com a memória da verdadeira Presidente apagada do mundo todo, Rin corre para pedir socorro ao Sensei. Por sorte, o Sensei é o único que também percebe que aquela garota é uma impostora."
+
+3528020198 = "O Retorno da Prodígio"#[?][Episódio: 06]
+3251654458 = "A suposta Presidente e o Sensei admitem que não se conhecem. Rin tenta questionar onde ela esteve durante todo o sumiço, mas a garota desconversa dizendo que suas memórias estão confusas. O impasse continua e o Sensei decide observar a situação. Em pouco tempo, a falsa Presidente demonstra uma competência assustadora, resolvendo as crises de Kivotos uma atrás da outra. Um clima de alívio e comemoração pelo retorno da líder começa a tomar conta de todos."
+
+4150457986 = "Emparelhamento"#[?][Episódio: 07]
+3940272632 = "Ao sair do prédio do Conselho, o Sensei é abordado por Plana, que garante que a garota é uma farsa, já que sequer conseguia ver Arona e Plana. Buscando uma saída para a crise, Arona e Plana tentam emparelhar a Arca de Shittim com o \"Cajado de Amendoeira\", liberando novas funções no sistema. Nesse momento, Plana detecta que estão sendo seguidos. Ao olhar para trás, o Sensei vê que Rin vinha logo atrás deles."
+
+562672561 = "Ilusões e Deduções"#[?][Episódio: 08]
+1001704649 = "Rin e o Sensei saem pelas ruas atrás de alguém que ainda se lembre da verdadeira Presidente do Conselho. Eles interrogam várias pessoas, mas ninguém tem a menor lembrança dela. Quando a esperança parecia perdida, um encontro por acaso com Mai traz uma pista de ouro."
+
+4291342361 = "Boa Noite, Sr. Orwell"#[?][Episódio: 09]
+2194592478 = "Rin e o Sensei vão até um bar decadente e encontram ninguém menos que Decalcomanie. Com uma nova cabeça pensante, ele relembra tudo o que a Gemátria tentou fazer e discursa que a \"mídia\" é o verdadeiro poder que dita o mundo na nova era. Ao final da conversa, a nova cabeça se apresenta como Orwell."
+
+68071874 = "Baile de Máscaras"#[?][Episódio: 10]
+2049815982 = "Orwell sugere que a mídia pode ser a ferramenta perfeita para resolver a anomalia que tomou conta de Kivotos. A promessa de que a mídia pode revelar quem é real ou falso deixa o Sensei com a pulga atrás da orelha, mas sem nenhuma outra pista em mãos, ele resolve dar uma chance à proposta de Orwell."
+
+#[+][Arquivos]
+#[-][Capítulo 1: 201010.toml, 201020.toml, 201030.toml, 201040.toml, 201050.toml, 201060.toml, 201070.toml, 201080.toml, 201090.toml, 201100.toml, 201110.toml]
+
+#[=]
+
+#[*][Volume 1]
+#[+][Sinopse do Volume]
+2210067228 = "Vol.1 Fogo e Sombra"
+1567989824 = "Na caótica e rebelde Academia Gehenna, os ventos da mudança começam a soprar para impor a ordem. Até onde essa transformação radical levará a escola......?"
+
+#[+][Sinopse dos Capítulos]
+2468589893 = "Façamos Gehenna Grande Novamente!"
+947752189 = "Para resgatar a disciplina e a glória dos velhos tempos no meio do caos de Gehenna, é fundado o 'Comitê de Restauração de Gehenna'. Será que o sonho dessas garotas vai dar frutos?"
+
+3320099911 = "Nós, as Chamas Que Ardem"
+3334258236 = "As sombras de uma era esquecida voltam a cobrir a Academia Gehenna. Conseguirão as alunas mais novas resgatar suas queridas veteranas?"
+
+#[+][Lista de Episódios]
+#[-][Capítulo 1]
+4248973689 = "Mais um Dia de Paz em Gehenna"#[?][Episódio: 01]
+2684638379 = "O Comitê de Restauração de Gehenna"#[?][Episódio: 02]
+2334942539 = "Gehenna Grande de Novo!"#[?][Episódio: 03]
+3801283074 = "Gehenna Grande de Novo......!"#[?][Episódio: 04]
+3136647954 = "Gehenna Grande de Novo......?"#[?][Episódio: 05]
+1811791147 = "Negociações"#[?][Episódio: 06]
+342540058 = "Karen"#[?][Episódio: 07]
+3273820881 = "Área do Gatilho Livre"#[?][Episódio: 08]
+2675938375 = "Oportunidade de Ouro"#[?][Episódio: 09]
+4185024569 = "Negociações......?"#[?][Episódio: 10]
+4240227451 = "Uma Paz Estranha"#[?][Episódio: 11]
+3098489614 = "Resolvendo Pepinos"#[?][Episódio: 12]
+2722278036 = "A Árvore no Meio da Floresta"#[?][Episódio: 13]
+354226343 = "Sombras de Chamas Trêmulas"#[?][Episódio: 14]
+583138715 = "Mayumi"#[?][Episódio: 15]
+338666292 = "O Inevitável Acontece"#[?][Episódio: 16]
+1087631893 = "Herança do Passado"#[?][Episódio: 17]
+
+#[-][Capítulo 2]
+1945353774 = "Tarde Demais"#[?][Episódio: 01]
+2373765905 = "Chinatsu"#[?][Episódio: 02]
+2772698400 = "A Reação do Comitê de Restauração"#[?][Episódio: 03]
+518304485 = "Gehenna Unida"#[?][Episódio: 04]
+1428248288 = "Tô Fora!"#[?][Episódio: 05]
+3732873965 = "O Departamento de Fontes Termais"#[?][Episódio: 06]
+556605054 = "Não Entendi Nada"#[?][Episódio: 07]
+3096818650 = "Chiaki"#[?][Episódio: 08]
+3105383593 = "Satsuki"#[?][Episódio: 09]
+1435657571 = "Nasce a Resistência"#[?][Episódio: 10]
+2357572882 = "Quero Ficar ao Seu Lado"#[?][Episódio: 11]
+3514041182 = "Você Vai Torcer Por Mim, Sensei?"#[?][Episódio: 12]
+1917907231 = "Cativeiro"#[?][Episódio: 13]
+3270216889 = "As Rebeldes"#[?][Episódio: 14]
+560180335 = "Montando o Plano"#[?][Episódio: 15]
+3411047796 = "Operação Resgate de Gehenna (1)"#[?][Episódio: 16]
+1254231397 = "Operação Resgate de Gehenna (2)"#[?][Episódio: 17]
+2724019153 = "Nós, as Chamas Que Ardem"#[?][Episódio: 18]
+1705031162 = "O Que Foi Deixado Para Trás"#[?][Episódio: 19]
+4190166336 = "O Que Restou"#[?][Episódio: 20]
+2960710592 = "Chamas Eternas"#[?][Episódio: 21]
+
+#[+][Resumos dos Episódios]
+#[-][Capítulo 1]
+3765673841 = "Mais um Dia de Paz em Gehenna"#[?][Episódio: 01]
+314611152 = "Enquanto o Comitê de Disciplina tentava enquadrar baderneiras como sempre faz, Makoto passa por ali e resolve meter o bedelho, também como sempre faz. O clima esquenta entre a Sociedade Pandemônio e a Disciplina em plena rua, até que um trio misterioso aparece e se enfia no meio da confusão."
+
+2404467793 = "O Comitê de Restauração de Gehenna"#[?][Episódio: 02]
+280731846 = "O trio se apresenta como o Comitê de Restauração de Gehenna. A líder Mayumi não engole desaforo e solta o verbo na cara de Makoto: \"A Gehenna de hoje não tem nada de grandiosa!\". Depois de ouvir os dois lados, Mayumi promete unir Gehenna com as próprias mãos para fazer a escola voltar aos seus dias de glória."
+
+1622727060 = "Gehenna Grande de Novo!"#[?][Episódio: 03]
+3973550309 = "O Comitê de Restauração começa a trabalhar de formiguinha, direto na base. Mas as coisas não andam nada fáceis, e elas logo descobrem que tirar os ideais do papel é pedreira pura. Shoko, o cérebro do grupo, sugere que precisam de um \"símbolo\" de respeito para dar autoridade à causa... e ela já tem um alvo perfeito em mente."
+
+1641190660 = "Gehenna Grande de Novo......!"#[?][Episódio: 04]
+2210742662 = "Ao entrarem em contato com o Sensei, as meninas do Comitê de Restauração abrem o coração com paixão sobre o que sentem por Gehenna. Elas querem resgatar a era de ouro da escola, quando todos seguiam as regras e reinava a disciplina. Tocado pela sinceridade delas, o Sensei promete dar uma força, e Mayumi já parte para a ação."
+
+4254754102 = "Gehenna Grande de Novo......?"#[?][Episódio: 05]
+2990294971 = "Enquanto Shoko explica os pormenores do plano, Mayumi discursa sobre a sua visão de uma Gehenna grandiosa. O primeiro passo é abrir a Área do Gatilho Livre: um espaço onde a galera pode atirar e causar à vontade sem ser perseguida pela Disciplina. O único detalhe é que abriram o lugar na surdina, sem autorização nenhuma, e agora vão ter que correr atrás do aval da Sociedade Pandemônio."
+
+3499418034 = "Negociações"#[?][Episódio: 06]
+3711191844 = "O Comitê de Restauração bate ponto na Sociedade Pandemônio para tentar legalizar a atividade. Com a lábia afiada de Shoko e uma mãozinha camarada do Sensei, elas conseguem dobrar Makoto. Logo em seguida, vão até Hina na Disciplina para explicar o projeto e garantir que ninguém interfira. Assim, conseguem a bênção dos dois lados mais poderosos de Gehenna."
+
+585418668 = "Karen"#[?][Episódio: 07]
+3523112257 = "Fora dos limites de Gehenna, Karen salva uma colega de escola que estava sendo coagida por arruaceiras. Ao notar que o Sensei estava por perto por pura coincidência, Karen se oferece para ser a guarda-costas dele. Depois de ajudá-lo a cumprir os afazeres em segurança, Karen desabafa com o Sensei na hora do adeus sobre os reais motivos que a fizeram entrar no Comitê de Restauração."
+
+4058431972 = "Área do Gatilho Livre"#[?][Episódio: 08]
+705014674 = "As alunas de Gehenna começam a respeitar regras por vontade própria, como fazer fila e esperar a ordem de chegada. Através de limites de tempo e um sistema de pontos de fidelidade, a ideia do Comitê de introduzir a ordem aos poucos começa a dar resultados reais. Vendo o empenho das garotas, o Sensei decide apoiá-las com tudo o que tem."
+
+3161366694 = "Oportunidade de Ouro"#[?][Episódio: 09]
+3695701956 = "Para deixar o sistema de pontos mais atraente, o grupo sai em busca de restaurantes parceiros onde as alunas possam trocar seus pontos. Só que na hora de provar a comida do local pretendido, o rango não era lá essas coisas. O Clube de Pesquisa Gastronômica surge por acaso e concorda: a comida é medíocre. Mesmo com Mayumi tentando acalmar os ânimos, Haruna não perdoa e explode o restaurante. Diante dos escombros, Shoko fica pensativa."
+
+3898526130 = "Negociações......?"#[?][Episódio: 10]
+4124917679 = "Shoko alerta que o Clube de Pesquisa Gastronômica e o Departamento de Fontes Termais são bombas-relógio que atrapalham os planos de uma Gehenna grandiosa. Para controlar as Fontes Termais, Shoko dribla Kasumi e tenta negociar direto com Megu, mas acaba irritando Kasumi profundamente. O fogo é contornado por enquanto, mas o Sensei sente uma pontinha de estranheza no método de Shoko."
+
+1319276458 = "Uma Paz Estranha"#[?][Episódio: 11]
+200177053 = "Com as ações do Comitê de Restauração, Gehenna estava estranhamente silenciosa. Makoto fica com a pulga atrás da orelha ao ver outro grupo ganhando tanta influência. Enquanto isso, o Comitê de Disciplina aproveita uma calmaria que não via há séculos. Nesse clima tranquilo, Iori se pega relembrando de uma conversa antiga com Karen sobre um futuro em que a Disciplina não precisaria mais existir."
+
+1217784543 = "Resolvendo Pepinos"#[?][Episódio: 12]
+4186691531 = "Percebendo que as alunas de Gehenna não têm a quem recorrer quando precisam desabafar, Mayumi decide que o Comitê vai virar um disque-ajuda escolar. Ao investigar o primeiro caso — uma lenda urbana sobre um suposto fantasma na escola —, o grupo vai parar na sala da rádio escolar. A porta está trancada a sete chaves, mas o Sensei se recorda de boatos bem curiosos envolvendo aquele lugar."
+
+35149090 = "A Árvore no Meio da Floresta"#[?][Episódio: 13]
+3348675679 = "O Comitê de Restauração procura Kirara e Erika para saber sobre uma gafe que cometeram na transmissão da rádio no passado. As pistas deixam Shoko pensativa, como se tivesse ligado os pontos de um quebra-cabeça. Chegando à conclusão de que precisam entrar na sala da rádio a todo custo, o grupo ruma até a Sociedade Pandemônio para tentar uma autorização oficial."
+
+38381485 = "Sombras de Chamas Trêmulas"#[?][Episódio: 14]
+3174880895 = "Usando o histórico de sucessos do Comitê como moeda de troca, o grupo consegue arrancar de Makoto a autorização para operar a rádio escolar. Livres para investigar por dentro, elas descobrem que o suposto fantasma era apenas um cabo velho com mau contato. Mayumi e Karen saem empolgadas para avisar quem pediu ajuda, mas Shoko fica para trás, encarando os transmissores em silêncio absoluto."
+
+3170845441 = "Mayumi"#[?][Episódio: 15]
+2615319093 = "Mayumi limpa a Área do Gatilho Livre sozinha. Enquanto recebe uma ajuda do Sensei, ela fala com brilho nos olhos sobre seu amor por Gehenna e o futuro que sonha construir. Pelas costas de todas, Shoko vai até a Sociedade Pandemônio sozinha: avisa que toda a rede de transmissão foi modernizada e sugere a Makoto que faça um pronunciamento surpresa histórico."
+
+3130877927 = "O Inevitável Acontece"#[?][Episódio: 16]
+1152577695 = "No exato instante em que Makoto se prepara para discursar, o sinal pifa e uma voz misteriosa começa a ecoar pelos alto-falantes. O áudio volta e todos respiram aliviados, mas a surpresa dura pouco: do nada, Makoto declara guerra total a Kivotos inteira. Hina sobe correndo ao palco e todos acham que ela vai conter o absurdo, mas ela concorda com Makoto e aperta a mão da rival, instaurando o caos absoluto em Gehenna."
+
+2561484869 = "Herança do Passado"#[?][Episódio: 17]
+2431496816 = "Ao percorrer os clubes de Gehenna para entender a loucura, o Sensei repara que a anomalia afetou apenas as alunas do 3º ano — incluindo Makoto, Hina, Ako e Sena. Enquanto debate uma saída com Iroha, Iori e as alunas do 2º ano ilesas, Satsuki (que é do 3º ano) chega de repente. O clima pesa, mas Satsuki não foi afetada: ela revela que todo aquele surto coletivo foi causado por uma lavagem cerebral do 'Verdadeiro Projeto NK-Ultra'."
+
+#[-][Capítulo 2]
+4211088235 = "Tarde Demais"#[?][Episódio: 01]
+2745023164 = "Como a única veterana do 3º ano a escapar da anomalia, Satsuki, diretora de inteligência da Sociedade Pandemônio, revela a verdadeira face do terrível Projeto NK-Ultra do antigo Imperador do Trovão. Como a declaração de guerra ainda não vazou para fora de Gehenna, todos concordam em neutralizar a crise internamente. Deixando as picuinhas de lado, clubes rivais se unem numa corrida desesperada contra o tempo."
+
+3589255139 = "Chinatsu"#[?][Episódio: 02]
+3107677907 = "Chinatsu vai ao Clube de Resgate Médico e encontra Sena totalmente fora de si. Embora o corpo seja o de Sena, ela defende com convicção cega o ataque massivo de Gehenna contra Kivotos. Em prantos, Chinatsu jura para si mesma que vai trazer sua veterana de volta à razão custe o que custar."
+
+792108159 = "A Reação do Comitê de Restauração"#[?][Episódio: 03]
+3808986636 = "Diante da loucura que tomou Gehenna, Mayumi e Karen entram em parafuso. Mas Shoko celebra o caos como a chegada da 'Gehenna Grandiosa'. Convocada pelas veteranas da Sociedade Pandemônio, Shoko ruma direto para a sala de comando de guerra da escola."
+
+659494854 = "Gehenna Unida"#[?][Episódio: 04]
+373240233 = "Sociedade Pandemônio e Comitê de Disciplina marcham de mãos dadas preparando a invasão. Os recursos do distrito são confiscados e a lavagem cerebral começa a contaminar até as alunas do 2º ano. Vendo o horror se alastrar, Mayumi e Karen perdem totalmente o chão."
+
+2329517258 = "Tô Fora!"#[?][Episódio: 05]
+3212628286 = "Mayumi e Karen tentam fazer Makoto voltar a si, mas encontram uma parede de ferro. Vendo a insanidade da líder, Iroha declara com todas as letras que está abandonando a Sociedade Pandemônio. Shoko exige que Iroha seja punida severamente por traição, mas Makoto recusa. Fingindo obedecer, Shoko abre um sorriso sinistro pelas costas de todos."
+
+1351431619 = "O Departamento de Fontes Termais"#[?][Episódio: 06]
+657902876 = "O Departamento de Fontes Termais recebe uma ordem arbitrária e autoritária da Sociedade Pandemônio. Kasumi tenta mandar pastar de imediato, mas Megu, tomada por uma empolgação bizarra, aceita a missão. Desconfiada do comportamento esquisito de Megu, Kasumi desabafa com o Sensei. Ao descobrir a verdade sobre a lavagem cerebral, Kasumi fecha com a resistência com força total."
+
+2183499872 = "Não Entendi Nada"#[?][Episódio: 07]
+2637879427 = "Mayumi e Karen entram em crise de culpa, achando que o trabalho do Comitê causou todo aquele desastre. O Sensei as consola, dizendo que a dor que sentem é a prova viva de que a dedicação delas nunca foi em vão. Revigoradas pelas palavras do Sensei, as duas enxugam as lágrimas e juram lutar pela verdadeira grandeza de Gehenna."
+
+276320167 = "Chiaki"#[?][Episódio: 08]
+2813606694 = "Arrasada ao ver a Sociedade Pandemônio desmoronar na loucura, a repórter Chiaki esbarra com Shoko e tenta puxar assunto. Em meio a um debate truncado, o faro jornalístico de Chiaki apita no volume máximo: tem muita coisa podre por trás da pose calma de Shoko."
+
+3573775966 = "Satsuki"#[?][Episódio: 09]
+1320054402 = "Satsuki leva o Sensei até a câmara secreta do departamento de inteligência. Enquanto vasculha uma cura para o transe, ela relembra a época sombria do Imperador do Trovão. Jurando que havia destruído todo aquele entulho bélico junto com Makoto no passado, Satsuki se lembra de remanescentes daquela era e finalmente encontra uma ponta de esperança."
+
+2574305810 = "Nasce a Resistência"#[?][Episódio: 10]
+1052683941 = "As alunas mais novas de cada clube de Gehenna formam a Resistência. O impasse sobre como quebrar a lavagem cerebral parecia insolúvel, até Satsuki chegar com a salvação: se transmitirem uma frequência interferente que neutralize a onda de lavagem cerebral, o transe se quebrará. Para achar a frequência certa, elas precisam invadir a sala da rádio."
+
+2108264872 = "Quero Ficar ao Seu Lado"#[?][Episódio: 11]
+694612940 = "Nos corredores vazios de uma Sociedade Pandemônio em frangalhos, Ibuki suporta a solidão. Iroha volta para buscá-la e pede que venha com ela, mas Ibuki decide ficar ao lado de Makoto. Mesmo dopada pelo transe e correndo com os preparativos de guerra, a pureza das palavras de Ibuki faz a mente adormecida de Makoto estremecer."
+
+3728999235 = "Você Vai Torcer Por Mim, Sensei?"#[?][Episódio: 12]
+3966608263 = "A Resistência tenta se infiltrar na rádio escolar, mas dá de cara com uma segurança impenetrável. Como se já esperasse o bote, Shoko surge escoltada por Hina e dá um ultimato. Na saída, Hina aborda o Sensei e, sob o pretexto de 'protegê-lo', o tranca numa cela."
+
+2512307957 = "Cativeiro"#[?][Episódio: 13]
+942929582 = "Trancafiado sob a desculpa de 'proteção', o Sensei recebe a visita de Makoto, mas os dois não chegam a acordo nenhum. Em seguida, Shoko vai até a cela para tentar dobrá-lo, mas é ela quem acaba desestabilizada pela franqueza desconcertante do Sensei."
+
+970775719 = "As Rebeldes"#[?][Episódio: 14]
+3347031609 = "Encarregado de cozinhar rações de guerra para a tropa toda e vigiado de perto por Haruna e Akari, o Clube de Alimentação faz corpo mole de propósito para atrasar o cronograma. A tática dá certo e sabota a logística das tropas. Preocupada com o atraso generalizado, Makoto resolve ativar a arma estratégica do Imperador do Trovão, e a crise entra em ponto de ebulição."
+
+615477350 = "Montando o Plano"#[?][Episódio: 15]
+2403023457 = "Diante do bloqueio eletrônico remoto na rádio escolar, Kirara e Erika se apresentam para ajudar. Elas estavam nos preparativos finais quando Chiaki chega com a notícia apavorante: a arma do Imperador do Trovão está prestes a ser ressuscitada. A operação tem que começar imediatamente!"
+
+3540415323 = "Operação Resgate de Gehenna (1)"#[?][Episódio: 16]
+1438541752 = "Invadir a rádio e transmitir a frequência interferente para toda a escola: com esse objetivo final, começa a batalha pelo destino de Gehenna. O Departamento de Fontes Termais abre túneis no subsolo para resgatar o Sensei, enquanto Iori e Chinatsu atacam a entrada principal do prédio como isca para atrair o grosso das forças inimigas."
+
+3781429285 = "Operação Resgate de Gehenna (2)"#[?][Episódio: 17]
+196335811 = "A caminho do prédio central, Iori e Chinatsu dão de cara com Hina e Makoto. Mesmo cercadas e sob fogo cerrado, as duas gritam pelo coração de suas veteranas, arriscando a própria vida. O cerco se aperta, mas elas aguentam firme até o Sensei, Mayumi e Karen chegarem para virar o jogo. Quando o contra-ataque estava pronto, Shoko dá as caras."
+
+3226876046 = "Nós, as Chamas Que Ardem"#[?][Episódio: 18]
+3737355680 = "Certa da vitória, Shoko revela sua lealdade fanática ao antigo Imperador do Trovão. Mas a frequência interferente descoberta por Satsuki ecoa pelos autofalantes de Gehenna, abalando a lavagem cerebral. Quando parecia que o pesadelo ia acabar, um mecanismo de autodestruição mental é acionado, ameaçando colapsar a mente das alunas do 3º ano. No desespero das mais novas, o choro angustiado de Iroha faz Makoto finalmente despertar, quebrando as correntes do passado."
+
+2627851490 = "O Que Foi Deixado Para Trás"#[?][Episódio: 19]
+4261624041 = "Diante de toda a escola, Hina tenta se desculpar, mas Makoto assume o microfone e puxa toda a culpa para os próprios ombros. Vendo a escola unida e inspirada pelo discurso desengonçado porém sincero de Makoto, Mayumi e Karen decidem recomeçar sua jornada. Hina volta para a Disciplina e Makoto para a Pandemonium, acertando as contas com suas protegidas. E o Sensei deixa uma lição de casa especial para Makoto: continuar sendo simplesmente a Makoto."
+
+2393383984 = "O Que Restou"#[?][Episódio: 20]
+151641469 = "Livres do transe, as veteranas vivem momentos emocionantes de reconciliação com as alunas mais novas. Enquanto isso, nos bastidores, Kasumi pressente que toda a trama guarda a sombra sinistra de uma antiga organização à qual pertenceu no passado: o 'Bodensatz'."
+
+2010497725 = "Chamas Eternas"#[?][Episódio: 21]
+4159819389 = "Confrontada com o lado sombrio de sua própria mente exposto pelo transe, Hina é consumida pelo remorso. Com carinho e paciência, o Sensei a acolhe e a ajuda a ficar de pé novamente. Parecia um final feliz... mas na prisão, Shoko sussurra para o Sensei a existência de um mentor nas sombras, enquanto Makoto e Hina conversam em silêncio sobre os verdadeiros vestígios deixados pelo Imperador do Trovão."
+
+#[+][Arquivos]
+#[-][Capítulo 1: 211010.toml, 211020.toml, 211030.toml, 211040.toml, 211050.toml, 211060.toml, 211070.toml, 211080.toml, 211090.toml, 211100.toml, 211110.toml, 211120.toml, 211130.toml, 211140.toml, 211150.toml, 211160.toml, 211170.toml.]
+#[-][Capítulo 2: 212010.toml, 212020.toml, 212030.toml, 212040.toml, 212050.toml, 212060.toml, 212070.toml, 212080.toml, 212090.toml, 212100.toml, 212110.toml, 212120.toml, 212130.toml, 212140.toml, 212150.toml, 212160.toml, 212162.toml, 212170.toml, 212180.toml, 212190.toml, 212200.toml, 212210.toml.]
+
+#[=]
+
+#[*][Volume 2]
+#[+][Sinopse do Volume]
+1231709678 = "Vol. 2 Odisseia"
+2261800104 = "A frota do Colégio Marítimo Odisseia atracou de volta no D.U.! Qual será a mensagem que as alunas da Odisseia trouxeram do alto-mar?"
+
+#[+][Sinopse dos Capítulos]
+849701426 = "O Horizonte Refletido nos Olhos"
+3810323872 = "O gato marinheiro Sammy passou longos anos navegando ao lado das garotas da Odisseia. Porém, quando sua saúde começa a definhar, um dilema baseado em antigos tabus dos mares divide a tripulação ao meio."
+
+#[+][Lista de Episódios]
+#[-][Capítulo 1]
+4021215574 = "S.O.S."#[?][Episódio: 01]
+4041311388 = "O Retorno do Olympos"#[?][Episódio: 02]
+3495906358 = "Os Tabus do Mar"#[?][Episódio: 03]
+1132489376 = "Uniforme Branco e Curry"#[?][Episódio: 04]
+3410173576 = "Sammy, o Velho Gato Marinheiro"#[?][Episódio: 05]
+3032649239 = "A Curiosidade Matou o Gato..."#[?][Episódio: 06]
+1213356270 = "Uma Espera Inquieta"#[?][Episódio: 07]
+3577098988 = "A Terceira Opção"#[?][Episódio: 08]
+3536776666 = "Divisão de Papéis"#[?][Episódio: 09]
+2808912573 = "Pega-Pega a Bordo"#[?][Episódio: 10]
+775409747 = "Mudança de Ideia"#[?][Episódio: 11]
+138857678 = "Erguer os Remos"#[?][Episódio: 12]
+248297310 = "A Última Viagem"#[?][Episódio: 13]
+1265553395 = "O Peso de um Lugar Vazio"#[?][Episódio: 14]
+
+#[+][Resumos dos Episódios]
+#[-][Capítulo 1]
+3001593746 = "S.O.S."#[?][Episódio: 01]
+746532052 = "Enquanto caçava conchas e pequenos tesouros na praia com Arona e Plana, o Sensei encontra uma bola feita de corda trançada com as letras 'S.O.S.' gravadas nela. Acreditando se tratar de um pedido real de socorro, Sensei procura a Presidente do Conselho Estudantil Federal. Ela logo deduz que o objeto veio à deriva do Colégio Marítimo Odisseia e ordena o retorno imediato da frota, que estava navegando em alto-mar."
+
+246641988 = "O Retorno do Olympos"#[?][Episódio: 02]
+1574683535 = "Ao saberem da volta da Odisseia, multidões se aglomeram no cais. O Sensei e a Presidente do Conselho Estudantil Federal são recebidos por Sumika e pelas alunas da Odisseia, subindo a bordo da nau capitânia, o lendário Olympos. Em meio a uma recepção calorosa e cheia de formalidades navais, eles finalmente conhecem a líder do conselho estudantil 'Island' — a Capitã Kairo Minato."
+
+2840471655 = "Os Tabus do Mar"#[?][Episódio: 03]
+4107757722 = "Guiado por Minato, o Sensei faz um tour pelos diversos clubes a bordo do Olympos. Por onde passa, percebe que as garotas da Odisseia levam os lendários 'tabus de marinheiro' a sério até demais, cheias de crendices e superstições. Após o passeio, Sensei e a Presidente do Conselho Estudantil Federal são convidados para um banquete antes do início oficial da reunião."
+
+902993283 = "Uniforme Branco e Curry"#[?][Episódio: 04]
+206447646 = "Seguindo a sagrada tradição marítima da Odisseia, Sensei e a Presidente do Conselho Estudantil Federal são servidos com o clássico curry de bordo. Durante a conversa pós-refeição, Minato explica por que as alunas respeitam os tabus com tanto fervor. Em seguida, ao ser questionada sobre a bola com 'S.O.S.', Minato revela a verdade: aquilo não passava de um brinquedo do gato Sammy."
+
+1453439230 = "Sammy, o Velho Gato Marinheiro"#[?][Episódio: 05]
+4054456941 = "Aliviado ao saber que o pedido de socorro foi apenas um mal-entendido, o Sensei escuta de Minato que a frota já pretendia voltar ao D.U. de qualquer jeito. A capitã confessa que a saúde de Sammy piorou drasticamente e que a tripulação está rachada por causa dos tabus marítimos sobre desembarcar ou não o felino. A Presidente do Conselho Estudantil Federal concede um prazo de uma semana para buscarem uma solução definitiva."
+
+989252645 = "A Curiosidade Matou o Gato..."#[?][Episódio: 06]
+3030870987 = "Apesar do prazo de uma semana, uma sequência bizarra de pequenos azares começa a acontecer por onde Sammy passa, como se os tabus navais estivessem se cumprindo à risca. Enquanto a tensão e as superstições aumentam no navio, o Sensei tenta acudir Sumika, que tropeça no convés, e acaba travando as costas no processo."
+
+83253996 = "Uma Espera Inquieta"#[?][Episódio: 07]
+2355009320 = "Carregado até a enfermaria do navio, o Sensei é atendido por Sanae, a chefe médica. Durante a consulta, Sanae opina friamente que a briga toda sobre desembarcar Sammy não passa de puro egoísmo e comodismo das alunas. Nesse momento, a Presidente do Conselho Estudantil Federal aparece e leva o Sensei com ela para uma nova conversa com a Island."
+
+1925103632 = "A Terceira Opção"#[?][Episódio: 08]
+2863133021 = "Por ter adiado uma decisão difícil, Minato se martiriza, reconhecendo a própria fraqueza como capitã. Ao ver o sofrimento da garota, a Presidente do Conselho Estudantil Federal propõe usar sua própria 'autoridade' como pretexto para ordenar o desembarque de Sammy, livrando Minato do peso da culpa. Com o coração apertado, Minato aceita a proposta."
+
+2186991648 = "Divisão de Papéis"#[?][Episódio: 09]
+3964687291 = "Assim que a ordem de desembarque de Sammy se torna pública, toda a revolta das alunas se volta contra a Presidente do Conselho Estudantil Federal. No caminho de volta, a Presidente conversa a sós com o Sensei e confessa ter assumido o papel de vilã de propósito, na esperança de fazer as garotas da Odisseia pararem de seguir regras e dogmas cegamente."
+
+2931575436 = "Pega-Pega a Bordo"#[?][Episódio: 10]
+1914181232 = "No dia marcado para o desembarque, quando faltavam apenas os trâmites finais, Sammy desaparece misteriosamente. Uma perseguição alucinada toma conta do convés, mas as alunas conspiram para esconder o bichano. Ao finalmente encurralá-lo, Minato calcula mal o pulo e despenca no mar! Com todos paralisados pelo medo do tabu da água, o primeiro a agir para salvá-la é o próprio Sammy."
+
+415566887 = "Mudança de Ideia"#[?][Episódio: 11]
+895446679 = "Tocada pela atitude heroica de Sammy, Minato decide mudar de ideia e enfrentar as consequências. A Presidente do Conselho Estudantil Federal aceita a decisão com tranquilidade. O Colégio Odisseia decide, em consenso, acompanhar Sammy a bordo até o fim dos seus dias. Porém, naquela mesma noite, o Sensei recebe um chamado urgente de Sanae: a vida de Sammy está por um fio."
+
+3695417333 = "Erguer os Remos"#[?][Episódio: 12]
+2517938056 = "Com o estado de Sammy se deteriorando rápido, as alunas se desesperam diante do terrível tabu de 'um gato morrer a bordo de um navio'. Em meio ao caos e ao pavor coletivo, Minato toma sua decisão mais corajosa como capitã: desafiar os tabus. O melhor presente de despedida para Sammy é a paisagem que ele sempre amou — o mar aberto. Pelo sistema de som, Minato convoca toda a tripulação para zarpar."
+
+1647764844 = "A Última Viagem"#[?][Episódio: 13]
+2691008338 = "Tem início a derradeira viagem de Sammy. Sob o brilho dourado do sol nascente que doura a linha do horizonte, cercado pelo carinho e pelas lágrimas das pessoas que mais o amaram, o velho gato fecha seus olhos em paz pela última vez."
+
+3094426154 = "O Peso de um Lugar Vazio"#[?][Episódio: 14]
+174712929 = "Meio mês se passa, e a poeira aos poucos baixa na Odisseia após a despedida de Sammy. O Sensei testemunha o amadurecimento gradual das alunas, que agora navegam com o próprio discernimento. Sentindo que o colégio deu um passo firme em direção ao futuro, o Sensei se despede. No caminho de volta, a Presidente do Conselho Estudantil Federal o aborda... e revela uma verdade estarrecedora."
+
+#[+][Arquivos]
+#[-][Capítulo 1: 221010.toml, 221020.toml, 221030.toml, 221040.toml, 221050.toml, 221060.toml, 221070.toml, 221080.toml, 221090.toml, 221100.toml, 221110.toml, 221120.toml, 221130.toml, 221140.toml.]
+
+#[=]
+
+#[*][Volume EX]
+#[+][Sinopse do Volume]
+3774576463 = "Ex. Caça às Lendas Urbanas"
+561204670 = "Fenômenos anômalos de origem desconhecida, conhecidos como 'Lendas Urbanas', começaram a se manifestar por todos os cantos de Kivotos. Será o Esquadrão FOX capaz de resgatar as alunas desaparecidas e restaurar o cotidiano que lhes foi roubado?"
+
+#[+][Sinopse dos Capítulos]
+2425389763 = "Miragem ao Meio-Dia"
+1157145156 = "Em dias de calor escaldante, onde o ar tremula em miragens, redobre a atenção nas ruas! Mesmo que aviste um 'espantalho branco' no meio do asfalto, jamais fique encarando."
+
+3065626693 = "O Que Espreita nos Tambores de Óleo"
+237435633 = "A lenda urbana de um caranguejo colossal capaz de devorar qualquer coisa. Se você ouvir o eco metálico de tambores de óleo rolando na escuridão da noite acompanhado pelo estalar de pinças afiadas... corra sem olhar para trás."
+
+#[+][Lista de Episódios]
+#[-][Capítulo 1]
+2479362182 = "Kunekune, a Sombra Ondulante"#[?][Episódio: 01]
+1142156609 = "Entre a Raposa e a Prodígio"#[?][Episódio: 02]
+2539227748 = "Saco Vazio Não Para em Pé"#[?][Episódio: 03]
+3119530007 = "Uma Nova Base de Operações"#[?][Episódio: 04]
+3738848167 = "Coleta de Pistas"#[?][Episódio: 05]
+2395262420 = "Entre Verdades e Mentiras"#[?][Episódio: 06]
+3633488086 = "Vulto na Rodovia Expressa"#[?][Episódio: 07]
+2193613907 = "Do Outro Lado da Miragem"#[?][Episódio: 08]
+2982681504 = "Um Fio de Esperança"#[?][Episódio: 09]
+944924438 = "Rumo às Trevas"#[?][Episódio: 10]
+3612956267 = "Inexplicável"#[?][Episódio: 11]
+
+#[-][Capítulo 2]
+481098356 = "Dívida de Sangue Não Fica Impune"#[?][Episódio: 01]
+241503984 = "Salsicha de Peixe com Sabor de Caranguejo"#[?][Episódio: 02]
+3621900012 = "Caranguejos e Tambores de Óleo"#[?][Episódio: 03]
+207879819 = "Gente do Porto (1)"#[?][Episódio: 04]
+1760115606 = "Registros Sobre Uma Anomalia"#[?][Episódio: 05]
+2709535559 = "Gente do Porto (2)"#[?][Episódio: 06]
+452121726 = "Edital de Licitação Pública"#[?][Episódio: 07]
+790356928 = "O Segredo da Família Carpaccio"#[?][Episódio: 08]
+3712751168 = "Interrogatório Padrão SRT"#[?][Episódio: 09]
+3300740849 = "Valores Imutáveis"#[?][Episódio: 10]
+3644980020 = "Epílogo"#[?][Episódio: 11]
+
+#[+][Resumos dos Episódios]
+#[-][Capítulo 1]
+3599070940 = "Kunekune, a Sombra Ondulante"#[?][Episódio: 01]
+1780733194 = "Entre os corredores das academias de Kivotos, começam a circular rumores arrepiantes sobre o misterioso 'Kunekune'."
+
+3350929154 = "Entre a Raposa e a Prodígio"#[?][Episódio: 02]
+4268210737 = "Cumprindo pena no Centro Correcional, as integrantes do Esquadrão FOX passam seus dias em silêncio. Yukino ainda se tortura pelos erros do passado. É quando a diretora da prisão a convoca para uma audiência sigilosa com a Presidente do Conselho Estudantil Federal. Após alinharem os acontecimentos do período de seu sumiço, a Presidente oferece a Yukino uma chance de redenção: investigar os fenômenos das Lendas Urbanas."
+
+1745364049 = "Saco Vazio Não Para em Pé"#[?][Episódio: 03]
+2002791633 = "Designadas para a missão, o Esquadrão FOX recebe a ordem de atuar em cooperação direta com o Sensei. Antes do início das operações, o grupo se reúne com o Sensei em uma churrascaria requintada. Desconfiadas da insistência dele em apenas enchê-las de carne boa, as garotas questionam suas reais intenções, mas aos poucos vão desarmando a guarda diante de sua franqueza acolhedora."
+
+1500063239 = "Uma Nova Base de Operações"#[?][Episódio: 04]
+3830197242 = "Como o Esquadrão FOX não pode atuar publicamente, o Sensei cede uma ala reservada no subsolo da Schale como abrigo clandestino, articulada previamente pela Presidente do Conselho Estudantil Federal. As garotas transformam o local em seu novo QG operacional e dão início aos preparativos da missão."
+
+3890647442 = "Coleta de Pistas"#[?][Episódio: 05]
+462822871 = "Infiltrando-se na cidade, o Esquadrão FOX inicia a investigação a partir dos relatos de vítimas que desmaiaram após avistarem um 'espantalho branco'. Niko se disfarça de funcionária de meio período para interrogar alunas do Clube de Atletismo de Gehenna, mas a abordagem falha. Contudo, Erika, que observava de perto, acaba fornecendo uma pista crucial."
+
+1210340112 = "Entre Verdades e Mentiras"#[?][Episódio: 06]
+2755602640 = "Com base nas informações recolhidas, o Esquadrão FOX tenta traçar uma linha de raciocínio. Porém, as evidências ainda são frágeis para uma conclusão definitiva. Cientes de que o culpado pode ser um fantasma e não uma cidadã comum, elas decidem aprofundar as buscas nas ruas."
+
+2620890405 = "Vulto na Rodovia Expressa"#[?][Episódio: 07]
+1869455062 = "Continuando as rondas por diversos distritos, as garotas se reúnem para cruzar dados, mas não encontram avanços concretos. Quando se preparavam para mais uma noite em claro, deparam-se com Natsuki puxando seu riquixá em plena rodovia expressa. Dela, ouvem a sinistra lenda urbana do 'Kunekune' que está aterrorizando o distrito de Hyakkiyako."
+
+1289441933 = "Do Outro Lado da Miragem"#[?][Episódio: 08]
+1473250037 = "Com as pistas em mãos, o Esquadrão FOX aguarda a hora mais quente do dia para a miragem se formar. Quando o fenômeno se manifesta, Otogi, que vigiava pela mira telescópica, é hipnotizada pelo Kunekune e entra em surto psicótico. Graças à reação rápida de Kurumi, Otogi recupera a lucidez, mas as balas disparadas durante o transe desapareceram sem deixar vestígios."
+
+2449096511 = "Um Fio de Esperança"#[?][Episódio: 09]
+1411259920 = "Analisando o transe de Otogi e o mistério dos projéteis evaporados, o Esquadrão FOX formula uma hipótese sólida sobre as condições de surgimento e combate do Kunekune. Equipando-se com contramedidas táticas adequadas, a unidade marcha para aniquilar a anomalia."
+
+2338801941 = "Rumo às Trevas (1)"#[?][Episódio: 10/1]
+2311301627 = "Para emboscar a criatura, o Esquadrão FOX escolhe um túnel subterrâneo abandonado, longe de civis. Como proteção contra a hipnose visual do Kunekune, todas colocam óculos de visão noturna. Quando a silhueta ondulante se materializa na escuridão, a caçada das raposas tem início."
+
+1663922802 = "Rumo às Trevas (2)"#[?][Episódio: 10/2]
+1425272534 = "Graças aos óculos de visão noturna, o Esquadrão FOX elimina o Kunekune com sucesso. No local de sua destruição, resta apenas um misterioso fragmento de vidro que emite um brilho espectral, refletindo uma campina verdejante desconhecida. Yukino confia o estilhaço ao Sensei, decidindo omitir a descoberta da Presidente. Com os estômagos roncando, as garotas comemoram a vitória com um jantar."
+
+768002174 = "Inexplicável (1)"#[?][Episódio: 11/1]
+1409392123 = "O Esquadrão FOX comparece ao gabinete do Conselho Estudantil Federal. A Presidente parabeniza Yukino pelo sucesso da missão, confirmando que os incidentes do Kunekune cessaram. Do lado de fora, as outras três integrantes encontram Erika por acaso e, desta vez não como agentes infiltradas, mas como amigas, vão juntas a um café. Mais tarde, a Presidente do Conselho Estudantil Federal se reúne com Kaya... e descobre que Kaya também é uma das poucas pessoas que se lembram de seu passado."
+
+2813820339 = "Inexplicável (2)"#[?][Episódio: 11/2]
+738638449 = "O Esquadrão FOX comparece ao gabinete do Conselho Estudantil Federal. A Presidente parabeniza Yukino pelo sucesso da missão, confirmando que os incidentes do Kunekune cessaram. Do lado de fora, as outras três integrantes encontram Erika por acaso e, desta vez não como agentes infiltradas, mas como amigas, vão juntas a um café. Mais tarde, a Presidente do Conselho Estudantil Federal se reúne com Kaya... e descobre que Kaya também é uma das poucas pessoas que se lembram de seu passado."
+
+#[-][Capítulo 2]
+173129466 = "Dívida de Sangue Não Fica Impune"#[?][Episódio: 01]
+570905695 = "Na calada da noite no Porto de Kanezaki, um devedor desesperado está prestes a ser emparedado dentro de um tambor de óleo."
+
+1101320102 = "Salsicha de Peixe com Sabor de Caranguejo"#[?][Episódio: 02]
+4141877022 = "Durante uma ceia tardia no QG, Niko, Kurumi e Otogi relembram o caso dos camarões resolvido no passado pelo Esquadrão RABBIT. Entre risos, comentam que seria cômico se surgisse um incidente parecido com caranguejos. No mesmo instante, Yukino entra na sala com uma nova missão: investigar relatos sobre caranguejos anômalos no porto."
+
+1336515377 = "Caranguejos e Tambores de Óleo"#[?][Episódio: 03]
+2780412479 = "Os boatos falam de um caranguejo colossal que devora tudo o que vê pela frente. Achando a história absurda demais para ser real, o Esquadrão FOX se mostra cético. Porém, para acalmar o pânico da população, a equipe prepara uma infiltração no porto."
+
+2563787234 = "O Pescador de Caranguejos"#[?][Episódio: 04/1]
+2808788758 = "Conversando com os trabalhadores das docas, Niko descobre que a pesca de caranguejos disparou nos últimos meses, derrubando os preços de mercado a níveis alarmantes."
+
+2971010417 = "O Sumiço da Serragem"#[?][Episódio: 04/2]
+1660918464 = "Niko ajuda um operário que perdeu sacas de serragem no cais. Ao recuperar a carga, aprende que o transporte de caranguejos vivos exige caixotes de madeira forrados com serragem fresca."
+
+1494676020 = "A Rota Gastronômica"#[?][Episódio: 04/3]
+1067607850 = "Para ajudar uma lanchonete às moscas pelo medo popular, Niko distribui panfletos promocionais com carisma. Curiosos com as promoções, os clientes voltam a lotar os estabelecimentos locais."
+
+3956832813 = "Retrospectiva: Dia 1"#[?][Episódio: 04/4]
+2500079061 = "A apuração conclui que os boatos quase não afetam a rotina comercial do porto, embora o medo psicológico ainda paire no ar. Com poucas pistas concretas, o Esquadrão FOX arquiteta a próxima fase de busca."
+
+4131045778 = "Registros Sobre Uma Anomalia"#[?][Episódio: 05]
+24103466 = "Buscando referências sobre o Perorozilla, Yukino visita a biblioteca pública. Todos os artigos pertinentes haviam sido recolhidos dos arquivos, mas com a ajuda providencial de Shimiko, ela obtém novos caminhos de pesquisa."
+
+2040570986 = "O Pescador Desaparecido"#[?][Episódio: 06/1]
+2968028731 = "Niko segue apurando sobre o sumiço misterioso de um pescador. Um veterano afirma que o rapaz fugiu da rotina brutal do mar, enquanto um jovem suspeita de dívidas impagáveis de agiotagem."
+
+714617311 = "Reconhecimento de Terreno"#[?][Episódio: 06/2]
+1438816199 = "Ao descobrir uma estação de cargas no Porto de Kanezaki, Niko interroga os maquinistas e toma ciência de trens de passageiros que operam apenas de madrugada. Sem acesso aos registros sigilosos, ela pede que Kurumi invada o sistema da Administração de Transportes."
+
+2398972522 = "Carpaccio e Chumbo Grosso"#[?][Episódio: 06/3]
+605148683 = "Niko tenta obter declarações na sede da Família Carpaccio, mas é enxotada na porta. No distrito comercial, ouve sussurros alarmantes sobre as cobranças cruéis praticadas pelos mafiosos."
+
+2108578455 = "Retrospectiva: Dia 2"#[?][Episódio: 06/4]
+1569734950 = "As evidências sugerem que o pescador endividado fugiu nos trens da madrugada. Contudo, Yukino pressente que algo não se encaixa. Com o apoio de Sensei, o Esquadrão FOX decide aprofundar as investigações."
+
+516333235 = "Edital de Licitação Pública"#[?][Episódio: 07]
+105104110 = "Tomando café da manhã em um restaurante no porto, as garotas do Esquadrão FOX descobrem pelo dono do local que a Família Carpaccio, encarregada da segurança portuária, está encurralada diante da iminente renovação de contrato."
+
+950626273 = "A Raposa e o Carregamento"#[?][Episódio: 08/1]
+2750021426 = "Na calada da noite no Porto de Kanezaki, Niko invade os galpões clandestinos da Família Carpaccio com o apoio tático de Otogi e Kurumi."
+
+1657414332 = "Varredura Clandestina"#[?][Episódio: 08/2]
+877460878 = "Revirando os armazéns, Niko descobre indícios suspeitos. Quase flagrada por capangas da máfia em patrulha, ela usa de astúcia e reflexos afiados para escapar do cerco sem ser descoberta."
+
+372206390 = "Retrospectiva: Dia 3"#[?][Episódio: 08/3]
+1463926984 = "As peças se encaixam: o sumiço dos devedores é obra de uma conspiração sórdida da Família Carpaccio. Determinadas a revelar a verdade, as agentes do Esquadrão FOX preparam um ataque direto."
+
+3430867049 = "Interrogatório Padrão SRT"#[?][Episódio: 09]
+1540130814 = "Capturando um figurão da Família Carpaccio, o Esquadrão FOX aplica as técnicas clássicas de interrogatório da SRT. O mafioso confessa que a lenda do caranguejo monstro foi forjada pelo sindicato para aterrorizar os cidadãos. Porém, um rugido ensurdecedor abala o cais: um autêntico e colossal Caranguejo de Tambor de Óleo emerge da água atacando o porto!"
+
+4070492427 = "Valores Imutáveis"#[?][Episódio: 10]
+3578537993 = "Com manobras combinadas impecáveis, o Esquadrão FOX abate a besta colossal. Nos escombros da batalha, encontram outro estilhaço de vidro idêntico ao do Kunekune. Yukino entrega a relíquia ao Sensei, mas a comemoração dura pouco: milhares de caranguejos comuns escapam das jaulas, forçando as garotas a passarem a noite inteira caçando crustáceos pelo cais!"
+
+2781401687 = "Epílogo"#[?][Episódio: 11]
+1017824045 = "Rin apresenta ao Sensei os resultados periciais: o misterioso vidro projeta visões de algum lugar desconhecido em Kivotos. No QG do Esquadrão FOX, todos celebram com um banquete farto de caranguejos frescos. Enquanto isso, na biblioteca central, a vice-presidente do comitê bibliotecário, desaparecida há tempos, ressurge misteriosamente."
+
+#[+][Arquivos]
+#[-][Capítulo 1: 90100010.toml, 90100020.toml, 90100030.toml, 90100040.toml, 90100050.toml, 90100060.toml, 90100070.toml, 90100080.toml, 90100090.toml, 90100100.toml, 90100105.toml, 90100110.toml, 90100112.toml]
+#[-][Capítulo 2: 90101010.toml, 90101020.toml, 90101030.toml, 901010400105.toml, 901010400110.toml, 901010400120.toml, 901010400130.toml, 901010400210.toml, 901010400220.toml, 901010400230.toml, 901010400310.toml, 901010400320.toml, 901010400330.toml, 901010400410.toml, 901010400420.toml, 901010400430.toml, 901010400440.toml, 901010400450.toml, 901010400460.toml, 901010400470.toml, 90101050.toml, 901010600105.toml, 901010600110.toml, 901010600120.toml, 901010600130.toml, 901010600210.toml, 901010600220.toml, 901010600310.toml, 901010600320.toml, 901010600410.toml, 901010600420.toml, 901010600430.toml, 901010600440.toml, 901010600450.toml, 901010600460.toml, 901010600470.toml, 90101070.toml, 901010800105.toml, 901010800110.toml, 901010800210.toml, 901010800220.toml, 901010800230.toml, 901010800310.toml, 901010800320.toml, 901010800330.toml, 901010800340.toml, 901010800350.toml, 901010800360.toml, 901010800370.toml, 90101090.toml, 90101095.toml, 90101100.toml, 90101110.toml]
+
+#[=]
