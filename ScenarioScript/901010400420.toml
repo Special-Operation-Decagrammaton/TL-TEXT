@@ -1,15 +1,13 @@
-#[!][Build: "1"]
-#[!][Data: "20/09"]
 [translation]
 901010400420-7 = ""
-901010400420-8 = "Ah, Sensei! Seja muito bem-vindo!"
-901010400420-9 = "O senhor também trabalhou duro hoje, né?"
-901010400420-10 = "[s1] \"Você também mandou muito bem, Niko!\"\n[s2] \"Você passou o dia no Porto de Kanezaki, não foi?\""
-901010400420-13 = "Sim! Fui lá conferir de perto o que há por trás daqueles boatos."
-901010400420-14 = "Consegui colher muitos depoimentos... Poderia nos ajudar a organizar o que descobrimos?"
-901010400420-15 = "[s3] \"Mas é claro!\"\n[s4] \"Tô curioso pra saber o que você descobriu!\""
+901010400420-8 = "あ、先生。いらっしゃいませ。"
+901010400420-9 = "今日もお疲れ様でした！"
+901010400420-10 = "[s1] \"ニコもお疲れ様！\"\n[s2] \"今日は鐘崎港に行ってきたんだよね？\""
+901010400420-13 = "はい。先日お話した噂の真相を突き止めるために。"
+901010400420-14 = "色々な話を聞いてきたので……情報の整理を手伝っていただけませんか？"
+901010400420-15 = "[s3] \"もちろん。\"\n[s4] \"どんな話を聞いたのか楽しみだね！\""
 901010400420-16 = ""
 901010400420-17 = ""
 901010400420-19 = ""
-901010400420-21 = "Pelo visto todas já retornaram."
-901010400420-22 = "Pois bem, apresentem seus relatórios individuais."
+901010400420-21 = "全員復帰したようだな。"
+901010400420-22 = "では、各自報告するように。"
